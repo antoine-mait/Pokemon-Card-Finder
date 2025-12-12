@@ -6,25 +6,28 @@ from datetime import datetime, timedelta
 from dotenv import load_dotenv
 import json
 import re
-from http.server import HTTPServer, SimpleHTTPRequestHandler
-import threading
-import socket
+import cloudinary
+import cloudinary.uploader
+from cloudinary.utils import cloudinary_url
 
 # Load environment variables
 load_dotenv()
 
 class EbayListingCreator:
-    """Create eBay listings for Pokemon cards using CardMarket data and images"""
+    """Create eBay listings for Pokemon cards using CardMarket data and Cloudinary for images"""
     
-    def __init__(self, production_mode=False, use_imgur=False):
+    def __init__(self, production_mode=False):
         self.app_id = os.getenv('EBAY_APP_ID')
         self.dev_id = os.getenv('EBAY_DEV_ID')
         self.cert_id = os.getenv('EBAY_CERT_ID')
         self.user_token = os.getenv('EBAY_USER_TOKEN')
-        self.imgur_client_id = os.getenv('IMGUR_CLIENT_ID')  # Optional
+        
+        # Cloudinary configuration
+        self.cloudinary_cloud_name = os.getenv('CLOUDINARY_CLOUD_NAME')
+        self.cloudinary_api_key = os.getenv('CLOUDINARY_API_KEY')
+        self.cloudinary_api_secret = os.getenv('CLOUDINARY_API_SECRET')
         
         self.production_mode = production_mode
-        self.use_imgur = use_imgur
         
         if production_mode:
             self.auth_url = "https://api.ebay.com/identity/v1/oauth2/token"
@@ -43,114 +46,57 @@ class EbayListingCreator:
         if production_mode and not self.user_token:
             raise ValueError("EBAY_USER_TOKEN required for production mode!")
         
+        # Configure Cloudinary
+        if not all([self.cloudinary_cloud_name, self.cloudinary_api_key, self.cloudinary_api_secret]):
+            raise ValueError("Missing Cloudinary credentials in .env file! Need: CLOUDINARY_CLOUD_NAME, CLOUDINARY_API_KEY, CLOUDINARY_API_SECRET")
+        
+        cloudinary.config(
+            cloud_name=self.cloudinary_cloud_name,
+            api_key=self.cloudinary_api_key,
+            api_secret=self.cloudinary_api_secret,
+            secure=True
+        )
+        
+        print(f"✓ Cloudinary configured: {self.cloudinary_cloud_name}")
+        
         # Debug: Print token status
         if self.user_token:
             print(f"✓ User token loaded: {self.user_token[:30]}...")
         else:
             print("⚠️  No user token found")
-        
-        if use_imgur:
-            if self.imgur_client_id:
-                print(f"✓ Using Imgur for image hosting")
-            else:
-                print("⚠️  IMGUR_CLIENT_ID not found, will use direct file paths")
-                self.use_imgur = False
     
-    def upload_to_imgur(self, image_path):
-        """Upload image to Imgur and return public URL"""
-        if not self.imgur_client_id:
-            return None
-        
-        print(f"  📤 Uploading to Imgur: {os.path.basename(image_path)}")
+    def upload_to_cloudinary(self, image_path, card_info):
+        """Upload image to Cloudinary and return public HTTPS URL"""
+        print(f"  📤 Uploading to Cloudinary: {os.path.basename(image_path)}")
         
         try:
-            with open(image_path, 'rb') as f:
-                image_data = base64.b64encode(f.read()).decode('utf-8')
+            # Create a unique public_id based on card info
+            filename = os.path.basename(image_path)
+            public_id = f"pokemon_cards/{card_info['setCode']}/{card_info['cn']}/{filename}"
+            public_id = public_id.replace('/', '_').replace(' ', '_')
             
-            headers = {
-                'Authorization': f'Client-ID {self.imgur_client_id}'
-            }
+            # Upload to Cloudinary with optimization
+            result = cloudinary.uploader.upload(
+                image_path,
+                public_id=public_id,
+                folder="ebay_pokemon_cards",
+                overwrite=True,
+                resource_type="image",
+                format="jpg",  # Convert to JPG
+                quality="auto:good",  # Auto optimize quality
+                fetch_format="auto",  # Auto format selection
+                width=1600,  # Max width for eBay
+                height=1600,  # Max height for eBay
+                crop="limit"  # Only resize if larger
+            )
             
-            data = {
-                'image': image_data,
-                'type': 'base64'
-            }
-            
-            response = requests.post('https://api.imgur.com/3/image', headers=headers, data=data)
-            
-            if response.status_code == 200:
-                result = response.json()
-                image_url = result['data']['link']
-                print(f"    ✓ Uploaded to Imgur: {image_url}")
-                return image_url
-            else:
-                print(f"    ✗ Imgur upload failed: {response.status_code}")
-                return None
-                
-        except Exception as e:
-            print(f"    ✗ Error uploading to Imgur: {e}")
-            return None
-    
-    def process_image_for_ebay(self, image_path, output_folder="ebay_images"):
-        """Process and optimize image for eBay, save to output folder"""
-        print(f"  🖼️  Processing: {os.path.basename(image_path)}")
-        
-        try:
-            from PIL import Image
-        except ImportError:
-            print("    ⚠️  PIL not installed, using original image")
-            return image_path
-        
-        try:
-            # Create output folder if it doesn't exist
-            os.makedirs(output_folder, exist_ok=True)
-            
-            # Open image
-            img = Image.open(image_path)
-            
-            # Convert to RGB if needed
-            if img.mode in ('RGBA', 'LA', 'P'):
-                print(f"    🔄 Converting {img.mode} to RGB...")
-                background = Image.new('RGB', img.size, (255, 255, 255))
-                if img.mode == 'P':
-                    img = img.convert('RGBA')
-                background.paste(img, mask=img.split()[-1] if img.mode in ('RGBA', 'LA') else None)
-                img = background
-            elif img.mode != 'RGB':
-                img = img.convert('RGB')
-            
-            # Resize if too large (eBay max 1600px)
-            max_dimension = 1600
-            if img.width > max_dimension or img.height > max_dimension:
-                print(f"    🔄 Resizing from {img.width}x{img.height}...")
-                img.thumbnail((max_dimension, max_dimension), Image.Resampling.LANCZOS)
-                print(f"    ✓ Resized to {img.width}x{img.height}")
-            
-            # Save as optimized JPEG
-            output_path = os.path.join(output_folder, os.path.basename(image_path))
-            if not output_path.lower().endswith('.jpg'):
-                output_path = os.path.splitext(output_path)[0] + '.jpg'
-            
-            img.save(output_path, 'JPEG', quality=85, optimize=True)
-            print(f"    ✓ Saved to: {output_path}")
-            
-            return output_path
+            image_url = result['secure_url']
+            print(f"    ✓ Uploaded to Cloudinary: {image_url}")
+            return image_url
             
         except Exception as e:
-            print(f"    ⚠️  Error processing, using original: {e}")
-            return image_path
-    
-    def get_image_url(self, image_path):
-        """Get URL for image - either upload to Imgur or provide local path"""
-        if self.use_imgur:
-            return self.upload_to_imgur(image_path)
-        else:
-            # Process image and return file path
-            # Note: For actual use, you'd need to host these images on a public HTTPS server
-            processed_path = self.process_image_for_ebay(image_path)
-            print(f"    ⚠️  Using local file path: {processed_path}")
-            print(f"    ⚠️  NOTE: You'll need to upload this to a public HTTPS server!")
-            return processed_path
+            print(f"    ✗ Error uploading to Cloudinary: {e}")
+            return None
     
     def find_card_images_by_number(self, card_number, set_code, images_folder):
         """Find front and back images for a card using card number"""
@@ -263,19 +209,19 @@ class EbayListingCreator:
         return description
     
     def create_ebay_listing(self, card_data, front_image_path, back_image_path):
-        """Create an eBay listing using Trading API with self-hosted images"""
+        """Create an eBay listing using Trading API with Cloudinary-hosted images"""
         print(f"\n📝 Creating listing for: {card_data['name']}")
         
-        # Get image URLs
+        # Upload images to Cloudinary
         image_urls = []
         
         if front_image_path:
-            front_url = self.get_image_url(front_image_path)
+            front_url = self.upload_to_cloudinary(front_image_path, card_data)
             if front_url:
                 image_urls.append(front_url)
         
         if back_image_path:
-            back_url = self.get_image_url(back_image_path)
+            back_url = self.upload_to_cloudinary(back_image_path, card_data)
             if back_url:
                 image_urls.append(back_url)
         
@@ -284,6 +230,8 @@ class EbayListingCreator:
             return False
         
         print(f"  📸 Using {len(image_urls)} image(s)")
+        for i, url in enumerate(image_urls, 1):
+            print(f"    {i}. {url}")
         
         # Create listing title
         title = self.create_listing_title(
@@ -313,13 +261,13 @@ class EbayListingCreator:
         }
         condition_id = condition_map.get(card_data['condition'], 3000)
         
-        # Build picture URLs XML - eBay will automatically copy them to EPS
+        # Build picture URLs XML
         picture_urls_xml = '\n                    '.join([f'<PictureURL>{url}</PictureURL>' for url in image_urls])
         
         # Escape XML special characters in title
         title = title.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
         
-        # Prepare AddFixedPriceItem XML request with self-hosted images
+        # Prepare AddFixedPriceItem XML request
         xml_request = f"""<?xml version="1.0" encoding="utf-8"?>
         <AddFixedPriceItemRequest xmlns="urn:ebay:apis:eBLBaseComponents">
             <RequesterCredentials>
@@ -348,16 +296,18 @@ class EbayListingCreator:
                     <ShippingType>Flat</ShippingType>
                     <ShippingServiceOptions>
                         <ShippingServicePriority>1</ShippingServicePriority>
-                        <ShippingService>FR_LaPosteLettreSuivie</ShippingService>
+                        <ShippingService>FR_Chronopost</ShippingService>
                         <ShippingServiceCost>2.50</ShippingServiceCost>
+                        <ShippingServiceAdditionalCost>0.00</ShippingServiceAdditionalCost>
                     </ShippingServiceOptions>
+                    <InsuranceDetails>
+                        <InsuranceOption>NotOffered</InsuranceOption>
+                    </InsuranceDetails>
                 </ShippingDetails>
                 <ReturnPolicy>
-                    <ReturnsAcceptedOption>ReturnsAccepted</ReturnsAcceptedOption>
-                    <RefundOption>MoneyBack</RefundOption>
-                    <ReturnsWithinOption>Days_14</ReturnsWithinOption>
-                    <ShippingCostPaidByOption>Buyer</ShippingCostPaidByOption>
+                    <ReturnsAcceptedOption>ReturnsNotAccepted</ReturnsAcceptedOption>
                 </ReturnPolicy>
+
             </Item>
         </AddFixedPriceItemRequest>"""
         
@@ -377,6 +327,9 @@ class EbayListingCreator:
             print(f"  📦 Quantity: {card_data['quantity']}")
             
             if self.production_mode:
+                print("\n===== FULL XML REQUEST SENT TO EBAY =====")
+                print(xml_request)
+                print("==========================================\n")
                 response = requests.post(self.trading_url, data=xml_request.encode('utf-8'), headers=headers)
                 
                 if '<Ack>Success</Ack>' in response.text:
@@ -412,7 +365,7 @@ class EbayListingCreator:
     def process_cardmarket_csv(self, csv_path, images_folder, test_mode=False):
         """Process CardMarket CSV and create eBay listings"""
         print("="*70)
-        print("EBAY LISTING CREATOR")
+        print("EBAY LISTING CREATOR WITH CLOUDINARY")
         print("="*70)
         
         if not os.path.exists(csv_path):
@@ -472,31 +425,24 @@ class EbayListingCreator:
 def main():
     """Main execution"""
     print("="*70)
-    print("POKEMON CARD EBAY LISTING CREATOR")
+    print("POKEMON CARD EBAY LISTING CREATOR WITH CLOUDINARY")
     print("="*70)
     
-    print("\nImage hosting option:")
-    print("1. Use Imgur (requires IMGUR_CLIENT_ID in .env)")
-    print("2. Process images locally (you'll need to upload to HTTPS server)")
-    img_choice = input("Enter choice (1 or 2): ").strip()
+    # print("\nSelect environment:")
+    # print("1. Sandbox (test environment)")
+    # print("2. Production (REAL listings!)")
+    #env_choice = input("Enter choice (1 or 2): ").strip()
     
-    use_imgur = (img_choice == "1")
+    production_mode = True #(env_choice == "2")
     
-    print("\nSelect environment:")
-    print("1. Sandbox (test environment)")
-    print("2. Production (REAL listings!)")
-    env_choice = input("Enter choice (1 or 2): ").strip()
-    
-    production_mode = (env_choice == "2")
-    
-    if production_mode:
-        print("\n" + "!"*70)
-        print("⚠️  PRODUCTION MODE - REAL LISTINGS WILL BE CREATED!")
-        print("!"*70)
-        confirm = input("\nHave you completed setup? (yes/y): ").strip().lower()
-        if confirm not in ['yes', 'y']:
-            print("Cancelled.")
-            return
+    # if production_mode:
+    #     print("\n" + "!"*70)
+    #     print("⚠️  PRODUCTION MODE - REAL LISTINGS WILL BE CREATED!")
+    #     print("!"*70)
+    #     confirm = input("\nAre you ready to create real listings? (y/n): ").strip().lower()
+    #     if confirm not in ['yes', 'y']:
+    #         print("Cancelled.")
+    #         return
     
     csv_path = input("\nEnter path to CSV file: ").strip().strip('"')
     images_folder = input("Enter path to images folder: ").strip().strip('"')
@@ -517,7 +463,7 @@ def main():
         return
     
     try:
-        creator = EbayListingCreator(production_mode=production_mode, use_imgur=use_imgur)
+        creator = EbayListingCreator(production_mode=production_mode)
         creator.process_cardmarket_csv(csv_path, images_folder, test_mode=test_mode)
     except Exception as e:
         print(f"\n✗ Error: {e}")
