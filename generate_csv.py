@@ -85,10 +85,10 @@ def generate_csv_from_images(folder_path, output_folder='Renamed_Cropped'):
     # Write CSV with aggregated quantities
     with open(csv_path, 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.writer(csvfile)
-        writer.writerow(['Card Name', 'Card Number', 'Set Code', 'Quantity', 'Language', 'Foil'])
+        writer.writerow(['Card Name', 'Set Code', 'Quantity', 'Language', 'Foil', 'Condition', 'Comment'])
         
         for (card_name, card_number, set_code), quantity in sorted(card_quantities.items()):
-            writer.writerow([card_name, card_number, set_code, quantity, 'FR', 'no'])
+            writer.writerow([card_name, set_code, quantity, 'FR', 'no', 'NM', 'Booster -> Sleeve'])
     
     print(f"\n✓ CSV saved: {csv_path}")
     print(f"  Unique cards: {len(card_quantities)}")

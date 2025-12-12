@@ -35,6 +35,31 @@ def sanitize_filename(filename):
     
     return filename
 
+def get_unique_filename(output_dir, base_filename):
+    """Generate unique filename by adding (1), (2), etc. if file exists
+    This checks the actual filesystem each time it's called"""
+    # Split into name and extension
+    name_without_ext, ext = os.path.splitext(base_filename)
+    
+    # Start with the base filename
+    test_filename = base_filename
+    test_filepath = os.path.join(output_dir, test_filename)
+    
+    # If file doesn't exist, return original name
+    if not os.path.exists(test_filepath):
+        return test_filename
+    
+    # File exists, find next available number
+    counter = 1
+    while True:
+        test_filename = f"{name_without_ext}({counter}){ext}"
+        test_filepath = os.path.join(output_dir, test_filename)
+        
+        if not os.path.exists(test_filepath):
+            return test_filename
+        
+        counter += 1
+
 def extract_set_code(folder_path):
     """Extract the set code from folder name (last part after last underscore)"""
     folder_name = os.path.basename(folder_path)
@@ -381,7 +406,8 @@ def process_card(image_path, save_cropped=True, output_folder='Renamed_Cropped')
         set_code = extract_set_code(base_dir)
         ext = os.path.splitext(image_path)[1]
         
-        new_filename = f"{name}_{number}_{set_code}{ext}"
+        base_filename = f"{name}_{number}_{set_code}{ext}"
+        new_filename = get_unique_filename(output_dir, base_filename)
         output_path = os.path.join(output_dir, new_filename)
         
         cv2.imwrite(output_path, cropped_card)
@@ -437,12 +463,14 @@ def process_folder(folder_path, output_folder='Renamed_Cropped'):
                 number = info.get('number', 'Unknown').replace('/', '-')
                 ext = os.path.splitext(filename)[1]
                 
-                # Crop and save FRONT
+                # Crop and save FRONT - check for duplicates RIGHT BEFORE saving
                 cropper = CardCropper(input_path)
                 if cropper.image is not None:
                     cropped_card = cropper.crop_card()
                     if cropped_card is not None:
-                        front_filename = f"{name}_{number}_{set_code}_FR_FRONT{ext}"
+                        base_front_filename = f"{name}_{number}_{set_code}_FR_FRONT{ext}"
+                        # This will check the filesystem and find next available filename
+                        front_filename = get_unique_filename(output_dir, base_front_filename)
                         front_path = os.path.join(output_dir, front_filename)
                         cv2.imwrite(front_path, cropped_card)
                         print(f"✓ Saved FRONT as: {front_filename}")
@@ -462,12 +490,14 @@ def process_folder(folder_path, output_folder='Renamed_Cropped'):
                     print(f"[{i+2}/{len(image_files)}] Processing {back_filename} (BACK)...")
                     print('='*70)
                     
-                    # Crop and save BACK
+                    # Crop and save BACK - check for duplicates RIGHT BEFORE saving
                     back_cropper = CardCropper(back_input_path)
                     if back_cropper.image is not None:
                         back_cropped = back_cropper.crop_card_back()
                         if back_cropped is not None:
-                            back_new_filename = f"{name}_{number}_{set_code}_FR_BACK{ext}"
+                            base_back_filename = f"{name}_{number}_{set_code}_FR_BACK{ext}"
+                            # This will check the filesystem and find next available filename
+                            back_new_filename = get_unique_filename(output_dir, base_back_filename)
                             back_path = os.path.join(output_dir, back_new_filename)
                             cv2.imwrite(back_path, back_cropped)
                             print(f"✓ Saved BACK as: {back_new_filename}")
