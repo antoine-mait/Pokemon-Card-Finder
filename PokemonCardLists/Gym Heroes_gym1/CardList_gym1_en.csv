@@ -1,0 +1,133 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+gym1-1,1,Blaine's Moltres,90,Fire,,Basic,Rare Holo,Ken Sugimori,"holo, 1st edition",Gym Heroes,Gym,132
+gym1-2,2,Brock's Rhydon,80,Fighting,Rhyhorn,Stage1,Rare Holo,Ken Sugimori,"holo, 1st edition",Gym Heroes,Gym,132
+gym1-3,3,Erika's Clefable,70,Colorless,Clefairy,Stage1,Rare Holo,Atsuko Nishida,"holo, 1st edition",Gym Heroes,Gym,132
+gym1-4,4,Erika's Dragonair,80,Colorless,Dratini,Stage1,Rare Holo,Atsuko Nishida,"holo, 1st edition",Gym Heroes,Gym,132
+gym1-5,5,Erika's Vileplume,80,Grass,Gloom,Stage2,Rare Holo,Ken Sugimori,"holo, 1st edition",Gym Heroes,Gym,132
+gym1-6,6,Lt. Surge's Electabuzz,70,Lightning,Elekid,Basic,Rare Holo,Ken Sugimori,"holo, 1st edition",Gym Heroes,Gym,132
+gym1-7,7,Lt. Surge's Fearow,70,Colorless,Spearow,Stage1,Rare Holo,Ken Sugimori,"holo, 1st edition",Gym Heroes,Gym,132
+gym1-8,8,Lt. Surge's Magneton,70,Lightning,,Stage1,Rare Holo,Ken Sugimori,"holo, 1st edition",Gym Heroes,Gym,132
+gym1-9,9,Misty's Seadra,70,Water,Horsea,Stage1,Rare Holo,Atsuko Nishida,"holo, 1st edition",Gym Heroes,Gym,132
+gym1-10,10,Misty's Tentacruel,70,Water,Tentacool,Stage1,Rare Holo,Ken Sugimori,"holo, 1st edition",Gym Heroes,Gym,132
+gym1-11,11,Rocket's Hitmonchan,60,Fighting,Tyrogue,Basic,Rare Holo,Ken Sugimori,"holo, 1st edition",Gym Heroes,Gym,132
+gym1-12,12,Rocket's Moltres,60,Fire,,Basic,Rare Holo,Ken Sugimori,"holo, 1st edition",Gym Heroes,Gym,132
+gym1-13,13,Rocket's Scyther,60,Grass,,Basic,Rare Holo,Ken Sugimori,"holo, 1st edition",Gym Heroes,Gym,132
+gym1-14,14,Sabrina's Gengar,80,Psychic,Haunter,Stage2,Rare Holo,Ken Sugimori,"holo, 1st edition",Gym Heroes,Gym,132
+gym1-15,15,Brock,,,,,Rare Holo,Ken Sugimori,"holo, 1st edition",Gym Heroes,Gym,132
+gym1-16,16,Erika,,,,,Rare Holo,Ken Sugimori,"holo, 1st edition",Gym Heroes,Gym,132
+gym1-17,17,Lt. Surge,,,,,Rare Holo,Ken Sugimori,"holo, 1st edition",Gym Heroes,Gym,132
+gym1-18,18,Misty,,,,,Rare Holo,Ken Sugimori,"holo, 1st edition",Gym Heroes,Gym,132
+gym1-19,19,The Rocket's Trap,,,,,Rare Holo,Ken Sugimori,"holo, 1st edition",Gym Heroes,Gym,132
+gym1-20,20,Brock's Golem,90,Fighting,Graveler,Stage2,Rare Holo,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-21,21,Brock's Onix,70,Fighting,,Basic,Rare Holo,Benimaru Itoh,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-22,22,Brock's Rhyhorn,60,Fighting,,Basic,Rare Holo,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-23,23,Brock's Sandslash,60,Fighting,Sandshrew,Stage1,Rare Holo,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-24,24,Brock's Zubat,30,Grass,,Basic,Rare Holo,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-25,25,Erika's Clefairy,50,Colorless,Cleffa,Basic,Rare Holo,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-26,26,Erika's Victreebel,80,Grass,Weepinbell,Stage2,Rare Holo,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-27,27,Lt. Surge's Electabuzz,60,Lightning,Elekid,Basic,Rare Holo,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-28,28,Lt. Surge's Raichu,70,Lightning,Pikachu,Stage1,Rare Holo,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-29,29,Misty's Cloyster,60,Water,Shellder,Stage1,Rare Holo,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-30,30,Misty's Goldeen,30,Water,,Basic,Rare Holo,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-31,31,Misty's Poliwrath,90,Water,Poliwhirl,Stage2,Rare Holo,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-32,32,Misty's Tentacool,40,Water,,Basic,Rare Holo,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-33,33,Rocket's Snorlax,90,Colorless,Munchlax,Basic,Rare Holo,Shin-ichi Yoshida,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-34,34,Sabrina's Venomoth,60,Grass,Venonat,Stage1,Rare Holo,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-35,35,Blaine's Growlithe,50,Fire,,Basic,Uncommon,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-36,36,Blaine's Kangaskhan,80,Colorless,,Basic,Uncommon,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-37,37,Blaine's Magmar,60,Fire,Magby,Basic,Uncommon,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-38,38,Brock's Geodude,50,Fighting,,Basic,Uncommon,Atsuko Nishida,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-39,39,Brock's Golbat,70,Grass,Zubat,Stage1,Uncommon,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-40,40,Brock's Graveler,70,Fighting,Geodude,Stage1,Uncommon,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-41,41,Brock's Lickitung,80,Colorless,,Basic,Uncommon,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-42,42,Erika's Dratini,40,Colorless,,Basic,Uncommon,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-43,43,Erika's Exeggcute,50,Grass,,Basic,Uncommon,Atsuko Nishida,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-44,44,Erika's Exeggutor,70,Grass,Exeggcute,Stage1,Uncommon,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-45,45,Erika's Gloom,60,Grass,Oddish,Stage1,Uncommon,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-46,46,Erika's Gloom,70,Grass,Oddish,Stage1,Uncommon,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-47,47,Erika's Oddish,40,Grass,,Basic,Uncommon,Atsuko Nishida,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-48,48,Erika's Weepinbell,60,Grass,Bellsprout,Stage1,Uncommon,Atsuko Nishida,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-49,49,Erika's Weepinbell,70,Grass,Bellsprout,Stage1,Uncommon,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-50,50,Lt. Surge's Magnemite,30,Lightning,,Basic,Uncommon,Atsuko Nishida,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-51,51,Lt. Surge's Raticate,70,Colorless,Rattata,Stage1,Uncommon,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-52,52,Lt. Surge's Spearow,30,Colorless,,Basic,Uncommon,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-53,53,Misty's Poliwhirl,70,Water,Poliwag,Stage1,Uncommon,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-54,54,Misty's Psyduck,50,Water,,Basic,Uncommon,Atsuko Nishida,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-55,55,Misty's Seaking,70,Water,Goldeen,Stage1,Uncommon,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-56,56,Misty's Starmie,80,Water,Staryu,Stage1,Uncommon,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-57,57,Misty's Tentacool,50,Water,,Basic,Uncommon,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-58,58,Sabrina's Haunter,50,Psychic,Gastly,Stage1,Uncommon,Atsuko Nishida,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-59,59,Sabrina's Jynx,60,Psychic,Smoochum,Basic,Uncommon,Atsuko Nishida,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-60,60,Sabrina's Slowbro,70,Psychic,Slowpoke,Stage1,Uncommon,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-61,61,Blaine's Charmander,50,Fire,,Basic,Common,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-62,62,Blaine's Growlithe,50,Fire,,Basic,Common,Atsuko Nishida,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-63,63,Blaine's Ponyta,40,Fire,,Basic,Common,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-64,64,Blaine's Tauros,70,Colorless,,Basic,Common,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-65,65,Blaine's Vulpix,40,Fire,,Basic,Common,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-66,66,Brock's Geodude,40,Fighting,,Basic,Common,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-67,67,Brock's Mankey,40,Fighting,,Basic,Common,Atsuko Nishida,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-68,68,Brock's Mankey,40,Fighting,,Basic,Common,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-69,69,Brock's Onix,100,Fighting,,Basic,Common,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-70,70,Brock's Rhyhorn,70,Fighting,,Basic,Common,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-71,71,Brock's Sandshrew,40,Fighting,,Basic,Common,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-72,72,Brock's Sandshrew,50,Fighting,,Basic,Common,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-73,73,Brock's Vulpix,40,Fire,,Basic,Common,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-74,74,Brock's Zubat,40,Grass,,Basic,Common,Atsuko Nishida,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-75,75,Erika's Bellsprout,40,Grass,,Basic,Common,Atsuko Nishida,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-76,76,Erika's Bellsprout,50,Grass,,Basic,Common,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-77,77,Erika's Exeggcute,40,Grass,,Basic,Common,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-78,78,Erika's Oddish,50,Grass,,Basic,Common,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-79,79,Erika's Tangela,60,Grass,,Basic,Common,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-80,80,Lt. Surge's Magnemite,40,Lightning,,Basic,Common,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-81,81,Lt. Surge's Pikachu,50,Lightning,Pichu,Basic,Common,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-82,82,Lt. Surge's Rattata,40,Colorless,,Basic,Common,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-83,83,Lt. Surge's Spearow,50,Colorless,,Basic,Common,Atsuko Nishida,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-84,84,Lt. Surge's Voltorb,40,Lightning,,Basic,Common,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-85,85,Misty's Goldeen,40,Water,,Basic,Common,Atsuko Nishida,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-86,86,Misty's Horsea,40,Water,,Basic,Common,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-87,87,Misty's Poliwag,50,Water,,Basic,Common,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-88,88,Misty's Seel,60,Water,,Basic,Common,Atsuko Nishida,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-89,89,Misty's Shellder,40,Water,,Basic,Common,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-90,90,Misty's Staryu,50,Water,,Basic,Common,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-91,91,Sabrina's Abra,40,Psychic,,Basic,Common,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-92,92,Sabrina's Drowzee,50,Psychic,,Basic,Common,Atsuko Nishida,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-93,93,Sabrina's Gastly,50,Psychic,,Basic,Common,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-94,94,Sabrina's Mr. Mime,50,Psychic,Mime Jr.,Basic,Common,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-95,95,Sabrina's Slowpoke,50,Psychic,,Basic,Common,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-96,96,Sabrina's Venonat,40,Grass,,Basic,Common,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-97,97,Blaine's Quiz #1,,,,,Rare,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-98,98,Brock,,,,,Rare,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-99,99,Charity,,,,,Rare,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-100,100,Erika,,,,,Rare,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-101,101,Lt. Surge,,,,,Rare,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-102,102,Misty,,,,,Rare,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-103,103,No Removal Gym,,,,,Rare,Keiji Kinebuchi,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-104,104,The Rocket's Training Gym,,,,,Rare,Keiji Kinebuchi,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-105,105,Blaine's Last Resort,,,,,Uncommon,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-106,106,Brock's Training Method,,,,,Uncommon,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-107,107,Celadon City Gym,,,,,Uncommon,Keiji Kinebuchi,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-108,108,Cerulean City Gym,,,,,Uncommon,Keiji Kinebuchi,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-109,109,Erika's Maids,,,,,Uncommon,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-110,110,Erika's Perfume,,,,,Uncommon,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-111,111,Good Manners,,,,,Uncommon,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-112,112,Lt. Surge's Treaty,,,,,Uncommon,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-113,113,Minion of Team Rocket,,,,,Uncommon,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-114,114,Misty's Wrath,,,,,Uncommon,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-115,115,Pewter City Gym,,,,,Uncommon,Keiji Kinebuchi,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-116,116,Recall,,,,,Uncommon,Sumiyoshi Kizuki,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-117,117,Sabrina's ESP,,,,,Uncommon,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-118,118,Secret Mission,,,,,Uncommon,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-119,119,Tickling Machine,,,,,Uncommon,Sumiyoshi Kizuki,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-120,120,Vermilion City Gym,,,,,Uncommon,Keiji Kinebuchi,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-121,121,Blaine's Gamble,,,,,Common,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-122,122,Energy Flow,,,,,Common,Keiji Kinebuchi,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-123,123,Misty's Duel,,,,,Common,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-124,124,Narrow Gym,,,,,Common,Keiji Kinebuchi,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-125,125,Sabrina's Gaze,,,,,Common,Ken Sugimori,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-126,126,Trash Exchange,,,,,Common,Keiji Kinebuchi,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-127,127,Fighting Energy,,,,Basic,Common,Keiji Kinebuchi,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-128,128,Fire Energy,,,,Basic,Common,Keiji Kinebuchi,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-129,129,Grass Energy,,,,Basic,Common,Keiji Kinebuchi,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-130,130,Lightning Energy,,,,Basic,Common,Keiji Kinebuchi,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-131,131,Psychic Energy,,,,Basic,Common,Keiji Kinebuchi,"normal, 1st edition",Gym Heroes,Gym,132
+gym1-132,132,Water Energy,,,,Basic,Common,Keiji Kinebuchi,"normal, 1st edition",Gym Heroes,Gym,132

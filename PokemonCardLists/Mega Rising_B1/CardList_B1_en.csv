@@ -1,0 +1,332 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+B1-001,001,Pinsir,90,Grass,,Basic,One Diamond,Suwama Chiaki,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-002,002,Mega Pinsir ex,170,Grass,,Basic,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-003,003,Wurmple,50,Grass,,Basic,One Diamond,kirisAki,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-004,004,Silcoon,80,Grass,Wurmple,Stage1,One Diamond,Kyoko Umemoto,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-005,005,Beautifly,130,Grass,Silcoon,Stage2,Three Diamond,Midori Harada,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-006,006,Cascoon,80,Grass,Wurmple,Stage1,One Diamond,GOSSAN,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-007,007,Dustox,130,Grass,Cascoon,Stage2,Three Diamond,Midori Harada,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-008,008,Seedot,50,Grass,,Basic,One Diamond,Naoyo Kimura,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-009,009,Nuzleaf,80,Grass,Seedot,Stage1,Two Diamond,Hajime Kusajima,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-010,010,Shiftry,140,Grass,Nuzleaf,Stage2,Three Diamond,Masakazu Fukuda,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-011,011,Shroomish,60,Grass,,Basic,One Diamond,Naoyo Kimura,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-012,012,Breloom,100,Grass,Shroomish,Stage1,Two Diamond,Mizue,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-013,013,Pansage,60,Grass,,Basic,One Diamond,Jerky,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-014,014,Simisage,100,Grass,Pansage,Stage1,One Diamond,tetsuya koizumi,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-015,015,Cottonee,50,Grass,,Basic,One Diamond,Yuka Tanaka,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-016,016,Whimsicott ex,140,Grass,Cottonee,Stage1,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-017,017,Petilil,60,Grass,,Basic,One Diamond,Naoki Saito,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-018,018,Lilligant,80,Grass,Petilil,Stage1,Three Diamond,Kanako Eo,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-019,019,Maractus,80,Grass,,Basic,One Diamond,Shimaris Yukichi,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-020,020,Virizion,100,Grass,,Basic,Three Diamond,Takeshi Nakamura,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-021,021,Skiddo,80,Grass,,Basic,One Diamond,Saya Tsuruta,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-022,022,Gogoat,120,Grass,Skiddo,Stage1,One Diamond,sowsow,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-023,023,Phantump,60,Grass,,Basic,One Diamond,Sumiyoshi Kizuki,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-024,024,Trevenant,110,Grass,Phantump,Stage1,Two Diamond,Hiroyuki Yamamoto,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-025,025,Grookey,60,Grass,,Basic,One Diamond,Kouki Saitou,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-026,026,Thwackey,90,Grass,Grookey,Stage1,Two Diamond,Akira Komayama,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-027,027,Rillaboom,150,Grass,Thwackey,Stage2,Three Diamond,Shin Nagasawa,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-028,028,Growlithe,70,Fire,,Basic,One Diamond,Narumi Sato,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-029,029,Arcanine,120,Fire,Growlithe,Stage1,Two Diamond,Yuu Nishida,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-030,030,Ponyta,60,Fire,,Basic,One Diamond,Jiro Sasumo,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-031,031,Rapidash ex,150,Fire,Ponyta,Stage1,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-032,032,Ho-Oh,120,Fire,,Basic,Three Diamond,Ryota Murayama,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-033,033,Torchic,60,Fire,,Basic,One Diamond,GOSSAN,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-034,034,Combusken,80,Fire,Torchic,Stage1,Two Diamond,GOSSAN,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-035,035,Blaziken,140,Fire,Combusken,Stage2,Three Diamond,GOSSAN,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-036,036,Mega Blaziken ex,210,Fire,Combusken,Stage2,Four Diamond,PLANETA Yamashita,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-037,037,Pansear,60,Fire,,Basic,One Diamond,Jerky,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-038,038,Simisear,100,Fire,Pansear,Stage1,One Diamond,kirisAki,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-039,039,Darumaka,70,Fire,,Basic,One Diamond,Atsuko Nishida,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-040,040,Darmanitan,130,Fire,Darumaka,Stage1,Two Diamond,kawayoo,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-041,041,Litwick,50,Fire,,Basic,One Diamond,sowsow,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-042,042,Lampent,80,Fire,Litwick,Stage1,Two Diamond,Kyoko Umemoto,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-043,043,Chandelure,140,Fire,Lampent,Stage2,Three Diamond,Taira Akitsu,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-044,044,Heatmor,80,Fire,,Basic,One Diamond,Satoshi Shirai,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-045,045,Litleo,60,Fire,,Basic,One Diamond,Misa Tsutsui,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-046,046,Pyroar,130,Fire,Litleo,Stage1,Three Diamond,Hitoshi Ariga,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-047,047,Turtonator,110,Fire,,Basic,Two Diamond,KEIICHIRO ITO,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-048,048,Psyduck,60,Water,,Basic,One Diamond,nagimiso,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-049,049,Golduck,90,Water,Psyduck,Stage1,One Diamond,Hasuno,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-050,050,Magikarp,30,Water,,Basic,One Diamond,Yukiko Baba,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-051,051,Gyarados,140,Water,Magikarp,Stage1,Three Diamond,kawayoo,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-052,052,Mega Gyarados ex,210,Water,Magikarp,Stage1,Four Diamond,PLANETA Igarashi,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-053,053,Lotad,60,Water,,Basic,One Diamond,Atsuko Nishida,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-054,054,Lombre,90,Water,Lotad,Stage1,Two Diamond,miki kudo,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-055,055,Ludicolo,140,Water,Lombre,Stage2,Three Diamond,sowsow,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-056,056,Wailmer,100,Water,,Basic,One Diamond,Mékayu,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-057,057,Wailord,200,Water,Wailmer,Stage1,Three Diamond,KIYOTAKA OSHIYAMA,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-058,058,Corphish,70,Water,,Basic,One Diamond,Sekio,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-059,059,Crawdaunt,100,Water,Corphish,Stage1,Two Diamond,Shibuzoh.,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-060,060,Luvdisc,70,Water,,Basic,One Diamond,sui,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-061,061,Panpour,60,Water,,Basic,One Diamond,Jerky,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-062,062,Simipour,100,Water,Panpour,Stage1,One Diamond,Shigenori Negishi,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-063,063,Tympole,60,Water,,Basic,One Diamond,Mina Nakai,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-064,064,Palpitoad,90,Water,Tympole,Stage1,One Diamond,Shimaris Yukichi,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-065,065,Seismitoad,150,Water,Palpitoad,Stage2,Two Diamond,SATOSHI NAKAI,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-066,066,Tirtouga,90,Water,Cover Fossil,Stage1,Two Diamond,HYOGONOSUKE,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-067,067,Carracosta,150,Water,Tirtouga,Stage2,Three Diamond,match,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-068,068,Frillish,60,Water,,Basic,One Diamond,Apios,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-069,069,Jellicent,120,Water,Frillish,Stage1,Three Diamond,Tomokazu Komiya,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-070,070,Keldeo,100,Water,,Basic,Three Diamond,Takeshi Nakamura,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-071,071,Froakie,60,Water,,Basic,One Diamond,Sanosuke Sakuma,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-072,072,Frogadier,80,Water,Froakie,Stage1,Two Diamond,5ban Graphics,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-073,073,Greninja ex,170,Water,Frogadier,Stage2,Four Diamond,PLANETA Mochizuki,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-074,074,Bergmite,70,Water,,Basic,One Diamond,Miki Tanaka,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-075,075,Avalugg,140,Water,Bergmite,Stage1,Two Diamond,Kouki Saitou,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-076,076,Chewtle,80,Water,,Basic,One Diamond,Nurikabe,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-077,077,Drednaw,130,Water,Chewtle,Stage1,Two Diamond,Anesaki Dynamic,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-078,078,Arrokuda,60,Water,,Basic,One Diamond,Mina Nakai,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-079,079,Barraskewda,90,Water,Arrokuda,Stage1,Two Diamond,Hideki Ishikawa,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-080,080,Eiscue,80,Water,,Basic,Three Diamond,Kagemaru Himeno,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-081,081,Jolteon ex,140,Lightning,Eevee,Stage1,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-082,082,Mareep,70,Lightning,,Basic,One Diamond,saino misaki,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-083,083,Flaaffy,90,Lightning,Mareep,Stage1,Two Diamond,Shibuzoh.,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-084,084,Ampharos,140,Lightning,Flaaffy,Stage2,Three Diamond,Megumi Mizutani,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-085,085,Mega Ampharos ex,210,Lightning,Flaaffy,Stage2,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-086,086,Shinx,60,Lightning,,Basic,One Diamond,Uta,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-087,087,Luxio,90,Lightning,Shinx,Stage1,Two Diamond,NC Empire,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-088,088,Luxray,130,Lightning,Luxio,Stage2,Three Diamond,Ryota Murayama,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-089,089,Pachirisu,70,Lightning,,Basic,One Diamond,Naoyo Kimura,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-090,090,Blitzle,70,Lightning,,Basic,One Diamond,Akira Komayama,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-091,091,Zebstrika,100,Lightning,Blitzle,Stage1,Two Diamond,Shin Nagasawa,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-092,092,Joltik,30,Lightning,,Basic,One Diamond,Ayaka Yoshida,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-093,093,Galvantula,80,Lightning,Joltik,Stage1,Two Diamond,Yumi,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-094,094,Dedenne,70,Lightning,,Basic,One Diamond,Yuka Morii,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-095,095,Yamper,60,Lightning,,Basic,One Diamond,Saya Tsuruta,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-096,096,Boltund,110,Lightning,Yamper,Stage1,Two Diamond,chibi,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-097,097,Natu,60,Psychic,,Basic,One Diamond,Sanosuke Sakuma,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-098,098,Xatu,100,Psychic,Natu,Stage1,Two Diamond,Masakazu Fukuda,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-099,099,Misdreavus,60,Psychic,,Basic,One Diamond,HYOGONOSUKE,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-100,100,Mismagius,90,Psychic,Misdreavus,Stage1,Two Diamond,NC Empire,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-101,101,Sableye,80,Psychic,,Basic,One Diamond,Hitoshi Ariga,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-102,102,Mega Altaria ex,190,Psychic,Swablu,Stage1,Four Diamond,PLANETA Igarashi,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-103,103,Duskull,50,Psychic,,Basic,One Diamond,Naoki Saito,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-104,104,Dusclops,90,Psychic,Duskull,Stage1,Two Diamond,Kazuma Koda,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-105,105,Dusknoir,150,Psychic,Dusclops,Stage2,Three Diamond,nagimiso,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-106,106,Jirachi,50,Psychic,,Basic,Three Diamond,Sanosuke Sakuma,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-107,107,Drifloon,60,Psychic,,Basic,One Diamond,Asako Ito,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-108,108,Drifblim,100,Psychic,Drifloon,Stage1,Two Diamond,Yumi,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-109,109,Chingling,30,Psychic,,Basic,Three Diamond,Kagemaru Himeno,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-110,110,Yamask,70,Psychic,,Basic,One Diamond,Aya Kusube,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-111,111,Cofagrigus,120,Psychic,Yamask,Stage1,Three Diamond,kawayoo,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-112,112,Gothita,60,Psychic,,Basic,One Diamond,Atsuko Nishida,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-113,113,Gothorita,80,Psychic,Gothita,Stage1,Two Diamond,sowsow,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-114,114,Gothitelle,130,Psychic,Gothorita,Stage2,Three Diamond,Eri Yamaki,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-115,115,Spritzee,60,Psychic,,Basic,One Diamond,MAHOU,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-116,116,Aromatisse,90,Psychic,Spritzee,Stage1,Two Diamond,kirisAki,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-117,117,Swirlix,60,Psychic,,Basic,One Diamond,Kurata So,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-118,118,Slurpuff,110,Psychic,Swirlix,Stage1,Two Diamond,Mizue,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-119,119,Carbink,50,Psychic,,Basic,One Diamond,Sanosuke Sakuma,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-120,120,Klefki,50,Psychic,,Basic,Three Diamond,Shigenori Negishi,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-121,121,Indeedee ex,130,Psychic,,Basic,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-122,122,Sandshrew,60,Fighting,,Basic,One Diamond,Sekio,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-123,123,Sandslash,90,Fighting,Sandshrew,Stage1,Two Diamond,Kyoko Umemoto,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-124,124,Hitmonchan ex,130,Fighting,,Basic,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-125,125,Sudowoodo,90,Fighting,,Basic,One Diamond,Hitoshi Ariga,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-126,126,Makuhita,80,Fighting,,Basic,One Diamond,Sachiko Adachi,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-127,127,Hariyama,130,Fighting,Makuhita,Stage1,Two Diamond,Scav,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-128,128,Hippopotas,80,Fighting,,Basic,One Diamond,Yuya Oka,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-129,129,Hippowdon,130,Fighting,Hippopotas,Stage1,Two Diamond,Shigenori Negishi,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-130,130,Sandile,60,Fighting,,Basic,One Diamond,Masakazu Fukuda,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-131,131,Krokorok,90,Fighting,Sandile,Stage1,Two Diamond,Naoki Saito,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-132,132,Krookodile,160,Fighting,Krokorok,Stage2,Three Diamond,Shiburingaru,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-133,133,Archen,90,Fighting,Plume Fossil,Stage1,Two Diamond,0313,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-134,134,Archeops,140,Fighting,Archen,Stage2,Three Diamond,Hasuno,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-135,135,Golett,80,Fighting,,Basic,One Diamond,Shin Nagasawa,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-136,136,Golurk,130,Fighting,Golett,Stage1,Three Diamond,Anesaki Dynamic,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-137,137,Terrakion,120,Fighting,,Basic,Three Diamond,Takeshi Nakamura,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-138,138,Pancham,60,Fighting,,Basic,One Diamond,match,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-139,139,Crabrawler,80,Fighting,,Basic,One Diamond,Akira Komayama,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-140,140,Crabominable,120,Fighting,Crabrawler,Stage1,Two Diamond,tetsuya koizumi,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-141,141,Stufful,70,Fighting,,Basic,One Diamond,Kouki Saitou,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-142,142,Bewear,130,Fighting,Stufful,Stage1,Two Diamond,Shin Nagasawa,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-143,143,Sandygast,80,Fighting,,Basic,One Diamond,Yukiko Baba,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-144,144,Palossand,140,Fighting,Sandygast,Stage1,Two Diamond,Shibuzoh.,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-145,145,Rolycoly,70,Fighting,,Basic,One Diamond,Misa Tsutsui,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-146,146,Carkol,90,Fighting,Rolycoly,Stage1,Two Diamond,Uta,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-147,147,Coalossal,150,Fighting,Carkol,Stage2,Three Diamond,AKIRA EGAWA,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-148,148,Murkrow,70,Darkness,,Basic,One Diamond,KEIICHIRO ITO,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-149,149,Honchkrow,100,Darkness,Murkrow,Stage1,Three Diamond,Miki Tanaka,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-150,150,Absol,80,Darkness,,Basic,Two Diamond,nagimiso,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-151,151,Mega Absol ex,170,Darkness,,Basic,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-152,152,Skorupi,60,Darkness,,Basic,One Diamond,Sumiyoshi Kizuki,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-153,153,Drapion,130,Darkness,Skorupi,Stage1,Two Diamond,SATOSHI NAKAI,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-154,154,Darkrai,120,Darkness,,Basic,Three Diamond,Uta,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-155,155,Deino,60,Darkness,,Basic,One Diamond,HYOGONOSUKE,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-156,156,Zweilous,90,Darkness,Deino,Stage1,Two Diamond,kodama,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-157,157,Hydreigon,150,Darkness,Zweilous,Stage2,Three Diamond,hatachu,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-158,158,Pangoro,120,Darkness,Pancham,Stage1,Three Diamond,Uta,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-159,159,Skrelp,60,Darkness,,Basic,One Diamond,Mina Nakai,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-160,160,Dragalge ex,150,Darkness,Skrelp,Stage1,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-161,161,Mareanie,60,Darkness,,Basic,One Diamond,Aya Kusube,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-162,162,Toxapex,100,Darkness,Mareanie,Stage1,Two Diamond,Ligton,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-163,163,Impidimp,60,Darkness,,Basic,One Diamond,Rianti Hidayat,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-164,164,Morgrem,90,Darkness,Impidimp,Stage1,Two Diamond,Hitoshi Ariga,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-165,165,Grimmsnarl,160,Darkness,Morgrem,Stage2,Three Diamond,DOM,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-166,166,Ferroseed,60,Metal,,Basic,One Diamond,ryoma uratsuka,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-167,167,Ferrothorn,110,Metal,Ferroseed,Stage1,Two Diamond,Hasuno,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-168,168,Durant,80,Metal,,Basic,One Diamond,kodama,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-169,169,Cobalion,110,Metal,,Basic,Three Diamond,Takeshi Nakamura,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-170,170,Honedge,60,Metal,,Basic,One Diamond,Suwama Chiaki,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-171,171,Doublade,90,Metal,Honedge,Stage1,Two Diamond,Hajime Kusajima,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-172,172,Aegislash,140,Metal,Doublade,Stage2,Three Diamond,miki kudo,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-173,173,Meltan,70,Metal,,Basic,One Diamond,Sumiyoshi Kizuki,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-174,174,Melmetal ex,170,Metal,Meltan,Stage1,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-175,175,Corviknight,140,Metal,Corvisquire,Stage2,Three Diamond,Ryuta Fuse,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-176,176,Druddigon,110,Dragon,,Basic,One Diamond,hatachu,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-177,177,Goomy,40,Dragon,,Basic,One Diamond,Midori Harada,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-178,178,Sliggoo,90,Dragon,Goomy,Stage1,Two Diamond,Atsuko Nishida,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-179,179,Goodra,150,Dragon,Sliggoo,Stage2,Three Diamond,Nagomi Nijo,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-180,180,Pidgey,60,Colorless,,Basic,One Diamond,kodama,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-181,181,Pidgeotto,90,Colorless,Pidgey,Stage1,One Diamond,Mizue,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-182,182,Pidgeot,150,Colorless,Pidgeotto,Stage2,Two Diamond,Akira Komayama,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-183,183,Tauros ex,140,Colorless,,Basic,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-184,184,Eevee,50,Colorless,,Basic,One Diamond,MAHOU,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-185,185,Aipom,60,Colorless,,Basic,One Diamond,Kagemaru Himeno,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-186,186,Ambipom,100,Colorless,Aipom,Stage1,Two Diamond,Kouki Saitou,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-187,187,Miltank,100,Colorless,,Basic,One Diamond,saino misaki,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-188,188,Zigzagoon,60,Colorless,,Basic,One Diamond,Sumiyoshi Kizuki,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-189,189,Linoone,100,Colorless,Zigzagoon,Stage1,Two Diamond,match,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-190,190,Whismur,60,Colorless,,Basic,One Diamond,Tika Matsuno,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-191,191,Loudred,90,Colorless,Whismur,Stage1,One Diamond,MAHOU,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-192,192,Exploud,150,Colorless,Loudred,Stage2,Three Diamond,kawayoo,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-193,193,Skitty,50,Colorless,,Basic,One Diamond,Saya Tsuruta,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-194,194,Delcatty,80,Colorless,Skitty,Stage1,Three Diamond,Sekio,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-195,195,Spinda,70,Colorless,,Basic,One Diamond,Shigenori Negishi,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-196,196,Swablu,50,Colorless,,Basic,One Diamond,Kanako Eo,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-197,197,Altaria,100,Colorless,Swablu,Stage1,Three Diamond,sui,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-198,198,Chatot,70,Colorless,,Basic,One Diamond,Shimaris Yukichi,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-199,199,Patrat,60,Colorless,,Basic,One Diamond,Kyoko Umemoto,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-200,200,Watchog,100,Colorless,Patrat,Stage1,Two Diamond,MAHOU,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-201,201,Lillipup,60,Colorless,,Basic,One Diamond,Sekio,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-202,202,Herdier,90,Colorless,Lillipup,Stage1,Two Diamond,sui,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-203,203,Stoutland,150,Colorless,Herdier,Stage2,Three Diamond,Shin Nagasawa,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-204,204,Rufflet,60,Colorless,,Basic,One Diamond,Naoyo Kimura,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-205,205,Braviary,120,Colorless,Rufflet,Stage1,Two Diamond,chibi,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-206,206,Furfrou,80,Colorless,,Basic,Two Diamond,Teeziro,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-207,207,Furfrou,80,Colorless,,Basic,Two Diamond,Tika Matsuno,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-208,208,Furfrou,80,Colorless,,Basic,Two Diamond,kawayoo,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-209,209,Rookidee,60,Colorless,,Basic,One Diamond,OKACHEKE,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-210,210,Corvisquire,80,Colorless,Rookidee,Stage1,Two Diamond,Anesaki Dynamic,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-211,211,Wooloo,70,Colorless,,Basic,One Diamond,Yoko Hishida,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-212,212,Dubwool,130,Colorless,Wooloo,Stage1,Two Diamond,You Iribi,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-213,213,Prank Spinner,,,,,Two Diamond,Toyste Beach,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-214,214,Plume Fossil,,,,,One Diamond,Ryo Ueda,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-215,215,Hitting Hammer,,,,,Two Diamond,Toyste Beach,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-216,216,Cover Fossil,,,,,One Diamond,Ryo Ueda,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-217,217,Flame Patch,,,,,Two Diamond,Studio Bora Inc.,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-218,218,Sitrus Berry,,,,,Two Diamond,AYUMI ODASHIMA,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-219,219,Heavy Helmet,,,,,Two Diamond,Toyste Beach,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-220,220,Lucky Mittens,,,,,Two Diamond,Toyste Beach,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-221,221,Marlon,,,,,Two Diamond,Hideki Ishikawa,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-222,222,Hala,,,,,Two Diamond,Teeziro,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-223,223,May,,,,,Two Diamond,Sanosuke Sakuma,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-224,224,Fantina,,,,,Two Diamond,hncl,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-225,225,Copycat,,,,,Two Diamond,Yuu Nishida,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-226,226,Lisia,,,,,Two Diamond,Cona Nitanda,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-227,227,Beautifly,130,Grass,Silcoon,Stage2,One Star,tono,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-228,228,Skiddo,80,Grass,,Basic,One Star,Shinya Komatsu,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-229,229,Rillaboom,150,Grass,Thwackey,Stage2,One Star,osare,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-230,230,Growlithe,70,Fire,,Basic,One Star,Yuu Nishida,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-231,231,Chandelure,140,Fire,Lampent,Stage2,One Star,REND,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-232,232,Magikarp,30,Water,,Basic,One Star,Tetsu Kayama,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-233,233,Ludicolo,140,Water,Lombre,Stage2,One Star,Shimaris Yukichi,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-234,234,Jellicent,120,Water,Frillish,Stage1,One Star,Haru Akasaka,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-235,235,Keldeo,100,Water,,Basic,One Star,Narumi Sato,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-236,236,Eiscue,80,Water,,Basic,One Star,Mékayu,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-237,237,Luxray,130,Lightning,Luxio,Stage2,One Star,GIDORA,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-238,238,Cofagrigus,120,Psychic,Yamask,Stage1,One Star,Apios,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-239,239,Gothita,60,Psychic,,Basic,One Star,Orca,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-240,240,Makuhita,80,Fighting,,Basic,One Star,Koji Nakata,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-241,241,Hippowdon,130,Fighting,Hippopotas,Stage1,One Star,Teeziro,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-242,242,Archeops,140,Fighting,Archen,Stage2,One Star,OKUBO,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-243,243,Pancham,60,Fighting,,Basic,One Star,Yukihiro Tada,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-244,244,Honchkrow,100,Darkness,Murkrow,Stage1,One Star,IKEDA Saki,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-245,245,Hydreigon,150,Darkness,Zweilous,Stage2,One Star,matazo,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-246,246,Corviknight,140,Metal,Corvisquire,Stage2,One Star,hncl,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-247,247,Goomy,40,Dragon,,Basic,One Star,Kariya,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-248,248,Delcatty,80,Colorless,Skitty,Stage1,One Star,MINAMINAMI Take,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-249,249,Stoutland,150,Colorless,Herdier,Stage2,One Star,Whisker,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-250,250,Rufflet,60,Colorless,,Basic,One Star,Saboteri,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-251,251,Mega Pinsir ex,170,Grass,,Basic,Two Star,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-252,252,Whimsicott ex,140,Grass,Cottonee,Stage1,Two Star,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-253,253,Rapidash ex,150,Fire,Ponyta,Stage1,Two Star,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-254,254,Mega Blaziken ex,210,Fire,Combusken,Stage2,Two Star,PLANETA Igarashi,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-255,255,Mega Gyarados ex,210,Water,Magikarp,Stage1,Two Star,PLANETA Igarashi,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-256,256,Greninja ex,170,Water,Frogadier,Stage2,Two Star,PLANETA Saito,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-257,257,Jolteon ex,140,Lightning,Eevee,Stage1,Two Star,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-258,258,Mega Ampharos ex,210,Lightning,Flaaffy,Stage2,Two Star,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-259,259,Mega Altaria ex,190,Psychic,Swablu,Stage1,Two Star,PLANETA Igarashi,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-260,260,Indeedee ex,130,Psychic,,Basic,Two Star,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-261,261,Hitmonchan ex,130,Fighting,,Basic,Two Star,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-262,262,Mega Absol ex,170,Darkness,,Basic,Two Star,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-263,263,Dragalge ex,150,Darkness,Skrelp,Stage1,Two Star,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-264,264,Melmetal ex,170,Metal,Meltan,Stage1,Two Star,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-265,265,Tauros ex,140,Colorless,,Basic,Two Star,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-266,266,Marlon,,,,,Two Star,Hideki Ishikawa,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-267,267,Hala,,,,,Two Star,Teeziro,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-268,268,May,,,,,Two Star,Sanosuke Sakuma,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-269,269,Fantina,,,,,Two Star,hncl,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-270,270,Copycat,,,,,Two Star,Yuu Nishida,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-271,271,Lisia,,,,,Two Star,Cona Nitanda,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-272,272,Mega Pinsir ex,170,Grass,,Basic,Two Star,Krgc,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-273,273,Whimsicott ex,140,Grass,Cottonee,Stage1,Two Star,Kanami Ogata,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-274,274,Rapidash ex,150,Fire,Ponyta,Stage1,Two Star,Kuroimori,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-275,275,Greninja ex,170,Water,Frogadier,Stage2,Two Star,Raita Kazama,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-276,276,Jolteon ex,140,Lightning,Eevee,Stage1,Two Star,kodama,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-277,277,Mega Ampharos ex,210,Lightning,Flaaffy,Stage2,Two Star,Amelicart,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-278,278,Indeedee ex,130,Psychic,,Basic,Two Star,Keisin,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-279,279,Hitmonchan ex,130,Fighting,,Basic,Two Star,nagimiso,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-280,280,Mega Absol ex,170,Darkness,,Basic,Two Star,kawayoo,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-281,281,Dragalge ex,150,Darkness,Skrelp,Stage1,Two Star,Shinji Kanda,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-282,282,Melmetal ex,170,Metal,Meltan,Stage1,Two Star,toriyufu,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-283,283,Tauros ex,140,Colorless,,Basic,Two Star,Ounishi,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-284,284,Mega Blaziken ex,210,Fire,Combusken,Stage2,Three Star,AKIRA EGAWA,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-285,285,Mega Gyarados ex,210,Water,Magikarp,Stage1,Three Star,danciao,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-286,286,Mega Altaria ex,190,Psychic,Swablu,Stage1,Three Star,Susumu Maeya,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-287,287,Bellsprout,60,Grass,,Basic,One Shiny,MAHOU,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-288,288,Weepinbell,90,Grass,Bellsprout,Stage1,One Shiny,MAHOU,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-289,289,Victreebel,140,Grass,Weepinbell,Stage2,One Shiny,MAHOU,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-290,290,Rowlet,60,Grass,,Basic,One Shiny,Souichirou Gunjima,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-291,291,Dartrix,80,Grass,Rowlet,Stage1,One Shiny,Souichirou Gunjima,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-292,292,Moltres,100,Fire,,Basic,One Shiny,Taiga Kasai,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-293,293,Litten,60,Fire,,Basic,One Shiny,whomor Inc.,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-294,294,Torracat,80,Fire,Litten,Stage1,One Shiny,whomor Inc.,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-295,295,Poliwag,60,Water,,Basic,One Shiny,MAHOU,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-296,296,Poliwhirl,90,Water,Poliwag,Stage1,One Shiny,MAHOU,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-297,297,Poliwrath,150,Water,Poliwhirl,Stage2,One Shiny,MAHOU,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-298,298,Articuno,100,Water,,Basic,One Shiny,Taiga Kasai,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-299,299,Manaphy,50,Water,,Basic,One Shiny,MAHOU,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-300,300,Popplio,60,Water,,Basic,One Shiny,Taiga Kasai,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-301,301,Brionne,90,Water,Popplio,Stage1,One Shiny,Taiga Kasai,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-302,302,Zapdos,100,Lightning,,Basic,One Shiny,Taiga Kasai,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-303,303,Oricorio,70,Lightning,,Basic,One Shiny,whomor Inc.,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-304,304,Zeraora,90,Lightning,,Basic,One Shiny,Souichirou Gunjima,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-305,305,Drowzee,70,Psychic,,Basic,One Shiny,Taiga Kasai,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-306,306,Hypno,100,Psychic,Drowzee,Stage1,One Shiny,Taiga Kasai,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-307,307,Geodude,70,Fighting,,Basic,One Shiny,Souichirou Gunjima,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-308,308,Graveler,100,Fighting,Geodude,Stage1,One Shiny,Souichirou Gunjima,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-309,309,Golem,160,Fighting,Graveler,Stage2,One Shiny,Souichirou Gunjima,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-310,310,Rockruff,60,Fighting,,Basic,One Shiny,Taiga Kasai,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-311,311,Alolan Diglett,50,Metal,,Basic,One Shiny,Souichirou Gunjima,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-312,312,Meowth,60,Colorless,,Basic,One Shiny,Taiga Kasai,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-313,313,Persian,90,Colorless,Meowth,Stage1,One Shiny,Taiga Kasai,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-314,314,Doduo,60,Colorless,,Basic,One Shiny,Souichirou Gunjima,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-315,315,Dodrio,80,Colorless,Doduo,Stage1,One Shiny,Souichirou Gunjima,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-316,316,Bidoof,60,Colorless,,Basic,One Shiny,MAHOU,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-317,317,Decidueye ex,170,Grass,Dartrix,Stage2,Two Shiny,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-318,318,Incineroar ex,180,Fire,Torracat,Stage2,Two Shiny,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-319,319,Palkia ex,150,Water,,Basic,Two Shiny,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-320,320,Primarina ex,180,Water,Brionne,Stage2,Two Shiny,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-321,321,Pikachu ex,120,Lightning,,Basic,Two Shiny,PLANETA Igarashi,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-322,322,Tapu Koko ex,130,Lightning,,Basic,Two Shiny,PLANETA Igarashi,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-323,323,Lycanroc ex,150,Fighting,Rockruff,Stage1,Two Shiny,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-324,324,Passimian ex,130,Fighting,,Basic,Two Shiny,PLANETA Tsuji,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-325,325,Alolan Dugtrio ex,130,Metal,Alolan Diglett,Stage1,Two Shiny,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-326,326,Dialga ex,150,Metal,,Basic,Two Shiny,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-327,327,Bibarel ex,160,Colorless,Bidoof,Stage1,Two Shiny,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-328,328,Arceus ex,140,Colorless,,Basic,Two Shiny,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-329,329,Lilligant,80,Grass,Petilil,Stage1,Crown,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-330,330,Klefki,50,Psychic,,Basic,Crown,PLANETA CG Works,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331
+B1-331,331,Flame Patch,,,,,Crown,Studio Bora Inc.,"normal, reverse, holo",Mega Rising,Pokémon TCG Pocket,331

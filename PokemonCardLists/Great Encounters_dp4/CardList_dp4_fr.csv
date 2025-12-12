@@ -1,0 +1,107 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+dp4-1,1,Brasegali,130,Feu,Galifeu,Niveau 2,Rare Holo,Kagemaru Himeno,"reverse, holo",Duels au Sommets,Diamant & Perle,106
+dp4-2,2,Cresselia,80,Psy,,De base,Rare Holo,Ryo Ueda,"reverse, holo",Duels au Sommets,Diamant & Perle,106
+dp4-3,3,Darkrai,70,Obscurité,,De base,Rare Holo,Masakazu Fukuda,"reverse, holo",Duels au Sommets,Diamant & Perle,106
+dp4-4,4,Darkrai,80,Obscurité,,De base,Rare Holo,Ryo Ueda,"reverse, holo",Duels au Sommets,Diamant & Perle,106
+dp4-5,5,Pachirisu,70,Électrique,,De base,Rare Holo,Hironobu Yoshida,"reverse, holo",Duels au Sommets,Diamant & Perle,106
+dp4-6,6,Porygon-Z,110,Incolore,Porygon2,Niveau 2,Rare Holo,Kent Kanetsuna,"normal, reverse, holo",Duels au Sommets,Diamant & Perle,106
+dp4-7,7,Motisma,70,Électrique,,De base,Rare Holo,Daisuke Ito,"reverse, holo",Duels au Sommets,Diamant & Perle,106
+dp4-8,8,Jungko,100,Plante,Massko,Niveau 2,Rare Holo,Masakazu Fukuda,"reverse, holo",Duels au Sommets,Diamant & Perle,106
+dp4-9,9,Laggron,130,Eau,Flobio,Niveau 2,Rare Holo,Kouki Saitou,"reverse, holo",Duels au Sommets,Diamant & Perle,106
+dp4-10,10,Bouldeneu,110,Plante,Saquedeneu,Niveau 1,Rare Holo,Kent Kanetsuna,"reverse, holo",Duels au Sommets,Diamant & Perle,106
+dp4-11,11,Togekiss,120,Incolore,Togetic,Niveau 2,Rare Holo,Kent Kanetsuna,"reverse, holo",Duels au Sommets,Diamant & Perle,106
+dp4-12,12,Altaria,80,Incolore,Tylton,Niveau 1,Rare,Kagemaru Himeno,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-13,13,Dardargnan,110,Plante,Coconfort,Niveau 2,Rare,Kouki Saitou,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-14,14,Papilusion,120,Plante,Chrysacier,Niveau 2,Rare,Sumiyoshi Kizuki,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-15,15,Kaorine,80,Combat,Balbuto,Niveau 1,Rare,Midori Harada,"normal, reverse, holo",Duels au Sommets,Diamant & Perle,106
+dp4-16,16,Dialga,90,Métal,,De base,Rare,Daisuke Ito,"normal, reverse, holo",Duels au Sommets,Diamant & Perle,106
+dp4-17,17,Brouhabam,130,Incolore,Ramboum,Niveau 2,Rare,Daisuke Ito,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-18,18,Demolosse,90,Obscurité,Malosse,Niveau 1,Rare,Ken Sugimori,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-19,19,Hypnomade,80,Psy,Soporifik,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-20,20,Krabboss,90,Eau,Krabby,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-21,21,Lokhlass,80,Eau,,De base,Rare,Atsuko Nishida,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-22,22,Latias,80,Incolore,,De base,Rare,Daisuke Ito,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-23,23,Latios,90,Incolore,,De base,Rare,Daisuke Ito,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-24,24,Mysdibule,70,Métal,,De base,Rare,Midori Harada,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-25,25,Milobellus,90,Eau,Barpau,Niveau 1,Rare,Suwama Chiaki,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-26,26,Palkia,90,Eau,,De base,Rare,Daisuke Ito,"normal, reverse, holo",Duels au Sommets,Diamant & Perle,106
+dp4-27,27,Colossinge,90,Combat,Férosinge,Niveau 1,Rare,Kagemaru Himeno,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-28,28,Roigada,80,Psy,Ramoloss,Niveau 1,Rare,Ken Sugimori,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-29,29,Zarbi H,60,Psy,,De base,Rare,Daisuke Ito,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-30,30,Wailord,200,Eau,Wailmer,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-31,31,Smogogo,80,Psy,Smogo,Niveau 1,Rare,Kouki Saitou,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-32,32,Grodoudou,90,Incolore,Rondoudou,Niveau 1,Rare,Kagemaru Himeno,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-33,33,Arbok,80,Psy,Abo,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-34,34,Cacturne,80,Obscurité,Cacnea,Niveau 1,Peu Commune,Midori Harada,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-35,35,Galifeu,80,Feu,Poussifeu,Niveau 1,Peu Commune,Naoyo Kimura,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-36,36,Cadoizo,70,Eau,,De base,Peu Commune,Masakazu Fukuda,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-37,37,Mustéflott,80,Eau,Mustébouée,Niveau 1,Peu Commune,Kouki Saitou,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-38,38,Rosabyss,80,Eau,Coquiperl,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-39,39,Granbull,90,Incolore,Snubbull,Niveau 1,Peu Commune,Mitsuhiro Arita,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-40,40,Massko,80,Plante,Arcko,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-41,41,Hariyama,100,Combat,Makuhita,Niveau 1,Peu Commune,Mitsuhiro Arita,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-42,42,Serpang,90,Eau,Coquiperl,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-43,43,Lineon,80,Incolore,Zigzaton,Niveau 1,Peu Commune,Kouki Saitou,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-44,44,Ramboum,80,Incolore,Chuchmur,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-45,45,Volcaropod,90,Feu,Limagma,Niveau 1,Peu Commune,Mitsuhiro Arita,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-46,46,Flobio,90,Eau,Gobou,Niveau 1,Peu Commune,Sumiyoshi Kizuki,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-47,47,Chrysacier,70,Plante,Chenipan,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-48,48,Bekipan,80,Eau,Goelise,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-49,49,Porygon2,70,Incolore,Porygon,Niveau 1,Peu Commune,Kent Kanetsuna,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-50,50,Chaffreux,90,Incolore,Chaglam,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-51,51,Relicanth,70,Eau,,De base,Peu Commune,Ken Sugimori,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-52,52,Seviper,80,Psy,,De base,Peu Commune,Masakazu Fukuda,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-53,53,Airmure,70,Métal,,De base,Peu Commune,Mitsuhiro Arita,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-54,54,Flagadoss,80,Eau,Ramoloss,Niveau 1,Peu Commune,Atsuko Nishida,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-55,55,Togetic,70,Incolore,Togepi,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-56,56,Zarbi F,50,Psy,,De base,Peu Commune,Daisuke Ito,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-57,57,Zarbi G,50,Psy,,De base,Peu Commune,Daisuke Ito,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-58,58,Wailmer,90,Eau,,De base,Commune,Satoshi Ohta,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-59,59,Mangriff,70,Incolore,,De base,Commune,Masakazu Fukuda,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-60,60,Balbuto,50,Combat,,De base,Commune,Sumiyoshi Kizuki,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-61,61,Mustébouée,60,Eau,,De base,Commune,Masakazu Fukuda,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-62,62,Cacnea,50,Plante,,De base,Commune,Saya　Tsuruta,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-63,63,Chenipan,40,Plante,,De base,Commune,Midori Harada,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-64,64,Coquiperl,40,Eau,,De base,Commune,Ken Sugimori,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-65,65,Soporifik,60,Psy,,De base,Commune,Ken Sugimori,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-66,66,Abo,60,Psy,,De base,Commune,Ken Sugimori,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-67,67,Barpau,30,Eau,,De base,Commune,Ken Sugimori,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-68,68,Chaglam,50,Incolore,,De base,Commune,Kagemaru Himeno,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-69,69,Malosse,50,Feu,,De base,Commune,Ken Sugimori,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-70,70,Toudoudou,50,Incolore,,De base,Commune,Ken Sugimori,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-71,71,Lumivole,70,Plante,,De base,Commune,Ken Sugimori,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-72,72,Rondoudou,60,Incolore,,De base,Commune,Kenkichi Toyama,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-73,73,Coconfort,80,Plante,Aspicot,Niveau 1,Commune,Ken Sugimori,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-74,74,Smogo,60,Psy,,De base,Commune,Lee HyunJung,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-75,75,Krabby,60,Eau,,De base,Commune,Ken Sugimori,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-76,76,Seleroc,60,Combat,,De base,Commune,Ken Sugimori,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-77,77,Lovdisc,60,Eau,,De base,Commune,Motofumi Fujiwara,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-78,78,Makuhita,60,Combat,,De base,Commune,Atsuko Nishida,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-79,79,Férosinge,50,Combat,,De base,Commune,Ken Sugimori,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-80,80,Gobou,60,Eau,,De base,Commune,Emi Yoshida,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-81,81,Porygon,50,Incolore,,De base,Commune,Kent Kanetsuna,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-82,82,Ramoloss,60,Eau,,De base,Commune,Saya　Tsuruta,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-83,83,Limagma,60,Feu,,De base,Commune,Masakazu Fukuda,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-84,84,Snubbull,60,Incolore,,De base,Commune,Atsuko Nishida,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-85,85,Solaroc,70,Combat,,De base,Commune,Ken Sugimori,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-86,86,Tylton,40,Incolore,,De base,Commune,Kanako Eo,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-87,87,Saquedeneu,70,Plante,,De base,Commune,Sumiyoshi Kizuki,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-88,88,Togepi,50,Incolore,,De base,Commune,Ken Sugimori,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-89,89,Poussifeu,50,Feu,,De base,Commune,Hiroki Fuchino,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-90,90,Arcko,50,Plante,,De base,Commune,Kouki Saitou,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-91,91,Zarbi L,50,Psy,,De base,Commune,Daisuke Ito,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-92,92,Muciole,70,Plante,,De base,Commune,Ken Sugimori,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-93,93,Aspicot,50,Plante,,De base,Commune,Mitsuhiro Arita,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-94,94,Chuchmur,50,Incolore,,De base,Commune,Takao Unno,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-95,95,Goelise,50,Eau,,De base,Commune,Ken Sugimori,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-96,96,Zigzaton,50,Incolore,,De base,Commune,Ken Sugimori,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-97,97,Pièce rune,,,,,Peu Commune,Daisuke Ito,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-98,98,Le dessin de Felicity,,,,,Peu Commune,Ken Sugimori,"normal, reverse, holo",Duels au Sommets,Diamant & Perle,106
+dp4-99,99,Restes,,,,,Peu Commune,Daisuke Ito,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-100,100,Stade clair de lune,,,,,Peu Commune,Ryo Ueda,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-101,101,Honor ball,,,,,Peu Commune,Ryo Ueda,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-102,102,Super bonbon,,,,,Peu Commune,Ryo Ueda,"normal, reverse",Duels au Sommets,Diamant & Perle,106
+dp4-103,103,Cresselia,100,Psy,Niveau Sup,Niveau Sup,Rare Holo LV.X,Shizurow,holo,Duels au Sommets,Diamant & Perle,106
+dp4-104,104,Darkrai,100,Obscurité,Niveau Sup,Niveau Sup,Rare Holo LV.X,Shizurow,holo,Duels au Sommets,Diamant & Perle,106
+dp4-105,105,Dialga,110,Métal,Niveau Sup,Niveau Sup,Rare Holo LV.X,Ryo Ueda,holo,Duels au Sommets,Diamant & Perle,106
+dp4-106,106,Palkia,120,Eau,Niveau Sup,Niveau Sup,Rare Holo LV.X,Ryo Ueda,holo,Duels au Sommets,Diamant & Perle,106

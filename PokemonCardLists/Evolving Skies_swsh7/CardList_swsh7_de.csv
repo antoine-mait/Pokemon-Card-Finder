@@ -1,0 +1,238 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+swsh7-1,1,Pinsir,120,Pflanze,,Basis,Selten,Shin Nagasawa,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-2,2,Hoppspross,40,Pflanze,,Basis,Häufig,Kagemaru Himeno,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-3,3,Hubelupf,60,Pflanze,Hoppspross,Rang 1,Ungewöhnlich,kirisAki,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-4,4,Papungha,90,Pflanze,Hubelupf,Rang 2,Holografisch Selten,Tika Matsuno,"reverse, holo",Drachenwandel,Schwert & Schild,237
+swsh7-5,5,Samurzel,50,Pflanze,,Basis,Häufig,otumami,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-6,6,Tropius,110,Pflanze,,Basis,Selten,Oswaldo KATO,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-7,7,Folipurba V,200,Pflanze,,Basis,Holografisch Selten V,5ban Graphics,holo,Drachenwandel,Schwert & Schild,237
+swsh7-8,8,Folipurba VMAX,310,Pflanze,Folipurba-V,VMAX,Holografisch Selten VMAX,PLANETA Tsuji,holo,Drachenwandel,Schwert & Schild,237
+swsh7-9,9,Lilminip,60,Pflanze,,Basis,Häufig,Mika Pikazo,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-10,10,Dressella,100,Pflanze,Lilminip,Rang 1,Selten,Kagemaru Himeno,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-11,11,Lithomith,60,Pflanze,,Basis,Häufig,Shigenori Negishi,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-12,12,Castellith,130,Pflanze,Lithomith,Rang 1,Ungewöhnlich,sowsow,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-13,13,Trombork V,210,Pflanze,,Basis,Holografisch Selten V,MUGENUP,holo,Drachenwandel,Schwert & Schild,237
+swsh7-14,14,Trombork VMAX,320,Pflanze,Trombork-V,VMAX,Holografisch Selten VMAX,MUGENUP,holo,Drachenwandel,Schwert & Schild,237
+swsh7-15,15,Cottini,50,Pflanze,,Basis,Häufig,Mizue,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-16,16,Cottomi,80,Pflanze,Cottini,Rang 1,Holografisch Selten,Kouki Saitou,"reverse, holo",Drachenwandel,Schwert & Schild,237
+swsh7-17,17,Knapfel,40,Pflanze,,Basis,Häufig,Miki Tanaka,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-18,18,Flamara VMAX,320,Feuer,Flamara-V,VMAX,Holografisch Selten VMAX,5ban Graphics,holo,Drachenwandel,Schwert & Schild,237
+swsh7-19,19,Entei,120,Feuer,,Basis,Holografisch Selten,NC Empire,"reverse, holo",Drachenwandel,Schwert & Schild,237
+swsh7-20,20,Victini,60,Feuer,,Basis,Holografisch Selten,Teeziro,"reverse, holo",Drachenwandel,Schwert & Schild,237
+swsh7-21,21,Ramoth V,210,Feuer,,Basis,Holografisch Selten V,kawayoo,holo,Drachenwandel,Schwert & Schild,237
+swsh7-22,22,Leufeo,60,Feuer,,Basis,Häufig,Misa Tsutsui,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-23,23,Pyroleo,130,Feuer,Leufeo,Rang 1,Ungewöhnlich,Hitoshi Ariga,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-24,24,Enton,70,Wasser,,Basis,Häufig,OKACHEKE,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-25,25,Entoron,120,Wasser,Enton,Rang 1,Ungewöhnlich,Kyoko Umemoto,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-26,26,Tentacha,60,Wasser,,Basis,Häufig,SATOSHI NAKAI,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-27,27,Tentoxa,120,Wasser,Tentacha,Rang 1,Ungewöhnlich,Mina Nakai,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-28,28,Garados V,220,Wasser,,Basis,Holografisch Selten V,PLANETA Tsuji,holo,Drachenwandel,Schwert & Schild,237
+swsh7-29,29,Garados VMAX,330,Wasser,Garados-V,VMAX,Holografisch Selten VMAX,Shin Nagasawa,holo,Drachenwandel,Schwert & Schild,237
+swsh7-30,30,Aquana VMAX,320,Wasser,Aquana-V,VMAX,Holografisch Selten VMAX,5ban Graphics,holo,Drachenwandel,Schwert & Schild,237
+swsh7-31,31,Suicune V,210,Wasser,,Basis,Holografisch Selten V,Ayaka Yoshida,holo,Drachenwandel,Schwert & Schild,237
+swsh7-32,32,Loturzel,60,Wasser,,Basis,Häufig,Teeziro,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-33,33,Lombrero,90,Wasser,Loturzel,Rang 1,Ungewöhnlich,miki kudo,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-34,34,Kappalores,140,Wasser,Lombrero,Rang 2,Holografisch Selten,sowsow,"reverse, holo",Drachenwandel,Schwert & Schild,237
+swsh7-35,35,Kanivanha,50,Wasser,,Basis,Häufig,Kyoko Umemoto,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-36,36,Tohaido,120,Wasser,Kanivanha,Rang 1,Selten,Kazuma Koda,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-37,37,Barschwa,30,Wasser,,Basis,Häufig,tetsuya koizumi,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-38,38,Milotic,120,Wasser,Barschwa,Rang 1,Selten,sui,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-39,39,Liebiskus,70,Wasser,,Basis,Häufig,Mizue,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-40,40,Glaziola V,210,Wasser,,Basis,Holografisch Selten V,5ban Graphics,holo,Drachenwandel,Schwert & Schild,237
+swsh7-41,41,Glaziola VMAX,310,Wasser,Glaziola-V,VMAX,Holografisch Selten VMAX,PLANETA Tsuji,holo,Drachenwandel,Schwert & Schild,237
+swsh7-42,42,Schallquap,70,Wasser,,Basis,Häufig,Mina Nakai,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-43,43,Frigometri,90,Wasser,,Basis,Häufig,Kagemaru Himeno,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-44,44,Arktip,70,Wasser,,Basis,Häufig,kirisAki,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-45,45,Arktilas,150,Wasser,Arktip,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-46,46,Lusardin,30,Wasser,,Basis,Selten,Teeziro,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-47,47,Kubuin,120,Wasser,,Basis,Ungewöhnlich,Mizue,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-48,48,Pescryodon V,220,Wasser,,Basis,Holografisch Selten V,Eske Yoshinob,holo,Drachenwandel,Schwert & Schild,237
+swsh7-49,49,Pikachu,60,Elektro,,Basis,Häufig,chibi,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-50,50,Raichu,130,Elektro,Pikachu,Rang 1,Holografisch Selten,Mitsuhiro Arita,"reverse, holo",Drachenwandel,Schwert & Schild,237
+swsh7-51,51,Blitza VMAX,300,Elektro,Blitza-V,VMAX,Holografisch Selten VMAX,5ban Graphics,holo,Drachenwandel,Schwert & Schild,237
+swsh7-52,52,Lampi,70,Elektro,,Basis,Häufig,sowsow,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-53,53,Lanturn,120,Elektro,Lampi,Rang 1,Ungewöhnlich,ryoma uratsuka,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-54,54,Voltilamm,60,Elektro,,Basis,Häufig,Yukiko Baba,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-55,55,Waaty,90,Elektro,Voltilamm,Rang 1,Ungewöhnlich,OKACHEKE,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-56,56,Ampharos,150,Elektro,Waaty,Rang 2,Selten,Saya Tsuruta,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-57,57,Emolga,70,Elektro,,Basis,Häufig,Nagomi Nijo,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-58,58,Lectragon V,220,Elektro,,Basis,Holografisch Selten V,Ryota Murayama,holo,Drachenwandel,Schwert & Schild,237
+swsh7-59,59,Lectragon VMAX,330,Elektro,Lectragon-V,VMAX,Holografisch Selten VMAX,5ban Graphics,holo,Drachenwandel,Schwert & Schild,237
+swsh7-60,60,Regieleki,120,Elektro,,Basis,Holografisch Selten,Shin Nagasawa,"reverse, holo",Drachenwandel,Schwert & Schild,237
+swsh7-61,61,Traumato,70,Psycho,,Basis,Häufig,nagimiso,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-62,62,Hypno,110,Psycho,Traumato,Rang 1,Ungewöhnlich,Miki Tanaka,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-63,63,Galar-Arktos,120,Psycho,,Basis,Holografisch Selten,Kagemaru Himeno,"reverse, holo",Drachenwandel,Schwert & Schild,237
+swsh7-64,64,Psiana V,200,Psycho,,Basis,Holografisch Selten V,5ban Graphics,holo,Drachenwandel,Schwert & Schild,237
+swsh7-65,65,Psiana VMAX,310,Psycho,Psiana-V,VMAX,Holografisch Selten VMAX,5ban Graphics,holo,Drachenwandel,Schwert & Schild,237
+swsh7-66,66,Woingenau,120,Psycho,,Basis,Häufig,Anesaki Dynamic,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-67,67,Zobiris,70,Psycho,,Basis,Häufig,Eri Yamaki,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-68,68,Fleknoil,60,Psycho,,Basis,Häufig,Yuka Morii,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-69,69,Fletiamo,90,Psycho,Fleknoil,Rang 1,Ungewöhnlich,nagimiso,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-70,70,Golgantes V,220,Psycho,,Basis,Holografisch Selten V,Eske Yoshinob,holo,Drachenwandel,Schwert & Schild,237
+swsh7-71,71,Flabébé,40,Psycho,,Basis,Häufig,OKACHEKE,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-72,72,Floette,70,Psycho,Flabébé,Rang 1,Ungewöhnlich,chibi,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-73,73,Florges,130,Psycho,Floette,Rang 2,Holografisch Selten,Kagemaru Himeno,"reverse, holo",Drachenwandel,Schwert & Schild,237
+swsh7-74,74,Feelinara V,200,Psycho,,Basis,Holografisch Selten V,aky CG Works,holo,Drachenwandel,Schwert & Schild,237
+swsh7-75,75,Feelinara VMAX,310,Psycho,Feelinara-V,VMAX,Holografisch Selten VMAX,Ryota Murayama,holo,Drachenwandel,Schwert & Schild,237
+swsh7-76,76,Irrbis,60,Psycho,,Basis,Häufig,Yuka Morii,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-77,77,Pumpdjinn,120,Psycho,Irrbis,Rang 1,Selten,Megumi Higuchi,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-78,78,Wommel,30,Psycho,,Basis,Häufig,Yukiko Baba,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-79,79,Bandelby,70,Psycho,Wommel,Rang 1,Ungewöhnlich,Saya Tsuruta,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-80,80,Marshadow,80,Psycho,,Basis,Holografisch Selten,Yuya Oka,"reverse, holo",Drachenwandel,Schwert & Schild,237
+swsh7-81,81,Nockchan,110,Kampf,,Basis,Häufig,Uta,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-82,82,Galar-Zapdos,110,Kampf,,Basis,Holografisch Selten,kodama,"reverse, holo",Drachenwandel,Schwert & Schild,237
+swsh7-83,83,Meditalis V,210,Kampf,,Basis,Holografisch Selten V,Satoshi Shirai,holo,Drachenwandel,Schwert & Schild,237
+swsh7-84,84,Hippopotas,100,Kampf,,Basis,Häufig,Yuya Oka,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-85,85,Hippoterus,150,Kampf,Hippopotas,Rang 1,Ungewöhnlich,Eri Yamaki,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-86,86,Kiesling,70,Kampf,,Basis,Häufig,Tomokazu Komiya,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-87,87,Sedimantur,110,Kampf,Kiesling,Rang 1,Ungewöhnlich,otumami,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-88,88,Brockoloss,180,Kampf,Sedimantur,Rang 2,Selten,Masakazu Fukuda,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-89,89,Mebrana,100,Kampf,Schallquap,Rang 1,Ungewöhnlich,tetsuya koizumi,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-90,90,Branawarz,170,Kampf,Mebrana,Rang 2,Selten,Pani Kobayashi,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-91,91,Wolwerock V,200,Kampf,,Basis,Holografisch Selten V,PLANETA Tsuji,holo,Drachenwandel,Schwert & Schild,237
+swsh7-92,92,Wolwerock VMAX,320,Kampf,Wolwerock-V,VMAX,Holografisch Selten VMAX,Mitsuhiro Arita,holo,Drachenwandel,Schwert & Schild,237
+swsh7-93,93,Galar-Lavados,120,Unlicht,,Basis,Holografisch Selten,Kazuma Koda,"reverse, holo",Drachenwandel,Schwert & Schild,237
+swsh7-94,94,Nachtara V,200,Unlicht,,Basis,Holografisch Selten V,5ban Graphics,holo,Drachenwandel,Schwert & Schild,237
+swsh7-95,95,Nachtara VMAX,310,Unlicht,Nachtara-V,VMAX,Holografisch Selten VMAX,AKIRA EGAWA,,Drachenwandel,Schwert & Schild,237
+swsh7-96,96,Blanas,80,Unlicht,Samurzel,Rang 1,Ungewöhnlich,Atsuko Nishida,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-97,97,Tengulist,150,Unlicht,Blanas,Rang 2,Selten,Masakazu Fukuda,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-98,98,Zurrokex,70,Unlicht,,Basis,Häufig,Shin Nagasawa,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-99,99,Irokex,120,Unlicht,Zurrokex,Rang 1,Ungewöhnlich,Yukiko Baba,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-100,100,Deponitox V,210,Unlicht,,Basis,Holografisch Selten V,Uta,holo,Drachenwandel,Schwert & Schild,237
+swsh7-101,101,Deponitox VMAX,330,Unlicht,Deponitox-V,VMAX,Holografisch Selten VMAX,5ban Graphics,holo,Drachenwandel,Schwert & Schild,237
+swsh7-102,102,Zorua,70,Unlicht,,Basis,Häufig,ryoma uratsuka,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-103,103,Zoroark,120,Unlicht,Zorua,Rang 1,Holografisch Selten,Souichirou Gunjima,"reverse, holo",Drachenwandel,Schwert & Schild,237
+swsh7-104,104,Kleptifux,70,Unlicht,,Basis,Häufig,Hasegawa Saki,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-105,105,Gaunux,100,Unlicht,Kleptifux,Rang 1,Selten,Kyoko Umemoto,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-106,106,Altaria,90,Drache,Wablu,Rang 1,Selten,sui,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-107,107,Kindwurm,70,Drache,,Basis,Häufig,ryoma uratsuka,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-108,108,Draschel,90,Drache,Kindwurm,Rang 1,Ungewöhnlich,tetsuya koizumi,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-109,109,Brutalanda,170,Drache,Draschel,Rang 2,Holografisch Selten,kodama,"reverse, holo",Drachenwandel,Schwert & Schild,237
+swsh7-110,110,Rayquaza V,210,Drache,,Basis,Holografisch Selten V,PLANETA Mochizuki,,Drachenwandel,Schwert & Schild,237
+swsh7-111,111,Rayquaza VMAX,320,Drache,Rayquaza-V,VMAX,Holografisch Selten VMAX,PLANETA Mochizuki,,Drachenwandel,Schwert & Schild,237
+swsh7-112,112,Dialga,130,Drache,,Basis,Holografisch Selten,Ryuta Fuse,"reverse, holo",Drachenwandel,Schwert & Schild,237
+swsh7-113,113,Kapuno,60,Drache,,Basis,Häufig,HYOGONOSUKE,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-114,114,Duodino,100,Drache,Kapuno,Rang 1,Ungewöhnlich,Akira Komayama,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-115,115,Trikephalo,170,Drache,Duodino,Rang 2,Holografisch Selten,hatachu,"reverse, holo",Drachenwandel,Schwert & Schild,237
+swsh7-116,116,Kyurem,120,Drache,,Basis,Holografisch Selten,Souichirou Gunjima,"reverse, holo",Drachenwandel,Schwert & Schild,237
+swsh7-117,117,UHaFnir V,200,Drache,,Basis,Holografisch Selten V,Ayaka Yoshida,holo,Drachenwandel,Schwert & Schild,237
+swsh7-118,118,Zygarde,130,Drache,,Basis,Holografisch Selten,otumami,"reverse, holo",Drachenwandel,Schwert & Schild,237
+swsh7-119,119,Sen-Long,120,Drache,,Basis,Selten,Tomokazu Komiya,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-120,120,Drapfel,80,Drache,Knapfel,Rang 1,Selten,Anesaki Dynamic,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-121,121,Schlapfel,90,Drache,Knapfel,Rang 1,Selten,Yuya Oka,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-122,122,Duraludon V,220,Drache,,Basis,Holografisch Selten V,PLANETA Mochizuki,holo,Drachenwandel,Schwert & Schild,237
+swsh7-123,123,Duraludon VMAX,330,Drache,Duraludon-V,VMAX,Holografisch Selten VMAX,PLANETA Mochizuki,,Drachenwandel,Schwert & Schild,237
+swsh7-124,124,Regidrago,130,Drache,,Basis,Holografisch Selten,Kouki Saitou,"reverse, holo",Drachenwandel,Schwert & Schild,237
+swsh7-125,125,Evoli,70,Farblos,,Basis,Häufig,Atsushi Furusawa,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-126,126,Teddiursa,70,Farblos,,Basis,Häufig,Mizue,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-127,127,Ursaring,140,Farblos,Teddiursa,Rang 1,Ungewöhnlich,Hasegawa Saki,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-128,128,Farbeagle,80,Farblos,,Basis,Selten,Kouki Saitou,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-129,129,Bummelz,70,Farblos,,Basis,Häufig,OKACHEKE,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-130,130,Muntier,90,Farblos,Bummelz,Rang 1,Ungewöhnlich,nagimiso,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-131,131,Letarking,180,Farblos,Muntier,Rang 2,Holografisch Selten,Mitsuhiro Arita,"reverse, holo",Drachenwandel,Schwert & Schild,237
+swsh7-132,132,Wablu,50,Farblos,,Basis,Häufig,Lee HyunJung,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-133,133,Yorkleff,60,Farblos,,Basis,Häufig,Naoyo Kimura,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-134,134,Terribark,100,Farblos,Yorkleff,Rang 1,Ungewöhnlich,kirisAki,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-135,135,Bissbark,160,Farblos,Terribark,Rang 2,Selten,Naoki Saito,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-136,136,Geronimatz,60,Farblos,,Basis,Häufig,0313,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-137,137,Washakwil,130,Farblos,Geronimatz,Rang 1,Ungewöhnlich,SATOSHI NAKAI,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-138,138,Dartiri,40,Farblos,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-139,139,Dartignis,80,Farblos,Dartiri,Rang 1,Ungewöhnlich,Yuya Oka,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-140,140,Fiaro,140,Farblos,Dartignis,Rang 2,Selten,Tika Matsuno,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-141,141,Aromalady,,,,,Ungewöhnlich,Megumi Mizutani,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-142,142,Boost-Shake,,,,,Ungewöhnlich,sadaji,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-143,143,Nachahmerin,,,,,Ungewöhnlich,Sanosuke Sakuma,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-144,144,Kristallhöhle,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-145,145,Buddelhandschuhe,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-146,146,Traumball,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-147,147,Elementarorden,,,,,Ungewöhnlich,Studio Bora Inc.,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-148,148,Gesichtsschutz,,,,,Ungewöhnlich,AYUMI ODASHIMA,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-149,149,Mac,,,,,Ungewöhnlich,take,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-150,150,Glücks-Eis,,,,,Ungewöhnlich,inose yukie,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-151,151,Mondsonnenorden,,,,,Ungewöhnlich,Studio Bora Inc.,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-152,152,Roy,,,,,Ungewöhnlich,take,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-153,153,Fließender-Angriff-Flugdrachenrolle,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-154,154,Rettungsbox,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-155,155,Schleifenorden,,,,,Ungewöhnlich,Studio Bora Inc.,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-156,156,Gummihandschuhe,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-157,157,Shoppingcenter,,,,,Ungewöhnlich,Oswaldo KATO,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-158,158,Fokussierter-Angriff-Bissdrachenrolle,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-159,159,Schneeblattorden,,,,,Ungewöhnlich,Studio Bora Inc.,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-160,160,Seelenmaske,,,,,Ungewöhnlich,AYUMI ODASHIMA,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-161,161,Sturmgebirge,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-162,162,Tauschbecher,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-163,163,Spielzeugfänger,,,,,Ungewöhnlich,sadaji,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-164,164,Amalias Entschluss,,,,,Ungewöhnlich,Taira Akitsu,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-165,165,Schatz-Energie,,,,,Ungewöhnlich,,"normal, reverse",Drachenwandel,Schwert & Schild,237
+swsh7-166,166,Folipurba V,200,Pflanze,,Basis,Ultra Selten,5ban Graphics,holo,Drachenwandel,Schwert & Schild,237
+swsh7-167,167,Folipurba V,200,Pflanze,,Basis,Ultra Selten,You Iribi,holo,Drachenwandel,Schwert & Schild,237
+swsh7-168,168,Trombork V,210,Pflanze,,Basis,Ultra Selten,MUGENUP,holo,Drachenwandel,Schwert & Schild,237
+swsh7-169,169,Flamara V,210,Feuer,,Basis,Ultra Selten,5ban Graphics,holo,Drachenwandel,Schwert & Schild,237
+swsh7-170,170,Ramoth V,210,Feuer,,Basis,Ultra Selten,Eske Yoshinob,holo,Drachenwandel,Schwert & Schild,237
+swsh7-171,171,Garados V,220,Wasser,,Basis,Ultra Selten,PLANETA Tsuji,holo,Drachenwandel,Schwert & Schild,237
+swsh7-172,172,Aquana V,210,Wasser,,Basis,Ultra Selten,5ban Graphics,,Drachenwandel,Schwert & Schild,237
+swsh7-173,173,Suicune V,210,Wasser,,Basis,Ultra Selten,Ayaka Yoshida,,Drachenwandel,Schwert & Schild,237
+swsh7-174,174,Glaziola V,210,Wasser,,Basis,Ultra Selten,5ban Graphics,holo,Drachenwandel,Schwert & Schild,237
+swsh7-175,175,Glaziola V,210,Wasser,,Basis,Ultra Selten,Narumi Sato,,Drachenwandel,Schwert & Schild,237
+swsh7-176,176,Pescryodon V,220,Wasser,,Basis,Ultra Selten,Eske Yoshinob,,Drachenwandel,Schwert & Schild,237
+swsh7-177,177,Blitza V,190,Elektro,,Basis,Ultra Selten,5ban Graphics,holo,Drachenwandel,Schwert & Schild,237
+swsh7-178,178,Lectragon V,220,Elektro,,Basis,Ultra Selten,PLANETA Mochizuki,,Drachenwandel,Schwert & Schild,237
+swsh7-179,179,Psiana V,200,Psycho,,Basis,Ultra Selten,5ban Graphics,,Drachenwandel,Schwert & Schild,237
+swsh7-180,180,Psiana V,200,Psycho,,Basis,Ultra Selten,sowsow,,Drachenwandel,Schwert & Schild,237
+swsh7-181,181,Golgantes V,220,Psycho,,Basis,Ultra Selten,Eske Yoshinob,,Drachenwandel,Schwert & Schild,237
+swsh7-182,182,Golgantes V,220,Psycho,,Basis,Ultra Selten,Oswaldo KATO,,Drachenwandel,Schwert & Schild,237
+swsh7-183,183,Feelinara V,200,Psycho,,Basis,Ultra Selten,aky CG Works,holo,Drachenwandel,Schwert & Schild,237
+swsh7-184,184,Feelinara V,200,Psycho,,Basis,Ultra Selten,Yuu Nishida,"normal, reverse, holo",Drachenwandel,Schwert & Schild,237
+swsh7-185,185,Meditalis V,210,Kampf,,Basis,Ultra Selten,Satoshi Shirai,,Drachenwandel,Schwert & Schild,237
+swsh7-186,186,Meditalis V,210,Kampf,,Basis,Ultra Selten,KIYOTAKA OSHIYAMA,,Drachenwandel,Schwert & Schild,237
+swsh7-187,187,Wolwerock V,200,Kampf,,Basis,Ultra Selten,PLANETA Tsuji,holo,Drachenwandel,Schwert & Schild,237
+swsh7-188,188,Nachtara V,200,Unlicht,,Basis,Ultra Selten,5ban Graphics,,Drachenwandel,Schwert & Schild,237
+swsh7-189,189,Nachtara V,200,Unlicht,,Basis,Ultra Selten,Teeziro,,Drachenwandel,Schwert & Schild,237
+swsh7-190,190,Deponitox V,210,Unlicht,,Basis,Ultra Selten,aky CG Works,holo,Drachenwandel,Schwert & Schild,237
+swsh7-191,191,Dragoran V,230,Drache,,Basis,Ultra Selten,Saki Hayashiro,,Drachenwandel,Schwert & Schild,237
+swsh7-192,192,Dragoran V,230,Drache,,Basis,Ultra Selten,Atsushi Furusawa,,Drachenwandel,Schwert & Schild,237
+swsh7-193,193,Rayquaza V,210,Drache,,Basis,Ultra Selten,PLANETA Mochizuki,,Drachenwandel,Schwert & Schild,237
+swsh7-194,194,Rayquaza V,210,Drache,,Basis,Ultra Selten,Ryuta Fuse,holo,Drachenwandel,Schwert & Schild,237
+swsh7-195,195,UHaFnir V,200,Drache,,Basis,Ultra Selten,Ayaka Yoshida,,Drachenwandel,Schwert & Schild,237
+swsh7-196,196,UHaFnir V,200,Drache,,Basis,Ultra Selten,Mitsuhiro Arita,,Drachenwandel,Schwert & Schild,237
+swsh7-197,197,Duraludon V,220,Drache,,Basis,Ultra Selten,PLANETA Mochizuki,holo,Drachenwandel,Schwert & Schild,237
+swsh7-198,198,Duraludon V,220,Drache,,Basis,Ultra Selten,Naoki Saito,holo,Drachenwandel,Schwert & Schild,237
+swsh7-199,199,Aromalady,,,,,Ultra Selten,En Morikura,,Drachenwandel,Schwert & Schild,237
+swsh7-200,200,Nachahmerin,,,,,Ultra Selten,Sanosuke Sakuma,,Drachenwandel,Schwert & Schild,237
+swsh7-201,201,Mac,,,,,Ultra Selten,Hitoshi Ariga,,Drachenwandel,Schwert & Schild,237
+swsh7-202,202,Roy,,,,,Ultra Selten,kirisAki,,Drachenwandel,Schwert & Schild,237
+swsh7-203,203,Amalias Entschluss,,,,,Ultra Selten,Taira Akitsu,,Drachenwandel,Schwert & Schild,237
+swsh7-204,204,Folipurba VMAX,310,Pflanze,Folipurba-V,VMAX,Versteckt Selten,PLANETA Tsuji,,Drachenwandel,Schwert & Schild,237
+swsh7-205,205,Folipurba VMAX,310,Pflanze,Folipurba-V,VMAX,Versteckt Selten,HYOGONOSUKE,holo,Drachenwandel,Schwert & Schild,237
+swsh7-206,206,Trombork VMAX,320,Pflanze,Trombork-V,VMAX,Versteckt Selten,MUGENUP,,Drachenwandel,Schwert & Schild,237
+swsh7-207,207,Garados VMAX,330,Wasser,Garados-V,VMAX,Versteckt Selten,Shin Nagasawa,,Drachenwandel,Schwert & Schild,237
+swsh7-208,208,Glaziola VMAX,310,Wasser,Glaziola-V,VMAX,Versteckt Selten,PLANETA Tsuji,,Drachenwandel,Schwert & Schild,237
+swsh7-209,209,Glaziola VMAX,310,Wasser,Glaziola-V,VMAX,Versteckt Selten,kirisAki,,Drachenwandel,Schwert & Schild,237
+swsh7-210,210,Lectragon VMAX,330,Elektro,Lectragon-V,VMAX,Versteckt Selten,5ban Graphics,,Drachenwandel,Schwert & Schild,237
+swsh7-211,211,Feelinara VMAX,310,Psycho,Feelinara-V,VMAX,Versteckt Selten,Ryota Murayama,,Drachenwandel,Schwert & Schild,237
+swsh7-212,212,Feelinara VMAX,310,Psycho,Feelinara-V,VMAX,Versteckt Selten,Taira Akitsu,,Drachenwandel,Schwert & Schild,237
+swsh7-213,213,Wolwerock VMAX,320,Kampf,Wolwerock-V,VMAX,Versteckt Selten,Mitsuhiro Arita,holo,Drachenwandel,Schwert & Schild,237
+swsh7-214,214,Nachtara VMAX,310,Unlicht,Nachtara-V,VMAX,Versteckt Selten,AKIRA EGAWA,,Drachenwandel,Schwert & Schild,237
+swsh7-215,215,Nachtara VMAX,310,Unlicht,Nachtara-V,VMAX,Versteckt Selten,KEIICHIRO ITO,,Drachenwandel,Schwert & Schild,237
+swsh7-216,216,Deponitox VMAX,330,Unlicht,Deponitox-V,VMAX,Versteckt Selten,5ban Graphics,holo,Drachenwandel,Schwert & Schild,237
+swsh7-217,217,Rayquaza VMAX,320,Drache,Rayquaza-V,VMAX,Versteckt Selten,PLANETA Mochizuki,,Drachenwandel,Schwert & Schild,237
+swsh7-218,218,Rayquaza VMAX,320,Drache,Rayquaza-V,VMAX,Versteckt Selten,Anesaki Dynamic,,Drachenwandel,Schwert & Schild,237
+swsh7-219,219,Duraludon VMAX,330,Drache,Duraludon-V,VMAX,Versteckt Selten,PLANETA Mochizuki,,Drachenwandel,Schwert & Schild,237
+swsh7-220,220,Duraludon VMAX,330,Drache,Duraludon-V,VMAX,Versteckt Selten,Saki Hayashiro,,Drachenwandel,Schwert & Schild,237
+swsh7-221,221,Aromalady,,,,,Versteckt Selten,En Morikura,,Drachenwandel,Schwert & Schild,237
+swsh7-222,222,Nachahmerin,,,,,Versteckt Selten,Sanosuke Sakuma,holo,Drachenwandel,Schwert & Schild,237
+swsh7-223,223,Mac,,,,,Versteckt Selten,Hitoshi Ariga,,Drachenwandel,Schwert & Schild,237
+swsh7-224,224,Roy,,,,,Versteckt Selten,kirisAki,,Drachenwandel,Schwert & Schild,237
+swsh7-225,225,Amalias Entschluss,,,,,Versteckt Selten,Taira Akitsu,,Drachenwandel,Schwert & Schild,237
+swsh7-226,226,Frosdedje,90,Wasser,Schneppke,Rang 1,Versteckt Selten,Studio Bora Inc.,holo,Drachenwandel,Schwert & Schild,237
+swsh7-227,227,Intelleon,150,Wasser,Phlegleon,Rang 2,Versteckt Selten,Saki Hayashiro,,Drachenwandel,Schwert & Schild,237
+swsh7-228,228,Cresselia,120,Psycho,,Basis,Versteckt Selten,Toyste Beach,,Drachenwandel,Schwert & Schild,237
+swsh7-229,229,Boost-Shake,,,,,Versteckt Selten,sadaji,,Drachenwandel,Schwert & Schild,237
+swsh7-230,230,Kristallhöhle,,,,,Versteckt Selten,Toyste Beach,,Drachenwandel,Schwert & Schild,237
+swsh7-231,231,Gesichtsschutz,,,,,Versteckt Selten,AYUMI ODASHIMA,holo,Drachenwandel,Schwert & Schild,237
+swsh7-232,232,Sturmgebirge,,,,,Versteckt Selten,Toyste Beach,holo,Drachenwandel,Schwert & Schild,237
+swsh7-233,233,Spielzeugfänger,,,,,Versteckt Selten,sadaji,,Drachenwandel,Schwert & Schild,237
+swsh7-234,234,Turffield-Stadion,,,,,Versteckt Selten,aky CG Works,,Drachenwandel,Schwert & Schild,237
+swsh7-235,235,Elektro-Energie,,,,,Versteckt Selten,,,Drachenwandel,Schwert & Schild,237
+swsh7-236,236,Finsternis-Energie,,,,,Versteckt Selten,,,Drachenwandel,Schwert & Schild,237
+swsh7-237,237,Metall-Energie,,,,,Versteckt Selten,,holo,Drachenwandel,Schwert & Schild,237

@@ -20,28 +20,54 @@ def fix_encoding(text):
     
     return text
 
-def get_card_name(card_number, language='FR'):
+def get_card_name(card_number, set_code, language='FR'):
     """
-    Get card name from card number
-    card_number: string like "017/094" or "017-094"
-    language: 'FR' or 'EN'
+    Get card name from set-specific database
+    
+    Args:
+        card_number: Card number (e.g., "001/130")
+        set_code: Set code (e.g., "XY12", "SV01")
+        language: 'FR' or 'EN' (default: 'FR')
+    
+    Returns:
+        Card name or None if not found
     """
-    # Clean the card number (remove set info)
-    number = card_number.split('/')[0].split('-')[0]
+    # Determine which JSON file to use
+    if language.upper() == 'EN':
+        json_file = 'cardList_EN.json'
+    else:
+        json_file = 'cardList.json'
     
-    # Pad with zeros if needed
-    number = number.zfill(3)
-    
-    # Load the appropriate JSON file
-    json_file = 'cardList_EN.json' if language == 'EN' else 'cardList.json'
+    if not os.path.exists(json_file):
+        print(f"  ⚠ Warning: Card list file {json_file} not found")
+        return None
     
     try:
         with open(json_file, 'r', encoding='utf-8') as f:
-            card_data = json.load(f)
-            return card_data.get(number, None)
-    except FileNotFoundError:
-        print(f"Error: {json_file} not found")
+            all_sets = json.load(f)
+        
+        # Check if set exists
+        if set_code not in all_sets:
+            print(f"  ⚠ Warning: Set '{set_code}' not found in {json_file}")
+            return None
+        
+        # Extract just the card number (before the /)
+        number = card_number.split('/')[0].lstrip('0')
+        if not number:  # In case it was "000"
+            number = "0"
+        
+        # Look up the card
+        card_name = all_sets[set_code].get(number)
+        
+        if card_name:
+            return card_name
+        else:
+            print(f"  ⚠ Card #{card_number} not found in set {set_code}")
+            return None
+            
+    except json.JSONDecodeError as e:
+        print(f"  ✗ Error: Invalid JSON in {json_file}: {e}")
         return None
-    except json.JSONDecodeError:
-        print(f"Error: Invalid JSON in {json_file}")
+    except Exception as e:
+        print(f"  ✗ Error reading card list: {e}")
         return None

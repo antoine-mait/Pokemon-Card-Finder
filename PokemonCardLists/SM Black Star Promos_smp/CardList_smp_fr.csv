@@ -1,0 +1,244 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+smp-SM01,SM01,Brindibou,50,Plante,,De base,Rare,Mitsuhiro Arita,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM02,SM02,Flamiaou,60,Feu,,De base,Rare,Megumi Mizutani,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM03,SM03,Otaquin,60,Eau,,De base,Rare,match,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM05,SM05,Ronflex GX,190,Incolore,,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM06,SM06,Rocabot,60,Combat,,De base,Rare,match,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM07,SM07,Picassaut,60,Incolore,,De base,Rare,match,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM08,SM08,Flamiaou,60,Feu,,De base,Rare,Kouki Saitou,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM09,SM09,Togedemaru,70,Électrique,,De base,Rare,match,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM10,SM10,Lampignon,100,Plante,Spododo,Niveau 1,Rare,Mizue,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM100,SM100,Lucario GX,210,Combat,Riolu,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM101,SM101,Necrozma Ailes de l’Aurore GX,180,Psy,,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM102,SM102,Necrozma Crinière du Couchant GX,190,Métal,,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM103,SM103,Lunala GX,230,Psy,Cosmovum,Niveau 2,Rare,PLANETA,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM104,SM104,Solgaleo GX,250,Métal,Cosmovum,Niveau 2,Rare,PLANETA,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM105,SM105,Lougaroc,120,Combat,Rocabot,Niveau 1,Rare,Shin Nagasawa,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM106,SM106,Necrozma Ailes de l’Aurore,130,Psy,,De base,Rare,Shin Nagasawa,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM107,SM107,Necrozma Crinière du Couchant,130,Métal,,De base,Rare,Shin Nagasawa,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM108,SM108,Pikachu de Sacha,70,Électrique,,De base,Commune,2017 Pikachu Project,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM109,SM109,Pikachu de Sacha,70,Électrique,,De base,Commune,2017 Pikachu Project,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM11,SM11,Denticrisse,110,Eau,,De base,Rare,Mizue,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM110,SM110,Pikachu de Sacha,70,Électrique,,De base,Commune,2017 Pikachu Project,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM111,SM111,Pikachu de Sacha,70,Électrique,,De base,Commune,2017 Pikachu Project,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM112,SM112,Pikachu de Sacha,70,Électrique,,De base,Commune,2017 Pikachu Project,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM113,SM113,Pikachu de Sacha,70,Électrique,,De base,Commune,2017 Pikachu Project,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM114,SM114,Pikachu de Sacha,70,Électrique,,De base,Commune,2017 Pikachu Project,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM115,SM115,Cancrelove,110,Plante,,De base,Rare,You Iribi,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM116,SM116,Câblifère,120,Électrique,,De base,Rare,TOKIYA,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM117,SM117,Sepiatroce,90,Psy,Sepiatop,Niveau 1,Rare,Shin Nagasawa,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM118,SM118,Lougaroc,120,Combat,Rocabot,Niveau 1,Rare,sui,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM119,SM119,Noeunoeuf,50,Plante,,De base,Rare,OOYAMA,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM12,SM12,Quartermac,110,Combat,,De base,Rare,Naoki Saito,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM120,SM120,Rocabot,50,Combat,,De base,Rare,Hideki Ishikawa,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM121,SM121,Raikou GX,170,Électrique,,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM122,SM122,Zygarde GX,180,Combat,,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM123,SM123,Necrozma Ailes de l’Aurore,130,Psy,,De base,Rare,nagimiso,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM124,SM124,Necrozma Crinière du Couchant,130,Métal,,De base,Rare,nagimiso,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM125,SM125,Mandrillon GX,210,Psy,Vémini,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM126,SM126,Ultra-Necrozma GX,190,Dragon,,De base,Rare,PLANETA Otani,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM127,SM127,Sablaireau d’Alola,120,Métal,Sabelette d’Alola,Niveau 1,Rare,kirisAki,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM128,SM128,Feunard d’Alola,110,Fée,Goupix d’Alola,Niveau 1,Rare,kirisAki,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM129,SM129,Kyogre,130,Eau,,De base,Rare,Anesaki Dynamic,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM13,SM13,Gouroutan,120,Incolore,,De base,Rare,Mitsuhiro Arita,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM130,SM130,Élecsprint,110,Électrique,Dynavolt,Niveau 1,Rare,Ryota Murayama,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM131,SM131,Bamboiselle,140,Métal,,De base,Rare,Masakazu Fukuda,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM132,SM132,Delcatty,90,Incolore,Skitty,Niveau 1,Rare,0313,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM133,SM133,Fulguris GX,180,Électrique,,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM134,SM134,Boréas GX,180,Incolore,,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM135,SM135,Latias,110,Dragon,,De base,Rare,Kouki Saitou,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM136,SM136,Latios,120,Dragon,,De base,Rare,Kouki Saitou,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM137,SM137,Reshiram GX,180,Feu,,De base,Rare,PLANETA Otani,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM138,SM138,Zekrom GX,180,Électrique,,De base,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM139,SM139,Drattak GX,250,Dragon,Drackhaus,Niveau 2,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM14,SM14,Lougaroc GX,200,Combat,Rocabot,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM140,SM140,Drattak,150,Dragon,Drackhaus,Niveau 2,Rare,Mitsuhiro Arita,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM141,SM141,Kyurem Blanc GX,190,Dragon,,De base,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM142,SM142,Kyurem,130,Dragon,,De base,Rare,TOKIYA,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM143,SM143,Sulfura,120,Feu,,De base,Rare,Hitoshi Ariga,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM144,SM144,Artikodin,120,Eau,,De base,Rare,Hitoshi Ariga,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM145,SM145,Électhor,120,Électrique,,De base,Rare,Hitoshi Ariga,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM146,SM146,Phyllali GX,200,Plante,Évoli,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM147,SM147,Givrali GX,200,Eau,Évoli,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM148,SM148,Festival des Champions,,,,,Rare,Naoki Saito,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM149,SM149,Suicune,110,Eau,,De base,Rare,Anesaki Dynamic,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM15,SM15,Zygarde,130,Combat,,De base,Rare,kawayoo,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM150,SM150,Raikou,120,Électrique,,De base,Rare,Kagemaru Himeno,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM151,SM151,Giratina,130,Psy,,De base,Rare,Hasuno,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM152,SM152,Tokopiyon,110,Fée,,De base,Rare,Mizue,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM153,SM153,Brindibou,60,Plante,,De base,Rare,Masakazu Fukuda,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM154,SM154,Tritox,60,Feu,,De base,Rare,Naoki Saito,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM155,SM155,Hyporoi GX,230,Eau,Hypocéan,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM156,SM156,Dracolosse GX,250,Dragon,Draco,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM157,SM157,Pikachu,60,Électrique,,De base,Rare,Megumi Mizutani,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM158,SM158,Dracaufeu,150,Feu,Reptincel,Niveau 2,Rare,Anesaki Dynamic,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM159,SM159,Électhor,110,Électrique,,De base,Rare,Misa Tsutsui,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM16,SM16,Solgaleo GX,250,Métal,Cosmovum,,Rare,PLANETA,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM160,SM160,Nidoqueen,160,Psy,Nidorina,Niveau 2,Rare,Midori Harada,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM161,SM161,Jirachi,70,Métal,,De base,Rare,Mizue,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM162,SM162,Pikachu,60,Électrique,,De base,Rare,Saya Tsuruta,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM163,SM163,Mimiqui,70,Fée,,De base,Rare,Saya Tsuruta,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM164,SM164,Deoxys,110,Psy,,De base,Rare,You Iribi,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM165,SM165,Ultra-Necrozma,130,Dragon,,De base,Rare,Shin Nagasawa,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM166,SM166,Magicarpe et Wailord GX,300,Eau,,,Rare,Mitsuhiro Arita,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM167,SM167,Celebi et Florizarre GX,270,Plante,,,Ultra Rare,Shin Nagasawa,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM168,SM168,Pikachu et Zekrom GX,240,Électrique,,,Ultra Rare,kawayoo,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM169,SM169,Évoli et Ronflex GX,270,Incolore,,,Ultra Rare,Tomokazu Komiya,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM17,SM17,Lunala GX,250,Psy,Cosmovum,,Rare,PLANETA,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM170,SM170,Détective Pikachu,90,Électrique,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM171,SM171,Pyroli GX,210,Feu,Évoli,,Rare,PLANETA Otani,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM172,SM172,Aquali GX,210,Eau,Évoli,,Rare,PLANETA Otani,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM173,SM173,Voltali GX,200,Électrique,Évoli,,Rare,PLANETA Otani,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM174,SM174,Évoli GX,160,Incolore,,,Rare,PLANETA Otani,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM175,SM175,Évoli GX,160,Incolore,,,Rare,PLANETA Otani,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM176,SM176,Évoli GX,160,Incolore,,,Rare,PLANETA Otani,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM177,SM177,Meltan,60,Métal,,De base,Rare,Shin Nagasawa,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM178,SM178,Melmetal GX,220,Métal,Meltan,,Rare,PLANETA Otani,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM179,SM179,Volcanion,120,Feu,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM18,SM18,Sablaireau d’Alola,110,Eau,Sabelette d’Alola,Niveau 1,Rare,TOKIYA,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM180,SM180,Ama-Ama,120,Combat,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM181,SM181,Melmetal,150,Métal,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM182,SM182,Persian,100,Incolore,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM183,SM183,Pikachu,70,Électrique,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM184,SM184,Évoli,50,Incolore,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM185,SM185,Typhlosion,150,Feu,Feurisson,Niveau 2,Rare,Hideki Ishikawa,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM186,SM186,Pyroli,110,Feu,Évoli,Niveau 1,Rare,Shin Nagasawa,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM187,SM187,Ossatueur d’Alola GX,200,Feu,Osselait,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM188,SM188,Kangourex GX,180,Incolore,,,Rare,aky CG Works,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM189,SM189,Tortank GX,240,Eau,Carabaffe,,Rare,sadaji,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM19,SM19,Plumeline,90,Psy,,De base,Rare,TOKIYA,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM190,SM190,Détective Pikachu,90,Électrique,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM191,SM191,Mewtwo et Mew GX,270,Psy,,,Rare,sui,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM192,SM192,Lucario et Melmetal GX,260,Métal,,,Rare,nagimiso,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM193,SM193,Carchacrok et Giratina GX,270,Dragon,,,Rare,Anesaki Dynamic,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM194,SM194,Détective Pikachu,90,Électrique,,De base,Rare,MPC Film,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM195,SM195,Dracaufeu GX,250,Feu,,,Rare,Framestore,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM196,SM196,Mewtwo GX,190,Psy,,,Rare,MPC Film,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM197,SM197,Amphinobi GX,230,Eau,,,Rare,MPC Film,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM198,SM198,Bulbizarre,70,Plante,,De base,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM199,SM199,Psykokwak,70,Eau,,De base,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM20,SM20,Bourrinos,140,Combat,Tiboudet,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM200,SM200,Snubbull,60,Fée,,De base,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM201,SM201,Reshiram et Dracaufeu GX,270,Feu,,De base,Ultra Rare,Ryota Murayama,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM202,SM202,Gaulet,100,Plante,,Niveau 1,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM203,SM203,Tokopisco,120,Eau,,De base,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM204,SM204,Necrozma,130,Psy,,De base,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM205,SM205,Terrakium,140,Combat,,De base,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM206,SM206,Pikachu,60,Électrique,,De base,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM207,SM207,Simularbre,110,Combat,,De base,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM208,SM208,Lucanon,150,Électrique,Chrysapile,Niveau 2,Rare,Misa Tsutsui,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM209,SM209,Ama-Ama,120,Combat,,De base,Rare,Shin Nagasawa,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM21,SM21,Draïeul,120,Dragon,,De base,Rare,match,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM210,SM210,"Sulfura, Électhor et Artikodin GX",300,Incolore,,De base,Rare,HYOGONOSUKE,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM211,SM211,Dracaufeu GX,250,Feu,,Niveau 2,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM212,SM212,Léviator GX,230,Eau,,Niveau 1,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM213,SM213,Raichu GX,210,Électrique,,Niveau 1,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM214,SM214,Mewtwo,120,Psy,,De base,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM215,SM215,Mew,60,Psy,,De base,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM216,SM216,Porygon-Z GX,240,Incolore,,Niveau 2,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM217,SM217,Desséliande et Noctunoir GX,270,Psy,,De base,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM218,SM218,Mouscoto,130,Plante,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM219,SM219,Entei,130,Feu,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM22,SM22,Brindibou,60,Plante,,De base,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM220,SM220,Phione,70,Eau,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM221,SM221,Pierroteknik,110,Psy,,De base,Rare,Shin Nagasawa,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM222,SM222,Magirêve,110,Psy,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM223,SM223,Terrakium,140,Combat,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM224,SM224,Celebi,70,Psy,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM225,SM225,Victini,70,Feu,,De base,Rare,Nagimiso,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM226,SM226,Dracaufeu,150,Feu,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM227,SM227,Pikachu,60,Électrique,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM228,SM228,Armored Mewtwo,120,Psy,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM229,SM229,Florizarre et Vipélierre GX,270,Plante,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM23,SM23,Flamiaou,70,Feu,,De base,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM230,SM230,Dracaufeu et Roussil GX,270,Feu,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM231,SM231,Festival des Champions,,,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM232,SM232,Pikachu GX,160,Électrique,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM233,SM233,Évoli GX,160,Incolore,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM234,SM234,Pikachu,60,Électrique,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM235,SM235,Évoli,60,Incolore,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM236,SM236,Sablaireau d’Alola GX,200,Eau,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM237,SM237,Phyllali,110,Plante,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM238,SM238,Givrali,110,Eau,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM239,SM239,Mégapagos GX,250,Combat,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM24,SM24,Otaquin,70,Eau,,De base,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM240,SM240,Mentali et Deoxys GX,260,Psy,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM241,SM241,Noctali et Darkrai GX,270,Obscurité,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM242,SM242,Évoli GX,160,Incolore,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM243,SM243,Regigigas,150,Incolore,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM244,SM244,Capumain,60,Incolore,,,Rare,,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM25,SM25,Floramantis,100,Plante,Mimantis,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM26,SM26,Sucreine,140,Plante,Candine,Niveau 2,Rare,Naoki Saito,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM27,SM27,Boumata,130,Feu,,De base,Rare,TOKIYA,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM28,SM28,Lucanon,150,Électrique,Chrysapile,Niveau 2,Rare,Shin Nagasawa,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM29,SM29,Mimiqui,70,Psy,,De base,Rare,Mitsuhiro Arita,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM30,SM30,Tokorico,110,Électrique,,De base,Rare,kirisAki,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM31,SM31,Tokorico,110,Électrique,,De base,Rare,kirisAki,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM32,SM32,Tokotoro GX,180,Plante,,,Rare,PLANETA,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM33,SM33,Tokorico GX,170,Électrique,,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM34,SM34,Chelours GX,210,Incolore,Nounourson,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM35,SM35,Mentali GX,200,Psy,Évoli,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM36,SM36,Noctali GX,200,Obscurité,Évoli,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM37,SM37,Archéduc GX,240,Plante,Efflèche,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM38,SM38,Félinferno GX,250,Feu,Matoufeu,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM39,SM39,Oratoria GX,250,Eau,Otarlette,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM40,SM40,Bébécaille,60,Dragon,,De base,Rare,Naoki Saito,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM41,SM41,Dodoala,80,Incolore,,De base,Rare,nagimiso,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM42,SM42,Cosmog,60,Psy,,De base,Rare,Megumi Mizutani,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM43,SM43,Miaouss d’Alola,60,Obscurité,,De base,Rare,Megumi Mizutani,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM44,SM44,Togedemaru,70,Électrique,,De base,Rare,Sanosuke Sakuma,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM45,SM45,Tokopiyon,110,Psy,,De base,Rare,You Iribi,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM46,SM46,Séviper,100,Psy,,De base,Rare,Eri Yamaki,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM47,SM47,Crabominable,140,Combat,Crabagarre,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM48,SM48,Zygarde,150,Dragon,,De base,Rare,Masakazu Fukuda,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM49,SM49,Chelours,120,Incolore,Nounourson,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM50,SM50,Tokorico GX,170,Électrique,,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM51,SM51,Miaouss d’Alola,60,Obscurité,,De base,Rare,sui,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM52,SM52,Sarmuraï,130,Plante,Sovkipou,Niveau 1,Rare,Naoki Saito,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM53,SM53,Sinistrail,120,Psy,,De base,Rare,Kouki Saitou,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM54,SM54,Lucario,120,Combat,Riolu,Niveau 1,Rare,Anesaki Dynamic,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM55,SM55,Archéduc,140,Plante,Efflèche,Niveau 2,Rare,Kouki Saitou,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM56,SM56,Sucreine GX,230,Plante,Candine,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM57,SM57,Ho-Oh GX,190,Feu,,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM58,SM58,Necrozma GX,180,Psy,,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM59,SM59,Marshadow GX,150,Combat,,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM60,SM60,Dracaufeu GX,250,Feu,Reptincel,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM61,SM61,Tokotoro,130,Plante,,De base,Rare,Megumi Mizutani,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM62,SM62,Sarmuraï GX,210,Plante,,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM63,SM63,Malamandre GX,200,Feu,,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM64,SM64,Silvallié,130,Incolore,Type:0,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM65,SM65,Raichu d’Alola,110,Électrique,Pikachu,Niveau 1,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM66,SM66,Cancrelove GX,170,Plante,,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM67,SM67,Bamboiselle GX,200,Métal,,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM68,SM68,Câblifère GX,180,Électrique,,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM69,SM69,Câblifère GX,190,Combat,,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM70,SM70,Ho-Oh Brillant,130,Feu,,De base,Rare,Hitoshi Ariga,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM71,SM71,Ékaïser GX,240,Dragon,Écaïd,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM72,SM72,Raichu d’Alola,110,Électrique,Pikachu,Niveau 1,Rare,Akira Komayama,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM73,SM73,Malamandre,110,Psy,Tritox,Niveau 1,Rare,Shin Nagasawa,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM74,SM74,Regirock,130,Combat,,De base,Rare,kawayoo,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM75,SM75,Registeel,130,Métal,,De base,Rare,Mitsuhiro Arita,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM76,SM76,Pikachu,70,Électrique,,De base,Rare,match,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM77,SM77,Mewtwo,120,Psy,,De base,Rare,Kouki Saitou,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM78,SM78,Festival des Champions,,,,,Rare,Naoki Saito,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM79,SM79,Celebi Brillant,70,Plante,,De base,Rare,Sanosuke Sakuma,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM80,SM80,Ho-Oh GX,190,Feu,,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM81,SM81,Pikachu,70,Électrique,,De base,Rare,Sanosuke Sakuma,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM82,SM82,Lugia Brillant,130,Incolore,,De base,Rare,Hitoshi Ariga,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM83,SM83,Zorua,60,Obscurité,,De base,Rare,kodama,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM84,SM84,Zoroark GX,210,Obscurité,Zorua,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM85,SM85,Marshadow,70,Psy,,De base,Rare,Emi Ando,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM86,SM86,Pikachu,60,Électrique,,De base,Rare,kodama,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM87,SM87,Latias,100,Psy,,De base,Rare,Mitsuhiro Arita,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM88,SM88,Latios,110,Psy,,De base,Rare,Mitsuhiro Arita,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM89,SM89,Zoroark,120,Obscurité,Zorua,Niveau 1,Rare,Misa Tsutsui,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM90,SM90,Raichu GX,210,Électrique,Pikachu,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM91,SM91,Silvallié GX,210,Incolore,Type:0,,Rare,5ban Graphics,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM92,SM92,Tokopisco,120,Eau,,De base,Rare,Sanosuke Sakuma,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM93,SM93,Marshadow,70,Psy,,De base,Rare,kirisAki,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM94,SM94,Motisma Lavage,90,Eau,,De base,Rare,Shigenori Negishi,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM95,SM95,Lucario,110,Combat,Riolu,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM96,SM96,Heatran,130,Métal,,De base,Rare,tetsuya koizumi,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM97,SM97,Argouste,110,Incolore,Manglouton,Niveau 1,Rare,nagimiso,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM98,SM98,Pikachu,60,Électrique,,De base,Rare,Saya Tsuruta,"normal, reverse, holo",Promo SM,Soleil et Lune,243
+smp-SM99,SM99,Mimiqui,70,Psy,,De base,Rare,Megumi Mizutani,"normal, reverse, holo",Promo SM,Soleil et Lune,243

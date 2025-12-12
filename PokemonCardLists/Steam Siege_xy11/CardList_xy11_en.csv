@@ -1,0 +1,117 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+xy11-1,1,Tangela,80,Grass,,Basic,Common,OOYAMA,"normal, reverse, holo",Steam Siege,XY,116
+xy11-2,2,Tangrowth,130,Grass,Tangela,Stage1,Uncommon,kirisAki,"normal, reverse, holo",Steam Siege,XY,116
+xy11-3,3,Hoppip,40,Grass,,Basic,Common,Mina Nakai,"normal, reverse, holo",Steam Siege,XY,116
+xy11-4,4,Skiploom,70,Grass,Hoppip,Stage1,Uncommon,Eri Yamaki,"normal, reverse, holo",Steam Siege,XY,116
+xy11-5,5,Jumpluff,90,Grass,Skiploom,Stage2,Rare,Suwama Chiaki,"normal, reverse, holo",Steam Siege,XY,116
+xy11-6,6,Yanma,70,Grass,,Basic,Common,match,"normal, reverse, holo",Steam Siege,XY,116
+xy11-7,7,Yanmega,110,Grass,Yanma,Stage1,Rare,Midori Harada,"normal, reverse, holo",Steam Siege,XY,116
+xy11-8,8,Yanmega BREAK,140,Grass,Yanmega,BREAK,Ultra Rare,5ban Graphics,"normal, reverse, holo",Steam Siege,XY,116
+xy11-9,9,Seedot,50,Grass,,Basic,Common,sui,"normal, reverse, holo",Steam Siege,XY,116
+xy11-10,10,Nuzleaf,70,Grass,Seedot,Stage1,Uncommon,Ayaka Yoshida,"normal, reverse, holo",Steam Siege,XY,116
+xy11-11,11,Shiftry,140,"Grass, Darkness",Nuzleaf,Stage2,Rare,Kagemaru Himeno,"normal, reverse, holo",Steam Siege,XY,116
+xy11-12,12,Foongus,40,Grass,,Basic,Common,Yuka Morii,"normal, reverse, holo",Steam Siege,XY,116
+xy11-13,13,Amoonguss,90,Grass,Foongus,Stage1,Rare,Ken Sugimori,"normal, reverse, holo",Steam Siege,XY,116
+xy11-14,14,Larvesta,70,Grass,,Basic,Common,Tomokazu Komiya,"normal, reverse, holo",Steam Siege,XY,116
+xy11-15,15,Volcarona,110,"Fire, Grass",Larvesta,Stage1,Rare,Kouki Saitou,"normal, reverse, holo",Steam Siege,XY,116
+xy11-16,16,Ponyta,60,Fire,,Basic,Common,Sumiyoshi Kizuki,"normal, reverse, holo",Steam Siege,XY,116
+xy11-17,17,Rapidash,90,Fire,Ponyta,Stage1,Uncommon,Yukiko Baba,"normal, reverse, holo",Steam Siege,XY,116
+xy11-18,18,Chimchar,60,Fire,,Basic,Common,Shibuzoh.,"normal, reverse, holo",Steam Siege,XY,116
+xy11-19,19,Monferno,80,Fire,Chimchar,Stage1,Uncommon,Mizue,"normal, reverse, holo",Steam Siege,XY,116
+xy11-20,20,Infernape,130,Fire,Monferno,Stage2,Rare,Naoki Saito,"normal, reverse, holo",Steam Siege,XY,116
+xy11-21,21,Talonflame BREAK,170,Fire,Talonflame,BREAK,Ultra Rare,5ban Graphics,"normal, reverse, holo",Steam Siege,XY,116
+xy11-22,22,Litleo,60,Fire,,Basic,Common,Kyoko Umemoto,"normal, reverse, holo",Steam Siege,XY,116
+xy11-23,23,Pyroar,120,Fire,Litleo,Stage1,Rare,Yumi,"normal, reverse, holo",Steam Siege,XY,116
+xy11-24,24,Pyroar BREAK,160,Fire,Pyroar,BREAK,Ultra Rare,5ban Graphics,"normal, reverse, holo",Steam Siege,XY,116
+xy11-25,25,Volcanion,130,Fire,,Basic,Rare,5ban Graphics,"normal, reverse, holo",Steam Siege,XY,116
+xy11-26,26,Volcanion EX,180,"Fire, Water",,Basic,Ultra Rare,5ban Graphics,"normal, reverse, holo",Steam Siege,XY,116
+xy11-27,27,Mantine,100,Water,,Basic,Common,DemizuPosuka,"normal, reverse, holo",Steam Siege,XY,116
+xy11-28,28,Shellos,70,Water,,Basic,Common,Sanosuke Sakuma,"normal, reverse, holo",Steam Siege,XY,116
+xy11-29,29,Gastrodon,110,Water,Shellos,Stage1,Rare,Aya Kusube,"normal, reverse, holo",Steam Siege,XY,116
+xy11-30,30,Oshawott,60,Water,,Basic,Common,sui,"normal, reverse, holo",Steam Siege,XY,116
+xy11-31,31,Dewott,90,Water,Oshawott,Stage1,Uncommon,Shin Nagasawa,"normal, reverse, holo",Steam Siege,XY,116
+xy11-32,32,Samurott,140,Water,Dewott,Stage2,Rare,Naoyo Kimura,"normal, reverse, holo",Steam Siege,XY,116
+xy11-33,33,Clauncher,60,Water,,Basic,Common,Kanako Eo,"normal, reverse, holo",Steam Siege,XY,116
+xy11-34,34,Clawitzer,100,Water,Clauncher,Stage1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Steam Siege,XY,116
+xy11-35,35,Clawitzer BREAK,130,Water,Clawitzer,BREAK,Ultra Rare,5ban Graphics,"normal, reverse, holo",Steam Siege,XY,116
+xy11-36,36,Bergmite,70,Water,,Basic,Common,Midori Harada,"normal, reverse, holo",Steam Siege,XY,116
+xy11-37,37,Avalugg,120,Water,Bergmite,Stage1,Rare,Saya Tsuruta,"normal, reverse, holo",Steam Siege,XY,116
+xy11-38,38,Mareep,60,Lightning,,Basic,Common,Eri Yamaki,"normal, reverse, holo",Steam Siege,XY,116
+xy11-39,39,Flaaffy,90,Lightning,Mareep,Stage1,Uncommon,MAHOU,"normal, reverse, holo",Steam Siege,XY,116
+xy11-40,40,Ampharos,140,Lightning,Flaaffy,Stage2,Rare,Kanako Eo,"normal, reverse, holo",Steam Siege,XY,116
+xy11-41,41,Joltik,30,Lightning,,Basic,Common,Ayaka Yoshida,"normal, reverse, holo",Steam Siege,XY,116
+xy11-42,42,Galvantula,90,"Lightning, Grass",Joltik,Stage1,Rare,match,"normal, reverse, holo",Steam Siege,XY,116
+xy11-43,43,Nidoran♂,60,Psychic,,Basic,Common,Hasuno,"normal, reverse, holo",Steam Siege,XY,116
+xy11-44,44,Nidorino,80,Psychic,Nidoran♂,Stage1,Uncommon,TOKIYA,"normal, reverse, holo",Steam Siege,XY,116
+xy11-45,45,Nidoking,150,Psychic,Nidorino,Stage2,Rare,Mina Nakai,"normal, reverse, holo",Steam Siege,XY,116
+xy11-46,46,Drifloon,60,Psychic,,Basic,Common,kodama,"normal, reverse, holo",Steam Siege,XY,116
+xy11-47,47,Drifblim,100,Psychic,Drifloon,Stage1,Uncommon,Miki Tanaka,"normal, reverse, holo",Steam Siege,XY,116
+xy11-48,48,Litwick,50,Psychic,,Basic,Common,Ken Sugimori,"normal, reverse, holo",Steam Siege,XY,116
+xy11-49,49,Lampent,80,Psychic,Litwick,Stage1,Uncommon,miki kudo,"normal, reverse, holo",Steam Siege,XY,116
+xy11-50,50,Chandelure,130,Psychic,Lampent,Stage2,Rare,Tomokazu Komiya,"normal, reverse, holo",Steam Siege,XY,116
+xy11-51,51,Hoopa,130,Psychic,,Basic,Rare,Yoshinobu Saito,"normal, reverse, holo",Steam Siege,XY,116
+xy11-52,52,Mankey,60,Fighting,,Basic,Common,Hitoshi Ariga,"normal, reverse, holo",Steam Siege,XY,116
+xy11-53,53,Primeape,90,Fighting,Mankey,Stage1,Rare,Masakazu Fukuda,"normal, reverse, holo",Steam Siege,XY,116
+xy11-54,54,Nosepass,70,Fighting,,Basic,Common,You Iribi,"normal, reverse, holo",Steam Siege,XY,116
+xy11-55,55,Probopass,120,Fighting,Nosepass,Stage1,Rare,MAHOU,"normal, reverse, holo",Steam Siege,XY,116
+xy11-56,56,Anorith,80,Fighting,Claw Fossil,RESTORED,Uncommon,Shigenori Negishi,"normal, reverse, holo",Steam Siege,XY,116
+xy11-57,57,Armaldo,150,Fighting,Anorith,Stage1,Rare,Satoshi Shirai,"normal, reverse, holo",Steam Siege,XY,116
+xy11-58,58,Croagunk,60,Fighting,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Steam Siege,XY,116
+xy11-59,59,Toxicroak,90,Fighting,Croagunk,Stage1,Rare,Hajime Kusajima,"normal, reverse, holo",Steam Siege,XY,116
+xy11-60,60,Sneasel,60,Darkness,,Basic,Common,Hajime Kusajima,"normal, reverse, holo",Steam Siege,XY,116
+xy11-61,61,Weavile,90,Darkness,Sneasel,Stage1,Rare,kawayoo,"normal, reverse, holo",Steam Siege,XY,116
+xy11-62,62,Spiritomb,70,Darkness,,Basic,Rare,Ken Sugimori,"normal, reverse, holo",Steam Siege,XY,116
+xy11-63,63,Pawniard,60,Darkness,,Basic,Common,Sumiyoshi Kizuki,"normal, reverse, holo",Steam Siege,XY,116
+xy11-64,64,Bisharp,100,"Darkness, Metal",Pawniard,Stage1,Rare,Shin Nagasawa,"normal, reverse, holo",Steam Siege,XY,116
+xy11-65,65,Yveltal,130,Darkness,,Basic,Rare,Hajime Kusajima,"normal, reverse, holo",Steam Siege,XY,116
+xy11-66,66,Yveltal BREAK,150,Darkness,Yveltal,BREAK,Ultra Rare,5ban Graphics,"normal, reverse, holo",Steam Siege,XY,116
+xy11-67,67,Steelix EX,180,Metal,,Basic,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Steam Siege,XY,116
+xy11-68,68,M Steelix EX,240,"Metal, Fighting",Steelix-EX,MEGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Steam Siege,XY,116
+xy11-69,69,Shieldon,90,Metal,Armor Fossil Shieldon,RESTORED,Uncommon,Mizue,"normal, reverse, holo",Steam Siege,XY,116
+xy11-70,70,Bastiodon,150,Metal,Shieldon,Stage1,Rare,match,"normal, reverse, holo",Steam Siege,XY,116
+xy11-71,71,Klink,50,Metal,,Basic,Common,Miki Tanaka,"normal, reverse, holo",Steam Siege,XY,116
+xy11-72,72,Klang,80,Metal,Klink,Stage1,Uncommon,Shigenori Negishi,"normal, reverse, holo",Steam Siege,XY,116
+xy11-73,73,Klinklang,140,Metal,Klang,Stage2,Rare,Midori Harada,"normal, reverse, holo",Steam Siege,XY,116
+xy11-74,74,Cobalion,120,Metal,,Basic,Rare,kirisAki,"normal, reverse, holo",Steam Siege,XY,116
+xy11-75,75,Magearna EX,160,Metal,,Basic,Ultra Rare,5ban Graphics,"normal, reverse, holo",Steam Siege,XY,116
+xy11-76,76,Marill,60,Fairy,,Basic,Common,Shibuzoh.,"normal, reverse, holo",Steam Siege,XY,116
+xy11-77,77,Azumarill,100,"Fairy, Water",Marill,Stage1,Uncommon,Sanosuke Sakuma,"normal, reverse, holo",Steam Siege,XY,116
+xy11-78,78,Gardevoir EX,170,Fairy,,Basic,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Steam Siege,XY,116
+xy11-79,79,M Gardevoir EX,210,"Fairy, Psychic",Gardevoir-EX,MEGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Steam Siege,XY,116
+xy11-80,80,Klefki,70,Fairy,,Basic,Uncommon,Saya Tsuruta,"normal, reverse, holo",Steam Siege,XY,116
+xy11-81,81,Xerneas,130,Fairy,,Basic,Rare,Megumi Mizutani,"normal, reverse, holo",Steam Siege,XY,116
+xy11-82,82,Xerneas BREAK,150,Fairy,Xerneas,BREAK,Ultra Rare,5ban Graphics,"normal, reverse, holo",Steam Siege,XY,116
+xy11-83,83,Druddigon,120,Dragon,,Basic,Rare,kawayoo,"normal, reverse, holo",Steam Siege,XY,116
+xy11-84,84,Deino,60,Dragon,,Basic,Common,Suwama Chiaki,"normal, reverse, holo",Steam Siege,XY,116
+xy11-85,85,Zweilous,90,Dragon,Deino,Stage1,Uncommon,Ken Sugimori,"normal, reverse, holo",Steam Siege,XY,116
+xy11-86,86,Hydreigon,150,Dragon,Zweilous,Stage2,Rare,Hideki Ishikawa,"normal, reverse, holo",Steam Siege,XY,116
+xy11-87,87,Hydreigon BREAK,190,Dragon,Hydreigon,BREAK,Ultra Rare,5ban Graphics,"normal, reverse, holo",Steam Siege,XY,116
+xy11-88,88,Meowth,60,Colorless,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Steam Siege,XY,116
+xy11-89,89,Persian,90,Colorless,Meowth,Stage1,Uncommon,Anesaki Dynamic,"normal, reverse, holo",Steam Siege,XY,116
+xy11-90,90,Aipom,60,Colorless,,Basic,Common,Naoki Saito,"normal, reverse, holo",Steam Siege,XY,116
+xy11-91,91,Ambipom,90,Colorless,Aipom,Stage1,Uncommon,Atsuko Nishida,"normal, reverse, holo",Steam Siege,XY,116
+xy11-92,92,Rufflet,60,Colorless,,Basic,Common,Mitsuhiro Arita,"normal, reverse, holo",Steam Siege,XY,116
+xy11-93,93,Braviary,120,Colorless,Rufflet,Stage1,Uncommon,Kyoko Umemoto,"normal, reverse, holo",Steam Siege,XY,116
+xy11-94,94,Fletchling,40,Colorless,,Basic,Common,TOKIYA,"normal, reverse, holo",Steam Siege,XY,116
+xy11-95,95,Fletchinder,70,Colorless,Fletchling,Stage1,Uncommon,Shigenori Negishi,"normal, reverse, holo",Steam Siege,XY,116
+xy11-96,96,Talonflame,130,Colorless,Fletchinder,Stage2,Rare,Kouki Saitou,"normal, reverse, holo",Steam Siege,XY,116
+xy11-97,97,Hawlucha,80,Colorless,,Basic,Uncommon,miki kudo,"normal, reverse, holo",Steam Siege,XY,116
+xy11-98,98,Armor Fossil Shieldon,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",Steam Siege,XY,116
+xy11-99,99,Captivating Poké Puff,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",Steam Siege,XY,116
+xy11-100,100,Claw Fossil Anorith,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",Steam Siege,XY,116
+xy11-101,101,Gardevoir Spirit Link,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Steam Siege,XY,116
+xy11-102,102,Greedy Dice,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",Steam Siege,XY,116
+xy11-103,103,Ninja Boy,,,,,Uncommon,Megumi Mizutani,"normal, reverse, holo",Steam Siege,XY,116
+xy11-104,104,Pokémon Ranger,,,,,Uncommon,Yusuke Ohmura,"normal, reverse, holo",Steam Siege,XY,116
+xy11-105,105,Special Charge,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",Steam Siege,XY,116
+xy11-106,106,Steelix Spirit Link,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Steam Siege,XY,116
+xy11-107,107,Volcanion EX,180,"Fire, Water",,Basic,Ultra Rare,5ban Graphics,"normal, reverse, holo",Steam Siege,XY,116
+xy11-108,108,Steelix EX,180,Metal,,Basic,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Steam Siege,XY,116
+xy11-109,109,M Steelix EX,240,"Metal, Fighting",Steelix-EX,MEGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Steam Siege,XY,116
+xy11-110,110,Magearna EX,160,Metal,,Basic,Ultra Rare,5ban Graphics,"normal, reverse, holo",Steam Siege,XY,116
+xy11-111,111,Gardevoir EX,170,Fairy,,Basic,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Steam Siege,XY,116
+xy11-112,112,M Gardevoir EX,210,"Fairy, Psychic",Gardevoir-EX,MEGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Steam Siege,XY,116
+xy11-113,113,Pokémon Ranger,,,,,Ultra Rare,Megumi Mizutani,"normal, reverse, holo",Steam Siege,XY,116
+xy11-114,114,Professor Sycamore,,,,,Ultra Rare,Yusuke Ohmura,"normal, reverse, holo",Steam Siege,XY,116
+xy11-115,115,Volcanion EX,180,"Fire, Water",,Basic,Secret Rare,5ban Graphics,"normal, reverse, holo",Steam Siege,XY,116
+xy11-116,116,Gardevoir EX,170,Fairy,,Basic,Secret Rare,Eske Yoshinob,"normal, reverse, holo",Steam Siege,XY,116

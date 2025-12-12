@@ -1,0 +1,63 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+base3-1,1,Aerodactyl,60,Kampf,,Rang 1,Selten,Kagemaru Himeno,"holo, 1st edition",Fossil,Grund,62
+base3-2,2,Arktos,70,Wasser,,Basis,Selten,Mitsuhiro Arita,"holo, 1st edition",Fossil,Grund,62
+base3-3,3,Ditto,50,Farblos,,Basis,Selten,Keiji Kinebuchi,"holo, 1st edition",Fossil,Grund,62
+base3-4,4,Dragoran,100,Farblos,,Rang 2,Selten,Kagemaru Himeno,"holo, 1st edition",Fossil,Grund,62
+base3-5,5,Gengar,80,Psycho,,Rang 2,Selten,Keiji Kinebuchi,"holo, 1st edition",Fossil,Grund,62
+base3-6,6,Alpollo,50,Psycho,,Rang 1,Selten,Ken Sugimori,"holo, 1st edition",Fossil,Grund,62
+base3-7,7,Kicklee,60,Kampf,,Basis,Selten,Ken Sugimori,"holo, 1st edition",Fossil,Grund,62
+base3-8,8,Hypno,90,Psycho,,Rang 1,Selten,Ken Sugimori,"holo, 1st edition",Fossil,Grund,62
+base3-9,9,Kabutops,60,Kampf,,Rang 2,Selten,Ken Sugimori,"holo, 1st edition",Fossil,Grund,62
+base3-10,10,Lapras,80,Wasser,,Basis,Selten,Ken Sugimori,"holo, 1st edition",Fossil,Grund,62
+base3-11,11,Magneton,80,Elektro,,Rang 1,Selten,Ken Sugimori,"holo, 1st edition",Fossil,Grund,62
+base3-12,12,Lavados,70,Feuer,,Basis,Selten,Mitsuhiro Arita,"holo, 1st edition",Fossil,Grund,62
+base3-13,13,Sleimok,70,Pflanze,,Rang 1,Selten,Mitsuhiro Arita,"holo, 1st edition",Fossil,Grund,62
+base3-14,14,Raichu,90,Elektro,,Rang 1,Selten,Mitsuhiro Arita,"holo, 1st edition",Fossil,Grund,62
+base3-15,15,Zapdos,80,Elektro,,Basis,Selten,Mitsuhiro Arita,"holo, 1st edition",Fossil,Grund,62
+base3-16,16,Aerodactyl,60,Kampf,,Rang 1,Selten,Kagemaru Himeno,"normal, 1st edition",Fossil,Grund,62
+base3-17,17,Arktos,70,Wasser,,Basis,Selten,Mitsuhiro Arita,"normal, 1st edition",Fossil,Grund,62
+base3-18,18,Ditto,50,Farblos,,Basis,Selten,Keiji Kinebuchi,"normal, 1st edition",Fossil,Grund,62
+base3-19,19,Dragoran,100,Farblos,,Rang 2,Selten,Kagemaru Himeno,"normal, 1st edition",Fossil,Grund,62
+base3-20,20,Gengar,80,Psycho,,Rang 2,Selten,Keiji Kinebuchi,"normal, 1st edition",Fossil,Grund,62
+base3-21,21,Alpollo,50,Psycho,,Rang 1,Selten,Ken Sugimori,"normal, 1st edition",Fossil,Grund,62
+base3-22,22,Kicklee,60,Kampf,,Basis,Selten,Ken Sugimori,"normal, 1st edition",Fossil,Grund,62
+base3-23,23,Hypno,90,Psycho,,Rang 1,Selten,Ken Sugimori,"normal, 1st edition",Fossil,Grund,62
+base3-24,24,Kabutops,60,Kampf,,Rang 2,Selten,Ken Sugimori,"normal, 1st edition",Fossil,Grund,62
+base3-25,25,Lapras,80,Wasser,,Basis,Selten,Ken Sugimori,"normal, 1st edition",Fossil,Grund,62
+base3-26,26,Magneton,80,Elektro,,Rang 1,Selten,Ken Sugimori,"normal, 1st edition",Fossil,Grund,62
+base3-27,27,Lavados,70,Feuer,,Basis,Selten,Mitsuhiro Arita,"normal, 1st edition",Fossil,Grund,62
+base3-28,28,Sleimok,70,Pflanze,,Rang 1,Selten,Mitsuhiro Arita,"normal, 1st edition",Fossil,Grund,62
+base3-29,29,Raichu,90,Elektro,,Rang 1,Selten,Mitsuhiro Arita,"normal, 1st edition",Fossil,Grund,62
+base3-30,30,Zapdos,80,Elektro,,Basis,Selten,Mitsuhiro Arita,"normal, 1st edition",Fossil,Grund,62
+base3-31,31,Arbok,60,Pflanze,,Rang 1,Ungewöhnlich,Ken Sugimori,"normal, 1st edition",Fossil,Grund,62
+base3-32,32,Austos,50,Wasser,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, 1st edition",Fossil,Grund,62
+base3-33,33,Nebulak,50,Psycho,,Basis,Ungewöhnlich,Mitsuhiro Arita,"normal, 1st edition",Fossil,Grund,62
+base3-34,34,Golbat,60,Pflanze,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, 1st edition",Fossil,Grund,62
+base3-35,35,Entoron,70,Wasser,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, 1st edition",Fossil,Grund,62
+base3-36,36,Geowaz,80,Kampf,,Rang 2,Ungewöhnlich,Kagemaru Himeno,"normal, 1st edition",Fossil,Grund,62
+base3-37,37,Georok,60,Kampf,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, 1st edition",Fossil,Grund,62
+base3-38,38,Kingler,60,Wasser,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, 1st edition",Fossil,Grund,62
+base3-39,39,Magmar,70,Feuer,,Basis,Ungewöhnlich,Mitsuhiro Arita,"normal, 1st edition",Fossil,Grund,62
+base3-40,40,Amoroso,70,Wasser,,Rang 2,Ungewöhnlich,Ken Sugimori,"normal, 1st edition",Fossil,Grund,62
+base3-41,41,Sandamer,70,Kampf,,Rang 1,Ungewöhnlich,Ken Sugimori,"normal, 1st edition",Fossil,Grund,62
+base3-42,42,Seemon,60,Wasser,,Rang 1,Ungewöhnlich,Ken Sugimori,"normal, 1st edition",Fossil,Grund,62
+base3-43,43,Lahmus,60,Psycho,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, 1st edition",Fossil,Grund,62
+base3-44,44,Tentoxa,60,Wasser,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, 1st edition",Fossil,Grund,62
+base3-45,45,Smogmog,60,Pflanze,,Rang 1,Ungewöhnlich,Mitsuhiro Arita,"normal, 1st edition",Fossil,Grund,62
+base3-46,46,Rettan,40,Pflanze,,Basis,Häufig,Kagemaru Himeno,"normal, 1st edition",Fossil,Grund,62
+base3-47,47,Kleinstein,50,Kampf,,Basis,Häufig,Kagemaru Himeno,"normal, 1st edition",Fossil,Grund,62
+base3-48,48,Sleima,50,Pflanze,,Basis,Häufig,Mitsuhiro Arita,"normal, 1st edition",Fossil,Grund,62
+base3-49,49,Seeper,40,Wasser,,Basis,Häufig,Mitsuhiro Arita,"normal, 1st edition",Fossil,Grund,62
+base3-50,50,Kabuto,30,Kampf,,Rang 1,Häufig,Ken Sugimori,"normal, 1st edition",Fossil,Grund,62
+base3-51,51,Krabby,50,Wasser,,Basis,Häufig,Mitsuhiro Arita,"normal, 1st edition",Fossil,Grund,62
+base3-52,52,Amonitas,40,Wasser,,Rang 1,Häufig,Kagemaru Himeno,"normal, 1st edition",Fossil,Grund,62
+base3-53,53,Enton,50,Wasser,,Basis,Häufig,Kagemaru Himeno,"normal, 1st edition",Fossil,Grund,62
+base3-54,54,Muschas,30,Wasser,,Basis,Häufig,Mitsuhiro Arita,"normal, 1st edition",Fossil,Grund,62
+base3-55,55,Flegmon,50,Psycho,,Basis,Häufig,Miki Tanaka,"normal, 1st edition",Fossil,Grund,62
+base3-56,56,Tentacha,30,Wasser,,Basis,Häufig,Kagemaru Himeno,"normal, 1st edition",Fossil,Grund,62
+base3-57,57,Zubat,40,Pflanze,,Basis,Häufig,Kagemaru Himeno,"normal, 1st edition",Fossil,Grund,62
+base3-58,58,Mr. Fuji,,,,,Ungewöhnlich,Ken Sugimori,"normal, 1st edition",Fossil,Grund,62
+base3-59,59,Energiesuche,,,,,Häufig,Keiji Kinebuchi,"normal, 1st edition",Fossil,Grund,62
+base3-60,60,Spieler,,,,,Häufig,Keiji Kinebuchi,"normal, 1st edition",Fossil,Grund,62
+base3-61,61,Wiederverwertung,,,,,Häufig,Keiji Kinebuchi,"normal, 1st edition",Fossil,Grund,62
+base3-62,62,Geheimnis-Fossil,10,,,,Häufig,Keiji Kinebuchi,"normal, 1st edition",Fossil,Grund,62

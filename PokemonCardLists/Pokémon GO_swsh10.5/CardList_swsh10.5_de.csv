@@ -1,0 +1,89 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+swsh10.5-001,001,Bisasam,70,Pflanze,,Basis,Häufig,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-002,002,Bisaknosp,100,Pflanze,Bisasam,Rang 1,Ungewöhnlich,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-003,003,Bisaflor,180,Pflanze,Bisaknosp,Rang 2,Holografisch Selten,,"reverse, holo",Pokémon GO,Schwert & Schild,88
+swsh10.5-004,004,Strahlendes Bisaflor,150,Pflanze,,Basis,"Selten, Strahlend",,holo,Pokémon GO,Schwert & Schild,88
+swsh10.5-005,005,Alola-Kokowei V,240,Pflanze,,Basis,Holografisch Selten V,,holo,Pokémon GO,Schwert & Schild,88
+swsh10.5-006,006,Webarak,60,Pflanze,,Basis,Häufig,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-007,007,Ariados,110,Pflanze,Webarak,Rang 1,Ungewöhnlich,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-008,008,Glumanda,60,Feuer,,Basis,Häufig,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-009,009,Glutexo,90,Feuer,Glumanda,Rang 1,Ungewöhnlich,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-010,010,Glurak,170,Feuer,Glutexo,Rang 2,Holografisch Selten,,"reverse, holo",Pokémon GO,Schwert & Schild,88
+swsh10.5-011,011,Strahlendes Glurak,160,Feuer,,Basis,"Selten, Strahlend",,holo,Pokémon GO,Schwert & Schild,88
+swsh10.5-012,012,Lavados,120,Feuer,,Basis,Holografisch Selten,,"reverse, holo",Pokémon GO,Schwert & Schild,88
+swsh10.5-013,013,Camaub,80,Feuer,,Basis,Häufig,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-014,014,Camerupt,140,Feuer,Camaub,Rang 1,Ungewöhnlich,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-015,015,Schiggy,70,Wasser,,Basis,Häufig,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-016,016,Schillok,90,Wasser,Schiggy,Rang 1,Ungewöhnlich,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-017,017,Turtok,170,Wasser,Schillok,Rang 2,Holografisch Selten,,"reverse, holo",Pokémon GO,Schwert & Schild,88
+swsh10.5-018,018,Strahlendes Turtok,150,Wasser,,Basis,"Selten, Strahlend",,holo,Pokémon GO,Schwert & Schild,88
+swsh10.5-019,019,Flegmon,70,Wasser,,Basis,Häufig,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-020,020,Lahmus,120,Wasser,Flegmon,Rang 1,Ungewöhnlich,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-021,021,Karpador,30,Wasser,,Basis,Häufig,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-022,022,Garados,170,Wasser,Karpador,Rang 1,Holografisch Selten,,"reverse, holo",Pokémon GO,Schwert & Schild,88
+swsh10.5-023,023,Lapras,120,Wasser,,Basis,Holografisch Selten,,"reverse, holo",Pokémon GO,Schwert & Schild,88
+swsh10.5-024,024,Arktos,120,Wasser,,Basis,Holografisch Selten,,"reverse, holo",Pokémon GO,Schwert & Schild,88
+swsh10.5-025,025,Reißlaus,70,Wasser,,Basis,Häufig,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-026,026,Tectass,130,Wasser,Reißlaus,Rang 1,Holografisch Selten,,"reverse, holo",Pokémon GO,Schwert & Schild,88
+swsh10.5-027,027,Pikachu,60,Elektro,,Basis,Häufig,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-028,028,Pikachu,70,Elektro,,Basis,Holografisch Selten,,"normal, reverse, holo",Pokémon GO,Schwert & Schild,88
+swsh10.5-029,029,Zapdos,120,Elektro,,Basis,Holografisch Selten,,"reverse, holo",Pokémon GO,Schwert & Schild,88
+swsh10.5-030,030,Mewtu V,220,Psycho,,Basis,Holografisch Selten V,,holo,Pokémon GO,Schwert & Schild,88
+swsh10.5-031,031,Mewtu VSTAR,280,Psycho,Mewtu-V,VSTAR,Holografisch Selten VMAX,,holo,Pokémon GO,Schwert & Schild,88
+swsh10.5-032,032,Natu,50,Psycho,,Basis,Häufig,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-033,033,Xatu,110,Psycho,Natu,Rang 1,Ungewöhnlich,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-034,034,Lunastein,90,Psycho,,Basis,Ungewöhnlich,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-035,035,Feelinara,120,Psycho,Evoli,Rang 1,Holografisch Selten,,"reverse, holo",Pokémon GO,Schwert & Schild,88
+swsh10.5-036,036,Onix,120,Kampf,,Basis,Häufig,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-037,037,Larvitar,60,Kampf,,Basis,Häufig,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-038,038,Pupitar,90,Kampf,Larvitar,Rang 1,Ungewöhnlich,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-039,039,Sonnfel,90,Kampf,,Basis,Ungewöhnlich,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-040,040,Meistagrif V,230,Kampf,,Basis,Holografisch Selten V,,holo,Pokémon GO,Schwert & Schild,88
+swsh10.5-041,041,Alola-Rattfratz,40,Unlicht,,Basis,Häufig,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-042,042,Alola-Rattikarl,120,Unlicht,Alola-Rattfratz,Rang 1,Häufig,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-043,043,Despotar,180,Unlicht,Pupitar,Rang 2,Holografisch Selten,,"reverse, holo",Pokémon GO,Schwert & Schild,88
+swsh10.5-044,044,Stahlos,180,Metall,Onix,Rang 1,Ungewöhnlich,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-045,045,Meltan,70,Metall,,Basis,Häufig,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-046,046,Melmetal,160,Metall,Meltan,Rang 1,Holografisch Selten,,"reverse, holo",Pokémon GO,Schwert & Schild,88
+swsh10.5-047,047,Melmetal V,220,Metall,,Basis,Holografisch Selten V,,holo,Pokémon GO,Schwert & Schild,88
+swsh10.5-048,048,Melmetal VMAX,330,Metall,Melmetal-V,VMAX,Holografisch Selten VMAX,,holo,Pokémon GO,Schwert & Schild,88
+swsh10.5-049,049,Dragoran V,230,Drache,,Basis,Holografisch Selten V,,holo,Pokémon GO,Schwert & Schild,88
+swsh10.5-050,050,Dragoran VSTAR,280,Drache,Dragoran-V,VSTAR,Holografisch Selten VSTAR,,holo,Pokémon GO,Schwert & Schild,88
+swsh10.5-051,051,Chaneira,130,Farblos,,Basis,Ungewöhnlich,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-052,052,Heiteira,200,Farblos,Chaneira,Rang 1,Holografisch Selten,,"reverse, holo",Pokémon GO,Schwert & Schild,88
+swsh10.5-053,053,Ditto,70,Farblos,,Basis,Holografisch Selten,,holo,Pokémon GO,Schwert & Schild,88
+swsh10.5-054,054,Evoli,60,Farblos,,Basis,Häufig,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-055,055,Relaxo,150,Farblos,,Basis,Holografisch Selten,,"reverse, holo",Pokémon GO,Schwert & Schild,88
+swsh10.5-056,056,Griffel,60,Farblos,,Basis,Häufig,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-057,057,Ambidiffel,90,Farblos,Griffel,Rang 1,Häufig,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-058,058,Letarking V,230,Farblos,,Basis,Holografisch Selten V,,holo,Pokémon GO,Schwert & Schild,88
+swsh10.5-059,059,Bidiza,70,Farblos,,Basis,Häufig,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-060,060,Bidifas,110,Farblos,Bidiza,Rang 1,Häufig,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-061,061,Dusselgurr,60,Farblos,,Basis,Häufig,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-062,062,Navitaub,80,Farblos,Dusselgurr,Rang 1,Häufig,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-063,063,Fasasnob,140,Farblos,Navitaub,Rang 2,Ungewöhnlich,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-064,064,Blanche,,,,,Ungewöhnlich,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-065,065,Candela,,,,,Ungewöhnlich,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-066,066,Ei-Brutmaschine,,,,,Ungewöhnlich,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-067,067,Lockmodul,,,,,Ungewöhnlich,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-068,068,PokéStop,,,,,Ungewöhnlich,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-069,069,Sonderbonbon,,,,,Ungewöhnlich,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-070,070,Spark,,,,,Ungewöhnlich,,"normal, reverse",Pokémon GO,Schwert & Schild,88
+swsh10.5-071,071,Alola-Kokowei V,240,Pflanze,,Basis,Ultra Selten,,holo,Pokémon GO,Schwert & Schild,88
+swsh10.5-072,072,Mewtu V,220,Psycho,,Basis,Ultra Selten,,holo,Pokémon GO,Schwert & Schild,88
+swsh10.5-073,073,Meistagrif V,230,Kampf,,Basis,Ultra Selten,,holo,Pokémon GO,Schwert & Schild,88
+swsh10.5-074,074,Meistagrif V,230,Kampf,,Basis,Ultra Selten,,holo,Pokémon GO,Schwert & Schild,88
+swsh10.5-075,075,Melmetal V,220,Metall,,Basis,Ultra Selten,,holo,Pokémon GO,Schwert & Schild,88
+swsh10.5-076,076,Dragoran V,230,Drache,,Basis,Ultra Selten,,holo,Pokémon GO,Schwert & Schild,88
+swsh10.5-077,077,Letarking V,230,Farblos,,Basis,Ultra Selten,,holo,Pokémon GO,Schwert & Schild,88
+swsh10.5-078,078,Forschung des Professors,,,,,Ultra Selten,,holo,Pokémon GO,Schwert & Schild,88
+swsh10.5-079,079,Mewtu VSTAR,280,Psycho,Mewtu-V,VSTAR,Versteckt Selten,,holo,Pokémon GO,Schwert & Schild,88
+swsh10.5-080,080,Melmetal VMAX,330,Metall,Melmetal-V,VMAX,Versteckt Selten,,holo,Pokémon GO,Schwert & Schild,88
+swsh10.5-081,081,Dragoran VSTAR,280,Drache,Dragoran-V,VSTAR,Versteckt Selten,,holo,Pokémon GO,Schwert & Schild,88
+swsh10.5-082,082,Blanche,,,,,Versteckt Selten,,holo,Pokémon GO,Schwert & Schild,88
+swsh10.5-083,083,Candela,,,,,Versteckt Selten,,holo,Pokémon GO,Schwert & Schild,88
+swsh10.5-084,084,Forschung des Professors,,,,,Versteckt Selten,,holo,Pokémon GO,Schwert & Schild,88
+swsh10.5-085,085,Spark,,,,,Versteckt Selten,,holo,Pokémon GO,Schwert & Schild,88
+swsh10.5-086,086,Mewtu VSTAR,280,Psycho,Mewtu-V,VSTAR,Versteckt Selten,,holo,Pokémon GO,Schwert & Schild,88
+swsh10.5-087,087,Ei-Brutmaschine,,,,,Versteckt Selten,,holo,Pokémon GO,Schwert & Schild,88
+swsh10.5-088,088,Lockmodul,,,,,Versteckt Selten,,holo,Pokémon GO,Schwert & Schild,88

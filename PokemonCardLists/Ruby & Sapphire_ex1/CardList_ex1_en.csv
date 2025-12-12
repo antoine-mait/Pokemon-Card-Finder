@@ -1,0 +1,110 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+ex1-1,1,Aggron,110,Metal,Lairon,Stage2,Rare,Mitsuhiro Arita,"reverse, holo",Ruby & Sapphire,EX,109
+ex1-2,2,Beautifly,80,Grass,Silcoon,Stage2,Rare,Hajime Kusajima,"reverse, holo",Ruby & Sapphire,EX,109
+ex1-3,3,Blaziken,100,Fire,Combusken,Stage2,Rare,Kouki Saitou,"reverse, holo",Ruby & Sapphire,EX,109
+ex1-4,4,Camerupt,90,Fire,Numel,Stage1,Rare,Ken Sugimori,"reverse, holo",Ruby & Sapphire,EX,109
+ex1-5,5,Delcatty,70,Colorless,Skitty,Stage1,Rare,Atsuko Nishida,"reverse, holo",Ruby & Sapphire,EX,109
+ex1-6,6,Dustox,90,Grass,Cascoon,Stage2,Rare,Midori Harada,"reverse, holo",Ruby & Sapphire,EX,109
+ex1-7,7,Gardevoir,100,Psychic,Kirlia,Stage2,Rare,Ken Sugimori,"reverse, holo",Ruby & Sapphire,EX,109
+ex1-8,8,Hariyama,90,Fighting,Makuhita,Stage1,Rare,Naoyo Kimura,"reverse, holo",Ruby & Sapphire,EX,109
+ex1-9,9,Manectric,70,Lightning,Electrike,Stage1,Rare,Mitsuhiro Arita,"reverse, holo",Ruby & Sapphire,EX,109
+ex1-10,10,Mightyena,70,Darkness,Poochyena,Stage1,Rare,Atsuko Nishida,"reverse, holo",Ruby & Sapphire,EX,109
+ex1-11,11,Sceptile,120,Grass,Grovyle,Stage2,Rare,Midori Harada,"reverse, holo",Ruby & Sapphire,EX,109
+ex1-12,12,Slaking,120,Colorless,Vigoroth,Stage2,Rare,Ken Sugimori,"reverse, holo",Ruby & Sapphire,EX,109
+ex1-13,13,Swampert,110,Water,Marshtomp,Stage2,Rare,Mitsuhiro Arita,"reverse, holo",Ruby & Sapphire,EX,109
+ex1-14,14,Wailord,120,Water,Wailmer,Stage1,Rare,Ken Sugimori,"reverse, holo",Ruby & Sapphire,EX,109
+ex1-15,15,Blaziken,110,Fire,Combusken,Stage2,Rare,Ken Sugimori,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-16,16,Breloom,70,Grass,Shroomish,Stage1,Rare,Ken Sugimori,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-17,17,Donphan,80,Fighting,Phanpy,Stage1,Rare,Kagemaru Himeno,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-18,18,Nosepass,60,Fighting,,Basic,Rare,Mitsuhiro Arita,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-19,19,Pelipper,70,Water,Wingull,Stage1,Rare,Kouki Saitou,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-20,20,Sceptile,100,Grass,Grovyle,Stage2,Rare,Ken Sugimori,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-21,21,Seaking,70,Water,Goldeen,Stage1,Rare,Hajime Kusajima,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-22,22,Sharpedo,70,Water,Carvanha,Stage1,Rare,Hajime Kusajima,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-23,23,Swampert,100,Water,Marshtomp,Stage2,Rare,Ken Sugimori,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-24,24,Weezing,80,Grass,Koffing,Stage1,Rare,Atsuko Nishida,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-25,25,Aron,50,Metal,,Basic,Uncommon,Midori Harada,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-26,26,Cascoon,70,Grass,Wurmple,Stage1,Uncommon,Midori Harada,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-27,27,Combusken,70,Fire,Torchic,Stage1,Uncommon,Kouki Saitou,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-28,28,Combusken,80,Fire,Torchic,Stage1,Uncommon,Ken Sugimori,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-29,29,Delcatty,80,Colorless,Skitty,Stage1,Uncommon,Ken Sugimori,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-30,30,Electrike,50,Lightning,,Basic,Uncommon,Hajime Kusajima,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-31,31,Grovyle,70,Grass,Treecko,Stage1,Uncommon,Midori Harada,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-32,32,Grovyle,80,Grass,Treecko,Stage1,Uncommon,Ken Sugimori,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-33,33,Hariyama,80,Fighting,Makuhita,Stage1,Uncommon,Ken Sugimori,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-34,34,Kirlia,70,Psychic,Ralts,Stage1,Uncommon,Ken Sugimori,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-35,35,Kirlia,70,Psychic,Ralts,Stage1,Uncommon,Atsuko Nishida,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-36,36,Lairon,70,Metal,Aron,Stage1,Uncommon,Ken Sugimori,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-37,37,Lairon,80,Metal,Aron,Stage1,Uncommon,Mitsuhiro Arita,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-38,38,Linoone,70,Colorless,Zigzagoon,Stage1,Uncommon,Ken Sugimori,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-39,39,Manectric,70,Lightning,Electrike,Stage1,Uncommon,Ken Sugimori,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-40,40,Marshtomp,70,Water,Mudkip,Stage1,Uncommon,Mitsuhiro Arita,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-41,41,Marshtomp,80,Water,Mudkip,Stage1,Uncommon,Ken Sugimori,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-42,42,Mightyena,70,Darkness,Poochyena,Stage1,Uncommon,Ken Sugimori,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-43,43,Silcoon,60,Grass,Wurmple,Stage1,Uncommon,Hajime Kusajima,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-44,44,Skitty,40,Colorless,,Basic,Uncommon,Midori Harada,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-45,45,Slakoth,40,Colorless,,Basic,Uncommon,Kagemaru Himeno,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-46,46,Swellow,70,Colorless,Taillow,Stage1,Uncommon,Ken Sugimori,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-47,47,Vigoroth,70,Colorless,Slakoth,Stage1,Uncommon,Kagemaru Himeno,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-48,48,Wailmer,80,Water,,Basic,Uncommon,Mitsuhiro Arita,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-49,49,Aron,40,Metal,,Basic,Common,Mitsuhiro Arita,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-50,50,Aron,50,Metal,,Basic,Common,Ken Sugimori,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-51,51,Carvanha,40,Water,,Basic,Common,Hajime Kusajima,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-52,52,Electrike,50,Lightning,,Basic,Common,Ken Sugimori,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-53,53,Electrike,50,Lightning,,Basic,Common,Mitsuhiro Arita,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-54,54,Koffing,50,Grass,,Basic,Common,Atsuko Nishida,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-55,55,Goldeen,50,Water,,Basic,Common,Hajime Kusajima,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-56,56,Makuhita,50,Fighting,,Basic,Common,Ken Sugimori,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-57,57,Makuhita,50,Fighting,,Basic,Common,Kagemaru Himeno,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-58,58,Makuhita,50,Fighting,,Basic,Common,Naoyo Kimura,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-59,59,Mudkip,50,Water,,Basic,Common,Mitsuhiro Arita,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-60,60,Mudkip,50,Water,,Basic,Common,Ken Sugimori,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-61,61,Numel,50,Fire,,Basic,Common,Ken Sugimori,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-62,62,Phanpy,50,Fighting,,Basic,Common,Kagemaru Himeno,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-63,63,Poochyena,40,Darkness,,Basic,Common,Ken Sugimori,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-64,64,Poochyena,50,Darkness,,Basic,Common,Atsuko Nishida,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-65,65,Poochyena,50,Darkness,,Basic,Common,Naoyo Kimura,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-66,66,Ralts,50,Psychic,,Basic,Common,Ken Sugimori,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-67,67,Ralts,50,Psychic,,Basic,Common,Atsuko Nishida,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-68,68,Ralts,50,Psychic,,Basic,Common,Kagemaru Himeno,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-69,69,Shroomish,40,Grass,,Basic,Common,Atsuko Nishida,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-70,70,Skitty,40,Colorless,,Basic,Common,Ken Sugimori,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-71,71,Skitty,50,Colorless,,Basic,Common,Atsuko Nishida,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-72,72,Taillow,40,Colorless,,Basic,Common,Kagemaru Himeno,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-73,73,Torchic,40,Fire,,Basic,Common,Ken Sugimori,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-74,74,Torchic,50,Fire,,Basic,Common,Kouki Saitou,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-75,75,Treecko,40,Grass,,Basic,Common,Midori Harada,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-76,76,Treecko,40,Grass,,Basic,Common,Ken Sugimori,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-77,77,Wingull,40,Water,,Basic,Common,Kouki Saitou,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-78,78,Wurmple,50,Grass,,Basic,Common,Hajime Kusajima,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-79,79,Zigzagoon,40,Colorless,,Basic,Common,Atsuko Nishida,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-80,80,Energy Removal 2,,,,,Uncommon,Keiji Kinebuchi,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-81,81,Energy Restore,,,,,Uncommon,Hideyuki Nakajima,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-82,82,Energy Switch,,,,,Uncommon,Ken Ikuji,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-83,83,Lady Outing,,,,,Uncommon,Ken Sugimori,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-84,84,Lum Berry,,,,,Uncommon,Kazuo Yazawa,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-85,85,Oran Berry,,,,,Uncommon,Kazuo Yazawa,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-86,86,Poké Ball,,,,,Uncommon,K. Hoshiba,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-87,87,Pokémon Reversal,,,,,Uncommon,Hiromichi Sugiyama,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-88,88,PokéNav,,,,,Uncommon,Katsura Tabata,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-89,89,Professor Birch,,,,,Uncommon,Ken Sugimori,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-90,90,Energy Search,,,,,Common,Kai Ishikawa,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-91,91,Potion,,,,,Common,Keiji Kinebuchi,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-92,92,Switch,,,,,Common,Hiromichi Sugiyama,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-93,93,Darkness Energy,,,,,Rare,Milky Isobe,"normal, reverse, holo",Ruby & Sapphire,EX,109
+ex1-94,94,Metal Energy,,,,,Rare,Milky Isobe,"normal, reverse, holo",Ruby & Sapphire,EX,109
+ex1-95,95,Rainbow Energy,,,,,Rare,Takumi Akabane,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-96,96,Chansey ex,120,Colorless,,,Rare,Ryo Ueda,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-97,97,Electabuzz ex,90,Lightning,,,Rare,Hikaru Koike,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-98,98,Hitmonchan ex,90,Fighting,,,Rare,Hiromichi Sugiyama,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-99,99,Lapras ex,110,Water,,,Rare,Hikaru Koike,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-100,100,Magmar ex,90,Fire,,,Rare,Hikaru Koike,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-101,101,Mewtwo ex,100,Psychic,,,Rare,Katsura Tabata,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-102,102,Scyther ex,80,Grass,,,Rare,Ryo Ueda,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-103,103,Sneasel ex,80,Darkness,,,Rare,Ryo Ueda,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-104,104,Grass Energy,,,,Basic,Common,,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-105,105,Fighting Energy,,,,Basic,Common,,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-106,106,Water Energy,,,,Basic,Common,,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-107,107,Psychic Energy,,,,Basic,Common,,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-108,108,Fire Energy,,,,Basic,Common,,"normal, reverse",Ruby & Sapphire,EX,109
+ex1-109,109,Lightning Energy,,,,Basic,Common,,"normal, reverse",Ruby & Sapphire,EX,109

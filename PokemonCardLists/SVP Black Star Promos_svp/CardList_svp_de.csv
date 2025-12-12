@@ -1,0 +1,193 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+svp-001,001,Felori,70,Pflanze,,Basis,Keine,Yuu Nishida,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-002,002,Krokel,80,Feuer,,Basis,Keine,Ryuta Fuse,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-003,003,Kwaks,70,Wasser,,Basis,Keine,Narumi Sato,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-004,004,Mimigma-ex,190,Psycho,,Basis,Keine,PLANETA Yamashita,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-005,005,Bailonda,170,Wasser,Fuentente,Rang 2,Keine,kodama,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-006,006,Pamomamo,130,Elektro,Pamamo,Rang 2,Keine,GIDORA,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-007,007,Resladero,70,Kampf,,Basis,Keine,Yuya Oka,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-008,008,Knattatox,140,Metall,Knattox,Rang 1,Keine,DOM,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-009,009,Spinsidias,120,Pflanze,Tarundel,Rang 1,Keine,Anesaki Dynamic,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-010,010,Psiopatra,110,Psycho,Flattutu,Rang 1,Keine,Sanosuke Sakuma,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-011,011,Arkani,130,Feuer,Fukano,Rang 1,Keine,Ryuta Fuse,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-012,012,Heerashai,150,Wasser,,Basis,Keine,Shin Nagasawa,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-013,013,Miraidon,120,Elektro,,Basis,Keine,Akira Komayama,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-014,014,Koraidon,130,Kampf,,Basis,Keine,Mina Nakai,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-015,015,Waaty,90,Elektro,Voltilamm,Rang 1,Keine,0313,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-016,016,Ampharos-ex,330,Elektro,Waaty,Rang 2,Keine,PLANETA Tsuji,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-017,017,Lucario-ex,260,Kampf,Riolu,Rang 1,Keine,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-018,018,Mopex-ex,210,Farblos,,Basis,Keine,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-019,019,Espinodon,160,Wasser,Cryospino,Rang 2,Keine,Oswaldo KATO,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-020,020,Granforgita,140,Psycho,Tafforgita,Rang 2,Keine,Anesaki Dynamic,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-021,021,Kramurx,60,Unlicht,,Basis,Keine,Shiburingaru,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-022,022,Pelipper,120,Farblos,Wingull,Rang 1,Keine,Nisota Niso,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-023,023,Olini,60,Pflanze,,Basis,Keine,Misa Tsutsui,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-024,024,Fukano,90,Feuer,,Basis,Keine,Uta,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-025,025,Forgita,70,Psycho,,Basis,Keine,Kouki Saitou,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-026,026,Knattox,60,Metall,,Basis,Keine,Mina Nakai,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-027,027,Pikachu,60,Elektro,,Basis,Keine,Atsushi Furusawa,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-028,028,Miraidon-ex,220,Elektro,,Basis,Keine,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-029,029,Koraidon-ex,230,Kampf,,Basis,Keine,aky CG Works,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-030,030,Baojian-ex,220,Wasser,,Basis,Keine,aky CG Works,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-031,031,Granforgita-ex,300,Psycho,Tafforgita,Rang 2,Keine,takuyoa,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-032,032,Epitaff-ex,320,Kampf,Rasaff,Rang 2,Keine,PLANETA Hiiragi,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-033,033,Maskagato-ex,310,Pflanze,Feliospa,Rang 2,Keine,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-034,034,Skelokrok-ex,340,Feuer,Lokroko,Rang 2,Keine,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-035,035,Bailonda-ex,320,Wasser,Fuentente,Rang 2,Keine,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-036,036,Delfinator,150,Wasser,Normifin,Rang 1,Keine,nagimiso,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-037,037,Pii,30,Psycho,,Basis,Keine,Mina Nakai,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-038,038,Togekiss,150,Psycho,Togetic,Rang 2,Keine,OKACHEKE,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-039,039,Flunkifer,90,Metall,,Basis,Keine,Souichirou Gunjima,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-040,040,Pamo,50,Elektro,,Basis,Keine,Ryuta Fuse,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-041,041,Paldea-Felino,60,Unlicht,,Basis,Keine,kirisAki,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-042,042,Friedwuff,130,Psycho,Gruff,Rang 1,Keine,Pani Kobayashi,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-043,043,Evoli,60,Farblos,,Basis,Keine,saino misaki,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-044,044,Glumanda,60,Feuer,,Basis,Keine,MINAMINAMI Take,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-045,045,Paradies Resort,,,,,Keine,Naoki Saito,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-046,046,Bisasam,70,Pflanze,,Basis,Keine,OKACHEKE,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-047,047,Glumanda,70,Feuer,,Basis,Keine,NC Empire,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-048,048,Schiggy,70,Wasser,,Basis,Keine,Gemi,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-049,049,Zapdos-ex,200,Elektro,,Basis,Keine,takuyoa,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-050,050,Simsala-ex,310,Psycho,Kadabra,Rang 2,Keine,Mitsuhiro Arita,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-051,051,Relaxo,150,Farblos,,Basis,Keine,GOSSAN,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-052,052,Mewtu,130,Psycho,,Basis,Keine,Bun Toujo,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-053,053,Mew-ex,180,Psycho,,Basis,Keine,Natsumi Yoshida,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-054,054,Quajutsu-ex,300,Wasser,Amphizel,Rang 2,Keine,takuyoa,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-055,055,Kangama-ex,230,Farblos,,Basis,Keine,N-DESIGN Inc.,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-056,056,Glurak-ex,330,Unlicht,Glutexo,Rang 2,Keine,takuyoa,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-057,057,Yuyu,110,Feuer,,Basis,Keine,Dsuke,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-058,058,Eisenbündel,100,Wasser,,Basis,Keine,Lee HyunJung,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-059,059,Xatu,100,Psycho,Natu,Rang 1,Keine,GOSSAN,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-060,060,Durengard,150,Metall,Duokles,Rang 2,Keine,Takeshi Nakamura,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-061,061,Tannza,70,Pflanze,,Basis,Keine,Nobuhiro Imagawa,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-062,062,Fatalitee,30,Psycho,,Basis,Keine,kurumitsu,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-063,063,Kolowal,170,Wasser,Flaniwal,Rang 1,Keine,GOSSAN,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-064,064,Cryospino,90,Wasser,Frospino,Rang 1,Keine,Teeziro,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-065,065,Brüllschweif,90,Psycho,,Basis,Keine,GIDORA,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-066,066,Eisenbündel,100,Wasser,,Basis,Keine,Teeziro,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-067,067,Donnersichel-ex,230,Unlicht,,Basis,Keine,takuyoa,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-068,068,Eisenkrieger-ex,220,Psycho,,Basis,Keine,aky CG Works,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-069,069,Hefel,50,Psycho,,Basis,Keine,sowsow,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-070,070,Gruff,70,Psycho,,Basis,Keine,Nisota Niso,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-071,071,Mobtiff,60,Unlicht,,Basis,Keine,Kagemaru Himeno,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-072,072,Riesenzahn-ex,250,Kampf,,Basis,Keine,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-073,073,Eisenrad-ex,220,Metall,,Basis,Keine,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-074,074,Glurak-ex,330,Unlicht,Glutexo,Rang 2,Keine,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-075,075,Mimigma,70,Psycho,,Basis,Keine,Mitsuhiro Arita,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-076,076,Felori,60,Pflanze,,Basis,Keine,kurumitsu,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-077,077,Feliospa,90,Pflanze,Felori,Rang 1,Keine,GIDORA,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-078,078,Maskagato-ex,310,Pflanze,Feliospa,Rang 2,Keine,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-079,079,Krokel,80,Feuer,,Basis,Keine,OKACHEKE,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-080,080,Lokroko,110,Feuer,Krokel,Rang 1,Keine,Hideki Ishikawa,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-081,081,Skelokrok-ex,340,Feuer,Lokroko,Rang 2,Keine,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-082,082,Kwaks,70,Wasser,,Basis,Keine,GIDORA,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-083,083,Fuentente,90,Wasser,Kwaks,Rang 1,Keine,Atsushi Furusawa,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-084,084,Bailonda-ex,320,Wasser,Fuentente,Rang 2,Keine,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-086,086,Mastifioso-ex,260,Unlicht,Mobtiff,Rang 1,Keine,PLANETA Mochizuki,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-087,087,Felori-ex,200,Pflanze,,Basis,Keine,takuyoa,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-088,088,Pikachu,70,Elektro,,Basis,Keine,saino misaki,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-089,089,Impergator,180,Wasser,Tyracroc,Rang 2,Keine,Kurata So,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-090,090,Metang,100,Metall,Tanhel,Rang 1,Keine,Uta,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-091,091,Koraidon,140,Drache,,Basis,Keine,Anesaki Dynamic,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-092,092,Miraidon,110,Drache,,Basis,Keine,akagi,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-093,093,Kanivanha,50,Wasser,,Basis,Keine,Tonji Matsuno,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-094,094,Wampitz,130,Elektro,Blipp,Rang 1,Keine,Mizue,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-095,095,Pii,30,Psycho,,Basis,Keine,Tika Matsuno,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-096,096,Mopex,120,Farblos,,Basis,Keine,Hasuno,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-097,097,Flatterhaar,90,Psycho,,Basis,Keine,Takumi Wada,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-098,098,Eisendorn,140,Elektro,,Basis,Keine,Tonji Matsuno,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-099,099,Sproxi,50,Farblos,,Basis,Keine,Hitoshi Ariga,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-100,100,Affiti-ex,250,Farblos,Sproxi,Rang 1,Keine,aky CG Works,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-101,101,Pikachu,70,Elektro,,Basis,Keine,Jiro Sasumo,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-103,103,Hundemon-ex,270,Unlicht,Hunduster,Rang 1,Keine,PLANETA Tsuji,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-104,104,Melmetal-ex,300,Metall,Meltan,Rang 1,Keine,PLANETA Igarashi,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-105,105,Crimanzo-ex,260,Feuer,Knarbon,Rang 1,Keine,PLANETA Tsuji,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-106,106,Pikachu-ex,200,Elektro,,Basis,Keine,takuyoa,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-107,107,Voltilamm,60,Elektro,,Basis,Keine,Orca,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-108,108,Waaty,90,Elektro,Voltilamm,Rang 1,Keine,Akira Komayama,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-109,109,Ampharos,160,Elektro,Waaty,Rang 2,Keine,GIDORA,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-110,110,Darkrai-ex,210,Unlicht,,Basis,Keine,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-111,111,Gladiantri,70,Unlicht,,Basis,Keine,matazo,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-112,112,Caesurio,100,Unlicht,Gladiantri,Rang 1,Keine,AKIRA EGAWA,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-113,113,Gladimperio,170,Unlicht,Caesurio,Rang 2,Keine,nagimiso,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-114,114,Picknickerin,,,,,Keine,Susumu Maeya,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-115,115,Chimstix,100,Pflanze,Chimpep,Rang 1,Keine,Uninori,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-116,116,Panferno,140,Feuer,Panpyro,Rang 2,Keine,Kazumasa Yasukuni,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-117,117,Frosdedje,90,Wasser,Schneppke,Rang 1,Keine,mingo,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-118,118,Nigiragi,70,Drache,,Basis,Keine,Shimaris Yukichi,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-119,119,Toxel,70,Elektro,,Basis,Keine,Natsumi Yoshida,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-120,120,Pupitar,80,Kampf,Larvitar,Rang 1,Keine,Shiburingaru,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-121,121,Knattatox,140,Metall,Knattox,Rang 1,Keine,Nisota Niso,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-122,122,Relaxo,160,Farblos,,Basis,Keine,Po-Suzuki,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-123,123,Türkisgrüne-Maske-Ogerpon,110,Pflanze,,Basis,Keine,kodama,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-124,124,Enigmara,,,,,Keine,yuu,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-125,125,Crimanzo-ex,260,Feuer,Knarbon,Rang 1,Keine,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-126,126,Delfinator-ex,340,Wasser,Normifin,Rang 1,Keine,PLANETA Mochizuki,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-127,127,Windewoge-ex,220,Wasser,,Basis,Keine,takuyoa,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-128,128,Eisenblatt-ex,220,Pflanze,,Basis,Keine,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-129,129,Infamomo,80,Unlicht,,Basis,Keine,nagimiso,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-130,130,Gladimperio,180,Metall,Caesurio,Rang 2,Keine,Oku,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-131,131,Seedraking-ex,310,Wasser,Seemon,Rang 2,Keine,akagi,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-132,132,Quajutsu-ex,300,Wasser,Amphizel,Rang 2,Keine,SIE NANAHARA,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-133,133,Ledian,90,Pflanze,Ledyba,Rang 1,Keine,Natsumi Yoshida,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-134,134,Krawell,160,Wasser,Krabbox,Rang 1,Keine,KEIICHIRO ITO,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-135,135,Drifzepeli,130,Psycho,Driftlon,Rang 1,Keine,Keisin,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-136,136,Bisofank,100,Farblos,,Basis,Keine,Tonji Matsuno,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-137,137,Seeper,60,Wasser,,Basis,Keine,MAHOU,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-138,138,Porygon2,90,Farblos,Porygon,Rang 1,Keine,GOSSAN,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-139,139,Latias,110,Psycho,,Basis,Keine,hncl,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-140,140,Granforgita,140,Psycho,Tafforgita,Rang 2,Keine,DOM,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-141,141,Noctuh,100,Farblos,Hoothoot,Rang 1,Keine,Tetsu Kayama,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-142,142,Victini-ex,190,Feuer,,Basis,Keine,Saki Hayashiro,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-143,143,Miraidon-ex,220,Elektro,,Basis,Keine,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-144,144,Keilflamme-ex,230,Feuer,,Basis,Keine,PLANETA Mochizuki,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-145,145,Furienblitz-ex,240,Drache,,Basis,Keine,PLANETA Mochizuki,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-146,146,Eisenhaupt-ex,220,Psycho,,Basis,Keine,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-147,147,Eisenfels-ex,240,Kampf,,Basis,Keine,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-148,148,Miraidon,120,Elektro,,Basis,Keine,hncl,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-149,149,Infamomo,80,Unlicht,,Basis,Keine,Souichirou Gunjima,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-150,150,Paradies Resort,,,,,Keine,Naoki Saito,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-151,151,Keilflamme,130,Feuer,,Basis,Keine,Hasuno,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-152,152,Baojian,120,Wasser,,Basis,Keine,toi8,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-153,153,Magneton,100,Elektro,Magnetilo,Rang 1,Keine,Shinya Mizuno,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-154,154,Servol,100,Psycho,,Basis,Keine,buchi,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-155,155,Felino,60,Wasser,,Basis,Keine,Saboteri,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-156,156,Morlord,120,Wasser,Felino,Rang 1,Keine,Saboteri,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-157,157,Zapdos,110,Elektro,,Basis,Keine,Nisota Niso,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-158,158,Pachirisu,70,Elektro,,Basis,Keine,Yuya Oka,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-159,159,Magneton,100,Elektro,Magnetilo,Rang 1,Keine,Shinji Kanda,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-160,160,Krawalloro-ex,160,Farblos,,Basis,Keine,N-DESIGN Inc.,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-161,161,Glurak-ex,330,Feuer,Glutexo,Rang 2,Keine,PLANETA Mochizuki,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-162,162,Friedwuff-ex,260,Psycho,Gruff,Rang 1,Keine,takuyoa,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-163,163,Liberlo-ex,320,Feuer,Kickerlo,Rang 2,Keine,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-164,164,Lapras-ex,220,Wasser,,Basis,Keine,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-165,165,Terapagos-ex,230,Farblos,,Basis,Keine,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-166,166,Türkisgrüne-Maske-Ogerpon-ex,210,Pflanze,,Basis,Keine,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-167,167,Flamara,130,Feuer,Evoli,Rang 1,Keine,SIE NANAHARA,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-168,168,Aquana,130,Wasser,Evoli,Rang 1,Keine,Taira Akitsu,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-169,169,Blitza,110,Elektro,Evoli,Rang 1,Keine,Nisota Niso,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-170,170,Folipurba,120,Pflanze,Evoli,Rang 1,Keine,Iori Suzuki,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-171,171,Glaziola,120,Wasser,Evoli,Rang 1,Keine,Keisin,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-172,172,Feelinara,120,Psycho,Evoli,Rang 1,Keine,Susumu Maeya,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-173,173,Evoli,50,Farblos,,Basis,Keine,Makura Tami,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-174,174,Evoli-ex,200,Farblos,,Basis,Keine,,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-177,177,Blutmond-Ursaluna-ex,260,Farblos,,Basis,Keine,aky CG Works,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-178,178,Kyogre-ex,230,Wasser,,Basis,Keine,takuyoa,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-179,179,Xerneas-ex,210,Psycho,,Basis,Keine,PLANETA Igarashi,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-180,180,Dialga-ex,220,Metall,,Basis,Keine,PLANETA Tsuji,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-181,181,Ns Flampivian,140,Feuer,Ns Flampion,Rang 1,Keine,Takeshi Nakamura,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-182,182,Enigmaras Voltrean,120,Elektro,Enigmaras Voltrel,Rang 1,Keine,DOM,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-183,183,Lillys Bandelby,70,Psycho,Lillys Wommel,Rang 1,Keine,tono,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-184,184,Hops Relaxo,150,Farblos,,Basis,Keine,OKACHEKE,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-185,185,Yanma,60,Pflanze,,Basis,Keine,Dsuke,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-186,186,Zurrokex,60,Unlicht,,Basis,Keine,OKUBO,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-187,187,Yanmega,130,Pflanze,Yanma,Rang 1,Keine,Dsuke,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-188,188,Irokex,120,Unlicht,Zurrokex,Rang 1,Keine,OKUBO,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-189,189,Ns Zorua,70,Unlicht,,Basis,Keine,Megumi Mizutani,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-193,193,Hops Zacian-ex,230,Metall,,Basis,Keine,PLANETA Mochizuki,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-194,194,Enigmaras Wampitz-ex,280,Elektro,Enigmaras Blipp,Rang 1,Keine,,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-195,195,Lillys Piepi-ex,190,Psycho,,Basis,Keine,,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-197,197,Koraidon-ex,230,Kampf,,Basis,Keine,,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-198,198,Zacian-ex,220,Metall,,Basis,Keine,,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-206,206,Marys Morpeko,70,Unlicht,,Basis,Keine,,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192
+svp-207,207,Troys Tanhel,70,Metall,,Basis,Keine,,"normal, reverse, holo",SVP Black Star Promos,Karmesin & Purpur,192

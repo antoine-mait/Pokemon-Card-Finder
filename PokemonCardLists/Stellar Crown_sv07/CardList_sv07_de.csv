@@ -1,0 +1,176 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sv07-001,001,Bisaflor-ex,340,Pflanze,Bisaknosp,Rang 2,Doppelselten,Saki Hayashiro,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-002,002,Ledyba,60,Pflanze,,Basis,Häufig,Whisker,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-003,003,Ledian,90,Pflanze,Ledyba,Rang 1,Selten,Masako Tomii,"reverse, holo",Stellarkrone,Karmesin & Purpur,175
+sv07-004,004,Celebi,80,Pflanze,,Basis,Ungewöhnlich,satoma,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-005,005,Liliep,100,Pflanze,Antikes Wurzelfossil,Rang 1,Häufig,Ounishi,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-006,006,Wielie,150,Pflanze,Liliep,Rang 2,Selten,miki kudo,"reverse, holo",Stellarkrone,Karmesin & Purpur,175
+sv07-007,007,Venuflibis,110,Pflanze,,Basis,Häufig,Mousho,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-008,008,Schneid-Rotom,90,Pflanze,,Basis,Häufig,Amelicart,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-009,009,Mabula,70,Pflanze,,Basis,Häufig,Jerky,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-010,010,Cottini,60,Pflanze,,Basis,Häufig,Heisuke Kitazawa,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-011,011,Cottomi,90,Pflanze,Cottini,Rang 1,Ungewöhnlich,Yuka Tanaka,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-012,012,Knapfel,40,Pflanze,,Basis,Häufig,Yoriyuki Ikegami,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-013,013,Sirapfel,90,Pflanze,Knapfel,Rang 1,Häufig,Souichirou Gunjima,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-014,014,Hydrapfel-ex,330,Pflanze,Sirapfel,Rang 2,Doppelselten,5ban Graphics,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-015,015,Micrick,50,Pflanze,,Basis,Häufig,HYOGONOSUKE,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-016,016,Lextremo,110,Pflanze,Micrick,Rang 1,Häufig,akagi,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-017,017,Tentagra,60,Pflanze,,Basis,Häufig,Tetsu Kayama,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-018,018,Tenterra,140,Pflanze,Tentagra,Rang 1,Ungewöhnlich,DOM,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-019,019,Ponita,70,Feuer,,Basis,Häufig,Atsushi Furusawa,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-020,020,Gallopa,120,Feuer,Ponita,Rang 1,Ungewöhnlich,danciao,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-021,021,Grillmak,70,Feuer,,Basis,Häufig,0313,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-022,022,Reshiram,130,Feuer,,Basis,Ungewöhnlich,Iwamoto05,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-023,023,Molunk,70,Feuer,,Basis,Häufig,Felicia Chen,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-024,024,Amfira,120,Feuer,Molunk,Rang 1,Ungewöhnlich,Taiga Kasai,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-025,025,Tortunator,130,Feuer,,Basis,Häufig,AKIRA EGAWA,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-026,026,Hopplo,70,Feuer,,Basis,Häufig,Cona Nitanda,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-027,027,Kickerlo,90,Feuer,Hopplo,Rang 1,Häufig,aspara,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-028,028,Liberlo-ex,320,Feuer,Kickerlo,Rang 2,Doppelselten,5ban Graphics,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-029,029,Knarbon,70,Feuer,,Basis,Häufig,Krgc,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-030,030,Turtok-ex,330,Wasser,Schillok,Rang 2,Doppelselten,PLANETA Igarashi,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-031,031,Lapras,130,Wasser,,Basis,Ungewöhnlich,rika,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-032,032,Lapras-ex,220,Wasser,,Basis,Doppelselten,5ban Graphics,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-033,033,Marill,70,Wasser,,Basis,Häufig,MARINA Chikazawa,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-034,034,Azumarill,120,Wasser,Marill,Rang 1,Ungewöhnlich,Jerky,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-035,035,Finneon,50,Wasser,,Basis,Häufig,Yukiko Baba,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-036,036,Lumineon,110,Wasser,Finneon,Rang 1,Ungewöhnlich,Shigenori Negishi,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-037,037,Galapaflos,100,Wasser,Antikes Schildfossil,Rang 1,Häufig,takashi shiraishi,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-038,038,Karippas,160,Wasser,Galapaflos,Rang 2,Selten,LINNE,"reverse, holo",Stellarkrone,Karmesin & Purpur,175
+sv07-039,039,Froxy,60,Wasser,,Basis,Häufig,MINAMINAMI Take,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-040,040,Amphizel,90,Wasser,Froxy,Rang 1,Ungewöhnlich,Ryuta Fuse,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-041,041,Quajutsu-ex,300,Wasser,Amphizel,Rang 2,Doppelselten,5ban Graphics,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-042,042,Krawell,160,Wasser,Krabbox,Rang 1,Ungewöhnlich,nagimiso,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-043,043,Kamehaps,80,Wasser,,Basis,Häufig,Yuka Morii,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-044,044,Kamalm,140,Wasser,Kamehaps,Rang 1,Selten,Dsuke,"reverse, holo",Stellarkrone,Karmesin & Purpur,175
+sv07-045,045,Agiluza,130,Wasser,,Basis,Ungewöhnlich,GOTO minori,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-046,046,Elektek,90,Elektro,,Basis,Häufig,Oswaldo KATO,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-047,047,Elevoltek,150,Elektro,Elektek,Rang 1,Ungewöhnlich,chibi,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-048,048,Lampi,70,Elektro,,Basis,Häufig,Souichirou Gunjima,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-049,049,Lanturn,120,Elektro,Lampi,Rang 1,Ungewöhnlich,Akira Komayama,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-050,050,Wattzapf,30,Elektro,,Basis,Häufig,Nisota Niso,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-051,051,Voltula-ex,260,Elektro,Wattzapf,Rang 1,Doppelselten,5ban Graphics,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-052,052,Akkup,80,Elektro,Mabula,Rang 1,Häufig,Makura Tami,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-053,053,Donarion,160,Elektro,Akkup,Rang 2,Ungewöhnlich,Shiburingaru,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-054,054,Togedemaru,80,Elektro,,Basis,Ungewöhnlich,Rianti Hidayat,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-055,055,Zeraora,120,Elektro,,Basis,Selten,Anesaki Dynamic,"reverse, holo",Stellarkrone,Karmesin & Purpur,175
+sv07-056,056,Pamo,40,Elektro,,Basis,Häufig,Natsumi Yoshida,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-057,057,Flegmon,80,Psycho,,Basis,Häufig,Teeziro,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-058,058,Laschoking,120,Psycho,Flegmon,Rang 1,Ungewöhnlich,Tetsu Kayama,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-059,059,Mewtu,130,Psycho,,Basis,Ungewöhnlich,kantaro,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-060,060,Driftlon,70,Psycho,,Basis,Häufig,Miki Tanaka,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-061,061,Drifzepeli,130,Psycho,Driftlon,Rang 1,Ungewöhnlich,sowsow,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-062,062,Makabaja,70,Psycho,,Basis,Häufig,aoki,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-063,063,Curelei,70,Psycho,,Basis,Häufig,saino misaki,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-064,064,Hokumil,60,Psycho,,Basis,Häufig,OKACHEKE,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-065,065,Pokusan,110,Psycho,Hokumil,Rang 1,Selten,Natsumi Yoshida,"reverse, holo",Stellarkrone,Karmesin & Purpur,175
+sv07-066,066,Hefel,60,Psycho,,Basis,Häufig,Narumi Sato,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-067,067,Backel-ex,250,Psycho,Hefel,Rang 1,Doppelselten,You Iribi,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-068,068,Flattutu,50,Psycho,,Basis,Häufig,Yuu Nishida,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-069,069,Psiopatra,130,Psycho,Flattutu,Rang 1,Häufig,Ryota Murayama,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-070,070,Gruff,80,Psycho,,Basis,Häufig,Miki Tanaka,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-071,071,Eisenfels,140,Psycho,,Basis,Selten,GIDORA,"reverse, holo",Stellarkrone,Karmesin & Purpur,175
+sv07-072,072,Tragosso,70,Kampf,,Basis,Häufig,svlt,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-073,073,Knogga,120,Kampf,Tragosso,Rang 1,Ungewöhnlich,cochi8i,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-074,074,Rihorn,100,Kampf,,Basis,Häufig,kodama,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-075,075,Rizeros,140,Kampf,Rihorn,Rang 1,Häufig,Ryuta Fuse,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-076,076,Rihornior,200,Kampf,Rizeros,Rang 2,Selten,Mitsuhiro Arita,"reverse, holo",Stellarkrone,Karmesin & Purpur,175
+sv07-077,077,Meditie,70,Kampf,,Basis,Häufig,GOTO minori,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-078,078,Meditie,70,Kampf,,Basis,Häufig,Yuu Nishida,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-079,079,Meditalis,110,Kampf,Meditie,Rang 1,Häufig,Fujimoto Gold,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-080,080,Meditalis-ex,260,Kampf,Meditie,Rang 1,Doppelselten,PLANETA Yamashita,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-081,081,Riolu,70,Kampf,,Basis,Häufig,Souichirou Gunjima,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-082,082,Lucario-ex,250,Kampf,Riolu,Rang 1,Doppelselten,PLANETA Igarashi,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-083,083,Lin-Fu,60,Kampf,,Basis,Häufig,Kariya,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-084,084,Wie-Shu,90,Kampf,Lin-Fu,Rang 1,Ungewöhnlich,MINAMINAMI Take,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-085,085,Pam-Pam,70,Kampf,,Basis,Häufig,Tomomi Ozaki,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-086,086,Diancie,110,Kampf,,Basis,Ungewöhnlich,Jiro Sasumo,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-087,087,Krabbox,90,Kampf,,Basis,Häufig,Scav,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-088,088,Legios,110,Kampf,,Basis,Häufig,Gapao,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-089,089,Saltigant-ex,340,Kampf,Sedisal,Rang 2,Doppelselten,5ban Graphics,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-090,090,Koraidon,130,Kampf,,Basis,Ungewöhnlich,kawayoo,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-091,091,Schluppuck,70,Unlicht,,Basis,Häufig,Shimaris Yukichi,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-092,092,Schlukwech,130,Unlicht,Schluppuck,Rang 1,Ungewöhnlich,OKACHEKE,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-093,093,Pandagro,140,Unlicht,Pam-Pam,Rang 1,Ungewöhnlich,KEIICHIRO ITO,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-094,094,Bähmon,70,Unlicht,,Basis,Häufig,Tomokazu Komiya,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-095,095,Pelzebub,90,Unlicht,Bähmon,Rang 1,Häufig,Mékayu,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-096,096,Olangaar,170,Unlicht,Pelzebub,Rang 2,Selten,Kazumasa Yasukuni,"reverse, holo",Stellarkrone,Karmesin & Purpur,175
+sv07-097,097,Adebom,100,Unlicht,,Basis,Häufig,Aya Kusube,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-098,098,Jirachi,80,Metall,,Basis,Ungewöhnlich,Kuroimori,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-099,099,Klikk,60,Metall,,Basis,Häufig,osare,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-100,100,Kliklak,90,Metall,Klikk,Rang 1,Häufig,Mina Nakai,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-101,101,Klikdiklak,140,Metall,Kliklak,Rang 2,Selten,Tonji Matsuno,"reverse, holo",Stellarkrone,Karmesin & Purpur,175
+sv07-102,102,Meltan,60,Metall,,Basis,Häufig,Yuka Morii,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-103,103,Meltan,70,Metall,,Basis,Häufig,Apios,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-104,104,Melmetal,160,Metall,Meltan,Rang 1,Selten,Takumi Wada,"reverse, holo",Stellarkrone,Karmesin & Purpur,175
+sv07-105,105,Melmetal-ex,280,Metall,Meltan,Rang 1,Doppelselten,takuyoa,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-106,106,Duraludon,130,Metall,,Basis,Häufig,Takeshi Nakamura,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-107,107,Briduradon,180,Metall,Duraludon,Rang 1,Selten,Oswaldo KATO,"reverse, holo",Stellarkrone,Karmesin & Purpur,175
+sv07-108,108,Knattox,80,Metall,,Basis,Häufig,Shiburingaru,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-109,109,Knattatox,150,Metall,Knattox,Rang 1,Ungewöhnlich,GOSSAN,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-110,110,Schlurm-ex,220,Metall,,Basis,Doppelselten,PLANETA Yamashita,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-111,111,Furienblitz,130,Drache,,Basis,Selten,kodama,"reverse, holo",Stellarkrone,Karmesin & Purpur,175
+sv07-112,112,Tauros,120,Farblos,,Basis,Häufig,Uninori,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-113,113,Evoli,60,Farblos,,Basis,Häufig,Mina Nakai,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-114,114,Hoothoot,70,Farblos,,Basis,Häufig,Yukihiro Tada,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-115,115,Noctuh,100,Farblos,Hoothoot,Rang 1,Selten,matazo,"reverse, holo",Stellarkrone,Karmesin & Purpur,175
+sv07-116,116,Charmian,60,Farblos,,Basis,Häufig,Yuriko Akase,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-117,117,Shnurgarst,120,Farblos,Charmian,Rang 1,Häufig,Saboteri,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-118,118,Wirbel-Rotom,70,Farblos,,Basis,Häufig,Toshinao Aoki,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-119,119,Bisofank,100,Farblos,,Basis,Selten,GOSSAN,"reverse, holo",Stellarkrone,Karmesin & Purpur,175
+sv07-120,120,Boreos,110,Farblos,,Basis,Ungewöhnlich,Uninori,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-121,121,Dartiri,60,Farblos,,Basis,Häufig,Teeziro,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-122,122,Dartignis,90,Farblos,Dartiri,Rang 1,Häufig,Julie Hang,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-123,123,Fiaro,140,Farblos,Dartignis,Rang 2,Ungewöhnlich,Nurikabe,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-124,124,Wolly,70,Farblos,,Basis,Häufig,Wintr Wandr,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-125,125,Zwollock,130,Farblos,Wolly,Rang 1,Ungewöhnlich,HYOGONOSUKE,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-126,126,Ferkuli,50,Farblos,,Basis,Häufig,REND,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-127,127,Mopex,110,Farblos,,Basis,Häufig,Nurikabe,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-128,128,Terapagos-ex,230,Farblos,,Basis,Doppelselten,5ban Graphics,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-129,129,Antikes Schildfossil,60,,,,Häufig,AYUMI ODASHIMA,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-130,130,Antikes Wurzelfossil,60,,,,Häufig,AYUMI ODASHIMA,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-131,131,Höhlensystem Null,,,,,Ungewöhnlich,MARINA Chikazawa,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-132,132,Brianna,,,,,Ungewöhnlich,Naoki Saito,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-133,133,Matt,,,,,Ungewöhnlich,GIDORA,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-134,134,Luxusbombe,,,,,ASS-KLASSE,inose yukie,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-135,135,Glastrompete,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-136,136,Prachtbaum,,,,,ASS-KLASSE,AYUMI ODASHIMA,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-137,137,Erdanziehungsedelstein,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-138,138,Kombu,,,,,Ungewöhnlich,Hideki Ishikawa,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-139,139,Tara,,,,,Ungewöhnlich,Sanosuke Sakuma,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-140,140,Koakobeere,,,,,Ungewöhnlich,Studio Bora Inc.,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-141,141,Pyapabeere,,,,,Ungewöhnlich,Studio Bora Inc.,"normal, reverse",Stellarkrone,Karmesin & Purpur,175
+sv07-142,142,Funkelnder Kristall,,,,,ASS-KLASSE,Toyste Beach,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-143,143,Bisasam,70,Pflanze,,Basis,"Selten, Illustration",Orca,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-144,144,Ledian,90,Pflanze,Ledyba,Rang 1,"Selten, Illustration",HYOGONOSUKE,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-145,145,Liliep,100,Pflanze,Antikes Wurzelfossil,Rang 1,"Selten, Illustration",Mori Yuu,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-146,146,Tortunator,130,Feuer,,Basis,"Selten, Illustration",Yukihiro Tada,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-147,147,Kickerlo,90,Feuer,Hopplo,Rang 1,"Selten, Illustration",rika,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-148,148,Schiggy,60,Wasser,,Basis,"Selten, Illustration",Saboteri,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-149,149,Krawell,160,Wasser,Krabbox,Rang 1,"Selten, Illustration",Mitsuhiro Arita,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-150,150,Wattzapf,30,Elektro,,Basis,"Selten, Illustration",MARINA Chikazawa,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-151,151,Zeraora,120,Elektro,,Basis,"Selten, Illustration",Kazumasa Yasukuni,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-152,152,Hokumil,60,Psycho,,Basis,"Selten, Illustration",Dsuke,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-153,153,Meditie,70,Kampf,,Basis,"Selten, Illustration",Yuriko Akase,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-154,154,Schluppuck,70,Unlicht,,Basis,"Selten, Illustration",Jerky,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-155,155,Briduradon,180,Metall,Duraludon,Rang 1,"Selten, Illustration",Toshinao Aoki,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-156,156,Hydrapfel-ex,330,Pflanze,Sirapfel,Rang 2,Ultra Selten,5ban Graphics,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-157,157,Liberlo-ex,320,Feuer,Kickerlo,Rang 2,Ultra Selten,5ban Graphics,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-158,158,Lapras-ex,220,Wasser,,Basis,Ultra Selten,5ban Graphics,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-159,159,Voltula-ex,260,Elektro,Wattzapf,Rang 1,Ultra Selten,5ban Graphics,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-160,160,Backel-ex,250,Psycho,Hefel,Rang 1,Ultra Selten,PLANETA Mochizuki,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-161,161,Meditalis-ex,260,Kampf,Meditie,Rang 1,Ultra Selten,PLANETA Yamashita,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-162,162,Schlurm-ex,220,Metall,,Basis,Ultra Selten,PLANETA Mochizuki,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-163,163,Brianna,,,,,Ultra Selten,Naoki Saito,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-164,164,Matt,,,,,Ultra Selten,GIDORA,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-165,165,Kombu,,,,,Ultra Selten,Hideki Ishikawa,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-166,166,Tara,,,,,Ultra Selten,Sanosuke Sakuma,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-167,167,Hydrapfel-ex,330,Pflanze,Sirapfel,Rang 2,"Selten, besondere Illustration",Teeziro,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-168,168,Voltula-ex,260,Elektro,Wattzapf,Rang 1,"Selten, besondere Illustration",MARINA Chikazawa,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-169,169,Backel-ex,250,Psycho,Hefel,Rang 1,"Selten, besondere Illustration",Yuu Nishida,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-170,170,Terapagos-ex,230,Farblos,,Basis,"Selten, besondere Illustration",Saboteri,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-171,171,Brianna,,,,,"Selten, besondere Illustration",DOM,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-172,172,Tara,,,,,"Selten, besondere Illustration",Souichirou Gunjima,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-173,173,Terapagos-ex,230,Farblos,,Basis,Hyperselten,5ban Graphics,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-174,174,Höhlensystem Null,,,,,Hyperselten,MARINA Chikazawa,holo,Stellarkrone,Karmesin & Purpur,175
+sv07-175,175,Amulett der Tapferkeit,,,,,Hyperselten,Toyste Beach,holo,Stellarkrone,Karmesin & Purpur,175

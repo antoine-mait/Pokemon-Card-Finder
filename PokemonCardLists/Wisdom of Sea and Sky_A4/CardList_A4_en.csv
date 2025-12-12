@@ -1,0 +1,242 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+A4-001,001,Oddish,50,Grass,,Basic,One Diamond,ryoma uratsuka,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-002,002,Gloom,80,Grass,Oddish,Stage1,Two Diamond,Kyoko Umemoto,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-003,003,Bellossom,130,Grass,Gloom,Stage2,Three Diamond,Nagomi Nijo,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-004,004,Tangela,80,Grass,,Basic,One Diamond,OOYAMA,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-005,005,Tangrowth,130,Grass,Tangela,Stage1,Three Diamond,tetsuya koizumi,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-006,006,Scyther,70,Grass,,Basic,One Diamond,Narumi Sato,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-007,007,Pinsir,90,Grass,,Basic,One Diamond,Toshinao Aoki,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-008,008,Chikorita,60,Grass,,Basic,One Diamond,Naoyo Kimura,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-009,009,Bayleef,90,Grass,Chikorita,Stage1,Two Diamond,Mizue,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-010,010,Meganium,150,Grass,Bayleef,Stage2,Three Diamond,Hajime Kusajima,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-011,011,Ledyba,60,Grass,,Basic,One Diamond,Sumiyoshi Kizuki,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-012,012,Ledian,80,Grass,Ledyba,Stage1,One Diamond,Hitoshi Ariga,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-013,013,Hoppip,50,Grass,,Basic,One Diamond,Mékayu,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-014,014,Skiploom,70,Grass,Hoppip,Stage1,Two Diamond,Kyoko Umemoto,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-015,015,Jumpluff,120,Grass,Skiploom,Stage2,Three Diamond,Kagemaru Himeno,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-016,016,Sunkern,40,Grass,,Basic,One Diamond,0313,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-017,017,Sunflora,90,Grass,Sunkern,Stage1,Two Diamond,Yumi,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-018,018,Yanma,60,Grass,,Basic,One Diamond,Tomokazu Komiya,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-019,019,Yanmega,90,Grass,Yanma,Stage1,Two Diamond,Uta,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-020,020,Pineco,60,Grass,,Basic,One Diamond,Suwama Chiaki,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-021,021,Shuckle ex,120,Grass,,Basic,Four Diamond,PLANETA Mochizuki,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-022,022,Heracross,90,Grass,,Basic,Three Diamond,Naoki Saito,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-023,023,Cherubi,50,Grass,,Basic,One Diamond,Saya Tsuruta,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-024,024,Cherrim,80,Grass,Cherubi,Stage1,Two Diamond,Atsuko Nishida,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-025,025,Vulpix,60,Fire,,Basic,One Diamond,Shibuzoh.,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-026,026,Ninetales,100,Fire,Vulpix,Stage1,Three Diamond,AKIRA EGAWA,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-027,027,Cyndaquil,60,Fire,,Basic,One Diamond,kirisAki,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-028,028,Quilava,80,Fire,Cyndaquil,Stage1,Two Diamond,Shin Nagasawa,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-029,029,Typhlosion,140,Fire,Quilava,Stage2,Three Diamond,Hideki Ishikawa,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-030,030,Slugma,70,Fire,,Basic,One Diamond,Mékayu,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-031,031,Magcargo,120,Fire,Slugma,Stage1,Two Diamond,Shigenori Negishi,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-032,032,Magby,30,Fire,,Basic,Three Diamond,Yukiko Baba,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-033,033,Entei,110,Fire,,Basic,Three Diamond,kodama,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-034,034,Ho-Oh ex,150,Fire,,Basic,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-035,035,Darumaka,70,Fire,,Basic,One Diamond,Yuka Morii,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-036,036,Darmanitan,120,Fire,Darumaka,Stage1,Two Diamond,Naoki Saito,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-037,037,Heatmor,90,Fire,,Basic,One Diamond,match,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-038,038,Poliwag,60,Water,,Basic,One Diamond,Asako Ito,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-039,039,Poliwhirl,90,Water,Poliwag,Stage1,Two Diamond,Scav,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-040,040,Politoed,140,Water,Poliwhirl,Stage2,Three Diamond,Masakazu Fukuda,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-041,041,Horsea,50,Water,,Basic,One Diamond,Yukiko Baba,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-042,042,Seadra,80,Water,Horsea,Stage1,Two Diamond,sui,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-043,043,Kingdra ex,170,Water,Seadra,Stage2,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-044,044,Magikarp,30,Water,,Basic,One Diamond,Shigenori Negishi,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-045,045,Gyarados,130,Water,Magikarp,Stage1,Three Diamond,hatachu,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-046,046,Totodile,60,Water,,Basic,One Diamond,kawayoo,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-047,047,Croconaw,90,Water,Totodile,Stage1,Two Diamond,Naoki Saito,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-048,048,Feraligatr,150,Water,Croconaw,Stage2,Three Diamond,nagimiso,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-049,049,Marill,60,Water,,Basic,One Diamond,Atsuko Nishida,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-050,050,Azumarill,110,Water,Marill,Stage1,Two Diamond,Naoyo Kimura,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-051,051,Wooper,70,Water,,Basic,One Diamond,Shibuzoh.,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-052,052,Quagsire,130,Water,Wooper,Stage1,Two Diamond,Kagemaru Himeno,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-053,053,Qwilfish,80,Water,,Basic,Two Diamond,Shin Nagasawa,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-054,054,Corsola,80,Water,,Basic,One Diamond,Mékayu,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-055,055,Remoraid,60,Water,,Basic,One Diamond,Suwama Chiaki,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-056,056,Octillery,100,Water,Remoraid,Stage1,Three Diamond,Kagemaru Himeno,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-057,057,Delibird,70,Water,,Basic,Two Diamond,Narumi Sato,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-058,058,Mantine,100,Water,,Basic,Two Diamond,0313,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-059,059,Suicune,100,Water,,Basic,Three Diamond,Anesaki Dynamic,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-060,060,Corphish,60,Water,,Basic,One Diamond,chibi,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-061,061,Crawdaunt,100,Water,Corphish,Stage1,Three Diamond,Hajime Kusajima,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-062,062,Ducklett,60,Water,,Basic,One Diamond,MAHOU,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-063,063,Swanna,80,Water,Ducklett,Stage1,Two Diamond,chibi,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-064,064,Chinchou,70,Lightning,,Basic,One Diamond,Miki Tanaka,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-065,065,Lanturn ex,150,Lightning,Chinchou,Stage1,Four Diamond,PLANETA Igarashi,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-066,066,Pichu,30,Lightning,,Basic,Three Diamond,Kariya,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-067,067,Mareep,60,Lightning,,Basic,One Diamond,0313,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-068,068,Flaaffy,90,Lightning,Mareep,Stage1,Two Diamond,MAHOU,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-069,069,Ampharos,150,Lightning,Flaaffy,Stage2,Three Diamond,Kouki Saitou,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-070,070,Elekid,30,Lightning,,Basic,Three Diamond,Miki Tanaka,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-071,071,Raikou,90,Lightning,,Basic,Three Diamond,Kazumasa Yasukuni,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-072,072,Emolga,70,Lightning,,Basic,One Diamond,Saya Tsuruta,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-073,073,Slowpoke,70,Psychic,,Basic,One Diamond,Aya Kusube,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-074,074,Slowking,110,Psychic,Slowpoke,Stage1,Two Diamond,Kagemaru Himeno,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-075,075,Smoochum,30,Psychic,,Basic,Three Diamond,Sumiyoshi Kizuki,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-076,076,Jynx,80,Psychic,,Basic,One Diamond,Midori Harada,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-077,077,Cleffa,30,Psychic,,Basic,Three Diamond,Orca,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-078,078,Togepi,60,Psychic,,Basic,One Diamond,Sekio,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-079,079,Togetic,90,Psychic,Togepi,Stage1,Two Diamond,Atsuko Nishida,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-080,080,Togekiss,140,Psychic,Togetic,Stage2,Three Diamond,sui,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-081,081,Natu,50,Psychic,,Basic,One Diamond,Masakazu Fukuda,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-082,082,Xatu,80,Psychic,Natu,Stage1,Three Diamond,Hajime Kusajima,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-083,083,Espeon ex,140,Psychic,Eevee,Stage1,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-084,084,Unown,60,Psychic,,Basic,Three Diamond,OKUBO,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-085,085,Unown,60,Psychic,,Basic,Three Diamond,Anesaki Dynamic,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-086,086,Wobbuffet,90,Psychic,,Basic,One Diamond,Masakazu Fukuda,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-087,087,Girafarig,80,Psychic,,Basic,One Diamond,Miki Tanaka,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-088,088,Snubbull,60,Psychic,,Basic,One Diamond,Akira Komayama,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-089,089,Granbull,120,Psychic,Snubbull,Stage1,Two Diamond,Suwama Chiaki,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-090,090,Munna,70,Psychic,,Basic,One Diamond,miki kudo,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-091,091,Musharna,110,Psychic,Munna,Stage1,Two Diamond,MAHOU,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-092,092,Onix,100,Fighting,,Basic,One Diamond,KEIICHIRO ITO,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-093,093,Sudowoodo,90,Fighting,,Basic,One Diamond,AKIRA EGAWA,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-094,094,Gligar,60,Fighting,,Basic,One Diamond,Mina Nakai,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-095,095,Gliscor,100,Fighting,Gligar,Stage1,Two Diamond,Shiburingaru,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-096,096,Swinub,70,Fighting,,Basic,One Diamond,Yukiko Baba,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-097,097,Piloswine,100,Fighting,Swinub,Stage1,Two Diamond,Midori Harada,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-098,098,Mamoswine,160,Fighting,Piloswine,Stage2,Three Diamond,Uta,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-099,099,Phanpy,70,Fighting,,Basic,One Diamond,Midori Harada,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-100,100,Donphan ex,160,Fighting,Phanpy,Stage1,Four Diamond,PLANETA Yamashita,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-101,101,Tyrogue,30,Fighting,,Basic,Three Diamond,Mina Nakai,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-102,102,Hitmontop,80,Fighting,,Basic,One Diamond,Hisao Nakamura,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-103,103,Larvitar,60,Fighting,,Basic,One Diamond,Naoyo Kimura,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-104,104,Pupitar,80,Fighting,Larvitar,Stage1,Two Diamond,Sekio,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-105,105,Binacle,80,Fighting,,Basic,One Diamond,Saya Tsuruta,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-106,106,Barbaracle,120,Fighting,Binacle,Stage1,Two Diamond,Nurikabe,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-107,107,Zubat,50,Darkness,,Basic,One Diamond,Shigenori Negishi,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-108,108,Golbat,70,Darkness,Zubat,Stage1,Two Diamond,kawayoo,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-109,109,Crobat ex,170,Darkness,Golbat,Stage2,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-110,110,Spinarak,60,Darkness,,Basic,One Diamond,Sachiko Adachi,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-111,111,Ariados,80,Darkness,Spinarak,Stage1,Two Diamond,Shinji Kanda,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-112,112,Umbreon ex,140,Darkness,Eevee,Stage1,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-113,113,Murkrow,60,Darkness,,Basic,One Diamond,Sekio,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-114,114,Honchkrow,120,Darkness,Murkrow,Stage1,Two Diamond,Shiburingaru,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-115,115,Sneasel,60,Darkness,,Basic,One Diamond,yuu,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-116,116,Weavile,80,Darkness,Sneasel,Stage1,Two Diamond,kawayoo,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-117,117,Houndour,60,Darkness,,Basic,One Diamond,Sumiyoshi Kizuki,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-118,118,Houndoom,110,Darkness,Houndour,Stage1,Two Diamond,Shin Nagasawa,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-119,119,Tyranitar,160,Darkness,Pupitar,Stage2,Three Diamond,Hasuno,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-120,120,Absol,80,Darkness,,Basic,Two Diamond,kodama,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-121,121,Forretress,130,Metal,Pineco,Stage1,Two Diamond,Tomokazu Komiya,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-122,122,Steelix,150,Metal,Onix,Stage1,Three Diamond,KEIICHIRO ITO,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-123,123,Scizor,100,Metal,Scyther,Stage1,Three Diamond,Ryuta Fuse,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-124,124,Skarmory ex,140,Metal,,Basic,Four Diamond,PLANETA Yamashita,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-125,125,Mawile,70,Metal,,Basic,One Diamond,Kouki Saitou,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-126,126,Klink,60,Metal,,Basic,One Diamond,Akira Komayama,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-127,127,Klang,80,Metal,Klink,Stage1,Two Diamond,Akira Komayama,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-128,128,Klinklang,150,Metal,Klang,Stage2,Three Diamond,Akira Komayama,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-129,129,Spearow,70,Colorless,,Basic,One Diamond,tetsuya koizumi,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-130,130,Fearow,90,Colorless,Spearow,Stage1,One Diamond,Shin Nagasawa,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-131,131,Chansey,100,Colorless,,Basic,One Diamond,miki kudo,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-132,132,Blissey,150,Colorless,Chansey,Stage1,Three Diamond,Mizue,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-133,133,Kangaskhan,100,Colorless,,Basic,Three Diamond,Toshinao Aoki,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-134,134,Eevee,60,Colorless,,Basic,One Diamond,sowsow,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-135,135,Porygon,60,Colorless,,Basic,One Diamond,ryoma uratsuka,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-136,136,Porygon2,80,Colorless,Porygon,Stage1,Two Diamond,Nagomi Nijo,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-137,137,Porygon-Z,130,Colorless,Porygon2,Stage2,Three Diamond,Tomokazu Komiya,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-138,138,Sentret,60,Colorless,,Basic,One Diamond,Mina Nakai,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-139,139,Furret,90,Colorless,Sentret,Stage1,One Diamond,tetsuya koizumi,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-140,140,Hoothoot,50,Colorless,,Basic,One Diamond,Yumi,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-141,141,Noctowl,100,Colorless,Hoothoot,Stage1,One Diamond,Nisota Niso,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-142,142,Aipom,50,Colorless,,Basic,One Diamond,Naoyo Kimura,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-143,143,Ambipom,100,Colorless,Aipom,Stage1,One Diamond,Atsushi Furusawa,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-144,144,Dunsparce,50,Colorless,,Basic,One Diamond,Kazuma Koda,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-145,145,Teddiursa,60,Colorless,,Basic,One Diamond,Mizue,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-146,146,Ursaring,120,Colorless,Teddiursa,Stage1,Two Diamond,Kouki Saitou,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-147,147,Stantler,80,Colorless,,Basic,Two Diamond,sui,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-148,148,Smeargle,70,Colorless,,Basic,Two Diamond,Sumiyoshi Kizuki,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-149,149,Lugia ex,150,Colorless,,Basic,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-150,150,Bouffalant,100,Colorless,,Basic,Two Diamond,nagimiso,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-151,151,Elemental Switch,,,,,Two Diamond,Toyste Beach,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-152,152,Squirt Bottle,,,,,Two Diamond,AYUMI ODASHIMA,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-153,153,Steel Apron,,,,,Two Diamond,Studio Bora Inc.,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-154,154,Dark Pendant,,,,,Two Diamond,Toyste Beach,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-155,155,Rescue Scarf,,,,,Two Diamond,Ryo Ueda,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-156,156,Will,,,,,Two Diamond,GIDORA,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-157,157,Lyra,,,,,Two Diamond,yuu,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-158,158,Silver,,,,,Two Diamond,Hideki Ishikawa,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-159,159,Fisher,,,,,Two Diamond,Sanosuke Sakuma,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-160,160,Jasmine,,,,,Two Diamond,En Morikura,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-161,161,Hiker,,,,,Two Diamond,Hitoshi Ariga,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-162,162,Chikorita,60,Grass,,Basic,One Star,Keisin,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-163,163,Bellossom,130,Grass,Gloom,Stage2,One Star,Yuka Tanaka,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-164,164,Heracross,90,Grass,,Basic,One Star,GOSSAN,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-165,165,Cyndaquil,60,Fire,,Basic,One Star,buchi,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-166,166,Magby,30,Fire,,Basic,One Star,Makura Tami,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-167,167,Totodile,60,Water,,Basic,One Star,Ayako Ozaki,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-168,168,Qwilfish,80,Water,,Basic,One Star,June,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-169,169,Octillery,100,Water,Remoraid,Stage1,One Star,REND,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-170,170,Delibird,70,Water,,Basic,One Star,Mékayu,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-171,171,Pichu,30,Lightning,,Basic,One Star,Kanami Ogata,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-172,172,Ampharos,150,Lightning,Flaaffy,Stage2,One Star,Whisker,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-173,173,Togepi,60,Psychic,,Basic,One Star,Terada Tera,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-174,174,Xatu,80,Psychic,Natu,Stage1,One Star,Masako Tomii,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-175,175,Wobbuffet,90,Psychic,,Basic,One Star,GOTO minori,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-176,176,Gligar,60,Fighting,,Basic,One Star,HYOGONOSUKE,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-177,177,Spinarak,60,Darkness,,Basic,One Star,IKEDA Saki,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-178,178,Murkrow,60,Darkness,,Basic,One Star,kamonabe,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-179,179,Tyranitar,160,Darkness,Pupitar,Stage2,One Star,Saboteri,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-180,180,Scizor,100,Metal,Scyther,Stage1,One Star,danciao,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-181,181,Sentret,60,Colorless,,Basic,One Star,saino misaki,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-182,182,Hoothoot,50,Colorless,,Basic,One Star,Uninori,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-183,183,Stantler,80,Colorless,,Basic,One Star,Noriaki Tanimura,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-184,184,Smeargle,70,Colorless,,Basic,One Star,MINAMINAMI Take,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-185,185,Blissey,150,Colorless,Chansey,Stage1,One Star,Natsumi Yoshida,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-186,186,Shuckle ex,120,Grass,,Basic,Two Star,PLANETA Mochizuki,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-187,187,Ho-Oh ex,150,Fire,,Basic,Two Star,PLANETA CG Works,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-188,188,Kingdra ex,170,Water,Seadra,Stage2,Two Star,PLANETA CG Works,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-189,189,Lanturn ex,150,Lightning,Chinchou,Stage1,Two Star,PLANETA Igarashi,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-190,190,Espeon ex,140,Psychic,Eevee,Stage1,Two Star,PLANETA CG Works,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-191,191,Donphan ex,160,Fighting,Phanpy,Stage1,Two Star,PLANETA Yamashita,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-192,192,Crobat ex,170,Darkness,Golbat,Stage2,Two Star,PLANETA Mochizuki,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-193,193,Umbreon ex,140,Darkness,Eevee,Stage1,Two Star,PLANETA CG Works,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-194,194,Skarmory ex,140,Metal,,Basic,Two Star,PLANETA Igarashi,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-195,195,Lugia ex,150,Colorless,,Basic,Two Star,PLANETA CG Works,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-196,196,Will,,,,,Two Star,GIDORA,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-197,197,Lyra,,,,,Two Star,yuu,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-198,198,Silver,,,,,Two Star,Teeziro,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-199,199,Fisher,,,,,Two Star,Sanosuke Sakuma,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-200,200,Jasmine,,,,,Two Star,En Morikura,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-201,201,Hiker,,,,,Two Star,Hideki Ishikawa,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-202,202,Shuckle ex,120,Grass,,Basic,Two Star,Yoshimi Miyoshi,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-203,203,Kingdra ex,170,Water,Seadra,Stage2,Two Star,Takumi Wada,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-204,204,Lanturn ex,150,Lightning,Chinchou,Stage1,Two Star,Fujimoto Gold,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-205,205,Espeon ex,140,Psychic,Eevee,Stage1,Two Star,Taira Akitsu,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-206,206,Donphan ex,160,Fighting,Phanpy,Stage1,Two Star,Yuriko Akase,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-207,207,Crobat ex,170,Darkness,Golbat,Stage2,Two Star,Shinji Kanda,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-208,208,Umbreon ex,140,Darkness,Eevee,Stage1,Two Star,AKIRA EGAWA,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-209,209,Skarmory ex,140,Metal,,Basic,Two Star,toriyufu,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-210,210,Ho-Oh ex,150,Fire,,Basic,Three Star,SIE NANAHARA,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-211,211,Lugia ex,150,Colorless,,Basic,Three Star,SIE NANAHARA,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-212,212,Yanma,60,Grass,,Basic,One Shiny,MAHOU,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-213,213,Flareon,110,Fire,Eevee,Stage1,One Shiny,Souichirou Gunjima,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-214,214,Magikarp,30,Water,,Basic,One Shiny,Souichirou Gunjima,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-215,215,Gyarados,130,Water,Magikarp,Stage1,One Shiny,Souichirou Gunjima,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-216,216,Vaporeon,130,Water,Eevee,Stage1,One Shiny,Souichirou Gunjima,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-217,217,Magnemite,60,Lightning,,Basic,One Shiny,MAHOU,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-218,218,Magneton,80,Lightning,Magnemite,Stage1,One Shiny,MAHOU,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-219,219,Jolteon,90,Lightning,Eevee,Stage1,One Shiny,Souichirou Gunjima,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-220,220,Misdreavus,60,Psychic,,Basic,One Shiny,MAHOU,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-221,221,Mankey,50,Fighting,,Basic,One Shiny,MAHOU,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-222,222,Primeape,90,Fighting,Mankey,Stage1,One Shiny,MAHOU,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-223,223,Nidoran♀,60,Darkness,,Basic,One Shiny,Souichirou Gunjima,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-224,224,Nidorina,80,Darkness,Nidoran♀,Stage1,One Shiny,Souichirou Gunjima,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-225,225,Nidoqueen,140,Darkness,Nidorina,Stage2,One Shiny,Souichirou Gunjima,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-226,226,Nidoran♂,60,Darkness,,Basic,One Shiny,Souichirou Gunjima,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-227,227,Nidorino,90,Darkness,Nidoran♂,Stage1,One Shiny,Souichirou Gunjima,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-228,228,Nidoking,150,Darkness,Nidorino,Stage2,One Shiny,Souichirou Gunjima,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-229,229,Sneasel,60,Darkness,,Basic,One Shiny,MAHOU,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-230,230,Lickitung,80,Colorless,,Basic,One Shiny,MAHOU,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-231,231,Eevee,60,Colorless,,Basic,One Shiny,MAHOU,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-232,232,Yanmega ex,140,Grass,Yanma,Stage1,Two Shiny,PLANETA Tsuji,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-233,233,Leafeon ex,140,Grass,Eevee,Stage1,Two Shiny,PLANETA CG Works,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-234,234,Gyarados ex,180,Water,Magikarp,Stage1,Two Shiny,PLANETA CG Works,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-235,235,Glaceon ex,140,Water,Eevee,Stage1,Two Shiny,PLANETA CG Works,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-236,236,Pachirisu ex,120,Lightning,,Basic,Two Shiny,PLANETA Tsuji,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-237,237,Mismagius ex,140,Psychic,Misdreavus,Stage1,Two Shiny,PLANETA Tsuji,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-238,238,Weavile ex,140,Darkness,Sneasel,Stage1,Two Shiny,PLANETA CG Works,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-239,239,Lickilicky ex,160,Colorless,Lickitung,Stage1,Two Shiny,PLANETA Tsuji,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-240,240,Ho-Oh ex,150,Fire,,Basic,Crown,PLANETA CG Works,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241
+A4-241,241,Lugia ex,150,Colorless,,Basic,Crown,PLANETA CG Works,"normal, reverse, holo",Wisdom of Sea and Sky,Pokémon TCG Pocket,241

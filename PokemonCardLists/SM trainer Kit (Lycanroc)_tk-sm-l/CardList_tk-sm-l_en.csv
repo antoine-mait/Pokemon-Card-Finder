@@ -1,0 +1,19 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+tk-sm-l-1,1,Caterpie,50,Grass,,Basic,Common,,"normal, reverse, holo",SM trainer Kit (Lycanroc),Trainer kits,30
+tk-sm-l-4,4,Trumbeak,80,Colorless,Pikipek,Stage1,Uncommon,,"normal, reverse, holo",SM trainer Kit (Lycanroc),Trainer kits,30
+tk-sm-l-5,5,Fighting Energy,,,,,Common,,"normal, reverse, holo",SM trainer Kit (Lycanroc),Trainer kits,30
+tk-sm-l-11,11,Fletchling,50,Colorless,,Basic,Common,,"normal, reverse, holo",SM trainer Kit (Lycanroc),Trainer kits,30
+tk-sm-l-12,12,Yungoos,70,Colorless,,Basic,Common,,"normal, reverse, holo",SM trainer Kit (Lycanroc),Trainer kits,30
+tk-sm-l-13,13,Fletchinder,70,Colorless,Fletchling,Stage1,Uncommon,,"normal, reverse, holo",SM trainer Kit (Lycanroc),Trainer kits,30
+tk-sm-l-14,14,Rockruff,60,Fighting,,Basic,Common,,"normal, reverse, holo",SM trainer Kit (Lycanroc),Trainer kits,30
+tk-sm-l-15,15,Pikipek,50,Colorless,,Basic,Common,,"normal, reverse, holo",SM trainer Kit (Lycanroc),Trainer kits,30
+tk-sm-l-16,16,Lycanroc,110,Fighting,Rockruff,Stage1,None,5ban Graphics,"normal, reverse, holo",SM trainer Kit (Lycanroc),Trainer kits,30
+tk-sm-l-18,18,Makuhita,80,Fighting,,Basic,Common,,"normal, reverse, holo",SM trainer Kit (Lycanroc),Trainer kits,30
+tk-sm-l-19,19,Hau,,,,,Uncommon,,"normal, reverse, holo",SM trainer Kit (Lycanroc),Trainer kits,30
+tk-sm-l-21,21,Great Ball,,,,,Uncommon,,"normal, reverse, holo",SM trainer Kit (Lycanroc),Trainer kits,30
+tk-sm-l-22,22,Toucannon,140,Colorless,Trumbeak,Stage2,Rare,,"normal, reverse, holo",SM trainer Kit (Lycanroc),Trainer kits,30
+tk-sm-l-23,23,Hau,,,,,Uncommon,,"normal, reverse, holo",SM trainer Kit (Lycanroc),Trainer kits,30
+tk-sm-l-25,25,Great Ball,,,,,Uncommon,,"normal, reverse, holo",SM trainer Kit (Lycanroc),Trainer kits,30
+tk-sm-l-27,27,Big Malasada,,,,,Uncommon,,"normal, reverse, holo",SM trainer Kit (Lycanroc),Trainer kits,30
+tk-sm-l-29,29,Rockruff,60,Fighting,,Basic,Common,,"normal, reverse, holo",SM trainer Kit (Lycanroc),Trainer kits,30
+tk-sm-l-30,30,Lycanroc,110,Fighting,Rockruff,Stage1,None,5ban Graphics,"normal, reverse, holo",SM trainer Kit (Lycanroc),Trainer kits,30

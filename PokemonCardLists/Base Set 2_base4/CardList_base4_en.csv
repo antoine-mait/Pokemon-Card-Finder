@@ -1,0 +1,131 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+base4-1,1,Alakazam,80,Psychic,Kadabra,Stage2,Rare,Ken Sugimori,holo,Base Set 2,Base,130
+base4-2,2,Blastoise,100,Water,Wartortle,Stage2,Rare,Ken Sugimori,holo,Base Set 2,Base,130
+base4-3,3,Chansey,120,Colorless,,Basic,Rare,Ken Sugimori,holo,Base Set 2,Base,130
+base4-4,4,Charizard,120,Fire,Charmeleon,Stage2,Rare,Mitsuhiro Arita,holo,Base Set 2,Base,130
+base4-5,5,Clefable,70,Colorless,Clefairy,Stage1,Rare,Mitsuhiro Arita,holo,Base Set 2,Base,130
+base4-6,6,Clefairy,40,Colorless,,Basic,Rare,Ken Sugimori,holo,Base Set 2,Base,130
+base4-7,7,Gyarados,100,Water,Magikarp,Stage1,Rare,Mitsuhiro Arita,holo,Base Set 2,Base,130
+base4-8,8,Hitmonchan,70,Fighting,,Basic,Rare,Ken Sugimori,holo,Base Set 2,Base,130
+base4-9,9,Magneton,60,Lightning,Magnemite,Stage1,Rare,Keiji Kinebuchi,holo,Base Set 2,Base,130
+base4-10,10,Mewtwo,60,Psychic,,Basic,Rare,Ken Sugimori,holo,Base Set 2,Base,130
+base4-11,11,Nidoking,90,Grass,Nidorino,Stage2,Rare,Ken Sugimori,holo,Base Set 2,Base,130
+base4-12,12,Nidoqueen,90,Grass,Nidorina,Stage2,Rare,Ken Sugimori,holo,Base Set 2,Base,130
+base4-13,13,Ninetales,80,Fire,Vulpix,Stage1,Rare,Ken Sugimori,holo,Base Set 2,Base,130
+base4-14,14,Pidgeot,80,Colorless,Pidgeotto,Stage2,Rare,Kagemaru Himeno,holo,Base Set 2,Base,130
+base4-15,15,Poliwrath,90,Water,Poliwhirl,Stage2,Rare,Ken Sugimori,holo,Base Set 2,Base,130
+base4-16,16,Raichu,80,Lightning,Pikachu,Stage1,Rare,Ken Sugimori,holo,Base Set 2,Base,130
+base4-17,17,Scyther,70,Grass,,Basic,Rare,Ken Sugimori,holo,Base Set 2,Base,130
+base4-18,18,Venusaur,100,Grass,Ivysaur,Stage2,Rare,Mitsuhiro Arita,holo,Base Set 2,Base,130
+base4-19,19,Wigglytuff,80,Colorless,Jigglypuff,Stage1,Rare,Mitsuhiro Arita,holo,Base Set 2,Base,130
+base4-20,20,Zapdos,90,Lightning,,Basic,Rare,Ken Sugimori,holo,Base Set 2,Base,130
+base4-21,21,Beedrill,80,Grass,Kakuna,Stage2,Rare,Ken Sugimori,normal,Base Set 2,Base,130
+base4-22,22,Dragonair,80,Colorless,Dratini,Stage1,Rare,Mitsuhiro Arita,normal,Base Set 2,Base,130
+base4-23,23,Dugtrio,70,Fighting,Diglett,Stage1,Rare,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-24,24,Electabuzz,70,Lightning,,Basic,Rare,Ken Sugimori,normal,Base Set 2,Base,130
+base4-25,25,Electrode,80,Lightning,Voltorb,Stage1,Rare,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-26,26,Kangaskhan,90,Colorless,,Basic,Rare,Mitsuhiro Arita,normal,Base Set 2,Base,130
+base4-27,27,Mr. Mime,40,Psychic,Mime Jr.,Basic,Rare,Ken Sugimori,normal,Base Set 2,Base,130
+base4-28,28,Pidgeotto,60,Colorless,Pidgey,Stage1,Rare,Ken Sugimori,normal,Base Set 2,Base,130
+base4-29,29,Pinsir,60,Grass,,Basic,Rare,Kagemaru Himeno,normal,Base Set 2,Base,130
+base4-30,30,Snorlax,90,Colorless,Munchlax,Basic,Rare,Ken Sugimori,normal,Base Set 2,Base,130
+base4-31,31,Venomoth,70,Grass,Venonat,Stage1,Rare,Ken Sugimori,normal,Base Set 2,Base,130
+base4-32,32,Victreebel,80,Grass,Weepinbell,Stage2,Rare,Ken Sugimori,normal,Base Set 2,Base,130
+base4-33,33,Arcanine,100,Fire,Growlithe,Stage1,Uncommon,Ken Sugimori,normal,Base Set 2,Base,130
+base4-34,34,Butterfree,70,Grass,Metapod,Stage2,Uncommon,Kagemaru Himeno,normal,Base Set 2,Base,130
+base4-35,35,Charmeleon,80,Fire,Charmander,Stage1,Uncommon,Mitsuhiro Arita,normal,Base Set 2,Base,130
+base4-36,36,Dewgong,80,Water,Seel,Stage1,Uncommon,Mitsuhiro Arita,normal,Base Set 2,Base,130
+base4-37,37,Dodrio,70,Colorless,Doduo,Stage1,Uncommon,Mitsuhiro Arita,normal,Base Set 2,Base,130
+base4-38,38,Dratini,40,Colorless,,Basic,Uncommon,Ken Sugimori,normal,Base Set 2,Base,130
+base4-39,39,Exeggutor,80,Grass,Exeggcute,Stage1,Uncommon,Kagemaru Himeno,normal,Base Set 2,Base,130
+base4-40,40,Farfetch'd,50,Colorless,,Basic,Uncommon,Ken Sugimori,normal,Base Set 2,Base,130
+base4-41,41,Fearow,70,Colorless,Spearow,Stage1,Uncommon,Mitsuhiro Arita,normal,Base Set 2,Base,130
+base4-42,42,Growlithe,60,Fire,,Basic,Uncommon,Ken Sugimori,normal,Base Set 2,Base,130
+base4-43,43,Haunter,60,Psychic,Gastly,Stage1,Uncommon,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-44,44,Ivysaur,60,Grass,Barboach,Stage1,Uncommon,Ken Sugimori,normal,Base Set 2,Base,130
+base4-45,45,Jynx,70,Psychic,,Basic,Uncommon,Ken Sugimori,normal,Base Set 2,Base,130
+base4-46,46,Kadabra,60,Psychic,Abra,Stage1,Uncommon,Ken Sugimori,normal,Base Set 2,Base,130
+base4-47,47,Kakuna,80,Grass,Weedle,Stage1,Uncommon,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-48,48,Lickitung,90,Colorless,,Basic,Uncommon,Mitsuhiro Arita,normal,Base Set 2,Base,130
+base4-49,49,Machoke,80,Fighting,Machop,Stage1,Uncommon,Ken Sugimori,normal,Base Set 2,Base,130
+base4-50,50,Magikarp,30,Water,,Basic,Uncommon,Mitsuhiro Arita,normal,Base Set 2,Base,130
+base4-51,51,Magmar,50,Fire,,Basic,Uncommon,Ken Sugimori,normal,Base Set 2,Base,130
+base4-52,52,Marowak,60,Fighting,Cubone,Stage1,Uncommon,Mitsuhiro Arita,normal,Base Set 2,Base,130
+base4-53,53,Nidorina,70,Grass,Nidoran♀,Stage1,Uncommon,Ken Sugimori,normal,Base Set 2,Base,130
+base4-54,54,Nidorino,60,Grass,Nidoran♂,Stage1,Uncommon,Mitsuhiro Arita,normal,Base Set 2,Base,130
+base4-55,55,Parasect,60,Grass,Paras,Stage1,Uncommon,Ken Sugimori,normal,Base Set 2,Base,130
+base4-56,56,Persian,70,Colorless,Meowth,Stage1,Uncommon,Kagemaru Himeno,normal,Base Set 2,Base,130
+base4-57,57,Poliwhirl,60,Water,Poliwag,Stage1,Uncommon,Ken Sugimori,normal,Base Set 2,Base,130
+base4-58,58,Raticate,60,Colorless,Poochyena,Stage1,Uncommon,Ken Sugimori,normal,Base Set 2,Base,130
+base4-59,59,Rhydon,100,Fighting,Rhyhorn,Stage1,Uncommon,Kagemaru Himeno,normal,Base Set 2,Base,130
+base4-60,60,Seaking,70,Water,Goldeen,Stage1,Uncommon,Kagemaru Himeno,normal,Base Set 2,Base,130
+base4-61,61,Seel,60,Water,,Basic,Uncommon,Ken Sugimori,normal,Base Set 2,Base,130
+base4-62,62,Tauros,60,Colorless,,Basic,Uncommon,Kagemaru Himeno,normal,Base Set 2,Base,130
+base4-63,63,Wartortle,70,Water,Squirtle,Stage1,Uncommon,Ken Sugimori,normal,Base Set 2,Base,130
+base4-64,64,Weepinbell,70,Grass,Bellsprout,Stage1,Uncommon,Kagemaru Himeno,normal,Base Set 2,Base,130
+base4-65,65,Abra,30,Psychic,,Basic,Common,Mitsuhiro Arita,normal,Base Set 2,Base,130
+base4-66,66,Bellsprout,40,Grass,,Basic,Common,Kagemaru Himeno,normal,Base Set 2,Base,130
+base4-67,67,Bulbasaur,40,Grass,,Basic,Common,Mitsuhiro Arita,normal,Base Set 2,Base,130
+base4-68,68,Caterpie,40,Grass,,Basic,Common,Ken Sugimori,normal,Base Set 2,Base,130
+base4-69,69,Charmander,50,Fire,,Basic,Common,Mitsuhiro Arita,normal,Base Set 2,Base,130
+base4-70,70,Cubone,40,Fighting,,Basic,Common,Mitsuhiro Arita,normal,Base Set 2,Base,130
+base4-71,71,Diglett,30,Fighting,,Basic,Common,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-72,72,Doduo,50,Colorless,,Basic,Common,Mitsuhiro Arita,normal,Base Set 2,Base,130
+base4-73,73,Drowzee,50,Psychic,,Basic,Common,Ken Sugimori,normal,Base Set 2,Base,130
+base4-74,74,Exeggcute,50,Grass,,Basic,Common,Mitsuhiro Arita,normal,Base Set 2,Base,130
+base4-75,75,Gastly,30,Psychic,,Basic,Common,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-76,76,Goldeen,40,Water,,Basic,Common,Kagemaru Himeno,normal,Base Set 2,Base,130
+base4-77,77,Jigglypuff,60,Colorless,,Basic,Common,Kagemaru Himeno,normal,Base Set 2,Base,130
+base4-78,78,Machop,50,Fighting,,Basic,Common,Mitsuhiro Arita,normal,Base Set 2,Base,130
+base4-79,79,Magnemite,40,Lightning,,Basic,Common,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-80,80,Meowth,50,Colorless,,Basic,Common,Mitsuhiro Arita,normal,Base Set 2,Base,130
+base4-81,81,Metapod,70,Grass,Caterpie,Stage1,Common,Ken Sugimori,normal,Base Set 2,Base,130
+base4-82,82,Nidoran♀,60,Grass,,Basic,Common,Ken Sugimori,normal,Base Set 2,Base,130
+base4-83,83,Nidoran♂,40,Grass,,Basic,Common,Ken Sugimori,normal,Base Set 2,Base,130
+base4-84,84,Onix,90,Fighting,,Basic,Common,Ken Sugimori,normal,Base Set 2,Base,130
+base4-85,85,Paras,40,Grass,,Basic,Common,Ken Sugimori,normal,Base Set 2,Base,130
+base4-86,86,Pidgey,40,Colorless,,Basic,Common,Ken Sugimori,normal,Base Set 2,Base,130
+base4-87,87,Pikachu,40,Lightning,,Basic,Common,Mitsuhiro Arita,normal,Base Set 2,Base,130
+base4-88,88,Poliwag,40,Water,,Basic,Common,Ken Sugimori,normal,Base Set 2,Base,130
+base4-89,89,Rattata,30,Colorless,,Basic,Common,Mitsuhiro Arita,normal,Base Set 2,Base,130
+base4-90,90,Rhyhorn,70,Fighting,,Basic,Common,Mitsuhiro Arita,normal,Base Set 2,Base,130
+base4-91,91,Sandshrew,40,Fighting,,Basic,Common,Ken Sugimori,normal,Base Set 2,Base,130
+base4-92,92,Spearow,50,Colorless,,Basic,Common,Mitsuhiro Arita,normal,Base Set 2,Base,130
+base4-93,93,Squirtle,40,Water,,Basic,Common,Mitsuhiro Arita,normal,Base Set 2,Base,130
+base4-94,94,Starmie,60,Water,Staryu,Stage1,Common,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-95,95,Staryu,40,Water,,Basic,Common,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-96,96,Tangela,50,Grass,,Basic,Common,Mitsuhiro Arita,normal,Base Set 2,Base,130
+base4-97,97,Venonat,40,Grass,,Basic,Common,Mitsuhiro Arita,normal,Base Set 2,Base,130
+base4-98,98,Voltorb,40,Lightning,,Basic,Common,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-99,99,Vulpix,50,Fire,,Basic,Common,Ken Sugimori,normal,Base Set 2,Base,130
+base4-100,100,Weedle,40,Grass,,Basic,Common,Mitsuhiro Arita,normal,Base Set 2,Base,130
+base4-101,101,Computer Search,,,,,Rare,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-102,102,Impostor Professor Oak,,,,,Rare,Ken Sugimori,normal,Base Set 2,Base,130
+base4-103,103,Item Finder,,,,,Rare,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-104,104,Lass,,,,,Rare,Ken Sugimori,normal,Base Set 2,Base,130
+base4-105,105,Pokémon Breeder,,,,,Rare,Ken Sugimori,normal,Base Set 2,Base,130
+base4-106,106,Pokémon Trader,,,,,Rare,Ken Sugimori,normal,Base Set 2,Base,130
+base4-107,107,Scoop Up,,,,,Rare,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-108,108,Super Energy Removal,,,,,Rare,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-109,109,Defender,,,,,Uncommon,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-110,110,Energy Retrieval,,,,,Uncommon,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-111,111,Full Heal,,,,,Uncommon,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-112,112,Maintenance,,,,,Uncommon,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-113,113,PlusPower,,,,,Uncommon,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-114,114,Pokémon Center,,,,,Uncommon,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-115,115,Pokédex,,,,,Uncommon,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-116,116,Professor Oak,,,,,Uncommon,Ken Sugimori,normal,Base Set 2,Base,130
+base4-117,117,Super Potion,,,,,Uncommon,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-118,118,Bill,,,,,Common,Ken Sugimori,normal,Base Set 2,Base,130
+base4-119,119,Energy Removal,,,,,Common,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-120,120,Gust of Wind,,,,,Common,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-121,121,Poké Ball,,,,,Common,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-122,122,Potion,,,,,Common,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-123,123,Switch,,,,,Common,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-124,124,Double Colorless Energy,,,,,Uncommon,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-125,125,Fighting Energy,,,,Basic,Common,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-126,126,Fire Energy,,,,Basic,Common,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-127,127,Grass Energy,,,,Basic,Common,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-128,128,Lightning Energy,,,,Basic,Common,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-129,129,Psychic Energy,,,,Basic,Common,Keiji Kinebuchi,normal,Base Set 2,Base,130
+base4-130,130,Water Energy,,,,Basic,Common,Keiji Kinebuchi,normal,Base Set 2,Base,130

@@ -1,0 +1,102 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+xy7-1,1,Mystherbe,50,Plante,,De base,Commune,MAHOU,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-2,2,Ortide,80,Plante,Mystherbe,Niveau 1,Peu Commune,Masakazu Fukuda,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-3,3,Rafflesia,130,Plante,Ortide,Niveau 2,Rare,Midori Harada,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-4,4,Joliflor,120,Plante,Ortide,Niveau 2,Peu Commune,Mizue,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-5,5,Mimigal,50,Plante,,De base,Commune,Naoyo Kimura,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-6,6,Migalos,70,Plante,Mimigal,Niveau 1,Peu Commune,Hajime Kusajima,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-7,7,Jungko EX,170,Plante,,De base,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-8,8,M-Jungko EX,220,Plante,Jungko-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-9,9,Apitrini,40,Plante,,De base,Commune,Sumiyoshi Kizuki,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-10,10,Apireine,90,Plante,Apitrini,Niveau 1,Peu Commune,kawayoo,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-11,11,Apireine,90,Plante,Apitrini,Niveau 1,Rare,Ayaka Yoshida,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-12,12,Viridium,110,Plante,,De base,Rare,match,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-13,13,Pyroli,90,Feu,Évoli,Niveau 1,Peu Commune,sui,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-14,14,Entei,120,Feu,,De base,Rare,Naoki Saito,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-15,15,Entei,130,Feu,,De base,Rare,Mitsuhiro Arita,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-16,16,Pyronille,70,Feu,,De base,Commune,Satoshi Shirai,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-17,17,Pyrax,100,Feu,Pyronille,Niveau 1,Rare,Kyoko Umemoto,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-18,18,Pyrax,110,Feu,Pyronille,Niveau 1,Rare,Kagemaru Himeno,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-19,19,Magicarpe,30,Eau,,De base,Commune,Akira Komayama,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-20,20,Léviator,130,Eau,Magicarpe,Niveau 1,Rare,Shin Nagasawa,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-21,21,Léviator,130,Eau,Magicarpe,Niveau 1,Rare,TOKIYA,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-22,22,Aquali,90,Eau,Évoli,Niveau 1,Peu Commune,kirisAki,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-23,23,Relicanth,90,Eau,,De base,Commune,Kagemaru Himeno,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-24,24,Regice,120,Eau,,De base,Rare,Miki Tanaka,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-25,25,Kyurem EX,180,Eau,,De base,Ultra Rare,PLANETA,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-26,26,Voltali,90,Électrique,Évoli,Niveau 1,Rare,Sanosuke Sakuma,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-27,27,Pharamp EX,170,Électrique,,De base,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-28,28,M-Pharamp EX,220,Électrique,Pharamp-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-29,29,Motisma,70,Électrique,,De base,Peu Commune,Mizue,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-30,30,Zarbi,60,Psy,,De base,Commune,Akira Komayama,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-31,31,Balbuto,60,Psy,,De base,Commune,Kouki Saitou,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-32,32,Balbuto,60,Psy,,De base,Commune,Ayaka Yoshida,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-33,33,Kaorine,100,Psy,Balbuto,Niveau 1,Rare,Satoshi Shirai,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-34,34,Gringolem,90,Psy,,De base,Commune,Sanosuke Sakuma,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-35,35,Golemastoc,130,Psy,Gringolem,Niveau 1,Rare,kawayoo,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-36,36,Hoopa EX,170,Psy,,De base,Ultra Rare,Ryota Murayama,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-37,37,Mackogneur EX,180,Combat,,De base,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-38,38,Axoloto,60,Combat,,De base,Commune,Sumiyoshi Kizuki,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-39,39,Maraiste,110,Combat,Axoloto,Niveau 1,Commune,Naoyo Kimura,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-40,40,Regirock,120,Combat,,De base,Rare,Shin Nagasawa,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-41,41,Golemastoc,130,Combat,Gringolem,Niveau 1,Commune,Suwama Chiaki,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-42,42,Tyranocif EX,180,Obscurité,,De base,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-43,43,M-Tyranocif EX,240,Obscurité,Tyranocif-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-44,44,Ténéfix,70,Obscurité,,De base,Peu Commune,Hitoshi Ariga,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-45,45,Sepiatop,50,Obscurité,,De base,Commune,Tomokazu Komiya,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-46,46,Sepiatroce,90,Obscurité,Sepiatop,Niveau 1,Commune,Masakazu Fukuda,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-47,47,Terhal,60,Métal,,De base,Commune,Yuka Morii,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-48,48,Métang,90,Métal,Terhal,Niveau 1,Peu Commune,Shigenori Negishi,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-49,49,Métalosse,150,Métal,Métang,Niveau 2,Rare,kirisAki,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-50,50,Métalosse,150,Métal,Métang,Niveau 2,Rare,Hitoshi Ariga,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-51,51,Registeel,120,Métal,,De base,Rare,Kouki Saitou,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-52,52,Tarsal,60,Fée,,De base,Commune,Aya Kusube,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-53,53,Kirlia,80,Fée,Tarsal,Niveau 1,Peu Commune,match,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-54,54,Gardevoir,130,Fée,Kirlia,Niveau 2,Rare,TOKIYA,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-55,55,Doudouvet,40,Fée,,De base,Commune,Kanako Eo,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-56,56,Farfaduvet,70,Fée,Doudouvet,Niveau 1,Peu Commune,Atsuko Nishida,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-57,57,Giratina EX,170,Dragon,,De base,Ultra Rare,PLANETA,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-58,58,Mucuscule,40,Dragon,,De base,Commune,sui,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-59,59,Colimucus,70,Dragon,Mucuscule,Niveau 1,Peu Commune,Midori Harada,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-60,60,Muplodocus,150,Dragon,Colimucus,Niveau 2,Rare,Saya Tsuruta,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-61,61,Miaouss,60,Incolore,,De base,Commune,Kanako Eo,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-62,62,Persian,90,Incolore,Miaouss,Niveau 1,Commune,Mitsuhiro Arita,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-63,63,Évoli,60,Incolore,,De base,Commune,Kouki Saitou,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-64,64,Porygon,60,Incolore,,De base,Commune,Yukiko Baba,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-65,65,Porygon2,80,Incolore,Porygon,Niveau 1,Peu Commune,MAHOU,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-66,66,Porygon-Z,130,Incolore,Porygon2,Niveau 2,Rare,TOKIYA,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-67,67,Porygon-Z,130,Incolore,Porygon2,Niveau 2,Rare,Naoki Saito,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-68,68,Lugia EX,170,Incolore,,De base,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-69,69,Top Dresseur,,,,,Peu Commune,Ken Sugimori,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-70,70,Lien Spirituel Pharamp,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-71,71,Bras Écologique,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-72,72,Recycleur d'Énergie,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-73,73,Ville Abandonnée,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-74,74,Forêt de Plantes Géantes,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-75,75,Mystimaniac,,,,,Peu Commune,Yusuke Ohmura,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-75a,75a,Mystimaniac,,,,,Peu Commune,Yusuke Ohmura,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-76,76,Niveau Ball,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-77,77,Casque Chance,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-78,78,Lysandre,,,,,Peu Commune,Ken Sugimori,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-79,79,Rouleau à Peinture,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-80,80,Lien Spirituel Jungko,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-81,81,Lien Spirituel Tyranocif,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-82,82,Énergie Danger,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-83,83,Énergie Flash,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-84,84,Jungko EX,170,Plante,,De base,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-85,85,M-Jungko EX,220,Plante,Jungko-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-86,86,Kyurem EX,180,Eau,,De base,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-87,87,Pharamp EX,170,Électrique,,De base,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-88,88,M-Pharamp EX,220,Électrique,Pharamp-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-89,89,Hoopa EX,170,Psy,,De base,Ultra Rare,5ban Graphics,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-90,90,Mackogneur EX,180,Combat,,De base,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-91,91,Tyranocif EX,180,Obscurité,,De base,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-92,92,M-Tyranocif EX,240,Obscurité,Tyranocif-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-93,93,Giratina EX,170,Dragon,,De base,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-94,94,Lugia EX,170,Incolore,,De base,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-95,95,Pierre,,,,,Ultra Rare,Megumi Mizutani,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-96,96,PrimoKyogre EX,240,Eau,Kyogre-EX,MÉGA,Magnifique rare,5ban Graphics,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-97,97,Primo-Groudon EX,240,Combat,Groudon-EX,MÉGA,Magnifique rare,5ban Graphics,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-98,98,M-Rayquaza EX,220,Incolore,Rayquaza-EX,MÉGA,Magnifique rare,5ban Graphics,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-99,99,Récupération d'Énergie,,,,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Origines Antiques,XY,101
+xy7-100,100,Courrier du Dresseur,,,,,Magnifique rare,Toyste Beach,"normal, reverse, holo",Origines Antiques,XY,101

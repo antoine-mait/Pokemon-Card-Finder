@@ -1,0 +1,240 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+A3-001,001,Exeggcute,60,Grass,,Basic,One Diamond,HYOGONOSUKE,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-002,002,Alolan Exeggutor,150,Grass,Exeggcute,Stage1,Three Diamond,Anesaki Dynamic,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-003,003,Surskit,50,Grass,,Basic,One Diamond,Miki Tanaka,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-004,004,Masquerain,90,Grass,Surskit,Stage1,Two Diamond,Kanako Eo,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-005,005,Maractus,90,Grass,,Basic,One Diamond,Kagemaru Himeno,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-006,006,Karrablast,60,Grass,,Basic,One Diamond,OOYAMA,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-007,007,Phantump,60,Grass,,Basic,One Diamond,miki kudo,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-008,008,Trevenant,130,Grass,Phantump,Stage1,Two Diamond,Shin Nagasawa,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-009,009,Rowlet,60,Grass,,Basic,One Diamond,Megumi Mizutani,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-010,010,Rowlet,60,Grass,,Basic,One Diamond,Saya Tsuruta,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-011,011,Dartrix,80,Grass,Rowlet,Stage1,Two Diamond,Mizue,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-012,012,Decidueye ex,170,Grass,Dartrix,Stage2,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-013,013,Grubbin,60,Grass,,Basic,One Diamond,Yuka Morii,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-014,014,Fomantis,60,Grass,,Basic,One Diamond,Kagemaru Himeno,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-015,015,Lurantis,90,Grass,Fomantis,Stage1,Two Diamond,AKIRA EGAWA,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-016,016,Morelull,60,Grass,,Basic,One Diamond,You Iribi,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-017,017,Shiinotic,100,Grass,Morelull,Stage1,Two Diamond,Suwama Chiaki,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-018,018,Bounsweet,50,Grass,,Basic,One Diamond,Akira Komayama,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-019,019,Steenee,80,Grass,Bounsweet,Stage1,Two Diamond,Mizue,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-020,020,Tsareena,130,Grass,Steenee,Stage2,Three Diamond,Hasuno,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-021,021,Wimpod,70,Grass,,Basic,One Diamond,Kagemaru Himeno,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-022,022,Golisopod,120,Grass,Wimpod,Stage1,Three Diamond,Kouki Saitou,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-023,023,Dhelmise ex,140,Grass,,Basic,Four Diamond,PLANETA Tsuji,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-024,024,Tapu Bulu,120,Grass,,Basic,Three Diamond,Satoshi Shirai,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-025,025,Growlithe,70,Fire,,Basic,One Diamond,Naoyo Kimura,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-026,026,Arcanine,130,Fire,Growlithe,Stage1,Two Diamond,match,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-027,027,Alolan Marowak,110,Fire,Cubone,Stage1,Two Diamond,miki kudo,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-028,028,Fletchinder,80,Fire,Fletchling,Stage1,One Diamond,Mina Nakai,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-029,029,Talonflame,120,Fire,Fletchinder,Stage2,Three Diamond,Masakazu Fukuda,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-030,030,Litten,60,Fire,,Basic,One Diamond,Akira Komayama,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-031,031,Litten,60,Fire,,Basic,One Diamond,sui,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-032,032,Torracat,80,Fire,Litten,Stage1,Two Diamond,tetsuya koizumi,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-033,033,Incineroar ex,180,Fire,Torracat,Stage2,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-034,034,Oricorio,70,Fire,,Basic,Two Diamond,Jerky,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-035,035,Salandit,50,Fire,,Basic,One Diamond,Yukiko Baba,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-036,036,Salazzle,90,Fire,Salandit,Stage1,One Diamond,Naoki Saito,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-037,037,Turtonator,120,Fire,,Basic,Three Diamond,Shin Nagasawa,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-038,038,Alolan Sandshrew,60,Water,,Basic,One Diamond,ryoma uratsuka,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-039,039,Alolan Sandslash,100,Water,Alolan Sandshrew,Stage1,Two Diamond,Hasuno,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-040,040,Alolan Vulpix,60,Water,,Basic,One Diamond,You Iribi,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-041,041,Alolan Ninetales,110,Water,Alolan Vulpix,Stage1,Three Diamond,Eri Yamaki,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-042,042,Shellder,70,Water,,Basic,One Diamond,Midori Harada,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-043,043,Cloyster,110,Water,Shellder,Stage1,Two Diamond,Masakazu Fukuda,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-044,044,Lapras,110,Water,,Basic,Two Diamond,Hitoshi Ariga,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-045,045,Popplio,60,Water,,Basic,One Diamond,Kanami Ogata,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-046,046,Popplio,60,Water,,Basic,One Diamond,Kouki Saitou,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-047,047,Brionne,80,Water,Popplio,Stage1,Two Diamond,Saya Tsuruta,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-048,048,Primarina,140,Water,Brionne,Stage2,Three Diamond,Kagemaru Himeno,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-049,049,Crabominable ex,160,Water,Crabrawler,Stage1,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-050,050,Wishiwashi,30,Water,,Basic,One Diamond,Kouki Saitou,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-051,051,Wishiwashi ex,170,Water,,Basic,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-052,052,Dewpider,60,Water,,Basic,One Diamond,Atsuko Nishida,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-053,053,Araquanid,110,Water,Dewpider,Stage1,Two Diamond,kodama,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-054,054,Pyukumuku,60,Water,,Basic,One Diamond,You Iribi,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-055,055,Bruxish,80,Water,,Basic,One Diamond,Masakazu Fukuda,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-056,056,Tapu Fini,100,Water,,Basic,Three Diamond,chibi,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-057,057,Pikachu,60,Lightning,,Basic,One Diamond,Naoyo Kimura,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-058,058,Alolan Raichu ex,140,Lightning,Pikachu,Stage1,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-059,059,Alolan Geodude,70,Lightning,,Basic,One Diamond,Hitoshi Ariga,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-060,060,Alolan Graveler,110,Lightning,Alolan Geodude,Stage1,Two Diamond,match,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-061,061,Alolan Golem,160,Lightning,Alolan Graveler,Stage2,Three Diamond,kawayoo,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-062,062,Helioptile,60,Lightning,,Basic,One Diamond,0313,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-063,063,Heliolisk,90,Lightning,Helioptile,Stage1,One Diamond,Kagemaru Himeno,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-064,064,Charjabug,90,Lightning,Grubbin,Stage1,Two Diamond,Naoki Saito,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-065,065,Vikavolt,140,Lightning,Charjabug,Stage2,Three Diamond,Hitoshi Ariga,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-066,066,Oricorio,70,Lightning,,Basic,Three Diamond,Jerky,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-067,067,Togedemaru,70,Lightning,,Basic,One Diamond,Misa Tsutsui,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-068,068,Tapu Koko,100,Lightning,,Basic,Three Diamond,kirisAki,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-069,069,Mr. Mime,80,Psychic,,Basic,Two Diamond,Yukihiro Tada,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-070,070,Sableye,80,Psychic,,Basic,Two Diamond,Aya Kusube,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-071,071,Spoink,60,Psychic,,Basic,One Diamond,Sekio,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-072,072,Grumpig,110,Psychic,Spoink,Stage1,Two Diamond,Yukiko Baba,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-073,073,Lunatone,90,Psychic,,Basic,One Diamond,Hisao Nakamura,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-074,074,Shuppet,60,Psychic,,Basic,One Diamond,Kyoko Umemoto,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-075,075,Banette,90,Psychic,Shuppet,Stage1,One Diamond,Aya Kusube,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-076,076,Oricorio,70,Psychic,,Basic,Two Diamond,Jerky,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-077,077,Oricorio,70,Psychic,,Basic,Two Diamond,Jerky,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-078,078,Cutiefly,30,Psychic,,Basic,One Diamond,Hitoshi Ariga,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-079,079,Ribombee,80,Psychic,Cutiefly,Stage1,One Diamond,Megumi Mizutani,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-080,080,Comfey,70,Psychic,,Basic,Three Diamond,Sanosuke Sakuma,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-081,081,Sandygast,80,Psychic,,Basic,One Diamond,Akira Komayama,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-082,082,Palossand,130,Psychic,Sandygast,Stage1,Three Diamond,OOYAMA,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-083,083,Mimikyu,70,Psychic,,Basic,One Diamond,HYOGONOSUKE,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-084,084,Tapu Lele,90,Psychic,,Basic,Three Diamond,Misa Tsutsui,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-085,085,Cosmog,60,Psychic,,Basic,One Diamond,sui,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-086,086,Cosmoem,100,Psychic,Cosmog,Stage1,Two Diamond,Aya Kusube,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-087,087,Lunala ex,180,Psychic,Cosmoem,Stage2,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-088,088,Necrozma,120,Psychic,,Basic,Three Diamond,Masakazu Fukuda,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-089,089,Cubone,60,Fighting,,Basic,One Diamond,kawayoo,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-090,090,Makuhita,70,Fighting,,Basic,One Diamond,Mina Nakai,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-091,091,Hariyama,120,Fighting,Makuhita,Stage1,Two Diamond,Miki Tanaka,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-092,092,Solrock,90,Fighting,,Basic,One Diamond,Kyoko Umemoto,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-093,093,Drilbur,60,Fighting,,Basic,One Diamond,Tomokazu Komiya,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-094,094,Timburr,60,Fighting,,Basic,One Diamond,Mizue,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-095,095,Gurdurr,90,Fighting,Timburr,Stage1,Two Diamond,Naoki Saito,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-096,096,Conkeldurr,150,Fighting,Gurdurr,Stage2,Three Diamond,kawayoo,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-097,097,Crabrawler,70,Fighting,,Basic,One Diamond,kirisAki,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-098,098,Rockruff,60,Fighting,,Basic,One Diamond,Oswaldo KATO,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-099,099,Rockruff,60,Fighting,,Basic,One Diamond,Oswaldo KATO,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-100,100,Lycanroc,100,Fighting,Rockruff,Stage1,Three Diamond,Atsushi Furusawa,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-101,101,Lycanroc,100,Fighting,Rockruff,Stage1,Three Diamond,5ban Graphics,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-102,102,Mudbray,80,Fighting,,Basic,One Diamond,Saya Tsuruta,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-103,103,Mudsdale,140,Fighting,Mudbray,Stage1,Two Diamond,Takeshi Nakamura,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-104,104,Passimian ex,130,Fighting,,Basic,Four Diamond,PLANETA Tsuji,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-105,105,Minior,80,Fighting,,Basic,Two Diamond,Amelicart,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-106,106,Alolan Rattata,50,Darkness,,Basic,One Diamond,nagimiso,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-107,107,Alolan Raticate,110,Darkness,Alolan Rattata,Stage1,Two Diamond,nagimiso,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-108,108,Alolan Meowth,60,Darkness,,Basic,One Diamond,sui,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-109,109,Alolan Persian,100,Darkness,Alolan Meowth,Stage1,Three Diamond,kirisAki,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-110,110,Alolan Grimer,70,Darkness,,Basic,One Diamond,Akira Komayama,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-111,111,Alolan Muk ex,160,Darkness,Alolan Grimer,Stage1,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-112,112,Absol,80,Darkness,,Basic,Three Diamond,Anesaki Dynamic,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-113,113,Trubbish,60,Darkness,,Basic,One Diamond,Tomokazu Komiya,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-114,114,Garbodor,120,Darkness,Trubbish,Stage1,Two Diamond,match,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-115,115,Mareanie,70,Darkness,,Basic,One Diamond,Saya Tsuruta,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-116,116,Toxapex,110,Darkness,Mareanie,Stage1,One Diamond,chibi,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-117,117,Alolan Diglett,50,Metal,,Basic,One Diamond,Naoyo Kimura,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-118,118,Alolan Dugtrio,90,Metal,Alolan Diglett,Stage1,One Diamond,Yuka Morii,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-119,119,Excadrill,110,Metal,Drilbur,Stage1,Two Diamond,SATOSHI NAKAI,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-120,120,Escavalier,110,Metal,Karrablast,Stage1,Two Diamond,Satoshi Shirai,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-121,121,Klefki,70,Metal,,Basic,Three Diamond,Shin Nagasawa,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-122,122,Solgaleo ex,180,Metal,Cosmoem,Stage2,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-123,123,Magearna,90,Metal,,Basic,Three Diamond,kawayoo,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-124,124,Drampa,100,Dragon,,Basic,Three Diamond,Anesaki Dynamic,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-125,125,Jangmo-o,60,Dragon,,Basic,One Diamond,Naoki Saito,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-126,126,Hakamo-o,100,Dragon,Jangmo-o,Stage1,Two Diamond,Ryuta Fuse,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-127,127,Kommo-o,150,Dragon,Hakamo-o,Stage2,Three Diamond,hatachu,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-128,128,Tauros,100,Colorless,,Basic,Two Diamond,Kazumasa Yasukuni,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-129,129,Skitty,60,Colorless,,Basic,One Diamond,Sumiyoshi Kizuki,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-130,130,Delcatty,90,Colorless,Skitty,Stage1,Two Diamond,0313,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-131,131,Fletchling,50,Colorless,,Basic,One Diamond,5ban Graphics,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-132,132,Hawlucha,80,Colorless,,Basic,Two Diamond,miki kudo,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-133,133,Pikipek,50,Colorless,,Basic,One Diamond,Shin Nagasawa,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-134,134,Trumbeak,80,Colorless,Pikipek,Stage1,One Diamond,Kouki Saitou,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-135,135,Toucannon,140,Colorless,Trumbeak,Stage2,Two Diamond,Megumi Mizutani,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-136,136,Yungoos,60,Colorless,,Basic,One Diamond,Shigenori Negishi,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-137,137,Gumshoos,100,Colorless,Yungoos,Stage1,One Diamond,Shigenori Negishi,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-138,138,Stufful,70,Colorless,,Basic,One Diamond,Sanosuke Sakuma,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-139,139,Bewear,130,Colorless,Stufful,Stage1,Three Diamond,kirisAki,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-140,140,Oranguru,100,Colorless,,Basic,Three Diamond,Naoki Saito,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-141,141,Komala,90,Colorless,,Basic,Two Diamond,Kouki Saitou,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-142,142,Big Malasada,,,,,Two Diamond,5ban Graphics,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-143,143,Fishing Net,,,,,Two Diamond,Toyste Beach,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-144,144,Rare Candy,,,,,Two Diamond,Toyste Beach,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-145,145,Rotom Dex,,,,,Two Diamond,5ban Graphics,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-146,146,Poison Barb,,,,,Two Diamond,Toyste Beach,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-147,147,Leaf Cape,,,,,Two Diamond,Toyste Beach,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-148,148,Acerola,,,,,Two Diamond,Susumu Maeya,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-149,149,Ilima,,,,,Two Diamond,Teeziro,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-150,150,Kiawe,,,,,Two Diamond,Hideki Ishikawa,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-151,151,Guzma,,,,,Two Diamond,GOSSAN,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-152,152,Lana,,,,,Two Diamond,Yuu Nishida,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-153,153,Sophocles,,,,,Two Diamond,Akira Komayama,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-154,154,Mallow,,,,,Two Diamond,En Morikura,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-155,155,Lillie,,,,,Two Diamond,hechima,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-156,156,Alolan Exeggutor,150,Grass,Exeggcute,Stage1,One Star,Saboteri,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-157,157,Morelull,60,Grass,,Basic,One Star,kamonabe,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-158,158,Tsareena,130,Grass,Steenee,Stage2,One Star,Ligton,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-159,159,Tapu Bulu,120,Grass,,Basic,One Star,OKACHEKE,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-160,160,Alolan Marowak,110,Fire,Cubone,Stage1,One Star,Gemi,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-161,161,Turtonator,120,Fire,,Basic,One Star,akagi,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-162,162,Alolan Vulpix,60,Water,,Basic,One Star,tono,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-163,163,Pyukumuku,60,Water,,Basic,One Star,Toshinao Aoki,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-164,164,Tapu Fini,100,Water,,Basic,One Star,OKACHEKE,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-165,165,Oricorio,70,Lightning,,Basic,One Star,USGMEN,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-166,166,Tapu Koko,100,Lightning,,Basic,One Star,OKACHEKE,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-167,167,Cutiefly,30,Psychic,,Basic,One Star,kamonabe,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-168,168,Comfey,70,Psychic,,Basic,One Star,mashu,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-169,169,Sandygast,80,Psychic,,Basic,One Star,Yukihiro Tada,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-170,170,Tapu Lele,90,Psychic,,Basic,One Star,OKACHEKE,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-171,171,Cosmog,60,Psychic,,Basic,One Star,Yoko Hishida,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-172,172,Rockruff,60,Fighting,,Basic,One Star,mele,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-173,173,Mudsdale,140,Fighting,Mudbray,Stage1,One Star,Teeziro,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-174,174,Minior,80,Fighting,,Basic,One Star,imoniii,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-175,175,Magearna,90,Metal,,Basic,One Star,Kuroimori,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-176,176,Drampa,100,Dragon,,Basic,One Star,Shinji Kanda,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-177,177,Pikipek,50,Colorless,,Basic,One Star,Narumi Sato,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-178,178,Bewear,130,Colorless,Stufful,Stage1,One Star,Tomowaka,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-179,179,Komala,90,Colorless,,Basic,One Star,GOTO minori,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-180,180,Decidueye ex,170,Grass,Dartrix,Stage2,Two Star,PLANETA CG Works,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-181,181,Dhelmise ex,140,Grass,,Basic,Two Star,PLANETA Tsuji,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-182,182,Incineroar ex,180,Fire,Torracat,Stage2,Two Star,PLANETA Tsuji,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-183,183,Crabominable ex,160,Water,Crabrawler,Stage1,Two Star,PLANETA CG Works,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-184,184,Wishiwashi ex,170,Water,,Basic,Two Star,PLANETA CG Works,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-185,185,Alolan Raichu ex,140,Lightning,Pikachu,Stage1,Two Star,PLANETA CG Works,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-186,186,Lunala ex,180,Psychic,Cosmoem,Stage2,Two Star,PLANETA CG Works,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-187,187,Passimian ex,130,Fighting,,Basic,Two Star,PLANETA Tsuji,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-188,188,Alolan Muk ex,160,Darkness,Alolan Grimer,Stage1,Two Star,PLANETA CG Works,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-189,189,Solgaleo ex,180,Metal,Cosmoem,Stage2,Two Star,PLANETA CG Works,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-190,190,Acerola,,,,,Two Star,Susumu Maeya,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-191,191,Ilima,,,,,Two Star,Teeziro,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-192,192,Kiawe,,,,,Two Star,Hideki Ishikawa,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-193,193,Guzma,,,,,Two Star,GOSSAN,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-194,194,Lana,,,,,Two Star,Yuu Nishida,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-195,195,Sophocles,,,,,Two Star,Akira Komayama,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-196,196,Mallow,,,,,Two Star,En Morikura,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-197,197,Lillie,,,,,Two Star,hechima,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-198,198,Decidueye ex,170,Grass,Dartrix,Stage2,Two Star,Takumi Wada,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-199,199,Dhelmise ex,140,Grass,,Basic,Two Star,IKEDA Saki,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-200,200,Incineroar ex,180,Fire,Torracat,Stage2,Two Star,Kazumasa Yasukuni,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-201,201,Crabominable ex,160,Water,Crabrawler,Stage1,Two Star,Miki Tanaka,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-202,202,Wishiwashi ex,170,Water,,Basic,Two Star,Nurikabe,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-203,203,Alolan Raichu ex,140,Lightning,Pikachu,Stage1,Two Star,Yoshimi Miyoshi,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-204,204,Lunala ex,180,Psychic,Cosmoem,Stage2,Two Star,AKIRA EGAWA,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-205,205,Passimian ex,130,Fighting,,Basic,Two Star,Taiga Kayama,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-206,206,Alolan Muk ex,160,Darkness,Alolan Grimer,Stage1,Two Star,Jerky,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-207,207,Solgaleo ex,180,Metal,Cosmoem,Stage2,Two Star,AKIRA EGAWA,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-208,208,Guzma,,,,,Three Star,danciao,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-209,209,Lillie,,,,,Three Star,Atsushi Furusawa,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-210,210,Bulbasaur,70,Grass,,Basic,One Shiny,Ryuta Fuse,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-211,211,Ivysaur,90,Grass,Bulbasaur,Stage1,One Shiny,Ryuta Fuse,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-212,212,Venusaur,160,Grass,Ivysaur,Stage2,One Shiny,Ryuta Fuse,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-213,213,Exeggcute,60,Grass,,Basic,One Shiny,Shigenori Negishi,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-214,214,Exeggutor,130,Grass,Exeggcute,Stage1,One Shiny,Shigenori Negishi,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-215,215,Squirtle,60,Water,,Basic,One Shiny,Nisota Niso,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-216,216,Wartortle,80,Water,Squirtle,Stage1,One Shiny,Nisota Niso,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-217,217,Blastoise,150,Water,Wartortle,Stage2,One Shiny,Nisota Niso,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-218,218,Staryu,50,Water,,Basic,One Shiny,MAHOU,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-219,219,Starmie,90,Water,Staryu,Stage1,One Shiny,MAHOU,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-220,220,Gastly,50,Psychic,,Basic,One Shiny,kurumitsu,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-221,221,Haunter,80,Psychic,Gastly,Stage1,One Shiny,kurumitsu,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-222,222,Gengar,130,Psychic,Haunter,Stage2,One Shiny,kurumitsu,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-223,223,Machop,70,Fighting,,Basic,One Shiny,Shin Nagasawa,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-224,224,Machoke,100,Fighting,Machop,Stage1,One Shiny,Shin Nagasawa,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-225,225,Machamp,150,Fighting,Machoke,Stage2,One Shiny,Shin Nagasawa,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-226,226,Cubone,60,Fighting,,Basic,One Shiny,Sanosuke Sakuma,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-227,227,Marowak,100,Fighting,Cubone,Stage1,One Shiny,Sanosuke Sakuma,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-228,228,Jigglypuff,60,Colorless,,Basic,One Shiny,Tomowaka,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-229,229,Wigglytuff,100,Colorless,Jigglypuff,Stage1,One Shiny,Tomowaka,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-230,230,Venusaur ex,190,Grass,Ivysaur,Stage2,Two Shiny,PLANETA CG Works,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-231,231,Exeggutor ex,160,Grass,Exeggcute,Stage1,Two Shiny,PLANETA CG Works,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-232,232,Blastoise ex,180,Water,Wartortle,Stage2,Two Shiny,PLANETA CG Works,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-233,233,Starmie ex,130,Water,Staryu,Stage1,Two Shiny,PLANETA Igarashi,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-234,234,Gengar ex,170,Psychic,Haunter,Stage2,Two Shiny,PLANETA CG Works,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-235,235,Machamp ex,180,Fighting,Machoke,Stage2,Two Shiny,PLANETA Igarashi,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-236,236,Marowak ex,140,Fighting,Cubone,Stage1,Two Shiny,PLANETA Mochizuki,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-237,237,Wigglytuff ex,140,Colorless,Jigglypuff,Stage1,Two Shiny,PLANETA Igarashi,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-238,238,Lunala ex,180,Psychic,Cosmoem,Stage2,Crown,PLANETA CG Works,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239
+A3-239,239,Solgaleo ex,180,Metal,Cosmoem,Stage2,Crown,PLANETA CG Works,"normal, reverse, holo",Celestial Guardians,Pokémon TCG Pocket,239

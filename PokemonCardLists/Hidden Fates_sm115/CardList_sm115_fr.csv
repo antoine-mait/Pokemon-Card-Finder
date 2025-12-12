@@ -1,0 +1,70 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sm115-1,1,Chenipan,60,Plante,,De base,Commune,tetsuya koizumi,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-2,2,Chrysacier,90,Plante,Chenipan,Niveau 1,Peu Commune,Shibuzoh.,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-3,3,Papilusion,130,Plante,Chrysacier,Niveau 2,Rare,Masakazu Fukuda,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-4,4,Paras,70,Plante,,De base,Commune,OOYAMA,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-5,5,Insécateur,100,Plante,,De base,Peu Commune,Hasuno,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-6,6,Scarabrute-GX,180,Plante,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-7,7,Salamèche,70,Feu,,De base,Commune,Megumi Mizutani,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-8,8,Reptincel,100,Feu,Salamèche,Niveau 1,Peu Commune,Shin Nagasawa,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-9,9,Dracaufeu-GX,250,Feu,Reptincel,,Ultra Rare,aky CG Works,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-10,10,Magmar,90,Feu,,De base,Peu Commune,Satoshi Shirai,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-11,11,Psykokwak,60,Eau,,De base,Commune,nagimiso,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-12,12,Ramoloss,70,Eau,,De base,Commune,Misa Tsutsui,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-13,13,Stari,50,Eau,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-14,14,Staross-GX,190,Eau,Stari,,Ultra Rare,PLANETA Otani,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-15,15,Magicarpe,30,Eau,,De base,Commune,Shigenori Negishi,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-16,16,Léviator-GX,230,Eau,Magicarpe,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-17,17,Lokhlass,120,Eau,,De base,Rare,kodama,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-18,18,Aquali,120,Eau,Évoli,Niveau 1,Rare,Masakazu Fukuda,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-19,19,Pikachu,70,Électrique,,De base,Commune,Kagemaru Himeno,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-20,20,Raichu-GX,210,Électrique,Pikachu,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-21,21,Voltorbe,50,Électrique,,De base,Commune,SATOSHI NAKAI,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-22,22,Électrode,100,Électrique,Voltorbe,Niveau 1,Rare,Anesaki Dynamic,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-23,23,Voltali,90,Électrique,Évoli,Niveau 1,Rare,Kouki Saitou,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-24,24,Électhor,120,Électrique,,De base,Rare,Shin Nagasawa,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-25,25,Abo,60,Psy,,De base,Commune,MAHOU,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-26,26,Abo,60,Psy,,De base,Commune,Masakazu Fukuda,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-27,27,Arbok,120,Psy,Abo,Niveau 1,Rare,kirisAki,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-28,28,Smogo,60,Psy,,De base,Commune,Saya Tsuruta,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-29,29,Smogogo,120,Psy,Smogo,Niveau 1,Rare,Hideki Ishikawa,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-30,30,Lippoutou,100,Psy,,De base,Peu Commune,Kouki Saitou,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-31,31,Mewtwo-GX,180,Psy,,,Ultra Rare,aky CG Works,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-32,32,Mew,80,Psy,,De base,Rare,Atsuko Nishida,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-33,33,Racaillou,70,Combat,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-34,34,Gravalanch,100,Combat,Racaillou,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-35,35,Grolem,170,Combat,Gravalanch,Niveau 2,Rare,Ken Sugimori,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-36,36,Onix-GX,200,Combat,,,Ultra Rare,PLANETA Igarashi,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-37,37,Osselait,60,Combat,,De base,Commune,Hasuno,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-38,38,Mélofée,60,Fée,,De base,Commune,Saya Tsuruta,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-39,39,Mélofée,60,Fée,,De base,Commune,kirisAki,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-40,40,Mélodelfe,120,Fée,Mélofée,Niveau 1,Rare,sui,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-41,41,Rondoudou,70,Fée,,De base,Commune,Mizue,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-42,42,Grodoudou-GX,210,Fée,Rondoudou,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-43,43,M. Mime,90,Fée,,De base,Rare,Hideki Ishikawa,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-44,44,"Sulfura, Électhor et Artikodin-GX",300,Incolore,,,Ultra Rare,Mitsuhiro Arita,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-45,45,Canarticho,80,Incolore,,De base,Peu Commune,Eri Yamaki,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-46,46,Leveinard,130,Incolore,,De base,Peu Commune,sowsow,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-47,47,Kangourex,120,Incolore,,De base,Rare,You Iribi,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-48,48,Évoli,60,Incolore,,De base,Rare,Kagemaru Himeno,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-49,49,Évoli,60,Incolore,,De base,Commune,Hitoshi Ariga,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-50,50,Ronflex,150,Incolore,,De base,Rare,Akira Komayama,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-51,51,Analyse de Léo,,,,,Rare,Naoki Saito,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-52,52,Dernière Chance d’Auguste,,,,,Rare,Ken Sugimori,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-53,53,Vaillance de Pierre,,,,,Peu Commune,Megumi Mizutani,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-54,54,Arène d’Argenta de Pierre,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-55,55,Entraînement de Pierre,,,,,Rare,TOKIYA,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-56,56,Hospitalité d’Erika,,,,,Rare,Sanosuke Sakuma,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-57,57,Exil de Giovanni,,,,,Peu Commune,Megumi Mizutani,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-58,58,Jessie et James,,,,,Rare,Megumi Mizutani,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-59,59,Piège de Koga,,,,,Peu Commune,Megumi Mizutani,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-60,60,Stratégie de Major Bob,,,,,Peu Commune,Megumi Mizutani,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-61,61,Arène d’Azuria d’Ondine,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-62,62,Détermination d’Ondine,,,,,Peu Commune,Megumi Mizutani,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-63,63,Maîtrise Aquatique d’Ondine,,,,,Rare,TOKIYA,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-64,64,Dame du Centre Pokémon,,,,,Peu Commune,TOKIYA,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-65,65,Suggestion de Morgane,,,,,Peu Commune,Hitoshi Ariga,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-66,66,"Sulfura, Électhor et Artikodin-GX",300,Incolore,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-67,67,Exil de Giovanni,,,,,Ultra Rare,TOKIYA,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-68,68,Jessie et James,,,,,Ultra Rare,Megumi Mizutani,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69
+sm115-69,69,"Sulfura, Électhor et Artikodin-GX",300,Incolore,,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Destinées Occultes,Soleil et Lune,69

@@ -1,0 +1,210 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+swsh2-1,1,Raupy,50,Pflanze,,Basis,Häufig,Uta,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-2,2,Safcon,80,Pflanze,Raupy,Rang 1,Ungewöhnlich,Asako Ito,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-3,3,Smettbo,140,Pflanze,Safcon,Rang 2,Selten,Taira Akitsu,"normal, reverse, holo",Clash der Rebellen,Schwert & Schild,209
+swsh2-4,4,Sichlor,80,Pflanze,,Basis,Häufig,KEIICHIRO ITO,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-5,5,Pottrott,80,Pflanze,,Basis,Ungewöhnlich,HYOGONOSUKE,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-6,6,Skaraborn,130,Pflanze,,Basis,Ungewöhnlich,otumami,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-7,7,Loturzel,60,Pflanze,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-8,8,Lombrero,90,Pflanze,Loturzel,Rang 1,Ungewöhnlich,Miki Tanaka,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-9,9,Kappalores,160,Pflanze,Lombrero,Rang 2,Selten,Masakazu Fukuda,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-10,10,Gehweiher,50,Pflanze,,Basis,Häufig,Masakazu Fukuda,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-11,11,Maskeregen,90,Pflanze,Gehweiher,Rang 1,Ungewöhnlich,chibi,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-12,12,Shnebedeck,90,Pflanze,,Basis,Häufig,Shibuzoh.,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-13,13,Rexblisar,140,Pflanze,Shnebedeck,Rang 1,Selten,Kazuma Koda,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-14,14,Paragoni,60,Pflanze,,Basis,Häufig,sui,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-15,15,Trombork,130,Pflanze,Paragoni,Rang 1,Selten,kawayoo,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-16,16,Mabula,60,Pflanze,,Basis,Häufig,Tomokazu Komiya,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-17,17,Gortrom V,220,Pflanze,,Basis,Holografisch Selten V,5ban Graphics,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-18,18,Gortrom VMAX,330,Pflanze,Gortrom-V,VMAX,Holografisch Selten VMAX,5ban Graphics,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-19,19,Cottomi V,180,Pflanze,,Basis,Holografisch Selten V,5ban Graphics,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-20,20,Knapfel,40,Pflanze,,Basis,Häufig,Mizue,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-21,21,Knapfel,40,Pflanze,,Basis,Häufig,Kagemaru Himeno,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-22,22,Drapfel,80,Pflanze,Knapfel,Rang 1,Holografisch Selten,Shin Nagasawa,"reverse, holo",Clash der Rebellen,Schwert & Schild,209
+swsh2-23,23,Schlapfel,90,Pflanze,Knapfel,Rang 1,Holografisch Selten,Akira Komayama,"reverse, holo",Clash der Rebellen,Schwert & Schild,209
+swsh2-24,24,Vulpix,60,Feuer,,Basis,Häufig,sui,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-25,25,Vulnona,120,Feuer,Vulpix,Rang 1,Selten,AKIRA EGAWA,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-26,26,Vulnona V,200,Feuer,,Basis,Holografisch Selten V,Saki Hayashiro,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-27,27,Fukano,80,Feuer,,Basis,Häufig,Ryota Murayama,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-28,28,Arkani,130,Feuer,Fukano,Rang 1,Selten,Hasuno,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-29,29,Magmar,90,Feuer,,Basis,Häufig,Shigenori Negishi,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-30,30,Magbrant,140,Feuer,Magmar,Rang 1,Selten,Kazuma Koda,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-31,31,Lichtel,60,Feuer,,Basis,Häufig,Sekio,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-32,32,Laternecto,80,Feuer,Lichtel,Rang 1,Ungewöhnlich,Kyoko Umemoto,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-33,33,Skelabra,140,Feuer,Laternecto,Rang 2,Holografisch Selten,Taira Akitsu,"reverse, holo",Clash der Rebellen,Schwert & Schild,209
+swsh2-34,34,Furnifraß,120,Feuer,,Basis,Ungewöhnlich,Satoshi Shirai,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-35,35,Liberlo V,210,Feuer,,Basis,Holografisch Selten V,5ban Graphics,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-36,36,Liberlo VMAX,320,Feuer,Liberlo-V,VMAX,Holografisch Selten VMAX,5ban Graphics,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-37,37,Galar-Pantimos,80,Wasser,,Basis,Häufig,kirisAki,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-38,38,Galar-Pantifrost,110,Wasser,Galar-Pantimos,Rang 1,Selten,Mitsuhiro Arita,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-39,39,Karpador,30,Wasser,,Basis,Häufig,kanahei,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-40,40,Garados,180,Wasser,Karpador,Rang 1,Holografisch Selten,hatachu,"reverse, holo",Clash der Rebellen,Schwert & Schild,209
+swsh2-41,41,Wingull,70,Wasser,,Basis,Häufig,0313,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-42,42,Pelipper,120,Wasser,Wingull,Rang 1,Ungewöhnlich,Eri Yamaki,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-43,43,Milotic V,210,Wasser,,Basis,Holografisch Selten V,Ayaka Yoshida,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-44,44,Schallquap,60,Wasser,,Basis,Häufig,Aya Kusube,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-45,45,Mebrana,90,Wasser,Schallquap,Rang 1,Ungewöhnlich,MAHOU,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-46,46,Branawarz,170,Wasser,Mebrana,Rang 2,Selten,SATOSHI NAKAI,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-47,47,Galar-Flampion,80,Wasser,,Basis,Häufig,Akira Komayama,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-48,48,Galar-Flampivian,140,Wasser,Galar-Flampion,Rang 1,Selten,Kouki Saitou,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-49,49,Intelleon V,200,Wasser,,Basis,Holografisch Selten V,5ban Graphics,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-50,50,Intelleon VMAX,320,Wasser,Intelleon-V,VMAX,Holografisch Selten VMAX,5ban Graphics,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-51,51,Urgl,110,Wasser,,Basis,Selten,Mitsuhiro Arita,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-52,52,Pikuda,60,Wasser,,Basis,Häufig,Mina Nakai,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-53,53,Barrakiefa,120,Wasser,Pikuda,Rang 1,Selten,Kouki Saitou,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-54,54,Kubuin,120,Wasser,,Basis,Holografisch Selten,Kagemaru Himeno,"reverse, holo",Clash der Rebellen,Schwert & Schild,209
+swsh2-55,55,Kubuin V,210,Wasser,,Basis,Holografisch Selten V,PLANETA Tsuji,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-56,56,Voltobal,50,Elektro,,Basis,Häufig,Hasegawa Saki,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-57,57,Lektrobal,90,Elektro,Voltobal,Rang 1,Ungewöhnlich,otumami,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-58,58,Elektek,90,Elektro,,Basis,Häufig,Midori Harada,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-59,59,Elevoltek,140,Elektro,Elektek,Rang 1,Selten,tetsuya koizumi,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-60,60,Sheinux,60,Elektro,,Basis,Häufig,Uta,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-61,61,Luxio,90,Elektro,Sheinux,Rang 1,Ungewöhnlich,ryoma uratsuka,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-62,62,Luxtra,160,Elektro,Luxio,Rang 2,Holografisch Selten,Hasuno,"reverse, holo",Clash der Rebellen,Schwert & Schild,209
+swsh2-63,63,Eguana,70,Elektro,,Basis,Häufig,0313,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-64,64,Elezard,110,Elektro,Eguana,Rang 1,Ungewöhnlich,SATOSHI NAKAI,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-65,65,Akkup,90,Elektro,Mabula,Rang 1,Ungewöhnlich,Masakazu Fukuda,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-66,66,Donarion,150,Elektro,Akkup,Rang 2,Holografisch Selten,kawayoo,"reverse, holo",Clash der Rebellen,Schwert & Schild,209
+swsh2-67,67,Bellektro V,200,Elektro,,Basis,Holografisch Selten V,aky CG Works,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-68,68,Toxel,70,Elektro,,Basis,Häufig,nagimiso,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-69,69,Riffex,130,Elektro,Toxel,Rang 1,Selten,TOKIYA,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-70,70,Riffex V,210,Elektro,,Basis,Holografisch Selten V,5ban Graphics,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-71,71,Riffex VMAX,320,Elektro,Riffex-V,VMAX,Holografisch Selten VMAX,5ban Graphics,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-72,72,Britzigel V,170,Elektro,,Basis,Holografisch Selten V,PLANETA Igarashi,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-73,73,Morpeko,80,Elektro,,Basis,Ungewöhnlich,Kouki Saitou,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-74,74,Piepi,60,Psycho,,Basis,Häufig,sowsow,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-75,75,Pixi,110,Psycho,Piepi,Rang 1,Holografisch Selten,miki kudo,"reverse, holo",Clash der Rebellen,Schwert & Schild,209
+swsh2-76,76,Natu,60,Psycho,,Basis,Häufig,Naoyo Kimura,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-77,77,Xatu,120,Psycho,Natu,Rang 1,Ungewöhnlich,so-taro,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-78,78,Galar-Corasonn,80,Psycho,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-79,79,Galar-Gorgasonn,100,Psycho,Galar-Corasonn,Rang 1,Holografisch Selten,Kagemaru Himeno,"reverse, holo",Clash der Rebellen,Schwert & Schild,209
+swsh2-80,80,Symvolara,110,Psycho,,Basis,Selten,Naoyo Kimura,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-81,81,Sankabuh,80,Psycho,,Basis,Häufig,Yuka Morii,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-82,82,Colossand,140,Psycho,Sankabuh,Rang 1,Ungewöhnlich,Hasuno,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-83,83,Brimova,60,Psycho,,Basis,Häufig,Mina Nakai,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-84,84,Brimano,80,Psycho,Brimova,Rang 1,Ungewöhnlich,kirisAki,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-85,85,Silembrim,150,Psycho,Brimano,Rang 2,Holografisch Selten,Kagemaru Himeno,"reverse, holo",Clash der Rebellen,Schwert & Schild,209
+swsh2-86,86,Hokumil,50,Psycho,,Basis,Häufig,Mina Nakai,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-87,87,Pokusan,110,Psycho,Hokumil,Rang 1,Selten,Mizue,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-88,88,Servol,100,Psycho,,Basis,Ungewöhnlich,Mizue,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-89,89,Grolldra,60,Psycho,,Basis,Häufig,Akira Komayama,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-90,90,Phandra,90,Psycho,Grolldra,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-91,91,Katapuldra,150,Psycho,Phandra,Rang 2,Holografisch Selten,Shin Nagasawa,"reverse, holo",Clash der Rebellen,Schwert & Schild,209
+swsh2-92,92,Katapuldra V,210,Psycho,,Basis,Holografisch Selten V,aky CG Works,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-93,93,Katapuldra VMAX,320,Psycho,Katapuldra-V,VMAX,Holografisch Selten VMAX,aky CG Works,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-94,94,Galar-Porenta,80,Kampf,,Basis,Häufig,Akira Komayama,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-95,95,Galar-Lauchzelot,130,Kampf,Galar-Porenta,Rang 1,Holografisch Selten,You Iribi,"reverse, holo",Clash der Rebellen,Schwert & Schild,209
+swsh2-96,96,Nasgnet,80,Kampf,,Basis,Häufig,Miki Tanaka,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-97,97,Meditie,70,Kampf,,Basis,Häufig,Yukiko Baba,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-98,98,Meditalis,110,Kampf,Meditie,Rang 1,Ungewöhnlich,Suwama Chiaki,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-99,99,Schmerbe,70,Kampf,,Basis,Häufig,Atsuko Nishida,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-100,100,Welsar,140,Kampf,Schmerbe,Rang 1,Selten,kawayoo,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-101,101,Galar-Makabaja,70,Kampf,,Basis,Häufig,Akira Komayama,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-102,102,Galar-Oghnatoll,100,Kampf,Galar-Makabaja,Rang 1,Selten,TOKIYA,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-103,103,Bithora,80,Kampf,,Basis,Häufig,Saya Tsuruta,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-104,104,Thanathora,120,Kampf,Bithora,Rang 1,Selten,Anesaki Dynamic,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-105,105,Klonkett,70,Kampf,,Basis,Häufig,Misa Tsutsui,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-106,106,Wagong,100,Kampf,Klonkett,Rang 1,Ungewöhnlich,Mitsuhiro Arita,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-107,107,Montecarbo,160,Kampf,Wagong,Rang 2,Holografisch Selten,Shin Nagasawa,"reverse, holo",Clash der Rebellen,Schwert & Schild,209
+swsh2-108,108,Sanaconda V,220,Kampf,,Basis,Holografisch Selten V,aky CG Works,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-109,109,Legios,90,Kampf,,Basis,Ungewöhnlich,Misa Tsutsui,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-110,110,Legios V,160,Kampf,,Basis,Holografisch Selten V,aky CG Works,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-111,111,Humanolith,140,Kampf,,Basis,Holografisch Selten,Kouki Saitou,"reverse, holo",Clash der Rebellen,Schwert & Schild,209
+swsh2-112,112,Smogon,70,Unlicht,,Basis,Häufig,Kyoko Umemoto,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-113,113,Galar-Smogmog,130,Unlicht,Smogon,Rang 1,Holografisch Selten,Mitsuhiro Arita,"reverse, holo",Clash der Rebellen,Schwert & Schild,209
+swsh2-114,114,Skunkapuh,70,Unlicht,,Basis,Häufig,Shigenori Negishi,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-115,115,Skuntank,120,Unlicht,Skunkapuh,Rang 1,Ungewöhnlich,sowsow,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-116,116,Kryppuk,60,Unlicht,,Basis,Selten,Tomokazu Komiya,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-117,117,Unratütox,60,Unlicht,,Basis,Häufig,HYOGONOSUKE,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-118,118,Deponitox,120,Unlicht,Unratütox,Rang 1,Selten,AKIRA EGAWA,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-119,119,Skallyk,60,Unlicht,,Basis,Häufig,Shibuzoh.,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-120,120,Grypheldis,120,Unlicht,Skallyk,Rang 1,Selten,kodama,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-121,121,Calamanero V,210,Unlicht,,Basis,Holografisch Selten V,Eske Yoshinob,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-122,122,Calamanero VMAX,310,Unlicht,Calamanero-V,VMAX,Holografisch Selten VMAX,5ban Graphics,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-123,123,Bähmon,70,Unlicht,,Basis,Häufig,Kouki Saitou,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-124,124,Pelzebub,90,Unlicht,Bähmon,Rang 1,Ungewöhnlich,Hitoshi Ariga,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-125,125,Olangaar,170,Unlicht,Pelzebub,Rang 2,Holografisch Selten,nagimiso,"reverse, holo",Clash der Rebellen,Schwert & Schild,209
+swsh2-126,126,Galar-Mauzi,60,Metall,,Basis,Häufig,Misa Tsutsui,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-127,127,Galar-Mauzinger,120,Metall,Galar-Mauzi,Rang 1,Selten,Naoki Saito,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-128,128,Scherox,130,Metall,Sichlor,Rang 1,Selten,Ryuta Fuse,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-129,129,Bronzel,60,Metall,,Basis,Häufig,Midori Harada,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-130,130,Bronzong,130,Metall,Bronzel,Rang 1,Ungewöhnlich,MAHOU,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-131,131,Voluminas,140,Metall,Nasgnet,Rang 1,Selten,Anesaki Dynamic,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-132,132,Fermicula,100,Metall,,Basis,Ungewöhnlich,Hideki Ishikawa,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-133,133,Gramokles,60,Metall,,Basis,Häufig,Sekio,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-134,134,Duokles,90,Metall,Gramokles,Rang 1,Ungewöhnlich,Aya Kusube,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-135,135,Durengard,140,Metall,Duokles,Rang 2,Selten,Ryuta Fuse,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-136,136,Patinaraja V,220,Metall,,Basis,Holografisch Selten V,5ban Graphics,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-137,137,Patinaraja VMAX,340,Metall,Patinaraja-V,VMAX,Holografisch Selten VMAX,5ban Graphics,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-138,138,Duraludon,130,Metall,,Basis,Holografisch Selten,Shin Nagasawa,"reverse, holo",Clash der Rebellen,Schwert & Schild,209
+swsh2-139,139,Zacian,120,Metall,,Basis,Selten,Hideki Ishikawa,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-140,140,Zamazenta,120,Metall,,Basis,Selten,Hideki Ishikawa,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-141,141,Relaxo,150,Farblos,,Basis,Selten,Eri Yamaki,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-142,142,Plaudagei,70,Farblos,,Basis,Ungewöhnlich,ryoma uratsuka,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-143,143,Dusselgurr,60,Farblos,,Basis,Häufig,Ryota Murayama,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-144,144,Navitaub,80,Farblos,Dusselgurr,Rang 1,Ungewöhnlich,Saya Tsuruta,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-145,145,Fasasnob,150,Farblos,Navitaub,Rang 2,Selten,Naoyo Kimura,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-146,146,Scoppel,70,Farblos,,Basis,Häufig,Yuka Morii,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-147,147,Grebbit,130,Farblos,Scoppel,Rang 1,Selten,kodama,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-148,148,Resladero,90,Farblos,,Basis,Ungewöhnlich,tetsuya koizumi,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-149,149,Velursi,80,Farblos,,Basis,Häufig,so-taro,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-150,150,Kosturso,140,Farblos,Velursi,Rang 1,Ungewöhnlich,Ryuta Fuse,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-151,151,Raffel,70,Farblos,,Basis,Häufig,Mina Nakai,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-152,152,Schlaraffel,120,Farblos,Raffel,Rang 1,Selten,kirisAki,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-153,153,Zwollock V,210,Farblos,,Basis,Holografisch Selten V,5ban Graphics,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-154,154,Befehl vom Boss,,,,,Holografisch Selten,nagimiso,"reverse, holo",Clash der Rebellen,Schwert & Schild,209
+swsh2-155,155,Flammenhalstuch,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-156,156,Geräumiger Eimer,,,,,Ungewöhnlich,sadaji,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-157,157,Verfluchte Schaufel,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-158,158,Stuart,,,,,Ungewöhnlich,Hitoshi Ariga,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-159,159,Hyperheiler,,,,,Ungewöhnlich,Yoshinobu Saito,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-160,160,Galar-Mine 1,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-161,161,Yarro,,,,,Ungewöhnlich,take,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-162,162,Nugget,,,,,Ungewöhnlich,sadaji,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-163,163,Olivia,,,,,Ungewöhnlich,Yusuke Ohmura,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-164,164,Pokéball,,,,,Ungewöhnlich,Studio Bora Inc.,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-165,165,Anziehungsnetz,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-166,166,Géraldine,,,,,Ungewöhnlich,Hideki Ishikawa,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-167,167,Sania,,,,,Ungewöhnlich,Yusuke Ohmura,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-168,168,Ausrüstungsentsorger,,,,,Ungewöhnlich,Studio Bora Inc.,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-169,169,Trainingsplatz,,,,,Ungewöhnlich,5ban Graphics,normal,Clash der Rebellen,Schwert & Schild,209
+swsh2-170,170,Turffield-Stadion,,,,,Ungewöhnlich,aky CG Works,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-171,171,Fang-Energie,,,,,Ungewöhnlich,,normal,Clash der Rebellen,Schwert & Schild,209
+swsh2-172,172,Horror-Psychic-Energie,,,,,Ungewöhnlich,,normal,Clash der Rebellen,Schwert & Schild,209
+swsh2-173,173,Tempo-Lightning-Energie,,,,,Ungewöhnlich,,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-174,174,Zwillings-Energie,,,,,Ungewöhnlich,,"normal, reverse",Clash der Rebellen,Schwert & Schild,209
+swsh2-175,175,Gortrom V,220,Pflanze,,Basis,Ultra Selten,5ban Graphics,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-176,176,Cottomi V,180,Pflanze,,Basis,Ultra Selten,5ban Graphics,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-177,177,Vulnona V,200,Feuer,,Basis,Ultra Selten,Saki Hayashiro,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-178,178,Liberlo V,210,Feuer,,Basis,Ultra Selten,5ban Graphics,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-179,179,Milotic V,210,Wasser,,Basis,Ultra Selten,Ayaka Yoshida,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-180,180,Intelleon V,200,Wasser,,Basis,Ultra Selten,5ban Graphics,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-181,181,Bellektro V,200,Elektro,,Basis,Ultra Selten,aky CG Works,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-182,182,Riffex V,210,Elektro,,Basis,Ultra Selten,5ban Graphics,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-183,183,Katapuldra V,210,Psycho,,Basis,Ultra Selten,aky CG Works,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-184,184,Sanaconda V,220,Kampf,,Basis,Ultra Selten,aky CG Works,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-185,185,Legios V,160,Kampf,,Basis,Ultra Selten,aky CG Works,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-186,186,Calamanero V,210,Unlicht,,Basis,Ultra Selten,Eske Yoshinob,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-187,187,Patinaraja V,220,Metall,,Basis,Ultra Selten,5ban Graphics,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-188,188,Zwollock V,210,Farblos,,Basis,Ultra Selten,5ban Graphics,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-189,189,Befehl vom Boss,,,,,Ultra Selten,nagimiso,,Clash der Rebellen,Schwert & Schild,209
+swsh2-190,190,Yarro,,,,,Ultra Selten,Hitoshi Ariga,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-191,191,Olivia,,,,,Ultra Selten,kirisAki,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-192,192,Sania,,,,,Ultra Selten,Naoki Saito,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-193,193,Gortrom VMAX,330,Pflanze,Gortrom-V,VMAX,Versteckt Selten,5ban Graphics,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-194,194,Liberlo VMAX,320,Feuer,Liberlo-V,VMAX,Versteckt Selten,5ban Graphics,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-195,195,Intelleon VMAX,320,Wasser,Intelleon-V,VMAX,Versteckt Selten,5ban Graphics,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-196,196,Riffex VMAX,320,Elektro,Riffex-V,VMAX,Versteckt Selten,5ban Graphics,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-197,197,Katapuldra VMAX,320,Psycho,Katapuldra-V,VMAX,Versteckt Selten,aky CG Works,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-198,198,Calamanero VMAX,310,Unlicht,Calamanero-V,VMAX,Versteckt Selten,5ban Graphics,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-199,199,Patinaraja VMAX,340,Metall,Patinaraja-V,VMAX,Versteckt Selten,5ban Graphics,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-200,200,Befehl vom Boss,,,,,Versteckt Selten,nagimiso,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-201,201,Yarro,,,,,Versteckt Selten,Hitoshi Ariga,,Clash der Rebellen,Schwert & Schild,209
+swsh2-202,202,Olivia,,,,,Versteckt Selten,kirisAki,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-203,203,Sania,,,,,Versteckt Selten,Naoki Saito,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-204,204,Mottineva,90,Wasser,Snomnom,Rang 1,Versteckt Selten,PLANETA Tsuji,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-205,205,Galar-Mauzinger,120,Metall,Galar-Mauzi,Rang 1,Versteckt Selten,PLANETA Tsuji,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-206,206,Großes Amulett,,,,,Versteckt Selten,inose yukie,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-207,207,Anziehungsnetz,,,,,Versteckt Selten,Ryo Ueda,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-208,208,Ausrüstungsentsorger,,,,,Versteckt Selten,Studio Bora Inc.,holo,Clash der Rebellen,Schwert & Schild,209
+swsh2-209,209,Zwillings-Energie,,,,,Versteckt Selten,,holo,Clash der Rebellen,Schwert & Schild,209

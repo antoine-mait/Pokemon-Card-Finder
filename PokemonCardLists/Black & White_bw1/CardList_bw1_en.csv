@@ -1,0 +1,116 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+bw1-1,1,Snivy,60,Grass,,Basic,Common,Kagemaru Himeno,"normal, reverse, holo",Black & White,Black & White,115
+bw1-2,2,Snivy,60,Grass,,Basic,Common,5ban Graphics,"normal, reverse, holo",Black & White,Black & White,115
+bw1-3,3,Servine,80,Grass,Snivy,Stage1,Uncommon,Kagemaru Himeno,"normal, reverse, holo",Black & White,Black & White,115
+bw1-4,4,Servine,80,Grass,Snivy,Stage1,Uncommon,5ban Graphics,"normal, reverse, holo",Black & White,Black & White,115
+bw1-5,5,Serperior,130,Grass,Servine,Stage2,Rare,Kagemaru Himeno,"normal, reverse, holo",Black & White,Black & White,115
+bw1-6,6,Serperior,130,Grass,Servine,Stage2,Rare,5ban Graphics,"normal, reverse, holo",Black & White,Black & White,115
+bw1-7,7,Pansage,60,Grass,,Basic,Common,sui,"normal, reverse, holo",Black & White,Black & White,115
+bw1-8,8,Simisage,90,Grass,Pansage,Stage1,Uncommon,Masakazu Fukuda,"normal, reverse, holo",Black & White,Black & White,115
+bw1-9,9,Petilil,50,Grass,,Basic,Common,Kagemaru Himeno,"normal, reverse, holo",Black & White,Black & White,115
+bw1-10,10,Lilligant,80,Grass,Petilil,Stage1,Rare,Atsuko Nishida,"normal, reverse, holo",Black & White,Black & White,115
+bw1-11,11,Maractus,80,Grass,,Basic,Uncommon,Kagemaru Himeno,"normal, reverse, holo",Black & White,Black & White,115
+bw1-12,12,Maractus,90,Grass,,Basic,Rare,Kouki Saitou,"normal, reverse, holo",Black & White,Black & White,115
+bw1-13,13,Deerling,60,Grass,,Basic,Common,Atsuko Nishida,"normal, reverse, holo",Black & White,Black & White,115
+bw1-14,14,Sawsbuck,90,Grass,Deerling,Stage1,Rare,Naoyo Kimura,"normal, reverse, holo",Black & White,Black & White,115
+bw1-15,15,Tepig,60,Fire,,Basic,Common,Kouki Saitou,"normal, reverse, holo",Black & White,Black & White,115
+bw1-16,16,Tepig,70,Fire,,Basic,Common,5ban Graphics,"normal, reverse, holo",Black & White,Black & White,115
+bw1-17,17,Pignite,100,Fire,Tepig,Stage1,Uncommon,Kouki Saitou,"normal, reverse, holo",Black & White,Black & White,115
+bw1-18,18,Pignite,100,Fire,Tepig,Stage1,Uncommon,5ban Graphics,"normal, reverse, holo",Black & White,Black & White,115
+bw1-19,19,Emboar,150,Fire,Pignite,Stage2,Rare,Kouki Saitou,"normal, reverse, holo",Black & White,Black & White,115
+bw1-20,20,Emboar,150,Fire,Pignite,Stage2,Rare,5ban Graphics,"normal, reverse, holo",Black & White,Black & White,115
+bw1-21,21,Pansear,60,Fire,,Basic,Common,match,"normal, reverse, holo",Black & White,Black & White,115
+bw1-22,22,Simisear,90,Fire,Pansear,Stage1,Uncommon,Shin Nagasawa,"normal, reverse, holo",Black & White,Black & White,115
+bw1-23,23,Darumaka,70,Fire,,Basic,Common,Kouki Saitou,"normal, reverse, holo",Black & White,Black & White,115
+bw1-24,24,Darumaka,70,Fire,,Basic,Uncommon,Masakazu Fukuda,"normal, reverse, holo",Black & White,Black & White,115
+bw1-25,25,Darmanitan,120,Fire,Darumaka,Stage1,Rare,Naoki Saito,"normal, reverse, holo",Black & White,Black & White,115
+bw1-26,26,Reshiram,130,Fire,,Basic,Rare,5ban Graphics,"normal, reverse, holo",Black & White,Black & White,115
+bw1-27,27,Oshawott,60,Water,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Black & White,Black & White,115
+bw1-28,28,Oshawott,60,Water,,Basic,Common,5ban Graphics,"normal, reverse, holo",Black & White,Black & White,115
+bw1-29,29,Dewott,90,Water,Oshawott,Stage1,Uncommon,Masakazu Fukuda,"normal, reverse, holo",Black & White,Black & White,115
+bw1-30,30,Dewott,80,Water,Oshawott,Stage1,Uncommon,5ban Graphics,"normal, reverse, holo",Black & White,Black & White,115
+bw1-31,31,Samurott,140,Water,Dewott,Stage2,Rare,Masakazu Fukuda,"normal, reverse, holo",Black & White,Black & White,115
+bw1-32,32,Samurott,140,Water,Dewott,Stage2,Rare,5ban Graphics,"normal, reverse, holo",Black & White,Black & White,115
+bw1-33,33,Panpour,60,Water,,Basic,Common,Atsuko Nishida,"normal, reverse, holo",Black & White,Black & White,115
+bw1-34,34,Simipour,90,Water,Panpour,Stage1,Uncommon,Kagemaru Himeno,"normal, reverse, holo",Black & White,Black & White,115
+bw1-35,35,Basculin,70,Water,,Basic,Uncommon,Naoyo Kimura,"normal, reverse, holo",Black & White,Black & White,115
+bw1-36,36,Ducklett,60,Water,,Basic,Common,Kagemaru Himeno,"normal, reverse, holo",Black & White,Black & White,115
+bw1-37,37,Swanna,90,Water,Ducklett,Stage1,Rare,Naoyo Kimura,"normal, reverse, holo",Black & White,Black & White,115
+bw1-38,38,Alomomola,100,Water,,Basic,Uncommon,sui,"normal, reverse, holo",Black & White,Black & White,115
+bw1-39,39,Alomomola,100,Water,,Basic,Rare,Naoyo Kimura,"normal, reverse, holo",Black & White,Black & White,115
+bw1-40,40,Blitzle,60,Lightning,,Basic,Common,Kouki Saitou,"normal, reverse, holo",Black & White,Black & White,115
+bw1-41,41,Blitzle,60,Lightning,,Basic,Common,Kagemaru Himeno,"normal, reverse, holo",Black & White,Black & White,115
+bw1-42,42,Zebstrika,90,Lightning,Blitzle,Stage1,Uncommon,Kouki Saitou,"normal, reverse, holo",Black & White,Black & White,115
+bw1-43,43,Zebstrika,90,Lightning,Blitzle,Stage1,Rare,Masakazu Fukuda,"normal, reverse, holo",Black & White,Black & White,115
+bw1-44,44,Joltik,40,Lightning,,Basic,Common,Kouki Saitou,"normal, reverse, holo",Black & White,Black & White,115
+bw1-45,45,Joltik,30,Lightning,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Black & White,Black & White,115
+bw1-46,46,Galvantula,80,Lightning,Joltik,Stage1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Black & White,Black & White,115
+bw1-47,47,Zekrom,130,Lightning,,Basic,Rare,5ban Graphics,"normal, reverse, holo",Black & White,Black & White,115
+bw1-48,48,Munna,70,Psychic,,Basic,Uncommon,Atsuko Nishida,"normal, reverse, holo",Black & White,Black & White,115
+bw1-49,49,Musharna,90,Psychic,Munna,Stage1,Rare,Masakazu Fukuda,"normal, reverse, holo",Black & White,Black & White,115
+bw1-50,50,Woobat,50,Psychic,,Basic,Common,MAHOU,"normal, reverse, holo",Black & White,Black & White,115
+bw1-51,51,Swoobat,80,Psychic,Woobat,Stage1,Uncommon,Kouki Saitou,"normal, reverse, holo",Black & White,Black & White,115
+bw1-52,52,Venipede,70,Psychic,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Black & White,Black & White,115
+bw1-53,53,Whirlipede,90,Psychic,Venipede,Stage1,Uncommon,Masakazu Fukuda,"normal, reverse, holo",Black & White,Black & White,115
+bw1-54,54,Scolipede,150,Psychic,Whirlipede,Stage2,Rare,Masakazu Fukuda,"normal, reverse, holo",Black & White,Black & White,115
+bw1-55,55,Solosis,30,Psychic,,Basic,Common,MAHOU,"normal, reverse, holo",Black & White,Black & White,115
+bw1-56,56,Duosion,60,Psychic,Solosis,Stage1,Uncommon,Shin Nagasawa,"normal, reverse, holo",Black & White,Black & White,115
+bw1-57,57,Reuniclus,90,Psychic,Duosion,Stage2,Rare,5ban Graphics,"normal, reverse, holo",Black & White,Black & White,115
+bw1-58,58,Timburr,60,Fighting,,Basic,Common,match,"normal, reverse, holo",Black & White,Black & White,115
+bw1-59,59,Timburr,70,Fighting,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Black & White,Black & White,115
+bw1-60,60,Gurdurr,80,Fighting,Timburr,Stage1,Uncommon,Naoki Saito,"normal, reverse, holo",Black & White,Black & White,115
+bw1-61,61,Throh,100,Fighting,,Basic,Rare,Mitsuhiro Arita,"normal, reverse, holo",Black & White,Black & White,115
+bw1-62,62,Sawk,90,Fighting,,Basic,Rare,Naoki Saito,"normal, reverse, holo",Black & White,Black & White,115
+bw1-63,63,Sandile,70,Fighting,,Basic,Common,Naoyo Kimura,"normal, reverse, holo",Black & White,Black & White,115
+bw1-64,64,Krokorok,90,Fighting,Sandile,Stage1,Uncommon,Kouki Saitou,"normal, reverse, holo",Black & White,Black & White,115
+bw1-65,65,Krookodile,140,Fighting,Krokorok,Stage2,Rare,Masakazu Fukuda,"normal, reverse, holo",Black & White,Black & White,115
+bw1-66,66,Purrloin,60,Darkness,,Basic,Common,Kagemaru Himeno,"normal, reverse, holo",Black & White,Black & White,115
+bw1-67,67,Liepard,80,Darkness,Purrloin,Stage1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Black & White,Black & White,115
+bw1-68,68,Scraggy,60,Darkness,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Black & White,Black & White,115
+bw1-69,69,Scrafty,90,Darkness,Scraggy,Stage1,Rare,Shin Nagasawa,"normal, reverse, holo",Black & White,Black & White,115
+bw1-70,70,Zorua,60,Darkness,,Basic,Common,Kouki Saitou,"normal, reverse, holo",Black & White,Black & White,115
+bw1-71,71,Zoroark,100,Darkness,Zorua,Stage1,Rare,Naoki Saito,"normal, reverse, holo",Black & White,Black & White,115
+bw1-72,72,Vullaby,60,Darkness,,Basic,Uncommon,Kagemaru Himeno,"normal, reverse, holo",Black & White,Black & White,115
+bw1-73,73,Mandibuzz,90,Darkness,Vullaby,Stage1,Rare,Kouki Saitou,"normal, reverse, holo",Black & White,Black & White,115
+bw1-74,74,Klink,60,Metal,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Black & White,Black & White,115
+bw1-75,75,Klang,80,Metal,Klink,Stage1,Uncommon,Naoki Saito,"normal, reverse, holo",Black & White,Black & White,115
+bw1-76,76,Klinklang,140,Metal,Klang,Stage2,Rare,5ban Graphics,"normal, reverse, holo",Black & White,Black & White,115
+bw1-77,77,Patrat,50,Colorless,,Basic,Common,Kagemaru Himeno,"normal, reverse, holo",Black & White,Black & White,115
+bw1-78,78,Patrat,60,Colorless,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Black & White,Black & White,115
+bw1-79,79,Watchog,90,Colorless,Patrat,Stage1,Uncommon,match,"normal, reverse, holo",Black & White,Black & White,115
+bw1-80,80,Lillipup,50,Colorless,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Black & White,Black & White,115
+bw1-81,81,Lillipup,60,Colorless,,Basic,Common,sui,"normal, reverse, holo",Black & White,Black & White,115
+bw1-82,82,Herdier,80,Colorless,Lillipup,Stage1,Uncommon,Midori Harada,"normal, reverse, holo",Black & White,Black & White,115
+bw1-83,83,Stoutland,140,Colorless,Herdier,Stage2,Rare,match,"normal, reverse, holo",Black & White,Black & White,115
+bw1-84,84,Pidove,50,Colorless,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Black & White,Black & White,115
+bw1-85,85,Tranquill,70,Colorless,Pidove,Stage1,Uncommon,Kouki Saitou,"normal, reverse, holo",Black & White,Black & White,115
+bw1-86,86,Unfezant,120,Colorless,Tranquill,Stage2,Rare,Kagemaru Himeno,"normal, reverse, holo",Black & White,Black & White,115
+bw1-87,87,Audino,80,Colorless,,Basic,Uncommon,MAHOU,"normal, reverse, holo",Black & White,Black & White,115
+bw1-88,88,Minccino,60,Colorless,,Basic,Common,sui,"normal, reverse, holo",Black & White,Black & White,115
+bw1-89,89,Cinccino,90,Colorless,Minccino,Stage1,Rare,Kagemaru Himeno,"normal, reverse, holo",Black & White,Black & White,115
+bw1-90,90,Bouffalant,90,Colorless,,Basic,Uncommon,Naoki Saito,"normal, reverse, holo",Black & White,Black & White,115
+bw1-91,91,Bouffalant,100,Colorless,,Basic,Rare,Kouki Saitou,"normal, reverse, holo",Black & White,Black & White,115
+bw1-92,92,Energy Retrieval,,,,,Uncommon,Kent Kanetsuna,"normal, reverse, holo",Black & White,Black & White,115
+bw1-93,93,Energy Search,,,,,Common,Ryo Ueda,"normal, reverse, holo",Black & White,Black & White,115
+bw1-94,94,Energy Switch,,,,,Uncommon,Kent Kanetsuna,"normal, reverse, holo",Black & White,Black & White,115
+bw1-95,95,Full Heal,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Black & White,Black & White,115
+bw1-96,96,PlusPower,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Black & White,Black & White,115
+bw1-97,97,Poké Ball,,,,,Uncommon,Yuri Umemura,"normal, reverse, holo",Black & White,Black & White,115
+bw1-98,98,Pokédex,,,,,Uncommon,Noriko Hotta,"normal, reverse, holo",Black & White,Black & White,115
+bw1-99,99,Pokémon Communication,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Black & White,Black & White,115
+bw1-100,100,Potion,,,,,Common,Ayaka Yoshida,"normal, reverse, holo",Black & White,Black & White,115
+bw1-101,101,Professor Juniper,,,,,Uncommon,Ken Sugimori,"normal, reverse, holo",Black & White,Black & White,115
+bw1-102,102,Revive,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Black & White,Black & White,115
+bw1-103,103,Super Scoop Up,,,,,Uncommon,Daisuke Iwamoto,"normal, reverse, holo",Black & White,Black & White,115
+bw1-104,104,Switch,,,,,Common,Ayaka Yoshida,"normal, reverse, holo",Black & White,Black & White,115
+bw1-105,105,Grass Energy,,,,Basic,Common,,"normal, reverse, holo",Black & White,Black & White,115
+bw1-106,106,Fire Energy,,,,Basic,Common,,"normal, reverse, holo",Black & White,Black & White,115
+bw1-107,107,Water Energy,,,,Basic,Common,,"normal, reverse, holo",Black & White,Black & White,115
+bw1-108,108,Lightning Energy,,,,Basic,Common,,"normal, reverse, holo",Black & White,Black & White,115
+bw1-109,109,Psychic Energy,,,,Basic,Common,,"normal, reverse, holo",Black & White,Black & White,115
+bw1-110,110,Fighting Energy,,,,Basic,Common,,"normal, reverse, holo",Black & White,Black & White,115
+bw1-111,111,Darkness Energy,,,,Basic,Common,,"normal, reverse, holo",Black & White,Black & White,115
+bw1-112,112,Metal Energy,,,,Basic,Common,,"normal, reverse, holo",Black & White,Black & White,115
+bw1-113,113,Reshiram,130,Fire,,Basic,Ultra Rare,5ban Graphics,"normal, reverse, holo",Black & White,Black & White,115
+bw1-114,114,Zekrom,130,Lightning,,Basic,Ultra Rare,5ban Graphics,"normal, reverse, holo",Black & White,Black & White,115
+bw1-115,115,Pikachu,60,Lightning,,Basic,Secret Rare,Kouki Saitou,"normal, reverse, holo",Black & White,Black & White,115

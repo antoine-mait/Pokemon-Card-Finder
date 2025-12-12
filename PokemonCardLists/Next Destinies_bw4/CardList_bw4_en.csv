@@ -1,0 +1,104 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+bw4-1,1,Pinsir,80,Grass,,Basic,Rare,Masakazu Fukuda,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-2,2,Seedot,40,Grass,,Basic,Common,Kagemaru Himeno,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-3,3,Kricketot,60,Grass,,Basic,Common,MAHOU,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-4,4,Kricketune,90,Grass,Kricketot,Stage1,Uncommon,Naoyo Kimura,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-5,5,Shaymin-EX,110,Grass,,,Rare,Shizurow,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-6,6,Pansage,70,Grass,,Basic,Common,Megumi Mizutani,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-7,7,Simisage,90,Grass,Pansage,Stage1,Rare,kawayoo,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-8,8,Foongus,40,Grass,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-9,9,Amoonguss,90,Grass,Foongus,Stage1,Rare,Kouki Saitou,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-10,10,Growlithe,80,Fire,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-11,11,Growlithe,80,Fire,,Basic,Common,Mizue,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-12,12,Arcanine,130,Fire,Growlithe,Stage1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-13,13,Arcanine,120,Fire,Growlithe,Stage1,Uncommon,Ryo Ueda,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-14,14,Moltres,120,Fire,,Basic,Rare,Ryo Ueda,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-15,15,Pansear,70,Fire,,Basic,Common,James Turner,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-16,16,Simisear,90,Fire,Pansear,Stage1,Rare,Kouki Saitou,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-17,17,Darumaka,80,Fire,,Basic,Common,Atsuko Nishida,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-18,18,Litwick,60,Fire,,Basic,Common,Kanako Eo,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-19,19,Lampent,80,Fire,Litwick,Stage1,Uncommon,Midori Harada,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-20,20,Chandelure,120,Fire,Lampent,Stage2,Rare,5ban Graphics,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-21,21,Reshiram,130,Fire,,Basic,Rare,5ban Graphics,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-22,22,Reshiram-EX,180,Fire,,,Rare,Shizurow,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-23,23,Staryu,60,Water,,Basic,Common,Naoyo Kimura,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-24,24,Starmie,90,Water,Staryu,Stage1,Uncommon,Shin Nagasawa,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-25,25,Lapras,100,Water,,Basic,Rare,Kouki Saitou,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-26,26,Lapras,90,Water,,Basic,Uncommon,Mizue,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-27,27,Articuno,120,Water,,Basic,Rare,Ryo Ueda,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-28,28,Panpour,70,Water,,Basic,Common,Reiko Tanoue,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-29,29,Simipour,90,Water,Panpour,Stage1,Rare,Akira Komayama,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-30,30,Basculin,80,Water,,Basic,Uncommon,Kagemaru Himeno,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-31,31,Vanillite,60,Water,,Basic,Common,Kanako Eo,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-32,32,Vanillish,80,Water,Vanillite,Stage1,Uncommon,Mizue,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-33,33,Vanilluxe,130,Water,Vanillish,Stage2,Rare,Akira Komayama,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-34,34,Frillish,80,Water,,Basic,Uncommon,Suwama Chiaki,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-35,35,Jellicent,120,Water,Frillish,Stage1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-36,36,Cubchoo,70,Water,,Basic,Common,Atsuko Nishida,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-37,37,Beartic,120,Water,Cubchoo,Stage1,Rare,kawayoo,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-38,38,Kyurem-EX,180,Water,,,Rare,Shizurow,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-39,39,Pikachu,60,Lightning,,Basic,Common,Akira Komayama,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-40,40,Raichu,90,Lightning,Pikachu,Stage1,Uncommon,Naoki Saito,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-41,41,Zapdos,120,Lightning,,Basic,Rare,Ryo Ueda,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-42,42,Shinx,60,Lightning,,Basic,Common,Atsuko Nishida,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-43,43,Shinx,60,Lightning,,Basic,Common,Naoki Saito,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-44,44,Luxio,80,Lightning,Shinx,Stage1,Uncommon,Kouki Saitou,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-45,45,Luxio,80,Lightning,Shinx,Stage1,Uncommon,Naoki Saito,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-46,46,Luxray,140,Lightning,Luxio,Stage2,Rare,Shin Nagasawa,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-47,47,Blitzle,60,Lightning,,Basic,Common,sui,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-48,48,Zebstrika,90,Lightning,Blitzle,Stage1,Rare,Naoki Saito,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-49,49,Emolga,70,Lightning,,Basic,Uncommon,Akira Komayama,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-50,50,Zekrom,130,Lightning,,Basic,Rare,5ban Graphics,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-51,51,Zekrom-EX,180,Lightning,,,Rare,Shizurow,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-52,52,Grimer,70,Psychic,,Basic,Common,Kagemaru Himeno,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-53,53,Muk,110,Psychic,Grimer,Stage1,Rare,match,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-54,54,Mewtwo-EX,170,Psychic,,,Rare,Shizurow,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-55,55,Ralts,60,Psychic,,Basic,Common,Mitsuhiro Arita,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-56,56,Kirlia,80,Psychic,Ralts,Stage1,Uncommon,MAHOU,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-57,57,Gardevoir,110,Psychic,Kirlia,Stage2,Rare,Mizue,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-58,58,Munna,70,Psychic,,Basic,Common,Mitsuhiro Arita,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-59,59,Musharna,100,Psychic,Munna,Stage1,Rare,Maiko Fujiwara,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-60,60,Darmanitan,110,Psychic,Darumaka,Stage1,Rare,Shin Nagasawa,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-61,61,Elgyem,60,Psychic,,Basic,Common,Sumiyoshi Kizuki,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-62,62,Beheeyem,80,Psychic,Elgyem,Stage1,Rare,Kouki Saitou,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-63,63,Riolu,70,Fighting,,Basic,Common,Sumiyoshi Kizuki,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-64,64,Lucario,100,Fighting,Riolu,Stage1,Rare,Naoki Saito,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-65,65,Hippopotas,90,Fighting,,Basic,Common,match,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-66,66,Hippowdon,130,Fighting,Hippopotas,Stage1,Uncommon,Naoki Saito,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-67,67,Mienfoo,60,Fighting,,Basic,Common,Midori Harada,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-68,68,Mienshao,90,Fighting,Mienfoo,Stage1,Uncommon,Suwama Chiaki,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-69,69,Sneasel,60,Darkness,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-70,70,Weavile,90,Darkness,Sneasel,Stage1,Rare,Akira Komayama,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-71,71,Nuzleaf,80,Darkness,Seedot,Stage1,Uncommon,Naoyo Kimura,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-72,72,Shiftry,130,Darkness,Nuzleaf,Stage2,Rare,match,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-73,73,Scraggy,70,Darkness,,Basic,Uncommon,Mizue,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-74,74,Scrafty,90,Darkness,Scraggy,Stage1,Rare,Naoki Saito,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-75,75,Bronzor,70,Metal,,Basic,Common,Naoki Saito,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-76,76,Bronzong,110,Metal,Bronzor,Stage1,Rare,Kouki Saitou,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-77,77,Ferroseed,60,Metal,,Basic,Common,match,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-78,78,Jigglypuff,70,Colorless,,Basic,Uncommon,sui,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-79,79,Wigglytuff,90,Colorless,Jigglypuff,Stage1,Rare,Shin Nagasawa,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-80,80,Meowth,70,Colorless,,Basic,Common,Naoki Saito,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-81,81,Persian,90,Colorless,Meowth,Stage1,Rare,Shigenori Negishi,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-82,82,Regigigas-EX,180,Colorless,,,Rare,Shizurow,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-83,83,Pidove,60,Colorless,,Basic,Common,MAHOU,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-84,84,Minccino,60,Colorless,,Basic,Uncommon,Tomohiro Kitakaze,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-85,85,Cinccino,90,Colorless,Minccino,Stage1,Rare,Kanako Eo,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-86,86,Cilan,,,,,Uncommon,Yusuke Ohmura,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-87,87,Exp. Share,,,,,Uncommon,Ryo Ueda,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-88,88,Heavy Ball,,,,,Uncommon,Ryo Ueda,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-89,89,Level Ball,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-90,90,Pokémon Center,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-91,91,Skyarrow Bridge,,,,,Uncommon,Ryo Ueda,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-92,92,Double Colorless Energy,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-93,93,Prism Energy,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-94,94,Shaymin-EX,110,Grass,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-95,95,Reshiram-EX,180,Fire,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-96,96,Kyurem-EX,180,Water,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-97,97,Zekrom-EX,180,Lightning,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-98,98,Mewtwo-EX,170,Psychic,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-99,99,Regigigas-EX,180,Colorless,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-100,100,Emboar,150,Fire,Pignite,Stage2,Secret Rare,5ban Graphics,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-101,101,Chandelure,130,Psychic,Lampent,Stage2,Secret Rare,5ban Graphics,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-102,102,Zoroark,100,Darkness,Zorua,Stage1,Secret Rare,5ban Graphics,"normal, reverse, holo",Next Destinies,Black & White,103
+bw4-103,103,Hydreigon,150,Darkness,Zweilous,Stage2,Secret Rare,5ban Graphics,"normal, reverse, holo",Next Destinies,Black & White,103

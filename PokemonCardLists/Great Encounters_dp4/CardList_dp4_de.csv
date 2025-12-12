@@ -1,0 +1,107 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+dp4-1,1,Lohgock,130,Feuer,,Rang 2,"Selten, Holografisch",Kagemaru Himeno,"reverse, holo",Epische Begegnungen,Diamant & Perl,106
+dp4-2,2,Cresselia,80,Psycho,,Basis,"Selten, Holografisch",Ryo Ueda,"reverse, holo",Epische Begegnungen,Diamant & Perl,106
+dp4-3,3,Darkrai,70,Unlicht,,Basis,"Selten, Holografisch",Masakazu Fukuda,"reverse, holo",Epische Begegnungen,Diamant & Perl,106
+dp4-4,4,Darkrai,80,Unlicht,,Basis,"Selten, Holografisch",Ryo Ueda,"reverse, holo",Epische Begegnungen,Diamant & Perl,106
+dp4-5,5,Pachirisu,70,Elektro,,Basis,"Selten, Holografisch",Hironobu Yoshida,"reverse, holo",Epische Begegnungen,Diamant & Perl,106
+dp4-6,6,Porygon-Z,110,Farblos,,Rang 2,"Selten, Holografisch",Kent Kanetsuna,"normal, reverse, holo",Epische Begegnungen,Diamant & Perl,106
+dp4-7,7,Rotom,70,Elektro,,Basis,"Selten, Holografisch",Daisuke Ito,"reverse, holo",Epische Begegnungen,Diamant & Perl,106
+dp4-8,8,Gewaldro,100,Pflanze,,Rang 2,"Selten, Holografisch",Masakazu Fukuda,"reverse, holo",Epische Begegnungen,Diamant & Perl,106
+dp4-9,9,Sumpex,130,Wasser,,Rang 2,"Selten, Holografisch",Kouki Saitou,"reverse, holo",Epische Begegnungen,Diamant & Perl,106
+dp4-10,10,Tangoloss,110,Pflanze,,Rang 1,"Selten, Holografisch",Kent Kanetsuna,"reverse, holo",Epische Begegnungen,Diamant & Perl,106
+dp4-11,11,Togekiss,120,Farblos,,Rang 2,"Selten, Holografisch",Kent Kanetsuna,"reverse, holo",Epische Begegnungen,Diamant & Perl,106
+dp4-12,12,Altaria,80,Farblos,,Rang 1,Selten,Kagemaru Himeno,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-13,13,Bibor,110,Pflanze,,Rang 2,Selten,Kouki Saitou,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-14,14,Smettbo,120,Pflanze,,Rang 2,Selten,Sumiyoshi Kizuki,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-15,15,Lepumentas,80,Kampf,,Rang 1,Selten,Midori Harada,"normal, reverse, holo",Epische Begegnungen,Diamant & Perl,106
+dp4-16,16,Dialga,90,Metall,,Basis,Selten,Daisuke Ito,"normal, reverse, holo",Epische Begegnungen,Diamant & Perl,106
+dp4-17,17,Krawumms,130,Farblos,,Rang 2,Selten,Daisuke Ito,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-18,18,Hundemon,90,Unlicht,,Rang 1,Selten,Ken Sugimori,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-19,19,Hypno,80,Psycho,,Rang 1,Selten,Mitsuhiro Arita,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-20,20,Kingler,90,Wasser,,Rang 1,Selten,Mitsuhiro Arita,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-21,21,Lapras,80,Wasser,,Basis,Selten,Atsuko Nishida,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-22,22,Latias,80,Farblos,,Basis,Selten,Daisuke Ito,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-23,23,Latios,90,Farblos,,Basis,Selten,Daisuke Ito,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-24,24,Flunkifer,70,Metall,,Basis,Selten,Midori Harada,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-25,25,Milotic,90,Wasser,,Rang 1,Selten,Suwama Chiaki,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-26,26,Palkia,90,Wasser,,Basis,Selten,Daisuke Ito,"normal, reverse, holo",Epische Begegnungen,Diamant & Perl,106
+dp4-27,27,Rasaff,90,Kampf,,Rang 1,Selten,Kagemaru Himeno,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-28,28,Laschoking,80,Psycho,,Rang 1,Selten,Ken Sugimori,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-29,29,Icognito H,60,Psycho,,Basis,Selten,Daisuke Ito,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-30,30,Wailord,200,Wasser,,Rang 1,Selten,Mitsuhiro Arita,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-31,31,Smogmog,80,Psycho,,Rang 1,Selten,Kouki Saitou,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-32,32,Knuddeluff,90,Farblos,,Rang 1,Selten,Kagemaru Himeno,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-33,33,Arbok,80,Psycho,,Rang 1,Ungewöhnlich,Ken Sugimori,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-34,34,Noktuska,80,Unlicht,,Rang 1,Ungewöhnlich,Midori Harada,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-35,35,Jungglut,80,Feuer,,Rang 1,Ungewöhnlich,Naoyo Kimura,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-36,36,Botogel,70,Wasser,,Basis,Ungewöhnlich,Masakazu Fukuda,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-37,37,Bojelin,80,Wasser,,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-38,38,Saganabyss,80,Wasser,,Rang 1,Ungewöhnlich,Ken Sugimori,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-39,39,Granbull,90,Farblos,,Rang 1,Ungewöhnlich,Mitsuhiro Arita,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-40,40,Reptain,80,Pflanze,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-41,41,Hariyama,100,Kampf,,Rang 1,Ungewöhnlich,Mitsuhiro Arita,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-42,42,Aalabyss,90,Wasser,,Rang 1,Ungewöhnlich,Ken Sugimori,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-43,43,Geradaks,80,Farblos,,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-44,44,Krakeelo,80,Farblos,,Rang 1,Ungewöhnlich,Ken Sugimori,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-45,45,Magcargo,90,Feuer,,Rang 1,Ungewöhnlich,Mitsuhiro Arita,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-46,46,Moorabbel,90,Wasser,,Rang 1,Ungewöhnlich,Sumiyoshi Kizuki,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-47,47,Safcon,70,Pflanze,,Rang 1,Ungewöhnlich,Ken Sugimori,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-48,48,Pelipper,80,Wasser,,Rang 1,Ungewöhnlich,Ken Sugimori,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-49,49,Porygon2,70,Farblos,,Rang 1,Ungewöhnlich,Kent Kanetsuna,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-50,50,Shnurgarst,90,Farblos,,Rang 1,Ungewöhnlich,Ken Sugimori,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-51,51,Relicanth,70,Wasser,,Basis,Ungewöhnlich,Ken Sugimori,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-52,52,Vipitis,80,Psycho,,Basis,Ungewöhnlich,Masakazu Fukuda,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-53,53,Panzaeron,70,Metall,,Basis,Ungewöhnlich,Mitsuhiro Arita,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-54,54,Lahmus,80,Wasser,,Rang 1,Ungewöhnlich,Atsuko Nishida,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-55,55,Togetic,70,Farblos,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-56,56,Icognito F,50,Psycho,,Basis,Ungewöhnlich,Daisuke Ito,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-57,57,Icognito G,50,Psycho,,Basis,Ungewöhnlich,Daisuke Ito,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-58,58,Wailmer,90,Wasser,,Basis,Häufig,Satoshi Ohta,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-59,59,Sengo,70,Farblos,,Basis,Häufig,Masakazu Fukuda,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-60,60,Puppance,50,Kampf,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-61,61,Bamelin,60,Wasser,,Basis,Häufig,Masakazu Fukuda,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-62,62,Tuska,50,Pflanze,,Basis,Häufig,Saya　Tsuruta,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-63,63,Raupy,40,Pflanze,,Basis,Häufig,Midori Harada,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-64,64,Perlu,40,Wasser,,Basis,Häufig,Ken Sugimori,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-65,65,Traumato,60,Psycho,,Basis,Häufig,Ken Sugimori,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-66,66,Rettan,60,Psycho,,Basis,Häufig,Ken Sugimori,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-67,67,Barschwa,30,Wasser,,Basis,Häufig,Ken Sugimori,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-68,68,Charmian,50,Farblos,,Basis,Häufig,Kagemaru Himeno,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-69,69,Hunduster,50,Feuer,,Basis,Häufig,Ken Sugimori,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-70,70,Fluffeluff,50,Farblos,,Basis,Häufig,Ken Sugimori,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-71,71,Illumise,70,Pflanze,,Basis,Häufig,Ken Sugimori,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-72,72,Pummeluff,60,Farblos,,Basis,Häufig,Kenkichi Toyama,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-73,73,Kokuna,80,Pflanze,,Rang 1,Häufig,Ken Sugimori,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-74,74,Smogon,60,Psycho,,Basis,Häufig,Lee HyunJung,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-75,75,Krabby,60,Wasser,,Basis,Häufig,Ken Sugimori,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-76,76,Lunastein,60,Kampf,,Basis,Häufig,Ken Sugimori,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-77,77,Liebiskus,60,Wasser,,Basis,Häufig,Motofumi Fujiwara,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-78,78,Makuhita,60,Kampf,,Basis,Häufig,Atsuko Nishida,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-79,79,Menki,50,Kampf,,Basis,Häufig,Ken Sugimori,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-80,80,Hydropi,60,Wasser,,Basis,Häufig,Emi Yoshida,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-81,81,Porygon,50,Farblos,,Basis,Häufig,Kent Kanetsuna,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-82,82,Flegmon,60,Wasser,,Basis,Häufig,Saya　Tsuruta,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-83,83,Schneckmag,60,Feuer,,Basis,Häufig,Masakazu Fukuda,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-84,84,Snubbull,60,Farblos,,Basis,Häufig,Atsuko Nishida,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-85,85,Sonnfel,70,Kampf,,Basis,Häufig,Ken Sugimori,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-86,86,Wablu,40,Farblos,,Basis,Häufig,Kanako Eo,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-87,87,Tangela,70,Pflanze,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-88,88,Togepi,50,Farblos,,Basis,Häufig,Ken Sugimori,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-89,89,Flemmli,50,Feuer,,Basis,Häufig,Hiroki Fuchino,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-90,90,Geckarbor,50,Pflanze,,Basis,Häufig,Kouki Saitou,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-91,91,Icognito L,50,Psycho,,Basis,Häufig,Daisuke Ito,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-92,92,Volbeat,70,Pflanze,,Basis,Häufig,Ken Sugimori,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-93,93,Hornliu,50,Pflanze,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-94,94,Flurmel,50,Farblos,,Basis,Häufig,Takao Unno,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-95,95,Wingull,50,Wasser,,Basis,Häufig,Ken Sugimori,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-96,96,Zigzachs,50,Farblos,,Basis,Häufig,Ken Sugimori,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-97,97,Münzamulett,,,,,Ungewöhnlich,Daisuke Ito,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-98,98,Beates Ziehung,,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse, holo",Epische Begegnungen,Diamant & Perl,106
+dp4-99,99,Überreste,,,,,Ungewöhnlich,Daisuke Ito,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-100,100,Mondscheinstadion,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-101,101,Premierball,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-102,102,Sonderbonbon,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Epische Begegnungen,Diamant & Perl,106
+dp4-103,103,Cresselia,100,Psycho,,Level Up,"Selten, Holografisch LV.X",Shizurow,holo,Epische Begegnungen,Diamant & Perl,106
+dp4-104,104,Darkrai,100,Unlicht,,Level Up,"Selten, Holografisch LV.X",Shizurow,holo,Epische Begegnungen,Diamant & Perl,106
+dp4-105,105,Dialga,110,Metall,,Level Up,"Selten, Holografisch LV.X",Ryo Ueda,holo,Epische Begegnungen,Diamant & Perl,106
+dp4-106,106,Palkia,120,Wasser,,Level Up,"Selten, Holografisch LV.X",Ryo Ueda,holo,Epische Begegnungen,Diamant & Perl,106

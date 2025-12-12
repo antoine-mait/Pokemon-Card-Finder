@@ -1,0 +1,101 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+ex14-1,1,Banette,70,Psychic,Shuppet,Stage1,Rare,Kyoko Umemoto,holo,Crystal Guardians,EX,100
+ex14-2,2,Blastoise δ,110,"Fighting, Metal",Wartortle,Stage2,Rare,Masakazu Fukuda,holo,Crystal Guardians,EX,100
+ex14-3,3,Camerupt,80,Fire,Numel,Stage1,Rare,Mitsuhiro Arita,holo,Crystal Guardians,EX,100
+ex14-4,4,Charizard δ,120,"Lightning, Metal",Charmeleon,Stage2,Rare,Kouki Saitou,holo,Crystal Guardians,EX,100
+ex14-5,5,Dugtrio,70,Fighting,Diglett,Stage1,Rare,Tomokazu Komiya,"normal, holo",Crystal Guardians,EX,100
+ex14-6,6,Ludicolo δ,100,Fire,Lombre,Stage2,Rare,Masakazu Fukuda,holo,Crystal Guardians,EX,100
+ex14-7,7,Luvdisc,60,Water,,Basic,Rare,Kyoko Umemoto,holo,Crystal Guardians,EX,100
+ex14-8,8,Manectric,80,Lightning,Electrike,Stage1,Rare,Hisao Nakamura,holo,Crystal Guardians,EX,100
+ex14-9,9,Mawile,60,Metal,,Basic,Rare,Kagemaru Himeno,holo,Crystal Guardians,EX,100
+ex14-10,10,Sableye,60,Darkness,,Basic,Rare,Yukiko Baba,holo,Crystal Guardians,EX,100
+ex14-11,11,Swalot,80,Grass,Gulpin,Stage1,Rare,Mitsuhiro Arita,holo,Crystal Guardians,EX,100
+ex14-12,12,Tauros,70,Colorless,,Basic,Rare,Hajime Kusajima,holo,Crystal Guardians,EX,100
+ex14-13,13,Wigglytuff,90,Colorless,Jigglypuff,Stage1,Rare,Mitsuhiro Arita,holo,Crystal Guardians,EX,100
+ex14-14,14,Blastoise,120,Water,Wartortle,Stage2,Rare,Kouki Saitou,"normal, holo",Crystal Guardians,EX,100
+ex14-15,15,Cacturne δ,80,Fighting,Cacnea,Stage1,Rare,Kouki Saitou,normal,Crystal Guardians,EX,100
+ex14-16,16,Combusken,80,Fighting,Torchic,Stage1,Rare,Suwama Chiaki,normal,Crystal Guardians,EX,100
+ex14-17,17,Dusclops,70,Psychic,Duskull,Stage1,Rare,Kagemaru Himeno,normal,Crystal Guardians,EX,100
+ex14-18,18,Fearow δ,60,Lightning,Spearow,Stage1,Rare,Kouki Saitou,normal,Crystal Guardians,EX,100
+ex14-19,19,Grovyle δ,70,Psychic,Treecko,Stage1,Rare,Masakazu Fukuda,normal,Crystal Guardians,EX,100
+ex14-20,20,Grumpig,80,Psychic,Spoink,Stage1,Rare,Mitsuhiro Arita,normal,Crystal Guardians,EX,100
+ex14-21,21,Igglybuff,50,Colorless,,Basic,Rare,Miki Tanaka,normal,Crystal Guardians,EX,100
+ex14-22,22,Kingler δ,80,"Fire, Metal",Krabby,Stage1,Rare,Masakazu Fukuda,normal,Crystal Guardians,EX,100
+ex14-23,23,Loudred,70,Colorless,Whismur,Stage1,Rare,Midori Harada,normal,Crystal Guardians,EX,100
+ex14-24,24,Marshtomp,70,Water,Mudkip,Stage1,Rare,Kagemaru Himeno,normal,Crystal Guardians,EX,100
+ex14-25,25,Medicham,80,Fighting,Meditite,Stage1,Rare,Midori Harada,normal,Crystal Guardians,EX,100
+ex14-26,26,Pelipper δ,70,Lightning,Wingull,Stage1,Rare,Masakazu Fukuda,normal,Crystal Guardians,EX,100
+ex14-27,27,Swampert,120,Fighting,Marshtomp,Stage2,Rare,Hisao Nakamura,"normal, holo",Crystal Guardians,EX,100
+ex14-28,28,Venusaur,110,Grass,Ivysaur,Stage2,Rare,Hajime Kusajima,"normal, holo",Crystal Guardians,EX,100
+ex14-29,29,Charmeleon,70,Fire,Charmander,Stage1,Uncommon,Kagemaru Himeno,normal,Crystal Guardians,EX,100
+ex14-30,30,Charmeleon δ,70,Lightning,Charmander,Stage1,Uncommon,Mitsuhiro Arita,normal,Crystal Guardians,EX,100
+ex14-31,31,Combusken,80,Fire,Torchic,Stage1,Uncommon,Sachiko Adachi,normal,Crystal Guardians,EX,100
+ex14-32,32,Grovyle,70,Grass,Treecko,Stage1,Uncommon,Hisao Nakamura,normal,Crystal Guardians,EX,100
+ex14-33,33,Gulpin,50,Grass,,Basic,Uncommon,Kyoko Umemoto,normal,Crystal Guardians,EX,100
+ex14-34,34,Ivysaur,80,Grass,Bulbasaur,Stage1,Uncommon,Sumiyoshi Kizuki,normal,Crystal Guardians,EX,100
+ex14-35,35,Ivysaur,70,Grass,Bulbasaur,Stage1,Uncommon,Hisao Nakamura,normal,Crystal Guardians,EX,100
+ex14-36,36,Lairon,80,Metal,Aron,Stage1,Uncommon,Hajime Kusajima,normal,Crystal Guardians,EX,100
+ex14-37,37,Lombre,70,Water,Lotad,Stage1,Uncommon,Kagemaru Himeno,normal,Crystal Guardians,EX,100
+ex14-38,38,Marshtomp,70,Fighting,Mudkip,Stage1,Uncommon,Hisao Nakamura,normal,Crystal Guardians,EX,100
+ex14-39,39,Nuzleaf,80,Darkness,Seedot,Stage1,Uncommon,Tomokazu Komiya,normal,Crystal Guardians,EX,100
+ex14-40,40,Shuppet,40,Psychic,,Basic,Uncommon,Atsuko Nishida,normal,Crystal Guardians,EX,100
+ex14-41,41,Skitty,50,Colorless,,Basic,Uncommon,Miki Tanaka,normal,Crystal Guardians,EX,100
+ex14-42,42,Wartortle,70,Water,Squirtle,Stage1,Uncommon,Kouki Saitou,normal,Crystal Guardians,EX,100
+ex14-43,43,Wartortle,80,Water,Squirtle,Stage1,Uncommon,Atsuko Nishida,normal,Crystal Guardians,EX,100
+ex14-44,44,Aron,50,Metal,,Basic,Common,Aya Kusube,normal,Crystal Guardians,EX,100
+ex14-45,45,Bulbasaur,50,Grass,,Basic,Common,Sumiyoshi Kizuki,normal,Crystal Guardians,EX,100
+ex14-46,46,Bulbasaur,50,Grass,,Basic,Common,Kagemaru Himeno,normal,Crystal Guardians,EX,100
+ex14-47,47,Cacnea,50,Grass,,Basic,Common,Tomokazu Komiya,normal,Crystal Guardians,EX,100
+ex14-48,48,Charmander,50,Fire,,Basic,Common,Atsuko Nishida,normal,Crystal Guardians,EX,100
+ex14-49,49,Charmander δ,50,Lightning,,Basic,Common,Mitsuhiro Arita,normal,Crystal Guardians,EX,100
+ex14-50,50,Diglett,50,Fighting,,Basic,Common,Kyoko Umemoto,normal,Crystal Guardians,EX,100
+ex14-51,51,Duskull,40,Psychic,,Basic,Common,Yukiko Baba,normal,Crystal Guardians,EX,100
+ex14-52,52,Electrike,50,Lightning,,Basic,Common,Atsuko Nishida,normal,Crystal Guardians,EX,100
+ex14-53,53,Jigglypuff,50,Colorless,,Basic,Common,Midori Harada,normal,Crystal Guardians,EX,100
+ex14-54,54,Krabby,40,Water,,Basic,Common,Tomokazu Komiya,normal,Crystal Guardians,EX,100
+ex14-55,55,Lotad,50,Water,,Basic,Common,Aya Kusube,normal,Crystal Guardians,EX,100
+ex14-56,56,Meditite,50,Fighting,,Basic,Common,Hisao Nakamura,normal,Crystal Guardians,EX,100
+ex14-57,57,Mudkip,50,Water,,Basic,Common,Hisao Nakamura,normal,Crystal Guardians,EX,100
+ex14-58,58,Mudkip,50,Water,,Basic,Common,Hajime Kusajima,normal,Crystal Guardians,EX,100
+ex14-59,59,Numel,50,Fire,,Basic,Common,Miki Tanaka,normal,Crystal Guardians,EX,100
+ex14-60,60,Seedot,40,Grass,,Basic,Common,Yukiko Baba,normal,Crystal Guardians,EX,100
+ex14-61,61,Spearow,40,Colorless,,Basic,Common,Midori Harada,normal,Crystal Guardians,EX,100
+ex14-62,62,Spoink,50,Psychic,,Basic,Common,Sumiyoshi Kizuki,normal,Crystal Guardians,EX,100
+ex14-63,63,Squirtle,50,Water,,Basic,Common,Kouki Saitou,normal,Crystal Guardians,EX,100
+ex14-64,64,Squirtle,40,Water,,Basic,Common,Hajime Kusajima,normal,Crystal Guardians,EX,100
+ex14-65,65,Torchic,50,Fire,,Basic,Common,Sachiko Adachi,normal,Crystal Guardians,EX,100
+ex14-66,66,Torchic,40,Fire,,Basic,Common,Sumiyoshi Kizuki,normal,Crystal Guardians,EX,100
+ex14-67,67,Treecko,40,Grass,,Basic,Common,Sachiko Adachi,normal,Crystal Guardians,EX,100
+ex14-68,68,Treecko δ,40,Psychic,,Basic,Common,Masakazu Fukuda,normal,Crystal Guardians,EX,100
+ex14-69,69,Whismur,50,Colorless,,Basic,Common,Atsuko Nishida,normal,Crystal Guardians,EX,100
+ex14-70,70,Wingull,40,Water,,Basic,Common,Midori Harada,normal,Crystal Guardians,EX,100
+ex14-71,71,Bill's Maintenance,,,,,Uncommon,Ken Sugimori,normal,Crystal Guardians,EX,100
+ex14-72,72,Castaway,,,,,Uncommon,Kouki Saitou,normal,Crystal Guardians,EX,100
+ex14-73,73,Celio's Network,,,,,Uncommon,Ken Sugimori,normal,Crystal Guardians,EX,100
+ex14-74,74,Cessation Crystal,,,,,Uncommon,Takumi Akabane,normal,Crystal Guardians,EX,100
+ex14-75,75,Crystal Beach,,,,,Uncommon,Shizurow,normal,Crystal Guardians,EX,100
+ex14-76,76,Crystal Shard,,,,,Uncommon,Takumi Akabane,normal,Crystal Guardians,EX,100
+ex14-77,77,Double Full Heal,,,,,Uncommon,Ryo Ueda,normal,Crystal Guardians,EX,100
+ex14-78,78,Dual Ball,,,,,Uncommon,"""Big Mama"" Tagawa",normal,Crystal Guardians,EX,100
+ex14-79,79,Holon Circle,,,,,Uncommon,Ryo Ueda,normal,Crystal Guardians,EX,100
+ex14-80,80,Memory Berry,,,,,Uncommon,Shizurow,normal,Crystal Guardians,EX,100
+ex14-81,81,Mysterious Shard,,,,,Uncommon,Takumi Akabane,normal,Crystal Guardians,EX,100
+ex14-82,82,Poké Ball,,,,,Uncommon,Shin-ichi Yoshikawa,normal,Crystal Guardians,EX,100
+ex14-83,83,PokéNav,,,,,Uncommon,Katsura Tabata,normal,Crystal Guardians,EX,100
+ex14-84,84,Warp Point,,,,,Uncommon,Keiji Kinebuchi,normal,Crystal Guardians,EX,100
+ex14-85,85,Windstorm,,,,,Uncommon,Ryo Ueda,normal,Crystal Guardians,EX,100
+ex14-86,86,Energy Search,,,,,Common,Kai Ishikawa,normal,Crystal Guardians,EX,100
+ex14-87,87,Potion,,,,,Common,Shin-ichi Yoshikawa,normal,Crystal Guardians,EX,100
+ex14-88,88,Double Rainbow Energy,,,,,Rare,Takumi Akabane,normal,Crystal Guardians,EX,100
+ex14-89,89,Aggron ex,150,Metal,Lairon,,Rare,Ryo Ueda,holo,Crystal Guardians,EX,100
+ex14-90,90,Blaziken ex,150,Fighting,Combusken,,Rare,Mitsuhiro Arita,holo,Crystal Guardians,EX,100
+ex14-91,91,Delcatty ex,90,Colorless,Skitty,,Rare,Shizurow,holo,Crystal Guardians,EX,100
+ex14-92,92,Exploud ex,150,Colorless,Loudred,,Rare,Mitsuhiro Arita,holo,Crystal Guardians,EX,100
+ex14-93,93,Groudon ex,100,Fighting,,,Rare,Takabon,holo,Crystal Guardians,EX,100
+ex14-94,94,Jirachi ex,90,Psychic,,,Rare,Shizurow,"normal, holo",Crystal Guardians,EX,100
+ex14-95,95,Kyogre ex,100,Water,,,Rare,Yasuki Watanabe,holo,Crystal Guardians,EX,100
+ex14-96,96,Sceptile ex δ,140,Psychic,Grovyle,Stage2,Rare,Shizurow,holo,Crystal Guardians,EX,100
+ex14-97,97,Shiftry ex,140,Darkness,Nuzleaf,,Rare,Ryo Ueda,holo,Crystal Guardians,EX,100
+ex14-98,98,Swampert ex,150,Water,Marshtomp,,Rare,Ryo Ueda,holo,Crystal Guardians,EX,100
+ex14-99,99,Alakazam Star,80,Psychic,,Basic,Rare,Masakazu Fukuda,holo,Crystal Guardians,EX,100
+ex14-100,100,Celebi Star,60,Grass,,Basic,Rare,Masakazu Fukuda,holo,Crystal Guardians,EX,100

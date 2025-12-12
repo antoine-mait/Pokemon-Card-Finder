@@ -1,0 +1,115 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+xy3-1,1,Chétiflor,50,Plante,,De base,Commune,Kanako Eo,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-2,2,Boustiflor,80,Plante,Chétiflor,Niveau 1,Peu Commune,Mizue,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-3,3,Empiflor,130,Plante,Boustiflor,Niveau 2,Rare,Sanosuke Sakuma,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-4,4,Scarhino EX,170,Plante,,De base,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-5,5,M-Scarhino EX,220,Plante,Scarhino-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-6,6,Balignon,60,Plante,,De base,Commune,Kyoko Umemoto,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-7,7,Phyllali,90,Plante,Évoli,Niveau 1,Rare,Naoyo Kimura,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-8,8,Escargaume,60,Plante,,De base,Commune,sui,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-9,9,Limaspeed,90,Plante,Escargaume,Niveau 1,Peu Commune,Shin Nagasawa,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-10,10,Magmar,80,Feu,,De base,Commune,MAHOU,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-11,11,Maganon,120,Feu,Magmar,Niveau 1,Rare,PLANETA,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-12,12,Poussifeu,60,Feu,,De base,Commune,Sanosuke Sakuma,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-13,13,Galifeu,80,Feu,Poussifeu,Niveau 1,Peu Commune,Shin Nagasawa,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-14,14,Braségali,140,Feu,Galifeu,Niveau 2,Rare,PLANETA,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-15,15,Ptitard,60,Eau,,De base,Commune,MAHOU,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-16,16,Têtarte,80,Eau,Ptitard,Niveau 1,Peu Commune,Kanako Eo,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-17,17,Tartard,140,Eau,Têtarte,Niveau 2,Rare,Mitsuhiro Arita,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-18,18,Tarpaud,130,Eau,Têtarte,Niveau 2,Rare,Atsuko Nishida,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-19,19,Givrali,90,Eau,Évoli,Niveau 1,Rare,Kagemaru Himeno,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-20,20,Crapustule EX,180,Eau,,De base,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-21,21,Polarhume,70,Eau,,De base,Commune,kirisAki,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-22,22,Polagriffe,130,Eau,Polarhume,Niveau 1,Rare,PLANETA,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-23,23,Flingouste,60,Eau,,De base,Commune,5ban Graphics,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-24,24,Gamblast,100,Eau,Flingouste,Niveau 1,Rare,5ban Graphics,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-25,25,Amagara,90,Eau,Fossile Nageoire,Restauré,Peu Commune,5ban Graphics,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-26,26,Dragmara,130,Eau,Amagara,Niveau 1,Rare,5ban Graphics,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-27,27,Pikachu,60,Électrique,,De base,Commune,Sanosuke Sakuma,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-28,28,Raichu,90,Électrique,Pikachu,Niveau 1,Peu Commune,Sanosuke Sakuma,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-29,29,Élektek,80,Électrique,,De base,Commune,Naoki Saito,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-30,30,Élekable,120,Électrique,Élektek,Niveau 1,Rare,PLANETA,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-31,31,Posipi,70,Électrique,,De base,Commune,Akira Komayama,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-32,32,Négapi,70,Électrique,,De base,Commune,Akira Komayama,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-33,33,Fulguris,120,Électrique,,De base,Rare,Hajime Kusajima,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-34,34,Dedenne,70,Électrique,,De base,Peu Commune,5ban Graphics,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-35,35,Soporifik,70,Psy,,De base,Commune,Sumiyoshi Kizuki,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-36,36,Hypnomade,90,Psy,Soporifik,Niveau 1,Rare,Shigenori Negishi,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-37,37,Lippoutou,70,Psy,,De base,Rare,Naoki Saito,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-38,38,Rapion,70,Psy,,De base,Commune,Naoki Saito,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-39,39,Scrutella,50,Psy,,De base,Commune,Atsuko Nishida,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-40,40,Mesmérella,80,Psy,Scrutella,Niveau 1,Peu Commune,Suwama Chiaki,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-41,41,Sidérella,130,Psy,Mesmérella,Niveau 2,Rare,kirisAki,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-42,42,Gringolem,90,Psy,,De base,Commune,Sumiyoshi Kizuki,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-43,43,Golemastoc,130,Psy,Gringolem,Niveau 1,Rare,PLANETA,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-44,44,Machoc,70,Combat,,De base,Commune,Kouki Saitou,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-45,45,Machopeur,90,Combat,Machoc,Niveau 1,Peu Commune,Mitsuhiro Arita,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-46,46,Mackogneur,150,Combat,Machopeur,Niveau 2,Rare,PLANETA,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-47,47,Kicklee,90,Combat,,De base,Peu Commune,Hitoshi Ariga,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-48,48,Tygnon,90,Combat,,De base,Peu Commune,match,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-49,49,Kapoera,90,Combat,,De base,Peu Commune,kawayoo,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-50,50,Chapignon,100,Combat,Balignon,Niveau 1,Rare,Hitoshi Ariga,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-51,51,Makuhita,80,Combat,,De base,Commune,Masakazu Fukuda,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-52,52,Hariyama,120,Combat,Makuhita,Niveau 1,Rare,TOKIYA,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-53,53,Kraknoix,60,Combat,,De base,Commune,Mizue,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-54,54,Lucario EX,180,Combat,,De base,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-55a,55a,M-Lucario EX,220,Combat,Lucario-EX,MÉGA,Rare,5ban Graphics,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-55,55,M-Lucario EX,220,Combat,Lucario-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-56,56,Kungfouine,60,Combat,,De base,Commune,Shigenori Negishi,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-57,57,Shaofouine,90,Combat,Kungfouine,Niveau 1,Peu Commune,TOKIYA,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-58,58,Démétéros,120,Combat,,De base,Rare,PLANETA,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-59,59,Pandespiègle,60,Combat,,De base,Peu Commune,5ban Graphics,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-60,60,Pandespiègle,70,Combat,,De base,Commune,5ban Graphics,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-61,61,Ptyranidur,90,Combat,Fossile Mâchoire,Restauré,Peu Commune,5ban Graphics,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-62,62,Rexillius,150,Combat,Ptyranidur,Niveau 1,Rare,5ban Graphics,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-63,63,Brutalibré,70,Combat,,De base,Rare,5ban Graphics,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-64,64,Brutalibré EX,130,Combat,,De base,Ultra Rare,5ban Graphics,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-65,65,Drascore,110,Obscurité,Rapion,Niveau 1,Rare,Hitoshi Ariga,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-66,66,Baggiguane,60,Obscurité,,De base,Commune,Tomokazu Komiya,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-67,67,Baggaïd,90,Obscurité,Baggiguane,Niveau 1,Peu Commune,match,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-68,68,Pandarbare,120,Obscurité,Pandespiègle,Niveau 1,Rare,5ban Graphics,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-69,69,Mélofée,60,Fée,,De base,Commune,Naoyo Kimura,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-70,70,Mélofée,60,Fée,,De base,Commune,match,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-71,71,Mélodelfe,90,Fée,Mélofée,Niveau 1,Peu Commune,Atsuko Nishida,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-72,72,Nymphali,90,Fée,Évoli,Niveau 1,Rare,5ban Graphics,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-73,73,Trousselin,60,Fée,,De base,Peu Commune,5ban Graphics,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-74,74,Dracolosse EX,180,Dragon,,De base,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-75,75,Vibraninf,80,Dragon,Kraknoix,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-76,76,Libégon,130,Dragon,Vibraninf,Niveau 2,Rare,Masakazu Fukuda,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-77,77,Bruyverne,100,Dragon,Sonistrelle,Niveau 1,Rare,5ban Graphics,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-78,78,Excelangue,90,Incolore,,De base,Commune,Masakazu Fukuda,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-79,79,Coudlangue,120,Incolore,Excelangue,Niveau 1,Peu Commune,Hajime Kusajima,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-80,80,Évoli,50,Incolore,,De base,Commune,sui,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-81,81,Parecool,60,Incolore,,De base,Commune,Midori Harada,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-82,82,Vigoroth,90,Incolore,Parecool,Niveau 1,Peu Commune,Suwama Chiaki,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-83,83,Monaflèmit,150,Incolore,Vigoroth,Niveau 2,Rare,PLANETA,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-84,84,Ratentif,60,Incolore,,De base,Commune,Kyoko Umemoto,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-85,85,Miradar,80,Incolore,Ratentif,Niveau 1,Peu Commune,Midori Harada,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-86,86,Boréas,110,Incolore,,De base,Rare,kawayoo,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-87,87,Sonistrelle,60,Incolore,,De base,Commune,5ban Graphics,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-88,88,Journaliste des Combats,,,,,Peu Commune,Shin Nagasawa,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-89,89,Échange d'Énergie,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-90,90,Stade des Combats,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-91,91,Ceinture Force,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-92,92,Chercheur de Fossiles,,,,,Peu Commune,Naoki Saito,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-93,93,Total Soin,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-94,94,Fossile Mâchoire,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-95,95,Cornélia,,,,,Peu Commune,Ken Sugimori,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-96,96,Entretien,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-97,97,Ring en Montagne,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-98,98,Fossile Nageoire,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-99,99,Peignoir Scintillant,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-100,100,Super Rappel,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-101,101,Collecte d'Outils,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-102,102,Centre d'Entraînement,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-103,103,Phyto-Énergie,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-104,104,Énergie Renforcée,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-105,105,Scarhino EX,170,Plante,,De base,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-106,106,Crapustule EX,180,Eau,,De base,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-107,107,Lucario EX,180,Combat,,De base,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-108,108,Dracolosse EX,180,Dragon,,De base,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-109,109,Journaliste des Combats,,,,,Ultra Rare,Shin Nagasawa,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-110,110,Chercheur de Fossiles,,,,,Ultra Rare,Naoki Saito,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-111,111,Cornélia,,,,,Ultra Rare,Yusuke Ohmura,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-112,112,M-Scarhino EX,220,Plante,Scarhino-EX,MÉGA,Magnifique rare,5ban Graphics,"normal, reverse, holo",Poings Furieux,XY,114
+xy3-113,113,M-Lucario EX,220,Combat,Lucario-EX,MÉGA,Magnifique rare,5ban Graphics,"normal, reverse, holo",Poings Furieux,XY,114

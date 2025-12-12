@@ -1,0 +1,94 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+ex12-1,1,Ptera,70,Incolore,,Niveau 1,Rare,Hajime Kusajima,holo,EX Créateurs de légendes,EX,93
+ex12-2,2,Galeking,110,Métal,,Niveau 2,Rare,Hisao Nakamura,holo,EX Créateurs de légendes,EX,93
+ex12-3,3,Vacilys,100,Plante,,Niveau 2,Rare,Hajime Kusajima,holo,EX Créateurs de légendes,EX,93
+ex12-4,4,Delcatty,80,Incolore,,Niveau 1,Rare,Naoyo Kimura,holo,EX Créateurs de légendes,EX,93
+ex12-5,5,Ectoplasma,100,Psy,,Niveau 2,Rare,Kouki Saitou,holo,EX Créateurs de légendes,EX,93
+ex12-6,6,Grolem,120,Combat,,Niveau 2,Rare,Hajime Kusajima,holo,EX Créateurs de légendes,EX,93
+ex12-7,7,Kabutops,110,Combat,,Niveau 2,Rare,Mitsuhiro Arita,holo,EX Créateurs de légendes,EX,93
+ex12-8,8,Lokhlass,80,Eau,,De base,Rare,Kagemaru Himeno,holo,EX Créateurs de légendes,EX,93
+ex12-9,9,Mackogneur,120,Combat,,Niveau 2,Rare,Kouki Saitou,holo,EX Créateurs de légendes,EX,93
+ex12-10,10,Mew,70,Psy,,De base,Rare,Kouki Saitou,holo,EX Créateurs de légendes,EX,93
+ex12-11,11,Grotadmorv,70,Plante,,Niveau 1,Rare,Midori Harada,holo,EX Créateurs de légendes,EX,93
+ex12-12,12,Tengalice,110,Obscurité,,Niveau 2,Rare,Mitsuhiro Arita,holo,EX Créateurs de légendes,EX,93
+ex12-13,13,Empiflor,100,Plante,,Niveau 2,Rare,Sumiyoshi Kizuki,holo,EX Créateurs de légendes,EX,93
+ex12-14,14,Wailord,120,Eau,,Niveau 1,Rare,Kouki Saitou,holo,EX Créateurs de légendes,EX,93
+ex12-15,15,Absol,70,Obscurité,,De base,Rare,Midori Harada,normal,EX Créateurs de légendes,EX,93
+ex12-16,16,Girafarig,70,Psy,,De base,Rare,Aya Kusube,normal,EX Créateurs de légendes,EX,93
+ex12-17,17,Rosabyss,70,Eau,,Niveau 1,Rare,Atsuko Nishida,normal,EX Créateurs de légendes,EX,93
+ex12-18,18,Serpang,80,Eau,,Niveau 1,Rare,Midori Harada,normal,EX Créateurs de légendes,EX,93
+ex12-19,19,Lanturn,80,Électrique,,Niveau 1,Rare,Kagemaru Himeno,normal,EX Créateurs de légendes,EX,93
+ex12-20,20,Seleroc,60,Psy,,De base,Rare,Hisao Nakamura,normal,EX Créateurs de légendes,EX,93
+ex12-21,21,Magmar,70,Feu,,De base,Rare,Sumiyoshi Kizuki,normal,EX Créateurs de légendes,EX,93
+ex12-22,22,Magneton,70,Électrique,,Niveau 1,Rare,Hisao Nakamura,normal,EX Créateurs de légendes,EX,93
+ex12-23,23,Amonistar,100,Eau,,Niveau 2,Rare,Mitsuhiro Arita,normal,EX Créateurs de légendes,EX,93
+ex12-24,24,Scarabrute,70,Plante,,De base,Rare,Mitsuhiro Arita,normal,EX Créateurs de légendes,EX,93
+ex12-25,25,Solaroc,70,Combat,,De base,Rare,Hisao Nakamura,normal,EX Créateurs de légendes,EX,93
+ex12-26,26,Spinda,60,Incolore,,De base,Rare,Motofumi Fujiwara,normal,EX Créateurs de légendes,EX,93
+ex12-27,27,Chartor,80,Feu,,De base,Rare,Atsuko Nishida,normal,EX Créateurs de légendes,EX,93
+ex12-28,28,Qulbutoké,80,Psy,,De base,Rare,Kouki Saitou,normal,EX Créateurs de légendes,EX,93
+ex12-29,29,Anorith,70,Combat,,Niveau 1,Peu Commune,Atsuko Nishida,normal,EX Créateurs de légendes,EX,93
+ex12-30,30,Blindalys,70,Plante,,Niveau 1,Peu Commune,Sachiko Adachi,normal,EX Créateurs de légendes,EX,93
+ex12-31,31,Insolourdo,50,Incolore,,De base,Peu Commune,Hajime Kusajima,normal,EX Créateurs de légendes,EX,93
+ex12-32,32,Electrode,70,Électrique,,Niveau 1,Peu Commune,Midori Harada,normal,EX Créateurs de légendes,EX,93
+ex12-33,33,Fouinar,80,Incolore,,Niveau 1,Peu Commune,Tomokazu Komiya,normal,EX Créateurs de légendes,EX,93
+ex12-34,34,Gravalanch,70,Combat,,Niveau 1,Peu Commune,Sumiyoshi Kizuki,normal,EX Créateurs de légendes,EX,93
+ex12-35,35,Spectrum,70,Psy,,Niveau 1,Peu Commune,Aya Kusube,normal,EX Créateurs de légendes,EX,93
+ex12-36,36,Kabuto,60,Combat,,Niveau 1,Peu Commune,Takao Unno,normal,EX Créateurs de légendes,EX,93
+ex12-37,37,Kecleon,60,Incolore,,De base,Peu Commune,Tomokazu Komiya,normal,EX Créateurs de légendes,EX,93
+ex12-38,38,Galegon,70,Métal,,Niveau 1,Peu Commune,Naoyo Kimura,normal,EX Créateurs de légendes,EX,93
+ex12-39,39,Machopeur,80,Combat,,Niveau 1,Peu Commune,Kagemaru Himeno,normal,EX Créateurs de légendes,EX,93
+ex12-40,40,Feuforêve,50,Psy,,De base,Peu Commune,Yukiko Baba,normal,EX Créateurs de légendes,EX,93
+ex12-41,41,Pifeuil,70,Obscurité,,Niveau 1,Peu Commune,Katsura Tabata,normal,EX Créateurs de légendes,EX,93
+ex12-42,42,Roselia,60,Plante,,De base,Peu Commune,Kagemaru Himeno,normal,EX Créateurs de légendes,EX,93
+ex12-43,43,Phogleur,70,Eau,,Niveau 1,Peu Commune,Midori Harada,normal,EX Créateurs de légendes,EX,93
+ex12-44,44,Saquedeneu,60,Plante,,De base,Peu Commune,Aya Kusube,normal,EX Créateurs de légendes,EX,93
+ex12-45,45,Tentacruel,70,Eau,,Niveau 1,Peu Commune,Kagemaru Himeno,normal,EX Créateurs de légendes,EX,93
+ex12-46,46,Vibraninf,80,Incolore,,Niveau 1,Peu Commune,Atsuko Nishida,normal,EX Créateurs de légendes,EX,93
+ex12-47,47,Boustiflor,70,Plante,,Niveau 1,Peu Commune,Katsura Tabata,normal,EX Créateurs de légendes,EX,93
+ex12-48,48,Galekid,50,Métal,,De base,Commune,Miki Tanaka,normal,EX Créateurs de légendes,EX,93
+ex12-49,49,Chetiflor,50,Plante,,De base,Commune,Midori Harada,normal,EX Créateurs de légendes,EX,93
+ex12-50,50,Loupio,50,Électrique,,De base,Commune,Sachiko Adachi,normal,EX Créateurs de légendes,EX,93
+ex12-51,51,Coquiperl,50,Eau,,De base,Commune,Sachiko Adachi,normal,EX Créateurs de légendes,EX,93
+ex12-52,52,Fantominus,40,Psy,,De base,Commune,Hajime Kusajima,normal,EX Créateurs de légendes,EX,93
+ex12-53,53,Racaillou,50,Combat,,De base,Commune,Miki Tanaka,normal,EX Créateurs de légendes,EX,93
+ex12-54,54,Tadmorv,40,Plante,,De base,Commune,Tomokazu Komiya,normal,EX Créateurs de légendes,EX,93
+ex12-55,55,Caninos,50,Feu,,De base,Commune,Kanako Eo,normal,EX Créateurs de légendes,EX,93
+ex12-56,56,Lilia,80,Plante,,Niveau 1,Commune,Atsuko Nishida,normal,EX Créateurs de légendes,EX,93
+ex12-57,57,Machoc,50,Combat,,De base,Commune,Yukiko Baba,normal,EX Créateurs de légendes,EX,93
+ex12-58,58,Magby,40,Feu,,De base,Commune,Yuka Morii,normal,EX Créateurs de légendes,EX,93
+ex12-59,59,Magneti,50,Électrique,,De base,Commune,Hiroki Fuchino,normal,EX Créateurs de légendes,EX,93
+ex12-60,60,Amonita,70,Eau,,Niveau 1,Commune,Kenkichi Toyama,normal,EX Créateurs de légendes,EX,93
+ex12-61,61,Grainipiot,40,Plante,,De base,Commune,Yuka Morii,normal,EX Créateurs de légendes,EX,93
+ex12-62,62,Fouinette,50,Incolore,,De base,Commune,Tomokazu Komiya,normal,EX Créateurs de légendes,EX,93
+ex12-63,63,Polichombr,50,Psy,,De base,Commune,Mitsuhiro Arita,normal,EX Créateurs de légendes,EX,93
+ex12-64,64,Skitty,50,Incolore,,De base,Commune,Satoshi Ohta,normal,EX Créateurs de légendes,EX,93
+ex12-65,65,Obalie,50,Eau,,De base,Commune,Miki Tanaka,normal,EX Créateurs de légendes,EX,93
+ex12-66,66,Tentacool,50,Eau,,De base,Commune,Tomoaki Imakuni,normal,EX Créateurs de légendes,EX,93
+ex12-67,67,Kraknoix,50,Combat,,De base,Commune,Tomokazu Komiya,normal,EX Créateurs de légendes,EX,93
+ex12-68,68,Voltorbe,50,Électrique,,De base,Commune,Midori Harada,normal,EX Créateurs de légendes,EX,93
+ex12-69,69,Wailmer,80,Eau,,De base,Commune,Sumiyoshi Kizuki,normal,EX Créateurs de légendes,EX,93
+ex12-70,70,Chenipotte,50,Plante,,De base,Commune,Yukiko Baba,normal,EX Créateurs de légendes,EX,93
+ex12-71,71,Okéoké,50,Psy,,De base,Commune,Yuka Morii,normal,EX Créateurs de légendes,EX,93
+ex12-72,72,Pierre maléfique,,,,,Peu Commune,Ryo Ueda,normal,EX Créateurs de légendes,EX,93
+ex12-73,73,Travailleur de terrain,,,,,Peu Commune,Ken Sugimori,normal,EX Créateurs de légendes,EX,93
+ex12-74,74,Flamme maximale,,,,,Peu Commune,Ryo Ueda,normal,EX Créateurs de légendes,EX,93
+ex12-75,75,Souche géante,,,,,Peu Commune,Ryo Ueda,normal,EX Créateurs de légendes,EX,93
+ex12-76,76,Arbre à puissance,,,,,Peu Commune,Ryo Ueda,normal,EX Créateurs de légendes,EX,93
+ex12-77,77,Cave étrange,,,,,Peu Commune,Ryo Ueda,normal,EX Créateurs de légendes,EX,93
+ex12-78,78,Fossile griffe,40,,,,Commune,Ryo Ueda,normal,EX Créateurs de légendes,EX,93
+ex12-79,79,Mystérieux fossile,50,,,,Commune,Ryo Ueda,normal,EX Créateurs de légendes,EX,93
+ex12-80,80,Fossile racine,40,,,,Commune,Ryo Ueda,normal,EX Créateurs de légendes,EX,93
+ex12-81,81,Énergie Multicolore,,,,,Rare,Takumi Akabane,normal,EX Créateurs de légendes,EX,93
+ex12-82,82,Énergie réaction,,,,,Peu Commune,Takumi Akabane,normal,EX Créateurs de légendes,EX,93
+ex12-83,83,Arcanin ex,120,Feu,,,Rare,Hikaru Koike,holo,EX Créateurs de légendes,EX,93
+ex12-84,84,Armaldo ex,160,Combat,,,Rare,Kimiya Masago,holo,EX Créateurs de légendes,EX,93
+ex12-85,85,Branette ex,90,Psy,,,Rare,Mitsuhiro Arita,holo,EX Créateurs de légendes,EX,93
+ex12-86,86,Papinox ex,140,Plante,,,Rare,Mitsuhiro Arita,holo,EX Créateurs de légendes,EX,93
+ex12-87,87,Libegon ex,150,Incolore,,,Rare,Ryo Ueda,holo,EX Créateurs de légendes,EX,93
+ex12-88,88,Mew ex,90,Psy,,,Rare,Ryo Ueda,holo,EX Créateurs de légendes,EX,93
+ex12-89,89,Kaimorse ex,150,Eau,,,Rare,Kimiya Masago,holo,EX Créateurs de légendes,EX,93
+ex12-90,90,Regice ☆,90,Eau,,De base,Rare,Masakazu Fukuda,holo,EX Créateurs de légendes,EX,93
+ex12-91,91,Regirock ☆,90,Combat,,De base,Rare,Masakazu Fukuda,holo,EX Créateurs de légendes,EX,93
+ex12-92,92,Registeel ☆,90,Métal,,De base,Rare,Masakazu Fukuda,holo,EX Créateurs de légendes,EX,93
+ex12-93,93,Pikachu δ,40,Métal,,De base,Rare,Ryo Ueda,holo,EX Créateurs de légendes,EX,93

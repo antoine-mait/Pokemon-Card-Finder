@@ -1,0 +1,101 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+ex2-1,1,Armaldo,120,Kampf,,Rang 2,Selten,Mitsuhiro Arita,"reverse, holo",EX Sandsturm,EX,100
+ex2-2,2,Noktuska,80,Pflanze,,Rang 1,Selten,Atsuko Nishida,"reverse, holo",EX Sandsturm,EX,100
+ex2-3,3,Wielie,100,Pflanze,,Rang 2,Selten,Midori Harada,"reverse, holo",EX Sandsturm,EX,100
+ex2-4,4,Zwirrklop,70,Psycho,,Rang 1,Selten,Midori Harada,"reverse, holo",EX Sandsturm,EX,100
+ex2-5,5,Flamara,80,Feuer,,Rang 1,Selten,Midori Harada,"reverse, holo",EX Sandsturm,EX,100
+ex2-6,6,Blitza,70,Elektro,,Rang 1,Selten,Atsuko Nishida,"reverse, holo",EX Sandsturm,EX,100
+ex2-7,7,Kappalores,90,Wasser,,Rang 2,Selten,Tomokazu Komiya,"reverse, holo",EX Sandsturm,EX,100
+ex2-8,8,Lunastein,60,Psycho,,Basis,Selten,Hajime Kusajima,"reverse, holo",EX Sandsturm,EX,100
+ex2-9,9,Flunkifer,60,Metall,,Basis,Selten,Mitsuhiro Arita,"reverse, holo",EX Sandsturm,EX,100
+ex2-10,10,Zobiris,60,Unlicht,,Basis,Selten,Hajime Kusajima,"reverse, holo",EX Sandsturm,EX,100
+ex2-11,11,Vipitis,80,Pflanze,,Basis,Selten,Hajime Kusajima,"reverse, holo",EX Sandsturm,EX,100
+ex2-12,12,Tengulist,120,Pflanze,,Rang 2,Selten,Atsuko Nishida,"reverse, holo",EX Sandsturm,EX,100
+ex2-13,13,Sonnfel,70,Kampf,,Basis,Selten,Hajime Kusajima,"reverse, holo",EX Sandsturm,EX,100
+ex2-14,14,Sengo,70,Farblos,,Basis,Selten,Kagemaru Himeno,"reverse, holo",EX Sandsturm,EX,100
+ex2-15,15,Arkani,80,Feuer,,Rang 1,Selten,Hajime Kusajima,"normal, reverse",EX Sandsturm,EX,100
+ex2-16,16,Psiana,80,Psycho,,Rang 1,Selten,Mitsuhiro Arita,"normal, reverse",EX Sandsturm,EX,100
+ex2-17,17,Entoron,70,Wasser,,Rang 1,Selten,Hajime Kusajima,"normal, reverse",EX Sandsturm,EX,100
+ex2-18,18,Kecleon,60,Farblos,,Basis,Selten,Kagemaru Himeno,"normal, reverse",EX Sandsturm,EX,100
+ex2-19,19,Amoroso,110,Wasser,,Rang 2,Selten,Kouki Saitou,"normal, reverse",EX Sandsturm,EX,100
+ex2-20,20,Pichu,40,Elektro,,Basis,Selten,Naoyo Kimura,"normal, reverse",EX Sandsturm,EX,100
+ex2-21,21,Sandamer,70,Kampf,,Rang 1,Selten,Kouki Saitou,"normal, reverse",EX Sandsturm,EX,100
+ex2-22,22,Tengulist,120,Pflanze,,Rang 2,Selten,Ken Sugimori,"normal, reverse",EX Sandsturm,EX,100
+ex2-23,23,Stahlos,100,Metall,,Rang 1,Selten,Midori Harada,"normal, reverse",EX Sandsturm,EX,100
+ex2-24,24,Nachtara,80,Unlicht,,Rang 1,Selten,Kagemaru Himeno,"normal, reverse",EX Sandsturm,EX,100
+ex2-25,25,Aquana,70,Wasser,,Rang 1,Selten,Hajime Kusajima,"normal, reverse",EX Sandsturm,EX,100
+ex2-26,26,Woingenau,80,Psycho,,Basis,Selten,Atsuko Nishida,"normal, reverse",EX Sandsturm,EX,100
+ex2-27,27,Anorith,80,Kampf,,Rang 1,Ungewöhnlich,Mitsuhiro Arita,"normal, reverse",EX Sandsturm,EX,100
+ex2-28,28,Anorith,80,Kampf,,Rang 1,Ungewöhnlich,Ken Sugimori,"normal, reverse",EX Sandsturm,EX,100
+ex2-29,29,Arbok,70,Pflanze,,Rang 1,Ungewöhnlich,Midori Harada,"normal, reverse",EX Sandsturm,EX,100
+ex2-30,30,Azumarill,70,Wasser,,Rang 1,Ungewöhnlich,Mitsuhiro Arita,"normal, reverse",EX Sandsturm,EX,100
+ex2-31,31,Azurill,40,Farblos,,Basis,Ungewöhnlich,Kagemaru Himeno,"normal, reverse",EX Sandsturm,EX,100
+ex2-32,32,Puppance,50,Kampf,,Basis,Ungewöhnlich,Midori Harada,"normal, reverse",EX Sandsturm,EX,100
+ex2-33,33,Kapilz,70,Pflanze,,Rang 1,Ungewöhnlich,Atsuko Nishida,"normal, reverse",EX Sandsturm,EX,100
+ex2-34,34,Enekoro,80,Farblos,,Rang 1,Ungewöhnlich,Midori Harada,"normal, reverse",EX Sandsturm,EX,100
+ex2-35,35,Elektek,60,Elektro,,Basis,Ungewöhnlich,Kouki Saitou,"normal, reverse",EX Sandsturm,EX,100
+ex2-36,36,Elekid,40,Elektro,,Basis,Ungewöhnlich,Kouki Saitou,"normal, reverse",EX Sandsturm,EX,100
+ex2-37,37,Ibitak,70,Farblos,,Rang 1,Ungewöhnlich,Aya Kusube,"normal, reverse",EX Sandsturm,EX,100
+ex2-38,38,Illumise,60,Pflanze,,Basis,Ungewöhnlich,Kyoko Umemoto,"normal, reverse",EX Sandsturm,EX,100
+ex2-39,39,Kabuto,60,Wasser,,Rang 1,Ungewöhnlich,Atsuko Nishida,"normal, reverse",EX Sandsturm,EX,100
+ex2-40,40,Kirlia,70,Psycho,,Rang 1,Ungewöhnlich,Hajime Kusajima,"normal, reverse",EX Sandsturm,EX,100
+ex2-41,41,Stollrak,70,Metall,,Rang 1,Ungewöhnlich,Atsuko Nishida,"normal, reverse",EX Sandsturm,EX,100
+ex2-42,42,Liliep,80,Pflanze,,Rang 1,Ungewöhnlich,Midori Harada,"normal, reverse",EX Sandsturm,EX,100
+ex2-43,43,Liliep,80,Pflanze,,Rang 1,Ungewöhnlich,Ken Sugimori,"normal, reverse",EX Sandsturm,EX,100
+ex2-44,44,Geradaks,70,Farblos,,Rang 1,Ungewöhnlich,Mitsuhiro Arita,"normal, reverse",EX Sandsturm,EX,100
+ex2-45,45,Lombrero,60,Wasser,,Rang 1,Ungewöhnlich,Tomokazu Komiya,"normal, reverse",EX Sandsturm,EX,100
+ex2-46,46,Lombrero,70,Wasser,,Rang 1,Ungewöhnlich,Mitsuhiro Arita,"normal, reverse",EX Sandsturm,EX,100
+ex2-47,47,Kramurx,60,Unlicht,,Basis,Ungewöhnlich,Mitsuhiro Arita,"normal, reverse",EX Sandsturm,EX,100
+ex2-48,48,Blanas,80,Pflanze,,Rang 1,Ungewöhnlich,Atsuko Nishida,"normal, reverse",EX Sandsturm,EX,100
+ex2-49,49,Blanas,80,Pflanze,,Rang 1,Ungewöhnlich,Ken Sugimori,"normal, reverse",EX Sandsturm,EX,100
+ex2-50,50,Pelipper,70,Wasser,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, reverse",EX Sandsturm,EX,100
+ex2-51,51,Igelavar,80,Feuer,,Rang 1,Ungewöhnlich,Naoyo Kimura,"normal, reverse",EX Sandsturm,EX,100
+ex2-52,52,Muntier,70,Farblos,,Rang 1,Ungewöhnlich,Ken Sugimori,"normal, reverse",EX Sandsturm,EX,100
+ex2-53,53,Volbeat,60,Pflanze,,Basis,Ungewöhnlich,Kyoko Umemoto,"normal, reverse",EX Sandsturm,EX,100
+ex2-54,54,Isso,50,Psycho,,Basis,Ungewöhnlich,Kagemaru Himeno,"normal, reverse",EX Sandsturm,EX,100
+ex2-55,55,Xatu,70,Psycho,,Rang 1,Ungewöhnlich,Midori Harada,"normal, reverse",EX Sandsturm,EX,100
+ex2-56,56,Stollunior,50,Metall,,Basis,Häufig,Atsuko Nishida,"normal, reverse",EX Sandsturm,EX,100
+ex2-57,57,Tuska,50,Pflanze,,Basis,Häufig,Atsuko Nishida,"normal, reverse",EX Sandsturm,EX,100
+ex2-58,58,Tuska,50,Pflanze,,Basis,Häufig,Midori Harada,"normal, reverse",EX Sandsturm,EX,100
+ex2-59,59,Feurigel,50,Feuer,,Basis,Häufig,Naoyo Kimura,"normal, reverse",EX Sandsturm,EX,100
+ex2-60,60,Dummisel,50,Farblos,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse",EX Sandsturm,EX,100
+ex2-61,61,Zwirrlicht,40,Psycho,,Basis,Häufig,Midori Harada,"normal, reverse",EX Sandsturm,EX,100
+ex2-62,62,Zwirrlicht,40,Psycho,,Basis,Häufig,Aya Kusube,"normal, reverse",EX Sandsturm,EX,100
+ex2-63,63,Evoli,50,Farblos,,Basis,Häufig,Kouki Saitou,"normal, reverse",EX Sandsturm,EX,100
+ex2-64,64,Rettan,50,Pflanze,,Basis,Häufig,Midori Harada,"normal, reverse",EX Sandsturm,EX,100
+ex2-65,65,Fukano,50,Feuer,,Basis,Häufig,Hajime Kusajima,"normal, reverse",EX Sandsturm,EX,100
+ex2-66,66,Loturzel,40,Wasser,,Basis,Häufig,Tomokazu Komiya,"normal, reverse",EX Sandsturm,EX,100
+ex2-67,67,Loturzel,50,Wasser,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse",EX Sandsturm,EX,100
+ex2-68,68,Marill,50,Wasser,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse",EX Sandsturm,EX,100
+ex2-69,69,Natu,50,Psycho,,Basis,Häufig,Kouki Saitou,"normal, reverse",EX Sandsturm,EX,100
+ex2-70,70,Amonitas,70,Wasser,,Rang 1,Häufig,Kouki Saitou,"normal, reverse",EX Sandsturm,EX,100
+ex2-71,71,Onix,80,Kampf,,Basis,Häufig,Midori Harada,"normal, reverse",EX Sandsturm,EX,100
+ex2-72,72,Pikachu,50,Elektro,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse",EX Sandsturm,EX,100
+ex2-73,73,Enton,50,Wasser,,Basis,Häufig,Kouki Saitou,"normal, reverse",EX Sandsturm,EX,100
+ex2-74,74,Trasla,50,Psycho,,Basis,Häufig,Hajime Kusajima,"normal, reverse",EX Sandsturm,EX,100
+ex2-75,75,Sandan,50,Kampf,,Basis,Häufig,Kouki Saitou,"normal, reverse",EX Sandsturm,EX,100
+ex2-76,76,Samurzel,40,Pflanze,,Basis,Häufig,Atsuko Nishida,"normal, reverse",EX Sandsturm,EX,100
+ex2-77,77,Samurzel,40,Pflanze,,Basis,Häufig,Ken Sugimori,"normal, reverse",EX Sandsturm,EX,100
+ex2-78,78,Knilz,40,Pflanze,,Basis,Häufig,Ken Sugimori,"normal, reverse",EX Sandsturm,EX,100
+ex2-79,79,Eneco,50,Farblos,,Basis,Häufig,Kagemaru Himeno,"normal, reverse",EX Sandsturm,EX,100
+ex2-80,80,Bummelz,40,Farblos,,Basis,Häufig,Ken Sugimori,"normal, reverse",EX Sandsturm,EX,100
+ex2-81,81,Habitak,40,Farblos,,Basis,Häufig,Aya Kusube,"normal, reverse",EX Sandsturm,EX,100
+ex2-82,82,Knacklion,40,Kampf,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse",EX Sandsturm,EX,100
+ex2-83,83,Wailmer,80,Wasser,,Basis,Häufig,Ken Sugimori,"normal, reverse",EX Sandsturm,EX,100
+ex2-84,84,Wingull,40,Wasser,,Basis,Häufig,Kagemaru Himeno,"normal, reverse",EX Sandsturm,EX,100
+ex2-85,85,Zigzachs,40,Farblos,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse",EX Sandsturm,EX,100
+ex2-86,86,Doppel Hyperheiler,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",EX Sandsturm,EX,100
+ex2-87,87,Lanettes Internetsuche,,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse",EX Sandsturm,EX,100
+ex2-88,88,Sonderbonbon,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",EX Sandsturm,EX,100
+ex2-89,89,Heikos Training,,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse",EX Sandsturm,EX,100
+ex2-90,90,Klauenfossil,40,,,,Häufig,Ryo Ueda,"normal, reverse",EX Sandsturm,EX,100
+ex2-91,91,Geheimnis-Fossil,10,,,,Häufig,Keiji Kinebuchi,"normal, reverse",EX Sandsturm,EX,100
+ex2-92,92,Wurzelfossil,40,,,,Häufig,Ryo Ueda,"normal, reverse",EX Sandsturm,EX,100
+ex2-93,93,Multi-Energie,,,,,Selten,Takumi Akabane,"normal, reverse, holo",EX Sandsturm,EX,100
+ex2-94,94,Aerodactyl ex,100,Farblos,,,Selten,Hikaru Koike,holo,EX Sandsturm,EX,100
+ex2-95,95,Stollos ex,150,Metall,,,Selten,Hikaru Koike,holo,EX Sandsturm,EX,100
+ex2-96,96,Guardevoir ex,150,Psycho,,,Selten,Hikaru Koike,holo,EX Sandsturm,EX,100
+ex2-97,97,Kabutops ex,150,Wasser,,,Selten,Ryo Ueda,holo,EX Sandsturm,EX,100
+ex2-98,98,Raichu ex,100,Elektro,,,Selten,Ryo Ueda,holo,EX Sandsturm,EX,100
+ex2-99,99,Tornupto ex,160,Feuer,,,Selten,Hikaru Koike,holo,EX Sandsturm,EX,100
+ex2-100,100,Wailord ex,200,Wasser,,,Selten,Ryo Ueda,holo,EX Sandsturm,EX,100

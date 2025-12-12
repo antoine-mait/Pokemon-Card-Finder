@@ -1,0 +1,125 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sm4-1,1,Hornliu,50,Pflanze,,Basis,Häufig,Yukiko Baba,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-2,2,Kokuna,80,Pflanze,,Rang 1,Ungewöhnlich,miki kudo,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-3,3,Bibor,120,Pflanze,,Rang 2,Selten,kirisAki,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-4,4,Owei,50,Pflanze,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-5,5,Tuska,60,Pflanze,,Basis,Häufig,Anesaki Dynamic,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-6,6,Noktuska,110,Pflanze,,Rang 1,Selten,Mina Nakai,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-7,7,Laukaps,60,Pflanze,,Basis,Häufig,OOYAMA,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-8,8,Schnuthelm,60,Pflanze,,Basis,Häufig,OOYAMA,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-9,9,Hydragil,90,Pflanze,,Rang 1,Ungewöhnlich,tetsuya koizumi,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-10,10,Mähikel,70,Pflanze,,Basis,Häufig,Naoki Saito,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-11,11,Chevrumm,120,Pflanze,,Rang 1,Selten,You Iribi,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-12,12,Alola-Knogga,100,Feuer,,Rang 1,Selten,Mitsuhiro Arita,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-13,13,Camaub,80,Feuer,,Basis,Häufig,sui,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-14,14,Camerupt,140,Feuer,,Rang 1,Selten,Anesaki Dynamic,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-15,15,Sterndu,60,Wasser,,Basis,Häufig,Yukiko Baba,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-16,16,Starmie,90,Wasser,,Rang 1,Selten,Yuka Morii,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-17,17,Karpador,30,Wasser,,Basis,Häufig,TOKIYA,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-18,18,Garados GX,240,Wasser,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-19,19,Quiekel,60,Wasser,,Basis,Häufig,Eri Yamaki,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-20,20,Keifel,100,Wasser,,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-21,21,Mamutel,180,Wasser,,Rang 2,Selten,Mitsuhiro Arita,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-22,22,Remoraid,60,Wasser,,Basis,Häufig,Aya Kusube,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-23,23,Octillery,100,Wasser,,Rang 1,Selten,tetsuya koizumi,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-24,24,Krebscorps,70,Wasser,,Basis,Häufig,Masakazu Fukuda,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-25,25,Krebutack,110,Wasser,,Rang 1,Selten,Saya Tsuruta,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-26,26,Barschwa,30,Wasser,,Basis,Häufig,Hitoshi Ariga,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-27,27,Milotic,120,Wasser,,Rang 1,Selten,Kagemaru Himeno,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-28,28,Regice,130,Wasser,,Basis,Selten,Masakazu Fukuda,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-29,29,Schalellos,60,Wasser,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-30,30,Pikachu,60,Elektro,,Basis,Häufig,Shibuzoh.,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-31,31,Alola-Raichu,110,Elektro,,Rang 1,Selten,Akira Komayama,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-32,32,Alola-Kleinstein,60,Elektro,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-33,33,Alola-Georok,100,Elektro,,Rang 1,Ungewöhnlich,kirisAki,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-34,34,Alola-Geowaz GX,250,Elektro,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-35,35,Emolga,60,Elektro,,Basis,Ungewöhnlich,Kagemaru Himeno,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-36,36,Nebulak,50,Psycho,,Basis,Häufig,Shibuzoh.,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-37,37,Alpollo,70,Psycho,,Rang 1,Ungewöhnlich,Eri Yamaki,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-38,38,Gengar,130,Psycho,,Rang 2,Selten,Shin Nagasawa,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-39,39,Traunfugil,60,Psycho,,Basis,Häufig,so-taro,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-40,40,Traunmagil,110,Psycho,,Rang 1,Selten,chibi,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-41,41,Spoink,50,Psycho,,Basis,Häufig,Sekio,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-42,42,Groink,120,Psycho,,Rang 1,Ungewöhnlich,Saya Tsuruta,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-43,43,Palimpalim,70,Psycho,,Basis,Häufig,Kanako Eo,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-44,44,Irrbis,60,Psycho,,Basis,Häufig,Miki Tanaka,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-45,45,Pumpdjinn,120,Psycho,,Rang 1,Selten,kirisAki,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-46,46,Molunk,60,Psycho,,Basis,Häufig,tetsuya koizumi,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-47,47,Amfira,110,Psycho,,Rang 1,Selten,Shin Nagasawa,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-48,48,Kommandutan,110,Psycho,,Basis,Selten,Yoshinobu Saito,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-49,49,Anego GX,180,Psycho,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-50,50,Menki,60,Kampf,,Basis,Häufig,Miki Tanaka,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-51,51,Rasaff,90,Kampf,,Rang 1,Selten,Yuka Morii,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-52,52,Tragosso,70,Kampf,,Basis,Häufig,sui,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-53,53,Regirock,130,Kampf,,Basis,Selten,kawayoo,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-54,54,Gastrodon,120,Kampf,,Rang 1,Ungewöhnlich,TOKIYA,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-55,55,Velursi,70,Kampf,,Basis,Häufig,Kanako Eo,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-56,56,Kosturso,130,Kampf,,Rang 1,Selten,Saya Tsuruta,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-57,57,Masskito GX,190,Kampf,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-58,58,Hunduster,60,Unlicht,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-59,59,Hundemon,110,Unlicht,,Rang 1,Selten,Shin Nagasawa,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-60,60,Kapuno,70,Unlicht,,Basis,Häufig,miki kudo,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-61,61,Duodino,90,Unlicht,,Rang 1,Ungewöhnlich,kodama,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-62,62,Trikephalo,160,Unlicht,,Rang 2,Selten,Anesaki Dynamic,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-63,63,Schlingking GX,210,Unlicht,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-64,64,Flunkifer,80,Metall,,Basis,Ungewöhnlich,tetsuya koizumi,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-65,65,Stollunior,60,Metall,,Basis,Häufig,TOKIYA,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-66,66,Stollrak,100,Metall,,Rang 1,Ungewöhnlich,Atsuko Nishida,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-67,67,Stolloss,170,Metall,,Rang 2,Selten,Yoshinobu Saito,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-68,68,Registeel,130,Metall,,Basis,Selten,Mitsuhiro Arita,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-69,69,Cavalanzas,120,Metall,,Rang 1,Selten,Kagemaru Himeno,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-70,70,Katagami GX,170,Metall,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-71,71,Pummeluff,60,Fee,,Basis,Häufig,You Iribi,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-72,72,Knuddeluff,120,Fee,,Rang 1,Selten,0313,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-73,73,Xerneas,130,Fee,,Basis,Selten,sui,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-74,74,Alola-Kokowei GX,220,Drache,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-75,75,Miniras,60,Drache,,Basis,Häufig,Atsuko Nishida,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-76,76,Mediras,90,Drache,,Rang 1,Ungewöhnlich,Masakazu Fukuda,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-77,77,Grandiras,160,Drache,,Rang 2,Selten,kawayoo,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-78,78,Miltank,100,Farblos,,Basis,Ungewöhnlich,Mina Nakai,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-79,79,Wablu,50,Farblos,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-80,80,Altaria,90,Farblos,,Rang 1,Selten,sui,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-81,81,Staralili,60,Farblos,,Basis,Häufig,miki kudo,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-82,82,Staravia,80,Farblos,,Rang 1,Ungewöhnlich,kawayoo,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-83,83,Staraptor,140,Farblos,,Rang 2,Selten,Sekio,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-84,84,Regigigas,180,Farblos,,Basis,Selten,Kouki Saitou,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-85,85,Picochilla,60,Farblos,,Basis,Häufig,kodama,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-86,86,Chillabell,90,Farblos,,Rang 1,Ungewöhnlich,0313,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-87,87,Scoppel,70,Farblos,,Basis,Häufig,kirisAki,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-88,88,Grebbit,130,Farblos,,Rang 1,Ungewöhnlich,Anesaki Dynamic,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-89,89,Typ:Null,110,Farblos,,Basis,Selten,Hitoshi Ariga,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-90,90,Amigento GX,210,Farblos,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-91,91,Konterfänger,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-92,92,Flotte Hüfttasche,,,,,Ungewöhnlich,Eske Yoshinob,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-93,93,Verschlungener Hain,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-94,94,Kampf-Disc,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-95,95,Gladio,,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-96,96,Samantha,,,,,Ungewöhnlich,take,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-97,97,Rote Späher-Karte,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-98,98,Psycho-Disc,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-99,99,See des Nichts,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-100,100,Konter-Energie,,,,,Ungewöhnlich,,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-101,101,Garados GX,240,Wasser,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-102,102,Alola-Geowaz GX,250,Elektro,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-103,103,Anego GX,180,Psycho,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-104,104,Masskito GX,190,Kampf,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-105,105,Schlingking GX,210,Unlicht,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-106,106,Katagami GX,170,Metall,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-107,107,Alola-Kokowei GX,220,Drache,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-108,108,Amigento GX,210,Farblos,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-109,109,Gladio,,,,,Ultra Selten,TOKIYA,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-110,110,Samantha,,,,,Ultra Selten,Megumi Mizutani,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-111,111,Mayla,,,,,Ultra Selten,Naoki Saito,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-112,112,Garados GX,240,Wasser,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-113,113,Alola-Geowaz GX,250,Elektro,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-114,114,Anego GX,180,Psycho,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-115,115,Masskito GX,190,Kampf,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-116,116,Schlingking GX,210,Unlicht,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-117,117,Katagami GX,170,Metall,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-118,118,Alola-Kokowei GX,220,Drache,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-119,119,Amigento GX,210,Farblos,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-120,120,Konterfänger,,,,,Versteckt Selten,Toyste Beach,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-121,121,Fleißiges Staffelholz,,,,,Versteckt Selten,Toyste Beach,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-122,122,Konter-Energie,,,,,Versteckt Selten,,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-123,123,Verkrümmungs-Energie,,,,,Versteckt Selten,,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124
+sm4-124,124,Wasser-Energie,,,,Basis,Versteckt Selten,,"normal, reverse, holo",Aufziehen der Sturmröte,Sonne & Mond,124

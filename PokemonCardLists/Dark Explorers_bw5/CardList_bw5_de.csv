@@ -1,0 +1,112 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+bw5-1,1,Bisasam,60,Pflanze,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-2,2,Bisaknosp,90,Pflanze,,Rang 1,Ungewöhnlich,sui,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-3,3,Bisaflor,140,Pflanze,,Rang 2,Selten,Masakazu Fukuda,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-4,4,Sichlor,80,Pflanze,,Basis,Ungewöhnlich,Naoki Saito,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-5,5,Venuflibis,90,Pflanze,,Basis,Selten,Yukiko Baba,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-6,6,Folipurba,90,Pflanze,,Rang 1,Selten,Ryo Ueda,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-7,7,Lithomith,60,Pflanze,,Basis,Häufig,Akira Komayama,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-8,8,Castellith,110,Pflanze,,Rang 1,Ungewöhnlich,Ryo Ueda,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-9,9,Laukaps,60,Pflanze,,Basis,Häufig,Kagemaru Himeno,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-10,10,Schnuthelm,60,Pflanze,,Basis,Häufig,Shigenori Negishi,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-11,11,Hydragil,90,Pflanze,,Rang 1,Selten,Kouki Saitou,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-12,12,Flamara,90,Feuer,,Rang 1,Ungewöhnlich,Suwama Chiaki,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-13,13,Entei-EX,180,Feuer,,,Selten,Shizurow,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-14,14,Flemmli,50,Feuer,,Basis,Häufig,Masakazu Fukuda,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-15,15,Flemmli,60,Feuer,,Basis,Häufig,Atsuko Nishida,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-16,16,Jungglut,80,Feuer,,Rang 1,Ungewöhnlich,Sumiyoshi Kizuki,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-17,17,Lohgock,140,Feuer,,Rang 2,Selten,TOKIYA,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-18,18,Qurtel,90,Feuer,,Basis,Ungewöhnlich,Masakazu Fukuda,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-19,19,Furnifraß,90,Feuer,,Basis,Selten,Mitsuhiro Arita,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-20,20,Ignivor,80,Feuer,,Basis,Häufig,match,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-21,21,Ignivor,60,Feuer,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-22,22,Ramoth,110,Feuer,,Rang 1,Selten,Shin Nagasawa,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-23,23,Flegmon,70,Wasser,,Basis,Häufig,MAHOU,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-24,24,Lahmus,100,Wasser,,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-25,25,Aquana,110,Wasser,,Rang 1,Ungewöhnlich,Akira Komayama,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-26,26,Kyogre-EX,170,Wasser,,,Selten,Shizurow,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-27,27,Plinfa,60,Wasser,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-28,28,Pliprin,80,Wasser,,Rang 1,Ungewöhnlich,Suwama Chiaki,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-29,29,Impoleon,140,Wasser,,Rang 2,Selten,Naoki Saito,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-30,30,Glaziola,90,Wasser,,Rang 1,Selten,Ryo Ueda,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-31,31,Schallquap,60,Wasser,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-32,32,Mebrana,80,Wasser,,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-33,33,Gelatini,50,Wasser,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-34,34,Gelatroppo,70,Wasser,,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-35,35,Piccolente,60,Wasser,,Basis,Häufig,sui,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-36,36,Swaroness,90,Wasser,,Rang 1,Selten,Mizue,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-37,37,Blitza,90,Elektro,,Rang 1,Ungewöhnlich,Sumiyoshi Kizuki,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-38,38,Raikou-EX,170,Elektro,,,Selten,Shizurow,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-39,39,Plusle,60,Elektro,,Basis,Häufig,Naoki Saito,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-40,40,Minun,60,Elektro,,Basis,Häufig,Naoki Saito,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-41,41,Wattzapf,30,Elektro,,Basis,Häufig,MAHOU,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-42,42,Wattzapf,30,Elektro,,Basis,Häufig,Miki Tanaka,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-43,43,Voltula,80,Elektro,,Rang 1,Selten,Akira Komayama,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-44,44,Zapplardin,40,Elektro,,Basis,Häufig,Midori Harada,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-45,45,Zapplardin,40,Elektro,,Basis,Häufig,Akira Komayama,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-46,46,Zapplalek,90,Elektro,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-47,47,Zapplarang,140,Elektro,,Rang 2,Selten,kawayoo,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-48,48,Psiana,90,Psycho,,Rang 1,Selten,Mizue,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-49,49,Laschoking,90,Psycho,,Rang 1,Selten,Shin Nagasawa,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-50,50,Fleknoil,50,Psycho,,Basis,Häufig,Kagemaru Himeno,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-51,51,Makabaja,60,Psycho,,Basis,Ungewöhnlich,Aya Kusube,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-52,52,Echnatoll,100,Psycho,,Rang 1,Selten,kawayoo,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-53,53,Aerodactyl,90,Kampf,,Erweckt,Selten,Naoyo Kimura,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-54,54,Groudon-EX,180,Kampf,,,Selten,Shizurow,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-55,55,Rotomurf,70,Kampf,,Basis,Häufig,Tomokazu Komiya,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-56,56,Stalobor,120,Kampf,,Rang 1,Selten,Mitsuhiro Arita,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-57,57,Stalobor,120,Kampf,,Rang 1,Selten,Masakazu Fukuda,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-58,58,Praktibalk,60,Kampf,,Basis,Häufig,Mizue,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-59,59,Strepoli,80,Kampf,,Rang 1,Ungewöhnlich,Mizue,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-60,60,Nachtara,100,Unlicht,,Rang 1,Ungewöhnlich,TOKIYA,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-61,61,Nachtara,100,Unlicht,,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-62,62,Zobiris,70,Unlicht,,Basis,Ungewöhnlich,kawayoo,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-63,63,Darkrai-EX,180,Unlicht,,,Selten,Shizurow,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-64,64,Ganovil,70,Unlicht,,Basis,Häufig,Hajime Kusajima,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-65,65,Rokkaiman,90,Unlicht,,Rang 1,Ungewöhnlich,Mitsuhiro Arita,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-66,66,Rabigator,150,Unlicht,,Rang 2,Selten,5ban Graphics,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-67,67,Zurrokex,60,Unlicht,,Basis,Häufig,Kagemaru Himeno,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-68,68,Irokex,100,Unlicht,,Rang 1,Selten,Kagemaru Himeno,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-69,69,Zorua,50,Unlicht,,Basis,Häufig,Masakazu Fukuda,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-70,70,Zorua,60,Unlicht,,Basis,Häufig,Akira Komayama,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-71,71,Zoroark,100,Unlicht,,Rang 1,Selten,5ban Graphics,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-72,72,Caesurio,90,Unlicht,,Rang 1,Selten,Masakazu Fukuda,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-73,73,Skallyk,60,Unlicht,,Basis,Ungewöhnlich,match,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-74,74,Cavalanzas,90,Metall,,Rang 1,Selten,Masakazu Fukuda,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-75,75,Klikk,60,Metall,,Basis,Häufig,Midori Harada,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-76,76,Kliklak,80,Metall,,Rang 1,Ungewöhnlich,Shin Nagasawa,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-77,77,Klikdiklak,140,Metall,,Rang 2,Selten,Hajime Kusajima,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-78,78,Gladiantri,60,Metall,,Basis,Häufig,Naoki Saito,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-79,79,Caesurio,100,Metall,,Rang 1,Selten,Naoki Saito,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-80,80,Chaneira,100,Farblos,,Basis,Häufig,Kagemaru Himeno,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-81,81,Chaneira,100,Farblos,,Basis,Häufig,Mizue,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-82,82,Heiteira,130,Farblos,,Rang 1,Selten,Kouki Saitou,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-83,83,Evoli,60,Farblos,,Basis,Häufig,MAHOU,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-84,84,Evoli,50,Farblos,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-85,85,Plaudagei,70,Farblos,,Basis,Ungewöhnlich,MAHOU,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-86,86,Yorkleff,50,Farblos,,Basis,Häufig,Kyoko Umemoto,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-87,87,Terribark,80,Farblos,,Rang 1,Ungewöhnlich,Naoyo Kimura,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-88,88,Bissbark,130,Farblos,,Rang 2,Selten,Atsuko Nishida,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-89,89,Maxax,140,Farblos,,Rang 2,Selten,Akira Komayama,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-90,90,Boreos-EX,170,Farblos,,,Selten,Shizurow,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-91,91,Cheren,,,,,Ungewöhnlich,Kanako Eo,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-92,92,Finsterklaue,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-93,93,Finsterpflaster,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-94,94,Spezial-Hammer,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-95,95,Rabauken Bob & Rob,,,,,Ungewöhnlich,Masakazu Fukuda,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-96,96,N,,,,,Ungewöhnlich,Megumi Mizutani,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-97,97,Altbernstein Aerodactyl,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-98,98,Prof. Esche,,,,,Ungewöhnlich,Kanako Eo,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-99,99,Zufallsempfänger,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-100,100,Sonderbonbon,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-101,101,Wendelberg,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-102,102,Hyperball,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-103,103,Entei-EX,180,Feuer,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-104,104,Kyogre-EX,170,Wasser,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-105,105,Raikou-EX,170,Elektro,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-106,106,Groudon-EX,180,Kampf,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-107,107,Darkrai-EX,180,Unlicht,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-108,108,Boreos-EX,170,Farblos,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-109,109,Guardevoir,110,Psycho,,Rang 2,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-110,110,Aeropteryx,130,Kampf,,Rang 1,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111
+bw5-111,111,Pokémon-Fänger,,,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Erfoscher der Finsternis,Schwarz & Weiß,111

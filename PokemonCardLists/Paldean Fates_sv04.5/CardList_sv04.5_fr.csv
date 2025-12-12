@@ -1,0 +1,246 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sv04.5-001,001,Pomdepik,70,Plante,,De base,Commune,Kouki Saitou,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-002,002,Foretress-ex,270,Plante,Pomdepik,Niveau 1,Double rare,5ban Graphics,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-003,003,Maracachi,110,Plante,,De base,Commune,Masako Tomii,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-004,004,Terracool,50,Plante,,De base,Commune,Shin Nagasawa,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-005,005,Terracruel-ex,270,Plante,Terracool,Niveau 1,Double rare,5ban Graphics,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-006,006,Cléopsytra-ex,260,Plante,Flotillon,Niveau 1,Double rare,takuyoa,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-007,007,Salamèche,70,Feu,,De base,Commune,GIDORA,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-008,008,Reptincel,90,Feu,Salamèche,Niveau 1,Peu Commune,Tonji Matsuno,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-009,009,Magmar,80,Feu,,De base,Commune,miki kudo,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-010,010,Maganon,140,Feu,Magmar,Niveau 1,Rare,Hasuno,"reverse, holo",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-011,011,Chamallot,80,Feu,,De base,Commune,Mina Nakai,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-012,012,Camérupt,130,Feu,Chamallot,Niveau 1,Peu Commune,satoma,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-013,013,Motisma Chaleur,90,Feu,,De base,Rare,Scav,"reverse, holo",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-014,014,Charbambin,70,Feu,,De base,Commune,nagimiso,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-015,015,Carmadura,130,Feu,Charbambin,Niveau 1,Rare,AKIRA EGAWA,"reverse, holo",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-016,016,Lokhlass,110,Eau,,De base,Commune,Gemi,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-017,017,Frigodo,70,Eau,,De base,Commune,rika,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-018,018,Pikachu,70,Électrique,,De base,Commune,OKACHEKE,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-019,019,Raichu,120,Électrique,Pikachu,Niveau 1,Rare,Naoyo Kimura,"reverse, holo",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-020,020,Loupio,60,Électrique,,De base,Commune,yuu,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-021,021,Lanturn,120,Électrique,Loupio,Niveau 1,Peu Commune,aspara,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-022,022,Fulgulairo,120,Électrique,Zapétrel,Niveau 1,Peu Commune,AKIRA EGAWA,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-023,023,Noeunoeuf,60,Psy,,De base,Commune,Kariya,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-024,024,Noadkoko,130,Psy,Noeunoeuf,Niveau 1,Rare,Yoriyuki Ikegami,"reverse, holo",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-025,025,Natu,50,Psy,,De base,Commune,Teeziro,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-026,026,Xatu,100,Psy,Natu,Niveau 1,Rare,DOM,"reverse, holo",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-027,027,Tarsal,70,Psy,,De base,Commune,Tika Matsuno,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-028,028,Kirlia,90,Psy,Tarsal,Niveau 1,Peu Commune,kawayoo,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-029,029,Gardevoir-ex,310,Psy,Kirlia,Niveau 2,Double rare,N-DESIGN Inc.,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-030,030,Éoko,70,Psy,,De base,Commune,sui,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-031,031,Mime Jr.,30,Psy,,De base,Commune,HYOGONOSUKE,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-032,032,Chovsourir,60,Psy,,De base,Commune,Kagemaru Himeno,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-033,033,Rhinolove,90,Psy,Chovsourir,Niveau 1,Peu Commune,Narumi Sato,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-034,034,Doudouvet,60,Psy,,De base,Commune,kurumitsu,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-035,035,Farfaduvet,90,Psy,Doudouvet,Niveau 1,Peu Commune,KYUPIYAMA,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-036,036,Dedenne,70,Psy,,De base,Commune,Tika Matsuno,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-037,037,Mimiqui,70,Psy,,De base,Rare,Kagemaru Himeno,"reverse, holo",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-038,038,Pâtachiot,50,Psy,,De base,Commune,Mizue,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-039,039,Briochien,90,Psy,Pâtachiot,Niveau 1,Peu Commune,You Iribi,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-040,040,Malvalame,140,Psy,Charbambin,Niveau 1,Rare,Ryota Murayama,"reverse, holo",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-041,041,Flotillon,30,Psy,,De base,Commune,kawayoo,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-042,042,Toutombe,70,Psy,,De base,Commune,yuu,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-043,043,Tomberro,140,Psy,Toutombe,Niveau 1,Rare,Kouki Saitou,"reverse, holo",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-044,044,Mordudor,50,Psy,,De base,Commune,OKUBO,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-045,045,Férosinge,60,Combat,,De base,Commune,nagimiso,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-046,046,Colossinge,90,Combat,Férosinge,Niveau 1,Peu Commune,Ryuta Fuse,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-047,047,Courrousinge,140,Combat,Colossinge,Niveau 2,Rare,Anesaki Dynamic,"reverse, holo",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-048,048,Phanpy,80,Combat,,De base,Commune,Atsuko Nishida,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-049,049,Donphan,150,Combat,Phanpy,Niveau 1,Peu Commune,Shin Nagasawa,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-050,050,Barloche,70,Combat,,De base,Commune,ryoma uratsuka,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-051,051,Poulpaf,70,Combat,,De base,Commune,Kedamahadaitai Yawarakai,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-052,052,Krakos,120,Combat,Poulpaf,Niveau 1,Peu Commune,Sanosuke Sakuma,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-053,053,Fort-Ivoire-ex,250,Combat,,De base,Double rare,kawayoo,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-054,054,Dracaufeu-ex,330,Obscurité,Reptincel,Niveau 2,Double rare,5ban Graphics,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-055,055,Fantominus,50,Obscurité,,De base,Commune,Nobuhiro Imagawa,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-056,056,Spectrum,80,Obscurité,Fantominus,Niveau 1,Commune,DOM,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-057,057,Ectoplasma,130,Obscurité,Spectrum,Niveau 2,Peu Commune,Nelnal,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-058,058,Axoloto de Paldea,60,Obscurité,,De base,Commune,Kouki Saitou,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-059,059,Terraiste de Paldea-ex,280,Obscurité,Axoloto de Paldea,Niveau 1,Double rare,PLANETA Mochizuki,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-060,060,Baggiguane,70,Obscurité,,De base,Commune,sowsow,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-061,061,Baggaïd,120,Obscurité,Baggiguane,Niveau 1,Peu Commune,Mousho,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-062,062,Grondogue,60,Obscurité,,De base,Commune,DOM,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-063,063,Dogrino,130,Obscurité,Grondogue,Niveau 1,Rare,KIYOTAKA OSHIYAMA,"reverse, holo",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-064,064,Vrombi,60,Métal,,De base,Commune,Tetsu Kayama,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-065,065,Vrombotor,140,Métal,Vrombi,Niveau 1,Rare,Anesaki Dynamic,"reverse, holo",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-066,066,Roue-de-Fer-ex,220,Métal,,De base,Double rare,toriyufu,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-067,067,Gromago,130,Métal,Mordudor,Niveau 1,Rare,Mitsuhiro Arita,"reverse, holo",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-068,068,Sonistrelle,70,Dragon,,De base,Commune,chibi,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-069,069,Bruyverne-ex,260,Dragon,Sonistrelle,Niveau 1,Double rare,Nisota Niso,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-070,070,Motorizard,120,Dragon,,De base,Rare,GIDORA,"reverse, holo",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-071,071,Gourmelet,70,Incolore,,De base,Commune,Mina Nakai,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-072,072,Fragroin,130,Incolore,Gourmelet,Niveau 1,Peu Commune,Akira Komayama,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-073,073,Compagnol,30,Incolore,,De base,Commune,Oswaldo KATO,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-074,074,Famignol,70,Incolore,Compagnol,Niveau 1,Peu Commune,KIYOTAKA OSHIYAMA,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-075,075,Tapatoès-ex,160,Incolore,,De base,Double rare,PLANETA Mochizuki,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-076,076,Cuencia,,,,,Peu Commune,Oswaldo KATO,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-077,077,Erio,,,,,Peu Commune,kantaro,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-078,078,Clove,,,,,Peu Commune,GOSSAN,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-079,079,Générateur Électrique,,,,,Peu Commune,Toyste Beach,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-080,080,Mashynn,,,,,Peu Commune,Sanosuke Sakuma,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-081,081,Colline Clair de Lune,,,,,Peu Commune,AYUMI ODASHIMA,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-082,082,Menzi,,,,,Commune,Sanosuke Sakuma,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-083,083,Sac de Menzi,,,,,Peu Commune,AYUMI ODASHIMA,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-084,084,Faiblo Ball,,,,,Peu Commune,Toyste Beach,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-085,085,Élève de Paldea,,,,,Commune,Cona Nitanda,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-086,086,Élève de Paldea,,,,,Commune,Naoki Saito,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-087,087,Recherches Professorales,,,,,Rare,kirisAki,"reverse, holo",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-088,088,Recherches Professorales,,,,,Rare,kirisAki,"reverse, holo",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-089,089,Super Bonbon,,,,,Commune,Studio Bora Inc.,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-090,090,Capsule Technique : Poing de Crise,,,,,Peu Commune,Studio Bora Inc.,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-091,091,Hyper Ball,,,,,Peu Commune,Ayaka Yoshida,"normal, reverse",Destinées de Paldea,Écarlate et Violet,245
+sv04.5-092,092,Mystherbe,60,Plante,,De base,Shiny rare,otumami,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-093,093,Ortide,70,Plante,Mystherbe,Niveau 1,Shiny rare,OKACHEKE,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-094,094,Rafflesia,140,Plante,Ortide,Niveau 2,Shiny rare,0313,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-095,095,Insécateur,80,Plante,,De base,Shiny rare,Hitoshi Ariga,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-096,096,Granivol,50,Plante,,De base,Shiny rare,Saya Tsuruta,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-097,097,Floravol,70,Plante,Granivol,Niveau 1,Shiny rare,Mizue,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-098,098,Cotovol,90,Plante,Floravol,Niveau 2,Shiny rare,Lee HyunJung,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-099,099,Pomdepik,70,Plante,,De base,Shiny rare,Scav,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-100,100,Blizzi,90,Plante,,De base,Shiny rare,Saya Tsuruta,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-101,101,Blizzaroi,150,Plante,Blizzi,Niveau 1,Shiny rare,Hitoshi Ariga,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-102,102,Olivini,60,Plante,,De base,Shiny rare,otumami,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-103,103,Olivado,90,Plante,Olivini,Niveau 1,Shiny rare,saino misaki,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-104,104,Arboliva,150,Plante,Olivado,Niveau 2,Shiny rare,Hideki Ishikawa,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-105,105,Terracool,50,Plante,,De base,Shiny rare,Ryuta Fuse,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-106,106,Pimito,70,Plante,,De base,Shiny rare,OKACHEKE,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-107,107,Scovilain,110,Plante,Pimito,Niveau 1,Shiny rare,Kouki Saitou,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-108,108,Léboulérou,50,Plante,,De base,Shiny rare,Misa Tsutsui,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-109,109,Salamèche,70,Feu,,De base,Shiny rare,sowsow,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-110,110,Reptincel,90,Feu,Salamèche,Niveau 1,Shiny rare,Kouki Saitou,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-111,111,Tauros de Paldea,130,Feu,,De base,Shiny rare,Hitoshi Ariga,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-112,112,Entei,130,Feu,,De base,Shiny rare,Ryuta Fuse,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-113,113,Plumeline,90,Feu,,De base,Shiny rare,Akira Komayama,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-114,114,Charbambin,70,Feu,,De base,Shiny rare,Masakazu Fukuda,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-115,115,Carmadura,130,Feu,Charbambin,Niveau 1,Shiny rare,Atsushi Furusawa,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-116,116,Ramoloss,70,Eau,,De base,Shiny rare,Taira Akitsu,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-117,117,Flagadoss,100,Eau,Ramoloss,Niveau 1,Shiny rare,Souichirou Gunjima,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-118,118,Stari,60,Eau,,De base,Shiny rare,Nisota Niso,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-119,119,Staross,90,Eau,Stari,Niveau 1,Shiny rare,Shigenori Negishi,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-120,120,Tauros de Paldea,130,Eau,,De base,Shiny rare,GOSSAN,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-121,121,Taupikeau,50,Eau,,De base,Shiny rare,Misa Tsutsui,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-122,122,Triopikeau,90,Eau,Taupikeau,Niveau 1,Shiny rare,Kyoko Umemoto,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-123,123,Dofin,50,Eau,,De base,Shiny rare,kurumitsu,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-124,124,Superdofin,150,Eau,Dofin,Niveau 1,Shiny rare,Shin Nagasawa,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-125,125,Délestin,130,Eau,,De base,Shiny rare,Nelnal,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-126,126,Oyacata,160,Eau,,De base,Shiny rare,Shigenori Negishi,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-127,127,Nigirigon,70,Eau,,De base,Shiny rare,Kagemaru Himeno,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-128,128,Frigodo,70,Eau,,De base,Shiny rare,Taira Akitsu,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-129,129,Cryodo,90,Eau,Frigodo,Niveau 1,Shiny rare,Kouki Saitou,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-130,130,Glaivodo,160,Eau,Cryodo,Niveau 2,Shiny rare,GOSSAN,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-131,131,Pikachu,70,Électrique,,De base,Shiny rare,Yuu Nishida,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-132,132,Raichu,120,Électrique,Pikachu,Niveau 1,Shiny rare,Sanosuke Sakuma,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-133,133,Voltorbe,60,Électrique,,De base,Shiny rare,Misa Tsutsui,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-134,134,Électrode,90,Électrique,Voltorbe,Niveau 1,Shiny rare,Masakazu Fukuda,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-135,135,Lixy,70,Électrique,,De base,Shiny rare,Saya Tsuruta,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-136,136,Luxio,90,Électrique,Lixy,Niveau 1,Shiny rare,Souichirou Gunjima,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-137,137,Luxray,150,Électrique,Luxio,Niveau 2,Shiny rare,kantaro,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-138,138,Pachirisu,70,Électrique,,De base,Shiny rare,saino misaki,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-139,139,Fulguris,110,Électrique,,De base,Shiny rare,Shin Nagasawa,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-140,140,Toxizap,70,Électrique,,De base,Shiny rare,Lee HyunJung,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-141,141,Salarsen,140,Électrique,Toxizap,Niveau 1,Shiny rare,GIDORA,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-142,142,Pohm,60,Électrique,,De base,Shiny rare,kurumitsu,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-143,143,Pohmotte,90,Électrique,Pohm,Niveau 1,Shiny rare,Mizue,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-144,144,Pohmarmotte,130,Électrique,Pohmotte,Niveau 2,Shiny rare,Atsushi Furusawa,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-145,145,Zapétrel,60,Électrique,,De base,Shiny rare,Scav,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-146,146,Fulgulairo,120,Électrique,Zapétrel,Niveau 1,Shiny rare,Nisota Niso,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-147,147,Grodoudou,110,Psy,Rondoudou,Niveau 1,Shiny rare,Kagemaru Himeno,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-148,148,Abra,50,Psy,,De base,Shiny rare,Kouki Saitou,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-149,149,Kadabra,80,Psy,Abra,Niveau 1,Shiny rare,Souichirou Gunjima,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-150,150,Mélo,30,Psy,,De base,Shiny rare,Mizue,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-151,151,Natu,50,Psy,,De base,Shiny rare,sowsow,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-152,152,Xatu,100,Psy,Natu,Niveau 1,Shiny rare,nagimiso,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-153,153,Tarsal,70,Psy,,De base,Shiny rare,yuu,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-154,154,Kirlia,90,Psy,Tarsal,Niveau 1,Shiny rare,Ryuta Fuse,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-155,155,Baudrive,70,Psy,,De base,Shiny rare,Kyoko Umemoto,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-156,156,Grodrive,110,Psy,Baudrive,Niveau 1,Shiny rare,otumami,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-157,157,Mime Jr.,30,Psy,,De base,Shiny rare,Saya Tsuruta,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-158,158,Spiritomb,60,Psy,,De base,Shiny rare,MAHOU,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-159,159,Trousselin,70,Psy,,De base,Shiny rare,yuu,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-160,160,Mimiqui,70,Psy,,De base,Shiny rare,Nelnal,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-161,161,Briochien,90,Psy,Pâtachiot,Niveau 1,Shiny rare,Sanosuke Sakuma,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-162,162,Malvalame,140,Psy,Charbambin,Niveau 1,Shiny rare,Kouki Saitou,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-163,163,Bérasca,70,Psy,Léboulérou,Niveau 1,Shiny rare,Nelnal,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-164,164,Flotillon,30,Psy,,De base,Shiny rare,Kyoko Umemoto,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-165,165,Forgerette,60,Psy,,De base,Shiny rare,yuu,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-166,166,Forgella,90,Psy,Forgerette,Niveau 1,Shiny rare,Yuu Nishida,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-167,167,Forgelina,140,Psy,Forgella,Niveau 2,Shiny rare,Kagemaru Himeno,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-168,168,Tomberro,140,Psy,Toutombe,Niveau 1,Shiny rare,Shin Nagasawa,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-169,169,Férosinge,60,Combat,,De base,Shiny rare,nagimiso,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-170,170,Colossinge,90,Combat,Férosinge,Niveau 1,Shiny rare,Scav,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-171,171,Courrousinge,140,Combat,Colossinge,Niveau 2,Shiny rare,Hitoshi Ariga,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-172,172,Tauros de Paldea,130,Combat,,De base,Shiny rare,nagimiso,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-173,173,Riolu,70,Combat,,De base,Shiny rare,sowsow,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-174,174,Lucario,130,Combat,Riolu,Niveau 1,Shiny rare,Shin Nagasawa,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-175,175,Brutalibré,70,Combat,,De base,Shiny rare,Souichirou Gunjima,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-176,176,Selutin,70,Combat,,De base,Shiny rare,Yuu Nishida,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-177,177,Amassel,100,Combat,Selutin,Niveau 1,Shiny rare,otumami,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-178,178,Gigansel,180,Combat,Amassel,Niveau 2,Shiny rare,Kouki Saitou,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-179,179,Germéclat,40,Combat,,De base,Shiny rare,nagimiso,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-180,180,Axoloto de Paldea,60,Obscurité,,De base,Shiny rare,Nisota Niso,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-181,181,Cornèbre,60,Obscurité,,De base,Shiny rare,Hitoshi Ariga,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-182,182,Farfuret,70,Obscurité,,De base,Shiny rare,Kagemaru Himeno,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-183,183,Dimoret,110,Obscurité,Farfuret,Niveau 1,Shiny rare,Shin Nagasawa,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-184,184,Ténéfix,70,Obscurité,,De base,Shiny rare,nagimiso,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-185,185,Scalpion,70,Obscurité,,De base,Shiny rare,Misa Tsutsui,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-186,186,Scalproie,120,Obscurité,Scalpion,Niveau 1,Shiny rare,Souichirou Gunjima,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-187,187,Scalpereur,170,Obscurité,Scalproie,Niveau 2,Shiny rare,Shin Nagasawa,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-188,188,Dogrino,130,Obscurité,Grondogue,Niveau 1,Shiny rare,Hitoshi Ariga,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-189,189,Gribouraigne,50,Obscurité,,De base,Shiny rare,otumami,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-190,190,Tag-Tag,90,Obscurité,Gribouraigne,Niveau 1,Shiny rare,Scav,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-191,191,Cizayox,140,Métal,Insécateur,Niveau 1,Shiny rare,GOSSAN,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-192,192,Vrombi,60,Métal,,De base,Shiny rare,Masakazu Fukuda,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-193,193,Vrombotor,140,Métal,Vrombi,Niveau 1,Shiny rare,GOSSAN,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-194,194,Sonistrelle,70,Dragon,,De base,Shiny rare,Nelnal,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-195,195,Motorizard,120,Dragon,,De base,Shiny rare,Souichirou Gunjima,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-196,196,Roucool,50,Incolore,,De base,Shiny rare,sowsow,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-197,197,Roucoups,80,Incolore,Roucool,Niveau 1,Shiny rare,Kouki Saitou,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-198,198,Rondoudou,70,Incolore,,De base,Shiny rare,Misa Tsutsui,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-199,199,Doduo,70,Incolore,,De base,Shiny rare,Saya Tsuruta,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-200,200,Dodrio,100,Incolore,Doduo,Niveau 1,Shiny rare,nagimiso,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-201,201,Métamorph,60,Incolore,,De base,Shiny rare,0313,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-202,202,Ronflex,150,Incolore,,De base,Shiny rare,Shigenori Negishi,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-203,203,Goélise,70,Incolore,,De base,Shiny rare,kurumitsu,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-204,204,Bekipan,120,Incolore,Goélise,Niveau 1,Shiny rare,Masakazu Fukuda,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-205,205,Rongourmand,60,Incolore,,De base,Shiny rare,Sanosuke Sakuma,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-206,206,Rongrigou,120,Incolore,Rongourmand,Niveau 1,Shiny rare,Kagemaru Himeno,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-207,207,Gourmelet,70,Incolore,,De base,Shiny rare,Akira Komayama,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-208,208,Fragroin,130,Incolore,Gourmelet,Niveau 1,Shiny rare,Misa Tsutsui,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-209,209,Compagnol,30,Incolore,,De base,Shiny rare,Lee HyunJung,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-210,210,Famignol,70,Incolore,Compagnol,Niveau 1,Shiny rare,Shigenori Negishi,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-211,211,Flamenroule,110,Incolore,,De base,Shiny rare,Akira Komayama,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-212,212,Foretress-ex,270,Plante,Pomdepik,Niveau 1,Chromatique ultra rare,5ban Graphics,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-213,213,Terracruel-ex,270,Plante,Terracool,Niveau 1,Chromatique ultra rare,5ban Graphics,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-214,214,Cléopsytra-ex,260,Plante,Flotillon,Niveau 1,Chromatique ultra rare,takuyoa,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-215,215,Alakazam-ex,310,Psy,Kadabra,Niveau 2,Chromatique ultra rare,PLANETA Tsuji,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-216,216,Mew-ex,180,Psy,,De base,Chromatique ultra rare,aky CG Works,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-217,217,Gardevoir-ex,310,Psy,Kirlia,Niveau 2,Chromatique ultra rare,N-DESIGN Inc.,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-218,218,Floréclat-ex,270,Combat,Germéclat,Niveau 1,Chromatique ultra rare,5ban Graphics,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-219,219,Terraiste de Paldea-ex,280,Obscurité,Axoloto de Paldea,Niveau 1,Chromatique ultra rare,PLANETA Mochizuki,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-220,220,Bruyverne-ex,260,Dragon,Sonistrelle,Niveau 1,Chromatique ultra rare,Eske Yoshinob,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-221,221,Roucarnage-ex,280,Incolore,Roucoups,Niveau 2,Chromatique ultra rare,takuyoa,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-222,222,Grodoudou-ex,250,Incolore,Rondoudou,Niveau 1,Chromatique ultra rare,Saki Hayashiro,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-223,223,Tapatoès-ex,160,Incolore,,De base,Chromatique ultra rare,PLANETA Mochizuki,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-224,224,Triopikeau,90,Eau,Taupikeau,Niveau 1,Illustration rare,Tetsu Kayama,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-225,225,Superdofin,150,Eau,Dofin,Niveau 1,Illustration rare,akagi,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-226,226,Pohm,60,Électrique,,De base,Illustration rare,REND,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-227,227,Clove,,,,,Ultra Rare,GOSSAN,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-228,228,Juge,,,,,Ultra Rare,Hideki Ishikawa,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-229,229,Menzi,,,,,Ultra Rare,Sanosuke Sakuma,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-230,230,Élève de Paldea,,,,,Ultra Rare,Cona Nitanda,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-231,231,Élève de Paldea,,,,,Ultra Rare,Naoki Saito,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-232,232,Mew-ex,180,Psy,,De base,Illustration spéciale rare,USGMEN,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-233,233,Gardevoir-ex,310,Psy,Kirlia,Niveau 2,Illustration spéciale rare,Kuroimori,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-234,234,Dracaufeu-ex,330,Obscurité,Reptincel,Niveau 2,Illustration spéciale rare,AKIRA EGAWA,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-235,235,Pepper,,,,,Illustration spéciale rare,aspara,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-236,236,Clove,,,,,Illustration spéciale rare,Taiga Kayama,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-237,237,Mashynn,,,,,Illustration spéciale rare,hanabushi,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-238,238,Menzi,,,,,Illustration spéciale rare,aspara,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-239,239,Pania,,,,,Illustration spéciale rare,aspara,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-240,240,Chongjian-ex,230,Plante,,De base,Hyper rare,5ban Graphics,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-241,241,Yuyu-ex,190,Feu,,De base,Hyper rare,PLANETA Yamashita,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-242,242,Baojian-ex,220,Eau,,De base,Hyper rare,aky CG Works,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-243,243,Miraidon-ex,220,Électrique,,De base,Hyper rare,5ban Graphics,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-244,244,Dinglu-ex,240,Combat,,De base,Hyper rare,5ban Graphics,holo,Destinées de Paldea,Écarlate et Violet,245
+sv04.5-245,245,Koraidon-ex,230,Combat,,De base,Hyper rare,aky CG Works,holo,Destinées de Paldea,Écarlate et Violet,245

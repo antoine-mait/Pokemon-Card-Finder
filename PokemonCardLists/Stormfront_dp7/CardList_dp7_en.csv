@@ -1,0 +1,107 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+dp7-1,1,Dusknoir,120,Psychic,Dusclops,Stage2,Rare Holo,Mitsuhiro Arita,"reverse, holo",Stormfront,Diamond & Pearl,106
+dp7-2,2,Empoleon,130,Metal,Prinplup,Stage2,Rare Holo,Kouki Saitou,"reverse, holo",Stormfront,Diamond & Pearl,106
+dp7-3,3,Infernape,120,Fighting,Monferno,Stage2,Rare Holo,Mitsuhiro Arita,"reverse, holo",Stormfront,Diamond & Pearl,106
+dp7-4,4,Lumineon,80,Water,Finneon,Stage1,Rare Holo,Kent Kanetsuna,"reverse, holo",Stormfront,Diamond & Pearl,106
+dp7-5,5,Magnezone,120,Metal,Magneton,Stage2,Rare Holo,Masakazu Fukuda,"reverse, holo",Stormfront,Diamond & Pearl,106
+dp7-6,6,Magnezone,120,Lightning,Magneton,Stage2,Rare Holo,Tomoaki Imakuni,"reverse, holo",Stormfront,Diamond & Pearl,106
+dp7-7,7,Mismagius,80,Psychic,Misdreavus,Stage1,Rare Holo,Midori Harada,"reverse, holo",Stormfront,Diamond & Pearl,106
+dp7-8,8,Raichu,90,Lightning,Pikachu,Stage1,Rare Holo,Kagemaru Himeno,"reverse, holo",Stormfront,Diamond & Pearl,106
+dp7-9,9,Regigigas,100,Colorless,,Basic,Rare Holo,Masakazu Fukuda,"reverse, holo",Stormfront,Diamond & Pearl,106
+dp7-10,10,Sceptile,110,Grass,Grovyle,Stage2,Rare Holo,Suwama Chiaki,"normal, reverse, holo",Stormfront,Diamond & Pearl,106
+dp7-11,11,Torterra,140,Fighting,Grotle,Stage2,Rare Holo,Masakazu Fukuda,"reverse, holo",Stormfront,Diamond & Pearl,106
+dp7-12,12,Abomasnow,100,Water,Snover,Stage1,Rare,Mitsuhiro Arita,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-13,13,Bronzong,90,Psychic,Bronzor,Stage1,Rare,Kyoko Umemoto,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-14,14,Cherrim,80,Grass,Cherubi,Stage1,Rare,Suwama Chiaki,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-15,15,Drapion,110,Darkness,Skorupi,Stage1,Rare,Kent Kanetsuna,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-16,16,Drifblim,90,Psychic,Drifloon,Stage1,Rare,Hajime Kusajima,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-17,17,Dusknoir,120,Psychic,Dusclops,Stage2,Rare,Tomoaki Imakuni,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-18,18,Gengar,110,Psychic,Haunter,Stage2,Rare,Hajime Kusajima,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-19,19,Gyarados,130,Water,Magikarp,Stage1,Rare,Midori Harada,"normal, reverse, holo",Stormfront,Diamond & Pearl,106
+dp7-20,20,Machamp,130,Fighting,Machoke,Stage2,Rare,Masakazu Fukuda,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-21,21,Mamoswine,140,Fighting,Piloswine,Stage2,Rare,Kent Kanetsuna,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-22,22,Rapidash,80,Fire,Ponyta,Stage1,Rare,Suwama Chiaki,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-23,23,Roserade,90,Psychic,Roselia,Stage1,Rare,Mitsuhiro Arita,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-24,24,Salamence,140,Colorless,Shelgon,Stage2,Rare,Kagemaru Himeno,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-25,25,Scizor,100,Grass,Scyther,Stage1,Rare,Midori Harada,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-26,26,Skuntank,100,Darkness,Stunky,Stage1,Rare,Kouki Saitou,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-27,27,Staraptor,120,Colorless,Staravia,Stage2,Rare,Kouki Saitou,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-28,28,Steelix,130,Metal,Onix,Stage1,Rare,Naoyo Kimura,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-29,29,Tangrowth,110,Grass,Tangela,Stage1,Rare,Kouki Saitou,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-30,30,Tyranitar,140,Darkness,Pupitar,Stage2,Rare,Kagemaru Himeno,"normal, reverse, holo",Stormfront,Diamond & Pearl,106
+dp7-31,31,Vespiquen,100,Grass,Combee,Stage1,Rare,Kent Kanetsuna,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-32,32,Bibarel,100,Water,Bidoof,Stage1,Uncommon,Kouki Saitou,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-33,33,Budew,40,Psychic,,Basic,Uncommon,Yuka Morii,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-34,34,Dusclops,80,Psychic,Duskull,Stage1,Uncommon,Yukiko Baba,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-35,35,Dusclops,80,Psychic,Duskull,Stage1,Uncommon,Sumiyoshi Kizuki,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-36,36,Electrode,90,Lightning,Voltorb,Stage1,Uncommon,Kent Kanetsuna,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-37,37,Electrode,80,Lightning,Voltorb,Stage1,Uncommon,Sumiyoshi Kizuki,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-38,38,Farfetch'd,70,Colorless,,Basic,Uncommon,Sumiyoshi Kizuki,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-39,39,Grovyle,80,Grass,Treecko,Stage1,Uncommon,Naoyo Kimura,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-40,40,Haunter,80,Psychic,Gastly,Stage1,Uncommon,Yukiko Baba,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-41,41,Machoke,80,Fighting,Machop,Stage1,Uncommon,Sachiko Adachi,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-42,42,Magneton,80,Metal,Magnemite,Stage1,Uncommon,Hajime Kusajima,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-43,43,Magneton,80,Lightning,Magnemite,Stage1,Uncommon,Kent Kanetsuna,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-44,44,Miltank,70,Colorless,,Basic,Uncommon,Kouki Saitou,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-45,45,Pichu,50,Lightning,,Basic,Uncommon,Atsuko Nishida,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-46,46,Piloswine,90,Fighting,Swinub,Stage1,Uncommon,Mitsuhiro Arita,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-47,47,Pupitar,80,Fighting,Larvitar,Stage1,Uncommon,Hajime Kusajima,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-48,48,Sableye,60,Darkness,,Basic,Uncommon,Kyoko Umemoto,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-49,49,Scyther,60,Grass,,Basic,Uncommon,Mitsuhiro Arita,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-50,50,Shelgon,90,Colorless,Bagon,Stage1,Uncommon,Tomokazu Komiya,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-51,51,Skarmory,80,Metal,,Basic,Uncommon,Kagemaru Himeno,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-52,52,Staravia,70,Colorless,Starly,Stage1,Uncommon,Midori Harada,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-53,53,Bagon,50,Colorless,,Basic,Common,Aya Kusube,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-54,54,Bidoof,60,Colorless,,Basic,Common,Yuka Morii,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-55,55,Bronzor,60,Psychic,,Basic,Common,Miki Tanaka,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-56,56,Cherubi,50,Grass,,Basic,Common,Tomokazu Komiya,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-57,57,Combee,50,Grass,,Basic,Common,Miki Tanaka,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-58,58,Drifloon,50,Psychic,,Basic,Common,Atsuko Nishida,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-59,59,Duskull,50,Psychic,,Basic,Common,Kouki Saitou,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-60,60,Duskull,50,Psychic,,Basic,Common,Sachiko Adachi,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-61,61,Finneon,50,Water,,Basic,Common,Kagemaru Himeno,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-62,62,Gastly,50,Psychic,,Basic,Common,Aya Kusube,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-63,63,Larvitar,50,Fighting,,Basic,Common,Yuka Morii,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-64,64,Machop,60,Fighting,,Basic,Common,Midori Harada,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-65,65,Magikarp,30,Water,,Basic,Common,Tomokazu Komiya,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-66,66,Magnemite,50,Metal,,Basic,Common,Aya Kusube,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-67,67,Magnemite,50,Lightning,,Basic,Common,Kent Kanetsuna,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-68,68,Misdreavus,60,Psychic,,Basic,Common,Atsuko Nishida,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-69,69,Onix,90,Fighting,,Basic,Common,Kyoko Umemoto,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-70,70,Pikachu,70,Lightning,,Basic,Common,Hajime Kusajima,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-71,71,Ponyta,50,Fire,,Basic,Common,Atsuko Nishida,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-72,72,Roselia,70,Psychic,,Basic,Common,Sumiyoshi Kizuki,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-73,73,Skorupi,60,Grass,,Basic,Common,Sachiko Adachi,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-74,74,Snover,50,Water,,Basic,Common,Kagemaru Himeno,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-75,75,Starly,50,Colorless,,Basic,Common,Atsuko Nishida,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-76,76,Stunky,60,Darkness,,Basic,Common,Tomokazu Komiya,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-77,77,Swinub,50,Fighting,,Basic,Common,Yukiko Baba,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-78,78,Tangela,70,Grass,,Basic,Common,Yukiko Baba,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-79,79,Treecko,50,Grass,,Basic,Common,Naoyo Kimura,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-80,80,Voltorb,60,Lightning,,Basic,Common,Kent Kanetsuna,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-81,81,Voltorb,60,Lightning,,Basic,Common,Miki Tanaka,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-82,82,Conductive Quarry,,,,,Uncommon,Ryo Ueda,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-83,83,Energy Link,,,,,Uncommon,Ryo Ueda,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-84,84,Energy Switch,,,,,Uncommon,Ryo Ueda,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-85,85,Great Ball,,,,,Uncommon,Kent Kanetsuna,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-86,86,Luxury Ball,,,,,Uncommon,Ryo Ueda,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-87,87,Marley's Request,,,,,Uncommon,Ken Sugimori,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-88,88,Poké Blower +,,,,,Uncommon,Ryo Ueda,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-89,89,Poké Drawer +,,,,,Uncommon,Ryo Ueda,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-90,90,Poké Healer +,,,,,Uncommon,Ryo Ueda,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-91,91,Premier Ball,,,,,Uncommon,Ryo Ueda,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-92,92,Potion,,,,,Common,Shin-ichi Yoshikawa,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-93,93,Switch,,,,,Common,Ryo Ueda,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-94,94,Cyclone Energy,,,,,Uncommon,Takumi Akabane,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-95,95,Warp Energy,,,,,Uncommon,Takumi Akabane,"normal, reverse",Stormfront,Diamond & Pearl,106
+dp7-96,96,Dusknoir,140,Psychic,,LEVEL-UP,Rare Holo LV.X,Shizurow,holo,Stormfront,Diamond & Pearl,106
+dp7-97,97,Heatran,120,Fire,,LEVEL-UP,Rare Holo LV.X,Shizurow,holo,Stormfront,Diamond & Pearl,106
+dp7-98,98,Machamp,150,Fighting,,LEVEL-UP,Rare Holo LV.X,Ryo Ueda,holo,Stormfront,Diamond & Pearl,106
+dp7-99,99,Raichu,110,Lightning,,LEVEL-UP,Rare Holo LV.X,Ryo Ueda,holo,Stormfront,Diamond & Pearl,106
+dp7-100,100,Regigigas,150,Colorless,,LEVEL-UP,Rare Holo LV.X,Shizurow,holo,Stormfront,Diamond & Pearl,106
+dp7-101,101,Charmander,50,Fire,,Basic,Rare,Mitsuhiro Arita,holo,Stormfront,Diamond & Pearl,106
+dp7-102,102,Charmeleon,80,Fire,Charmander,Stage1,Rare,Mitsuhiro Arita,holo,Stormfront,Diamond & Pearl,106
+dp7-103,103,Charizard,120,Fire,Charmeleon,Stage2,Rare,Mitsuhiro Arita,holo,Stormfront,Diamond & Pearl,106
+dp7-SH1,SH1,Drifloon,50,Psychic,,Basic,Rare Holo LV.X,Atsuko Nishida,holo,Stormfront,Diamond & Pearl,106
+dp7-SH2,SH2,Duskull,60,Psychic,,Basic,Rare Holo LV.X,Kouki Saitou,holo,Stormfront,Diamond & Pearl,106
+dp7-SH3,SH3,Voltorb,60,Lightning,,Basic,Rare Holo LV.X,Kent Kanetsuna,holo,Stormfront,Diamond & Pearl,106

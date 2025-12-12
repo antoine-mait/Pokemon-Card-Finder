@@ -1,0 +1,18 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+pop2-1,1,Entei,70,Fire,,Basic,Rare,Kouki Saitou,"normal, holo",POP Series 2,POP,17
+pop2-2,2,Pidgeot,80,Colorless,Pidgeotto,Stage2,Rare,Ken Sugimori,"normal, holo",POP Series 2,POP,17
+pop2-3,3,Raikou,70,Lightning,,Basic,Rare,Kouki Saitou,"normal, holo",POP Series 2,POP,17
+pop2-4,4,Suicune,70,Water,,Basic,Rare,Kouki Saitou,"normal, holo",POP Series 2,POP,17
+pop2-5,5,Tauros,70,Colorless,,Basic,Rare,Kouki Saitou,holo,POP Series 2,POP,17
+pop2-6,6,Venusaur,120,Grass,Ivysaur,Stage2,Rare,Mitsuhiro Arita,"normal, holo",POP Series 2,POP,17
+pop2-7,7,Ivysaur,80,Grass,Bulbasaur,Stage1,Uncommon,Ken Sugimori,normal,POP Series 2,POP,17
+pop2-8,8,Mr. Briney’s Compassion,,,,,Uncommon,Ken Sugimori,normal,POP Series 2,POP,17
+pop2-9,9,Multi Technical Machine 01,,,,,Uncommon,"""Big Mama"" Tagawa",,POP Series 2,POP,17
+pop2-10,10,Pokémon Park,,,,,Uncommon,Kazuo Yazawa,normal,POP Series 2,POP,17
+pop2-11,11,TV Reporter,,,,,Uncommon,Ken Sugimori,"normal, reverse, holo",POP Series 2,POP,17
+pop2-12,12,Bulbasaur,40,Grass,,Basic,Common,Midori Harada,"normal, reverse, holo",POP Series 2,POP,17
+pop2-13,13,Cacnea,40,Grass,,Basic,Common,Ken Sugimori,"normal, reverse, holo",POP Series 2,POP,17
+pop2-14,14,Luvdisc,60,Water,,Basic,Common,Atsuko Nishida,"normal, reverse, holo",POP Series 2,POP,17
+pop2-15,15,Phanpy,50,Fighting,,Basic,Common,Tomokazu Komiya,"normal, reverse, holo",POP Series 2,POP,17
+pop2-16,16,Pikachu,40,Lightning,,Basic,Common,Yuka Morii,"normal, reverse, holo",POP Series 2,POP,17
+pop2-17,17,Celebi ex,80,Psychic,,Basic,Rare,Ryo Ueda,"normal, reverse, holo",POP Series 2,POP,17

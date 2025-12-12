@@ -1,0 +1,237 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+smp-SM01,SM01,Bauz,50,Pflanze,,Basis,Selten,Mitsuhiro Arita,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM02,SM02,Flamiau,60,Feuer,,Basis,Selten,Megumi Mizutani,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM03,SM03,Robball,60,Wasser,,Basis,Selten,match,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM05,SM05,Relaxo GX,190,Farblos,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM06,SM06,Wuffels,60,Kampf,,Basis,Selten,match,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM07,SM07,Peppeck,60,Farblos,,Basis,Selten,match,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM08,SM08,Flamiau,60,Feuer,,Basis,Selten,Kouki Saitou,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM09,SM09,Togedemaru,70,Elektro,,Basis,Selten,match,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM10,SM10,Lamellux,100,Pflanze,,Rang 1,Selten,Mizue,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM100,SM100,Lucario GX,210,Kampf,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM101,SM101,Morgenschwingen-Necrozma GX,180,Psycho,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM102,SM102,Abendmähne-Necrozma GX,190,Metall,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM103,SM103,Lunala GX,230,Psycho,,Rang 2,Selten,PLANETA,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM104,SM104,Solgaleo GX,250,Metall,,Rang 2,Selten,PLANETA,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM105,SM105,Wolwerock,120,Kampf,,Rang 1,Selten,Shin Nagasawa,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM106,SM106,Morgenschwingen-Necrozma,130,Psycho,,Basis,Selten,Shin Nagasawa,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM107,SM107,Abendmähne-Necrozma,130,Metall,,Basis,Selten,Shin Nagasawa,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM11,SM11,Knirfish,110,Wasser,,Basis,Selten,Mizue,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM115,SM115,Schabelle,110,Pflanze,,Basis,Selten,You Iribi,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM116,SM116,Voltriant,120,Elektro,,Basis,Selten,TOKIYA,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM117,SM117,Calamanero,90,Psycho,,Rang 1,Selten,Shin Nagasawa,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM118,SM118,Wolwerock,120,Kampf,,Rang 1,Selten,sui,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM119,SM119,Owei,50,Pflanze,,Basis,Selten,OOYAMA,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM12,SM12,Quartermak,110,Kampf,,Basis,Selten,Naoki Saito,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM120,SM120,Wuffels,50,Kampf,,Basis,Selten,Hideki Ishikawa,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM121,SM121,Raikou GX,170,Elektro,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM122,SM122,Zygarde GX,180,Kampf,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM123,SM123,Morgenschwingen-Necrozma,130,Psycho,,Basis,Selten,nagimiso,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM124,SM124,Abendmähne-Necrozma,130,Metall,,Basis,Selten,nagimiso,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM125,SM125,Agoyon GX,210,Psycho,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM126,SM126,Ultra-Necrozma GX,190,Drache,,Basis,Selten,PLANETA Otani,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM127,SM127,Alola-Sandamer,120,Metall,,Rang 1,Selten,kirisAki,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM128,SM128,Alola Vulnona,110,Fee,,Rang 1,Selten,kirisAki,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM129,SM129,Kyogre,130,Wasser,,Basis,Selten,Anesaki Dynamic,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM13,SM13,Kommandutan,120,Farblos,,Basis,Selten,Mitsuhiro Arita,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM130,SM130,Voltenso,110,Elektro,,Rang 1,Selten,Ryota Murayama,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM131,SM131,Kaguron,140,Metall,,Basis,Selten,Masakazu Fukuda,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM132,SM132,Enekoro,90,Farblos,,Rang 1,Selten,0313,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM133,SM133,Voltolos GX,180,Elektro,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM134,SM134,Boreos GX,180,Farblos,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM135,SM135,Latias,110,Drache,,Basis,Selten,Kouki Saitou,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM136,SM136,Latios,120,Drache,,Basis,Selten,Kouki Saitou,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM137,SM137,Reshiram GX,180,Feuer,,Basis,Selten,PLANETA Otani,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM138,SM138,Zekrom GX,180,Elektro,,Basis,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM139,SM139,Brutalanda GX,250,Drache,,Rang 2,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM14,SM14,Wolwerock GX,200,Kampf,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM140,SM140,Brutalanda,150,Drache,,Rang 2,Selten,Mitsuhiro Arita,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM141,SM141,Weißes Kyurem GX,190,Drache,,Basis,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM142,SM142,Kyurem,130,Drache,,Basis,Selten,TOKIYA,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM143,SM143,Lavados,120,Feuer,,Basis,Selten,Hitoshi Ariga,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM144,SM144,Arktos,120,Wasser,,Basis,Selten,Hitoshi Ariga,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM145,SM145,Zapdos,120,Elektro,,Basis,Selten,Hitoshi Ariga,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM146,SM146,Folipurba GX,200,Pflanze,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM147,SM147,Glaziola GX,200,Wasser,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM148,SM148,Festival der Champions,,,,,Selten,Naoki Saito,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM149,SM149,Suicune,110,Wasser,,Basis,Selten,Anesaki Dynamic,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM15,SM15,Zygarde,130,Kampf,,Basis,Selten,kawayoo,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM150,SM150,Raikou,120,Elektro,,Basis,Selten,Kagemaru Himeno,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM151,SM151,Giratina,130,Psycho,,Basis,Selten,Hasuno,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM152,SM152,Kapu-Fala,110,Fee,,Basis,Selten,Mizue,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM153,SM153,Bauz,60,Pflanze,,Basis,Selten,Masakazu Fukuda,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM154,SM154,Molunk,60,Feuer,,Basis,Selten,Naoki Saito,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM155,SM155,Seedraking GX,230,Wasser,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM156,SM156,Dragoran GX,250,Drache,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM157,SM157,Pikachu,60,Elektro,,Basis,Selten,Megumi Mizutani,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM158,SM158,Glurak,150,Feuer,,Rang 2,Selten,Anesaki Dynamic,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM159,SM159,Zapdos,110,Elektro,,Basis,Selten,Misa Tsutsui,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM16,SM16,Solgaleo GX,250,Metall,,,Selten,PLANETA,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM160,SM160,Nidoqueen,160,Psycho,,Rang 2,Selten,Midori Harada,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM161,SM161,Jirachi,70,Metall,,Basis,Selten,Mizue,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM162,SM162,Pikachu,60,Elektro,,Basis,Selten,Saya Tsuruta,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM163,SM163,Mimigma,70,Fee,,Basis,Selten,Saya Tsuruta,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM164,SM164,Deoxys,110,Psycho,,Basis,Selten,You Iribi,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM165,SM165,Ultra-Necrozma,130,Drache,,Basis,Selten,Shin Nagasawa,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM166,SM166,Karpador & Wailord GX,300,Wasser,,,Selten,Mitsuhiro Arita,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM167,SM167,Celebi & Bisaflor GX,270,Pflanze,,,Ultra Selten,Shin Nagasawa,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM168,SM168,Pikachu & Zekrom GX,240,Elektro,,,Ultra Selten,kawayoo,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM169,SM169,Evoli & Relaxo GX,270,Farblos,,,Ultra Selten,Tomokazu Komiya,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM17,SM17,Lunala GX,250,Psycho,,,Selten,PLANETA,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM170,SM170,Meisterdetektiv Pikachu,90,Elektro,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM171,SM171,Flamara GX,210,Feuer,,,Selten,PLANETA Otani,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM172,SM172,Aquana GX,210,Wasser,,,Selten,PLANETA Otani,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM173,SM173,Blitza GX,200,Elektro,,,Selten,PLANETA Otani,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM174,SM174,Evoli GX,160,Farblos,,,Selten,PLANETA Otani,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM175,SM175,Evoli GX,160,Farblos,,,Selten,PLANETA Otani,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM176,SM176,Evoli GX,160,Farblos,,,Selten,PLANETA Otani,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM177,SM177,Meltan,60,Metall,,Basis,Selten,Shin Nagasawa,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM178,SM178,Melmetal GX,220,Metall,,,Selten,PLANETA Otani,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM179,SM179,Volcanion,120,Feuer,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM18,SM18,Alola-Sandamer,110,Wasser,,Rang 1,Selten,TOKIYA,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM180,SM180,Muramura,120,Kampf,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM181,SM181,Melmetal,150,Metall,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM182,SM182,Snobilikat,100,Farblos,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM183,SM183,Pikachu,70,Elektro,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM184,SM184,Evoli,50,Farblos,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM185,SM185,Tornupto,150,Feuer,,Rang 2,Selten,Hideki Ishikawa,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM186,SM186,Flamara,110,Feuer,,Rang 1,Selten,Shin Nagasawa,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM187,SM187,Alola-Knogga GX,200,Feuer,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM188,SM188,Kangama GX,180,Farblos,,,Selten,aky CG Works,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM189,SM189,Turtok GX,240,Wasser,,,Selten,sadaji,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM19,SM19,Choreogel,90,Psycho,,Basis,Selten,TOKIYA,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM190,SM190,Meisterdetektiv Pikachu,90,Elektro,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM191,SM191,Mewtu & Mew GX,270,Psycho,,,Selten,sui,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM192,SM192,Lucario & Melmetal GX,260,Metall,,,Selten,nagimiso,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM193,SM193,Knakrack & Giratina GX,270,Drache,,,Selten,Anesaki Dynamic,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM194,SM194,Meisterdetektiv Pikachu,90,Elektro,,Basis,Selten,MPC Film,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM195,SM195,Glurak GX,250,Feuer,,,Selten,Framestore,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM196,SM196,Mewtu GX,190,Psycho,,,Selten,MPC Film,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM197,SM197,Quajutsu GX,230,Wasser,,,Selten,MPC Film,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM198,SM198,Bisasam,70,Pflanze,,Basis,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM199,SM199,Enton,70,Wasser,,Basis,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM20,SM20,Pampross,140,Kampf,,Rang 1,Selten,Mitsuhiro Arita,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM200,SM200,Snubbull,60,Fee,,Basis,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM201,SM201,Reshiram & Glurak GX,270,Feuer,,Basis,Ultra Selten,Ryota Murayama,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM202,SM202,Hutsassa,100,Pflanze,,Rang 1,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM203,SM203,Kapu-Kime,120,Wasser,,Basis,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM204,SM204,Necrozma,130,Psycho,,Basis,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM205,SM205,Terrakium,140,Kampf,,Basis,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM206,SM206,Pikachu,60,Elektro,,Basis,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM207,SM207,Mogelbaum,110,Kampf,,Basis,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM208,SM208,Donarion,150,Elektro,,Rang 2,Selten,Misa Tsutsui,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM209,SM209,Muramura,120,Kampf,,Basis,Selten,Shin Nagasawa,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM21,SM21,Sen-Long,120,Drache,,Basis,Selten,match,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM210,SM210,Lavados & Zapdos & Arktos GX,300,Farblos,,Basis,Selten,HYOGONOSUKE,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM211,SM211,Glurak GX,250,Feuer,,Rang 2,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM212,SM212,Garados GX,230,Wasser,,Rang 1,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM213,SM213,Raichu GX,210,Elektro,,Rang 1,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM214,SM214,Mewtu,120,Psycho,,Basis,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM215,SM215,Mew,60,Psycho,,Basis,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM216,SM216,Porygon-Z GX,240,Farblos,,Rang 2,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM217,SM217,Trombork & Zwirrfinst GX,270,Psycho,,Basis,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM218,SM218,Masskito,130,Pflanze,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM219,SM219,Entei,130,Feuer,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM22,SM22,Bauz,60,Pflanze,,Basis,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM220,SM220,Phione,70,Wasser,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM221,SM221,Kopplosio,110,Psycho,,Basis,Selten,Shin Nagasawa,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM222,SM222,Traunmagil,110,Psycho,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM223,SM223,Terrakium,140,Kampf,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM224,SM224,Celebi,70,Psycho,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM225,SM225,Victini,70,Feuer,,Basis,Selten,Nagimiso,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM226,SM226,Glurak,150,Feuer,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM227,SM227,Pikachu,60,Elektro,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM228,SM228,Armored Mewtwo,120,Psycho,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM229,SM229,Bisaflor & Serpifeu GX,270,Pflanze,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM23,SM23,Flamiau,70,Feuer,,Basis,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM230,SM230,Glurak & Rutena GX,270,Feuer,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM231,SM231,Festival der Champions,,,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM232,SM232,Pikachu GX,160,Elektro,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM233,SM233,Evoli GX,160,Farblos,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM234,SM234,Pikachu,60,Elektro,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM235,SM235,Evoli,60,Farblos,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM236,SM236,Alola-Sandamer GX,200,Wasser,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM237,SM237,Folipurba,110,Pflanze,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM238,SM238,Glaziola,110,Wasser,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM239,SM239,Karippas GX,250,Kampf,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM24,SM24,Robball,70,Wasser,,Basis,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM240,SM240,Psiana & Deoxys GX,260,Psycho,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM241,SM241,Nachtara & Darkrai GX,270,Unlicht,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM242,SM242,Evoli GX,160,Farblos,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM243,SM243,Regigigas,150,Farblos,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM244,SM244,Griffel,60,Farblos,,,Selten,,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM25,SM25,Mantidea,100,Pflanze,,Rang 1,Selten,Mitsuhiro Arita,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM26,SM26,Fruyal,140,Pflanze,,Rang 2,Selten,Naoki Saito,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM27,SM27,Tortunator,130,Feuer,,Basis,Selten,TOKIYA,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM28,SM28,Donarion,150,Elektro,,Rang 2,Selten,Shin Nagasawa,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM29,SM29,Mimigma,70,Psycho,,Basis,Selten,Mitsuhiro Arita,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM30,SM30,Kapu-Riki,110,Elektro,,Basis,Selten,kirisAki,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM31,SM31,Kapu-Riki,110,Elektro,,Basis,Selten,kirisAki,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM32,SM32,Kapu-Toro GX,180,Pflanze,,,Selten,PLANETA,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM33,SM33,Kapu-Riki GX,170,Elektro,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM34,SM34,Kosturso GX,210,Farblos,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM35,SM35,Psiana GX,200,Psycho,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM36,SM36,Nachtara GX,200,Unlicht,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM37,SM37,Silvarro GX,240,Pflanze,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM38,SM38,Fuegro GX,250,Feuer,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM39,SM39,Primarene GX,250,Wasser,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM40,SM40,Miniras,60,Drache,,Basis,Selten,Naoki Saito,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM41,SM41,Koalelu,80,Farblos,,Basis,Selten,nagimiso,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM42,SM42,Cosmog,60,Psycho,,Basis,Selten,Megumi Mizutani,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM43,SM43,Alola-Mauzi,60,Unlicht,,Basis,Selten,Megumi Mizutani,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM44,SM44,Togedemaru,70,Elektro,,Basis,Selten,Sanosuke Sakuma,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM45,SM45,Kapu-Fala,110,Psycho,,Basis,Selten,You Iribi,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM46,SM46,Vipitis,100,Psycho,,Basis,Selten,Eri Yamaki,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM47,SM47,Krawell,140,Kampf,,Rang 1,Selten,Mitsuhiro Arita,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM48,SM48,Zygarde,150,Drache,,Basis,Selten,Masakazu Fukuda,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM49,SM49,Kosturso,120,Farblos,,Rang 1,Selten,Mitsuhiro Arita,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM50,SM50,Kapu-Riki GX,170,Elektro,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM51,SM51,Alola-Mauzi,60,Unlicht,,Basis,Selten,sui,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM52,SM52,Tectass,130,Pflanze,,Rang 1,Selten,Naoki Saito,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM53,SM53,Moruda,120,Psycho,,Basis,Selten,Kouki Saitou,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM54,SM54,Lucario,120,Kampf,,Rang 1,Selten,Anesaki Dynamic,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM55,SM55,Silvarro,140,Pflanze,,Rang 2,Selten,Kouki Saitou,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM56,SM56,Fruyal GX,230,Pflanze,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM57,SM57,Ho-Oh GX,190,Feuer,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM58,SM58,Necrozma GX,180,Psycho,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM59,SM59,Marshadow GX,150,Kampf,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM60,SM60,Glurak GX,250,Feuer,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM61,SM61,Kapu-Toro,130,Pflanze,,Basis,Selten,Megumi Mizutani,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM62,SM62,Tectass GX,210,Pflanze,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM63,SM63,Amfira GX,200,Feuer,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM64,SM64,Amigento,130,Farblos,,Rang 1,Selten,Mitsuhiro Arita,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM65,SM65,Alola-Raichu,110,Elektro,,Rang 1,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM66,SM66,Schabelle GX,170,Pflanze,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM67,SM67,Kaguron GX,200,Metall,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM68,SM68,Voltriant GX,180,Elektro,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM69,SM69,Masskito GX,190,Kampf,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM70,SM70,Schimmerndes Ho-Oh,130,Feuer,,Basis,Selten,Hitoshi Ariga,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM71,SM71,Grandiras GX,240,Drache,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM72,SM72,Alola-Raichu,110,Elektro,,Rang 1,Selten,Akira Komayama,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM73,SM73,Amfira,110,Psycho,,Rang 1,Selten,Shin Nagasawa,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM74,SM74,Regirock,130,Kampf,,Basis,Selten,kawayoo,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM75,SM75,Registeel,130,Metall,,Basis,Selten,Mitsuhiro Arita,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM76,SM76,Pikachu,70,Elektro,,Basis,Selten,match,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM77,SM77,Mewtu,120,Psycho,,Basis,Selten,Kouki Saitou,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM78,SM78,Festival der Champions,,,,,Selten,Naoki Saito,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM79,SM79,Schimmerndes Celebi,70,Pflanze,,Basis,Selten,Sanosuke Sakuma,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM80,SM80,Ho-Oh GX,190,Feuer,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM81,SM81,Pikachu,70,Elektro,,Basis,Selten,Sanosuke Sakuma,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM82,SM82,Schimmerndes Lugia,130,Farblos,,Basis,Selten,Hitoshi Ariga,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM83,SM83,Zorua,60,Unlicht,,Basis,Selten,kodama,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM84,SM84,Zoroark GX,210,Unlicht,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM85,SM85,Marshadow,70,Psycho,,Basis,Selten,Emi Ando,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM86,SM86,Pikachu,60,Elektro,,Basis,Selten,kodama,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM87,SM87,Latias,100,Psycho,,Basis,Selten,Mitsuhiro Arita,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM88,SM88,Latios,110,Psycho,,Basis,Selten,Mitsuhiro Arita,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM89,SM89,Zoroark,120,Unlicht,,Rang 1,Selten,Misa Tsutsui,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM90,SM90,Raichu GX,210,Elektro,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM91,SM91,Amigento GX,210,Farblos,,,Selten,5ban Graphics,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM92,SM92,Kapu-Kime,120,Wasser,,Basis,Selten,Sanosuke Sakuma,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM93,SM93,Marshadow,70,Psycho,,Basis,Selten,kirisAki,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM94,SM94,Wasch-Rotom,90,Wasser,,Basis,Selten,Shigenori Negishi,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM95,SM95,Lucario,110,Kampf,,Rang 1,Selten,Mitsuhiro Arita,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM96,SM96,Heatran,130,Metall,,Basis,Selten,tetsuya koizumi,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM97,SM97,Manguspektor,110,Farblos,,Rang 1,Selten,nagimiso,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM98,SM98,Pikachu,60,Elektro,,Basis,Selten,Saya Tsuruta,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236
+smp-SM99,SM99,Mimigma,70,Psycho,,Basis,Selten,Megumi Mizutani,"normal, reverse, holo",SM Promokarten,Sonne & Mond,236

@@ -1,0 +1,217 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+swsh1-1,1,Celebi V,180,Pflanze,,Basis,Holografisch Selten V,PLANETA Igarashi,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-2,2,Roselia,70,Pflanze,,Basis,Häufig,sowsow,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-3,3,Roselia,70,Pflanze,,Basis,Häufig,Naoyo Kimura,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-4,4,Roserade,120,Pflanze,Roselia,Rang 1,Selten,chibi,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-5,5,Waumboll,60,Pflanze,,Basis,Häufig,ryoma uratsuka,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-6,6,Elfun,100,Pflanze,Waumboll,Rang 1,Selten,kodama,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-7,7,Maracamba,110,Pflanze,,Basis,Häufig,Atsuko Nishida,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-8,8,Fermicula,110,Pflanze,,Basis,Selten,Miki Tanaka,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-9,9,Moruda V,220,Pflanze,,Basis,Holografisch Selten V,Eske Yoshinob,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-10,10,Chimpep,60,Pflanze,,Basis,Häufig,Naoki Saito,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-11,11,Chimpep,70,Pflanze,,Basis,Häufig,Kouki Saitou,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-12,12,Chimstix,100,Pflanze,Chimpep,Rang 1,Ungewöhnlich,Megumi Mizutani,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-13,13,Chimstix,100,Pflanze,Chimpep,Rang 1,Ungewöhnlich,Akira Komayama,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-14,14,Gortrom,170,Pflanze,Chimstix,Rang 2,Holografisch Selten,Anesaki Dynamic,"reverse, holo",Schwert & Schild,Schwert & Schild,216
+swsh1-15,15,Gortrom,190,Pflanze,Chimstix,Rang 2,Selten,Shin Nagasawa,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-16,16,Sensect,50,Pflanze,,Basis,Häufig,nagimiso,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-17,17,Sensect,40,Pflanze,,Basis,Häufig,Mina Nakai,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-18,18,Keradar,70,Pflanze,Sensect,Rang 1,Ungewöhnlich,Misa Tsutsui,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-19,19,Maritellit,130,Pflanze,Keradar,Rang 2,Selten,Hitoshi Ariga,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-20,20,Cottini,50,Pflanze,,Basis,Häufig,Saya Tsuruta,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-21,21,Cottomi,80,Pflanze,Cottini,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-22,22,Vulpix,70,Feuer,,Basis,Häufig,Taira Akitsu,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-23,23,Vulnona,120,Feuer,Vulpix,Rang 1,Selten,Megumi Higuchi,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-24,24,Qurtel V,210,Feuer,,Basis,Holografisch Selten V,Ayaka Yoshida,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-25,25,Victini V,190,Feuer,,Basis,Holografisch Selten V,PLANETA Tsuji,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-26,26,Furnifraß,110,Feuer,,Basis,Ungewöhnlich,kawayoo,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-27,27,Molunk,70,Feuer,,Basis,Häufig,SATOSHI NAKAI,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-28,28,Amfira,120,Feuer,Molunk,Rang 1,Ungewöhnlich,Tomokazu Komiya,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-29,29,Tortunator,130,Feuer,,Basis,Selten,KEIICHIRO ITO,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-30,30,Hopplo,60,Feuer,,Basis,Häufig,kirisAki,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-31,31,Hopplo,70,Feuer,,Basis,Häufig,Kagemaru Himeno,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-32,32,Kickerlo,90,Feuer,Hopplo,Rang 1,Ungewöhnlich,Mizue,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-33,33,Kickerlo,90,Feuer,Hopplo,Rang 1,Ungewöhnlich,Akira Komayama,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-34,34,Liberlo,170,Feuer,Kickerlo,Rang 2,Holografisch Selten VMAX,Kouki Saitou,"reverse, holo",Schwert & Schild,Schwert & Schild,216
+swsh1-35,35,Liberlo,170,Feuer,Kickerlo,Rang 2,Holografisch Selten VMAX,Naoki Saito,"reverse, holo",Schwert & Schild,Schwert & Schild,216
+swsh1-36,36,Liberlo,170,Feuer,Kickerlo,Rang 2,Selten,Shin Nagasawa,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-37,37,Thermopod,70,Feuer,,Basis,Häufig,Akira Komayama,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-38,38,Thermopod,70,Feuer,,Basis,Häufig,Kouki Saitou,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-39,39,Infernopod,130,Feuer,Thermopod,Rang 1,Selten,Anesaki Dynamic,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-40,40,Muschas,70,Wasser,,Basis,Häufig,Sekio,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-41,41,Austos,130,Wasser,Muschas,Rang 1,Selten,MAHOU,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-42,42,Krabby,80,Wasser,,Basis,Häufig,ryoma uratsuka,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-43,43,Krabby,80,Wasser,,Basis,Häufig,miki kudo,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-44,44,Kingler,130,Wasser,Krabby,Rang 1,Ungewöhnlich,tetsuya koizumi,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-45,45,Goldini,70,Wasser,,Basis,Häufig,Suwama Chiaki,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-46,46,Goldini,70,Wasser,,Basis,Häufig,SATOSHI NAKAI,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-47,47,Golking,110,Wasser,Goldini,Rang 1,Ungewöhnlich,Shibuzoh.,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-48,48,Lapras,130,Wasser,,Basis,Selten,Kazuma Koda,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-49,49,Lapras V,210,Wasser,,Basis,Holografisch Selten V,Hasuno,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-50,50,Lapras VMAX,320,Wasser,Lapras V,VMAX,Holografisch Selten VMAX,5ban Graphics,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-51,51,Baldorfish,90,Wasser,,Basis,Ungewöhnlich,Midori Harada,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-52,52,Mantax,110,Wasser,,Basis,Ungewöhnlich,Jumpei Akasaka,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-53,53,Keldeo V,210,Wasser,,Basis,Holografisch Selten V,PLANETA Igarashi,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-54,54,Memmeon,60,Wasser,,Basis,Häufig,Megumi Mizutani,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-55,55,Memmeon,70,Wasser,,Basis,Häufig,Hitoshi Ariga,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-56,56,Phlegleon,90,Wasser,Memmeon,Rang 1,Ungewöhnlich,Naoki Saito,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-57,57,Phlegleon,90,Wasser,Memmeon,Rang 1,Ungewöhnlich,Mizue,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-58,58,Intelleon,160,Wasser,Phlegleon,Rang 2,Holografisch Selten,Kagemaru Himeno,"reverse, holo",Schwert & Schild,Schwert & Schild,216
+swsh1-59,59,Intelleon,160,Wasser,Phlegleon,Rang 2,Selten,Akira Komayama,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-60,60,Kamehaps,80,Wasser,,Basis,Häufig,Mina Nakai,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-61,61,Kamalm,130,Wasser,Kamehaps,Rang 1,Selten,Hitoshi Ariga,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-62,62,Urgl,110,Wasser,,Basis,Selten,Shin Nagasawa,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-63,63,Snomnom,50,Wasser,,Basis,Häufig,Mina Nakai,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-64,64,Mottineva,90,Wasser,Snomnom,Rang 1,Holografisch Selten,Kagemaru Himeno,"reverse, holo",Schwert & Schild,Schwert & Schild,216
+swsh1-65,65,Pikachu,60,Elektro,,Basis,Häufig,Ryuta Fuse,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-66,66,Raichu,130,Elektro,Pikachu,Rang 1,Selten,Hasuno,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-67,67,Lampi,70,Elektro,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-68,68,Lampi,60,Elektro,,Basis,Häufig,Yukiko Baba,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-69,69,Lanturn,120,Elektro,Lampi,Rang 1,Selten,Naoyo Kimura,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-70,70,Wattzapf,50,Elektro,,Basis,Häufig,Motofumi Fujiwara,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-71,71,Voltula,100,Elektro,Wattzapf,Rang 1,Ungewöhnlich,otumami,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-72,72,Kapu-Riki V,200,Elektro,,Basis,Holografisch Selten V,PLANETA Tsuji,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-73,73,Voldi,70,Elektro,,Basis,Häufig,Akira Komayama,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-74,74,Voldi,70,Elektro,,Basis,Häufig,Saya Tsuruta,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-75,75,Bellektro,130,Elektro,Voldi,Rang 1,Holografisch Selten,Misa Tsutsui,"reverse, holo",Schwert & Schild,Schwert & Schild,216
+swsh1-76,76,Bellektro,120,Elektro,Voldi,Rang 1,Holografisch Selten,Kouki Saitou,"reverse, holo",Schwert & Schild,Schwert & Schild,216
+swsh1-77,77,Britzigel,80,Elektro,,Basis,Häufig,Akira Komayama,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-78,78,Morpeko,90,Elektro,,Basis,Selten,Megumi Mizutani,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-79,79,Morpeko V,170,Elektro,,Basis,Holografisch Selten V,5ban Graphics,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-80,80,Morpeko VMAX,300,Elektro,Morpeko-V,VMAX,Holografisch Selten VMAX,5ban Graphics,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-81,81,Galar-Ponita,70,Psycho,,Basis,Häufig,Saya Tsuruta,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-82,82,Galar-Gallopa,100,Psycho,Galar-Ponita,Rang 1,Selten,You Iribi,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-83,83,Nebulak,60,Psycho,,Basis,Häufig,Taira Akitsu,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-84,84,Alpollo,70,Psycho,Nebulak,Rang 1,Ungewöhnlich,HYOGONOSUKE,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-85,85,Gengar,110,Psycho,Alpollo,Rang 2,Holografisch Selten,Eri Yamaki,"reverse, holo",Schwert & Schild,Schwert & Schild,216
+swsh1-86,86,Woingenau V,220,Psycho,,Basis,Holografisch Selten V,Ayaka Yoshida,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-87,87,Somniam,70,Psycho,,Basis,Häufig,Asako Ito,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-88,88,Somnivora,120,Psycho,Somniam,Rang 1,Selten,MAHOU,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-89,89,Fatalitee,30,Psycho,,Basis,Häufig,Saya Tsuruta,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-90,90,Mortipot,60,Psycho,Fatalitee,Rang 1,Selten,Shin Nagasawa,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-91,91,Servol V,180,Psycho,,Basis,Holografisch Selten V,5ban Graphics,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-92,92,Digda,60,Kampf,,Basis,Häufig,Hasegawa Saki,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-93,93,Digdri,90,Kampf,Digda,Rang 1,Ungewöhnlich,Kyoko Umemoto,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-94,94,Kicklee,120,Kampf,,Basis,Ungewöhnlich,Shigenori Negishi,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-95,95,Nockchan,120,Kampf,,Basis,Ungewöhnlich,Shigenori Negishi,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-96,96,Rihorn,100,Kampf,,Basis,Häufig,Sekio,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-97,97,Rihorn,90,Kampf,,Basis,Häufig,sui,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-98,98,Rizeros,120,Kampf,Rihorn,Rang 1,Ungewöhnlich,KEIICHIRO ITO,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-99,99,Rihornior,190,Kampf,Rizeros,Rang 2,Holografisch Selten,Satoshi Shirai,"reverse, holo",Schwert & Schild,Schwert & Schild,216
+swsh1-100,100,Mogelbaum,100,Kampf,,Basis,Ungewöhnlich,Yukiko Baba,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-101,101,Puppance,70,Kampf,,Basis,Häufig,Uta,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-102,102,Puppance,60,Kampf,,Basis,Häufig,Miki Tanaka,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-103,103,Lepumentas,120,Kampf,Puppance,Rang 1,Selten,Tomokazu Komiya,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-104,104,Regirock V,220,Kampf,,Basis,Holografisch Selten V,PLANETA Tsuji,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-105,105,Pampuli,80,Kampf,,Basis,Häufig,Shibuzoh.,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-106,106,Pampross,150,Kampf,Pampuli,Rang 1,Selten,Masakazu Fukuda,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-107,107,Salanga,80,Kampf,,Basis,Häufig,Misa Tsutsui,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-108,108,Salanga,70,Kampf,,Basis,Häufig,Hitoshi Ariga,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-109,109,Sanaconda,140,Kampf,Salanga,Rang 1,Selten,Kouki Saitou,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-110,110,Sanaconda,130,Kampf,Salanga,Rang 1,Holografisch Selten,nagimiso,"reverse, holo",Schwert & Schild,Schwert & Schild,216
+swsh1-111,111,Klopptopus,60,Kampf,,Basis,Häufig,Mina Nakai,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-112,112,Klopptopus,80,Kampf,,Basis,Häufig,Akira Komayama,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-113,113,Kaocto,130,Kampf,Klopptopus,Rang 1,Selten,Shin Nagasawa,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-114,114,Humanolith,120,Kampf,,Basis,Selten,Shin Nagasawa,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-115,115,Humanolith V,220,Kampf,,Basis,Holografisch Selten V,5ban Graphics,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-116,116,Humanolith VMAX,330,Kampf,Humanolith V,VMAX,Holografisch Selten VMAX,5ban Graphics,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-117,117,Galar-Zigzachs,70,Unlicht,,Basis,Häufig,kirisAki,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-118,118,Galar-Geradaks,100,Unlicht,Galar-Zigzachs,Rang 1,Ungewöhnlich,nagimiso,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-119,119,Galar-Barrikadax,160,Unlicht,Galar-Geradaks,Rang 2,Holografisch Selten,Kouki Saitou,"reverse, holo",Schwert & Schild,Schwert & Schild,216
+swsh1-120,120,Zobiris V,170,Unlicht,,Basis,Holografisch Selten V,Eske Yoshinob,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-121,121,Pionskora,80,Unlicht,,Basis,Häufig,sowsow,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-122,122,Piondragi,140,Unlicht,Pionskora,Rang 1,Selten,Masakazu Fukuda,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-123,123,Glibunkel,70,Unlicht,,Basis,Häufig,otumami,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-124,124,Toxiquak,110,Unlicht,Glibunkel,Rang 1,Holografisch Selten,Ryuta Fuse,"reverse, holo",Schwert & Schild,Schwert & Schild,216
+swsh1-125,125,Kleptifux,70,Unlicht,,Basis,Häufig,kirisAki,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-126,126,Gaunux,100,Unlicht,Kleptifux,Rang 1,Selten,Kouki Saitou,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-127,127,Galar-Mauzi,70,Metall,,Basis,Häufig,kirisAki,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-128,128,Galar-Mauzinger,120,Metall,Galar-Mauzi,Rang 1,Holografisch Selten,Mitsuhiro Arita,"reverse, holo",Schwert & Schild,Schwert & Schild,216
+swsh1-129,129,Flunkifer,90,Metall,,Basis,Häufig,AKIRA EGAWA,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-130,130,Kastadur,70,Metall,,Basis,Häufig,Yuka Morii,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-131,131,Tentantel,130,Metall,Kastadur,Rang 1,Ungewöhnlich,Midori Harada,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-132,132,Galar-Flunschlik,120,Metall,,Basis,Ungewöhnlich,Kouki Saitou,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-133,133,Gladiantri,70,Metall,,Basis,Häufig,Motofumi Fujiwara,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-134,134,Caesurio,120,Metall,Gladiantri,Rang 1,Ungewöhnlich,kawayoo,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-135,135,Krarmor,170,Metall,Kranoviz,Rang 2,Selten,Shin Nagasawa,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-136,136,Kupfanti,100,Metall,,Basis,Häufig,kirisAki,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-137,137,Patinaraja,190,Metall,Kupfanti,Rang 1,Holografisch Selten,Hitoshi Ariga,"reverse, holo",Schwert & Schild,Schwert & Schild,216
+swsh1-138,138,Zacian V,220,Metall,,Basis,Holografisch Selten V,5ban Graphics,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-139,139,Zamazenta V,230,Metall,,Basis,Holografisch Selten V,aky CG Works,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-140,140,Relaxo,150,Farblos,,Basis,Selten,chibi,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-141,141,Relaxo V,220,Farblos,,Basis,Holografisch Selten V,Masakazu Fukuda,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-142,142,Relaxo VMAX,340,Farblos,Relaxo V,VMAX,Holografisch Selten VMAX,aky CG Works,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-143,143,Hoothoot,70,Farblos,,Basis,Häufig,Yumi,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-144,144,Noctuh,110,Farblos,Hoothoot,Rang 1,Selten,kawayoo,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-145,145,Picochilla,70,Farblos,,Basis,Häufig,Sekio,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-146,146,Picochilla,60,Farblos,,Basis,Häufig,sowsow,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-147,147,Chillabell,90,Farblos,Picochilla,Rang 1,Selten,sui,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-148,148,Kommandutan,120,Farblos,,Basis,Holografisch Selten,Shigenori Negishi,"reverse, holo",Schwert & Schild,Schwert & Schild,216
+swsh1-149,149,Sen-Long,130,Farblos,,Basis,Selten,tetsuya koizumi,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-150,150,Meikro,60,Farblos,,Basis,Häufig,Akira Komayama,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-151,151,Kranoviz,80,Farblos,Meikro,Rang 1,Ungewöhnlich,Anesaki Dynamic,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-152,152,Wolly,70,Farblos,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-153,153,Wolly,70,Farblos,,Basis,Häufig,Mizue,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-154,154,Zwollock,130,Farblos,Wolly,Rang 1,Ungewöhnlich,You Iribi,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-155,155,Urgl V,200,Farblos,,Basis,Holografisch Selten V,aky CG Works,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-156,156,Luftballon,,,,,Ungewöhnlich,Yoshinobu Saito,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-157,157,Betys,,,,,Ungewöhnlich,Naoki Saito,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-158,158,Großes Amulett,,,,,Ungewöhnlich,inose yukie,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-159,159,Schmetterhammer,,,,,Ungewöhnlich,sadaji,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-160,160,Energie-Zugewinn,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-161,161,Energiesuche,,,,,Ungewöhnlich,Studio Bora Inc.,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-162,162,Energie-Umschalter,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-163,163,Entwicklungsrauch,,,,,Ungewöhnlich,Ryo Ueda,normal,Schwert & Schild,Schwert & Schild,216
+swsh1-164,164,Superball,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-165,165,Hop,,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-166,166,Hypertrank,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-167,167,Glücks-Ei,,,,,Ungewöhnlich,Studio Bora Inc.,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-168,168,Prunusbeere,,,,,Ungewöhnlich,Yoshinobu Saito,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-169,169,Mary,,,,,Holografisch Selten,kirisAki,"reverse, holo",Schwert & Schild,Schwert & Schild,216
+swsh1-170,170,Metallplatte,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-171,171,Gewöhnliche Angel,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-172,172,Adressbuch,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-173,173,Poké-Kind,,,,,Ungewöhnlich,Hitoshi Ariga,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-174,174,Pokécom 3.0,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-175,175,Pokémon-Fänger,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-176,176,Pokémon-Center-Dame,,,,,Ungewöhnlich,kirisAki,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-177,177,Trank,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-178,178,Forschung des Professors,,,,,Holografisch Selten,Yusuke Ohmura,"reverse, holo",Schwert & Schild,Schwert & Schild,216
+swsh1-179,179,Flottball,,,,,Ungewöhnlich,sadaji,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-180,180,Sonderbonbon,,,,,Ungewöhnlich,Yoshinobu Saito,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-181,181,Rotom-Rad,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-182,182,Tsitrubeere,,,,,Ungewöhnlich,Yoshinobu Saito,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-183,183,Tausch,,,,,Ungewöhnlich,Studio Bora Inc.,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-184,184,Rüpel von Team Yell,,,,,Ungewöhnlich,nagimiso,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-185,185,Vitalitätsband,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-186,186,Aurora-Energie,,,,,Ungewöhnlich,,"normal, reverse",Schwert & Schild,Schwert & Schild,216
+swsh1-187,187,Moruda V,220,Pflanze,,Basis,Ultra Selten,Eske Yoshinob,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-188,188,Qurtel V,210,Feuer,,Basis,Ultra Selten,Ayaka Yoshida,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-189,189,Lapras V,210,Wasser,,Basis,Ultra Selten,5ban Graphics,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-190,190,Morpeko V,170,Elektro,,Basis,Ultra Selten,5ban Graphics,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-191,191,Woingenau V,220,Psycho,,Basis,Ultra Selten,Ayaka Yoshida,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-192,192,Servol V,180,Psycho,,Basis,Ultra Selten,5ban Graphics,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-193,193,Humanolith V,220,Kampf,,Basis,Ultra Selten,5ban Graphics,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-194,194,Zobiris V,170,Unlicht,,Basis,Ultra Selten,Eske Yoshinob,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-195,195,Zacian V,220,Metall,,Basis,Ultra Selten,5ban Graphics,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-196,196,Zamazenta V,230,Metall,,Basis,Ultra Selten,aky CG Works,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-197,197,Relaxo V,220,Farblos,,Basis,Ultra Selten,aky CG Works,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-198,198,Urgl V,200,Farblos,,Basis,Ultra Selten,aky CG Works,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-199,199,Betys,,,,,Ultra Selten,Naoki Saito,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-200,200,Mary,,,,,Ultra Selten,kirisAki,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-201,201,Forschung des Professors,,,,,Ultra Selten,kirisAki,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-202,202,Rüpel von Team Yell,,,,,Ultra Selten,nagimiso,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-203,203,Lapras VMAX,320,Wasser,Lapras V,VMAX,Versteckt Selten,5ban Graphics,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-204,204,Morpeko VMAX,300,Elektro,Morpeko-V,VMAX,Versteckt Selten,5ban Graphics,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-205,205,Humanolith VMAX,330,Kampf,Humanolith V,VMAX,Versteckt Selten,5ban Graphics,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-206,206,Relaxo VMAX,340,Farblos,Relaxo V,VMAX,Versteckt Selten,aky CG Works,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-207,207,Betys,,,,,Versteckt Selten,Naoki Saito,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-208,208,Mary,,,,,Versteckt Selten,kirisAki,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-209,209,Forschung des Professors,,,,,Versteckt Selten,kirisAki,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-210,210,Rüpel von Team Yell,,,,,Versteckt Selten,nagimiso,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-211,211,Zacian V,220,Metall,,Basis,Versteckt Selten,5ban Graphics,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-212,212,Zamazenta V,230,Metall,,Basis,Versteckt Selten,aky CG Works,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-213,213,Luftballon,,,,,Versteckt Selten,Yoshinobu Saito,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-214,214,Metallplatte,,,,,Versteckt Selten,Toyste Beach,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-215,215,Gewöhnliche Angel,,,,,Versteckt Selten,5ban Graphics,holo,Schwert & Schild,Schwert & Schild,216
+swsh1-216,216,Flottball,,,,,Versteckt Selten,sadaji,holo,Schwert & Schild,Schwert & Schild,216

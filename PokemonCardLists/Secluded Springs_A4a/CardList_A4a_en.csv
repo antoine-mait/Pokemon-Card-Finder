@@ -1,0 +1,106 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+A4a-001,001,Hoppip,50,Grass,,Basic,One Diamond,Kyoko Umemoto,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-002,002,Skiploom,60,Grass,Hoppip,Stage1,Two Diamond,Dsuke,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-003,003,Jumpluff ex,160,Grass,Skiploom,Stage2,Four Diamond,PLANETA Tsuji,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-004,004,Sunkern,50,Grass,,Basic,One Diamond,Toshinao Aoki,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-005,005,Sunflora,90,Grass,Sunkern,Stage1,Two Diamond,Miki Tanaka,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-006,006,Celebi,70,Grass,,Basic,Three Diamond,Yuu Nishida,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-007,007,Durant,70,Grass,,Basic,One Diamond,Midori Harada,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-008,008,Slugma,80,Fire,,Basic,One Diamond,Yukiko Baba,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-009,009,Magcargo,120,Fire,Slugma,Stage1,Two Diamond,Eri Yamaki,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-010,010,Entei ex,140,Fire,,Basic,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-011,011,Fletchinder,70,Fire,Fletchling,Stage1,One Diamond,5ban Graphics,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-012,012,Talonflame,130,Fire,Fletchinder,Stage2,Two Diamond,5ban Graphics,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-013,013,Poliwag,60,Water,,Basic,One Diamond,Yuka Morii,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-014,014,Poliwhirl,80,Water,Poliwag,Stage1,Two Diamond,Kanako Eo,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-015,015,Tentacool,60,Water,,Basic,One Diamond,Hajime Kusajima,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-016,016,Tentacruel,110,Water,Tentacool,Stage1,Two Diamond,Hajime Kusajima,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-017,017,Slowpoke,60,Water,,Basic,One Diamond,Saya Tsuruta,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-018,018,Slowking,130,Water,Slowpoke,Stage1,Two Diamond,Aya Kusube,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-019,019,Jynx,70,Water,,Basic,One Diamond,Yukiko Baba,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-020,020,Suicune ex,140,Water,,Basic,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-021,021,Feebas,30,Water,,Basic,One Diamond,Suwama Chiaki,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-022,022,Milotic,120,Water,Feebas,Stage1,Three Diamond,AKIRA EGAWA,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-023,023,Mantyke,30,Water,,Basic,Three Diamond,Shibuzoh.,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-024,024,Cryogonal,80,Water,,Basic,One Diamond,Masakazu Fukuda,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-025,025,Raikou ex,130,Lightning,,Basic,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-026,026,Tynamo,40,Lightning,,Basic,One Diamond,Naoki Saito,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-027,027,Eelektrik,90,Lightning,Tynamo,Stage1,One Diamond,Suwama Chiaki,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-028,028,Eelektross,150,Lightning,Eelektrik,Stage2,Two Diamond,tetsuya koizumi,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-029,029,Stunfisk,90,Lightning,,Basic,One Diamond,Naoki Saito,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-030,030,Yamper,60,Lightning,,Basic,One Diamond,Akira Komayama,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-031,031,Boltund,120,Lightning,Yamper,Stage1,Three Diamond,Tomomi Ozaki,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-032,032,Misdreavus,50,Psychic,,Basic,One Diamond,Suwama Chiaki,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-033,033,Mismagius,100,Psychic,Misdreavus,Stage1,Two Diamond,tono,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-034,034,Galarian Corsola,60,Psychic,,Basic,One Diamond,Kouki Saitou,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-035,035,Galarian Cursola,80,Psychic,Galarian Corsola,Stage1,Three Diamond,Kagemaru Himeno,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-036,036,Latias,90,Psychic,,Basic,Three Diamond,rika,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-037,037,Latios,110,Psychic,,Basic,Three Diamond,rika,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-038,038,Frillish,60,Psychic,,Basic,One Diamond,Akira Komayama,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-039,039,Jellicent,110,Psychic,Frillish,Stage1,Two Diamond,Kagemaru Himeno,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-040,040,Diglett,60,Fighting,,Basic,One Diamond,Tomokazu Komiya,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-041,041,Dugtrio,90,Fighting,Diglett,Stage1,Two Diamond,Tomokazu Komiya,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-042,042,Poliwrath ex,180,Fighting,Poliwhirl,Stage2,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-043,043,Phanpy,70,Fighting,,Basic,One Diamond,Naoyo Kimura,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-044,044,Donphan,120,Fighting,Phanpy,Stage1,Two Diamond,Kagemaru Himeno,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-045,045,Relicanth,90,Fighting,,Basic,One Diamond,Kagemaru Himeno,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-046,046,Dwebble,70,Fighting,,Basic,One Diamond,Shigenori Negishi,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-047,047,Crustle,140,Fighting,Dwebble,Stage1,Two Diamond,Naoki Saito,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-048,048,Seviper,80,Darkness,,Basic,One Diamond,Sumiyoshi Kizuki,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-049,049,Zorua,60,Darkness,,Basic,One Diamond,Tomokazu Komiya,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-050,050,Zoroark,100,Darkness,Zorua,Stage1,Three Diamond,Shin Nagasawa,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-051,051,Inkay,60,Darkness,,Basic,One Diamond,miki kudo,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-052,052,Malamar,90,Darkness,Inkay,Stage1,Two Diamond,Masakazu Fukuda,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-053,053,Skrelp,50,Darkness,,Basic,One Diamond,Yukiko Baba,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-054,054,Dragalge,110,Darkness,Skrelp,Stage1,One Diamond,5ban Graphics,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-055,055,Altaria,120,Dragon,Swablu,Stage1,Three Diamond,miki kudo,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-056,056,Farfetch'd,70,Colorless,,Basic,One Diamond,Midori Harada,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-057,057,Lickitung,80,Colorless,,Basic,One Diamond,Masakazu Fukuda,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-058,058,Lickilicky,130,Colorless,Lickitung,Stage1,Two Diamond,Mina Nakai,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-059,059,Igglybuff,30,Colorless,,Basic,Three Diamond,Miki Tanaka,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-060,060,Teddiursa,60,Colorless,,Basic,One Diamond,Kagemaru Himeno,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-061,061,Ursaring,130,Colorless,Teddiursa,Stage1,Two Diamond,Uta,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-062,062,Miltank,110,Colorless,,Basic,Two Diamond,Kouki Saitou,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-063,063,Azurill,30,Colorless,,Basic,Three Diamond,Rond,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-064,064,Swablu,50,Colorless,,Basic,One Diamond,0313,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-065,065,Zangoose,80,Colorless,,Basic,Two Diamond,Misa Tsutsui,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-066,066,Fletchling,50,Colorless,,Basic,One Diamond,Shibuzoh.,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-067,067,Inflatable Boat,,,,,Two Diamond,Toyste Beach,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-068,068,Memory Light,,,,,Two Diamond,Studio Bora Inc.,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-069,069,Whitney,,,,,Two Diamond,Yuu Nishida,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-070,070,Traveling Merchant,,,,,Two Diamond,GOSSAN,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-071,071,Morty,,,,,Two Diamond,Teeziro,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-072,072,Milotic,120,Water,Feebas,Stage1,One Star,YASHIRO Nanaco,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-073,073,Stunfisk,90,Lightning,,Basic,One Star,Akira Komayama,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-074,074,Yamper,60,Lightning,,Basic,One Star,Souichirou Gunjima,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-075,075,Latios,110,Psychic,,Basic,One Star,kodama,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-076,076,Phanpy,70,Fighting,,Basic,One Star,OKACHEKE,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-077,077,Azurill,30,Colorless,,Basic,One Star,ryoma uratsuka,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-078,078,Jumpluff ex,160,Grass,Skiploom,Stage2,Two Star,PLANETA Tsuji,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-079,079,Entei ex,140,Fire,,Basic,Two Star,PLANETA CG Works,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-080,080,Suicune ex,140,Water,,Basic,Two Star,PLANETA CG Works,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-081,081,Raikou ex,130,Lightning,,Basic,Two Star,PLANETA CG Works,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-082,082,Poliwrath ex,180,Fighting,Poliwhirl,Stage2,Two Star,PLANETA Mochizuki,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-083,083,Whitney,,,,,Two Star,Yuu Nishida,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-084,084,Traveling Merchant,,,,,Two Star,GOSSAN,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-085,085,Morty,,,,,Two Star,Teeziro,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-086,086,Jumpluff ex,160,Grass,Skiploom,Stage2,Two Star,takashi shiraishi,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-087,087,Entei ex,140,Fire,,Basic,Two Star,Tsuyoshi Nagano,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-088,088,Raikou ex,130,Lightning,,Basic,Two Star,Tsuyoshi Nagano,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-089,089,Poliwrath ex,180,Fighting,Poliwhirl,Stage2,Two Star,Teeziro,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-090,090,Suicune ex,140,Water,,Basic,Three Star,mele,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-091,091,Chimchar,60,Fire,,Basic,One Shiny,Souichirou Gunjima,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-092,092,Monferno,80,Fire,Chimchar,Stage1,One Shiny,Souichirou Gunjima,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-093,093,Psyduck,60,Water,,Basic,One Shiny,Scav,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-094,094,Golduck,90,Water,Psyduck,Stage1,One Shiny,Scav,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-095,095,Krabby,70,Water,,Basic,One Shiny,Shigenori Negishi,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-096,096,Kingler,120,Water,Krabby,Stage1,One Shiny,Shigenori Negishi,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-097,097,Pyukumuku,60,Water,,Basic,One Shiny,Nisota Niso,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-098,098,Gible,60,Fighting,,Basic,One Shiny,Souichirou Gunjima,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-099,099,Gabite,80,Fighting,Gible,Stage1,One Shiny,Souichirou Gunjima,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-100,100,Paldean Wooper,50,Darkness,,Basic,One Shiny,MAHOU,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-101,101,Infernape ex,170,Fire,Monferno,Stage2,Two Shiny,PLANETA CG Works,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-102,102,Mew ex,130,Psychic,,Basic,Two Shiny,PLANETA CG Works,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-103,103,Garchomp ex,170,Fighting,Gabite,Stage2,Two Shiny,PLANETA CG Works,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-104,104,Paldean Clodsire ex,160,Darkness,Paldean Wooper,Stage1,Two Shiny,PLANETA Igarashi,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105
+A4a-105,105,Mantyke,30,Water,,Basic,Crown,PLANETA Tsuji,"normal, reverse, holo",Secluded Springs,Pokémon TCG Pocket,105

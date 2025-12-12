@@ -1,0 +1,231 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sv03-001,001,Oddish,50,Grass,,Basic,Common,Midori Harada,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-002,002,Gloom,80,Grass,Oddish,Stage1,Common,Haru Akasaka,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-003,003,Bellossom,130,Grass,Gloom,Stage2,Uncommon,sui,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-004,004,Scyther,80,Grass,,Basic,Common,Shin Nagasawa,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-005,005,Shuckle,80,Grass,,Basic,Common,Kurata So,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-006,006,Surskit,60,Grass,,Basic,Common,Saya Tsuruta,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-007,007,Masquerain,100,Grass,Surskit,Stage1,Uncommon,Haru Akasaka,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-008,008,Combee,50,Grass,,Basic,Common,HYOGONOSUKE,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-009,009,Foongus,50,Grass,,Basic,Common,You Iribi,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-010,010,Amoonguss,110,Grass,Foongus,Stage1,Uncommon,Nobuhiro Imagawa,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-011,011,Phantump,60,Grass,,Basic,Common,Narumi Sato,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-012,012,Trevenant,140,Grass,Phantump,Stage1,Uncommon,Anesaki Dynamic,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-013,013,Rowlet,70,Grass,,Basic,Common,Tomokazu Komiya,"normal, reverse, holo",Obsidian Flames,Scarlet & Violet,230
+sv03-014,014,Dartrix,90,Grass,Rowlet,Stage1,Uncommon,sui,"normal, reverse, holo",Obsidian Flames,Scarlet & Violet,230
+sv03-015,015,Decidueye ex,320,Grass,Dartrix,Stage2,Double rare,PLANETA Mochizuki,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-016,016,Bounsweet,60,Grass,,Basic,Common,Kurata So,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-017,017,Steenee,90,Grass,Bounsweet,Stage1,Common,nagimiso,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-018,018,Tsareena,160,Grass,Steenee,Stage2,Uncommon,Atsushi Furusawa,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-019,019,Smoliv,50,Grass,,Basic,Common,Masako Tomii,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-020,020,Dolliv,80,Grass,Smoliv,Stage1,Common,Mizue,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-021,021,Arboliva,140,Grass,Dolliv,Stage2,Uncommon,KEIICHIRO ITO,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-022,022,Toedscruel ex,270,Grass,Toedscool,Stage1,Double rare,5ban Graphics,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-023,023,Capsakid,50,Grass,,Basic,Common,Shin Nagasawa,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-024,024,Capsakid,70,Grass,,Basic,Common,Pani Kobayashi,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-025,025,Scovillain,110,Grass,Capsakid,Stage1,Rare,kodama,"reverse, holo",Obsidian Flames,Scarlet & Violet,230
+sv03-026,026,Charmander,60,Fire,,Basic,Common,DOM,"normal, reverse, holo",Obsidian Flames,Scarlet & Violet,230
+sv03-027,027,Charmeleon,90,Fire,Charmander,Stage1,Uncommon,Ryota Murayama,"normal, reverse, holo",Obsidian Flames,Scarlet & Violet,230
+sv03-028,028,Vulpix,60,Fire,,Basic,Common,0313,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-029,029,Ninetales,120,Fire,Vulpix,Stage1,Uncommon,Yoshioka,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-030,030,Entei,130,Fire,,Basic,Rare,toriyufu,"reverse, holo",Obsidian Flames,Scarlet & Violet,230
+sv03-031,031,Numel,90,Fire,,Basic,Common,Mizue,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-032,032,Camerupt,140,Fire,Numel,Stage1,Uncommon,Shiburingaru,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-033,033,Victini ex,190,Fire,,Basic,Double rare,Saki Hayashiro,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-034,034,Darumaka,80,Fire,,Basic,Common,Miki Tanaka,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-035,035,Darmanitan,140,Fire,Darumaka,Stage1,Uncommon,Yuya Oka,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-036,036,Litwick,60,Fire,,Basic,Common,Nagomi Nijo,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-037,037,Lampent,80,Fire,Litwick,Stage1,Common,Aya Kusube,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-038,038,Chandelure,150,Fire,Lampent,Stage2,Uncommon,Haru Akasaka,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-039,039,Heatmor,110,Fire,,Basic,Common,otumami,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-040,040,Larvesta,80,Fire,,Basic,Common,Yuka Morii,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-041,041,Volcarona,140,Fire,Larvesta,Stage1,Uncommon,Yukiko Baba,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-042,042,Eiscue ex,210,Fire,,Basic,Double rare,5ban Graphics,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-043,043,Charcadet,70,Fire,,Basic,Common,Saya Tsuruta,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-044,044,Armarouge,120,Fire,Charcadet,Stage1,Uncommon,Souichirou Gunjima,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-045,045,Lapras,110,Water,,Basic,Uncommon,matazo,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-046,046,Carvanha,50,Water,,Basic,Common,Jerky,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-047,047,Sharpedo,120,Water,Carvanha,Stage1,Uncommon,Tonji Matsuno,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-048,048,Buizel,70,Water,,Basic,Common,Jerky,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-049,049,Floatzel,110,Water,Buizel,Stage1,Uncommon,Kouki Saitou,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-050,050,Tympole,70,Water,,Basic,Common,OKUBO,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-051,051,Palpitoad,100,Water,Tympole,Stage1,Common,sowsow,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-052,052,Seismitoad,170,Water,Palpitoad,Stage2,Uncommon,Misa Tsutsui,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-053,053,Cubchoo,70,Water,,Basic,Common,Mizue,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-054,054,Beartic,150,Water,Cubchoo,Stage1,Uncommon,Misa Tsutsui,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-055,055,Cryogonal,90,Water,,Basic,Common,kirisAki,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-056,056,Froakie,70,Water,,Basic,Common,Atsuya Uki,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-057,057,Frogadier,90,Water,Froakie,Stage1,Uncommon,Tonji Matsuno,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-058,058,Wiglett,60,Water,,Basic,Common,Pani Kobayashi,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-059,059,Wugtrio,90,Water,Wiglett,Stage1,Uncommon,Akira Komayama,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-060,060,Finizen,50,Water,,Basic,Common,kodama,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-061,061,Finizen,90,Water,,Basic,Common,Kouki Saitou,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-062,062,Palafin,150,Water,Finizen,Stage1,Rare,Souichirou Gunjima,"normal, reverse, holo",Obsidian Flames,Scarlet & Violet,230
+sv03-063,063,Magnemite,60,Lightning,,Basic,Common,Masakazu Fukuda,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-064,064,Magneton,90,Lightning,Magnemite,Stage1,Common,kurumitsu,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-065,065,Magnezone,170,Lightning,Magneton,Stage2,Uncommon,Anesaki Dynamic,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-066,066,Tyranitar ex,340,Lightning,Pupitar,Stage2,Double rare,5ban Graphics,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-067,067,Tynamo,40,Lightning,,Basic,Common,Kagemaru Himeno,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-068,068,Eelektrik,90,Lightning,Tynamo,Stage1,Common,Souichirou Gunjima,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-069,069,Eelektross,160,Lightning,Eelektrik,Stage2,Uncommon,Masakazu Fukuda,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-070,070,Thundurus,110,Lightning,,Basic,Rare,GOSSAN,"reverse, holo",Obsidian Flames,Scarlet & Violet,230
+sv03-071,071,Toxel,70,Lightning,,Basic,Common,AKIRA EGAWA,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-072,072,Toxtricity,140,Lightning,Toxel,Stage1,Rare,Anesaki Dynamic,"normal, reverse, holo",Obsidian Flames,Scarlet & Violet,230
+sv03-073,073,Pawmot ex,300,Lightning,Pawmo,Stage2,Double rare,aky CG Works,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-074,074,Tadbulb,50,Lightning,,Basic,Common,kirisAki,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-075,075,Tadbulb,60,Lightning,,Basic,Common,Saya Tsuruta,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-076,076,Tadbulb,60,Lightning,,Basic,Common,Shin Nagasawa,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-077,077,Bellibolt,130,Lightning,Tadbulb,Stage1,Uncommon,Kouki Saitou,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-078,078,Bellibolt,140,Lightning,Tadbulb,Stage1,Uncommon,Toshinao Aoki,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-079,079,Miraidon ex,220,Lightning,,Basic,Double rare,5ban Graphics,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-080,080,Cleffa,30,Psychic,,Basic,Common,kurumitsu,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-081,081,Clefairy,60,Psychic,,Basic,Common,Yuka Morii,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-082,082,Clefable ex,260,Psychic,Clefairy,Stage1,Double rare,Satoshi Shirai,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-083,083,Togepi,50,Psychic,,Basic,Common,Natsumi Yoshida,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-084,084,Togetic,90,Psychic,Togepi,Stage1,Uncommon,Kyoko Umemoto,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-085,085,Togekiss,150,Psychic,Togetic,Stage2,Rare,Cona Nitanda,"reverse, holo",Obsidian Flames,Scarlet & Violet,230
+sv03-086,086,Espeon,110,Psychic,Eevee,Stage1,Uncommon,Cona Nitanda,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-087,087,Snubbull,80,Psychic,,Basic,Common,Sekio,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-088,088,Granbull,130,Psychic,Snubbull,Stage1,Uncommon,Lee HyunJung,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-089,089,Mawile,100,Psychic,,Basic,Common,0313,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-090,090,Spoink,70,Psychic,,Basic,Common,GOSSAN,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-091,091,Grumpig,120,Psychic,Spoink,Stage1,Uncommon,Scav,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-092,092,Lunatone,90,Psychic,,Basic,Uncommon,Tetsu Kayama,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-093,093,Solrock,90,Psychic,,Basic,Uncommon,Tetsu Kayama,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-094,094,Baltoy,70,Psychic,,Basic,Common,Scav,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-095,095,Claydol,120,Psychic,Baltoy,Stage1,Rare,Shigenori Negishi,"reverse, holo",Obsidian Flames,Scarlet & Violet,230
+sv03-096,096,Vespiquen ex,270,Psychic,Combee,Stage1,Double rare,5ban Graphics,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-097,097,Sinistea,30,Psychic,,Basic,Common,Yuka Morii,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-098,098,Polteageist,70,Psychic,Sinistea,Stage1,Uncommon,Megumi Mizutani,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-099,099,Greavard,70,Psychic,,Basic,Common,Shibuzoh.,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-100,100,Greavard,80,Psychic,,Basic,Common,Pani Kobayashi,"normal, reverse, holo",Obsidian Flames,Scarlet & Violet,230
+sv03-101,101,Houndstone,140,Psychic,Greavard,Stage1,Uncommon,Saya Tsuruta,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-102,102,Houndstone ex,260,Psychic,Greavard,Stage1,Double rare,5ban Graphics,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-103,103,Diglett,50,Fighting,,Basic,Common,OKACHEKE,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-104,104,Dugtrio,90,Fighting,Diglett,Stage1,Uncommon,Nelnal,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-105,105,Larvitar,70,Fighting,,Basic,Common,KYUPIYAMA,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-106,106,Pupitar,80,Fighting,Larvitar,Stage1,Uncommon,Souichirou Gunjima,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-107,107,Nosepass,90,Fighting,,Basic,Common,Nobuhiro Imagawa,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-108,108,Barboach,70,Fighting,,Basic,Common,Scav,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-109,109,Whiscash,140,Fighting,Barboach,Stage1,Uncommon,0313,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-110,110,Bonsly,30,Fighting,,Basic,Common,Mizue,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-111,111,Drilbur,70,Fighting,,Basic,Common,sowsow,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-112,112,Stunfisk,120,Fighting,,Basic,Uncommon,Sumiyoshi Kizuki,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-113,113,Diggersby,140,Fighting,Bunnelby,Stage1,Uncommon,SATOSHI NAKAI,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-114,114,Crabrawler,90,Fighting,,Basic,Common,Nagomi Nijo,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-115,115,Crabominable,160,Fighting,Crabrawler,Stage1,Uncommon,Misa Tsutsui,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-116,116,Rockruff,60,Fighting,,Basic,Common,Jerky,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-117,117,Lycanroc,130,Fighting,Rockruff,Stage1,Uncommon,Mitsuhiro Arita,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-118,118,Toedscool,60,Fighting,,Basic,Common,Oswaldo KATO,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-119,119,Toedscruel,130,Fighting,Toedscool,Stage1,Uncommon,Kouki Saitou,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-120,120,Klawf ex,220,Fighting,,Basic,Double rare,aky CG Works,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-121,121,Glimmet,60,Fighting,,Basic,Common,Sanosuke Sakuma,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-122,122,Glimmet,70,Fighting,,Basic,Common,GIDORA,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-123,123,Glimmora ex,270,Fighting,Glimmet,Stage1,Double rare,5ban Graphics,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-124,124,Koraidon ex,230,Fighting,,Basic,Double rare,aky CG Works,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-125,125,Charizard ex,330,Darkness,Charmeleon,Stage2,Double rare,5ban Graphics,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-126,126,Paldean Wooper,60,Darkness,,Basic,Common,Shibuzoh.,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-127,127,Paldean Wooper,70,Darkness,,Basic,Common,Pani Kobayashi,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-128,128,Paldean Clodsire,140,Darkness,Paldean Wooper,Stage1,Uncommon,Kouki Saitou,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-129,129,Paldean Clodsire,140,Darkness,Paldean Wooper,Stage1,Uncommon,Shin Nagasawa,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-130,130,Umbreon,110,Darkness,Eevee,Stage1,Uncommon,rika,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-131,131,Houndour,50,Darkness,,Basic,Common,Scav,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-132,132,Houndour,70,Darkness,,Basic,Common,Kurata So,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-133,133,Houndoom,130,Darkness,Houndour,Stage1,Uncommon,Haru Akasaka,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-134,134,Houndoom ex,270,Darkness,Houndour,Stage1,Double rare,PLANETA Tsuji,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-135,135,Absol ex,210,Darkness,,Basic,Double rare,Nisota Niso,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-136,136,Darkrai,130,Darkness,,Basic,Rare,Bun Toujo,"reverse, holo",Obsidian Flames,Scarlet & Violet,230
+sv03-137,137,Inkay,60,Darkness,,Basic,Common,Kedamahadaitai Yawarakai,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-138,138,Malamar,120,Darkness,Inkay,Stage1,Uncommon,Nelnal,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-139,139,Salandit,70,Darkness,,Basic,Common,Shiburingaru,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-140,140,Salazzle,120,Darkness,Salandit,Stage1,Uncommon,Shigenori Negishi,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-141,141,Scizor,140,Metal,Scyther,Stage1,Rare,otumami,"reverse, holo",Obsidian Flames,Scarlet & Violet,230
+sv03-142,142,Skarmory,120,Metal,,Basic,Uncommon,Takeshi Nakamura,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-143,143,Mawile,90,Metal,,Basic,Uncommon,sowsow,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-144,144,Bronzor,70,Metal,,Basic,Common,Shinji Kanda,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-145,145,Bronzong,140,Metal,Bronzor,Stage1,Uncommon,Nobuhiro Imagawa,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-146,146,Probopass,150,Metal,Nosepass,Stage1,Uncommon,takuyoa,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-147,147,Excadrill,120,Metal,Drilbur,Stage1,Uncommon,kawayoo,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-148,148,Pawniard,70,Metal,,Basic,Common,Hitoshi Ariga,"normal, reverse, holo",Obsidian Flames,Scarlet & Violet,230
+sv03-149,149,Bisharp,110,Metal,Pawniard,Stage1,Common,GIDORA,"normal, reverse, holo",Obsidian Flames,Scarlet & Violet,230
+sv03-150,150,Kingambit,180,Metal,Bisharp,Stage2,Uncommon,Ryota Murayama,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-151,151,Togedemaru,80,Metal,,Basic,Common,Sekio,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-152,152,Meltan,70,Metal,,Basic,Common,Nobuhiro Imagawa,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-153,153,Melmetal ex,300,Metal,Meltan,Stage1,Double rare,PLANETA Igarashi,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-154,154,Varoom,60,Metal,,Basic,Common,Kouki Saitou,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-155,155,Varoom,70,Metal,,Basic,Common,Saya Tsuruta,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-156,156,Revavroom ex,280,Metal,Varoom,Stage1,Double rare,takuyoa,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-157,157,Dratini,70,Dragon,,Basic,Common,satoma,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-158,158,Dragonair,100,Dragon,Dratini,Stage1,Uncommon,Misa Tsutsui,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-159,159,Dragonite ex,330,Dragon,Dragonair,Stage2,Double rare,5ban Graphics,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-160,160,Altaria,120,Dragon,Swablu,Stage1,Uncommon,kurumitsu,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-161,161,Drampa,120,Dragon,,Basic,Uncommon,hatachu,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-162,162,Pidgey,60,Colorless,,Basic,Common,Naoyo Kimura,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-163,163,Pidgeotto,90,Colorless,Pidgey,Stage1,Uncommon,Kariya,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-164,164,Pidgeot ex,280,Colorless,Pidgeotto,Stage2,Double rare,takuyoa,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-165,165,Kangaskhan,130,Colorless,,Basic,Uncommon,Yuya Oka,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-166,166,Eevee,70,Colorless,,Basic,Common,ryoma uratsuka,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-167,167,Zigzagoon,70,Colorless,,Basic,Common,Kagemaru Himeno,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-168,168,Linoone,110,Colorless,Zigzagoon,Stage1,Uncommon,Nagomi Nijo,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-169,169,Swablu,50,Colorless,,Basic,Common,Oswaldo KATO,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-170,170,Lillipup,50,Colorless,,Basic,Common,Yuka Morii,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-171,171,Herdier,90,Colorless,Lillipup,Stage1,Common,Kariya,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-172,172,Stoutland,160,Colorless,Herdier,Stage2,Uncommon,Keisin,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-173,173,Audino,100,Colorless,,Basic,Common,Tika Matsuno,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-174,174,Bouffalant,120,Colorless,,Basic,Uncommon,Yuya Oka,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-175,175,Bunnelby,70,Colorless,,Basic,Common,Lee HyunJung,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-176,176,Yungoos,70,Colorless,,Basic,Common,saino misaki,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-177,177,Gumshoos,120,Colorless,Yungoos,Stage1,Uncommon,Eri Yamaki,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-178,178,Skwovet,60,Colorless,,Basic,Common,Taiga Kayama,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-179,179,Greedent ex,260,Colorless,Skwovet,Stage1,Double rare,5ban Graphics,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-180,180,Lechonk,60,Colorless,,Basic,Common,HYOGONOSUKE,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-181,181,Lechonk,70,Colorless,,Basic,Common,Tomokazu Komiya,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-182,182,Lechonk,70,Colorless,,Basic,Common,Atsuko Nishida,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-183,183,Oinkologne,120,Colorless,Lechonk,Stage1,Uncommon,Pani Kobayashi,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-184,184,Oinkologne,130,Colorless,Lechonk,Stage1,Uncommon,Akira Komayama,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-185,185,Flamigo,120,Colorless,,Basic,Uncommon,Hiroki Asanuma,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-186,186,Arven,,,,,Uncommon,GIDORA,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-187,187,Brassius,,,,,Uncommon,GIDORA,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-188,188,Geeta,,,,,Rare,kirisAki,"reverse, holo",Obsidian Flames,Scarlet & Violet,230
+sv03-189,189,Letter of Encouragement,,,,,Uncommon,Toyste Beach,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-190,190,Ortega,,,,,Uncommon,Naoki Saito,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-191,191,Patrol Cap,,,,,Uncommon,Toyste Beach,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-192,192,Pokémon League Headquarters,,,,,Uncommon,Oswaldo KATO,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-193,193,Poppy,,,,,Uncommon,yuu,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-194,194,Ryme,,,,,Common,nagimiso,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-195,195,Team Star Grunt,,,,,Uncommon,nagimiso,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-196,196,Town Store,,,,,Common,Oswaldo KATO,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-197,197,Vengeful Punch,,,,,Uncommon,Ayaka Yoshida,"normal, reverse",Obsidian Flames,Scarlet & Violet,230
+sv03-198,198,Gloom,80,Grass,Oddish,Stage1,Illustration rare,Masako Tomii,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-199,199,Ninetales,120,Fire,Vulpix,Stage1,Illustration rare,SIE NANAHARA,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-200,200,Palafin,150,Water,Finizen,Stage1,Illustration rare,Akira Komayama,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-201,201,Bellibolt,140,Lightning,Tadbulb,Stage1,Illustration rare,KEIICHIRO ITO,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-202,202,Cleffa,30,Psychic,,Basic,Illustration rare,HYOGONOSUKE,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-203,203,Larvitar,70,Fighting,,Basic,Illustration rare,Miki Tanaka,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-204,204,Houndour,50,Darkness,,Basic,Illustration rare,KYUPIYAMA,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-205,205,Scizor,140,Metal,Scyther,Stage1,Illustration rare,Oku,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-206,206,Varoom,60,Metal,,Basic,Illustration rare,Souichirou Gunjima,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-207,207,Pidgey,60,Colorless,,Basic,Illustration rare,Jerky,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-208,208,Pidgeotto,90,Colorless,Pidgey,Stage1,Illustration rare,Jerky,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-209,209,Lechonk,60,Colorless,,Basic,Illustration rare,Narumi Sato,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-210,210,Eiscue ex,210,Fire,,Basic,Ultra Rare,5ban Graphics,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-211,211,Tyranitar ex,340,Lightning,Pupitar,Stage2,Ultra Rare,5ban Graphics,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-212,212,Vespiquen ex,270,Psychic,Combee,Stage1,Ultra Rare,5ban Graphics,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-213,213,Glimmora ex,270,Fighting,Glimmet,Stage1,Ultra Rare,5ban Graphics,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-214,214,Absol ex,210,Darkness,,Basic,Ultra Rare,PLANETA Mochizuki,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-215,215,Charizard ex,330,Darkness,Charmeleon,Stage2,Ultra Rare,5ban Graphics,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-216,216,Revavroom ex,280,Metal,Varoom,Stage1,Ultra Rare,takuyoa,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-217,217,Pidgeot ex,280,Colorless,Pidgeotto,Stage2,Ultra Rare,takuyoa,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-218,218,Geeta,,,,,Ultra Rare,kirisAki,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-219,219,Ortega,,,,,Ultra Rare,Naoki Saito,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-220,220,Poppy,,,,,Ultra Rare,yuu,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-221,221,Ryme,,,,,Ultra Rare,nagimiso,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-222,222,Eiscue ex,210,Fire,,Basic,Special illustration rare,Toshinao Aoki,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-223,223,Charizard ex,330,Darkness,Charmeleon,Stage2,Special illustration rare,AKIRA EGAWA,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-224,224,Revavroom ex,280,Metal,Varoom,Stage1,Special illustration rare,Souichirou Gunjima,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-225,225,Pidgeot ex,280,Colorless,Pidgeotto,Stage2,Special illustration rare,Jerky,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-226,226,Geeta,,,,,Special illustration rare,DOM,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-227,227,Poppy,,,,,Special illustration rare,Ryota Murayama,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-228,228,Charizard ex,330,Darkness,Charmeleon,Stage2,Hyper rare,5ban Graphics,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-229,229,Artazon,,,,,Hyper rare,Oswaldo KATO,holo,Obsidian Flames,Scarlet & Violet,230
+sv03-230,230,Basic Fire Energy,,Fire,,,Hyper rare,,holo,Obsidian Flames,Scarlet & Violet,230

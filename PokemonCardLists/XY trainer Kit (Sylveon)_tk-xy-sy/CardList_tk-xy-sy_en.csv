@@ -1,0 +1,31 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+tk-xy-sy-1,1,Fletchling,50,Colorless,,Basic,Common,,"normal, reverse, holo",XY trainer Kit (Sylveon),Trainer kits,30
+tk-xy-sy-2,2,Fairy Energy,,Fairy,,,Common,,"normal, reverse, holo",XY trainer Kit (Sylveon),Trainer kits,30
+tk-xy-sy-3,3,Fairy Energy,,Fairy,,,Common,,"normal, reverse, holo",XY trainer Kit (Sylveon),Trainer kits,30
+tk-xy-sy-4,4,Switch,,,,,Common,,"normal, reverse, holo",XY trainer Kit (Sylveon),Trainer kits,30
+tk-xy-sy-5,5,Fairy Energy,,Fairy,,,Common,,"normal, reverse, holo",XY trainer Kit (Sylveon),Trainer kits,30
+tk-xy-sy-6,6,Fairy Energy,,Fairy,,,Common,,"normal, reverse, holo",XY trainer Kit (Sylveon),Trainer kits,30
+tk-xy-sy-7,7,Fairy Energy,,Fairy,,,Common,,"normal, reverse, holo",XY trainer Kit (Sylveon),Trainer kits,30
+tk-xy-sy-8,8,Fairy Energy,,Fairy,,,Common,,"normal, reverse, holo",XY trainer Kit (Sylveon),Trainer kits,30
+tk-xy-sy-9,9,Fairy Energy,,Fairy,,,Common,,"normal, reverse, holo",XY trainer Kit (Sylveon),Trainer kits,30
+tk-xy-sy-10,10,Fairy Energy,,Fairy,,,Common,,"normal, reverse, holo",XY trainer Kit (Sylveon),Trainer kits,30
+tk-xy-sy-11,11,Snubbull,70,Fairy,,Basic,Common,,"normal, reverse, holo",XY trainer Kit (Sylveon),Trainer kits,30
+tk-xy-sy-12,12,Fairy Energy,,Fairy,,,Common,,"normal, reverse, holo",XY trainer Kit (Sylveon),Trainer kits,30
+tk-xy-sy-13,13,Eevee,60,Colorless,,Basic,Common,,"normal, reverse, holo",XY trainer Kit (Sylveon),Trainer kits,30
+tk-xy-sy-14,14,Granbull,100,Fairy,Snubbull,Stage1,Common,,"normal, reverse, holo",XY trainer Kit (Sylveon),Trainer kits,30
+tk-xy-sy-15,15,Sylveon,90,Fairy,Eevee,Stage1,None,5ban Graphics,"normal, reverse, holo",XY trainer Kit (Sylveon),Trainer kits,30
+tk-xy-sy-16,16,Furfrou,90,Colorless,,Basic,Common,,"normal, reverse, holo",XY trainer Kit (Sylveon),Trainer kits,30
+tk-xy-sy-17,17,Fairy Energy,,Fairy,,,Common,,"normal, reverse, holo",XY trainer Kit (Sylveon),Trainer kits,30
+tk-xy-sy-18,18,Fairy Energy,,Fairy,,,Common,,"normal, reverse, holo",XY trainer Kit (Sylveon),Trainer kits,30
+tk-xy-sy-19,19,Fletchling,50,Colorless,,Basic,Common,,"normal, reverse, holo",XY trainer Kit (Sylveon),Trainer kits,30
+tk-xy-sy-20,20,Potion,,,,,Common,,"normal, reverse, holo",XY trainer Kit (Sylveon),Trainer kits,30
+tk-xy-sy-21,21,Eevee,60,Colorless,,Basic,Common,,"normal, reverse, holo",XY trainer Kit (Sylveon),Trainer kits,30
+tk-xy-sy-22,22,Furfrou,90,Colorless,,Basic,Common,,"normal, reverse, holo",XY trainer Kit (Sylveon),Trainer kits,30
+tk-xy-sy-23,23,Pokémon Catcher,,,,,Uncommon,,"normal, reverse, holo",XY trainer Kit (Sylveon),Trainer kits,30
+tk-xy-sy-24,24,Potion,,,,,Common,,"normal, reverse, holo",XY trainer Kit (Sylveon),Trainer kits,30
+tk-xy-sy-25,25,Fairy Energy,,Fairy,,,Common,,"normal, reverse, holo",XY trainer Kit (Sylveon),Trainer kits,30
+tk-xy-sy-26,26,Poké Ball,,,,,Uncommon,,"normal, reverse, holo",XY trainer Kit (Sylveon),Trainer kits,30
+tk-xy-sy-27,27,Snubbull,70,Fairy,,Basic,Common,,"normal, reverse, holo",XY trainer Kit (Sylveon),Trainer kits,30
+tk-xy-sy-28,28,Professor’s Letter,,,,,Uncommon,,"normal, reverse, holo",XY trainer Kit (Sylveon),Trainer kits,30
+tk-xy-sy-29,29,Granbull,100,Fairy,Snubbull,Stage1,Common,,"normal, reverse, holo",XY trainer Kit (Sylveon),Trainer kits,30
+tk-xy-sy-30,30,Sylveon,90,Fairy,Eevee,Stage1,None,5ban Graphics,"normal, reverse, holo",XY trainer Kit (Sylveon),Trainer kits,30

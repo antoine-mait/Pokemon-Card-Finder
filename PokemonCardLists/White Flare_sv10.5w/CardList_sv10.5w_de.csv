@@ -1,0 +1,174 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sv10.5w-001,001,Strawickl,50,Pflanze,,Basis,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-002,002,Folikon,80,Pflanze,Strawickl,Rang 1,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-003,003,Matrifol,130,Pflanze,Folikon,Rang 2,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-004,004,Waumboll,60,Pflanze,,Basis,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-005,005,Elfun-ex,230,Pflanze,Waumboll,Rang 1,Doppelselten,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-006,006,Sesokitz,70,Pflanze,,Basis,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-007,007,Kronjuwild,130,Pflanze,Sesokitz,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-008,008,Schnuthelm,60,Pflanze,,Basis,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-009,009,Hydragil,100,Pflanze,Schnuthelm,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-010,010,Viridium,120,Pflanze,,Basis,Selten,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-011,011,Floink,70,Feuer,,Basis,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-012,012,Ferkokel,110,Feuer,Floink,Rang 1,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-013,013,Flambirex,180,Feuer,Ferkokel,Rang 2,Selten,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-014,014,Grillmak,70,Feuer,,Basis,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-015,015,Grillchita,100,Feuer,Grillmak,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-016,016,Lichtel,60,Feuer,,Basis,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-017,017,Laternecto,80,Feuer,Lichtel,Rang 1,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-018,018,Skelabra,150,Feuer,Laternecto,Rang 2,Selten,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-019,019,Furnifraß,120,Feuer,,Basis,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-020,020,Reshiram-ex,230,Feuer,,Basis,Doppelselten,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-021,021,Ottaro,70,Wasser,,Basis,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-022,022,Zwottronin,100,Wasser,Ottaro,Rang 1,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-023,023,Admurai,160,Wasser,Zwottronin,Rang 2,Selten,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-024,024,Barschuft,90,Wasser,,Basis,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-025,025,Piccolente,70,Wasser,,Basis,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-026,026,Swaroness,120,Wasser,Piccolente,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-027,027,Gelatini,60,Wasser,,Basis,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-028,028,Gelatroppo,90,Wasser,Gelatini,Rang 1,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-029,029,Gelatwino,150,Wasser,Gelatroppo,Rang 2,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-030,030,Keldeo-ex,210,Wasser,,Basis,Doppelselten,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-031,031,Elezeba,60,Elektro,,Basis,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-032,032,Zebritz,120,Elektro,Elezeba,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-033,033,Wattzapf,40,Elektro,,Basis,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-034,034,Voltula,90,Elektro,Wattzapf,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-035,035,Flunschlik,110,Elektro,,Basis,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-036,036,Fleknoil,60,Psycho,,Basis,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-037,037,Fletiamo,90,Psycho,Fleknoil,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-038,038,Symvolara,120,Psycho,,Basis,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-039,039,Makabaja,70,Psycho,,Basis,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-040,040,Echnatoll,120,Psycho,Makabaja,Rang 1,Selten,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-041,041,Mollimorba,70,Psycho,,Basis,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-042,042,Hypnomorba,90,Psycho,Mollimorba,Rang 1,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-043,043,Morbitesse,150,Psycho,Hypnomorba,Rang 2,Selten,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-044,044,Quabbel,80,Psycho,,Basis,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-045,045,Apoquallyp-ex,270,Psycho,Quabbel,Rang 1,Doppelselten,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-046,046,Kiesling,80,Kampf,,Basis,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-047,047,Sedimantur,110,Kampf,Kiesling,Rang 1,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-048,048,Brockoloss,170,Kampf,Sedimantur,Rang 2,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-049,049,Karadonis,110,Kampf,,Basis,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-050,050,Flapteryx,80,Kampf,Antikes Federfossil,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-051,051,Aeropteryx,140,Kampf,Flapteryx,Rang 2,Selten,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-052,052,Lin-Fu,60,Kampf,,Basis,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-053,053,Wie-Shu,100,Kampf,Lin-Fu,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-054,054,Terrakium,140,Kampf,,Basis,Selten,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-055,055,Felilou,60,Unlicht,,Basis,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-056,056,Kleoparda,110,Unlicht,Felilou,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-057,057,Zurrokex,70,Unlicht,,Basis,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-058,058,Irokex,120,Unlicht,Zurrokex,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-059,059,Unratütox,70,Unlicht,,Basis,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-060,060,Deponitox,140,Unlicht,Unratütox,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-061,061,Zorua,70,Unlicht,,Basis,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-062,062,Zoroark,120,Unlicht,Zorua,Rang 1,Selten,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-063,063,Skallyk,70,Unlicht,,Basis,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-064,064,Grypheldis,110,Unlicht,Skallyk,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-065,065,Kapuno,80,Unlicht,,Basis,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-066,066,Duodino,110,Unlicht,Kapuno,Rang 1,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-067,067,Trikephalo-ex,330,Unlicht,Duodino,Rang 2,Doppelselten,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-068,068,Kastadur,70,Metall,,Basis,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-069,069,Tentantel,140,Metall,Kastadur,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-070,070,Fermicula,110,Metall,,Basis,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-071,071,Shardrago,120,Drache,,Basis,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-072,072,Nagelotz,60,Farblos,,Basis,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-073,073,Kukmarda,90,Farblos,Nagelotz,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-074,074,Yorkleff,60,Farblos,,Basis,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-075,075,Terribark,90,Farblos,Yorkleff,Rang 1,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-076,076,Bissbark,160,Farblos,Terribark,Rang 2,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-077,077,Bisofank-ex,220,Farblos,,Basis,Doppelselten,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-078,078,Boreos,120,Farblos,,Basis,Selten,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-079,079,Antikes Federfossil,60,,,,Häufig,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-080,080,Reif der Tapferkeit,,,,,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-081,081,Cheren,,,,,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-082,082,Energie-Zugewinn,,,,,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-083,083,Kasper,,,,,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-084,084,Lotta,,,,,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-085,085,Ausrüstungsentsorger,,,,,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-086,086,Zünd-Energie,,,,,Ungewöhnlich,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-087,087,Strawickl,50,Pflanze,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-088,088,Folikon,80,Pflanze,Strawickl,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-089,089,Matrifol,130,Pflanze,Folikon,Rang 2,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-090,090,Waumboll,60,Pflanze,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-091,091,Sesokitz,70,Pflanze,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-092,092,Kronjuwild,130,Pflanze,Sesokitz,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-093,093,Schnuthelm,60,Pflanze,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-094,094,Hydragil,100,Pflanze,Schnuthelm,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-095,095,Viridium,120,Pflanze,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-096,096,Floink,70,Feuer,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-097,097,Ferkokel,110,Feuer,Floink,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-098,098,Flambirex,180,Feuer,Ferkokel,Rang 2,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-099,099,Grillmak,70,Feuer,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-100,100,Grillchita,100,Feuer,Grillmak,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-101,101,Lichtel,60,Feuer,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-102,102,Laternecto,80,Feuer,Lichtel,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-103,103,Skelabra,150,Feuer,Laternecto,Rang 2,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-104,104,Furnifraß,120,Feuer,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-105,105,Ottaro,70,Wasser,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-106,106,Zwottronin,100,Wasser,Ottaro,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-107,107,Admurai,160,Wasser,Zwottronin,Rang 2,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-108,108,Barschuft,90,Wasser,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-109,109,Piccolente,70,Wasser,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-110,110,Swaroness,120,Wasser,Piccolente,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-111,111,Gelatini,60,Wasser,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-112,112,Gelatroppo,90,Wasser,Gelatini,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-113,113,Gelatwino,150,Wasser,Gelatroppo,Rang 2,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-114,114,Elezeba,60,Elektro,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-115,115,Zebritz,120,Elektro,Elezeba,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-116,116,Wattzapf,40,Elektro,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-117,117,Voltula,90,Elektro,Wattzapf,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-118,118,Flunschlik,110,Elektro,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-119,119,Fleknoil,60,Psycho,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-120,120,Fletiamo,90,Psycho,Fleknoil,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-121,121,Symvolara,120,Psycho,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-122,122,Makabaja,70,Psycho,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-123,123,Echnatoll,120,Psycho,Makabaja,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-124,124,Mollimorba,70,Psycho,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-125,125,Hypnomorba,90,Psycho,Mollimorba,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-126,126,Quabbel,80,Psycho,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-127,127,Kiesling,80,Kampf,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-128,128,Sedimantur,110,Kampf,Kiesling,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-129,129,Brockoloss,170,Kampf,Sedimantur,Rang 2,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-130,130,Karadonis,110,Kampf,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-131,131,Flapteryx,80,Kampf,Antikes Federfossil,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-132,132,Aeropteryx,140,Kampf,Flapteryx,Rang 2,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-133,133,Lin-Fu,60,Kampf,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-134,134,Wie-Shu,100,Kampf,Lin-Fu,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-135,135,Terrakium,140,Kampf,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-136,136,Felilou,60,Unlicht,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-137,137,Kleoparda,110,Unlicht,Felilou,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-138,138,Zurrokex,70,Unlicht,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-139,139,Irokex,120,Unlicht,Zurrokex,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-140,140,Unratütox,70,Unlicht,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-141,141,Deponitox,140,Unlicht,Unratütox,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-142,142,Zorua,70,Unlicht,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-143,143,Zoroark,120,Unlicht,Zorua,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-144,144,Skallyk,70,Unlicht,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-145,145,Grypheldis,110,Unlicht,Skallyk,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-146,146,Kapuno,80,Unlicht,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-147,147,Duodino,110,Unlicht,Kapuno,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-148,148,Kastadur,70,Metall,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-149,149,Tentantel,140,Metall,Kastadur,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-150,150,Fermicula,110,Metall,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-151,151,Shardrago,120,Drache,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-152,152,Nagelotz,60,Farblos,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-153,153,Kukmarda,90,Farblos,Nagelotz,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-154,154,Yorkleff,60,Farblos,,Basis,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-155,155,Terribark,90,Farblos,Yorkleff,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-156,156,Bissbark,160,Farblos,Terribark,Rang 2,"Selten, Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-157,157,Elfun-ex,230,Pflanze,Waumboll,Rang 1,Ultra Selten,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-158,158,Reshiram-ex,230,Feuer,,Basis,Ultra Selten,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-159,159,Keldeo-ex,210,Wasser,,Basis,Ultra Selten,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-160,160,Apoquallyp-ex,270,Psycho,Quabbel,Rang 1,Ultra Selten,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-161,161,Trikephalo-ex,330,Unlicht,Duodino,Rang 2,Ultra Selten,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-162,162,Bisofank-ex,220,Farblos,,Basis,Ultra Selten,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-163,163,Kasper,,,,,Ultra Selten,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-164,164,Lotta,,,,,Ultra Selten,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-165,165,Elfun-ex,230,Pflanze,Waumboll,Rang 1,"Selten, besondere Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-166,166,Reshiram-ex,230,Feuer,,Basis,"Selten, besondere Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-167,167,Keldeo-ex,210,Wasser,,Basis,"Selten, besondere Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-168,168,Apoquallyp-ex,270,Psycho,Quabbel,Rang 1,"Selten, besondere Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-169,169,Trikephalo-ex,330,Unlicht,Duodino,Rang 2,"Selten, besondere Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-170,170,Bisofank-ex,220,Farblos,,Basis,"Selten, besondere Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-171,171,Lotta,,,,,"Selten, besondere Illustration",,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-172,172,Victini,80,Feuer,,Basis,Schwarz-Weiß Selten,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173
+sv10.5w-173,173,Reshiram-ex,230,Feuer,,Basis,Schwarz-Weiß Selten,,"normal, reverse, holo",Weiße Flammen,Karmesin & Purpur,173

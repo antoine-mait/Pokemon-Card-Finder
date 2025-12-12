@@ -1,0 +1,104 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+bw4-1,1,Pinsir,80,Pflanze,,Basis,Selten,Masakazu Fukuda,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-2,2,Samurzel,40,Pflanze,,Basis,Häufig,Kagemaru Himeno,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-3,3,Zirpurze,60,Pflanze,,Basis,Häufig,MAHOU,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-4,4,Zirpeise,90,Pflanze,,Rang 1,Ungewöhnlich,Naoyo Kimura,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-5,5,Shaymin-EX,110,Pflanze,,,Selten,Shizurow,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-6,6,Vegimak,70,Pflanze,,Basis,Häufig,Megumi Mizutani,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-7,7,Vegichita,90,Pflanze,,Rang 1,Selten,kawayoo,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-8,8,Tarnpignon,40,Pflanze,,Basis,Häufig,Masakazu Fukuda,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-9,9,Hutsassa,90,Pflanze,,Rang 1,Selten,Kouki Saitou,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-10,10,Fukano,80,Feuer,,Basis,Häufig,Masakazu Fukuda,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-11,11,Fukano,80,Feuer,,Basis,Häufig,Mizue,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-12,12,Arkani,130,Feuer,,Rang 1,Selten,Mitsuhiro Arita,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-13,13,Arkani,120,Feuer,,Rang 1,Ungewöhnlich,Ryo Ueda,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-14,14,Lavados,120,Feuer,,Basis,Selten,Ryo Ueda,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-15,15,Grillmak,70,Feuer,,Basis,Häufig,James Turner,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-16,16,Grillchita,90,Feuer,,Rang 1,Selten,Kouki Saitou,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-17,17,Flampion,80,Feuer,,Basis,Häufig,Atsuko Nishida,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-18,18,Lichtel,60,Feuer,,Basis,Häufig,Kanako Eo,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-19,19,Laternecto,80,Feuer,,Rang 1,Ungewöhnlich,Midori Harada,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-20,20,Skelabra,120,Feuer,,Rang 2,Selten,5ban Graphics,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-21,21,Reshiram,130,Feuer,,Basis,Selten,5ban Graphics,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-22,22,Reshiram-EX,180,Feuer,,,Selten,Shizurow,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-23,23,Sterndu,60,Wasser,,Basis,Häufig,Naoyo Kimura,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-24,24,Starmie,90,Wasser,,Rang 1,Ungewöhnlich,Shin Nagasawa,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-25,25,Lapras,100,Wasser,,Basis,Selten,Kouki Saitou,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-26,26,Lapras,90,Wasser,,Basis,Ungewöhnlich,Mizue,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-27,27,Arktos,120,Wasser,,Basis,Selten,Ryo Ueda,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-28,28,Sodamak,70,Wasser,,Basis,Häufig,Reiko Tanoue,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-29,29,Sodachita,90,Wasser,,Rang 1,Selten,Akira Komayama,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-30,30,Barschuft,80,Wasser,,Basis,Ungewöhnlich,Kagemaru Himeno,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-31,31,Gelatini,60,Wasser,,Basis,Häufig,Kanako Eo,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-32,32,Gelatroppo,80,Wasser,,Rang 1,Ungewöhnlich,Mizue,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-33,33,Gelatwino,130,Wasser,,Rang 2,Selten,Akira Komayama,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-34,34,Quabbel,80,Wasser,,Basis,Ungewöhnlich,Suwama Chiaki,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-35,35,Apoquallyp,120,Wasser,,Rang 1,Selten,Mitsuhiro Arita,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-36,36,Petznief,70,Wasser,,Basis,Häufig,Atsuko Nishida,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-37,37,Siberio,120,Wasser,,Rang 1,Selten,kawayoo,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-38,38,Kyurem-EX,180,Wasser,,,Selten,Shizurow,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-39,39,Pikachu,60,Elektro,,Basis,Häufig,Akira Komayama,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-40,40,Raichu,90,Elektro,,Rang 1,Ungewöhnlich,Naoki Saito,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-41,41,Zapdos,120,Elektro,,Basis,Selten,Ryo Ueda,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-42,42,Sheinux,60,Elektro,,Basis,Häufig,Atsuko Nishida,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-43,43,Sheinux,60,Elektro,,Basis,Häufig,Naoki Saito,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-44,44,Luxio,80,Elektro,,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-45,45,Luxio,80,Elektro,,Rang 1,Ungewöhnlich,Naoki Saito,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-46,46,Luxtra,140,Elektro,,Rang 2,Selten,Shin Nagasawa,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-47,47,Elezeba,60,Elektro,,Basis,Häufig,sui,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-48,48,Zebritz,90,Elektro,,Rang 1,Selten,Naoki Saito,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-49,49,Emolga,70,Elektro,,Basis,Ungewöhnlich,Akira Komayama,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-50,50,Zekrom,130,Elektro,,Basis,Selten,5ban Graphics,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-51,51,Zekrom-EX,180,Elektro,,,Selten,Shizurow,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-52,52,Sleima,70,Psycho,,Basis,Häufig,Kagemaru Himeno,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-53,53,Sleimok,110,Psycho,,Rang 1,Selten,match,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-54,54,Mewtu-EX,170,Psycho,,,Selten,Shizurow,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-55,55,Trasla,60,Psycho,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-56,56,Kirlia,80,Psycho,,Rang 1,Ungewöhnlich,MAHOU,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-57,57,Guardevoir,110,Psycho,,Rang 2,Selten,Mizue,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-58,58,Somniam,70,Psycho,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-59,59,Somnivora,100,Psycho,,Rang 1,Selten,Maiko Fujiwara,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-60,60,Flampivian,110,Psycho,,Rang 1,Selten,Shin Nagasawa,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-61,61,Pygraulon,60,Psycho,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-62,62,Megalon,80,Psycho,,Rang 1,Selten,Kouki Saitou,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-63,63,Riolu,70,Kampf,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-64,64,Lucario,100,Kampf,,Rang 1,Selten,Naoki Saito,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-65,65,Hippopotas,90,Kampf,,Basis,Häufig,match,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-66,66,Hippoterus,130,Kampf,,Rang 1,Ungewöhnlich,Naoki Saito,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-67,67,Lin-Fu,60,Kampf,,Basis,Häufig,Midori Harada,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-68,68,Wie-Shu,90,Kampf,,Rang 1,Ungewöhnlich,Suwama Chiaki,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-69,69,Sniebel,60,Unlicht,,Basis,Häufig,Masakazu Fukuda,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-70,70,Snibunna,90,Unlicht,,Rang 1,Selten,Akira Komayama,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-71,71,Blanas,80,Unlicht,,Rang 1,Ungewöhnlich,Naoyo Kimura,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-72,72,Tengulist,130,Unlicht,,Rang 2,Selten,match,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-73,73,Zurrokex,70,Unlicht,,Basis,Ungewöhnlich,Mizue,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-74,74,Irokex,90,Unlicht,,Rang 1,Selten,Naoki Saito,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-75,75,Bronzel,70,Metall,,Basis,Häufig,Naoki Saito,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-76,76,Bronzong,110,Metall,,Rang 1,Selten,Kouki Saitou,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-77,77,Kastadur,60,Metall,,Basis,Häufig,match,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-78,78,Pummeluff,70,Farblos,,Basis,Ungewöhnlich,sui,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-79,79,Knuddeluff,90,Farblos,,Rang 1,Selten,Shin Nagasawa,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-80,80,Mauzi,70,Farblos,,Basis,Häufig,Naoki Saito,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-81,81,Snobilikat,90,Farblos,,Rang 1,Selten,Shigenori Negishi,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-82,82,Regigigas-EX,180,Farblos,,,Selten,Shizurow,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-83,83,Dusselgurr,60,Farblos,,Basis,Häufig,MAHOU,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-84,84,Picochilla,60,Farblos,,Basis,Ungewöhnlich,Tomohiro Kitakaze,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-85,85,Chillabell,90,Farblos,,Rang 1,Selten,Kanako Eo,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-86,86,Benny,,,,,Ungewöhnlich,Yusuke Ohmura,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-87,87,EP-Teiler,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-88,88,Schwerball,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-89,89,Levelball,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-90,90,Pokémon-Center,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-91,91,Himmelspfeilbrücke,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-92,92,Doppel-Farblos-Energie,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-93,93,Prisma-Energie,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-94,94,Shaymin-EX,110,Pflanze,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-95,95,Reshiram-EX,180,Feuer,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-96,96,Kyurem-EX,180,Wasser,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-97,97,Zekrom-EX,180,Elektro,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-98,98,Mewtu-EX,170,Psycho,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-99,99,Regigigas-EX,180,Farblos,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-100,100,Flambirex,150,Feuer,,Rang 2,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-101,101,Skelabra,130,Psycho,,Rang 2,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-102,102,Zoroark,100,Unlicht,,Rang 1,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103
+bw4-103,103,Trikephalo,150,Unlicht,,Rang 2,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Kommende Schicksale,Schwarz & Weiß,103

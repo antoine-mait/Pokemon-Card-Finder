@@ -1,0 +1,181 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sv08.5-001,001,Owei,60,Pflanze,,Basis,Häufig,Iori Suzuki,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-002,002,Kokowei,140,Pflanze,Owei,Rang 1,Ungewöhnlich,Dsuke,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-003,003,Pinsir,120,Pflanze,,Basis,Häufig,Uninori,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-004,004,Knospi,30,Pflanze,,Basis,Häufig,Yoriyuki Ikegami,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-005,005,Folipurba,120,Pflanze,Evoli,Rang 1,Selten,Kuroimori,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-006,006,Folipurba-ex,270,Pflanze,Evoli,Rang 1,Doppelselten,5ban Graphics,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-007,007,Waumboll,60,Pflanze,,Basis,Häufig,Kyoko Umemoto,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-008,008,Elfun,100,Pflanze,Waumboll,Rang 1,Selten,Mizue,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-009,009,Knapfel,40,Pflanze,,Basis,Häufig,Yoriyuki Ikegami,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-010,010,Sirapfel,80,Pflanze,Knapfel,Rang 1,Ungewöhnlich,Saboteri,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-011,011,Hydrapfel-ex,330,Pflanze,Sirapfel,Rang 2,Doppelselten,5ban Graphics,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-012,012,Türkisgrüne-Maske-Ogerpon-ex,210,Pflanze,,Basis,Doppelselten,5ban Graphics,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-013,013,Flamara,130,Feuer,Evoli,Rang 1,Selten,Ryota Murayama,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-014,014,Flamara-ex,270,Feuer,Evoli,Rang 1,Doppelselten,5ban Graphics,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-015,015,Leufeo,70,Feuer,,Basis,Häufig,Whisker,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-016,016,Pyroleo,120,Feuer,Leufeo,Rang 1,Ungewöhnlich,Takeshi Nakamura,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-017,017,Ofenmaske-Ogerpon-ex,210,Feuer,,Basis,Doppelselten,5ban Graphics,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-018,018,Flegmon,70,Wasser,,Basis,Häufig,Natsumi Yoshida,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-019,019,Laschoking,130,Wasser,Flegmon,Rang 1,Ungewöhnlich,Oswaldo KATO,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-020,020,Goldini,50,Wasser,,Basis,Häufig,saino misaki,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-021,021,Golking,110,Wasser,Goldini,Rang 1,Ungewöhnlich,Nelnal,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-022,022,Aquana,130,Wasser,Evoli,Rang 1,Selten,kirisAki,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-023,023,Aquana-ex,280,Wasser,Evoli,Rang 1,Doppelselten,5ban Graphics,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-024,024,Suicune,120,Wasser,,Basis,Ungewöhnlich,Kuroimori,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-025,025,Glaziola,120,Wasser,Evoli,Rang 1,Selten,rika,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-026,026,Glaziola-ex,270,Wasser,Evoli,Rang 1,Doppelselten,aky CG Works,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-027,027,Brunnenmaske-Ogerpon-ex,210,Wasser,,Basis,Doppelselten,5ban Graphics,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-028,028,Pikachu-ex,190,Elektro,,Basis,Doppelselten,N-DESIGN Inc.,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-029,029,Blitza,110,Elektro,Evoli,Rang 1,Selten,sui,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-030,030,Blitza-ex,260,Elektro,Evoli,Rang 1,Doppelselten,5ban Graphics,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-031,031,Eisenhand-ex,230,Elektro,,Basis,Doppelselten,PLANETA Mochizuki,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-032,032,Eisendorn-ex,230,Elektro,,Basis,Doppelselten,PLANETA Mochizuki,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-033,033,Psiana,110,Psycho,Evoli,Rang 1,Selten,Kariya,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-034,034,Psiana-ex,270,Psycho,Evoli,Rang 1,Doppelselten,5ban Graphics,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-035,035,Zwirrlicht,60,Psycho,,Basis,Häufig,IKEDA Saki,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-036,036,Zwirrklop,90,Psycho,Zwirrlicht,Rang 1,Häufig,Aya Kusube,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-037,037,Zwirrfinst,160,Psycho,Zwirrklop,Rang 2,Selten,danciao,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-038,038,Parfi,60,Psycho,,Basis,Häufig,ryoma uratsuka,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-039,039,Parfinesse,120,Psycho,Parfi,Rang 1,Häufig,Wintr Wandr,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-040,040,Feelinara,120,Psycho,Evoli,Rang 1,Selten,MINAMINAMI Take,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-041,041,Feelinara-ex,270,Psycho,Evoli,Rang 1,Doppelselten,5ban Graphics,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-042,042,Brüllschweif,90,Psycho,,Basis,Ungewöhnlich,Ryota Murayama,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-043,043,Flatterhaar,90,Psycho,,Basis,Selten,kodama,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-044,044,Benesaru,110,Psycho,,Basis,Selten,kodama,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-045,045,Beatori,120,Psycho,,Basis,Selten,Kouki Saitou,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-046,046,Eisenfels,140,Psycho,,Basis,Selten,GIDORA,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-047,047,Larvitar,70,Kampf,,Basis,Häufig,Shimaris Yukichi,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-048,048,Pupitar,90,Kampf,Larvitar,Rang 1,Häufig,Shigenori Negishi,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-049,049,Groudon,130,Kampf,,Basis,Selten,Uta,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-050,050,Riolu,70,Kampf,,Basis,Häufig,Tika Matsuno,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-051,051,Lucario-ex,260,Kampf,Riolu,Rang 1,Doppelselten,PLANETA Tsuji,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-052,052,Hippopotas,90,Kampf,,Basis,Häufig,HYOGONOSUKE,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-053,053,Hippoterus,150,Kampf,Hippopotas,Rang 1,Häufig,Kurata So,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-054,054,Blutmond-Ursaluna,150,Kampf,,Basis,Selten,Souichirou Gunjima,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-055,055,Riesenzahn,140,Kampf,,Basis,Ungewöhnlich,GIDORA,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-056,056,Sandfell-ex,220,Kampf,,Basis,Doppelselten,PLANETA Mochizuki,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-057,057,Boninu,130,Kampf,,Basis,Selten,Souichirou Gunjima,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-058,058,Fundamentmaske-Ogerpon-ex,210,Kampf,,Basis,Doppelselten,5ban Graphics,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-059,059,Nachtara,110,Unlicht,Evoli,Rang 1,Selten,matazo,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-060,060,Nachtara-ex,280,Unlicht,Evoli,Rang 1,Doppelselten,takuyoa,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-061,061,Sniebel,60,Unlicht,,Basis,Häufig,Kurata So,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-062,062,Hunduster,70,Unlicht,,Basis,Häufig,Mékayu,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-063,063,Hundemon,120,Unlicht,Hunduster,Rang 1,Häufig,kawayoo,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-064,064,Despotar-ex,340,Unlicht,Pupitar,Rang 2,Doppelselten,5ban Graphics,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-065,065,Donnersichel,140,Unlicht,,Basis,Selten,hncl,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-066,066,Bronzel,70,Metall,,Basis,Häufig,Souichirou Gunjima,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-067,067,Bronzong,130,Metall,Bronzel,Rang 1,Ungewöhnlich,Scav,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-068,068,Heatran,130,Metall,,Basis,Ungewöhnlich,Tonji Matsuno,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-069,069,Duraludon,130,Metall,,Basis,Häufig,Takeshi Nakamura,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-070,070,Briduradon,180,Metall,Duraludon,Rang 1,Selten,Oswaldo KATO,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-071,071,Grolldra,70,Drache,,Basis,Häufig,Scav,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-072,072,Phandra,90,Drache,Grolldra,Rang 1,Häufig,cochi8i,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-073,073,Katapuldra-ex,320,Drache,Phandra,Rang 2,Doppelselten,5ban Graphics,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-074,074,Evoli,50,Farblos,,Basis,Häufig,Naoyo Kimura,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-075,075,Evoli-ex,200,Farblos,,Basis,Doppelselten,aky CG Works,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-076,076,Relaxo-ex,260,Farblos,,Basis,Doppelselten,N-DESIGN Inc.,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-077,077,Hoothoot,80,Farblos,,Basis,Häufig,Nakamura Ippan,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-078,078,Noctuh,100,Farblos,Hoothoot,Rang 1,Selten,matazo,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-079,079,Dummisel,60,Farblos,,Basis,Häufig,Sanosuke Sakuma,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-080,080,Dummimisel,140,Farblos,Dummisel,Rang 1,Selten,Teeziro,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-081,081,Miltank,130,Farblos,,Basis,Häufig,Keisin,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-082,082,Lugia-ex,220,Farblos,,Basis,Doppelselten,5ban Graphics,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-083,083,Haspiror,60,Farblos,,Basis,Häufig,Naoki Saito,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-084,084,Schlapor,90,Farblos,Haspiror,Rang 1,Häufig,Tika Matsuno,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-085,085,Wirbel-Rotom,70,Farblos,,Basis,Häufig,Toshinao Aoki,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-086,086,Regigigas,160,Farblos,,Basis,Ungewöhnlich,chibi,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-087,087,Shaymin,70,Farblos,,Basis,Ungewöhnlich,Amelicart,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-088,088,Coiffwaff,100,Farblos,,Basis,Häufig,Keisin,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-089,089,Resladero,80,Farblos,,Basis,Ungewöhnlich,KEIICHIRO ITO,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-090,090,eF-eM,60,Farblos,,Basis,Häufig,Masako Tomii,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-091,091,UHaFnir-ex,270,Farblos,eF-eM,Rang 1,Doppelselten,PLANETA Igarashi,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-092,092,Terapagos-ex,230,Farblos,,Basis,Doppelselten,5ban Graphics,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-093,093,Erin,,,,,Häufig,Akira Komayama,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-094,094,Höhlensystem Null,,,,,Ungewöhnlich,MARINA Chikazawa,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-095,095,Ketten-Mochi,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-096,096,Schwarzgurt-Training,,,,,Häufig,GOSSAN,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-097,097,Schwarzgurt-Training,,,,,Häufig,GOSSAN,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-098,098,Schwarzgurt-Training,,,,,Häufig,GOSSAN,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-099,099,Schwarzgurt-Training,,,,,Häufig,GOSSAN,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-100,100,Brianna,,,,,Ungewöhnlich,Naoki Saito,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-101,101,Dicke-Freunde-Knursp,,,,,Ungewöhnlich,AYUMI ODASHIMA,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-102,102,Käfersammlerset,,,,,Ungewöhnlich,AYUMI ODASHIMA,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-103,103,Hana,,,,,Ungewöhnlich,kantaro,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-104,104,Ciphermaniacs Decodierung,,,,,Ungewöhnlich,Taira Akitsu,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-105,105,Matt,,,,,Ungewöhnlich,GIDORA,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-106,106,Irdengefäß,,,,,Ungewöhnlich,AYUMI ODASHIMA,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-107,107,Führung des Entdeckers,,,,,Ungewöhnlich,Hideki Ishikawa,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-108,108,Festplatz,,,,,Ungewöhnlich,MARINA Chikazawa,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-109,109,Freunde aus Paldea,,,,,Häufig,Cona Nitanda,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-110,110,Glastrompete,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-111,111,Terirobeere,,,,,Häufig,Studio Bora Inc.,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-112,112,Janinas Geheimkunst,,,,,Ungewöhnlich,Taira Akitsu,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-113,113,Jo,,,,,Ungewöhnlich,GIDORA,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-114,114,Tara,,,,,Ungewöhnlich,Sanosuke Sakuma,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-115,115,Aokis Geschick,,,,,Häufig,hncl,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-116,116,Maximale Angel,,,,,ASS-KLASSE,Toyste Beach,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-117,117,Maximalgürtel,,,,,ASS-KLASSE,inose yukie,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-118,118,Maske des Oni,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-119,119,Erstklassiger Fänger,,,,,ASS-KLASSE,Toyste Beach,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-120,120,Prof. Antiquas Vitalität,,,,,Ungewöhnlich,Megumi Mizutani,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-121,121,Prof. Futurus' Szenario,,,,,Ungewöhnlich,hncl,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-122,122,Forschung des Professors,,,,,Häufig,Hideki Ishikawa,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-123,123,Forschung des Professors,,,,,Häufig,Teeziro,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-124,124,Forschung des Professors,,,,,Häufig,Teeziro,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-125,125,Forschung des Professors,,,,,Häufig,Teeziro,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-126,126,Rettungsboard,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-127,127,Rotom-Stick,,,,,Häufig,Studio Bora Inc.,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-128,128,Aufwischwirbel,,,,,ASS-KLASSE,Toyste Beach,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-129,129,Funkelnder Kristall,,,,,ASS-KLASSE,Toyste Beach,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-130,130,Techradar,,,,,Ungewöhnlich,inose yukie,"normal, reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-131,131,Schatz-Tracker,,,,,ASS-KLASSE,inose yukie,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-132,132,Erin,,,,,Ultra Selten,Akira Komayama,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-133,133,Shugi,,,,,Ultra Selten,kantaro,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-134,134,Shugi,,,,,Ultra Selten,GIDORA,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-135,135,Colzo,,,,,Ultra Selten,GIDORA,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-136,136,Rioba,,,,,Ultra Selten,Ryuta Fuse,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-137,137,Freunde aus Paldea,,,,,Ultra Selten,Cona Nitanda,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-138,138,Pinio,,,,,Ultra Selten,GOSSAN,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-139,139,Aokis Geschick,,,,,Ultra Selten,hncl,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-140,140,Irsa,,,,,Ultra Selten,Naoki Saito,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-141,141,Otis,,,,,Ultra Selten,Teeziro,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-142,142,Moira,,,,,Ultra Selten,hncl,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-143,143,Quendella,,,,,Ultra Selten,Yuu Nishida,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-144,144,Folipurba-ex,270,Pflanze,Evoli,Rang 1,"Selten, besondere Illustration",Jiro Sasumo,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-145,145,Türkisgrüne-Maske-Ogerpon-ex,210,Pflanze,,Basis,"Selten, besondere Illustration",Yukihiro Tada,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-146,146,Flamara-ex,270,Feuer,Evoli,Rang 1,"Selten, besondere Illustration",Nurikabe,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-147,147,Azugladis-ex,270,Feuer,Knarbon,Rang 1,"Selten, besondere Illustration",akagi,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-148,148,Ofenmaske-Ogerpon-ex,210,Feuer,,Basis,"Selten, besondere Illustration",Yukihiro Tada,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-149,149,Aquana-ex,280,Wasser,Evoli,Rang 1,"Selten, besondere Illustration",Narano,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-150,150,Glaziola-ex,270,Wasser,Evoli,Rang 1,"Selten, besondere Illustration",Kamome Shirahama,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-151,151,Delfinator-ex,340,Wasser,Normifin,Rang 1,"Selten, besondere Illustration",Tetsuo Hara,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-152,152,Brunnenmaske-Ogerpon-ex,210,Wasser,,Basis,"Selten, besondere Illustration",Yukihiro Tada,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-153,153,Blitza-ex,260,Elektro,Evoli,Rang 1,"Selten, besondere Illustration",kantaro,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-154,154,Eisenhand-ex,230,Elektro,,Basis,"Selten, besondere Illustration",Kazumasa Yasukuni,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-155,155,Psiana-ex,270,Psycho,Evoli,Rang 1,"Selten, besondere Illustration",sui,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-156,156,Feelinara-ex,270,Psycho,Evoli,Rang 1,"Selten, besondere Illustration",Cona Nitanda,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-157,157,Eisenkrieger-ex,220,Psycho,,Basis,"Selten, besondere Illustration",danciao,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-158,158,Eisenhaupt-ex,220,Psycho,,Basis,"Selten, besondere Illustration",OKUBO,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-159,159,Sandfell-ex,220,Kampf,,Basis,"Selten, besondere Illustration",Tetsu Kayama,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-160,160,Fundamentmaske-Ogerpon-ex,210,Kampf,,Basis,"Selten, besondere Illustration",Yukihiro Tada,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-161,161,Nachtara-ex,280,Unlicht,Evoli,Rang 1,"Selten, besondere Illustration",YASHIRO Nanaco,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-162,162,Donnersichel-ex,230,Unlicht,,Basis,"Selten, besondere Illustration",Shinji Kanda,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-163,163,Infamomo-ex,190,Unlicht,,Basis,"Selten, besondere Illustration",osare,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-164,164,Monetigo-ex,260,Metall,Gierspenst,Rang 1,"Selten, besondere Illustration",Shigenori Negishi,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-165,165,Katapuldra-ex,320,Drache,Phandra,Rang 2,"Selten, besondere Illustration",Jerky,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-166,166,Furienblitz-ex,240,Drache,,Basis,"Selten, besondere Illustration",Uninori,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-167,167,Evoli-ex,200,Farblos,,Basis,"Selten, besondere Illustration",tono,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-168,168,Blutmond-Ursaluna-ex,260,Farblos,,Basis,"Selten, besondere Illustration",Yano Keiji,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-169,169,Terapagos-ex,230,Farblos,,Basis,"Selten, besondere Illustration",mashu,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-170,170,Erin,,,,,"Selten, besondere Illustration",Tomowaka,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-171,171,Matt,,,,,"Selten, besondere Illustration",Tomowaka,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-172,172,Levy,,,,,"Selten, besondere Illustration",Tomowaka,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-173,173,Janinas Geheimkunst,,,,,"Selten, besondere Illustration",Ligton,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-174,174,Jo,,,,,"Selten, besondere Illustration",Iori Suzuki,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-175,175,Tara,,,,,"Selten, besondere Illustration",Tomowaka,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-176,176,Eisenblatt-ex,220,Pflanze,,Basis,Hyperselten,5ban Graphics,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-177,177,Türkisgrüne-Maske-Ogerpon-ex,210,Pflanze,,Basis,Hyperselten,5ban Graphics,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-178,178,Windewoge-ex,220,Wasser,,Basis,Hyperselten,takuyoa,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-179,179,Pikachu-ex,200,Elektro,,Basis,Hyperselten,aky CG Works,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180
+sv08.5-180,180,Terapagos-ex,230,Farblos,,Basis,Hyperselten,5ban Graphics,"reverse, holo",Prismatische Entwicklungen,Karmesin & Purpur,180

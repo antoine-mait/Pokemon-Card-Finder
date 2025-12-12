@@ -1,0 +1,267 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sv04-001,001,Gehweiher,50,Pflanze,,Basis,Häufig,Yoriyuki Ikegami,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-002,002,Maskeregen,100,Pflanze,Gehweiher,Rang 1,Ungewöhnlich,kantaro,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-003,003,Frosdedje-ex,250,Pflanze,Schneppke,Rang 1,Doppelselten,5ban Graphics,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-004,004,Vegimak,70,Pflanze,,Basis,Häufig,Jerky,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-005,005,Vegichita,100,Pflanze,Vegimak,Rang 1,Ungewöhnlich,Kurata So,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-006,006,Lithomith,60,Pflanze,,Basis,Häufig,Scav,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-007,007,Castellith,130,Pflanze,Lithomith,Rang 1,Häufig,Shin Nagasawa,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-008,008,Frubberl,60,Pflanze,,Basis,Häufig,Kouki Saitou,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-009,009,Frubaila,90,Pflanze,Frubberl,Rang 1,Ungewöhnlich,Kariya,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-010,010,Sensect,50,Pflanze,,Basis,Häufig,OKUBO,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-011,011,Keradar,80,Pflanze,Sensect,Rang 1,Häufig,Haru Akasaka,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-012,012,Maritellit,130,Pflanze,Keradar,Rang 2,Ungewöhnlich,Oku,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-013,013,Micrick,40,Pflanze,,Basis,Häufig,Pani Kobayashi,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-014,014,Micrick,50,Pflanze,,Basis,Häufig,Kouki Saitou,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-015,015,Tentagra,50,Pflanze,,Basis,Häufig,Tomokazu Komiya,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-016,016,Tentagra,60,Pflanze,,Basis,Häufig,Souichirou Gunjima,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-017,017,Tenterra,120,Pflanze,Tentagra,Rang 1,Ungewöhnlich,Toshinao Aoki,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-018,018,Chongjian,130,Pflanze,,Basis,Selten,Kouki Saitou,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-019,019,Magby,30,Feuer,,Basis,Häufig,Naoyo Kimura,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-020,020,Grillmak,70,Feuer,,Basis,Häufig,LINNE,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-021,021,Grillchita,100,Feuer,Grillmak,Rang 1,Ungewöhnlich,Yuya Oka,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-022,022,Volcanion,130,Feuer,,Basis,Selten,Nisota Niso,"reverse, holo",Paradoxrift,Karmesin & Purpur,266
+sv04-023,023,Krokel,80,Feuer,,Basis,Häufig,Gemi,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-024,024,Lokroko,100,Feuer,Krokel,Rang 1,Ungewöhnlich,Pani Kobayashi,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-025,025,Knarbon,60,Feuer,,Basis,Häufig,kantaro,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-026,026,Knarbon,80,Feuer,,Basis,Häufig,Mizue,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-027,027,Crimanzo-ex,260,Feuer,Knarbon,Rang 1,Doppelselten,takuyoa,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-028,028,Eisenfalter,130,Feuer,,Basis,Selten,Kouki Saitou,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-029,029,Yuyu,110,Feuer,,Basis,Selten,Oswaldo KATO,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-030,030,Seeper,60,Wasser,,Basis,Häufig,HYOGONOSUKE,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-031,031,Seemon,90,Wasser,Seeper,Rang 1,Häufig,otumami,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-032,032,Seedraking,150,Wasser,Seemon,Rang 2,Selten,Tonji Matsuno,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-033,033,Remoraid,70,Wasser,,Basis,Häufig,Midori Harada,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-034,034,Octillery,110,Wasser,Remoraid,Rang 1,Häufig,Yuka Morii,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-035,035,Barschwa,30,Wasser,,Basis,Häufig,Tetsu Kayama,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-036,036,Milotic,120,Wasser,Barschwa,Rang 1,Selten,Atsuya Uki,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-037,037,Schneppke,60,Wasser,,Basis,Häufig,satoma,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-038,038,Knakrack-ex,320,Wasser,Knarksel,Rang 2,Doppelselten,5ban Graphics,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-039,039,Mantirps,30,Wasser,,Basis,Häufig,miki kudo,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-040,040,Palkia,130,Wasser,,Basis,Selten,Ryuta Fuse,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-041,041,Sodamak,70,Wasser,,Basis,Häufig,Natsumi Yoshida,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-042,042,Sodachita,100,Wasser,Sodamak,Rang 1,Ungewöhnlich,nagimiso,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-043,043,Gelatini,60,Wasser,,Basis,Häufig,miki kudo,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-044,044,Gelatroppo,90,Wasser,Gelatini,Rang 1,Häufig,Lee HyunJung,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-045,045,Gelatwino,150,Wasser,Gelatroppo,Rang 2,Ungewöhnlich,Nelnal,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-046,046,Fruyal-ex,310,Wasser,Frubaila,Rang 2,Doppelselten,5ban Graphics,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-047,047,Reißlaus,70,Wasser,,Basis,Häufig,Shigenori Negishi,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-048,048,Reißlaus,70,Wasser,,Basis,Häufig,sowsow,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-049,049,Tectass,140,Wasser,Reißlaus,Rang 1,Selten,nagimiso,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-050,050,Tectass-ex,270,Wasser,Reißlaus,Rang 1,Doppelselten,N-DESIGN Inc.,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-051,051,Schligda,50,Wasser,,Basis,Häufig,Shibuzoh.,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-052,052,Schligda,60,Wasser,,Basis,Häufig,Tomokazu Komiya,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-053,053,Schligdri,90,Wasser,Schligda,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-054,054,Agiluza,120,Wasser,,Basis,Ungewöhnlich,Oswaldo KATO,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-055,055,Heerashai,160,Wasser,,Basis,Ungewöhnlich,Kouki Saitou,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-056,056,Eisenbündel,100,Wasser,,Basis,Ungewöhnlich,Oswaldo KATO,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-057,057,Baojian,120,Wasser,,Basis,Selten,Anesaki Dynamic,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-058,058,Mewtu-ex,230,Elektro,,Basis,Doppelselten,aky CG Works,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-059,059,Elekid,30,Elektro,,Basis,Häufig,aoki,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-060,060,Plusle,70,Elektro,,Basis,Häufig,Sekio,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-061,061,Minun,70,Elektro,,Basis,Häufig,Narumi Sato,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-062,062,Elezeba,60,Elektro,,Basis,Häufig,Shinji Kanda,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-063,063,Zebritz,120,Elektro,Elezeba,Rang 1,Ungewöhnlich,GOSSAN,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-064,064,Wattzapf,40,Elektro,,Basis,Häufig,Kedamahadaitai Yawarakai,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-065,065,Voltula,100,Elektro,Wattzapf,Rang 1,Häufig,Taira Akitsu,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-066,066,Zekrom,130,Elektro,,Basis,Selten,Shiburingaru,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-067,067,Choreogel,90,Elektro,,Basis,Häufig,Saya Tsuruta,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-068,068,Kapu-Riki-ex,210,Elektro,,Basis,Doppelselten,hncl,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-069,069,Toxel,70,Elektro,,Basis,Häufig,Yuka Morii,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-070,070,Eisenhand-ex,230,Elektro,,Basis,Doppelselten,PLANETA Mochizuki,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-071,071,Natu,50,Psycho,,Basis,Häufig,ryoma uratsuka,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-072,072,Xatu,100,Psycho,Natu,Rang 1,Selten,Tetsu Kayama,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-073,073,Latios,110,Psycho,,Basis,Selten,chibi,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-074,074,Deoxys,120,Psycho,,Basis,Selten,Saya Tsuruta,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-075,075,Makabaja,70,Psycho,,Basis,Häufig,Misa Tsutsui,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-076,076,Echnatoll-ex,260,Psycho,Makabaja,Rang 1,Doppelselten,kawayoo,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-077,077,Irrbis,60,Psycho,,Basis,Häufig,saino misaki,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-078,078,Pumpdjinn,110,Psycho,Irrbis,Rang 1,Ungewöhnlich,nisimono,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-079,079,Flattutu,40,Psycho,,Basis,Häufig,Mizue,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-080,080,Flattutu,50,Psycho,,Basis,Häufig,kodama,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-081,081,Psiopatra,120,Psycho,Flattutu,Rang 1,Selten,Teeziro,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-082,082,Forgita,60,Psycho,,Basis,Häufig,Teeziro,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-083,083,Forgita,70,Psycho,,Basis,Häufig,Oswaldo KATO,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-084,084,Tafforgita,80,Psycho,Forgita,Rang 1,Häufig,Souichirou Gunjima,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-085,085,Granforgita,130,Psycho,Tafforgita,Rang 2,Ungewöhnlich,KEIICHIRO ITO,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-086,086,Brüllschweif,90,Psycho,,Basis,Ungewöhnlich,Ryota Murayama,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-087,087,Gierspenst,50,Psycho,,Basis,Häufig,Mizue,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-088,088,Gierspenst,70,Psycho,,Basis,Häufig,Kouki Saitou,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-089,089,Eisenkrieger-ex,220,Psycho,,Basis,Doppelselten,aky CG Works,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-090,090,Onix,120,Kampf,,Basis,Häufig,Shiburingaru,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-091,091,Skorgla,70,Kampf,,Basis,Häufig,HYOGONOSUKE,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-092,092,Skorgro,120,Kampf,Skorgla,Rang 1,Ungewöhnlich,GOSSAN,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-093,093,Groudon,130,Kampf,,Basis,Selten,Uta,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-094,094,Kaumalat,70,Kampf,,Basis,Häufig,saino misaki,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-095,095,Knarksel,100,Kampf,Kaumalat,Rang 1,Häufig,Nisota Niso,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-096,096,Lin-Fu,60,Kampf,,Basis,Häufig,Natsumi Yoshida,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-097,097,Wie-Shu,100,Kampf,Lin-Fu,Rang 1,Ungewöhnlich,Mousho,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-098,098,Hoopa-ex,220,Kampf,,Basis,Doppelselten,5ban Graphics,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-099,099,Meteno,70,Kampf,,Basis,Ungewöhnlich,OKUBO,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-100,100,Riffex-ex,260,Kampf,Toxel,Rang 1,Doppelselten,5ban Graphics,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-101,101,Geosali,60,Kampf,,Basis,Häufig,Mizue,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-102,102,Geosali,70,Kampf,,Basis,Häufig,Pani Kobayashi,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-103,103,Sedisal,100,Kampf,Geosali,Rang 1,Häufig,KEIICHIRO ITO,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-104,104,Saltigant,160,Kampf,Sedisal,Rang 2,Selten,Souichirou Gunjima,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-105,105,Klibbe,120,Kampf,,Basis,Ungewöhnlich,Yuya Oka,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-106,106,Flaminkno,110,Kampf,,Basis,Häufig,Anesaki Dynamic,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-107,107,Kriechflügel,140,Kampf,,Basis,Ungewöhnlich,Anesaki Dynamic,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-108,108,Sandfell-ex,220,Kampf,,Basis,Doppelselten,PLANETA Mochizuki,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-109,109,Dinglu,140,Kampf,,Basis,Selten,AKIRA EGAWA,"reverse, holo",Paradoxrift,Karmesin & Purpur,266
+sv04-110,110,Zubat,50,Unlicht,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-111,111,Golbat,80,Unlicht,Zubat,Rang 1,Häufig,Eri Yamaki,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-112,112,Iksbat,130,Unlicht,Golbat,Rang 2,Ungewöhnlich,Uta,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-113,113,Absol,100,Unlicht,,Basis,Ungewöhnlich,Shinji Kanda,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-114,114,Felilou,60,Unlicht,,Basis,Häufig,0313,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-115,115,Kleoparda,100,Unlicht,Felilou,Rang 1,Häufig,Yoshioka,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-116,116,Unratütox,70,Unlicht,,Basis,Häufig,Miki Tanaka,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-117,117,Deponitox,120,Unlicht,Unratütox,Rang 1,Ungewöhnlich,Aya Kusube,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-118,118,Yveltal,130,Unlicht,,Basis,Selten,kawayoo,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-119,119,Kleptifux,70,Unlicht,,Basis,Häufig,Yuu Nishida,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-120,120,Gaunux,110,Unlicht,Kleptifux,Rang 1,Selten,SIE NANAHARA,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-121,121,Morpeko,70,Unlicht,,Basis,Selten,Cona Nitanda,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-122,122,Lextremo,120,Unlicht,Micrick,Rang 1,Selten,Souichirou Gunjima,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-123,123,Wutpilz,120,Unlicht,,Basis,Selten,Anesaki Dynamic,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-124,124,Donnersichel-ex,230,Unlicht,,Basis,Doppelselten,takuyoa,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-125,125,Stahlos,180,Metall,Onix,Rang 1,Selten,Po-Suzuki,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-126,126,Jirachi,70,Metall,,Basis,Häufig,Naoyo Kimura,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-127,127,Kastadur,70,Metall,,Basis,Häufig,Miki Tanaka,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-128,128,Tentantel,140,Metall,Kastadur,Rang 1,Ungewöhnlich,SATOSHI NAKAI,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-129,129,Fermicula,70,Metall,,Basis,Ungewöhnlich,Kyoko Umemoto,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-130,130,Gramokles,60,Metall,,Basis,Häufig,aoki,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-131,131,Gramokles,60,Metall,,Basis,Häufig,Nagomi Nijo,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-132,132,Duokles,90,Metall,Gramokles,Rang 1,Häufig,Bun Toujo,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-133,133,Duokles,90,Metall,Gramokles,Rang 1,Häufig,Shigenori Negishi,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-134,134,Durengard,150,Metall,Duokles,Rang 2,Selten,Jiro Sasumo,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-135,135,Durengard-ex,330,Metall,Duokles,Rang 2,Doppelselten,toriyufu,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-136,136,Zacian,120,Metall,,Basis,Selten,Tonji Matsuno,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-137,137,Skelokrok-ex,330,Metall,Lokroko,Rang 2,Doppelselten,5ban Graphics,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-138,138,Schlurm,140,Metall,,Basis,Ungewöhnlich,Pani Kobayashi,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-139,139,Monetigo-ex,260,Metall,Gierspenst,Rang 1,Doppelselten,takuyoa,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-140,140,Altaria-ex,260,Drache,Wablu,Rang 1,Doppelselten,Saki Hayashiro,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-141,141,Nigiragi,70,Drache,,Basis,Ungewöhnlich,Shibuzoh.,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-142,142,Porygon,60,Farblos,,Basis,Häufig,Taiga Kayama,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-143,143,Porygon2,90,Farblos,Porygon,Rang 1,Häufig,kurumitsu,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-144,144,Porygon-Z,150,Farblos,Porygon2,Rang 2,Selten,hatachu,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-145,145,Griffel,60,Farblos,,Basis,Häufig,aspara,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-146,146,Ambidiffel,100,Farblos,Griffel,Rang 1,Ungewöhnlich,Hitoshi Ariga,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-147,147,Miltank,120,Farblos,,Basis,Häufig,sowsow,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-148,148,Flurmel,70,Farblos,,Basis,Häufig,sui,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-149,149,Krakeelo,100,Farblos,Flurmel,Rang 1,Häufig,Yukiko Baba,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-150,150,Krawumms,160,Farblos,Krakeelo,Rang 2,Ungewöhnlich,LINNE,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-151,151,Pandir,80,Farblos,,Basis,Häufig,Masakazu Fukuda,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-152,152,Wablu,50,Farblos,,Basis,Häufig,HYOGONOSUKE,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-153,153,Zwieps,30,Farblos,,Basis,Häufig,Shibuzoh.,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-154,154,Zwieps,40,Farblos,,Basis,Häufig,Akira Komayama,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-155,155,Famieps-ex,230,Farblos,Zwieps,Rang 1,Doppelselten,5ban Graphics,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-156,156,Adebom-ex,200,Farblos,,Basis,Doppelselten,PLANETA Mochizuki,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-157,157,Mopex,120,Farblos,,Basis,Ungewöhnlich,kawayoo,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-158,158,Eisenhals,130,Farblos,,Basis,Selten,Souichirou Gunjima,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-159,159,Energiekapsel aus der Vergangenheit,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-160,160,Konterfänger,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-161,161,Verfluchter Staubwedel,,,,,Ungewöhnlich,AYUMI ODASHIMA,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-162,162,Trotzweste,,,,,Ungewöhnlich,Ayaka Yoshida,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-163,163,Irdengefäß,,,,,Ungewöhnlich,AYUMI ODASHIMA,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-164,164,Energiekapsel aus der Zukunft,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-165,165,Aoki,,,,,Häufig,Akira Komayama,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-166,166,Luxuriöser Umhang,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-167,167,Irsa,,,,,Ungewöhnlich,kirisAki,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-168,168,Norman,,,,,Ungewöhnlich,Hideki Ishikawa,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-169,169,Schirmdame,,,,,Häufig,Cona Nitanda,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-170,170,Prof. Antiquas Vitalität,,,,,Ungewöhnlich,Megumi Mizutani,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-171,171,Prof. Futurus' Szenario,,,,,Ungewöhnlich,hncl,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-172,172,Cay,,,,,Ungewöhnlich,GIDORA,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-173,173,Veit,,,,,Ungewöhnlich,Ryuta Fuse,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-174,174,Anissa,,,,,Ungewöhnlich,yuu,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-175,175,Relaxo-Puppe,120,,,,Ungewöhnlich,AYUMI ODASHIMA,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-176,176,Technische Maschine: Aus heiterem Himmel,,,,,Ungewöhnlich,Studio Bora Inc.,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-177,177,Technische Maschine: Rückentwicklung,,,,,Ungewöhnlich,Studio Bora Inc.,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-178,178,Technische Maschine: Entwicklung,,,,,Ungewöhnlich,Studio Bora Inc.,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-179,179,Technische Maschine: Schubenergie,,,,,Ungewöhnlich,Studio Bora Inc.,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-180,180,Techradar,,,,,Ungewöhnlich,inose yukie,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-181,181,Tulia,,,,,Ungewöhnlich,Naoki Saito,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-182,182,Medizin-Energie,,,,,Ungewöhnlich,,"normal, reverse",Paradoxrift,Karmesin & Purpur,266
+sv04-183,183,Castellith,130,Pflanze,Lithomith,Rang 1,"Selten, Illustration",OKUBO,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-184,184,Keradar,80,Pflanze,Sensect,Rang 1,"Selten, Illustration",Tetsu Kayama,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-185,185,Tenterra,120,Pflanze,Tentagra,Rang 1,"Selten, Illustration",KEIICHIRO ITO,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-186,186,Magby,30,Feuer,,Basis,"Selten, Illustration",Mina Nakai,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-187,187,Eisenfalter,130,Feuer,,Basis,"Selten, Illustration",Takeshi Nakamura,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-188,188,Schneppke,60,Wasser,,Basis,"Selten, Illustration",Narumi Sato,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-189,189,Mantirps,30,Wasser,,Basis,"Selten, Illustration",rika,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-190,190,Gelatroppo,90,Wasser,Gelatini,Rang 1,"Selten, Illustration",Taiga Kayama,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-191,191,Reißlaus,70,Wasser,,Basis,"Selten, Illustration",Oku,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-192,192,Agiluza,120,Wasser,,Basis,"Selten, Illustration",Shibuzoh.,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-193,193,Plusle,70,Elektro,,Basis,"Selten, Illustration",OKACHEKE,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-194,194,Minun,70,Elektro,,Basis,"Selten, Illustration",OKACHEKE,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-195,195,Elezeba,60,Elektro,,Basis,"Selten, Illustration",matazo,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-196,196,Wattzapf,40,Elektro,,Basis,"Selten, Illustration",Atsushi Furusawa,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-197,197,Psiopatra,120,Psycho,Flattutu,Rang 1,"Selten, Illustration",AKIRA EGAWA,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-198,198,Gierspenst,70,Psycho,,Basis,"Selten, Illustration",Akira Komayama,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-199,199,Groudon,130,Kampf,,Basis,"Selten, Illustration",Nurikabe,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-200,200,Wie-Shu,100,Kampf,Lin-Fu,Rang 1,"Selten, Illustration",Taira Akitsu,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-201,201,Meteno,70,Kampf,,Basis,"Selten, Illustration",0313,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-202,202,Saltigant,160,Kampf,Sedisal,Rang 2,"Selten, Illustration",kodama,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-203,203,Kriechflügel,140,Kampf,,Basis,"Selten, Illustration",Takeshi Nakamura,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-204,204,Deponitox,120,Unlicht,Unratütox,Rang 1,"Selten, Illustration",Shinya Komatsu,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-205,205,Yveltal,130,Unlicht,,Basis,"Selten, Illustration",Masako Tomii,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-206,206,Morpeko,70,Unlicht,,Basis,"Selten, Illustration",Yuu Nishida,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-207,207,Wutpilz,120,Unlicht,,Basis,"Selten, Illustration",Tomokazu Komiya,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-208,208,Stahlos,180,Metall,Onix,Rang 1,"Selten, Illustration",nisimono,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-209,209,Tentantel,140,Metall,Kastadur,Rang 1,"Selten, Illustration",Kurata So,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-210,210,Durengard,150,Metall,Duokles,Rang 2,"Selten, Illustration",Takumi Wada,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-211,211,Griffel,60,Farblos,,Basis,"Selten, Illustration",Yuka Morii,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-212,212,Krakeelo,100,Farblos,Flurmel,Rang 1,"Selten, Illustration",NC Empire,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-213,213,Wablu,50,Farblos,,Basis,"Selten, Illustration",Jiro Sasumo,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-214,214,Porygon-Z,150,Farblos,Porygon2,Rang 2,"Selten, Illustration",GOSSAN,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-215,215,Mopex,120,Farblos,,Basis,"Selten, Illustration",Mina Nakai,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-216,216,Eisenhals,130,Farblos,,Basis,"Selten, Illustration",GIDORA,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-217,217,Frosdedje-ex,250,Pflanze,Schneppke,Rang 1,Ultra Selten,5ban Graphics,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-218,218,Crimanzo-ex,260,Feuer,Knarbon,Rang 1,Ultra Selten,takuyoa,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-219,219,Knakrack-ex,320,Wasser,Knarksel,Rang 2,Ultra Selten,5ban Graphics,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-220,220,Fruyal-ex,310,Wasser,Frubaila,Rang 2,Ultra Selten,5ban Graphics,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-221,221,Tectass-ex,270,Wasser,Reißlaus,Rang 1,Ultra Selten,N-DESIGN Inc.,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-222,222,Kapu-Riki-ex,210,Elektro,,Basis,Ultra Selten,PLANETA Igarashi,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-223,223,Eisenhand-ex,230,Elektro,,Basis,Ultra Selten,PLANETA Mochizuki,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-224,224,Echnatoll-ex,260,Psycho,Makabaja,Rang 1,Ultra Selten,Eske Yoshinob,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-225,225,Eisenkrieger-ex,220,Psycho,,Basis,Ultra Selten,aky CG Works,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-226,226,Hoopa-ex,220,Kampf,,Basis,Ultra Selten,5ban Graphics,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-227,227,Riffex-ex,260,Kampf,Toxel,Rang 1,Ultra Selten,5ban Graphics,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-228,228,Sandfell-ex,220,Kampf,,Basis,Ultra Selten,PLANETA Mochizuki,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-229,229,Donnersichel-ex,230,Unlicht,,Basis,Ultra Selten,takuyoa,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-230,230,Durengard-ex,330,Metall,Duokles,Rang 2,Ultra Selten,Satoshi Shirai,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-231,231,Monetigo-ex,260,Metall,Gierspenst,Rang 1,Ultra Selten,takuyoa,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-232,232,Altaria-ex,260,Drache,Wablu,Rang 1,Ultra Selten,Saki Hayashiro,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-233,233,Famieps-ex,230,Farblos,Zwieps,Rang 1,Ultra Selten,5ban Graphics,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-234,234,Adebom-ex,200,Farblos,,Basis,Ultra Selten,PLANETA Mochizuki,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-235,235,Aoki,,,,,Ultra Selten,Akira Komayama,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-236,236,Irsa,,,,,Ultra Selten,kirisAki,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-237,237,Norman,,,,,Ultra Selten,Hideki Ishikawa,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-238,238,Schirmdame,,,,,Ultra Selten,Cona Nitanda,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-239,239,Prof. Antiquas Vitalität,,,,,Ultra Selten,Megumi Mizutani,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-240,240,Prof. Futurus' Szenario,,,,,Ultra Selten,hncl,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-241,241,Cay,,,,,Ultra Selten,GIDORA,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-242,242,Veit,,,,,Ultra Selten,Ryuta Fuse,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-243,243,Anissa,,,,,Ultra Selten,En Morikura,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-244,244,Tulia,,,,,Ultra Selten,Naoki Saito,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-245,245,Knakrack-ex,320,Wasser,Knarksel,Rang 2,"Selten, besondere Illustration",Oswaldo KATO,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-246,246,Tectass-ex,270,Wasser,Reißlaus,Rang 1,"Selten, besondere Illustration",Oku,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-247,247,Kapu-Riki-ex,210,Elektro,,Basis,"Selten, besondere Illustration",Jerky,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-248,248,Eisenhand-ex,230,Elektro,,Basis,"Selten, besondere Illustration",Toshinao Aoki,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-249,249,Eisenkrieger-ex,220,Psycho,,Basis,"Selten, besondere Illustration",kantaro,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-250,250,Sandfell-ex,220,Kampf,,Basis,"Selten, besondere Illustration",Toshinao Aoki,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-251,251,Donnersichel-ex,230,Unlicht,,Basis,"Selten, besondere Illustration",Ryota Murayama,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-252,252,Monetigo-ex,260,Metall,Gierspenst,Rang 1,"Selten, besondere Illustration",Akira Komayama,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-253,253,Altaria-ex,260,Drache,Wablu,Rang 1,"Selten, besondere Illustration",Jiro Sasumo,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-254,254,Irsa,,,,,"Selten, besondere Illustration",rika,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-255,255,Schirmdame,,,,,"Selten, besondere Illustration",En Morikura,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-256,256,Prof. Antiquas Vitalität,,,,,"Selten, besondere Illustration",Ryota Murayama,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-257,257,Prof. Futurus' Szenario,,,,,"Selten, besondere Illustration",Atsushi Furusawa,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-258,258,Cay,,,,,"Selten, besondere Illustration",kantaro,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-259,259,Tulia,,,,,"Selten, besondere Illustration",AKIRA EGAWA,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-260,260,Knakrack-ex,320,Wasser,Knarksel,Rang 2,Hyperselten,5ban Graphics,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-261,261,Eisenkrieger-ex,220,Psycho,,Basis,Hyperselten,aky CG Works,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-262,262,Donnersichel-ex,230,Unlicht,,Basis,Hyperselten,takuyoa,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-263,263,Strandplatz,,,,,Hyperselten,Oswaldo KATO,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-264,264,Konterfänger,,,,,Hyperselten,Toyste Beach,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-265,265,Luxuriöser Umhang,,,,,Hyperselten,Toyste Beach,holo,Paradoxrift,Karmesin & Purpur,266
+sv04-266,266,Wandel-Energie,,,,,Hyperselten,,holo,Paradoxrift,Karmesin & Purpur,266

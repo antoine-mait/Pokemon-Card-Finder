@@ -1,0 +1,131 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+me02-001,001,Myrapla,50,Pflanze,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-002,002,Duflor,70,Pflanze,,Rang 1,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-003,003,Giflor,150,Pflanze,,Rang 2,Selten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-004,004,Mega-Skaraborn-ex,280,Pflanze,,Basis,Doppelselten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-005,005,Loturzel,70,Pflanze,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-006,006,Lombrero,90,Pflanze,,Rang 1,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-007,007,Kappalores,160,Pflanze,,Rang 2,Ungewöhnlich,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-008,008,Genesect,120,Pflanze,,Basis,Selten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-009,009,Micrick,50,Pflanze,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-010,010,Lextremo,120,Pflanze,,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-011,011,Glumanda,80,Feuer,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-012,012,Glutexo,110,Feuer,,Rang 1,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-013,013,Mega-Glurak X-ex,360,Feuer,,Rang 2,Doppelselten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-014,014,Lavados,120,Feuer,,Basis,Selten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-015,015,Flampion,80,Feuer,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-016,016,Flampivian,150,Feuer,,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-017,017,Reshiram,130,Feuer,,Basis,Selten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-018,018,Choreogel-ex,190,Feuer,,Basis,Doppelselten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-019,019,Knarbon,70,Feuer,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-020,020,Azugladis,140,Feuer,,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-021,021,Jurob,80,Wasser,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-022,022,Jugong,130,Wasser,,Rang 1,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-023,023,Quiekel,70,Wasser,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-024,024,Keifel,100,Wasser,,Rang 1,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-025,025,Mamutel,180,Wasser,,Rang 2,Ungewöhnlich,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-026,026,Suicune,130,Wasser,,Basis,Selten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-027,027,Plinfa,70,Wasser,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-028,028,Pliprin,100,Wasser,,Rang 1,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-029,029,Rotom-ex,190,Elektro,,Basis,Doppelselten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-030,030,Voldi,70,Elektro,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-031,031,Bellektro,130,Elektro,,Rang 1,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-032,032,Pamo,60,Elektro,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-033,033,Pamamo,90,Elektro,,Rang 1,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-034,034,Pamomamo,140,Elektro,,Rang 2,Selten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-035,035,Traunfugil,70,Psycho,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-036,036,Traunmagil-ex,260,Psycho,,Rang 1,Doppelselten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-037,037,Snubbull,70,Psycho,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-038,038,Granbull,130,Psycho,,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-039,039,Cresselia,120,Psycho,,Basis,Ungewöhnlich,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-040,040,Meloetta,90,Psycho,,Basis,Ungewöhnlich,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-041,041,Mega-Diancie-ex,270,Psycho,,Basis,Doppelselten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-042,042,Mimigma,70,Psycho,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-043,043,Hokumil,50,Psycho,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-044,044,Pokusan,90,Psycho,,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-045,045,Zacian,130,Psycho,,Basis,Selten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-046,046,Weherba,50,Psycho,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-047,047,Horrerba,100,Psycho,,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-048,048,Paldea-Tauros,130,Kampf,,Basis,Ungewöhnlich,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-049,049,Skorgla,70,Kampf,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-050,050,Skorgro,120,Kampf,,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-051,051,Knacklion,70,Kampf,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-052,052,Vibrava,90,Kampf,,Rang 1,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-053,053,Libelldra,150,Kampf,,Rang 2,Selten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-054,054,Nebulak,70,Unlicht,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-055,055,Alpollo,100,Unlicht,,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-056,056,Mega-Gengar-ex,350,Unlicht,,Rang 2,Doppelselten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-057,057,Kramurx,60,Unlicht,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-058,058,Kramshef,130,Unlicht,,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-059,059,Zobiris,80,Unlicht,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-060,060,Kanivanha,70,Unlicht,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-061,061,Mega-Tohaido-ex,330,Unlicht,,Rang 1,Doppelselten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-062,062,Vipitis,120,Unlicht,,Basis,Ungewöhnlich,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-063,063,Absol,110,Unlicht,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-064,064,Ganovil,70,Unlicht,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-065,065,Rokkaiman,100,Unlicht,,Rang 1,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-066,066,Rabigator,170,Unlicht,,Rang 2,Ungewöhnlich,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-067,067,Toxel,70,Unlicht,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-068,068,Riffex,140,Unlicht,,Rang 1,Selten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-069,069,Endynalos,150,Unlicht,,Basis,Ungewöhnlich,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-070,070,Impoleon-ex,320,Metall,,Rang 2,Doppelselten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-071,071,Bronzel,80,Metall,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-072,072,Bronzong,140,Metall,,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-073,073,Togedemaru,80,Metall,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-074,074,Duraludon,130,Metall,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-075,075,Briduradon,180,Metall,,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-076,076,Pummeluff,70,Farblos,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-077,077,Knuddeluff,120,Farblos,,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-078,078,Griffel,70,Farblos,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-079,079,Ambidiffel,110,Farblos,,Rang 1,Selten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-080,080,Farbeagle,80,Farblos,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-081,081,Zigzachs,70,Farblos,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-082,082,Geradaks,100,Farblos,,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-083,083,Haspiror,70,Farblos,,Basis,Häufig,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-084,084,Mega-Schlapor-ex,330,Farblos,,Rang 1,Doppelselten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-085,085,Kampfkäfig,,,,,Ungewöhnlich,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-086,086,Schweißbrenner,,,,,Ungewöhnlich,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-087,087,Lucia,,,,,Ungewöhnlich,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-088,088,Taumeltal,,,,,Ungewöhnlich,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-089,089,Feuerspucker,,,,,Ungewöhnlich,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-090,090,Astors Zug,,,,,Ungewöhnlich,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-091,091,Rieseneis,,,,,Ungewöhnlich,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-092,092,Punk-Helm,,,,,Ungewöhnlich,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-093,093,Geweihtes Amulett,,,,,Ungewöhnlich,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-094,094,Wunderpflaster,,,,,Ungewöhnlich,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-095,095,Kappalores,160,Pflanze,,Rang 2,"Selten, Illustration",,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-096,096,Micrick,50,Pflanze,,Basis,"Selten, Illustration",,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-097,097,Jugong,130,Wasser,,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-098,098,Plinfa,70,Wasser,,Basis,"Selten, Illustration",,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-099,099,Voldi,70,Elektro,,Basis,"Selten, Illustration",,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-100,100,Zacian,130,Psycho,,Basis,"Selten, Illustration",,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-101,101,Libelldra,150,Kampf,,Rang 2,"Selten, Illustration",,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-102,102,Paldea-Felino,60,Unlicht,,Basis,"Selten, Illustration",,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-103,103,Riffex,140,Unlicht,,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-104,104,Togedemaru,80,Metall,,Basis,"Selten, Illustration",,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-105,105,Knuddeluff,120,Farblos,,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-106,106,Mauzi,70,Farblos,,Basis,"Selten, Illustration",,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-107,107,Ambidiffel,110,Farblos,,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-108,108,Mega-Skaraborn-ex,280,Pflanze,,Basis,Ultra Selten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-109,109,Mega-Glurak X-ex,360,Feuer,,Rang 2,Ultra Selten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-110,110,Choreogel-ex,190,Feuer,,Basis,Ultra Selten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-111,111,Rotom-ex,190,Elektro,,Basis,Ultra Selten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-112,112,Traunmagil-ex,260,Psycho,,Rang 1,Ultra Selten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-113,113,Mega-Tohaido-ex,330,Unlicht,,Rang 1,Ultra Selten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-114,114,Impoleon-ex,320,Metall,,Rang 2,Ultra Selten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-115,115,Mega-Schlapor-ex,330,Farblos,,Rang 1,Ultra Selten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-116,116,Kampfkäfig,,,,,Ultra Selten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-117,117,Schweißbrenner,,,,,Ultra Selten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-118,118,Lucia,,,,,Ultra Selten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-119,119,Feuerspucker,,,,,Ultra Selten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-120,120,Astors Zug,,,,,Ultra Selten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-121,121,Punk-Helm,,,,,Ultra Selten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-122,122,Geweihtes Amulett,,,,,Ultra Selten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-123,123,Tausch,,,,,Ultra Selten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-124,124,Zünd-Energie,,,,,Ultra Selten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-125,125,Mega-Glurak X-ex,360,Feuer,,Rang 2,"Selten, besondere Illustration",,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-126,126,Rotom-ex,190,Elektro,,Basis,"Selten, besondere Illustration",,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-127,127,Mega-Tohaido-ex,330,Unlicht,,Rang 1,"Selten, besondere Illustration",,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-128,128,Mega-Schlapor-ex,330,Farblos,,Rang 1,"Selten, besondere Illustration",,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-129,129,Lucia,,,,,"Selten, besondere Illustration",,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130
+me02-130,130,Mega-Glurak X-ex,360,Feuer,,Rang 2,Mega Hyper Selten,,"normal, reverse, holo",Fatale Flammen,Mega-Entwicklung,130

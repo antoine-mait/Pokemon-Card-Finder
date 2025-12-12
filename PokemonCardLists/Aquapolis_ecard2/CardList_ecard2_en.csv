@@ -1,0 +1,187 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+ecard2-1,1,Ampharos,100,Lightning,Flaaffy,Stage2,Rare,Shin-ichi Yoshida,"normal, reverse",Aquapolis,E-Card,186
+ecard2-2,2,Arcanine,90,Fire,Growlithe,Stage1,Rare,Kyoko Umemoto,"normal, reverse",Aquapolis,E-Card,186
+ecard2-3,3,Ariados,70,Grass,Spinarak,Stage1,Rare,Shin-ichi Yoshida,"normal, reverse",Aquapolis,E-Card,186
+ecard2-4,4,Azumarill,70,Water,Marill,Stage1,Rare,Kagemaru Himeno,"normal, reverse",Aquapolis,E-Card,186
+ecard2-5,5,Bellossom,90,Grass,Gloom,Stage2,Rare,Sumiyoshi Kizuki,"normal, reverse",Aquapolis,E-Card,186
+ecard2-6,6,Blissey,120,Colorless,Chansey,Stage1,Rare,Naoyo Kimura,"normal, reverse",Aquapolis,E-Card,186
+ecard2-7,7,Donphan,80,Fighting,Phanpy,Stage1,Rare,Mitsuhiro Arita,"normal, reverse",Aquapolis,E-Card,186
+ecard2-8,8,Electrode,70,Lightning,Voltorb,Stage1,Rare,Shin-ichi Yoshida,"normal, reverse",Aquapolis,E-Card,186
+ecard2-9,9,Elekid,30,Lightning,,Basic,Rare,Hikaru Koike,"normal, reverse",Aquapolis,E-Card,186
+ecard2-10,10,Entei,70,Fire,,Basic,Rare,Atsuko Nishida,"normal, reverse",Aquapolis,E-Card,186
+ecard2-11,11,Espeon,80,Psychic,Eevee,Stage1,Rare,Kyoko Umemoto,"normal, reverse",Aquapolis,E-Card,186
+ecard2-12,12,Exeggutor,80,Grass,Exeggcute,Stage1,Rare,Yukiko Baba,"normal, reverse",Aquapolis,E-Card,186
+ecard2-13,13,Exeggutor,80,Psychic,Exeggcute,Stage1,Rare,Sumiyoshi Kizuki,"normal, reverse",Aquapolis,E-Card,186
+ecard2-14,14,Houndoom,80,Fire,Houndour,Stage1,Rare,Naoyo Kimura,"normal, reverse",Aquapolis,E-Card,186
+ecard2-15,15,Houndoom,70,Darkness,Houndour,Stage1,Rare,Hajime Kusajima,"normal, reverse",Aquapolis,E-Card,186
+ecard2-16,16,Hypno,80,Psychic,Drowzee,Stage1,Rare,Mitsuhiro Arita,"normal, reverse",Aquapolis,E-Card,186
+ecard2-17,17,Jumpluff,70,Grass,Skiploom,Stage2,Rare,Yuka Morii,"normal, reverse",Aquapolis,E-Card,186
+ecard2-18,18,Jynx,60,Psychic,,Basic,Rare,Hisao Nakamura,"normal, reverse",Aquapolis,E-Card,186
+ecard2-19,19,Kingdra,120,Water,Seadra,Stage2,Rare,Atsuko Nishida,"normal, reverse",Aquapolis,E-Card,186
+ecard2-20,20,Lanturn,80,Water,Chinchou,Stage1,Rare,Mitsuhiro Arita,"normal, reverse",Aquapolis,E-Card,186
+ecard2-21,21,Lanturn,80,Lightning,Chinchou,Stage1,Rare,Yuka Morii,"normal, reverse",Aquapolis,E-Card,186
+ecard2-22,22,Magneton,70,Metal,Magnemite,Stage1,Rare,Hikaru Koike,"normal, reverse",Aquapolis,E-Card,186
+ecard2-23,23,Muk,70,Grass,Grimer,Stage1,Rare,Hajime Kusajima,"normal, reverse",Aquapolis,E-Card,186
+ecard2-24,24,Nidoking,110,Fighting,Nidorino,Stage2,Rare,Naoyo Kimura,"normal, reverse",Aquapolis,E-Card,186
+ecard2-25,25,Ninetales,80,Fire,Vulpix,Stage1,Rare,Kagemaru Himeno,"normal, reverse",Aquapolis,E-Card,186
+ecard2-26,26,Octillery,80,Water,Remoraid,Stage1,Rare,Kouki Saitou,"normal, reverse",Aquapolis,E-Card,186
+ecard2-27,27,Parasect,70,Grass,Paras,Stage1,Rare,Masako Yamashita,"normal, reverse",Aquapolis,E-Card,186
+ecard2-28,28,Porygon2,70,Colorless,Porygon,Stage1,Rare,Hikaru Koike,"normal, reverse",Aquapolis,E-Card,186
+ecard2-29,29,Primeape,80,Fighting,Mankey,Stage1,Rare,Tomokazu Komiya,"normal, reverse",Aquapolis,E-Card,186
+ecard2-30,30,Quagsire,80,Water,Wooper,Stage1,Rare,Mitsuhiro Arita,"normal, reverse",Aquapolis,E-Card,186
+ecard2-31,31,Rapidash,70,Fire,Ponyta,Stage1,Rare,Kouki Saitou,"normal, reverse",Aquapolis,E-Card,186
+ecard2-32,32,Scizor,80,Metal,Scyther,Stage1,Rare,Hisao Nakamura,"normal, reverse",Aquapolis,E-Card,186
+ecard2-33,33,Slowbro,80,Water,Slowpoke,Stage1,Rare,Aya Kusube,"normal, reverse",Aquapolis,E-Card,186
+ecard2-34,34,Slowking,80,Psychic,Slowpoke,Stage1,Rare,Aya Kusube,"normal, reverse",Aquapolis,E-Card,186
+ecard2-35,35,Steelix,100,Metal,Onix,Stage1,Rare,Hajime Kusajima,"normal, reverse",Aquapolis,E-Card,186
+ecard2-36,36,Sudowoodo,60,Fighting,,Basic,Rare,Kagemaru Himeno,"normal, reverse",Aquapolis,E-Card,186
+ecard2-37,37,Suicune,70,Water,,Basic,Rare,Atsuko Nishida,"normal, reverse",Aquapolis,E-Card,186
+ecard2-38,38,Tentacruel,70,Water,Tentacool,Stage1,Rare,Hajime Kusajima,"normal, reverse",Aquapolis,E-Card,186
+ecard2-39,39,Togetic,60,Colorless,Togepi,Stage1,Rare,Kagemaru Himeno,"normal, reverse",Aquapolis,E-Card,186
+ecard2-40,40,Tyranitar,120,Darkness,Pupitar,Stage2,Rare,Naoyo Kimura,"normal, reverse",Aquapolis,E-Card,186
+ecard2-41,41,Umbreon,80,Darkness,Eevee,Stage1,Rare,Mitsuhiro Arita,"normal, reverse",Aquapolis,E-Card,186
+ecard2-42,42,Victreebel,90,Grass,Weepinbell,Stage2,Rare,Miki Tanaka,"normal, reverse",Aquapolis,E-Card,186
+ecard2-43,43,Vileplume,100,Grass,Gloom,Stage2,Rare,Kyoko Umemoto,"normal, reverse",Aquapolis,E-Card,186
+ecard2-44,44,Zapdos,80,Lightning,,Basic,Rare,Hajime Kusajima,"normal, reverse",Aquapolis,E-Card,186
+ecard2-45,45,Bellsprout,50,Grass,,Basic,Uncommon,Masako Yamashita,"normal, reverse",Aquapolis,E-Card,186
+ecard2-46,46,Dodrio,70,Colorless,Doduo,Stage1,Uncommon,Yukiko Baba,"normal, reverse",Aquapolis,E-Card,186
+ecard2-47,47,Flaaffy,80,Lightning,Mareep,Stage1,Uncommon,Shin-ichi Yoshida,"normal, reverse",Aquapolis,E-Card,186
+ecard2-48,48,Furret,70,Colorless,Sentret,Stage1,Uncommon,Atsuko Nishida,"normal, reverse",Aquapolis,E-Card,186
+ecard2-49,49,Gloom,70,Grass,Oddish,Stage1,Uncommon,Kyoko Umemoto,"normal, reverse",Aquapolis,E-Card,186
+ecard2-50a,50a,Golduck,70,Water,Psyduck,Stage1,Uncommon,Sumiyoshi Kizuki,"normal, reverse",Aquapolis,E-Card,186
+ecard2-50b,50b,Golduck,70,Water,Psyduck,Stage1,Uncommon,Sumiyoshi Kizuki,"normal, reverse",Aquapolis,E-Card,186
+ecard2-51,51,Growlithe,60,Fire,,Basic,Uncommon,Kyoko Umemoto,"normal, reverse",Aquapolis,E-Card,186
+ecard2-52,52,Magnemite,40,Metal,,Basic,Uncommon,Shin-ichi Yoshida,"normal, reverse",Aquapolis,E-Card,186
+ecard2-53,53,Marill,50,Water,,Basic,Uncommon,Yukiko Baba,"normal, reverse",Aquapolis,E-Card,186
+ecard2-54,54,Marowak,70,Fighting,Cubone,Stage1,Uncommon,Kagemaru Himeno,"normal, reverse",Aquapolis,E-Card,186
+ecard2-55,55,Nidorino,70,Grass,Nidoran♂,Stage1,Uncommon,Kagemaru Himeno,"normal, reverse",Aquapolis,E-Card,186
+ecard2-56,56,Pupitar,80,Fighting,Larvitar,Stage1,Uncommon,Naoyo Kimura,"normal, reverse",Aquapolis,E-Card,186
+ecard2-57,57,Scyther,60,Grass,,Basic,Uncommon,Hisao Nakamura,"normal, reverse",Aquapolis,E-Card,186
+ecard2-58,58,Seadra,70,Water,Horsea,Stage1,Uncommon,Mitsuhiro Arita,"normal, reverse",Aquapolis,E-Card,186
+ecard2-59,59,Seaking,70,Water,Goldeen,Stage1,Uncommon,Sumiyoshi Kizuki,"normal, reverse",Aquapolis,E-Card,186
+ecard2-60,60,Skiploom,60,Grass,Hoppip,Stage1,Uncommon,Yuka Morii,"normal, reverse",Aquapolis,E-Card,186
+ecard2-61,61,Smoochum,30,Psychic,,Basic,Uncommon,Kagemaru Himeno,"normal, reverse",Aquapolis,E-Card,186
+ecard2-62,62,Spinarak,50,Grass,,Basic,Uncommon,Masako Yamashita,"normal, reverse",Aquapolis,E-Card,186
+ecard2-63,63,Tyrogue,30,Fighting,,Basic,Uncommon,Tomokazu Komiya,"normal, reverse",Aquapolis,E-Card,186
+ecard2-64,64,Voltorb,50,Lightning,,Basic,Uncommon,Yukiko Baba,"normal, reverse",Aquapolis,E-Card,186
+ecard2-65,65,Weepinbell,70,Grass,Bellsprout,Stage1,Uncommon,Miki Tanaka,"normal, reverse",Aquapolis,E-Card,186
+ecard2-66,66,Wooper,50,Water,,Basic,Uncommon,Atsuko Nishida,"normal, reverse",Aquapolis,E-Card,186
+ecard2-67,67,Aipom,50,Colorless,,Basic,Common,Kagemaru Himeno,"normal, reverse",Aquapolis,E-Card,186
+ecard2-68,68,Bellsprout,40,Grass,,Basic,Common,Keiko Fukuyama,"normal, reverse",Aquapolis,E-Card,186
+ecard2-69,69,Chansey,100,Colorless,,Basic,Common,Atsuko Nishida,"normal, reverse",Aquapolis,E-Card,186
+ecard2-70,70,Chinchou,50,Water,,Basic,Common,Yuka Morii,"normal, reverse",Aquapolis,E-Card,186
+ecard2-71,71,Chinchou,50,Lightning,,Basic,Common,Hisao Nakamura,"normal, reverse",Aquapolis,E-Card,186
+ecard2-72,72,Cubone,40,Fighting,,Basic,Common,Midori Harada,"normal, reverse",Aquapolis,E-Card,186
+ecard2-73,73,Doduo,40,Colorless,,Basic,Common,Yukiko Baba,"normal, reverse",Aquapolis,E-Card,186
+ecard2-74a,74a,Drowzee,50,Psychic,,Basic,Common,Hisao Nakamura,"normal, reverse",Aquapolis,E-Card,186
+ecard2-74b,74b,Drowzee,50,Psychic,,Basic,Common,Hisao Nakamura,"normal, reverse",Aquapolis,E-Card,186
+ecard2-75,75,Eevee,50,Colorless,,Basic,Common,Midori Harada,"normal, reverse",Aquapolis,E-Card,186
+ecard2-76,76,Exeggcute,40,Grass,,Basic,Common,Yukiko Baba,"normal, reverse",Aquapolis,E-Card,186
+ecard2-77,77,Exeggcute,50,Psychic,,Basic,Common,Sumiyoshi Kizuki,"normal, reverse",Aquapolis,E-Card,186
+ecard2-78,78,Goldeen,40,Water,,Basic,Common,Miki Tanaka,"normal, reverse",Aquapolis,E-Card,186
+ecard2-79,79,Grimer,50,Grass,,Basic,Common,Keiji Kinebuchi,"normal, reverse",Aquapolis,E-Card,186
+ecard2-80,80,Growlithe,50,Fire,,Basic,Common,Yukiko Baba,"normal, reverse",Aquapolis,E-Card,186
+ecard2-81,81,Hitmonchan,60,Fighting,,Basic,Common,Tomokazu Komiya,"normal, reverse",Aquapolis,E-Card,186
+ecard2-82,82,Hitmontop,60,Fighting,,Basic,Common,Tomokazu Komiya,"normal, reverse",Aquapolis,E-Card,186
+ecard2-83,83,Hoppip,40,Grass,,Basic,Common,Yuka Morii,"normal, reverse",Aquapolis,E-Card,186
+ecard2-84,84,Horsea,40,Water,,Basic,Common,Hisao Nakamura,"normal, reverse",Aquapolis,E-Card,186
+ecard2-85,85,Horsea,50,Water,,Basic,Common,Atsuko Nishida,"normal, reverse",Aquapolis,E-Card,186
+ecard2-86,86,Houndour,50,Fire,,Basic,Common,Midori Harada,"normal, reverse",Aquapolis,E-Card,186
+ecard2-87,87,Houndour,50,Darkness,,Basic,Common,Atsuko Nishida,"normal, reverse",Aquapolis,E-Card,186
+ecard2-88,88,Kangaskhan,70,Colorless,,Basic,Common,Toshinao Aoki,"normal, reverse",Aquapolis,E-Card,186
+ecard2-89,89,Larvitar,40,Fighting,,Basic,Common,Naoyo Kimura,"normal, reverse",Aquapolis,E-Card,186
+ecard2-90,90,Lickitung,80,Colorless,,Basic,Common,Yuka Morii,"normal, reverse",Aquapolis,E-Card,186
+ecard2-91,91,Magnemite,50,Lightning,,Basic,Common,Hajime Kusajima,"normal, reverse",Aquapolis,E-Card,186
+ecard2-92,92,Mankey,40,Fighting,,Basic,Common,Tomokazu Komiya,"normal, reverse",Aquapolis,E-Card,186
+ecard2-93,93,Mareep,40,Lightning,,Basic,Common,Hizuki Misono,"normal, reverse",Aquapolis,E-Card,186
+ecard2-94,94,Miltank,60,Colorless,,Basic,Common,Kouki Saitou,"normal, reverse",Aquapolis,E-Card,186
+ecard2-95a,95a,Mr. Mime,50,Psychic,,Basic,Common,Yukiko Baba,"normal, reverse",Aquapolis,E-Card,186
+ecard2-95b,95b,Mr. Mime,50,Psychic,,Basic,Common,Yukiko Baba,"normal, reverse",Aquapolis,E-Card,186
+ecard2-96,96,Nidoran♂,50,Grass,,Basic,Common,Keiko Fukuyama,"normal, reverse",Aquapolis,E-Card,186
+ecard2-97,97,Oddish,50,Grass,,Basic,Common,Kyoko Umemoto,"normal, reverse",Aquapolis,E-Card,186
+ecard2-98,98,Onix,60,Fighting,,Basic,Common,Hajime Kusajima,"normal, reverse",Aquapolis,E-Card,186
+ecard2-99,99,Paras,50,Grass,,Basic,Common,Miki Tanaka,"normal, reverse",Aquapolis,E-Card,186
+ecard2-100,100,Phanpy,40,Fighting,,Basic,Common,Naoyo Kimura,"normal, reverse",Aquapolis,E-Card,186
+ecard2-101,101,Pinsir,60,Grass,,Basic,Common,Toshinao Aoki,"normal, reverse",Aquapolis,E-Card,186
+ecard2-102,102,Ponyta,40,Fire,,Basic,Common,Shin-ichi Yoshida,"normal, reverse",Aquapolis,E-Card,186
+ecard2-103b,103b,Porygon,40,Colorless,,Basic,Common,Masako Yamashita,"normal, reverse",Aquapolis,E-Card,186
+ecard2-103a,103a,Porygon,40,Colorless,,Basic,Common,Masako Yamashita,"normal, reverse",Aquapolis,E-Card,186
+ecard2-104,104,Psyduck,50,Water,,Basic,Common,Keiko Fukuyama,"normal, reverse",Aquapolis,E-Card,186
+ecard2-105,105,Remoraid,50,Water,,Basic,Common,Mitsuhiro Arita,"normal, reverse",Aquapolis,E-Card,186
+ecard2-106,106,Scyther,50,Grass,,Basic,Common,Midori Harada,"normal, reverse",Aquapolis,E-Card,186
+ecard2-107,107,Sentret,50,Colorless,,Basic,Common,Hizuki Misono,"normal, reverse",Aquapolis,E-Card,186
+ecard2-108,108,Slowpoke,50,Water,,Basic,Common,Aya Kusube,"normal, reverse",Aquapolis,E-Card,186
+ecard2-109,109,Smeargle,60,Colorless,,Basic,Common,Miki Tanaka,"normal, reverse",Aquapolis,E-Card,186
+ecard2-110,110,Sneasel,60,Darkness,,Basic,Common,Midori Harada,"normal, reverse",Aquapolis,E-Card,186
+ecard2-111,111,Spinarak,40,Grass,,Basic,Common,Miki Tanaka,"normal, reverse",Aquapolis,E-Card,186
+ecard2-112,112,Tangela,60,Grass,,Basic,Common,Tomokazu Komiya,"normal, reverse",Aquapolis,E-Card,186
+ecard2-113,113,Tentacool,50,Water,,Basic,Common,Hajime Kusajima,"normal, reverse",Aquapolis,E-Card,186
+ecard2-114,114,Togepi,40,Colorless,,Basic,Common,Miki Tanaka,"normal, reverse",Aquapolis,E-Card,186
+ecard2-115,115,Voltorb,40,Lightning,,Basic,Common,Keiji Kinebuchi,"normal, reverse",Aquapolis,E-Card,186
+ecard2-116,116,Vulpix,50,Fire,,Basic,Common,Keiko Fukuyama,"normal, reverse",Aquapolis,E-Card,186
+ecard2-117,117,Wooper,40,Water,,Basic,Common,Keiko Fukuyama,"normal, reverse",Aquapolis,E-Card,186
+ecard2-118,118,Apricorn Forest,,,,,Rare,Midori Harada,"normal, reverse",Aquapolis,E-Card,186
+ecard2-119,119,Darkness Cube 01,,,,,Uncommon,,"normal, reverse",Aquapolis,E-Card,186
+ecard2-120,120,Energy Switch,,,,,Uncommon,Mikio Menjo,"normal, reverse",Aquapolis,E-Card,186
+ecard2-121,121,Fighting Cube 01,,,,,Uncommon,,"normal, reverse",Aquapolis,E-Card,186
+ecard2-122,122,Fire Cube 01,,,,,Uncommon,"""Big Mama"" Tagawa","normal, reverse",Aquapolis,E-Card,186
+ecard2-123,123,Forest Guardian,,,,,Uncommon,Ken Sugimori,"normal, reverse",Aquapolis,E-Card,186
+ecard2-124,124,Grass Cube 01,,,,,Uncommon,"""Big Mama"" Tagawa","normal, reverse",Aquapolis,E-Card,186
+ecard2-125,125,Healing Berry,,,,,Uncommon,Shin-ichi Yoshida,"normal, reverse",Aquapolis,E-Card,186
+ecard2-126,126,Juggler,,,,,Uncommon,Ken Sugimori,"normal, reverse",Aquapolis,E-Card,186
+ecard2-127,127,Lightning Cube 01,,,,,Uncommon,,"normal, reverse",Aquapolis,E-Card,186
+ecard2-128,128,Memory Berry,,,,,Uncommon,Shin-ichi Yoshikawa,"normal, reverse",Aquapolis,E-Card,186
+ecard2-129,129,Metal Cube 01,,,,,Uncommon,,"normal, reverse",Aquapolis,E-Card,186
+ecard2-130,130,Pokémon Fan Club,,,,,Uncommon,Ken Sugimori,"normal, reverse",Aquapolis,E-Card,186
+ecard2-131,131,Pokémon Park,,,,,Uncommon,Kazuo Yazawa,"normal, reverse",Aquapolis,E-Card,186
+ecard2-132,132,Psychic Cube 01,,,,,Uncommon,,"normal, reverse",Aquapolis,E-Card,186
+ecard2-133,133,Seer,,,,,Uncommon,Ken Sugimori,"normal, reverse",Aquapolis,E-Card,186
+ecard2-134,134,Super Energy Removal 2,,,,,Uncommon,Keiji Kinebuchi,"normal, reverse",Aquapolis,E-Card,186
+ecard2-135,135,Time Shard,,,,,Uncommon,Shin-ichi Yoshikawa,"normal, reverse",Aquapolis,E-Card,186
+ecard2-136,136,Town Volunteers,,,,,Uncommon,Ken Sugimori,"normal, reverse",Aquapolis,E-Card,186
+ecard2-137,137,Traveling Salesman,,,,,Uncommon,Ken Sugimori,"normal, reverse",Aquapolis,E-Card,186
+ecard2-138,138,Undersea Ruins,,,,,Uncommon,Midori Harada,"normal, reverse",Aquapolis,E-Card,186
+ecard2-139,139,Power Plant,,,,,Uncommon,Kai Ishikawa,"normal, reverse",Aquapolis,E-Card,186
+ecard2-140,140,Water Cube 01,,,,,Uncommon,,"normal, reverse",Aquapolis,E-Card,186
+ecard2-141,141,Weakness Guard,,,,,Uncommon,Jungo Suzuki,"normal, reverse",Aquapolis,E-Card,186
+ecard2-142,142,Darkness Energy,,,,,Rare,Milky Isobe,"normal, reverse",Aquapolis,E-Card,186
+ecard2-143,143,Metal Energy,,,,,Rare,Milky Isobe,"normal, reverse",Aquapolis,E-Card,186
+ecard2-144,144,Rainbow Energy,,,,,Rare,Takumi Akabane,"normal, reverse",Aquapolis,E-Card,186
+ecard2-145,145,Boost Energy,,,,,Uncommon,Shin-ichi Yoshikawa,"normal, reverse",Aquapolis,E-Card,186
+ecard2-146,146,Crystal Energy,,,,,Uncommon,Shin-ichi Yoshikawa,"normal, reverse",Aquapolis,E-Card,186
+ecard2-147,147,Warp Energy,,,,,Uncommon,Keiji Kinebuchi,"normal, reverse",Aquapolis,E-Card,186
+ecard2-148,148,Kingdra,110,Colorless,Seadra,Stage2,Rare,Mikio Menjo,"normal, reverse",Aquapolis,E-Card,186
+ecard2-149,149,Lugia,80,Colorless,,Basic,Rare,Naoyo Kimura,"normal, reverse",Aquapolis,E-Card,186
+ecard2-150,150,Nidoking,100,Colorless,Nidorino,Stage2,Rare,Hironobu Yoshida,"normal, reverse",Aquapolis,E-Card,186
+ecard2-H01,H01,Ampharos,100,Lightning,Flaaffy,Stage2,Rare,Shin-ichi Yoshida,holo,Aquapolis,E-Card,186
+ecard2-H02,H02,Arcanine,90,Fire,Growlithe,Stage1,Rare,Kyoko Umemoto,holo,Aquapolis,E-Card,186
+ecard2-H03,H03,Ariados,70,Grass,Spinarak,Stage1,Rare,Shin-ichi Yoshida,holo,Aquapolis,E-Card,186
+ecard2-H04,H04,Azumarill,70,Water,Marill,Stage1,Rare,Kagemaru Himeno,holo,Aquapolis,E-Card,186
+ecard2-H05,H05,Bellossom,90,Grass,Gloom,Stage2,Rare,Sumiyoshi Kizuki,holo,Aquapolis,E-Card,186
+ecard2-H06,H06,Blissey,120,Colorless,Chansey,Stage1,Rare,Naoyo Kimura,holo,Aquapolis,E-Card,186
+ecard2-H07,H07,Electrode,70,Lightning,Voltorb,Stage1,Rare,Shin-ichi Yoshida,holo,Aquapolis,E-Card,186
+ecard2-H08,H08,Entei,70,Fire,,Basic,Rare,Atsuko Nishida,holo,Aquapolis,E-Card,186
+ecard2-H09,H09,Espeon,80,Psychic,Eevee,Stage1,Rare,Kyoko Umemoto,holo,Aquapolis,E-Card,186
+ecard2-H10,H10,Exeggutor,80,Grass,Exeggcute,Stage1,Rare,Yukiko Baba,holo,Aquapolis,E-Card,186
+ecard2-H11,H11,Houndoom,70,Darkness,Houndour,Stage1,Rare,Hajime Kusajima,holo,Aquapolis,E-Card,186
+ecard2-H12,H12,Hypno,80,Psychic,Drowzee,Stage1,Rare,Mitsuhiro Arita,holo,Aquapolis,E-Card,186
+ecard2-H13,H13,Jumpluff,70,Grass,Skiploom,Stage2,Rare,Yuka Morii,holo,Aquapolis,E-Card,186
+ecard2-H14,H14,Kingdra,120,Water,Seadra,Stage2,Rare,Atsuko Nishida,holo,Aquapolis,E-Card,186
+ecard2-H15,H15,Lanturn,80,Lightning,Chinchou,Stage1,Rare,Yuka Morii,holo,Aquapolis,E-Card,186
+ecard2-H16,H16,Magneton,70,Metal,Magnemite,Stage1,Rare,Hikaru Koike,holo,Aquapolis,E-Card,186
+ecard2-H17,H17,Muk,70,Grass,Grimer,Stage1,Rare,Hajime Kusajima,holo,Aquapolis,E-Card,186
+ecard2-H18,H18,Nidoking,110,Fighting,Nidorino,Stage2,Rare,Naoyo Kimura,holo,Aquapolis,E-Card,186
+ecard2-H19,H19,Ninetales,80,Fire,Vulpix,Stage1,Rare,Kagemaru Himeno,holo,Aquapolis,E-Card,186
+ecard2-H20,H20,Octillery,80,Water,Remoraid,Stage1,Rare,Kouki Saitou,holo,Aquapolis,E-Card,186
+ecard2-H21,H21,Scizor,80,Metal,Scyther,Stage1,Rare,Hisao Nakamura,holo,Aquapolis,E-Card,186
+ecard2-H22,H22,Slowking,80,Psychic,Slowpoke,Stage1,Rare,Aya Kusube,holo,Aquapolis,E-Card,186
+ecard2-H23,H23,Steelix,100,Metal,Onix,Stage1,Rare,Hajime Kusajima,holo,Aquapolis,E-Card,186
+ecard2-H24,H24,Sudowoodo,60,Fighting,,Basic,Rare,Kagemaru Himeno,holo,Aquapolis,E-Card,186
+ecard2-H25,H25,Suicune,70,Water,,Basic,Rare,Atsuko Nishida,holo,Aquapolis,E-Card,186
+ecard2-H26,H26,Tentacruel,70,Water,Tentacool,Stage1,Rare,Hajime Kusajima,holo,Aquapolis,E-Card,186
+ecard2-H27,H27,Togetic,60,Colorless,Togepi,Stage1,Rare,Kagemaru Himeno,holo,Aquapolis,E-Card,186
+ecard2-H28,H28,Tyranitar,120,Darkness,Pupitar,Stage2,Rare,Naoyo Kimura,holo,Aquapolis,E-Card,186
+ecard2-H29,H29,Umbreon,80,Darkness,Eevee,Stage1,Rare,Mitsuhiro Arita,holo,Aquapolis,E-Card,186
+ecard2-H30,H30,Victreebel,90,Grass,Weepinbell,Stage2,Rare,Miki Tanaka,holo,Aquapolis,E-Card,186
+ecard2-H31,H31,Vileplume,100,Grass,Gloom,Stage2,Rare,Kyoko Umemoto,holo,Aquapolis,E-Card,186
+ecard2-H32,H32,Zapdos,80,Lightning,,Basic,Rare,Hajime Kusajima,holo,Aquapolis,E-Card,186

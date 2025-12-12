@@ -1,0 +1,174 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sv10.5w-001,001,Larveyette,50,Plante,,De base,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-002,002,Couverdure,80,Plante,Larveyette,Niveau 1,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-003,003,Manternel,130,Plante,Couverdure,Niveau 2,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-004,004,Doudouvet,60,Plante,,De base,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-005,005,Farfaduvet-ex,230,Plante,Doudouvet,Niveau 1,Double rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-006,006,Vivaldaim,70,Plante,,De base,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-007,007,Haydaim,130,Plante,Vivaldaim,Niveau 1,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-008,008,Escargaume,60,Plante,,De base,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-009,009,Limaspeed,100,Plante,Escargaume,Niveau 1,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-010,010,Viridium,120,Plante,,De base,Rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-011,011,Gruikui,70,Feu,,De base,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-012,012,Grotichon,110,Feu,Gruikui,Niveau 1,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-013,013,Roitiflam,180,Feu,Grotichon,Niveau 2,Rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-014,014,Flamajou,70,Feu,,De base,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-015,015,Flamoutan,100,Feu,Flamajou,Niveau 1,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-016,016,Funécire,60,Feu,,De base,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-017,017,Mélancolux,80,Feu,Funécire,Niveau 1,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-018,018,Lugulabre,150,Feu,Mélancolux,Niveau 2,Rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-019,019,Aflamanoir,120,Feu,,De base,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-020,020,Reshiram-ex,230,Feu,,De base,Double rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-021,021,Moustillon,70,Eau,,De base,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-022,022,Mateloutre,100,Eau,Moustillon,Niveau 1,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-023,023,Clamiral,160,Eau,Mateloutre,Niveau 2,Rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-024,024,Bargantua,90,Eau,,De base,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-025,025,Couaneton,70,Eau,,De base,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-026,026,Lakmécygne,120,Eau,Couaneton,Niveau 1,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-027,027,Sorbébé,60,Eau,,De base,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-028,028,Sorboul,90,Eau,Sorbébé,Niveau 1,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-029,029,Sorbouboul,150,Eau,Sorboul,Niveau 2,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-030,030,Keldeo-ex,210,Eau,,De base,Double rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-031,031,Zébibron,60,Électrique,,De base,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-032,032,Zéblitz,120,Électrique,Zébibron,Niveau 1,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-033,033,Statitik,40,Électrique,,De base,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-034,034,Mygavolt,90,Électrique,Statitik,Niveau 1,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-035,035,Limonde,110,Électrique,,De base,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-036,036,Chovsourir,60,Psy,,De base,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-037,037,Rhinolove,90,Psy,Chovsourir,Niveau 1,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-038,038,Cryptéro,120,Psy,,De base,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-039,039,Tutafeh,70,Psy,,De base,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-040,040,Tutankafer,120,Psy,Tutafeh,Niveau 1,Rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-041,041,Scrutella,70,Psy,,De base,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-042,042,Mesmérella,90,Psy,Scrutella,Niveau 1,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-043,043,Sidérella,150,Psy,Mesmérella,Niveau 2,Rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-044,044,Viskuse,80,Psy,,De base,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-045,045,Moyade-ex,270,Psy,Viskuse,Niveau 1,Double rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-046,046,Nodulithe,80,Combat,,De base,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-047,047,Géolithe,110,Combat,Nodulithe,Niveau 1,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-048,048,Gigalithe,170,Combat,Géolithe,Niveau 2,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-049,049,Karaclée,110,Combat,,De base,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-050,050,Arkéapti,80,Combat,Fossile Plume Ancien,Niveau 1,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-051,051,Aéroptéryx,140,Combat,Arkéapti,Niveau 2,Rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-052,052,Kungfouine,60,Combat,,De base,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-053,053,Shaofouine,100,Combat,Kungfouine,Niveau 1,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-054,054,Terrakium,140,Combat,,De base,Rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-055,055,Chacripan,60,Obscurité,,De base,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-056,056,Léopardus,110,Obscurité,Chacripan,Niveau 1,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-057,057,Baggiguane,70,Obscurité,,De base,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-058,058,Baggaïd,120,Obscurité,Baggiguane,Niveau 1,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-059,059,Miamiasme,70,Obscurité,,De base,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-060,060,Miasmax,140,Obscurité,Miamiasme,Niveau 1,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-061,061,Zorua,70,Obscurité,,De base,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-062,062,Zoroark,120,Obscurité,Zorua,Niveau 1,Rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-063,063,Vostourno,70,Obscurité,,De base,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-064,064,Vaututrice,110,Obscurité,Vostourno,Niveau 1,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-065,065,Solochi,80,Obscurité,,De base,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-066,066,Diamat,110,Obscurité,Solochi,Niveau 1,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-067,067,Trioxhydre-ex,330,Obscurité,Diamat,Niveau 2,Double rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-068,068,Grindur,70,Métal,,De base,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-069,069,Noacier,140,Métal,Grindur,Niveau 1,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-070,070,Fermite,110,Métal,,De base,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-071,071,Drakkarmin,120,Dragon,,De base,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-072,072,Ratentif,60,Incolore,,De base,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-073,073,Miradar,90,Incolore,Ratentif,Niveau 1,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-074,074,Ponchiot,60,Incolore,,De base,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-075,075,Ponchien,90,Incolore,Ponchiot,Niveau 1,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-076,076,Mastouffe,160,Incolore,Ponchien,Niveau 2,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-077,077,Frison-ex,220,Incolore,,De base,Double rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-078,078,Boréas,120,Incolore,,De base,Rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-079,079,Fossile Plume Ancien,60,,,,Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-080,080,Bracelet Vaillant,,,,,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-081,081,Tcheren,,,,,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-082,082,Récupération d'Énergie,,,,,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-083,083,Clown,,,,,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-084,084,Ludvina,,,,,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-085,085,Arrache-Outil,,,,,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-086,086,Énergie Amorce,,,,,Peu Commune,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-087,087,Larveyette,50,Plante,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-088,088,Couverdure,80,Plante,Larveyette,Niveau 1,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-089,089,Manternel,130,Plante,Couverdure,Niveau 2,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-090,090,Doudouvet,60,Plante,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-091,091,Vivaldaim,70,Plante,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-092,092,Haydaim,130,Plante,Vivaldaim,Niveau 1,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-093,093,Escargaume,60,Plante,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-094,094,Limaspeed,100,Plante,Escargaume,Niveau 1,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-095,095,Viridium,120,Plante,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-096,096,Gruikui,70,Feu,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-097,097,Grotichon,110,Feu,Gruikui,Niveau 1,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-098,098,Roitiflam,180,Feu,Grotichon,Niveau 2,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-099,099,Flamajou,70,Feu,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-100,100,Flamoutan,100,Feu,Flamajou,Niveau 1,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-101,101,Funécire,60,Feu,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-102,102,Mélancolux,80,Feu,Funécire,Niveau 1,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-103,103,Lugulabre,150,Feu,Mélancolux,Niveau 2,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-104,104,Aflamanoir,120,Feu,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-105,105,Moustillon,70,Eau,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-106,106,Mateloutre,100,Eau,Moustillon,Niveau 1,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-107,107,Clamiral,160,Eau,Mateloutre,Niveau 2,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-108,108,Bargantua,90,Eau,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-109,109,Couaneton,70,Eau,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-110,110,Lakmécygne,120,Eau,Couaneton,Niveau 1,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-111,111,Sorbébé,60,Eau,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-112,112,Sorboul,90,Eau,Sorbébé,Niveau 1,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-113,113,Sorbouboul,150,Eau,Sorboul,Niveau 2,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-114,114,Zébibron,60,Électrique,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-115,115,Zéblitz,120,Électrique,Zébibron,Niveau 1,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-116,116,Statitik,40,Électrique,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-117,117,Mygavolt,90,Électrique,Statitik,Niveau 1,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-118,118,Limonde,110,Électrique,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-119,119,Chovsourir,60,Psy,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-120,120,Rhinolove,90,Psy,Chovsourir,Niveau 1,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-121,121,Cryptéro,120,Psy,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-122,122,Tutafeh,70,Psy,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-123,123,Tutankafer,120,Psy,Tutafeh,Niveau 1,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-124,124,Scrutella,70,Psy,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-125,125,Mesmérella,90,Psy,Scrutella,Niveau 1,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-126,126,Viskuse,80,Psy,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-127,127,Nodulithe,80,Combat,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-128,128,Géolithe,110,Combat,Nodulithe,Niveau 1,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-129,129,Gigalithe,170,Combat,Géolithe,Niveau 2,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-130,130,Karaclée,110,Combat,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-131,131,Arkéapti,80,Combat,Fossile Plume Ancien,Niveau 1,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-132,132,Aéroptéryx,140,Combat,Arkéapti,Niveau 2,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-133,133,Kungfouine,60,Combat,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-134,134,Shaofouine,100,Combat,Kungfouine,Niveau 1,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-135,135,Terrakium,140,Combat,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-136,136,Chacripan,60,Obscurité,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-137,137,Léopardus,110,Obscurité,Chacripan,Niveau 1,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-138,138,Baggiguane,70,Obscurité,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-139,139,Baggaïd,120,Obscurité,Baggiguane,Niveau 1,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-140,140,Miamiasme,70,Obscurité,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-141,141,Miasmax,140,Obscurité,Miamiasme,Niveau 1,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-142,142,Zorua,70,Obscurité,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-143,143,Zoroark,120,Obscurité,Zorua,Niveau 1,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-144,144,Vostourno,70,Obscurité,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-145,145,Vaututrice,110,Obscurité,Vostourno,Niveau 1,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-146,146,Solochi,80,Obscurité,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-147,147,Diamat,110,Obscurité,Solochi,Niveau 1,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-148,148,Grindur,70,Métal,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-149,149,Noacier,140,Métal,Grindur,Niveau 1,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-150,150,Fermite,110,Métal,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-151,151,Drakkarmin,120,Dragon,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-152,152,Ratentif,60,Incolore,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-153,153,Miradar,90,Incolore,Ratentif,Niveau 1,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-154,154,Ponchiot,60,Incolore,,De base,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-155,155,Ponchien,90,Incolore,Ponchiot,Niveau 1,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-156,156,Mastouffe,160,Incolore,Ponchien,Niveau 2,Illustration rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-157,157,Farfaduvet-ex,230,Plante,Doudouvet,Niveau 1,Ultra Rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-158,158,Reshiram-ex,230,Feu,,De base,Ultra Rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-159,159,Keldeo-ex,210,Eau,,De base,Ultra Rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-160,160,Moyade-ex,270,Psy,Viskuse,Niveau 1,Ultra Rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-161,161,Trioxhydre-ex,330,Obscurité,Diamat,Niveau 2,Ultra Rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-162,162,Frison-ex,220,Incolore,,De base,Ultra Rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-163,163,Clown,,,,,Ultra Rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-164,164,Ludvina,,,,,Ultra Rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-165,165,Farfaduvet-ex,230,Plante,Doudouvet,Niveau 1,Illustration spéciale rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-166,166,Reshiram-ex,230,Feu,,De base,Illustration spéciale rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-167,167,Keldeo-ex,210,Eau,,De base,Illustration spéciale rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-168,168,Moyade-ex,270,Psy,Viskuse,Niveau 1,Illustration spéciale rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-169,169,Trioxhydre-ex,330,Obscurité,Diamat,Niveau 2,Illustration spéciale rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-170,170,Frison-ex,220,Incolore,,De base,Illustration spéciale rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-171,171,Ludvina,,,,,Illustration spéciale rare,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-172,172,Victini,80,Feu,,De base,Rare Noir Blanc,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173
+sv10.5w-173,173,Reshiram-ex,230,Feu,,De base,Rare Noir Blanc,,"normal, reverse, holo",Flamme Blanche,Écarlate et Violet,173

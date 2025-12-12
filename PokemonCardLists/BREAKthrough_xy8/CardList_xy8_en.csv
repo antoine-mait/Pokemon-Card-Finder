@@ -1,0 +1,166 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+xy8-1,1,Paras,60,Grass,,Basic,Common,Hajime Kusajima,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-2,2,Parasect,100,Grass,Paras,Stage1,Rare,Sumiyoshi Kizuki,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-3,3,Pinsir,100,Grass,,Basic,Uncommon,Satoshi Shirai,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-4,4,Cacnea,60,Grass,,Basic,Common,Yuka Morii,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-5,5,Pansage,60,Grass,,Basic,Common,Hajime Kusajima,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-6,6,Simisage,90,Grass,Pansage,Stage1,Rare,Kagemaru Himeno,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-7,7,Chespin,60,Grass,,Basic,Common,Megumi Mizutani,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-8,8,Chespin,60,Grass,,Basic,Common,Megumi Mizutani,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-9,9,Chespin,60,Grass,,Basic,Common,Kouki Saitou,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-10,10,Quilladin,90,Grass,Chespin,Stage1,Uncommon,Miki Tanaka,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-11,11,Chesnaught,160,Grass,Quilladin,Stage2,Rare,Mitsuhiro Arita,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-12,12,Chesnaught BREAK,190,Grass,Chesnaught,BREAK,Ultra Rare,5ban Graphics,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-13,13,Scatterbug,30,Grass,,Basic,Common,Sumiyoshi Kizuki,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-14,14,Spewpa,70,Grass,Scatterbug,Stage1,Uncommon,Saya Tsuruta,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-15,15,Vivillon,120,Grass,Spewpa,Stage2,Rare,Mizue,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-16,16,Skiddo,70,Grass,,Basic,Common,Kanako Eo,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-17,17,Gogoat,120,Grass,Skiddo,Stage1,Uncommon,Masakazu Fukuda,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-18,18,Cyndaquil,60,Fire,,Basic,Common,Tomokazu Komiya,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-19,19,Quilava,80,Fire,Cyndaquil,Stage1,Uncommon,Shin Nagasawa,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-20,20,Typhlosion,150,Fire,Quilava,Stage2,Rare,Megumi Mizutani,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-21,21,Houndoom EX,170,Fire,,Basic,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-22,22,M Houndoom EX,210,Fire,Houndoom-EX,MEGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-23,23,Pansear,60,Fire,,Basic,Common,sui,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-24,24,Simisear,90,Fire,Pansear,Stage1,Rare,Ayaka Yoshida,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-25,25,Fennekin,50,Fire,,Basic,Common,Kanako Eo,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-26,26,Braixen,80,Fire,Fennekin,Stage1,Uncommon,kawayoo,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-27,27,Goldeen,60,Water,,Basic,Common,MAHOU,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-28,28,Seaking,90,Water,Goldeen,Stage1,Uncommon,Kyoko Umemoto,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-29,29,Staryu,60,Water,,Basic,Common,Shigenori Negishi,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-30,30,Starmie,90,Water,Staryu,Stage1,Uncommon,Mitsuhiro Arita,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-31,31,Remoraid,60,Water,,Basic,Common,Suwama Chiaki,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-32,32,Remoraid,60,Water,,Basic,Common,Suwama Chiaki,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-33,33,Octillery,90,Water,Remoraid,Stage1,Rare,Kyoko Umemoto,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-34,34,Glalie EX,170,Water,,Basic,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-35,35,M Glalie EX,220,Water,Glalie-EX,MEGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-36,36,Piplup,60,Water,,Basic,Common,Kanako Eo,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-37,37,Prinplup,80,Water,Piplup,Stage1,Uncommon,kirisAki,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-38,38,Empoleon,140,Water,Prinplup,Stage2,Rare,Satoshi Shirai,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-39,39,Snover,80,Water,,Basic,Common,Yukiko Baba,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-40,40,Abomasnow,130,Water,Snover,Stage1,Rare,Naoyo Kimura,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-41,41,Panpour,60,Water,,Basic,Common,Midori Harada,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-42,42,Simipour,90,Water,Panpour,Stage1,Rare,Masakazu Fukuda,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-43,43,Vanillite,50,Water,,Basic,Common,MAHOU,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-44,44,Vanillish,70,Water,Vanillite,Stage1,Uncommon,Kagemaru Himeno,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-45,45,Vanilluxe,130,Water,Vanillish,Stage2,Rare,Ayaka Yoshida,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-46,46,Froakie,50,Water,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-47,47,Frogadier,70,Water,Froakie,Stage1,Uncommon,Masakazu Fukuda,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-48,48,Pikachu,60,Lightning,,Basic,Common,Kouki Saitou,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-49,49,Raichu,90,Lightning,Pikachu,Stage1,Rare,Masakazu Fukuda,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-50,50,Raichu BREAK,130,Lightning,Raichu,BREAK,Ultra Rare,5ban Graphics,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-51,51,Magnemite,60,Lightning,,Basic,Common,Akira Komayama,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-52,52,Magnemite,60,Lightning,,Basic,Common,Akira Komayama,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-53,53,Magneton,80,Lightning,Magnemite,Stage1,Uncommon,Tomokazu Komiya,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-54,54,Magnezone,140,Lightning,Magneton,Stage2,Rare,Hajime Kusajima,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-55,55,Raikou,120,Lightning,,Basic,Rare,Shin Nagasawa,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-56,56,Stunfisk,110,Lightning,,Basic,Uncommon,Naoki Saito,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-57,57,Dedenne,60,Lightning,,Basic,Uncommon,Kouki Saitou,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-58,58,Gastly,50,Psychic,,Basic,Common,Shigenori Negishi,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-59,59,Haunter,70,Psychic,Gastly,Stage1,Uncommon,Midori Harada,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-60,60,Gengar,130,Psychic,Haunter,Stage2,Rare,Saya Tsuruta,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-61,61,Mewtwo EX,170,Psychic,,Basic,Ultra Rare,PLANETA,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-62,62,Mewtwo EX,170,Psychic,,Basic,Ultra Rare,PLANETA,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-63,63,M Mewtwo EX,230,Psychic,Mewtwo-EX,MEGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-64,64,M Mewtwo EX,210,Psychic,Mewtwo-EX,MEGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-65,65,Misdreavus,60,Psychic,,Basic,Common,sui,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-66,66,Mismagius,90,Psychic,Misdreavus,Stage1,Rare,Ayaka Yoshida,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-67,67,Wobbuffet,100,Psychic,,Basic,Uncommon,Akira Komayama,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-68,68,Ralts,60,Psychic,,Basic,Common,MAHOU,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-69,69,Kirlia,80,Psychic,Ralts,Stage1,Uncommon,Sanosuke Sakuma,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-70,70,Cresselia,110,Psychic,,Basic,Rare,kawayoo,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-71,71,Woobat,60,Psychic,,Basic,Common,match,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-72,72,Swoobat,90,Psychic,Woobat,Stage1,Uncommon,sui,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-73,73,Elgyem,50,Psychic,,Basic,Common,Aya Kusube,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-74,74,Beheeyem,90,Psychic,Elgyem,Stage1,Uncommon,Tomokazu Komiya,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-75,75,Sandshrew,60,Fighting,,Basic,Common,Shigenori Negishi,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-76,76,Sandslash,90,Fighting,Sandshrew,Stage1,Uncommon,Naoki Saito,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-77,77,Cubone,70,Fighting,,Basic,Common,Sumiyoshi Kizuki,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-78,78,Marowak,100,Fighting,Cubone,Stage1,Rare,match,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-79,79,Marowak BREAK,140,Fighting,Marowak,BREAK,Ultra Rare,5ban Graphics,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-80,80,Swinub,60,Fighting,,Basic,Common,Atsuko Nishida,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-81,81,Piloswine,100,Fighting,Swinub,Stage1,Uncommon,MAHOU,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-82,82,Mamoswine,160,Fighting,Piloswine,Stage2,Rare,Masakazu Fukuda,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-83,83,Hippopotas,80,Fighting,,Basic,Common,Akira Komayama,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-84,84,Gallade,150,Fighting,Kirlia,Stage2,Rare,5ban Graphics,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-85,85,Meloetta,90,Fighting,,Basic,Rare,kirisAki,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-86,86,Pancham,60,Fighting,,Basic,Common,Mizue,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-87,87,Hawlucha,80,Fighting,,Basic,Rare,match,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-88,88,Cacturne,100,Darkness,Cacnea,Stage1,Uncommon,match,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-89,89,Zorua,60,Darkness,,Basic,Common,Hitoshi Ariga,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-90,90,Zorua,60,Darkness,,Basic,Common,Hitoshi Ariga,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-91,91,Zoroark,100,Darkness,Zorua,Stage1,Rare,kawayoo,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-92,92,Zoroark BREAK,140,Darkness,Zoroark,BREAK,Ultra Rare,5ban Graphics,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-93,93,Inkay,50,Darkness,,Basic,Common,Kouki Saitou,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-94,94,Yveltal,130,Darkness,,Basic,Rare,TOKIYA,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-95,95,Bronzor,60,Metal,,Basic,Common,Shigenori Negishi,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-96,96,Bronzong,110,Metal,Bronzor,Stage1,Rare,Tomokazu Komiya,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-97,97,Mr. Mime,70,Fairy,,Basic,Rare,kirisAki,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-98,98,Snubbull,70,Fairy,,Basic,Common,Yuka Morii,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-99,99,Granbull,120,Fairy,Snubbull,Stage1,Uncommon,Naoki Saito,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-100,100,Ralts,60,Fairy,,Basic,Common,Aya Kusube,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-101,101,Flabébé,30,Fairy,,Basic,Common,Kouki Saitou,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-102,102,Floette,70,Fairy,Flabébé,Stage1,Uncommon,Midori Harada,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-103,103,Florges,110,Fairy,Floette,Stage2,Rare,Hajime Kusajima,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-104,104,Florges BREAK,140,Fairy,Florges,BREAK,Ultra Rare,5ban Graphics,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-105,105,Spritzee,40,Fairy,,Basic,Common,Naoyo Kimura,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-106,106,Aromatisse,90,Fairy,Spritzee,Stage1,Rare,Mizue,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-107,107,Xerneas,120,Fairy,,Basic,Rare,Mitsuhiro Arita,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-108,108,Axew,60,Dragon,,Basic,Common,Kagemaru Himeno,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-109,109,Axew,60,Dragon,,Basic,Common,Kagemaru Himeno,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-110,110,Fraxure,80,Dragon,Axew,Stage1,Uncommon,Mitsuhiro Arita,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-111,111,Haxorus,160,Dragon,Fraxure,Stage2,Rare,hatachu,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-112,112,Noivern,100,Dragon,Noibat,Stage1,Rare,Mitsuhiro Arita,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-113,113,Noivern BREAK,130,Dragon,Noivern,BREAK,Ultra Rare,5ban Graphics,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-114,114,Meowth,60,Colorless,,Basic,Common,kirisAki,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-115,115,Doduo,60,Colorless,,Basic,Common,Naoki Saito,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-116,116,Doduo,60,Colorless,,Basic,Common,Naoki Saito,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-117,117,Dodrio,90,Colorless,Doduo,Stage1,Rare,TOKIYA,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-118,118,Snorlax,120,Colorless,,Basic,Uncommon,Kouki Saitou,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-119,119,Hoothoot,60,Colorless,,Basic,Common,Miki Tanaka,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-120,120,Noctowl,90,Colorless,Hoothoot,Stage1,Rare,Kouki Saitou,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-121,121,Teddiursa,70,Colorless,,Basic,Common,sui,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-122,122,Ursaring,130,Colorless,Teddiursa,Stage1,Uncommon,5ban Graphics,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-123,123,Smeargle,70,Colorless,,Basic,Rare,Yukiko Baba,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-124,124,Swablu,40,Colorless,,Basic,Common,Mizue,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-125,125,Starly,50,Colorless,,Basic,Common,Kyoko Umemoto,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-126,126,Staravia,80,Colorless,Starly,Stage1,Uncommon,Suwama Chiaki,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-127,127,Staraptor,140,Colorless,Staravia,Stage2,Rare,Kouki Saitou,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-128,128,Chatot,70,Colorless,,Basic,Rare,Akira Komayama,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-129,129,Rufflet,50,Colorless,,Basic,Common,Tomokazu Komiya,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-130,130,Braviary,100,Colorless,Rufflet,Stage1,Rare,match,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-131,131,Noibat,50,Colorless,,Basic,Common,sui,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-132,132,Noibat,60,Colorless,,Basic,Common,Kagemaru Himeno,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-133,133,Assault Vest,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-134,134,Brigette,,,,,Uncommon,Megumi Mizutani,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-135,135,Buddy-Buddy Rescue,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-136,136,Fisherman,,,,,Uncommon,Hitoshi Ariga,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-137,137,Float Stone,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-138,138,Giovanni's Scheme,,,,,Uncommon,Ken Sugimori,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-139,139,Glalie Spirit Link,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-140,140,Heavy Ball,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-141,141,Heavy Boots,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-142,142,Houndoom Spirit Link,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-143,143,Judge,,,,,Uncommon,Megumi Mizutani,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-144,144,Mewtwo Spirit Link,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-145,145,Parallel City,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-146a,146a,Professor's Letter,,,,,None,,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-146,146,Professor's Letter,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-147,147,Reserved Ticket,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-148,148,Skyla,,,,,Uncommon,Yusuke Ohmura,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-149,149,Super Rod,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-150,150,Town Map,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-151,151,Burning Energy,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-152,152,Rainbow Energy,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-153,153,Houndoom EX,170,Fire,,Basic,Ultra Rare,Ryo Ueda,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-154,154,M Houndoom EX,210,Fire,Houndoom-EX,MEGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-155,155,Glalie EX,170,Water,,Basic,Ultra Rare,Ryo Ueda,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-156,156,M Glalie EX,220,Water,Glalie-EX,MEGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-157,157,Mewtwo EX,170,Psychic,,Basic,Ultra Rare,Ryo Ueda,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-158,158,Mewtwo EX,170,Psychic,,Basic,Ultra Rare,Ryo Ueda,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-159,159,M Mewtwo EX,230,Psychic,Mewtwo-EX,MEGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-160,160,M Mewtwo EX,210,Psychic,Mewtwo-EX,MEGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-161,161,Brigette,,,,,Ultra Rare,Megumi Mizutani,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-162,162,Giovanni's Scheme,,,,,Ultra Rare,Ken Sugimori,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-163,163,Mewtwo EX,170,Psychic,,Basic,Secret Rare,Mitsuhiro Arita,"normal, reverse, holo",BREAKthrough,XY,165
+xy8-164,164,Mewtwo EX,170,Psychic,,Basic,Secret Rare,Mitsuhiro Arita,"normal, reverse, holo",BREAKthrough,XY,165

@@ -1,0 +1,185 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+ecard2-1,1,Pharamp,100,Électrique,,Niveau 2,Rare,Shin-ichi Yoshida,"normal, reverse",Aquapolis,e-cards,184
+ecard2-2,2,Arcanin,90,Feu,,Niveau 1,Rare,Kyoko Umemoto,"normal, reverse",Aquapolis,e-cards,184
+ecard2-3,3,Migalos,70,Plante,,Niveau 1,Rare,Shin-ichi Yoshida,"normal, reverse",Aquapolis,e-cards,184
+ecard2-4,4,Azumarill,70,Eau,,Niveau 1,Rare,Kagemaru Himeno,"normal, reverse",Aquapolis,e-cards,184
+ecard2-5,5,Joliflor,90,Plante,,Niveau 2,Rare,Sumiyoshi Kizuki,"normal, reverse",Aquapolis,e-cards,184
+ecard2-6,6,Leuphorie,120,Incolore,,Niveau 1,Rare,Naoyo Kimura,"normal, reverse",Aquapolis,e-cards,184
+ecard2-7,7,Donphan,80,Combat,,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse",Aquapolis,e-cards,184
+ecard2-8,8,Électrode,70,Électrique,,Niveau 1,Rare,Shin-ichi Yoshida,"normal, reverse",Aquapolis,e-cards,184
+ecard2-9,9,Elékid,30,Électrique,,De base,Rare,Hikaru Koike,"normal, reverse",Aquapolis,e-cards,184
+ecard2-10,10,Entei,70,Feu,,De base,Rare,Atsuko Nishida,"normal, reverse",Aquapolis,e-cards,184
+ecard2-11,11,Mentali,80,Psy,,Niveau 1,Rare,Kyoko Umemoto,"normal, reverse",Aquapolis,e-cards,184
+ecard2-12,12,Noadkoko,80,Plante,,Niveau 1,Rare,Yukiko Baba,"normal, reverse",Aquapolis,e-cards,184
+ecard2-13,13,Noadkoko,80,Psy,,Niveau 1,Rare,Sumiyoshi Kizuki,"normal, reverse",Aquapolis,e-cards,184
+ecard2-14,14,Démolosse,80,Feu,,Niveau 1,Rare,Naoyo Kimura,"normal, reverse",Aquapolis,e-cards,184
+ecard2-15,15,Démolosse,70,Obscurité,,Niveau 1,Rare,Hajime Kusajima,"normal, reverse",Aquapolis,e-cards,184
+ecard2-16,16,Hypnomade,80,Psy,,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse",Aquapolis,e-cards,184
+ecard2-17,17,Cotovol,70,Plante,,Niveau 2,Rare,Yuka Morii,"normal, reverse",Aquapolis,e-cards,184
+ecard2-18,18,Lippoutou,60,Psy,,De base,Rare,Hisao Nakamura,"normal, reverse",Aquapolis,e-cards,184
+ecard2-19,19,Hyporoi,120,Eau,,Niveau 2,Rare,Atsuko Nishida,"normal, reverse",Aquapolis,e-cards,184
+ecard2-20,20,Lanturn,80,Eau,,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse",Aquapolis,e-cards,184
+ecard2-21,21,Lanturn,80,Électrique,,Niveau 1,Rare,Yuka Morii,"normal, reverse",Aquapolis,e-cards,184
+ecard2-22,22,Magneton,70,Métal,,Niveau 1,Rare,Hikaru Koike,"normal, reverse",Aquapolis,e-cards,184
+ecard2-23,23,Grotadmorv,70,Plante,,Niveau 1,Rare,Hajime Kusajima,"normal, reverse",Aquapolis,e-cards,184
+ecard2-24,24,Nidoking,110,Combat,,Niveau 2,Rare,Naoyo Kimura,"normal, reverse",Aquapolis,e-cards,184
+ecard2-25,25,Feunard,80,Feu,,Niveau 1,Rare,Kagemaru Himeno,"normal, reverse",Aquapolis,e-cards,184
+ecard2-26,26,Octillery,80,Eau,,Niveau 1,Rare,Kouki Saitou,"normal, reverse",Aquapolis,e-cards,184
+ecard2-27,27,Parasect,70,Plante,,Niveau 1,Rare,Masako Yamashita,"normal, reverse",Aquapolis,e-cards,184
+ecard2-28,28,Porygon2,70,Incolore,,Niveau 1,Rare,Hikaru Koike,"normal, reverse",Aquapolis,e-cards,184
+ecard2-29,29,Colossinge,80,Combat,,Niveau 1,Rare,Tomokazu Komiya,"normal, reverse",Aquapolis,e-cards,184
+ecard2-30,30,Maraiste,80,Eau,,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse",Aquapolis,e-cards,184
+ecard2-31,31,Galopa,70,Feu,,Niveau 1,Rare,Kouki Saitou,"normal, reverse",Aquapolis,e-cards,184
+ecard2-32,32,Cizayox,80,Métal,,Niveau 1,Rare,Hisao Nakamura,"normal, reverse",Aquapolis,e-cards,184
+ecard2-33,33,Flagadoss,80,Eau,,Niveau 1,Rare,Aya Kusube,"normal, reverse",Aquapolis,e-cards,184
+ecard2-34,34,Roigada,80,Psy,,Niveau 1,Rare,Aya Kusube,"normal, reverse",Aquapolis,e-cards,184
+ecard2-35,35,Steelix,100,Métal,,Niveau 1,Rare,Hajime Kusajima,"normal, reverse",Aquapolis,e-cards,184
+ecard2-36,36,Simularbre,60,Combat,,De base,Rare,Kagemaru Himeno,"normal, reverse",Aquapolis,e-cards,184
+ecard2-37,37,Suicune,70,Eau,,De base,Rare,Atsuko Nishida,"normal, reverse",Aquapolis,e-cards,184
+ecard2-38,38,Tentacruel,70,Eau,,Niveau 1,Rare,Hajime Kusajima,"normal, reverse",Aquapolis,e-cards,184
+ecard2-39,39,Togetic,60,Incolore,,Niveau 1,Rare,Kagemaru Himeno,"normal, reverse",Aquapolis,e-cards,184
+ecard2-40,40,Tyranocif,120,Obscurité,,Niveau 2,Rare,Naoyo Kimura,"normal, reverse",Aquapolis,e-cards,184
+ecard2-41,41,Noctali,80,Obscurité,,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse",Aquapolis,e-cards,184
+ecard2-42,42,Empiflor,90,Plante,,Niveau 2,Rare,Miki Tanaka,"normal, reverse",Aquapolis,e-cards,184
+ecard2-43,43,Rafflesia,100,Plante,,Niveau 2,Rare,Kyoko Umemoto,"normal, reverse",Aquapolis,e-cards,184
+ecard2-44,44,Electhor,80,Électrique,,De base,Rare,Hajime Kusajima,"normal, reverse",Aquapolis,e-cards,184
+ecard2-45,45,Chétiflor,50,Plante,,De base,Peu Commune,Masako Yamashita,"normal, reverse",Aquapolis,e-cards,184
+ecard2-46,46,Dodrio,70,Incolore,,Niveau 1,Peu Commune,Yukiko Baba,"normal, reverse",Aquapolis,e-cards,184
+ecard2-47,47,Lainergie,80,Électrique,,Niveau 1,Peu Commune,Shin-ichi Yoshida,"normal, reverse",Aquapolis,e-cards,184
+ecard2-48,48,Fouinar,70,Incolore,,Niveau 1,Peu Commune,Atsuko Nishida,"normal, reverse",Aquapolis,e-cards,184
+ecard2-49,49,Ortide,70,Plante,,Niveau 1,Peu Commune,Kyoko Umemoto,"normal, reverse",Aquapolis,e-cards,184
+ecard2-51,51,Caninos,60,Feu,,De base,Peu Commune,Kyoko Umemoto,"normal, reverse",Aquapolis,e-cards,184
+ecard2-52,52,Magneti,40,Métal,,De base,Peu Commune,Shin-ichi Yoshida,"normal, reverse",Aquapolis,e-cards,184
+ecard2-53,53,Marill,50,Eau,,De base,Peu Commune,Yukiko Baba,"normal, reverse",Aquapolis,e-cards,184
+ecard2-54,54,Ossatueur,70,Combat,,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, reverse",Aquapolis,e-cards,184
+ecard2-55,55,Nidorino,70,Plante,,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, reverse",Aquapolis,e-cards,184
+ecard2-56,56,Ymphect,80,Combat,,Niveau 1,Peu Commune,Naoyo Kimura,"normal, reverse",Aquapolis,e-cards,184
+ecard2-57,57,Insécateur,60,Plante,,De base,Peu Commune,Hisao Nakamura,"normal, reverse",Aquapolis,e-cards,184
+ecard2-58,58,Hypocéan,70,Eau,,Niveau 1,Peu Commune,Mitsuhiro Arita,"normal, reverse",Aquapolis,e-cards,184
+ecard2-59,59,Poissoroy,70,Eau,,Niveau 1,Peu Commune,Sumiyoshi Kizuki,"normal, reverse",Aquapolis,e-cards,184
+ecard2-60,60,Floravol,60,Plante,,Niveau 1,Peu Commune,Yuka Morii,"normal, reverse",Aquapolis,e-cards,184
+ecard2-61,61,Lippouti,30,Psy,,De base,Peu Commune,Kagemaru Himeno,"normal, reverse",Aquapolis,e-cards,184
+ecard2-62,62,Mimigal,50,Plante,,De base,Peu Commune,Masako Yamashita,"normal, reverse",Aquapolis,e-cards,184
+ecard2-63,63,Débugant,30,Combat,,De base,Peu Commune,Tomokazu Komiya,"normal, reverse",Aquapolis,e-cards,184
+ecard2-64,64,Voltorbe,50,Électrique,,De base,Peu Commune,Yukiko Baba,"normal, reverse",Aquapolis,e-cards,184
+ecard2-65,65,Boustiflor,70,Plante,,Niveau 1,Peu Commune,Miki Tanaka,"normal, reverse",Aquapolis,e-cards,184
+ecard2-66,66,Axoloto,50,Eau,,De base,Peu Commune,Atsuko Nishida,"normal, reverse",Aquapolis,e-cards,184
+ecard2-67,67,Capumain,50,Incolore,,De base,Commune,Kagemaru Himeno,"normal, reverse",Aquapolis,e-cards,184
+ecard2-68,68,Chétiflor,40,Plante,,De base,Commune,Keiko Fukuyama,"normal, reverse",Aquapolis,e-cards,184
+ecard2-69,69,Leveinard,100,Incolore,,De base,Commune,Atsuko Nishida,"normal, reverse",Aquapolis,e-cards,184
+ecard2-70,70,Loupio,50,Eau,,De base,Commune,Yuka Morii,"normal, reverse",Aquapolis,e-cards,184
+ecard2-71,71,Loupio,50,Électrique,,De base,Commune,Hisao Nakamura,"normal, reverse",Aquapolis,e-cards,184
+ecard2-72,72,Osselait,40,Combat,,De base,Commune,Midori Harada,"normal, reverse",Aquapolis,e-cards,184
+ecard2-73,73,Doduo,40,Incolore,,De base,Commune,Yukiko Baba,"normal, reverse",Aquapolis,e-cards,184
+ecard2-74a,74a,Soporifik,50,Psy,,De base,Commune,Hisao Nakamura,"normal, reverse",Aquapolis,e-cards,184
+ecard2-74b,74b,Soporifik,50,Psy,,De base,Commune,Hisao Nakamura,"normal, reverse",Aquapolis,e-cards,184
+ecard2-75,75,Évoli,50,Incolore,,De base,Commune,Midori Harada,"normal, reverse",Aquapolis,e-cards,184
+ecard2-76,76,Nœufnœuf,40,Plante,,De base,Commune,Yukiko Baba,"normal, reverse",Aquapolis,e-cards,184
+ecard2-77,77,Nœufnœuf,50,Psy,,De base,Commune,Sumiyoshi Kizuki,"normal, reverse",Aquapolis,e-cards,184
+ecard2-78,78,Poissirène,40,Eau,,De base,Commune,Miki Tanaka,"normal, reverse",Aquapolis,e-cards,184
+ecard2-79,79,Tadmorv,50,Plante,,De base,Commune,Keiji Kinebuchi,"normal, reverse",Aquapolis,e-cards,184
+ecard2-80,80,Caninos,50,Feu,,De base,Commune,Yukiko Baba,"normal, reverse",Aquapolis,e-cards,184
+ecard2-81,81,Tygnon,60,Combat,,De base,Commune,Tomokazu Komiya,"normal, reverse",Aquapolis,e-cards,184
+ecard2-82,82,Kapoera,60,Combat,,De base,Commune,Tomokazu Komiya,"normal, reverse",Aquapolis,e-cards,184
+ecard2-83,83,Granivol,40,Plante,,De base,Commune,Yuka Morii,"normal, reverse",Aquapolis,e-cards,184
+ecard2-84,84,Hypotrempe,40,Eau,,De base,Commune,Hisao Nakamura,"normal, reverse",Aquapolis,e-cards,184
+ecard2-85,85,Hypotrempe,50,Eau,,De base,Commune,Atsuko Nishida,"normal, reverse",Aquapolis,e-cards,184
+ecard2-86,86,Malosse,50,Feu,,De base,Commune,Midori Harada,"normal, reverse",Aquapolis,e-cards,184
+ecard2-87,87,Malosse,50,Obscurité,,De base,Commune,Atsuko Nishida,"normal, reverse",Aquapolis,e-cards,184
+ecard2-88,88,Kangourex,70,Incolore,,De base,Commune,Toshinao Aoki,"normal, reverse",Aquapolis,e-cards,184
+ecard2-89,89,Embrylex,40,Combat,,De base,Commune,Naoyo Kimura,"normal, reverse",Aquapolis,e-cards,184
+ecard2-90,90,Excelangue,80,Incolore,,De base,Commune,Yuka Morii,"normal, reverse",Aquapolis,e-cards,184
+ecard2-91,91,Magneti,50,Électrique,,De base,Commune,Hajime Kusajima,"normal, reverse",Aquapolis,e-cards,184
+ecard2-92,92,Férosinge,40,Combat,,De base,Commune,Tomokazu Komiya,"normal, reverse",Aquapolis,e-cards,184
+ecard2-93,93,Wattouat,40,Électrique,,De base,Commune,Hizuki Misono,"normal, reverse",Aquapolis,e-cards,184
+ecard2-94,94,Écrémeuh,60,Incolore,,De base,Commune,Kouki Saitou,"normal, reverse",Aquapolis,e-cards,184
+ecard2-95a,95a,M.Mime,50,Psy,,De base,Commune,Yukiko Baba,"normal, reverse",Aquapolis,e-cards,184
+ecard2-95b,95b,M.Mime,50,Psy,,De base,Commune,Yukiko Baba,"normal, reverse",Aquapolis,e-cards,184
+ecard2-96,96,Nidoran ♂,50,Plante,,De base,Commune,Keiko Fukuyama,"normal, reverse",Aquapolis,e-cards,184
+ecard2-97,97,Mystherbe,50,Plante,,De base,Commune,Kyoko Umemoto,"normal, reverse",Aquapolis,e-cards,184
+ecard2-98,98,Onix,60,Combat,,De base,Commune,Hajime Kusajima,"normal, reverse",Aquapolis,e-cards,184
+ecard2-99,99,Paras,50,Plante,,De base,Commune,Miki Tanaka,"normal, reverse",Aquapolis,e-cards,184
+ecard2-100,100,Phanpy,40,Combat,,De base,Commune,Naoyo Kimura,"normal, reverse",Aquapolis,e-cards,184
+ecard2-101,101,Scarabrute,60,Plante,,De base,Commune,Toshinao Aoki,"normal, reverse",Aquapolis,e-cards,184
+ecard2-102,102,Ponyta,40,Feu,,De base,Commune,Shin-ichi Yoshida,"normal, reverse",Aquapolis,e-cards,184
+ecard2-103b,103b,Porygon,40,Incolore,,De base,Commune,Masako Yamashita,"normal, reverse",Aquapolis,e-cards,184
+ecard2-103a,103a,Porygon,40,Incolore,,De base,Commune,Masako Yamashita,"normal, reverse",Aquapolis,e-cards,184
+ecard2-104,104,Psykokwak,50,Eau,,De base,Commune,Keiko Fukuyama,"normal, reverse",Aquapolis,e-cards,184
+ecard2-105,105,Rémoraid,50,Eau,,De base,Commune,Mitsuhiro Arita,"normal, reverse",Aquapolis,e-cards,184
+ecard2-106,106,Insécateur,50,Plante,,De base,Commune,Midori Harada,"normal, reverse",Aquapolis,e-cards,184
+ecard2-107,107,Fouinette,50,Incolore,,De base,Commune,Hizuki Misono,"normal, reverse",Aquapolis,e-cards,184
+ecard2-108,108,Ramoloss,50,Eau,,De base,Commune,Aya Kusube,"normal, reverse",Aquapolis,e-cards,184
+ecard2-109,109,Queulorior,60,Incolore,,De base,Commune,Miki Tanaka,"normal, reverse",Aquapolis,e-cards,184
+ecard2-110,110,Farfuret,60,Obscurité,,De base,Commune,Midori Harada,"normal, reverse",Aquapolis,e-cards,184
+ecard2-111,111,Mimigal,40,Plante,,De base,Commune,Miki Tanaka,"normal, reverse",Aquapolis,e-cards,184
+ecard2-112,112,Saquedeneu,60,Plante,,De base,Commune,Tomokazu Komiya,"normal, reverse",Aquapolis,e-cards,184
+ecard2-113,113,Tentacool,50,Eau,,De base,Commune,Hajime Kusajima,"normal, reverse",Aquapolis,e-cards,184
+ecard2-114,114,Togepi,40,Incolore,,De base,Commune,Miki Tanaka,"normal, reverse",Aquapolis,e-cards,184
+ecard2-115,115,Voltorbe,40,Électrique,,De base,Commune,Keiji Kinebuchi,"normal, reverse",Aquapolis,e-cards,184
+ecard2-116,116,Goupix,50,Feu,,De base,Commune,Keiko Fukuyama,"normal, reverse",Aquapolis,e-cards,184
+ecard2-117,117,Axoloto,40,Eau,,De base,Commune,Keiko Fukuyama,"normal, reverse",Aquapolis,e-cards,184
+ecard2-118,118,Forêt de noigrumes,,,,,Rare,Midori Harada,"normal, reverse",Aquapolis,e-cards,184
+ecard2-119,119,Cube d'obscurité 01,,,,,Peu Commune,,"normal, reverse",Aquapolis,e-cards,184
+ecard2-120,120,Échange d'énergie,,,,,Peu Commune,Mikio Menjo,"normal, reverse",Aquapolis,e-cards,184
+ecard2-121,121,Cube de combat 01,,,,,Peu Commune,,"normal, reverse",Aquapolis,e-cards,184
+ecard2-122,122,Cube de feu 01,,,,,Peu Commune,"""Big Mama"" Tagawa","normal, reverse",Aquapolis,e-cards,184
+ecard2-123,123,Gardien de la forêt,,,,,Peu Commune,Ken Sugimori,"normal, reverse",Aquapolis,e-cards,184
+ecard2-124,124,Cube de plante 01,,,,,Peu Commune,"""Big Mama"" Tagawa","normal, reverse",Aquapolis,e-cards,184
+ecard2-125,125,Baie de soin,,,,,Peu Commune,Shin-ichi Yoshida,"normal, reverse",Aquapolis,e-cards,184
+ecard2-126,126,Jongleur,,,,,Peu Commune,Ken Sugimori,"normal, reverse",Aquapolis,e-cards,184
+ecard2-127,127,Cube électrik 01,,,,,Peu Commune,,"normal, reverse",Aquapolis,e-cards,184
+ecard2-128,128,Baie de mémoire,,,,,Peu Commune,Shin-ichi Yoshikawa,"normal, reverse",Aquapolis,e-cards,184
+ecard2-129,129,Cube de métal 01,,,,,Peu Commune,,"normal, reverse",Aquapolis,e-cards,184
+ecard2-130,130,Fan Club Pokémon,,,,,Peu Commune,Ken Sugimori,"normal, reverse",Aquapolis,e-cards,184
+ecard2-131,131,Parc Pokémon,,,,,Peu Commune,Kazuo Yazawa,"normal, reverse",Aquapolis,e-cards,184
+ecard2-132,132,Cube psy 01,,,,,Peu Commune,,"normal, reverse",Aquapolis,e-cards,184
+ecard2-133,133,Superviseur,,,,,Peu Commune,Ken Sugimori,"normal, reverse",Aquapolis,e-cards,184
+ecard2-134,134,Super suppression d'énergie 2,,,,,Peu Commune,Keiji Kinebuchi,"normal, reverse",Aquapolis,e-cards,184
+ecard2-135,135,Écharde temporelle,,,,,Peu Commune,Shin-ichi Yoshikawa,"normal, reverse",Aquapolis,e-cards,184
+ecard2-136,136,Volontaires de la ville,,,,,Peu Commune,Ken Sugimori,"normal, reverse",Aquapolis,e-cards,184
+ecard2-137,137,Représentant de commerce,,,,,Peu Commune,Ken Sugimori,"normal, reverse",Aquapolis,e-cards,184
+ecard2-138,138,Ruines sous marines,,,,,Peu Commune,Midori Harada,"normal, reverse",Aquapolis,e-cards,184
+ecard2-139,139,Centrale d'énergie,,,,,Peu Commune,Kai Ishikawa,"normal, reverse",Aquapolis,e-cards,184
+ecard2-140,140,Cube d'eau 01,,,,,Peu Commune,,"normal, reverse",Aquapolis,e-cards,184
+ecard2-141,141,Garde faiblesse,,,,,Peu Commune,Jungo Suzuki,"normal, reverse",Aquapolis,e-cards,184
+ecard2-142,142,Énergie obscurité,,,,,Rare,Milky Isobe,"normal, reverse",Aquapolis,e-cards,184
+ecard2-143,143,Énergie Métal,,,,,Rare,Milky Isobe,"normal, reverse",Aquapolis,e-cards,184
+ecard2-144,144,Énergie multicolore,,,,,Rare,Takumi Akabane,"normal, reverse",Aquapolis,e-cards,184
+ecard2-145,145,Énergie super,,,,,Peu Commune,Shin-ichi Yoshikawa,"normal, reverse",Aquapolis,e-cards,184
+ecard2-146,146,Énergie cristal,,,,,Peu Commune,Shin-ichi Yoshikawa,"normal, reverse",Aquapolis,e-cards,184
+ecard2-147,147,Énergie de distorsion,,,,,Peu Commune,Keiji Kinebuchi,"normal, reverse",Aquapolis,e-cards,184
+ecard2-148,148,Hyporoi,110,Incolore,,Niveau 2,Rare,Mikio Menjo,"normal, reverse",Aquapolis,e-cards,184
+ecard2-149,149,Lugia,80,Incolore,,De base,Rare,Naoyo Kimura,"normal, reverse",Aquapolis,e-cards,184
+ecard2-150,150,Nidoking,100,Incolore,,Niveau 2,Rare,Hironobu Yoshida,"normal, reverse",Aquapolis,e-cards,184
+ecard2-H01,H01,Pharamp,100,Électrique,,Niveau 2,Rare,Shin-ichi Yoshida,holo,Aquapolis,e-cards,184
+ecard2-H02,H02,Arcanin,90,Feu,,Niveau 1,Rare,Kyoko Umemoto,holo,Aquapolis,e-cards,184
+ecard2-H03,H03,Migalos,70,Plante,,Niveau 1,Rare,Shin-ichi Yoshida,holo,Aquapolis,e-cards,184
+ecard2-H04,H04,Azumarill,70,Eau,,Niveau 1,Rare,Kagemaru Himeno,holo,Aquapolis,e-cards,184
+ecard2-H05,H05,Joliflor,90,Plante,,Niveau 2,Rare,Sumiyoshi Kizuki,holo,Aquapolis,e-cards,184
+ecard2-H06,H06,Leuphorie,120,Incolore,,Niveau 1,Rare,Naoyo Kimura,holo,Aquapolis,e-cards,184
+ecard2-H07,H07,Électrode,70,Électrique,,Niveau 1,Rare,Shin-ichi Yoshida,holo,Aquapolis,e-cards,184
+ecard2-H08,H08,Entei,70,Feu,,De base,Rare,Atsuko Nishida,holo,Aquapolis,e-cards,184
+ecard2-H09,H09,Mentali,80,Psy,,Niveau 1,Rare,Kyoko Umemoto,holo,Aquapolis,e-cards,184
+ecard2-H10,H10,Noadkoko,80,Plante,,Niveau 1,Rare,Yukiko Baba,holo,Aquapolis,e-cards,184
+ecard2-H11,H11,Démolosse,70,Obscurité,,Niveau 1,Rare,Hajime Kusajima,holo,Aquapolis,e-cards,184
+ecard2-H12,H12,Hypnomade,80,Psy,,Niveau 1,Rare,Mitsuhiro Arita,holo,Aquapolis,e-cards,184
+ecard2-H13,H13,Cotovol,70,Plante,,Niveau 2,Rare,Yuka Morii,holo,Aquapolis,e-cards,184
+ecard2-H14,H14,Hyporoi,120,Eau,,Niveau 2,Rare,Atsuko Nishida,holo,Aquapolis,e-cards,184
+ecard2-H15,H15,Lanturn,80,Électrique,,Niveau 1,Rare,Yuka Morii,holo,Aquapolis,e-cards,184
+ecard2-H16,H16,Magneton,70,Métal,,Niveau 1,Rare,Hikaru Koike,holo,Aquapolis,e-cards,184
+ecard2-H17,H17,Grotadmorv,70,Plante,,Niveau 1,Rare,Hajime Kusajima,holo,Aquapolis,e-cards,184
+ecard2-H18,H18,Nidoking,110,Combat,,Niveau 2,Rare,Naoyo Kimura,holo,Aquapolis,e-cards,184
+ecard2-H19,H19,Feunard,80,Feu,,Niveau 1,Rare,Kagemaru Himeno,holo,Aquapolis,e-cards,184
+ecard2-H20,H20,Octillery,80,Eau,,Niveau 1,Rare,Kouki Saitou,holo,Aquapolis,e-cards,184
+ecard2-H21,H21,Cizayox,80,Métal,,Niveau 1,Rare,Hisao Nakamura,holo,Aquapolis,e-cards,184
+ecard2-H22,H22,Roigada,80,Psy,,Niveau 1,Rare,Aya Kusube,holo,Aquapolis,e-cards,184
+ecard2-H23,H23,Steelix,100,Métal,,Niveau 1,Rare,Hajime Kusajima,holo,Aquapolis,e-cards,184
+ecard2-H24,H24,Simularbre,60,Combat,,De base,Rare,Kagemaru Himeno,holo,Aquapolis,e-cards,184
+ecard2-H25,H25,Suicune,70,Eau,,De base,Rare,Atsuko Nishida,holo,Aquapolis,e-cards,184
+ecard2-H26,H26,Tentacruel,70,Eau,,Niveau 1,Rare,Hajime Kusajima,holo,Aquapolis,e-cards,184
+ecard2-H27,H27,Togetic,60,Incolore,,Niveau 1,Rare,Kagemaru Himeno,holo,Aquapolis,e-cards,184
+ecard2-H28,H28,Tyranocif,120,Obscurité,,Niveau 2,Rare,Naoyo Kimura,holo,Aquapolis,e-cards,184
+ecard2-H29,H29,Noctali,80,Obscurité,,Niveau 1,Rare,Mitsuhiro Arita,holo,Aquapolis,e-cards,184
+ecard2-H30,H30,Empiflor,90,Plante,,Niveau 2,Rare,Miki Tanaka,holo,Aquapolis,e-cards,184
+ecard2-H31,H31,Rafflesia,100,Plante,,Niveau 2,Rare,Kyoko Umemoto,holo,Aquapolis,e-cards,184
+ecard2-H32,H32,Electhor,80,Électrique,,De base,Rare,Hajime Kusajima,holo,Aquapolis,e-cards,184

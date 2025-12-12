@@ -1,0 +1,227 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sv06-001,001,Tangela,80,Pflanze,,Basis,Häufig,Yoriyuki Ikegami,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-002,002,Tangoloss,150,Pflanze,Tangela,Rang 1,Häufig,LINNE,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-003,003,Pinsir,110,Pflanze,,Basis,Häufig,HYOGONOSUKE,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-004,004,Webarak,60,Pflanze,,Basis,Häufig,Saya Tsuruta,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-005,005,Ariados,90,Pflanze,Webarak,Rang 1,Ungewöhnlich,Anesaki Dynamic,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-006,006,Sonnkern,40,Pflanze,,Basis,Häufig,Naoyo Kimura,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-007,007,Sonnflora,100,Pflanze,Sonnkern,Rang 1,Ungewöhnlich,Ounishi,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-008,008,Skaraborn,120,Pflanze,,Basis,Ungewöhnlich,Toshinao Aoki,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-009,009,Volbeat,70,Pflanze,,Basis,Häufig,Orca,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-010,010,Illumise,70,Pflanze,,Basis,Häufig,Orca,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-011,011,Folipurba,120,Pflanze,Evoli,Rang 1,Ungewöhnlich,Kuroimori,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-012,012,Paragoni,70,Pflanze,,Basis,Häufig,Katsunori Sato,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-013,013,Trombork,120,Pflanze,Paragoni,Rang 1,Häufig,Oswaldo KATO,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-014,014,Chimpep,70,Pflanze,,Basis,Häufig,Tomomi Ozaki,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-015,015,Chimstix,100,Pflanze,Chimpep,Rang 1,Häufig,GOSSAN,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-016,016,Gortrom,180,Pflanze,Chimstix,Rang 2,Ungewöhnlich,toriyufu,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-017,017,Knapfel,40,Pflanze,,Basis,Häufig,OKUBO,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-018,018,Sirapfel,80,Pflanze,Knapfel,Rang 1,Ungewöhnlich,Saboteri,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-019,019,Eisenblatt,120,Pflanze,,Basis,Selten,Mitsuhiro Arita,"reverse, holo",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-020,020,Mortcha,30,Pflanze,,Basis,Häufig,MINAMINAMI Take,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-021,021,Mortcha,40,Pflanze,,Basis,Häufig,Souichirou Gunjima,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-022,022,Fatalitcha,70,Pflanze,Mortcha,Rang 1,Selten,Kouki Saitou,"reverse, holo",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-023,023,Fatalitcha-ex,240,Pflanze,Mortcha,Rang 1,Doppelselten,aky CG Works,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-024,024,Türkisgrüne-Maske-Ogerpon,110,Pflanze,,Basis,Selten,Sanosuke Sakuma,"reverse, holo",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-025,025,Türkisgrüne-Maske-Ogerpon-ex,210,Pflanze,,Basis,Doppelselten,5ban Graphics,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-026,026,Vulpix,70,Feuer,,Basis,Häufig,sowsow,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-027,027,Vulnona,120,Feuer,Vulpix,Rang 1,Häufig,KEIICHIRO ITO,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-028,028,Schneckmag,80,Feuer,,Basis,Häufig,Gapao,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-029,029,Magcargo-ex,270,Feuer,Schneckmag,Rang 1,Doppelselten,PLANETA Mochizuki,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-030,030,Qurtel,130,Feuer,,Basis,Häufig,Teeziro,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-031,031,Panflam,60,Feuer,,Basis,Häufig,Jerky,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-032,032,Panpyro,90,Feuer,Panflam,Rang 1,Häufig,Scav,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-033,033,Panferno,140,Feuer,Panpyro,Rang 2,Selten,Takumi Wada,"reverse, holo",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-034,034,Flampion,80,Feuer,,Basis,Häufig,osare,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-035,035,Flampivian,140,Feuer,Flampion,Rang 1,Ungewöhnlich,OKUBO,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-036,036,Lichtel,60,Feuer,,Basis,Häufig,Saya Tsuruta,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-037,037,Laternecto,80,Feuer,Lichtel,Rang 1,Häufig,Rond,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-038,038,Skelabra,130,Feuer,Laternecto,Rang 2,Selten,saino misaki,"reverse, holo",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-039,039,Yuyu,110,Feuer,,Basis,Ungewöhnlich,Oku,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-040,040,Ofenmaske-Ogerpon-ex,210,Feuer,,Basis,Doppelselten,5ban Graphics,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-041,041,Quapsel,60,Wasser,,Basis,Häufig,Kedamahadaitai Yawarakai,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-042,042,Quaputzi,100,Wasser,Quapsel,Rang 1,Häufig,OKACHEKE,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-043,043,Quappo,170,Wasser,Quaputzi,Rang 2,Ungewöhnlich,Nisota Niso,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-044,044,Goldini,50,Wasser,,Basis,Häufig,saino misaki,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-045,045,Golking,90,Wasser,Goldini,Rang 1,Häufig,Gemi,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-046,046,Rossana,90,Wasser,,Basis,Häufig,Gapao,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-047,047,Krebscorps,80,Wasser,,Basis,Häufig,Kouki Saitou,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-048,048,Krebutack,130,Wasser,Krebscorps,Rang 1,Häufig,Kurata So,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-049,049,Barschwa,30,Wasser,,Basis,Häufig,Scav,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-050,050,Milotic,120,Wasser,Barschwa,Rang 1,Ungewöhnlich,Taira Akitsu,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-051,051,Schneppke,60,Wasser,,Basis,Häufig,Mékayu,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-052,052,Firnontor,120,Wasser,Schneppke,Rang 1,Ungewöhnlich,Oku,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-053,053,Frosdedje,90,Wasser,Schneppke,Rang 1,Selten,Makura Tami,"reverse, holo",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-054,054,Glaziola,120,Wasser,Evoli,Rang 1,Ungewöhnlich,rika,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-055,055,Phione,70,Wasser,,Basis,Häufig,aspara,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-056,056,Froxy,60,Wasser,,Basis,Häufig,Yuka Morii,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-057,057,Amphizel,90,Wasser,Froxy,Rang 1,Häufig,Hitoshi Ariga,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-058,058,Urgl,110,Wasser,,Basis,Ungewöhnlich,OKACHEKE,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-059,059,Normifin,70,Wasser,,Basis,Häufig,Narumi Sato,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-060,060,Delfinator,100,Wasser,Normifin,Rang 1,Ungewöhnlich,Ligton,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-061,061,Delfinator-ex,340,Wasser,Normifin,Rang 1,Doppelselten,PLANETA Mochizuki,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-062,062,Eisenbündel,90,Wasser,,Basis,Ungewöhnlich,nagimiso,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-063,063,Windewoge,130,Wasser,,Basis,Selten,kawayoo,"reverse, holo",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-064,064,Brunnenmaske-Ogerpon-ex,210,Wasser,,Basis,Doppelselten,5ban Graphics,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-065,065,Zapdos,120,Elektro,,Basis,Selten,GOSSAN,"reverse, holo",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-066,066,Sheinux,60,Elektro,,Basis,Häufig,Yuu Nishida,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-067,067,Luxio,90,Elektro,Sheinux,Rang 1,Häufig,Takumi Wada,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-068,068,Luxtra-ex,310,Elektro,Luxio,Rang 2,Doppelselten,PLANETA Yamashita,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-069,069,Emolga,60,Elektro,,Basis,Häufig,Shimaris Yukichi,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-070,070,Eguana,60,Elektro,,Basis,Häufig,Taiga Kayama,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-071,071,Elezard,100,Elektro,Eguana,Rang 1,Häufig,Atsuya Uki,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-072,072,Morpeko,70,Elektro,,Basis,Ungewöhnlich,kodama,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-073,073,Blipp,50,Elektro,,Basis,Häufig,nisimono,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-074,074,Wampitz,140,Elektro,Blipp,Rang 1,Ungewöhnlich,Mina Nakai,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-075,075,Voltrel,60,Elektro,,Basis,Häufig,Teeziro,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-076,076,Voltrean,120,Elektro,Voltrel,Rang 1,Ungewöhnlich,Anesaki Dynamic,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-077,077,Eisendorn-ex,230,Elektro,,Basis,Doppelselten,PLANETA Mochizuki,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-078,078,Piepi,60,Psycho,,Basis,Häufig,Sanosuke Sakuma,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-079,079,Pixi,120,Psycho,Piepi,Rang 1,Ungewöhnlich,satoma,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-080,080,Abra,40,Psycho,,Basis,Häufig,Kariya,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-081,081,Kadabra,80,Psycho,Abra,Rang 1,Häufig,Uninori,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-082,082,Simsala,140,Psycho,Kadabra,Rang 2,Selten,Masako Tomii,"reverse, holo",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-083,083,Girafarig,100,Psycho,,Basis,Häufig,Shinji Kanda,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-084,084,Farigiraf,140,Psycho,Girafarig,Rang 1,Ungewöhnlich,Dsuke,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-085,085,Palimpalim,70,Psycho,,Basis,Häufig,Mousho,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-086,086,Flabébé,40,Psycho,,Basis,Häufig,Yukiko Baba,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-087,087,Floette,70,Psycho,Flabébé,Rang 1,Häufig,mingo,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-088,088,Florges,140,Psycho,Floette,Rang 2,Ungewöhnlich,Ligton,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-089,089,Flauschling,50,Psycho,,Basis,Häufig,Akira Komayama,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-090,090,Sabbaione,120,Psycho,Flauschling,Rang 1,Ungewöhnlich,mingo,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-091,091,Sankabuh,90,Psycho,,Basis,Häufig,Asako Ito,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-092,092,Colossand,150,Psycho,Sankabuh,Rang 1,Häufig,Uta,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-093,093,Cupidos,120,Psycho,,Basis,Selten,DOM,"reverse, holo",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-094,094,Brüllschweif-ex,190,Psycho,,Basis,Doppelselten,akagi,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-095,095,Benesaru,110,Psycho,,Basis,Selten,kodama,"reverse, holo",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-096,096,Beatori,120,Psycho,,Basis,Selten,Kouki Saitou,"reverse, holo",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-097,097,Sandan,60,Kampf,,Basis,Häufig,Tetsu Kayama,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-098,098,Sandamer,120,Kampf,Sandan,Rang 1,Ungewöhnlich,Nisota Niso,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-099,099,Hisui-Fukano,80,Kampf,,Basis,Häufig,Whisker,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-100,100,Hisui-Arkani,130,Kampf,Hisui-Fukano,Rang 1,Selten,SIE NANAHARA,"reverse, holo",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-101,101,Nasgnet,80,Kampf,,Basis,Häufig,AKIRA EGAWA,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-102,102,Voluminas,140,Kampf,Nasgnet,Rang 1,Ungewöhnlich,OKUBO,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-103,103,Praktibalk,80,Kampf,,Basis,Häufig,Kouki Saitou,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-104,104,Strepoli,100,Kampf,Praktibalk,Rang 1,Häufig,Aya Kusube,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-105,105,Meistagrif,180,Kampf,Strepoli,Rang 2,Ungewöhnlich,Takeshi Nakamura,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-106,106,Quajutsu-ex,310,Kampf,Amphizel,Rang 2,Doppelselten,5ban Graphics,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-107,107,Resladero,70,Kampf,,Basis,Häufig,Shigenori Negishi,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-108,108,Lumispross,60,Kampf,,Basis,Häufig,Miki Tanaka,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-109,109,Lumiflora,130,Kampf,Lumispross,Rang 1,Ungewöhnlich,Kazumasa Yasukuni,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-110,110,Dinglu,140,Kampf,,Basis,Selten,Anesaki Dynamic,"reverse, holo",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-111,111,Boninu,130,Kampf,,Basis,Selten,Souichirou Gunjima,"reverse, holo",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-112,112,Fundamentmaske-Ogerpon-ex,210,Kampf,,Basis,Doppelselten,5ban Graphics,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-113,113,Fiffyen,70,Unlicht,,Basis,Häufig,Shibuzoh.,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-114,114,Magnayen,120,Unlicht,Fiffyen,Rang 1,Ungewöhnlich,kawayoo,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-115,115,Toxiped,80,Unlicht,,Basis,Häufig,Tomokazu Komiya,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-116,116,Rollum,100,Unlicht,Toxiped,Rang 1,Häufig,Krgc,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-117,117,Cerapendra,170,Unlicht,Rollum,Rang 2,Ungewöhnlich,Shiburingaru,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-118,118,Wutpilz,120,Unlicht,,Basis,Ungewöhnlich,danciao,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-119,119,Panzaeron,120,Metall,,Basis,Häufig,toi8,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-120,120,Stollunior,70,Metall,,Basis,Häufig,Gapao,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-121,121,Stollrak,110,Metall,Stollunior,Rang 1,Häufig,takashi shiraishi,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-122,122,Stolloss,180,Metall,Stollrak,Rang 2,Ungewöhnlich,Dsuke,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-123,123,Heatran,140,Metall,,Basis,Selten,AKIRA EGAWA,"reverse, holo",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-124,124,Knattox,70,Metall,,Basis,Häufig,Shigenori Negishi,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-125,125,Knattatox,140,Metall,Knattox,Rang 1,Ungewöhnlich,Hasuno,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-126,126,Knapfel,40,Drache,,Basis,Häufig,Teeziro,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-127,127,Sirapfel,80,Drache,Knapfel,Rang 1,Ungewöhnlich,OKACHEKE,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-128,128,Grolldra,70,Drache,,Basis,Häufig,Scav,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-129,129,Phandra,90,Drache,Grolldra,Rang 1,Häufig,cochi8i,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-130,130,Katapuldra-ex,320,Drache,Phandra,Rang 2,Doppelselten,5ban Graphics,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-131,131,Nigiragi,70,Drache,,Basis,Ungewöhnlich,Jerky,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-132,132,Porenta,70,Farblos,,Basis,Häufig,miki kudo,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-133,133,Chaneira,120,Farblos,,Basis,Häufig,HYOGONOSUKE,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-134,134,Heiteira-ex,300,Farblos,Chaneira,Rang 1,Doppelselten,Iwamoto05,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-135,135,Evoli,50,Farblos,,Basis,Häufig,satoma,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-136,136,Relaxo,160,Farblos,,Basis,Ungewöhnlich,Souichirou Gunjima,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-137,137,Griffel,60,Farblos,,Basis,Häufig,Mugi Hamada,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-138,138,Ambidiffel,110,Farblos,Griffel,Rang 1,Ungewöhnlich,KEIICHIRO ITO,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-139,139,Piccolente,60,Farblos,,Basis,Häufig,Shibuzoh.,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-140,140,Swaroness,110,Farblos,Piccolente,Rang 1,Ungewöhnlich,Susumu Maeya,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-141,141,Blutmond-Ursaluna-ex,260,Farblos,,Basis,Doppelselten,aky CG Works,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-142,142,Begleitende Flöte,,,,,Ungewöhnlich,AYUMI ODASHIMA,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-143,143,Käfersammlerset,,,,,Ungewöhnlich,AYUMI ODASHIMA,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-144,144,Verwalter,,,,,Häufig,Akira Komayama,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-145,145,Hana,,,,,Ungewöhnlich,kantaro,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-146,146,Gemeindehaus,,,,,Ungewöhnlich,MARINA Chikazawa,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-147,147,Küchenchef,,,,,Ungewöhnlich,Hideki Ishikawa,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-148,148,Spezial-Hammer,,,,,Ungewöhnlich,Eske Yoshinob,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-149,149,Festplatz,,,,,Ungewöhnlich,MARINA Chikazawa,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-150,150,Handventilator,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-151,151,Sinius,,,,,Ungewöhnlich,GOSSAN,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-152,152,Hyperaroma,,,,,ASS-KLASSE,Toyste Beach,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-153,153,Störturm,,,,,Ungewöhnlich,AYUMI ODASHIMA,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-154,154,Jo,,,,,Ungewöhnlich,GIDORA,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-155,155,Tracys Unterstützung,,,,,Ungewöhnlich,Atsushi Furusawa,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-156,156,Sympaball,,,,,Ungewöhnlich,Studio Bora Inc.,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-157,157,Lucian,,,,,Ungewöhnlich,hncl,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-158,158,Glückshelm,,,,,Ungewöhnlich,Studio Bora Inc.,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-159,159,Maske des Oni,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-160,160,Gemma,,,,,Ungewöhnlich,Naoki Saito,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-161,161,Moira,,,,,Ungewöhnlich,hncl,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-162,162,Aufwischwirbel,,,,,ASS-KLASSE,Toyste Beach,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-163,163,Geheime Box,,,,,ASS-KLASSE,Toyste Beach,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-164,164,Überlebensschiene,,,,,ASS-KLASSE,inose yukie,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-165,165,Unfairer Stempel,,,,,ASS-KLASSE,Toyste Beach,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-166,166,Bumerang-Energie,,,,,Ungewöhnlich,,"normal, reverse",Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-167,167,Vermächtnis-Energie,,,,,ASS-KLASSE,,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-168,168,Pinsir,110,Pflanze,,Basis,"Selten, Illustration",Yukihiro Tada,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-169,169,Sonnflora,100,Pflanze,Sonnkern,Rang 1,"Selten, Illustration",Shinya Komatsu,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-170,170,Sirapfel,80,Pflanze,Knapfel,Rang 1,"Selten, Illustration",Akira Komayama,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-171,171,Mortcha,30,Pflanze,,Basis,"Selten, Illustration",Saboteri,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-172,172,Qurtel,130,Feuer,,Basis,"Selten, Illustration",Masa,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-173,173,Panferno,140,Feuer,Panpyro,Rang 2,"Selten, Illustration",Krgc,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-174,174,Frosdedje,90,Wasser,Schneppke,Rang 1,"Selten, Illustration",matazo,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-175,175,Phione,70,Wasser,,Basis,"Selten, Illustration",takashi shiraishi,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-176,176,Urgl,110,Wasser,,Basis,"Selten, Illustration",Fujimoto Gold,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-177,177,Elezard,100,Elektro,Eguana,Rang 1,"Selten, Illustration",Tonji Matsuno,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-178,178,Voltrel,60,Elektro,,Basis,"Selten, Illustration",Mitsuhiro Arita,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-179,179,Palimpalim,70,Psycho,,Basis,"Selten, Illustration",REND,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-180,180,Cupidos,120,Psycho,,Basis,"Selten, Illustration",GOTO minori,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-181,181,Hisui-Fukano,80,Kampf,,Basis,"Selten, Illustration",GIDORA,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-182,182,Voluminas,140,Kampf,Nasgnet,Rang 1,"Selten, Illustration",Kariya,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-183,183,Praktibalk,80,Kampf,,Basis,"Selten, Illustration",Yuriko Akase,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-184,184,Stollrak,110,Metall,Stollunior,Rang 1,"Selten, Illustration",Dsuke,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-185,185,Knapfel,40,Drache,,Basis,"Selten, Illustration",Katsunori Sato,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-186,186,Nigiragi,70,Drache,,Basis,"Selten, Illustration",osare,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-187,187,Chaneira,120,Farblos,,Basis,"Selten, Illustration",Toshinao Aoki,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-188,188,Evoli,50,Farblos,,Basis,"Selten, Illustration",Narumi Sato,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-189,189,Fatalitcha-ex,240,Pflanze,Mortcha,Rang 1,Ultra Selten,aky CG Works,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-190,190,Türkisgrüne-Maske-Ogerpon-ex,210,Pflanze,,Basis,Ultra Selten,5ban Graphics,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-191,191,Magcargo-ex,270,Feuer,Schneckmag,Rang 1,Ultra Selten,PLANETA Yamashita,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-192,192,Ofenmaske-Ogerpon-ex,210,Feuer,,Basis,Ultra Selten,5ban Graphics,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-193,193,Delfinator-ex,340,Wasser,Normifin,Rang 1,Ultra Selten,PLANETA Mochizuki,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-194,194,Brunnenmaske-Ogerpon-ex,210,Wasser,,Basis,Ultra Selten,5ban Graphics,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-195,195,Luxtra-ex,310,Elektro,Luxio,Rang 2,Ultra Selten,PLANETA Yamashita,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-196,196,Eisendorn-ex,230,Elektro,,Basis,Ultra Selten,PLANETA Mochizuki,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-197,197,Brüllschweif-ex,190,Psycho,,Basis,Ultra Selten,PLANETA Hiiragi,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-198,198,Quajutsu-ex,310,Kampf,Amphizel,Rang 2,Ultra Selten,5ban Graphics,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-199,199,Fundamentmaske-Ogerpon-ex,210,Kampf,,Basis,Ultra Selten,5ban Graphics,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-200,200,Katapuldra-ex,320,Drache,Phandra,Rang 2,Ultra Selten,5ban Graphics,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-201,201,Heiteira-ex,300,Farblos,Chaneira,Rang 1,Ultra Selten,PLANETA Tsuji,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-202,202,Blutmond-Ursaluna-ex,260,Farblos,,Basis,Ultra Selten,aky CG Works,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-203,203,Verwalter,,,,,Ultra Selten,Akira Komayama,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-204,204,Hana,,,,,Ultra Selten,kantaro,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-205,205,Sinius,,,,,Ultra Selten,GOSSAN,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-206,206,Jo,,,,,Ultra Selten,GIDORA,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-207,207,Tracys Unterstützung,,,,,Ultra Selten,Atsushi Furusawa,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-208,208,Lucian,,,,,Ultra Selten,hncl,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-209,209,Gemma,,,,,Ultra Selten,Naoki Saito,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-210,210,Fatalitcha-ex,240,Pflanze,Mortcha,Rang 1,"Selten, besondere Illustration",Saboteri,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-211,211,Türkisgrüne-Maske-Ogerpon-ex,210,Pflanze,,Basis,"Selten, besondere Illustration",Yano Keiji,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-212,212,Ofenmaske-Ogerpon-ex,210,Feuer,,Basis,"Selten, besondere Illustration",Yano Keiji,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-213,213,Brunnenmaske-Ogerpon-ex,210,Wasser,,Basis,"Selten, besondere Illustration",Yano Keiji,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-214,214,Quajutsu-ex,310,Kampf,Amphizel,Rang 2,"Selten, besondere Illustration",akagi,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-215,215,Fundamentmaske-Ogerpon-ex,210,Kampf,,Basis,"Selten, besondere Illustration",Yano Keiji,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-216,216,Blutmond-Ursaluna-ex,260,Farblos,,Basis,"Selten, besondere Illustration",MINAMINAMI Take,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-217,217,Hana,,,,,"Selten, besondere Illustration",En Morikura,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-218,218,Jo,,,,,"Selten, besondere Illustration",Teeziro,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-219,219,Tracys Unterstützung,,,,,"Selten, besondere Illustration",Toshinao Aoki,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-220,220,Gemma,,,,,"Selten, besondere Illustration",GIDORA,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-221,221,Türkisgrüne-Maske-Ogerpon-ex,210,Pflanze,,Basis,Hyperselten,5ban Graphics,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-222,222,Blutmond-Ursaluna-ex,260,Farblos,,Basis,Hyperselten,aky CG Works,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-223,223,Dicke-Freunde-Knursp,,,,,Hyperselten,AYUMI ODASHIMA,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-224,224,Spezial-Hammer,,,,,Hyperselten,Eske Yoshinob,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-225,225,Rettungsboard,,,,,Hyperselten,Toyste Beach,holo,Maskerade im Zwielicht,Karmesin & Purpur,226
+sv06-226,226,Leucht-Energie,,,,,Hyperselten,,holo,Maskerade im Zwielicht,Karmesin & Purpur,226

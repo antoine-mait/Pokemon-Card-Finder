@@ -1,0 +1,103 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+bw3-1,1,Larveyette,50,Plante,,De base,Commune,Mizue,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-2,2,Couverdure,70,Plante,Larveyette,Niveau 1,Peu Commune,Midori Harada,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-3,3,Manternel,130,Plante,Couverdure,Niveau 2,Rare,5ban Graphics,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-4,4,Chlorobule,60,Plante,,De base,Commune,Shigenori Negishi,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-5,5,Fragilady,80,Plante,Chlorobule,Niveau 1,Rare,Akira Komayama,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-6,6,Crabicoque,60,Plante,,De base,Commune,MAHOU,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-7,7,Crabaraque,100,Plante,Crabicoque,Niveau 1,Peu Commune,Naoyo Kimura,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-8,8,Carabing,60,Plante,,De base,Commune,sui,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-9,9,Trompignon,40,Plante,,De base,Commune,match,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-10,10,Gaulet,90,Plante,Trompignon,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-11,11,Escargaume,60,Plante,,De base,Commune,Midori Harada,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-12,12,Limaspeed,90,Plante,Escargaume,Niveau 1,Rare,Kagemaru Himeno,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-13,13,Viridium,110,Plante,,De base,Rare,5ban Graphics,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-14,14,Victini,60,Feu,,De base,Rare,5ban Graphics,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-15,15,Victini,70,Feu,,De base,Rare,Naoki Saito,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-16,16,Flamajou,70,Feu,,De base,Commune,Shin Nagasawa,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-17,17,Flamoutan,90,Feu,Flamajou,Niveau 1,Peu Commune,Shin Nagasawa,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-18,18,Aflamanoir,90,Feu,,De base,Peu Commune,Kouki Saitou,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-19,19,Pyronille,70,Feu,,De base,Commune,Kagemaru Himeno,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-20,20,Pyronille,80,Feu,,De base,Commune,Naoki Saito,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-21,21,Pyrax,110,Feu,Pyronille,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-22,22,Tritonde,60,Eau,,De base,Commune,Atsuko Nishida,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-23,23,Batracné,80,Eau,Tritonde,Niveau 1,Peu Commune,sui,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-24,24,Crapustule,140,Eau,Batracné,Niveau 2,Rare,Masakazu Fukuda,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-25,25,Carapagos,90,Eau,,Restauré,Peu Commune,Naoyo Kimura,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-26,26,Mégapagos,140,Eau,Carapagos,Niveau 1,Rare,match,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-27,27,Sorbébé,50,Eau,,De base,Commune,Atsuko Nishida,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-28,28,Sorboul,80,Eau,Sorbébé,Niveau 1,Peu Commune,match,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-29,29,Sorbouboul,130,Eau,Sorboul,Niveau 2,Rare,Kagemaru Himeno,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-30,30,Viskuse,80,Eau,,De base,Commune,Naoyo Kimura,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-31,31,Moyade,110,Eau,Viskuse,Niveau 1,Rare,Kagemaru Himeno,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-32,32,Hexagel,80,Eau,,De base,Peu Commune,Masakazu Fukuda,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-33,33,Hexagel,80,Eau,,De base,Rare,Kagemaru Himeno,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-34,34,Kyurem,130,Eau,,De base,Rare,5ban Graphics,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-35,35,Zébibron,60,Électrique,,De base,Commune,Shin Nagasawa,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-36,36,Zéblitz,90,Électrique,Zébibron,Niveau 1,Rare,match,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-37,37,Emolga,70,Électrique,,De base,Peu Commune,Naoki Saito,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-38,38,Anchwatt,40,Électrique,,De base,Commune,sui,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-39,39,Anchwatt,30,Électrique,,De base,Commune,Naoki Saito,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-40,40,Lampéroie,90,Électrique,Anchwatt,Niveau 1,Peu Commune,MAHOU,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-41,41,Ohmassacre,140,Électrique,Lampéroie,Niveau 2,Rare,Masakazu Fukuda,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-42,42,Limonde,90,Électrique,,De base,Commune,Shin Nagasawa,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-43,43,Victini,60,Psy,,De base,Rare,Shin Nagasawa,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-44,44,Tutafeh,60,Psy,,De base,Commune,Midori Harada,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-45,45,Tutafeh,60,Psy,,De base,Commune,Shin Nagasawa,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-46,46,Tutankafer,90,Psy,Tutafeh,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-47,47,Tutankafer,90,Psy,Tutafeh,Niveau 1,Rare,Shin Nagasawa,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-48,48,Miamiasme,60,Psy,,De base,Commune,MAHOU,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-49,49,Miasmax,100,Psy,Miamiasme,Niveau 1,Peu Commune,match,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-50,50,Nucléos,30,Psy,,De base,Commune,Atsuko Nishida,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-51,51,Méios,60,Psy,Nucléos,Niveau 1,Peu Commune,sui,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-52,52,Symbios,90,Psy,Méios,Niveau 2,Rare,Kagemaru Himeno,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-53,53,Symbios,90,Psy,Méios,Niveau 2,Rare,Mizue,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-54,54,Lewsor,60,Psy,,De base,Commune,sui,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-55,55,Lewsor,60,Psy,,De base,Commune,Naoki Saito,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-56,56,Neitram,80,Psy,Lewsor,Niveau 1,Rare,Kagemaru Himeno,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-57,57,Funécire,50,Psy,,De base,Commune,Masakazu Fukuda,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-58,58,Funécire,50,Psy,,De base,Commune,Naoki Saito,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-59,59,Mélancolux,80,Psy,Funécire,Niveau 1,Peu Commune,MAHOU,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-60,60,Lugulabre,130,Psy,Mélancolux,Niveau 2,Rare,Naoyo Kimura,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-61,61,Gigalithe,150,Combat,Géolithe,Niveau 2,Rare,Mitsuhiro Arita,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-62,62,Charpenti,60,Combat,,De base,Commune,Tomokazu Komiya,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-63,63,Ouvrifier,80,Combat,Charpenti,Niveau 1,Peu Commune,Sumiyoshi Kizuki,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-64,64,Bétochef,140,Combat,Ouvrifier,Niveau 2,Rare,kawayoo,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-65,65,Bétochef,140,Combat,Ouvrifier,Niveau 2,Rare,Kouki Saitou,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-66,66,Arkéapti,80,Combat,,Restauré,Peu Commune,Kagemaru Himeno,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-67,67,Aéroptéryx,130,Combat,Arkéapti,Niveau 1,Rare,Kouki Saitou,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-68,68,Limonde,90,Combat,,De base,Peu Commune,Midori Harada,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-69,69,Kungfouine,50,Combat,,De base,Commune,match,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-70,70,Shaofouine,90,Combat,Kungfouine,Niveau 1,Peu Commune,Atsuko Nishida,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-71,71,Gringolem,80,Combat,,De base,Commune,Masakazu Fukuda,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-72,72,Golemastoc,130,Combat,Gringolem,Niveau 1,Rare,Kouki Saitou,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-73,73,Terrakium,130,Combat,,De base,Rare,5ban Graphics,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-74,74,Démétéros,110,Combat,,De base,Rare,5ban Graphics,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-75,75,Scalpion,60,Obscurité,,De base,Commune,Mitsuhiro Arita,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-76,76,Scalproie,90,Obscurité,Scalpion,Niveau 1,Peu Commune,Kouki Saitou,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-77,77,Solochi,60,Obscurité,,De base,Commune,Mitsuhiro Arita,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-78,78,Diamat,90,Obscurité,Solochi,Niveau 1,Peu Commune,Masakazu Fukuda,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-79,79,Trioxhydre,150,Obscurité,Diamat,Niveau 2,Rare,5ban Graphics,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-80,80,Lançargot,90,Métal,Carabing,Niveau 1,Rare,Kouki Saitou,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-81,81,Scalpion,60,Métal,,De base,Commune,Tomokazu Komiya,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-82,82,Scalproie,100,Métal,Scalpion,Niveau 1,Rare,5ban Graphics,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-83,83,Fermite,70,Métal,,De base,Peu Commune,Masakazu Fukuda,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-84,84,Cobaltium,120,Métal,,De base,Rare,5ban Graphics,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-85,85,Nanméouïe,90,Incolore,,De base,Peu Commune,Naoki Saito,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-86,86,Coupenotte,60,Incolore,,De base,Commune,Atsuko Nishida,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-87,87,Incisache,90,Incolore,Coupenotte,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-88,88,Tranchodon,140,Incolore,Incisache,Niveau 2,Rare,Kouki Saitou,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-89,89,Drakkarmin,100,Incolore,,De base,Rare,Masakazu Fukuda,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-90,90,Fossile Plaque,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-91,91,Évoluroc,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-92,92,N,,,,,Peu Commune,Ken Sugimori,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-93,93,Fossile Plume,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-94,94,Casque Brut,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-95,95,Méga Canne,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-96,96,Vokit,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-97,97,Viridium,110,Plante,,De base,Ultra Rare,5ban Graphics,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-98,98,Victini,60,Feu,,De base,Ultra Rare,5ban Graphics,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-99,99,Terrakium,130,Combat,,De base,Ultra Rare,5ban Graphics,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-100,100,Cobaltium,120,Métal,,De base,Ultra Rare,5ban Graphics,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-101,101,N,,,,,Ultra Rare,Ken Sugimori,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102
+bw3-102,102,Miaouss,60,Incolore,,De base,Magnifique rare,Kouki Saitou,"normal, reverse, holo",Nobles Victoires,Noir & Blanc,102

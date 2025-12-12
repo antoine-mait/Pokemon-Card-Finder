@@ -1,0 +1,176 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sv07-001,001,Venusaur ex,340,Grass,Ivysaur,Stage2,Double rare,Saki Hayashiro,holo,Stellar Crown,Scarlet & Violet,175
+sv07-002,002,Ledyba,60,Grass,,Basic,Common,Whisker,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-003,003,Ledian,90,Grass,Ledyba,Stage1,Rare,Masako Tomii,"reverse, holo",Stellar Crown,Scarlet & Violet,175
+sv07-004,004,Celebi,80,Grass,,Basic,Uncommon,satoma,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-005,005,Lileep,100,Grass,Antique Root Fossil,Stage1,Common,Ounishi,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-006,006,Cradily,150,Grass,Lileep,Stage2,Rare,miki kudo,"reverse, holo",Stellar Crown,Scarlet & Violet,175
+sv07-007,007,Carnivine,110,Grass,,Basic,Common,Mousho,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-008,008,Mow Rotom,90,Grass,,Basic,Common,Amelicart,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-009,009,Grubbin,70,Grass,,Basic,Common,Jerky,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-010,010,Gossifleur,60,Grass,,Basic,Common,Heisuke Kitazawa,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-011,011,Eldegoss,90,Grass,Gossifleur,Stage1,Uncommon,Yuka Tanaka,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-012,012,Applin,40,Grass,,Basic,Common,Yoriyuki Ikegami,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-013,013,Dipplin,90,Grass,Applin,Stage1,Common,Souichirou Gunjima,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-014,014,Hydrapple ex,330,Grass,Dipplin,Stage2,Double rare,5ban Graphics,holo,Stellar Crown,Scarlet & Violet,175
+sv07-015,015,Nymble,50,Grass,,Basic,Common,HYOGONOSUKE,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-016,016,Lokix,110,Grass,Nymble,Stage1,Common,akagi,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-017,017,Toedscool,60,Grass,,Basic,Common,Tetsu Kayama,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-018,018,Toedscruel,140,Grass,Toedscool,Stage1,Uncommon,DOM,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-019,019,Ponyta,70,Fire,,Basic,Common,Atsushi Furusawa,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-020,020,Rapidash,120,Fire,Ponyta,Stage1,Uncommon,danciao,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-021,021,Pansear,70,Fire,,Basic,Common,0313,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-022,022,Reshiram,130,Fire,,Basic,Uncommon,Iwamoto05,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-023,023,Salandit,70,Fire,,Basic,Common,Felicia Chen,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-024,024,Salazzle,120,Fire,Salandit,Stage1,Uncommon,Taiga Kasai,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-025,025,Turtonator,130,Fire,,Basic,Common,AKIRA EGAWA,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-026,026,Scorbunny,70,Fire,,Basic,Common,Cona Nitanda,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-027,027,Raboot,90,Fire,Scorbunny,Stage1,Common,aspara,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-028,028,Cinderace ex,320,Fire,Raboot,Stage2,Double rare,5ban Graphics,holo,Stellar Crown,Scarlet & Violet,175
+sv07-029,029,Charcadet,70,Fire,,Basic,Common,Krgc,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-030,030,Blastoise ex,330,Water,Wartortle,Stage2,Double rare,PLANETA Igarashi,holo,Stellar Crown,Scarlet & Violet,175
+sv07-031,031,Lapras,130,Water,,Basic,Uncommon,rika,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-032,032,Lapras ex,220,Water,,Basic,Double rare,5ban Graphics,holo,Stellar Crown,Scarlet & Violet,175
+sv07-033,033,Marill,70,Water,,Basic,Common,MARINA Chikazawa,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-034,034,Azumarill,120,Water,Marill,Stage1,Uncommon,Jerky,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-035,035,Finneon,50,Water,,Basic,Common,Yukiko Baba,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-036,036,Lumineon,110,Water,Finneon,Stage1,Uncommon,Shigenori Negishi,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-037,037,Tirtouga,100,Water,Antique Cover Fossil,Stage1,Common,takashi shiraishi,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-038,038,Carracosta,160,Water,Tirtouga,Stage2,Rare,LINNE,"reverse, holo",Stellar Crown,Scarlet & Violet,175
+sv07-039,039,Froakie,60,Water,,Basic,Common,MINAMINAMI Take,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-040,040,Frogadier,90,Water,Froakie,Stage1,Uncommon,Ryuta Fuse,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-041,041,Greninja ex,300,Water,Frogadier,Stage2,Double rare,5ban Graphics,holo,Stellar Crown,Scarlet & Violet,175
+sv07-042,042,Crabominable,160,Water,Crabrawler,Stage1,Uncommon,nagimiso,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-043,043,Chewtle,80,Water,,Basic,Common,Yuka Morii,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-044,044,Drednaw,140,Water,Chewtle,Stage1,Rare,Dsuke,"reverse, holo",Stellar Crown,Scarlet & Violet,175
+sv07-045,045,Veluza,130,Water,,Basic,Uncommon,GOTO minori,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-046,046,Electabuzz,90,Lightning,,Basic,Common,Oswaldo KATO,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-047,047,Electivire,150,Lightning,Electabuzz,Stage1,Uncommon,chibi,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-048,048,Chinchou,70,Lightning,,Basic,Common,Souichirou Gunjima,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-049,049,Lanturn,120,Lightning,Chinchou,Stage1,Uncommon,Akira Komayama,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-050,050,Joltik,30,Lightning,,Basic,Common,Nisota Niso,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-051,051,Galvantula ex,260,Lightning,Joltik,Stage1,Double rare,5ban Graphics,holo,Stellar Crown,Scarlet & Violet,175
+sv07-052,052,Charjabug,80,Lightning,Grubbin,Stage1,Common,Makura Tami,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-053,053,Vikavolt,160,Lightning,Charjabug,Stage2,Uncommon,Shiburingaru,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-054,054,Togedemaru,80,Lightning,,Basic,Uncommon,Rianti Hidayat,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-055,055,Zeraora,120,Lightning,,Basic,Rare,Anesaki Dynamic,"reverse, holo",Stellar Crown,Scarlet & Violet,175
+sv07-056,056,Pawmi,40,Lightning,,Basic,Common,Natsumi Yoshida,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-057,057,Slowpoke,80,Psychic,,Basic,Common,Teeziro,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-058,058,Slowking,120,Psychic,Slowpoke,Stage1,Uncommon,Tetsu Kayama,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-059,059,Mewtwo,130,Psychic,,Basic,Uncommon,kantaro,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-060,060,Drifloon,70,Psychic,,Basic,Common,Miki Tanaka,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-061,061,Drifblim,130,Psychic,Drifloon,Stage1,Uncommon,sowsow,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-062,062,Yamask,70,Psychic,,Basic,Common,aoki,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-063,063,Comfey,70,Psychic,,Basic,Common,saino misaki,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-064,064,Milcery,60,Psychic,,Basic,Common,OKACHEKE,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-065,065,Alcremie,110,Psychic,Milcery,Stage1,Rare,Natsumi Yoshida,"reverse, holo",Stellar Crown,Scarlet & Violet,175
+sv07-066,066,Fidough,60,Psychic,,Basic,Common,Narumi Sato,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-067,067,Dachsbun ex,250,Psychic,Fidough,Stage1,Double rare,You Iribi,holo,Stellar Crown,Scarlet & Violet,175
+sv07-068,068,Flittle,50,Psychic,,Basic,Common,Yuu Nishida,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-069,069,Espathra,130,Psychic,Flittle,Stage1,Common,Ryota Murayama,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-070,070,Greavard,80,Psychic,,Basic,Common,Miki Tanaka,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-071,071,Iron Boulder,140,Psychic,,Basic,Rare,GIDORA,"reverse, holo",Stellar Crown,Scarlet & Violet,175
+sv07-072,072,Cubone,70,Fighting,,Basic,Common,svlt,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-073,073,Marowak,120,Fighting,Cubone,Stage1,Uncommon,cochi8i,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-074,074,Rhyhorn,100,Fighting,,Basic,Common,kodama,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-075,075,Rhydon,140,Fighting,Rhyhorn,Stage1,Common,Ryuta Fuse,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-076,076,Rhyperior,200,Fighting,Rhydon,Stage2,Rare,Mitsuhiro Arita,"reverse, holo",Stellar Crown,Scarlet & Violet,175
+sv07-077,077,Meditite,70,Fighting,,Basic,Common,GOTO minori,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-078,078,Meditite,70,Fighting,,Basic,Common,Yuu Nishida,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-079,079,Medicham,110,Fighting,Meditite,Stage1,Common,Fujimoto Gold,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-080,080,Medicham ex,260,Fighting,Meditite,Stage1,Double rare,PLANETA Yamashita,holo,Stellar Crown,Scarlet & Violet,175
+sv07-081,081,Riolu,70,Fighting,,Basic,Common,Souichirou Gunjima,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-082,082,Lucario ex,250,Fighting,Riolu,Stage1,Double rare,PLANETA Igarashi,holo,Stellar Crown,Scarlet & Violet,175
+sv07-083,083,Mienfoo,60,Fighting,,Basic,Common,Kariya,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-084,084,Mienshao,90,Fighting,Mienfoo,Stage1,Uncommon,MINAMINAMI Take,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-085,085,Pancham,70,Fighting,,Basic,Common,Tomomi Ozaki,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-086,086,Diancie,110,Fighting,,Basic,Uncommon,Jiro Sasumo,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-087,087,Crabrawler,90,Fighting,,Basic,Common,Scav,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-088,088,Falinks,110,Fighting,,Basic,Common,Gapao,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-089,089,Garganacl ex,340,Fighting,Naclstack,Stage2,Double rare,5ban Graphics,holo,Stellar Crown,Scarlet & Violet,175
+sv07-090,090,Koraidon,130,Fighting,,Basic,Uncommon,kawayoo,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-091,091,Gulpin,70,Darkness,,Basic,Common,Shimaris Yukichi,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-092,092,Swalot,130,Darkness,Gulpin,Stage1,Uncommon,OKACHEKE,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-093,093,Pangoro,140,Darkness,Pancham,Stage1,Uncommon,KEIICHIRO ITO,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-094,094,Impidimp,70,Darkness,,Basic,Common,Tomokazu Komiya,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-095,095,Morgrem,90,Darkness,Impidimp,Stage1,Common,Mékayu,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-096,096,Grimmsnarl,170,Darkness,Morgrem,Stage2,Rare,Kazumasa Yasukuni,"reverse, holo",Stellar Crown,Scarlet & Violet,175
+sv07-097,097,Bombirdier,100,Darkness,,Basic,Common,Aya Kusube,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-098,098,Jirachi,80,Metal,,Basic,Uncommon,Kuroimori,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-099,099,Klink,60,Metal,,Basic,Common,osare,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-100,100,Klang,90,Metal,Klink,Stage1,Common,Mina Nakai,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-101,101,Klinklang,140,Metal,Klang,Stage2,Rare,Tonji Matsuno,"reverse, holo",Stellar Crown,Scarlet & Violet,175
+sv07-102,102,Meltan,60,Metal,,Basic,Common,Yuka Morii,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-103,103,Meltan,70,Metal,,Basic,Common,Apios,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-104,104,Melmetal,160,Metal,Meltan,Stage1,Rare,Takumi Wada,"reverse, holo",Stellar Crown,Scarlet & Violet,175
+sv07-105,105,Melmetal ex,280,Metal,Meltan,Stage1,Double rare,takuyoa,holo,Stellar Crown,Scarlet & Violet,175
+sv07-106,106,Duraludon,130,Metal,,Basic,Common,Takeshi Nakamura,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-107,107,Archaludon,180,Metal,Duraludon,Stage1,Rare,Oswaldo KATO,"reverse, holo",Stellar Crown,Scarlet & Violet,175
+sv07-108,108,Varoom,80,Metal,,Basic,Common,Shiburingaru,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-109,109,Revavroom,150,Metal,Varoom,Stage1,Uncommon,GOSSAN,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-110,110,Orthworm ex,220,Metal,,Basic,Double rare,PLANETA Yamashita,holo,Stellar Crown,Scarlet & Violet,175
+sv07-111,111,Raging Bolt,130,Dragon,,Basic,Rare,kodama,"reverse, holo",Stellar Crown,Scarlet & Violet,175
+sv07-112,112,Tauros,120,Colorless,,Basic,Common,Uninori,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-113,113,Eevee,60,Colorless,,Basic,Common,Mina Nakai,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-114,114,Hoothoot,70,Colorless,,Basic,Common,Yukihiro Tada,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-115,115,Noctowl,100,Colorless,Hoothoot,Stage1,Rare,matazo,"reverse, holo",Stellar Crown,Scarlet & Violet,175
+sv07-116,116,Glameow,60,Colorless,,Basic,Common,Yuriko Akase,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-117,117,Purugly,120,Colorless,Glameow,Stage1,Common,Saboteri,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-118,118,Fan Rotom,70,Colorless,,Basic,Common,Toshinao Aoki,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-119,119,Bouffalant,100,Colorless,,Basic,Rare,GOSSAN,"reverse, holo",Stellar Crown,Scarlet & Violet,175
+sv07-120,120,Tornadus,110,Colorless,,Basic,Uncommon,Uninori,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-121,121,Fletchling,60,Colorless,,Basic,Common,Teeziro,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-122,122,Fletchinder,90,Colorless,Fletchling,Stage1,Common,Julie Hang,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-123,123,Talonflame,140,Colorless,Fletchinder,Stage2,Uncommon,Nurikabe,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-124,124,Wooloo,70,Colorless,,Basic,Common,Wintr Wandr,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-125,125,Dubwool,130,Colorless,Wooloo,Stage1,Uncommon,HYOGONOSUKE,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-126,126,Lechonk,50,Colorless,,Basic,Common,REND,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-127,127,Cyclizar,110,Colorless,,Basic,Common,Nurikabe,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-128,128,Terapagos ex,230,Colorless,,Basic,Double rare,5ban Graphics,holo,Stellar Crown,Scarlet & Violet,175
+sv07-129,129,Antique Cover Fossil,60,,,,Common,AYUMI ODASHIMA,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-130,130,Antique Root Fossil,60,,,,Common,AYUMI ODASHIMA,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-131,131,Area Zero Underdepths,,,,,Uncommon,MARINA Chikazawa,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-132,132,Briar,,,,,Uncommon,Naoki Saito,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-133,133,Crispin,,,,,Uncommon,GIDORA,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-134,134,Deluxe Bomb,,,,,ACE SPEC Rare,inose yukie,holo,Stellar Crown,Scarlet & Violet,175
+sv07-135,135,Glass Trumpet,,,,,Uncommon,Toyste Beach,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-136,136,Grand Tree,,,,,ACE SPEC Rare,AYUMI ODASHIMA,holo,Stellar Crown,Scarlet & Violet,175
+sv07-137,137,Gravity Gemstone,,,,,Uncommon,Toyste Beach,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-138,138,Kofu,,,,,Uncommon,Hideki Ishikawa,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-139,139,Lacey,,,,,Uncommon,Sanosuke Sakuma,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-140,140,Occa Berry,,,,,Uncommon,Studio Bora Inc.,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-141,141,Payapa Berry,,,,,Uncommon,Studio Bora Inc.,"normal, reverse",Stellar Crown,Scarlet & Violet,175
+sv07-142,142,Sparkling Crystal,,,,,ACE SPEC Rare,Toyste Beach,holo,Stellar Crown,Scarlet & Violet,175
+sv07-143,143,Bulbasaur,70,Grass,,Basic,Illustration rare,Orca,holo,Stellar Crown,Scarlet & Violet,175
+sv07-144,144,Ledian,90,Grass,Ledyba,Stage1,Illustration rare,HYOGONOSUKE,holo,Stellar Crown,Scarlet & Violet,175
+sv07-145,145,Lileep,100,Grass,Antique Root Fossil,Stage1,Illustration rare,Mori Yuu,holo,Stellar Crown,Scarlet & Violet,175
+sv07-146,146,Turtonator,130,Fire,,Basic,Illustration rare,Yukihiro Tada,holo,Stellar Crown,Scarlet & Violet,175
+sv07-147,147,Raboot,90,Fire,Scorbunny,Stage1,Illustration rare,rika,holo,Stellar Crown,Scarlet & Violet,175
+sv07-148,148,Squirtle,60,Water,,Basic,Illustration rare,Saboteri,holo,Stellar Crown,Scarlet & Violet,175
+sv07-149,149,Crabominable,160,Water,Crabrawler,Stage1,Illustration rare,Mitsuhiro Arita,holo,Stellar Crown,Scarlet & Violet,175
+sv07-150,150,Joltik,30,Lightning,,Basic,Illustration rare,MARINA Chikazawa,holo,Stellar Crown,Scarlet & Violet,175
+sv07-151,151,Zeraora,120,Lightning,,Basic,Illustration rare,Kazumasa Yasukuni,holo,Stellar Crown,Scarlet & Violet,175
+sv07-152,152,Milcery,60,Psychic,,Basic,Illustration rare,Dsuke,holo,Stellar Crown,Scarlet & Violet,175
+sv07-153,153,Meditite,70,Fighting,,Basic,Illustration rare,Yuriko Akase,holo,Stellar Crown,Scarlet & Violet,175
+sv07-154,154,Gulpin,70,Darkness,,Basic,Illustration rare,Jerky,holo,Stellar Crown,Scarlet & Violet,175
+sv07-155,155,Archaludon,180,Metal,Duraludon,Stage1,Illustration rare,Toshinao Aoki,holo,Stellar Crown,Scarlet & Violet,175
+sv07-156,156,Hydrapple ex,330,Grass,Dipplin,Stage2,Ultra Rare,5ban Graphics,holo,Stellar Crown,Scarlet & Violet,175
+sv07-157,157,Cinderace ex,320,Fire,Raboot,Stage2,Ultra Rare,5ban Graphics,holo,Stellar Crown,Scarlet & Violet,175
+sv07-158,158,Lapras ex,220,Water,,Basic,Ultra Rare,5ban Graphics,holo,Stellar Crown,Scarlet & Violet,175
+sv07-159,159,Galvantula ex,260,Lightning,Joltik,Stage1,Ultra Rare,5ban Graphics,holo,Stellar Crown,Scarlet & Violet,175
+sv07-160,160,Dachsbun ex,250,Psychic,Fidough,Stage1,Ultra Rare,PLANETA Mochizuki,holo,Stellar Crown,Scarlet & Violet,175
+sv07-161,161,Medicham ex,260,Fighting,Meditite,Stage1,Ultra Rare,PLANETA Yamashita,holo,Stellar Crown,Scarlet & Violet,175
+sv07-162,162,Orthworm ex,220,Metal,,Basic,Ultra Rare,PLANETA Mochizuki,holo,Stellar Crown,Scarlet & Violet,175
+sv07-163,163,Briar,,,,,Ultra Rare,Naoki Saito,holo,Stellar Crown,Scarlet & Violet,175
+sv07-164,164,Crispin,,,,,Ultra Rare,GIDORA,holo,Stellar Crown,Scarlet & Violet,175
+sv07-165,165,Kofu,,,,,Ultra Rare,Hideki Ishikawa,holo,Stellar Crown,Scarlet & Violet,175
+sv07-166,166,Lacey,,,,,Ultra Rare,Sanosuke Sakuma,holo,Stellar Crown,Scarlet & Violet,175
+sv07-167,167,Hydrapple ex,330,Grass,Dipplin,Stage2,Special illustration rare,Teeziro,holo,Stellar Crown,Scarlet & Violet,175
+sv07-168,168,Galvantula ex,260,Lightning,Joltik,Stage1,Special illustration rare,MARINA Chikazawa,holo,Stellar Crown,Scarlet & Violet,175
+sv07-169,169,Dachsbun ex,250,Psychic,Fidough,Stage1,Special illustration rare,Yuu Nishida,holo,Stellar Crown,Scarlet & Violet,175
+sv07-170,170,Terapagos ex,230,Colorless,,Basic,Special illustration rare,Saboteri,holo,Stellar Crown,Scarlet & Violet,175
+sv07-171,171,Briar,,,,,Special illustration rare,DOM,holo,Stellar Crown,Scarlet & Violet,175
+sv07-172,172,Lacey,,,,,Special illustration rare,Souichirou Gunjima,holo,Stellar Crown,Scarlet & Violet,175
+sv07-173,173,Terapagos ex,230,Colorless,,Basic,Hyper rare,5ban Graphics,holo,Stellar Crown,Scarlet & Violet,175
+sv07-174,174,Area Zero Underdepths,,,,,Hyper rare,MARINA Chikazawa,holo,Stellar Crown,Scarlet & Violet,175
+sv07-175,175,Bravery Charm,,,,,Hyper rare,Toyste Beach,holo,Stellar Crown,Scarlet & Violet,175

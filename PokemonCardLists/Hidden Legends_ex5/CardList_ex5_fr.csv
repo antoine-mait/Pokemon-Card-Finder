@@ -1,0 +1,103 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+ex5-1,1,Branette,70,Psy,,Niveau 1,Rare,Midori Harada,holo,EX Légendes Oubliées,EX,102
+ex5-2,2,Kaorine,80,Psy,,Niveau 1,Rare,Kyoko Umemoto,holo,EX Légendes Oubliées,EX,102
+ex5-3,3,Nostenfer,90,Plante,,Niveau 2,Rare,Midori Harada,holo,EX Légendes Oubliées,EX,102
+ex5-4,4,Celebi Obscur,70,"Plante, Obscurité",,De base,Rare,Ken Ikuji,holo,EX Légendes Oubliées,EX,102
+ex5-5,5,Electrode,70,Électrique,,Niveau 1,Rare,Kyoko Umemoto,holo,EX Légendes Oubliées,EX,102
+ex5-6,6,Brouhabam,120,Incolore,,Niveau 2,Rare,Tomokazu Komiya,holo,EX Légendes Oubliées,EX,102
+ex5-7,7,Scarhino,70,Plante,,De base,Rare,Hajime Kusajima,holo,EX Légendes Oubliées,EX,102
+ex5-8,8,Jirachi,70,"Psy, Métal",,De base,Rare,Ryo Ueda,"reverse, holo",EX Légendes Oubliées,EX,102
+ex5-9,9,Mackogneur,120,Combat,,Niveau 2,Rare,Hajime Kusajima,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-10,10,Charmina,80,Combat,,Niveau 1,Rare,Atsuko Nishida,holo,EX Légendes Oubliées,EX,102
+ex5-11,11,Metalosse,100,"Psy, Métal",,Niveau 2,Rare,Kouki Saitou,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-12,12,Milobellus,100,Eau,,Niveau 1,Rare,Atsuko Nishida,holo,EX Légendes Oubliées,EX,102
+ex5-13,13,Scarabrute,70,Plante,,De base,Rare,Hajime Kusajima,holo,EX Légendes Oubliées,EX,102
+ex5-14,14,Tengalice,110,Obscurité,,Niveau 2,Rare,Hisao Nakamura,holo,EX Légendes Oubliées,EX,102
+ex5-15,15,Kaimorse,120,Eau,,Niveau 2,Rare,Atsuko Nishida,holo,EX Légendes Oubliées,EX,102
+ex5-16,16,Joliflor,100,Plante,,Niveau 2,Rare,Yuka Morii,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-17,17,Eoko,60,Psy,,De base,Rare,Miki Tanaka,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-18,18,Rosabyss,70,Eau,,Niveau 1,Rare,Kagemaru Himeno,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-19,19,Serpang,80,Eau,,Niveau 1,Rare,Kagemaru Himeno,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-20,20,Maskadra,70,Plante,,Niveau 1,Rare,Toshinao Aoki,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-21,21,Metang,80,Métal,,Niveau 1,Rare,Mitsuhiro Arita,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-22,22,Feunard,70,Combat,,Niveau 1,Rare,Toshinao Aoki,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-23,23,Morpheo Pluie,60,Eau,,De base,Rare,Jungo Suzuki,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-24,24,Relicanth,60,Eau,,De base,Rare,Kagemaru Himeno,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-25,25,Morpheo Neige,70,Eau,,De base,Rare,Sumiyoshi Kizuki,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-26,26,Morpheo Soleil,70,Feu,,De base,Rare,Sumiyoshi Kizuki,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-27,27,Tropius,80,Plante,,De base,Rare,Kouki Saitou,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-28,28,Terhal,50,Métal,,De base,Peu Commune,Ken Sugimori,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-29,29,Terhal,50,Métal,,De base,Peu Commune,Mitsuhiro Arita,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-30,30,Morpheo,60,Incolore,,De base,Peu Commune,Sumiyoshi Kizuki,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-31,31,Kaorine,80,Combat,,Niveau 1,Peu Commune,Ken Sugimori,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-32,32,Corayon,70,Eau,,De base,Peu Commune,Naoyo Kimura,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-33,33,Dodrio,80,Incolore,,Niveau 1,Peu Commune,Miki Tanaka,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-34,34,Oniglali,80,Eau,,Niveau 1,Peu Commune,Midori Harada,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-35,35,Ortide,70,Plante,,Niveau 1,Peu Commune,Yuka Morii,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-36,36,Nosferalto,70,Plante,,Niveau 1,Peu Commune,Midori Harada,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-37,37,Toudoudou,50,Incolore,,De base,Peu Commune,Naoyo Kimura,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-38,38,Lanturn,80,Électrique,,Niveau 1,Peu Commune,Aya Kusube,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-39,39,Ramboum,80,Incolore,,Niveau 2,Peu Commune,Tomokazu Komiya,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-40,40,Lovdisc,60,Eau,,De base,Peu Commune,Miki Tanaka,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-41,41,Machopeur,80,Combat,,Niveau 1,Peu Commune,Hajime Kusajima,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-42,42,Charmina,80,Combat,,Niveau 1,Peu Commune,Ken Sugimori,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-43,43,Metang,80,Psy,,Niveau 1,Peu Commune,Kouki Saitou,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-44,44,Metang,70,Métal,,Niveau 1,Peu Commune,Ken Sugimori,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-45,45,Pifeuil,70,Obscurité,,Niveau 1,Peu Commune,Hisao Nakamura,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-46,46,Rhinoferos,90,Combat,,Niveau 1,Peu Commune,Atsuko Nishida,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-47,47,Phogleur,70,Eau,,Niveau 1,Peu Commune,Atsuko Nishida,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-48,48,Spinda,60,Incolore,,De base,Peu Commune,Kagemaru Himeno,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-49,49,Staross,80,Psy,,Niveau 1,Peu Commune,Aya Kusube,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-50,50,Avaltout,80,Plante,,Niveau 1,Peu Commune,Yuka Morii,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-51,51,Tentacruel,70,Eau,,Niveau 1,Peu Commune,Hisao Nakamura,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-52,52,Balbuto,50,Psy,,De base,Commune,Kyoko Umemoto,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-53,53,Balbuto,50,Combat,,De base,Commune,Ken Sugimori,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-54,54,Terhal,50,Psy,,De base,Commune,Kouki Saitou,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-55,55,Germignon,50,Plante,,De base,Commune,Shin-ichi Yoshikawa,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-56,56,Loupio,50,Électrique,,De base,Commune,Aya Kusube,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-57,57,Loupio,50,Électrique,,De base,Commune,Nakaoka,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-58,58,Coquiperl,40,Eau,,De base,Commune,Kagemaru Himeno,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-59,59,Hericendre,50,Feu,,De base,Commune,Ken Ikuji,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-60,60,Doduo,40,Incolore,,De base,Commune,Miki Tanaka,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-61,61,Barpau,30,Eau,,De base,Commune,Tomokazu Komiya,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-62,62,Gloupti,50,Plante,,De base,Commune,Yuka Morii,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-63,63,Rondoudou,50,Incolore,,De base,Commune,Naoyo Kimura,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-64,64,Machoc,50,Combat,,De base,Commune,Hajime Kusajima,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-65,65,Meditikka,50,Psy,,De base,Commune,Ken Sugimori,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-66,66,Meditikka,50,Combat,,De base,Commune,Atsuko Nishida,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-67,67,Negapi,50,Électrique,,De base,Commune,Kagemaru Himeno,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-68,68,Mystherbe,50,Plante,,De base,Commune,Yuka Morii,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-69,69,Posipi,50,Électrique,,De base,Commune,Kagemaru Himeno,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-70,70,Rhinocorne,60,Combat,,De base,Commune,Atsuko Nishida,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-71,71,Grainipiot,40,Plante,,De base,Commune,Hisao Nakamura,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-72,72,Polichombr,40,Psy,,De base,Commune,Midori Harada,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-73,73,Stalgamin,50,Eau,,De base,Commune,Midori Harada,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-74,74,Obalie,40,Eau,,De base,Commune,Atsuko Nishida,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-75,75,Stari,50,Eau,,De base,Commune,Aya Kusube,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-76,76,Arakdo,50,Plante,,De base,Commune,Toshinao Aoki,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-77,77,Tentacool,50,Eau,,De base,Commune,Hisao Nakamura,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-78,78,Togepi,50,Incolore,,De base,Commune,Nakaoka,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-79,79,Kaiminus,50,Eau,,De base,Commune,Shin-ichi Yoshikawa,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-80,80,Voltorbe,40,Électrique,,De base,Commune,Kyoko Umemoto,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-81,81,Goupix,50,Feu,,De base,Commune,Toshinao Aoki,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-82,82,Chuchmur,50,Incolore,,De base,Commune,Tomokazu Komiya,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-83,83,Nosferapti,50,Plante,,De base,Commune,Midori Harada,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-84,84,Machine Technique Ancienne [Glace],,,,,Peu Commune,Mitsuhiro Arita,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-85,85,Machine Technique Ancienne [Pierre],,,,,Peu Commune,Mitsuhiro Arita,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-86,86,Machine Technique Ancienne [Acier],,,,,Peu Commune,Mitsuhiro Arita,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-87,87,Tombeau antique,,,,,Peu Commune,Ken Ikuji,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-88,88,Ruines désert,,,,,Peu Commune,Shin-ichi Yoshikawa,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-89,89,Grotte island,,,,,Peu Commune,Ken Ikugi,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-90,90,Herbe sauveuse,,,,,Peu Commune,Ryo Ueda,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-91,91,Tempête Magnétique,,,,,Peu Commune,Shin-ichi Yoshikawa,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-92,92,Les conseils de Pierre,,,,,Peu Commune,Ken Sugimori,"normal, holo",EX Légendes Oubliées,EX,102
+ex5-93,93,Groudon ex,100,Combat,,,Rare,Hikaru Koike,holo,EX Légendes Oubliées,EX,102
+ex5-94,94,Kyogre ex,100,Eau,,,Rare,Hikaru Koike,holo,EX Légendes Oubliées,EX,102
+ex5-95,95,Metalosse ex,150,Métal,,,Rare,Mitsuhiro Arita,holo,EX Légendes Oubliées,EX,102
+ex5-96,96,Feunard ex,90,Feu,,,Rare,Ryo Ueda,holo,EX Légendes Oubliées,EX,102
+ex5-97,97,Regice ex,90,Eau,,,Rare,Mitsuhiro Arita,holo,EX Légendes Oubliées,EX,102
+ex5-98,98,Regirock ex,100,Combat,,,Rare,Mitsuhiro Arita,holo,EX Légendes Oubliées,EX,102
+ex5-99,99,Registeel ex,90,Métal,,,Rare,Mitsuhiro Arita,holo,EX Légendes Oubliées,EX,102
+ex5-100,100,Rafflesia ex,140,Plante,,,Rare,Ryo Ueda,holo,EX Légendes Oubliées,EX,102
+ex5-101,101,Grodoudou ex,100,Incolore,,,Rare,Ryo Ueda,holo,EX Légendes Oubliées,EX,102
+ex5-102,102,Groudon,80,Combat,,De base,Rare,Mitsuhiro Arita,holo,EX Légendes Oubliées,EX,102

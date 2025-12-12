@@ -1,0 +1,134 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+pl1-1,1,Ampharos,130,Elektro,,Rang 2,"Selten, Holografisch",Atsuko Nishida,"reverse, holo",Platin,Platin,133
+pl1-2,2,Turtok,130,Wasser,,Rang 2,"Selten, Holografisch",Kagemaru Himeno,"reverse, holo",Platin,Platin,133
+pl1-3,3,Lohgock,130,Feuer,,Rang 2,"Selten, Holografisch",Hajime Kusajima,"reverse, holo",Platin,Platin,133
+pl1-4,4,Enekoro,90,Farblos,,Rang 1,"Selten, Holografisch",Mitsuhiro Arita,"reverse, holo",Platin,Platin,133
+pl1-5,5,Dialga,100,Metall,,Basis,"Selten, Holografisch",Mitsuhiro Arita,"reverse, holo",Platin,Platin,133
+pl1-6,6,Dialga,100,Metall,,Basis,"Selten, Holografisch",Kouki Saitou,"reverse, holo",Platin,Platin,133
+pl1-7,7,Dialga G,100,Metall,,Basis,"Selten, Holografisch",Yusuke Ishikawa,"reverse, holo",Platin,Platin,133
+pl1-8,8,Guardevoir,120,Psycho,,Rang 2,"Selten, Holografisch",Kouki Saitou,"normal, reverse, holo",Platin,Platin,133
+pl1-9,9,Giratina,100,Psycho,,Basis,"Selten, Holografisch",Kouki Saitou,"reverse, holo",Platin,Platin,133
+pl1-10,10,Giratina,100,Psycho,,Basis,"Selten, Holografisch",Hajime Kusajima,"reverse, holo",Platin,Platin,133
+pl1-11,11,Voltenso,90,Elektro,,Rang 1,"Selten, Holografisch",Kouki Saitou,"reverse, holo",Platin,Platin,133
+pl1-12,12,Palkia G,100,Wasser,,Basis,"Selten, Holografisch",Yusuke Ishikawa,"reverse, holo",Platin,Platin,133
+pl1-13,13,Rameidon,130,Kampf,,Rang 2,"Selten, Holografisch",Masakazu Fukuda,"reverse, holo",Platin,Platin,133
+pl1-14,14,Shaymin,70,Pflanze,,Basis,"Selten, Holografisch",Kagemaru Himeno,"reverse, holo",Platin,Platin,133
+pl1-15,15,Shaymin,80,Pflanze,,Basis,"Selten, Holografisch",Atsuko Nishida,"reverse, holo",Platin,Platin,133
+pl1-16,16,Letarking,150,Farblos,,Rang 2,"Selten, Holografisch",Masakazu Fukuda,"reverse, holo",Platin,Platin,133
+pl1-17,17,Snibunna G,80,Unlicht,,Basis,"Selten, Holografisch",Makoto Imai,"reverse, holo",Platin,Platin,133
+pl1-18,18,Altaria,90,Farblos,,Rang 1,Selten,Naoyo Kimura,"normal, reverse",Platin,Platin,133
+pl1-19,19,Banette,90,Psycho,,Rang 1,Selten,Tomokazu Komiya,"normal, reverse",Platin,Platin,133
+pl1-20,20,Bollterus,130,Metall,,Rang 2,Selten,Kagemaru Himeno,"normal, reverse",Platin,Platin,133
+pl1-21,21,Papinella,120,Pflanze,,Rang 2,Selten,Suwama Chiaki,"normal, reverse",Platin,Platin,133
+pl1-22,22,Heiteira,120,Farblos,,Rang 1,Selten,Atsuko Nishida,"normal, reverse",Platin,Platin,133
+pl1-23,23,Dialga,100,Metall,,Basis,Selten,Kent Kanetsuna,"normal, reverse",Platin,Platin,133
+pl1-24,24,Digdri,90,Kampf,,Rang 1,Selten,Sumiyoshi Kizuki,"normal, reverse",Platin,Platin,133
+pl1-25,25,Pudox,130,Psycho,,Rang 2,Selten,Yukiko Baba,"normal, reverse",Platin,Platin,133
+pl1-26,26,Impoleon,130,Wasser,,Rang 2,Selten,Mitsuhiro Arita,"normal, reverse",Platin,Platin,133
+pl1-27,27,Giratina,100,Psycho,,Basis,Selten,Mitsuhiro Arita,"normal, reverse",Platin,Platin,133
+pl1-28,28,Giratina,110,Psycho,,Basis,Selten,Yusuke Ishikawa,"normal, reverse, holo",Platin,Platin,133
+pl1-29,29,Entoron,90,Wasser,,Rang 1,Selten,Kouki Saitou,"normal, reverse",Platin,Platin,133
+pl1-30,30,Garados G,110,Wasser,,Basis,Selten,Kent Kanetsuna,"normal, reverse",Platin,Platin,133
+pl1-31,31,Panferno,110,Feuer,,Rang 2,Selten,Kouki Saitou,"normal, reverse",Platin,Platin,133
+pl1-32,32,Zirpeise,90,Pflanze,,Rang 1,Selten,Atsuko Nishida,"normal, reverse",Platin,Platin,133
+pl1-33,33,Schlurplek,120,Farblos,,Rang 1,Selten,Mitsuhiro Arita,"normal, reverse",Platin,Platin,133
+pl1-34,34,Kappalores,120,Pflanze,,Rang 2,Selten,Kagemaru Himeno,"normal, reverse",Platin,Platin,133
+pl1-35,35,Liebiskus,70,Wasser,,Basis,Selten,Kagemaru Himeno,"normal, reverse",Platin,Platin,133
+pl1-36,36,Vulnona,90,Feuer,,Rang 1,Selten,Suwama Chiaki,"normal, reverse",Platin,Platin,133
+pl1-37,37,Palkia,100,Wasser,,Basis,Selten,Kent Kanetsuna,"normal, reverse",Platin,Platin,133
+pl1-38,38,Shaymin,80,Pflanze,,Basis,Selten,Kouki Saitou,"normal, reverse, holo",Platin,Platin,133
+pl1-39,39,Chelterrar,140,Pflanze,,Rang 2,Selten,Kagemaru Himeno,"normal, reverse",Platin,Platin,133
+pl1-40,40,Toxiquak G,90,Psycho,,Basis,Selten,Ryota Saito,"normal, reverse",Platin,Platin,133
+pl1-41,41,Bronzong G,90,Metall,,Basis,Ungewöhnlich,Makoto Imai,"normal, reverse",Platin,Platin,133
+pl1-42,42,Noktuska,90,Pflanze,,Rang 1,Ungewöhnlich,Mitsuhiro Arita,"normal, reverse",Platin,Platin,133
+pl1-43,43,Venuflibis,80,Pflanze,,Basis,Ungewöhnlich,Mitsuhiro Arita,"normal, reverse",Platin,Platin,133
+pl1-44,44,Panekon,80,Pflanze,,Rang 1,Ungewöhnlich,Yukiko Baba,"normal, reverse",Platin,Platin,133
+pl1-45,45,Junglut,80,Feuer,,Rang 1,Ungewöhnlich,Masakazu Fukuda,"normal, reverse",Platin,Platin,133
+pl1-46,46,Koknodon,80,Kampf,,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse",Platin,Platin,133
+pl1-47,47,Iksbat G,80,Psycho,,Basis,Ungewöhnlich,Makoto Imai,"normal, reverse",Platin,Platin,133
+pl1-48,48,Waaty,80,Elektro,,Rang 1,Ungewöhnlich,Sumiyoshi Kizuki,"normal, reverse",Platin,Platin,133
+pl1-49,49,Chelcarain,90,Pflanze,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, reverse",Platin,Platin,133
+pl1-50,50,Hundemon G,90,Feuer,,Basis,Ungewöhnlich,Kent Kanetsuna,"normal, reverse",Platin,Platin,133
+pl1-51,51,Kirlia,80,Psycho,,Rang 1,Ungewöhnlich,Naoyo Kimura,"normal, reverse",Platin,Platin,133
+pl1-52,52,Lombrero,80,Pflanze,,Rang 1,Ungewöhnlich,Midori Harada,"normal, reverse",Platin,Platin,133
+pl1-53,53,Lucario,90,Metall,,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse",Platin,Platin,133
+pl1-54,54,Magnayen,90,Unlicht,,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse",Platin,Platin,133
+pl1-55,55,Traunmagil,90,Psycho,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, reverse",Platin,Platin,133
+pl1-56,56,Panpyro,80,Feuer,,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse",Platin,Platin,133
+pl1-57,57,Sleimok,100,Psycho,,Rang 1,Ungewöhnlich,Hajime Kusajima,"normal, reverse",Platin,Platin,133
+pl1-58,58,Octillery,90,Wasser,,Rang 1,Ungewöhnlich,Midori Harada,"normal, reverse",Platin,Platin,133
+pl1-59,59,Pliprin,80,Wasser,,Rang 1,Ungewöhnlich,Mitsuhiro Arita,"normal, reverse",Platin,Platin,133
+pl1-60,60,Voluminas,90,Kampf,,Rang 1,Ungewöhnlich,Mitsuhiro Arita,"normal, reverse",Platin,Platin,133
+pl1-61,61,Vipitis,80,Psycho,,Basis,Ungewöhnlich,Sumiyoshi Kizuki,"normal, reverse",Platin,Platin,133
+pl1-62,62,Schilterus,80,Metall,,Rang 1,Ungewöhnlich,Mitsuhiro Arita,"normal, reverse",Platin,Platin,133
+pl1-63,63,Schaloko,80,Pflanze,,Rang 1,Ungewöhnlich,Kyoko Umemoto,"normal, reverse",Platin,Platin,133
+pl1-64,64,Muntier,80,Farblos,,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse",Platin,Platin,133
+pl1-65,65,Schillok,80,Wasser,,Rang 1,Ungewöhnlich,Midori Harada,"normal, reverse",Platin,Platin,133
+pl1-66,66,Sengo,80,Farblos,,Basis,Ungewöhnlich,Hajime Kusajima,"normal, reverse",Platin,Platin,133
+pl1-67,67,Tuska,50,Pflanze,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse",Platin,Platin,133
+pl1-68,68,Venuflibis,80,Pflanze,,Basis,Häufig,Kagemaru Himeno,"normal, reverse",Platin,Platin,133
+pl1-69,69,Chaneira,90,Farblos,,Basis,Häufig,Kouki Saitou,"normal, reverse",Platin,Platin,133
+pl1-70,70,Panflam,50,Feuer,,Basis,Häufig,Kouki Saitou,"normal, reverse",Platin,Platin,133
+pl1-71,71,Wadribie,60,Pflanze,,Basis,Häufig,Kagemaru Himeno,"normal, reverse",Platin,Platin,133
+pl1-72,72,Digda,50,Kampf,,Basis,Häufig,Midori Harada,"normal, reverse",Platin,Platin,133
+pl1-73,73,Dummisel,60,Farblos,,Basis,Häufig,Kouki Saitou,"normal, reverse",Platin,Platin,133
+pl1-74,74,Frizelbliz,50,Elektro,,Basis,Häufig,Miki Tanaka,"normal, reverse",Platin,Platin,133
+pl1-75,75,Sleima,60,Psycho,,Basis,Häufig,Yukiko Baba,"normal, reverse",Platin,Platin,133
+pl1-76,76,Wonneira,60,Farblos,,Basis,Häufig,Kagemaru Himeno,"normal, reverse",Platin,Platin,133
+pl1-77,77,Kramshef G,80,Unlicht,,Basis,Häufig,Yusuke Ishikawa,"normal, reverse",Platin,Platin,133
+pl1-78,78,Zirpurze,60,Pflanze,,Basis,Häufig,Kyoko Umemoto,"normal, reverse",Platin,Platin,133
+pl1-79,79,Lapras,80,Wasser,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse",Platin,Platin,133
+pl1-80,80,Schlurp,90,Farblos,,Basis,Häufig,Yuka Morii,"normal, reverse",Platin,Platin,133
+pl1-81,81,Loturzel,50,Pflanze,,Basis,Häufig,Masakazu Fukuda,"normal, reverse",Platin,Platin,133
+pl1-82,82,Voltilamm,60,Elektro,,Basis,Häufig,Yuka Morii,"normal, reverse",Platin,Platin,133
+pl1-83,83,Traunfugil,50,Psycho,,Basis,Häufig,Kagemaru Himeno,"normal, reverse",Platin,Platin,133
+pl1-84,84,Nasgnet,60,Kampf,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse",Platin,Platin,133
+pl1-85,85,Plinfa,60,Wasser,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse",Platin,Platin,133
+pl1-86,86,Fiffyen,50,Unlicht,,Basis,Häufig,Tomokazu Komiya,"normal, reverse",Platin,Platin,133
+pl1-87,87,Enton,60,Wasser,,Basis,Häufig,Tomokazu Komiya,"normal, reverse",Platin,Platin,133
+pl1-88,88,Shnurgarst G,90,Farblos,,Basis,Häufig,Ryota Saito,"normal, reverse",Platin,Platin,133
+pl1-89,89,Trasla,60,Psycho,,Basis,Häufig,Miki Tanaka,"normal, reverse",Platin,Platin,133
+pl1-90,90,Remoraid,60,Wasser,,Basis,Häufig,Miki Tanaka,"normal, reverse",Platin,Platin,133
+pl1-91,91,Riolu,60,Kampf,,Basis,Häufig,Kouki Saitou,"normal, reverse",Platin,Platin,133
+pl1-92,92,Shuppet,50,Psycho,,Basis,Häufig,Kyoko Umemoto,"normal, reverse",Platin,Platin,133
+pl1-93,93,Eneco,60,Farblos,,Basis,Häufig,Masakazu Fukuda,"normal, reverse",Platin,Platin,133
+pl1-94,94,Skuntank G,80,Psycho,,Basis,Häufig,Makoto Imai,"normal, reverse",Platin,Platin,133
+pl1-95,95,Bummelz,50,Farblos,,Basis,Häufig,Atsuko Nishida,"normal, reverse",Platin,Platin,133
+pl1-96,96,Schiggy,60,Wasser,,Basis,Häufig,Masakazu Fukuda,"normal, reverse",Platin,Platin,133
+pl1-97,97,Wablu,40,Farblos,,Basis,Häufig,Kagemaru Himeno,"normal, reverse",Platin,Platin,133
+pl1-98,98,Tauros,70,Farblos,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse",Platin,Platin,133
+pl1-99,99,Flemmli,60,Feuer,,Basis,Häufig,Naoyo Kimura,"normal, reverse",Platin,Platin,133
+pl1-100,100,Qurtel,80,Feuer,,Basis,Häufig,Kouki Saitou,"normal, reverse",Platin,Platin,133
+pl1-101,101,Chelast,60,Pflanze,,Basis,Häufig,Kagemaru Himeno,"normal, reverse",Platin,Platin,133
+pl1-102,102,Vulpix,50,Feuer,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse",Platin,Platin,133
+pl1-103,103,Waumpel,50,Pflanze,,Basis,Häufig,Yuka Morii,"normal, reverse",Platin,Platin,133
+pl1-104,104,Raum-Zeit-Anomalie,,,,,Ungewöhnlich,Kent Kanetsuna,"normal, reverse",Platin,Platin,133
+pl1-105,105,Zyrus' Komplott,,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse",Platin,Platin,133
+pl1-106,106,Galaktik-Zentrale,,,,,Ungewöhnlich,Ryota Saito,"normal, reverse",Platin,Platin,133
+pl1-107,107,Level Max.,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Platin,Platin,133
+pl1-108,108,Lebenskräuter,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Platin,Platin,133
+pl1-109,109,LeBelles Recherche,,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse",Platin,Platin,133
+pl1-110,110,Erinnerungsbeere,,,,,Ungewöhnlich,Shizurow,"normal, reverse",Platin,Platin,133
+pl1-111,111,Gifthauchtal,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Platin,Platin,133
+pl1-112,112,PlusPower,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Platin,Platin,133
+pl1-113,113,Pokéball,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Platin,Platin,133
+pl1-114,114,Pokédex HANDY910is,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Platin,Platin,133
+pl1-115,115,Pokémon-Rettungsaktion,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Platin,Platin,133
+pl1-116,116,Team Galaktiks Erfindung G-101 Energiegewinn,,,,,Ungewöhnlich,Makoto Imai,"normal, reverse",Platin,Platin,133
+pl1-117,117,Team Galaktiks Erfindung G-103 Kraftspray,,,,,Ungewöhnlich,Yusuke Ishikawa,"normal, reverse",Platin,Platin,133
+pl1-118,118,Team Galaktiks Erfindung G-105 Poké-Dreher,,,,,Ungewöhnlich,Makoto Imai,"normal, reverse",Platin,Platin,133
+pl1-119,119,Schildfossil,50,,,,Häufig,Ryo Ueda,"normal, reverse",Platin,Platin,133
+pl1-120,120,Kopffossil,50,,,,Häufig,Ryo Ueda,"normal, reverse",Platin,Platin,133
+pl1-121,121,Regenbogen-Energie,,,,,Ungewöhnlich,Takumi Akabane,"normal, reverse",Platin,Platin,133
+pl1-122,122,Dialga G,120,Metall,,Level Up,"Selten, Holografisch LV.X",Mitsuhiro Arita,holo,Platin,Platin,133
+pl1-123,123,Piondragi,130,Unlicht,,Level Up,"Selten, Holografisch LV.X",Ryo Ueda,holo,Platin,Platin,133
+pl1-124,124,Giratina,130,Psycho,,Level Up,"Selten, Holografisch LV.X",Shizurow,holo,Platin,Platin,133
+pl1-125,125,Palkia G,120,Wasser,,Level Up,"Selten, Holografisch LV.X",Mitsuhiro Arita,holo,Platin,Platin,133
+pl1-126,126,Shaymin,100,Pflanze,,Level Up,"Selten, Holografisch LV.X",Shizurow,holo,Platin,Platin,133
+pl1-127,127,Shaymin,110,Pflanze,,Level Up,"Selten, Holografisch LV.X",Shizurow,holo,Platin,Platin,133
+pl1-128,128,Elektek,70,Elektro,,Basis,Selten,Ken Sugimori,holo,Platin,Platin,133
+pl1-129,129,Nockchan,70,Kampf,,Basis,Selten,Ken Sugimori,holo,Platin,Platin,133
+pl1-130,130,Sichlor,70,Pflanze,,Basis,Selten,Ken Sugimori,holo,Platin,Platin,133
+pl1-SH4,SH4,Loturzel,50,Pflanze,,Basis,Selten,Masakazu Fukuda,reverse,Platin,Platin,133
+pl1-SH5,SH5,Wablu,50,Farblos,,Basis,Selten,Kagemaru Himeno,reverse,Platin,Platin,133
+pl1-SH6,SH6,Vulpix,60,Feuer,,Basis,Selten,Mitsuhiro Arita,reverse,Platin,Platin,133

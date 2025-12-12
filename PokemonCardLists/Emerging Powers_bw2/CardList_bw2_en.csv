@@ -1,0 +1,99 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+bw2-1,1,Pansage,70,Grass,,Basic,Common,Kouki Saitou,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-2,2,Simisage,90,Grass,Pansage,Stage1,Rare,match,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-3,3,Sewaddle,40,Grass,,Basic,Common,Kagemaru Himeno,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-4,4,Sewaddle,50,Grass,,Basic,Common,Naoki Saito,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-5,5,Swadloon,80,Grass,Sewaddle,Stage1,Uncommon,Naoki Saito,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-6,6,Swadloon,70,Grass,Sewaddle,Stage1,Uncommon,MAHOU,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-7,7,Leavanny,130,Grass,Swadloon,Stage2,Rare,Kouki Saitou,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-8,8,Leavanny,130,Grass,Swadloon,Stage2,Rare,Masakazu Fukuda,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-9,9,Cottonee,40,Grass,,Basic,Common,Atsuko Nishida,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-10,10,Cottonee,50,Grass,,Basic,Common,Kagemaru Himeno,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-11,11,Whimsicott,80,Grass,Cottonee,Stage1,Uncommon,sui,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-12,12,Whimsicott,80,Grass,Cottonee,Stage1,Rare,Mizue,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-13,13,Petilil,50,Grass,,Basic,Common,Sumiyoshi Kizuki,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-14,14,Lilligant,90,Grass,Petilil,Stage1,Uncommon,Shin Nagasawa,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-15,15,Deerling,60,Grass,,Basic,Common,sui,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-16,16,Sawsbuck,100,Grass,Deerling,Stage1,Rare,Kagemaru Himeno,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-17,17,Virizion,100,Grass,,Basic,Rare,5ban Graphics,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-18,18,Pansear,70,Fire,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-19,19,Simisear,90,Fire,Pansear,Stage1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-20,20,Darumaka,70,Fire,,Basic,Common,Mitsuhiro Arita,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-21,21,Darmanitan,100,Fire,Darumaka,Stage1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-22,22,Panpour,70,Water,,Basic,Common,Kagemaru Himeno,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-23,23,Simipour,90,Water,Panpour,Stage1,Rare,Sumiyoshi Kizuki,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-24,24,Basculin,80,Water,,Basic,Common,match,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-25,25,Basculin,80,Water,,Basic,Uncommon,Akira Komayama,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-26,26,Ducklett,60,Water,,Basic,Common,MAHOU,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-27,27,Swanna,90,Water,Ducklett,Stage1,Rare,Atsuko Nishida,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-28,28,Cubchoo,70,Water,,Basic,Common,sui,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-29,29,Cubchoo,70,Water,,Basic,Common,Kanako Eo,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-30,30,Beartic,130,Water,Cubchoo,Stage1,Rare,Kouki Saitou,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-31,31,Beartic,130,Water,Cubchoo,Stage1,Rare,Kagemaru Himeno,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-32,32,Emolga,70,Lightning,,Basic,Common,Kouki Saitou,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-33,33,Joltik,40,Lightning,,Basic,Common,Kagemaru Himeno,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-34,34,Galvantula,80,Lightning,Joltik,Stage1,Uncommon,Kagemaru Himeno,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-35,35,Thundurus,110,Lightning,,Basic,Rare,5ban Graphics,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-36,36,Woobat,60,Psychic,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-37,37,Swoobat,90,Psychic,Woobat,Stage1,Rare,Shigenori Negishi,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-38,38,Venipede,70,Psychic,,Basic,Common,Kouki Saitou,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-39,39,Whirlipede,90,Psychic,Venipede,Stage1,Uncommon,Shin Nagasawa,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-40,40,Scolipede,140,Psychic,Whirlipede,Stage2,Rare,kawayoo,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-41,41,Sigilyph,90,Psychic,,Basic,Uncommon,Midori Harada,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-42,42,Sigilyph,90,Psychic,,Basic,Uncommon,match,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-43,43,Gothita,60,Psychic,,Basic,Common,MAHOU,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-44,44,Gothita,60,Psychic,,Basic,Common,sui,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-45,45,Gothorita,80,Psychic,Gothita,Stage1,Uncommon,Atsuko Nishida,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-46,46,Gothorita,80,Psychic,Gothita,Stage1,Uncommon,Naoki Saito,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-47,47,Gothitelle,130,Psychic,Gothorita,Stage2,Rare,Kagemaru Himeno,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-48,48,Gothitelle,120,Psychic,Gothorita,Stage2,Rare,Kouki Saitou,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-49,49,Roggenrola,60,Fighting,,Basic,Common,Kagemaru Himeno,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-50,50,Roggenrola,60,Fighting,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-51,51,Boldore,90,Fighting,Roggenrola,Stage1,Uncommon,Kouki Saitou,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-52,52,Boldore,90,Fighting,Roggenrola,Stage1,Uncommon,Masakazu Fukuda,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-53,53,Gigalith,140,Fighting,Boldore,Stage2,Rare,Naoki Saito,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-54,54,Drilbur,70,Fighting,,Basic,Uncommon,match,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-55,55,Drilbur,60,Fighting,,Basic,Common,Midori Harada,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-56,56,Excadrill,110,Fighting,Drilbur,Stage1,Rare,5ban Graphics,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-57,57,Excadrill,120,Fighting,Drilbur,Stage1,Rare,Shin Nagasawa,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-58,58,Throh,90,Fighting,,Basic,Uncommon,match,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-59,59,Sawk,90,Fighting,,Basic,Uncommon,Kouki Saitou,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-60,60,Sandile,70,Fighting,,Basic,Common,Kagemaru Himeno,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-61,61,Krokorok,90,Fighting,Sandile,Stage1,Uncommon,Kagemaru Himeno,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-62,62,Krookodile,140,Fighting,Krokorok,Stage2,Rare,Naoki Saito,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-63,63,Terrakion,120,Fighting,,Basic,Rare,5ban Graphics,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-64,64,Purrloin,60,Darkness,,Basic,Common,Atsuko Nishida,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-65,65,Liepard,80,Darkness,Purrloin,Stage1,Rare,Akira Komayama,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-66,66,Zorua,50,Darkness,,Basic,Uncommon,Shin Nagasawa,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-67,67,Zoroark,100,Darkness,Zorua,Stage1,Rare,Shin Nagasawa,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-68,68,Vullaby,50,Darkness,,Basic,Common,sui,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-69,69,Mandibuzz,90,Darkness,Vullaby,Stage1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-70,70,Ferroseed,60,Metal,,Basic,Common,Midori Harada,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-71,71,Ferroseed,50,Metal,,Basic,Common,MAHOU,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-72,72,Ferrothorn,90,Metal,Ferroseed,Stage1,Rare,Shin Nagasawa,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-73,73,Ferrothorn,90,Metal,Ferroseed,Stage1,Uncommon,Masakazu Fukuda,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-74,74,Klink,60,Metal,,Basic,Common,Kouki Saitou,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-75,75,Klang,80,Metal,Klink,Stage1,Uncommon,Kouki Saitou,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-76,76,Klinklang,150,Metal,Klang,Stage2,Rare,Akira Komayama,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-77,77,Cobalion,110,Metal,,Basic,Rare,5ban Graphics,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-78,78,Patrat,60,Colorless,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-79,79,Watchog,90,Colorless,Patrat,Stage1,Uncommon,MAHOU,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-80,80,Pidove,50,Colorless,,Basic,Common,Naoki Saito,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-81,81,Tranquill,70,Colorless,Pidove,Stage1,Uncommon,Midori Harada,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-82,82,Unfezant,120,Colorless,Tranquill,Stage2,Rare,kawayoo,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-83,83,Audino,90,Colorless,,Basic,Uncommon,Kagemaru Himeno,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-84,84,Minccino,60,Colorless,,Basic,Common,Atsuko Nishida,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-85,85,Cinccino,90,Colorless,Minccino,Stage1,Uncommon,Mizue,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-86,86,Rufflet,60,Colorless,,Basic,Common,Kouki Saitou,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-87,87,Rufflet,60,Colorless,,Basic,Common,Naoyo Kimura,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-88,88,Braviary,100,Colorless,Rufflet,Stage1,Rare,Masakazu Fukuda,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-89,89,Tornadus,110,Colorless,,Basic,Rare,5ban Graphics,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-90,90,Bianca,,,,,Uncommon,Yusuke Ohmura,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-91,91,Cheren,,,,,Uncommon,Yusuke Ohmura,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-92,92,Crushing Hammer,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-93,93,Great Ball,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-94,94,Max Potion,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-95,95,Pokémon Catcher,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-96,96,Recycle,,,,,Uncommon,Ryo Ueda,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-97,97,Thundurus,110,Lightning,,Basic,Ultra Rare,5ban Graphics,"normal, reverse, holo",Emerging Powers,Black & White,98
+bw2-98,98,Tornadus,110,Colorless,,Basic,Ultra Rare,5ban Graphics,"normal, reverse, holo",Emerging Powers,Black & White,98

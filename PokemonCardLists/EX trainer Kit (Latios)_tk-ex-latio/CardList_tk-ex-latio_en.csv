@@ -1,0 +1,11 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+tk-ex-latio-1,1,Electrike,50,Lightning,,Basic,None,Ken Sugimori,"normal, reverse, holo",EX trainer Kit (Latios),Trainer kits,10
+tk-ex-latio-2,2,Latios,80,Colorless,,Basic,None,Kyoko Koizumi,"normal, reverse, holo",EX trainer Kit (Latios),Trainer kits,10
+tk-ex-latio-3,3,Linoone,70,Colorless,Zigzagoon,Stage1,None,Ken Sugimori,"normal, reverse, holo",EX trainer Kit (Latios),Trainer kits,10
+tk-ex-latio-4,4,Magnemite,40,Lightning,,Basic,None,Tomokazu Komiya,"normal, reverse, holo",EX trainer Kit (Latios),Trainer kits,10
+tk-ex-latio-5,5,Magneton,80,Lightning,Magnemite,Stage1,None,Kyoko Umemoto,"normal, reverse, holo",EX trainer Kit (Latios),Trainer kits,10
+tk-ex-latio-6,6,Pikachu,50,Lightning,,Basic,None,Mitsuhiro Arita,"normal, reverse, holo",EX trainer Kit (Latios),Trainer kits,10
+tk-ex-latio-7,7,Zigzagoon,40,Colorless,,Basic,None,Atsuko Nishida,"normal, reverse, holo",EX trainer Kit (Latios),Trainer kits,10
+tk-ex-latio-8,8,Potion,,,,,None,Keiji Kinebuchi,"normal, reverse, holo",EX trainer Kit (Latios),Trainer kits,10
+tk-ex-latio-9,9,Energy Search,,,,,None,Kai Ishikawa,"normal, reverse, holo",EX trainer Kit (Latios),Trainer kits,10
+tk-ex-latio-10,10,Lightning Energy,,,,Basic,None,,"normal, reverse, holo",EX trainer Kit (Latios),Trainer kits,10

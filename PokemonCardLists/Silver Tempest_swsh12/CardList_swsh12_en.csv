@@ -1,0 +1,246 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+swsh12-001,001,Venonat,60,Grass,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-002,002,Venomoth,90,Grass,Venonat,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-003,003,Spinarak,60,Grass,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-004,004,Ariados,90,Grass,Spinarak,Stage1,Holo Rare,,"reverse, holo",Silver Tempest,Sword & Shield,245
+swsh12-005,005,Sunkern,40,Grass,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-006,006,Sunflora,90,Grass,Sunkern,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-007,007,Serperior V,210,Grass,,Basic,Holo Rare V,,holo,Silver Tempest,Sword & Shield,245
+swsh12-008,008,Serperior VSTAR,270,Grass,Serperior V,VSTAR,Holo Rare VSTAR,,holo,Silver Tempest,Sword & Shield,245
+swsh12-009,009,Petilil,50,Grass,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-010,010,Hisuian Lilligant,120,Grass,Petilil,Stage1,Rare,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-011,011,Foongus,50,Grass,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-012,012,Amoonguss,90,Grass,Foongus,Stage1,Rare,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-013,013,Durant,110,Grass,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-014,014,Virizion,110,Grass,,Basic,Rare,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-015,015,Chesnaught V,230,Grass,,Basic,Holo Rare V,,holo,Silver Tempest,Sword & Shield,245
+swsh12-016,016,Radiant Tsareena,140,Grass,,Basic,Radiant Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-017,017,Vulpix,70,Fire,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-018,018,Ninetales,110,Fire,Vulpix,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-019,019,Growlithe,90,Fire,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-020,020,Arcanine,140,Fire,Growlithe,Stage1,Rare,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-021,021,Ponyta,70,Fire,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-022,022,Rapidash,100,Fire,Ponyta,Stage1,Holo Rare,,"reverse, holo",Silver Tempest,Sword & Shield,245
+swsh12-023,023,Victini,70,Fire,,Basic,Rare,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-024,024,Reshiram V,220,Fire,,Basic,Holo Rare V,,holo,Silver Tempest,Sword & Shield,245
+swsh12-025,025,Fennekin,60,Fire,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-026,026,Braixen,90,Fire,Fennekin,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-027,027,Delphox,150,Fire,Braixen,Stage2,Rare,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-028,028,Fletchinder,80,Fire,Fletchling,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-029,029,Talonflame,140,Fire,Fletchinder,Stage2,Rare,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-030,030,Litten,70,Fire,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-031,031,Torracat,80,Fire,Litten,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-032,032,Incineroar,170,Fire,Torracat,Stage2,Rare,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-033,033,Alolan Vulpix V,190,Water,,Basic,Holo Rare V,,holo,Silver Tempest,Sword & Shield,245
+swsh12-034,034,Alolan Vulpix VSTAR,240,Water,Alolan Vulpix V,VSTAR,Holo Rare VSTAR,,holo,Silver Tempest,Sword & Shield,245
+swsh12-035,035,Omastar V,190,Water,,Basic,Holo Rare V,,holo,Silver Tempest,Sword & Shield,245
+swsh12-036,036,Articuno,110,Water,,Basic,Holo Rare,,"reverse, holo",Silver Tempest,Sword & Shield,245
+swsh12-037,037,Wailmer,110,Water,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-038,038,Wailord,200,Water,Wailmer,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-039,039,Feebas,30,Water,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-040,040,Milotic,130,Water,Feebas,Stage1,Rare,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-041,041,Snorunt,60,Water,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-042,042,Glalie,130,Water,Snorunt,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-043,043,Froslass,90,Water,Snorunt,Stage1,Rare,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-044,044,Relicanth,90,Water,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-045,045,Phione,70,Water,,Basic,Rare,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-046,046,Keldeo,120,Water,,Basic,Rare,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-047,047,Dewpider,60,Water,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-048,048,Araquanid,120,Water,Dewpider,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-049,049,Pikachu,70,Lightning,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-050,050,Raichu,120,Lightning,Pikachu,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-051,051,Chinchou,60,Lightning,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-052,052,Lanturn,120,Lightning,Chinchou,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-053,053,Rotom,80,Lightning,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-054,054,Emolga,70,Lightning,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-055,055,Stunfisk,110,Lightning,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-056,056,Zeraora,110,Lightning,,Basic,Rare,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-057,057,Regieleki V,200,Lightning,,Basic,Holo Rare V,,holo,Silver Tempest,Sword & Shield,245
+swsh12-058,058,Regieleki VMAX,310,Lightning,Regieleki V,VMAX,Holo Rare VMAX,,holo,Silver Tempest,Sword & Shield,245
+swsh12-059,059,Radiant Alakazam,130,Psychic,,Basic,Radiant Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-060,060,Drowzee,70,Psychic,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-061,061,Hypno,110,Psychic,Drowzee,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-062,062,Jynx,100,Psychic,,Basic,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-063,063,Misdreavus,60,Psychic,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-064,064,Mismagius,90,Psychic,Misdreavus,Stage1,Rare,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-065,065,Unown V,180,Psychic,,Basic,Holo Rare V,,holo,Silver Tempest,Sword & Shield,245
+swsh12-066,066,Unown VSTAR,250,Psychic,Unown V,VSTAR,Holo Rare VSTAR,,holo,Silver Tempest,Sword & Shield,245
+swsh12-067,067,Ralts,60,Psychic,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-068,068,Kirlia,80,Psychic,Ralts,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-069,069,Gardevoir,150,Psychic,Kirlia,Stage2,Rare,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-070,070,Mawile V,200,Psychic,,Basic,Holo Rare V,,holo,Silver Tempest,Sword & Shield,245
+swsh12-071,071,Mawile VSTAR,260,Psychic,Mawile V,VSTAR,Holo Rare VSTAR,,holo,Silver Tempest,Sword & Shield,245
+swsh12-072,072,Meditite,60,Psychic,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-073,073,Medicham,120,Psychic,Meditite,Stage1,Holo Rare,,"reverse, holo",Silver Tempest,Sword & Shield,245
+swsh12-074,074,Chimecho,70,Psychic,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-075,075,Sigilyph,100,Psychic,,Basic,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-076,076,Solosis,40,Psychic,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-077,077,Duosion,70,Psychic,Solosis,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-078,078,Reuniclus,120,Psychic,Duosion,Stage2,Holo Rare,,"reverse, holo",Silver Tempest,Sword & Shield,245
+swsh12-079,079,Elgyem,60,Psychic,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-080,080,Beheeyem,90,Psychic,Elgyem,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-081,081,Espurr,60,Psychic,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-082,082,Meowstic,90,Psychic,Espurr,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-083,083,Swirlix,60,Psychic,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-084,084,Slurpuff,120,Psychic,Swirlix,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-085,085,Dedenne,60,Psychic,,Basic,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-086,086,Indeedee,90,Psychic,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-087,087,Dreepy,60,Psychic,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-088,088,Drakloak,90,Psychic,Dreepy,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-089,089,Dragapult,150,Psychic,Drakloak,Stage2,Holo Rare,,"reverse, holo",Silver Tempest,Sword & Shield,245
+swsh12-090,090,Hisuian Arcanine V,230,Fighting,,Basic,Holo Rare V,,holo,Silver Tempest,Sword & Shield,245
+swsh12-091,091,Phanpy,80,Fighting,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-092,092,Donphan,150,Fighting,Phanpy,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-093,093,Baltoy,50,Fighting,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-094,094,Claydol,110,Fighting,Baltoy,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-095,095,Anorith,90,Fighting,Unidentified Fossil,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-096,096,Armaldo,150,Fighting,Anorith,Stage2,Rare,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-097,097,Terrakion,130,Fighting,,Basic,Holo Rare,,"reverse, holo",Silver Tempest,Sword & Shield,245
+swsh12-098,098,Hawlucha,80,Fighting,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-099,099,Sandygast,80,Fighting,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-100,100,Palossand,140,Fighting,Sandygast,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-101,101,Stonjourner,130,Fighting,,Basic,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-102,102,Ursaluna V,230,Fighting,,Basic,Holo Rare V,,holo,Silver Tempest,Sword & Shield,245
+swsh12-103,103,Zubat,40,Darkness,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-104,104,Golbat,70,Darkness,Zubat,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-105,105,Crobat,130,Darkness,Golbat,Stage2,Holo Rare,,"reverse, holo",Silver Tempest,Sword & Shield,245
+swsh12-106,106,Murkrow,60,Darkness,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-107,107,Honchkrow,120,Darkness,Murkrow,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-108,108,Skuntank V,210,Darkness,,Basic,Holo Rare V,,holo,Silver Tempest,Sword & Shield,245
+swsh12-109,109,Croagunk,80,Darkness,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-110,110,Toxicroak,120,Darkness,Croagunk,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-111,111,Sandile,70,Darkness,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-112,112,Krokorok,100,Darkness,Sandile,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-113,113,Krookodile,160,Darkness,Krokorok,Stage2,Holo Rare,,"reverse, holo",Silver Tempest,Sword & Shield,245
+swsh12-114,114,Mareanie,60,Darkness,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-115,115,Toxapex,120,Darkness,Mareanie,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-116,116,Morpeko,60,Darkness,,Basic,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-117,117,Beldum,60,Metal,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-118,118,Metang,100,Metal,Beldum,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-119,119,Metagross,170,Metal,Metang,Stage2,Holo Rare,,"reverse, holo",Silver Tempest,Sword & Shield,245
+swsh12-120,120,Radiant Jirachi,90,Metal,,Basic,Radiant Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-121,121,Ferroseed,60,Metal,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-122,122,Ferrothorn,130,Metal,Ferroseed,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-123,123,Klink,50,Metal,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-124,124,Klang,90,Metal,Klink,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-125,125,Klinklang,160,Metal,Klang,Stage2,Rare,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-126,126,Cobalion,120,Metal,,Basic,Rare,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-127,127,Togedemaru,80,Metal,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-128,128,Magearna V,210,Metal,,Basic,Holo Rare V,,holo,Silver Tempest,Sword & Shield,245
+swsh12-129,129,Dratini,70,Dragon,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-130,130,Dragonair,100,Dragon,Dratini,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-131,131,Dragonite,160,Dragon,Dragonair,Stage2,Holo Rare,,"reverse, holo",Silver Tempest,Sword & Shield,245
+swsh12-132,132,Noibat,60,Dragon,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-133,133,Noivern,110,Dragon,Noibat,Stage1,Rare,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-134,134,Zygarde,90,Dragon,,Basic,Rare,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-135,135,Regidrago V,220,Dragon,,Basic,Holo Rare V,,holo,Silver Tempest,Sword & Shield,245
+swsh12-136,136,Regidrago VSTAR,280,Dragon,Regidrago V,VSTAR,Holo Rare VSTAR,,holo,Silver Tempest,Sword & Shield,245
+swsh12-137,137,Smeargle,70,Colorless,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-138,138,Lugia V,220,Colorless,,Basic,Holo Rare V,,holo,Silver Tempest,Sword & Shield,245
+swsh12-139,139,Lugia VSTAR,280,Colorless,Lugia V,VSTAR,Holo Rare VSTAR,,holo,Silver Tempest,Sword & Shield,245
+swsh12-140,140,Ho-Oh V,230,Colorless,,Basic,Holo Rare V,,holo,Silver Tempest,Sword & Shield,245
+swsh12-141,141,Spinda,90,Colorless,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-142,142,Swablu,50,Colorless,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-143,143,Altaria,110,Colorless,Swablu,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-144,144,Buneary,60,Colorless,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-145,145,Lopunny,110,Colorless,Buneary,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-146,146,Archen,80,Colorless,Unidentified Fossil,Stage1,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-147,147,Archeops,150,Colorless,Archen,Stage2,Holo Rare,,"reverse, holo",Silver Tempest,Sword & Shield,245
+swsh12-148,148,Rufflet,70,Colorless,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-149,149,Hisuian Braviary,120,Colorless,Rufflet,Stage1,Rare,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-150,150,Fletchling,40,Colorless,,Basic,Common,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-151,151,Brandon,,,,,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-152,152,Candice,,,,,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-153,153,Capturing Aroma,,,,,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-154,154,Earthen Seal Stone,,,,,Holo Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-155,155,Emergency Jelly,,,,,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-156,156,Forest Seal Stone,,,,,Holo Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-157,157,Furisode Girl,,,,,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-158,158,Gym Trainer,,,,,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-159,159,Lance,,,,,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-160,160,Leafy Camo Poncho,,,,,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-161,161,Primordial Altar,,,,,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-162,162,Professor Laventon,,,,,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-163,163,Quad Stone,,,,,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-164,164,Serena,,,,,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-165,165,Unidentified Fossil,,,,,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-166,166,Wallace,,,,,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-167,167,Worker,,,,,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-168,168,Regenerative Energy,,,,,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-169,169,V Guard Energy,,,,,Uncommon,,"normal, reverse",Silver Tempest,Sword & Shield,245
+swsh12-170,170,Serperior V,210,Grass,,Basic,Ultra Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-171,171,Chesnaught V,230,Grass,,Basic,Ultra Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-172,172,Reshiram V,220,Fire,,Basic,Ultra Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-173,173,Alolan Vulpix V,190,Water,,Basic,Ultra Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-174,174,Omastar V,190,Water,,Basic,Ultra Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-175,175,Regieleki V,200,Lightning,,Basic,Ultra Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-176,176,Unown V,180,Psychic,,Basic,Ultra Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-177,177,Unown V,180,Psychic,,Basic,Ultra Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-178,178,Mawile V,200,Psychic,,Basic,Ultra Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-179,179,Hisuian Arcanine V,230,Fighting,,Basic,Ultra Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-180,180,Skuntank V,210,Darkness,,Basic,Ultra Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-181,181,Skuntank V,210,Darkness,,Basic,Ultra Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-182,182,Magearna V,210,Metal,,Basic,Ultra Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-183,183,Regidrago V,220,Dragon,,Basic,Ultra Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-184,184,Regidrago V,220,Dragon,,Basic,Ultra Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-185,185,Lugia V,220,Colorless,,Basic,Ultra Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-186,186,Lugia V,220,Colorless,,Basic,Ultra Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-187,187,Ho-Oh V,230,Colorless,,Basic,Ultra Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-188,188,Brandon,,,,,Ultra Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-189,189,Candice,,,,,Ultra Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-190,190,Furisode Girl,,,,,Ultra Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-191,191,Gym Trainer,,,,,Ultra Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-192,192,Lance,,,,,Ultra Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-193,193,Serena,,,,,Ultra Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-194,194,Wallace,,,,,Ultra Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-195,195,Worker,,,,,Ultra Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-196,196,Serperior VSTAR,270,Grass,Serperior V,VSTAR,Secret Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-197,197,Alolan Vulpix VSTAR,240,Water,Alolan Vulpix V,VSTAR,Secret Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-198,198,Regieleki VMAX,310,Lightning,Regieleki V,VMAX,Secret Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-199,199,Unown VSTAR,250,Psychic,Unown V,VSTAR,Secret Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-200,200,Mawile VSTAR,260,Psychic,Mawile V,VSTAR,Secret Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-201,201,Regidrago VSTAR,280,Dragon,Regidrago V,VSTAR,Secret Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-202,202,Lugia VSTAR,280,Colorless,Lugia V,VSTAR,Secret Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-203,203,Brandon,,,,,Secret Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-204,204,Candice,,,,,Secret Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-205,205,Furisode Girl,,,,,Secret Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-206,206,Lance,,,,,Secret Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-207,207,Serena,,,,,Secret Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-208,208,Wallace,,,,,Secret Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-209,209,Worker,,,,,Secret Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-210,210,Serperior VSTAR,270,Grass,Serperior V,VSTAR,Secret Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-211,211,Lugia VSTAR,280,Colorless,Lugia V,VSTAR,Secret Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-212,212,Energy Switch,,,,,Secret Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-213,213,Gapejaw Bog,,,,,Secret Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-214,214,Leafy Camo Poncho,,,,,Secret Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-215,215,V Guard Energy,,,,,Secret Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-TG01,TG01,Braixen,90,Fire,Fennekin,Stage1,Holo Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-TG02,TG02,Milotic,130,Water,Feebas,Stage1,Holo Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-TG03,TG03,Flaaffy,90,Lightning,Mareep,Stage1,Holo Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-TG04,TG04,Jynx,100,Psychic,,Basic,Holo Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-TG05,TG05,Gardevoir,150,Psychic,Kirlia,Stage2,Holo Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-TG06,TG06,Malamar,120,Psychic,Inkay,Stage1,Holo Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-TG07,TG07,Rockruff,70,Fighting,,Basic,Holo Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-TG08,TG08,Passimian,110,Fighting,,Basic,Holo Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-TG09,TG09,Druddigon,120,Dragon,,Basic,Holo Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-TG10,TG10,Smeargle,70,Colorless,,Basic,Holo Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-TG11,TG11,Altaria,110,Colorless,Swablu,Stage1,Holo Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-TG12,TG12,Kricketune V,180,Grass,,Basic,Holo Rare V,,holo,Silver Tempest,Sword & Shield,245
+swsh12-TG13,TG13,Serperior V,210,Grass,,Basic,Holo Rare V,,holo,Silver Tempest,Sword & Shield,245
+swsh12-TG14,TG14,Blaziken V,210,Fire,,Basic,Holo Rare V,,holo,Silver Tempest,Sword & Shield,245
+swsh12-TG15,TG15,Blaziken VMAX,320,Fire,Blaziken V,VMAX,Holo Rare VMAX,,holo,Silver Tempest,Sword & Shield,245
+swsh12-TG16,TG16,Zeraora V,210,Lightning,,Basic,Holo Rare V,,holo,Silver Tempest,Sword & Shield,245
+swsh12-TG17,TG17,Mawile V,200,Psychic,,Basic,Holo Rare V,,holo,Silver Tempest,Sword & Shield,245
+swsh12-TG18,TG18,Corviknight V,210,Metal,,Basic,Holo Rare V,,holo,Silver Tempest,Sword & Shield,245
+swsh12-TG19,TG19,Corviknight VMAX,320,Metal,Corviknight V,VMAX,Holo Rare VMAX,,holo,Silver Tempest,Sword & Shield,245
+swsh12-TG20,TG20,Rayquaza VMAX,320,Dragon,Rayquaza V,VMAX,Holo Rare VMAX,,holo,Silver Tempest,Sword & Shield,245
+swsh12-TG21,TG21,Duraludon VMAX,330,Dragon,Duraludon V,VMAX,Holo Rare VMAX,,holo,Silver Tempest,Sword & Shield,245
+swsh12-TG22,TG22,Blissey V,250,Colorless,,Basic,Holo Rare V,,holo,Silver Tempest,Sword & Shield,245
+swsh12-TG23,TG23,Friends in Galar,,,,,Full Art Trainer,,holo,Silver Tempest,Sword & Shield,245
+swsh12-TG24,TG24,Gordie,,,,,Full Art Trainer,,holo,Silver Tempest,Sword & Shield,245
+swsh12-TG25,TG25,Judge,,,,,Full Art Trainer,,holo,Silver Tempest,Sword & Shield,245
+swsh12-TG26,TG26,Professor Burnet,,,,,Full Art Trainer,,holo,Silver Tempest,Sword & Shield,245
+swsh12-TG27,TG27,Raihan,,,,,Full Art Trainer,,holo,Silver Tempest,Sword & Shield,245
+swsh12-TG28,TG28,Sordward & Shielbert,,,,,Full Art Trainer,,holo,Silver Tempest,Sword & Shield,245
+swsh12-TG29,TG29,Rayquaza VMAX,320,Dragon,Rayquaza V,VMAX,Secret Rare,,holo,Silver Tempest,Sword & Shield,245
+swsh12-TG30,TG30,Duraludon VMAX,330,Dragon,Duraludon V,VMAX,Secret Rare,,holo,Silver Tempest,Sword & Shield,245

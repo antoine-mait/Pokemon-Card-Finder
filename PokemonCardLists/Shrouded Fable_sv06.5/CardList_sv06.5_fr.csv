@@ -1,0 +1,100 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sv06.5-001,001,Statitik,40,Plante,,De base,Commune,Naoyo Kimura,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-002,002,Mygavolt,100,Plante,Statitik,Niveau 1,Peu Commune,mashu,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-003,003,Brindibou,70,Plante,,De base,Commune,Yoshimi Miyoshi,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-004,004,Efflèche,90,Plante,Brindibou,Niveau 1,Commune,Tetsu Kayama,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-005,005,Archéduc,150,Plante,Efflèche,Niveau 2,Peu Commune,DOM,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-006,006,Tokotoro,140,Plante,,De base,Rare,GOSSAN,"reverse, holo",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-007,007,Malosse,70,Feu,,De base,Commune,REND,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-008,008,Démolosse,120,Feu,Malosse,Niveau 1,Commune,burari,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-009,009,Mite-de-Fer,120,Feu,,De base,Peu Commune,Shinji Kanda,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-010,010,Hypotrempe,60,Eau,,De base,Commune,Shimaris Yukichi,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-011,011,Hypocéan,90,Eau,Hypotrempe,Niveau 1,Commune,Yuya Oka,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-012,012,Hyporoi-ex,310,Eau,Hypocéan,Niveau 2,Double rare,toriyufu,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-013,013,Farfuret,70,Eau,,De base,Commune,Krgc,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-014,014,Dimoret,100,Eau,Farfuret,Niveau 1,Peu Commune,aspara,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-015,015,Vrombotor-ex,280,Électrique,Vrombi,Niveau 1,Double rare,PLANETA Mochizuki,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-016,016,Soporifik,70,Psy,,De base,Commune,OKUBO,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-017,017,Hypnomade,110,Psy,Soporifik,Niveau 1,Peu Commune,Masako Tomii,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-018,018,Skelénox,60,Psy,,De base,Commune,IKEDA Saki,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-019,019,Téraclope,90,Psy,Skelénox,Niveau 1,Commune,Aya Kusube,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-020,020,Noctunoir,160,Psy,Téraclope,Niveau 2,Rare,danciao,"reverse, holo",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-021,021,Cresselia,120,Psy,,De base,Rare,matazo,"reverse, holo",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-022,022,Nymphali,120,Psy,Évoli,Niveau 1,Peu Commune,Kuroimori,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-023,023,Cradopaud,70,Combat,,De base,Commune,Aliya Chen,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-024,024,Coatox,130,Combat,Cradopaud,Niveau 1,Commune,Anesaki Dynamic,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-025,025,Ursaking Lune Vermeille,150,Combat,,De base,Rare,Souichirou Gunjima,"reverse, holo",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-026,026,Rampe-Ailes,140,Combat,,De base,Peu Commune,Shinji Kanda,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-027,027,Nosferapti,50,Obscurité,,De base,Commune,osare,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-028,028,Nosferalto,80,Obscurité,Nosferapti,Niveau 1,Commune,Teeziro,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-029,029,Nostenfer,130,Obscurité,Nosferalto,Niveau 2,Peu Commune,Nisota Niso,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-030,030,Absol,110,Obscurité,,De base,Commune,rika,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-031,031,Zorua,70,Obscurité,,De base,Commune,Yuu Nishida,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-032,032,Zoroark,120,Obscurité,Zorua,Niveau 1,Rare,nagimiso,"reverse, holo",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-033,033,Sepiatop,60,Obscurité,,De base,Commune,Mori Yuu,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-034,034,Sepiatroce,120,Obscurité,Sepiatop,Niveau 1,Peu Commune,akagi,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-035,035,Yveltal,120,Obscurité,,De base,Peu Commune,SIE NANAHARA,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-036,036,Félicanis-ex,250,Obscurité,,De base,Double rare,takuyoa,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-037,037,Fortusimia-ex,210,Obscurité,,De base,Double rare,takuyoa,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-038,038,Favianos-ex,210,Obscurité,,De base,Double rare,takuyoa,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-039,039,Pêchaminus-ex,190,Obscurité,,De base,Double rare,aky CG Works,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-040,040,Genesect,110,Métal,,De base,Peu Commune,Kazumasa Yasukuni,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-041,041,Charibari,100,Métal,,De base,Commune,Shinya Mizuno,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-042,042,Pachyradjah,200,Métal,Charibari,Niveau 1,Rare,kawayoo,"reverse, holo",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-043,043,Vrombi,70,Métal,,De base,Commune,HAGIYA Kaoru,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-044,044,Coupenotte,70,Dragon,,De base,Commune,Orca,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-045,045,Incisache,100,Dragon,Coupenotte,Niveau 1,Commune,Uninori,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-046,046,Tranchodon,170,Dragon,Incisache,Niveau 2,Rare,Tsuyoshi Nagano,"reverse, holo",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-047,047,Kyurem,130,Dragon,,De base,Peu Commune,Shiburingaru,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-048,048,Miaouss,70,Incolore,,De base,Commune,sui,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-049,049,Persian,110,Incolore,Miaouss,Niveau 1,Commune,NC Empire,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-050,050,Évoli,70,Incolore,,De base,Commune,Susumu Maeya,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-051,051,Couafarel,100,Incolore,,De base,Commune,Shinya Komatsu,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-052,052,Nounourson,80,Incolore,,De base,Commune,ryoma uratsuka,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-053,053,Chelours,130,Incolore,Nounourson,Niveau 1,Commune,Takeshi Nakamura,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-054,054,Académie de Nuit,,,,,Peu Commune,AYUMI ODASHIMA,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-055,055,Mochi de Servitude,,,,,Peu Commune,5ban Graphics,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-056,056,Cassiopée,,,,,Peu Commune,Atsushi Furusawa,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-057,057,Ténacité de Nikolaï,,,,,Peu Commune,hncl,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-058,058,Laser Dangereux,,,,,HIGH-TECG rare,inose yukie,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-059,059,Art Secret de Jeannine,,,,,Peu Commune,Taira Akitsu,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-060,060,Zone de Neutralisation,,,,,HIGH-TECG rare,imoniii,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-061,061,Civière Nocturne,,,,,Peu Commune,Toyste Beach,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-062,062,Poké Vital A,,,,,HIGH-TECG rare,Toyste Beach,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-063,063,Sablier du Pouvoir,,,,,Peu Commune,Studio Bora Inc.,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-064,064,Machinations de Xanthin,,,,,Peu Commune,GOSSAN,"normal, reverse",Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-065,065,Tokotoro,140,Plante,,De base,Illustration rare,IKEDA Saki,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-066,066,Démolosse,120,Feu,Malosse,Niveau 1,Illustration rare,Taiga Kasai,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-067,067,Hypotrempe,60,Eau,,De base,Illustration rare,Shinya Komatsu,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-068,068,Skelénox,60,Psy,,De base,Illustration rare,James Turner,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-069,069,Téraclope,90,Psy,Skelénox,Niveau 1,Illustration rare,James Turner,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-070,070,Noctunoir,160,Psy,Téraclope,Niveau 2,Illustration rare,James Turner,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-071,071,Cresselia,120,Psy,,De base,Illustration rare,satoma,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-072,072,Fortusimia,110,Psy,,De base,Illustration rare,Teeziro,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-073,073,Favianos,120,Psy,,De base,Illustration rare,KEIICHIRO ITO,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-074,074,Félicanis,130,Combat,,De base,Illustration rare,AKIRA EGAWA,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-075,075,Zorua,70,Obscurité,,De base,Illustration rare,REND,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-076,076,Charibari,100,Métal,,De base,Illustration rare,Mina Nakai,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-077,077,Incisache,100,Dragon,Coupenotte,Niveau 1,Illustration rare,MINAMINAMI Take,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-078,078,Persian,110,Incolore,Miaouss,Niveau 1,Illustration rare,Whisker,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-079,079,Chelours,130,Incolore,Nounourson,Niveau 1,Illustration rare,Takeshi Nakamura,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-080,080,Hyporoi-ex,310,Eau,Hypocéan,Niveau 2,Ultra Rare,PLANETA Igarashi,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-081,081,Vrombotor-ex,280,Électrique,Vrombi,Niveau 1,Ultra Rare,PLANETA Mochizuki,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-082,082,Félicanis-ex,250,Obscurité,,De base,Ultra Rare,5ban Graphics,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-083,083,Fortusimia-ex,210,Obscurité,,De base,Ultra Rare,5ban Graphics,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-084,084,Favianos-ex,210,Obscurité,,De base,Ultra Rare,5ban Graphics,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-085,085,Pêchaminus-ex,190,Obscurité,,De base,Ultra Rare,aky CG Works,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-086,086,Cassiopée,,,,,Ultra Rare,Atsushi Furusawa,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-087,087,Ténacité de Nikolaï,,,,,Ultra Rare,hncl,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-088,088,Art Secret de Jeannine,,,,,Ultra Rare,Taira Akitsu,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-089,089,Machinations de Xanthin,,,,,Ultra Rare,GOSSAN,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-090,090,Félicanis-ex,250,Obscurité,,De base,Illustration spéciale rare,kantaro,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-091,091,Fortusimia-ex,210,Obscurité,,De base,Illustration spéciale rare,kantaro,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-092,092,Favianos-ex,210,Obscurité,,De base,Illustration spéciale rare,kantaro,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-093,093,Pêchaminus-ex,190,Obscurité,,De base,Illustration spéciale rare,kantaro,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-094,094,Cassiopée,,,,,Illustration spéciale rare,burari,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-095,095,Pêchaminus-ex,190,Obscurité,,De base,Hyper rare,aky CG Works,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-096,096,Urne Terrestre,,,,,Hyper rare,AYUMI ODASHIMA,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-097,097,Sablier du Pouvoir,,,,,Hyper rare,Studio Bora Inc.,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-098,098,Énergie Darkness de base,,Obscurité,,,Hyper rare,,holo,Fable Nébuleuse,Écarlate et Violet,99
+sv06.5-099,099,Énergie Metal de base,,Métal,,,Hyper rare,,holo,Fable Nébuleuse,Écarlate et Violet,99

@@ -1,0 +1,104 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+hgss4-1,1,Aggron,140,Metal,Lairon,Stage2,Rare Holo,Kagemaru Himeno,holo,Triumphant,HeartGold & SoulSilver,103
+hgss4-2,2,Altaria,90,Colorless,Swablu,Stage1,Rare Holo,Ryo Ueda,"reverse, holo",Triumphant,HeartGold & SoulSilver,103
+hgss4-3,3,Celebi,70,Psychic,,Basic,Rare Holo,Shin Nagasawa,"reverse, holo",Triumphant,HeartGold & SoulSilver,103
+hgss4-4,4,Drapion,100,Darkness,Skorupi,Stage1,Rare Holo,Sumiyoshi Kizuki,"reverse, holo",Triumphant,HeartGold & SoulSilver,103
+hgss4-5,5,Mamoswine,140,Water,Piloswine,Stage2,Rare Holo,Kagemaru Himeno,"reverse, holo",Triumphant,HeartGold & SoulSilver,103
+hgss4-6,6,Nidoking,140,Fighting,Nidorino,Stage2,Rare Holo,match,"reverse, holo",Triumphant,HeartGold & SoulSilver,103
+hgss4-7,7,Porygon-Z,110,Colorless,Porygon2,Stage2,Rare Holo,Kouki Saitou,"reverse, holo",Triumphant,HeartGold & SoulSilver,103
+hgss4-8,8,Rapidash,90,Fire,Ponyta,Stage1,Rare Holo,Kyoko Umemoto,"reverse, holo",Triumphant,HeartGold & SoulSilver,103
+hgss4-9,9,Solrock,70,Fighting,,Basic,Rare Holo,Kouki Saitou,"reverse, holo",Triumphant,HeartGold & SoulSilver,103
+hgss4-10,10,Spiritomb,60,Psychic,,Basic,Rare Holo,Shizurow,,Triumphant,HeartGold & SoulSilver,103
+hgss4-11,11,Venomoth,80,Grass,Venonat,Stage1,Rare Holo,Hideaki Hakozaki,holo,Triumphant,HeartGold & SoulSilver,103
+hgss4-12,12,Victreebel,110,Grass,Weepinbell,Stage2,Rare Holo,Midori Harada,holo,Triumphant,HeartGold & SoulSilver,103
+hgss4-13,13,Ambipom,80,Colorless,Aipom,Stage1,Rare,Naoyo Kimura,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-14,14,Banette,80,Psychic,Shuppet,Stage1,Rare,Ryo Ueda,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-15,15,Bronzong,90,Metal,Bronzor,Stage1,Rare,Yuka Morii,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-16,16,Carnivine,80,Grass,,Basic,Rare,Ryo Ueda,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-17,17,Ditto,40,Colorless,,Basic,Rare,match,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-18,18,Dragonite,140,Colorless,Dragonair,Stage2,Rare,Mitsuhiro Arita,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-19,19,Dugtrio,80,Fighting,Diglett,Stage1,Rare,Shizurow,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-20,20,Electivire,100,Lightning,Electabuzz,Stage1,Rare,TOKIYA,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-21,21,Elekid,30,Lightning,,Basic,Rare,TOKIYA,reverse,Triumphant,HeartGold & SoulSilver,103
+hgss4-22,22,Golduck,90,Water,Psyduck,Stage1,Rare,Naoki Saito,normal,Triumphant,HeartGold & SoulSilver,103
+hgss4-23,23,Grumpig,90,Psychic,Spoink,Stage1,Rare,Yukiko Baba,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-24,24,Kricketune,80,Grass,Kricketot,Stage1,Rare,Tomokazu Komiya,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-25,25,Lunatone,60,Fighting,,Basic,Rare,Kouki Saitou,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-26,26,Machamp,130,Fighting,Machoke,Stage2,Rare,Shin Nagasawa,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-27,27,Magmortar,100,Fire,Magmar,Stage1,Rare,Masakazu Fukuda,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-28,28,Nidoqueen,130,Psychic,Nidorina,Stage2,Rare,sui,normal,Triumphant,HeartGold & SoulSilver,103
+hgss4-29,29,Pidgeot,120,Colorless,Pidgeotto,Stage2,Rare,Suwama Chiaki,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-30,30,Sharpedo,90,Darkness,Carvanha,Stage1,Rare,MAHOU,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-31,31,Wailord,180,Water,Wailmer,Stage1,Rare,Hajime Kusajima,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-32,32,Dragonair,80,Colorless,Dratini,Stage1,Uncommon,Mitsuhiro Arita,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-33,33,Electabuzz,70,Lightning,,Basic,Uncommon,TOKIYA,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-34,34,Electrode,80,Lightning,Voltorb,Stage1,Uncommon,Masakazu Fukuda,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-35,35,Haunter,70,Psychic,Gastly,Stage1,Uncommon,Takashi Yamaguchi,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-36,36,Kangaskhan,80,Colorless,,Basic,Uncommon,Mitsuhiro Arita,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-37,37,Lairon,80,Metal,Aron,Stage1,Uncommon,Kagemaru Himeno,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-38,38,Lickilicky,100,Colorless,Lickitung,Stage1,Uncommon,Atsuko Nishida,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-39,39,Luvdisc,60,Water,,Basic,Uncommon,sui,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-40,40,Machoke,90,Fighting,Machop,Stage1,Uncommon,Shin Nagasawa,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-41,41,Magby,30,Fire,,Basic,Uncommon,Masakazu Fukuda,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-42,42,Magmar,70,Fire,,Basic,Uncommon,Masakazu Fukuda,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-43,43,Magneton,80,Lightning,Magnemite,Stage1,Uncommon,Noriko Hotta,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-44,44,Marowak,90,Fighting,Cubone,Stage1,Uncommon,kawayoo,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-45,45,Nidorina,80,Psychic,Nidoran♀,Stage1,Uncommon,sui,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-46,46,Nidorino,80,Psychic,Nidoran♂,Stage1,Uncommon,match,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-47,47,Pidgeotto,80,Colorless,Pidgey,Stage1,Uncommon,Suwama Chiaki,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-48,48,Piloswine,100,Water,Swinub,Stage1,Uncommon,Kagemaru Himeno,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-49,49,Porygon2,80,Colorless,Porygon,Stage1,Uncommon,Kouki Saitou,normal,Triumphant,HeartGold & SoulSilver,103
+hgss4-50,50,Tentacruel,90,Water,Tentacool,Stage1,Uncommon,Sachiko Adachi,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-51,51,Unown,50,Psychic,,Basic,Uncommon,Hideaki Hakozaki,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-52,52,Wailmer,90,Water,,Basic,Uncommon,Hajime Kusajima,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-53,53,Weepinbell,80,Grass,Bellsprout,Stage1,Uncommon,Midori Harada,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-54,54,Yanmega,90,Grass,Yanma,Stage1,Uncommon,Naoyo Kimura,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-55,55,Aipom,60,Colorless,,Basic,Common,Naoyo Kimura,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-56,56,Aron,60,Metal,,Basic,Common,Kagemaru Himeno,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-57,57,Bellsprout,40,Grass,,Basic,Common,Midori Harada,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-58,58,Bronzor,60,Metal,,Basic,Common,Yuka Morii,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-59,59,Carvanha,50,Darkness,,Basic,Common,MAHOU,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-60,60,Cubone,40,Fighting,,Basic,Common,kawayoo,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-61,61,Diglett,40,Fighting,,Basic,Common,Shizurow,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-62,62,Dratini,50,Colorless,,Basic,Common,Mitsuhiro Arita,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-63,63,Gastly,50,Psychic,,Basic,Common,Takashi Yamaguchi,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-64,64,Illumise,70,Grass,,Basic,Common,Kent Kanetsuna,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-65,65,Kricketot,50,Grass,,Basic,Common,Tomokazu Komiya,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-66,66,Lickitung,90,Colorless,,Basic,Common,Atsuko Nishida,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-67,67,Machop,60,Fighting,,Basic,Common,Shin Nagasawa,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-68,68,Magnemite,50,Lightning,,Basic,Common,Noriko Hotta,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-69,69,Nidoran♀,50,Psychic,,Basic,Common,sui,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-70,70,Nidoran♂,50,Psychic,,Basic,Common,match,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-71,71,Pidgey,50,Colorless,,Basic,Common,Suwama Chiaki,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-72,72,Ponyta,60,Fire,,Basic,Common,Kyoko Umemoto,normal,Triumphant,HeartGold & SoulSilver,103
+hgss4-73,73,Porygon,50,Colorless,,Basic,Common,Kouki Saitou,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-74,74,Psyduck,60,Water,,Basic,Common,Naoki Saito,normal,Triumphant,HeartGold & SoulSilver,103
+hgss4-75,75,Shuppet,60,Psychic,,Basic,Common,Ryo Ueda,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-76,76,Skorupi,60,Psychic,,Basic,Common,Sumiyoshi Kizuki,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-77,77,Spoink,50,Psychic,,Basic,Common,Yukiko Baba,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-78,78,Swablu,40,Colorless,,Basic,Common,Ryo Ueda,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-79,79,Swinub,60,Water,,Basic,Common,Kagemaru Himeno,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-80,80,Tentacool,60,Water,,Basic,Common,Sachiko Adachi,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-81,81,Venonat,50,Grass,,Basic,Common,Hideaki Hakozaki,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-82,82,Volbeat,70,Grass,,Basic,Common,Kent Kanetsuna,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-83,83,Voltorb,40,Lightning,,Basic,Common,Masakazu Fukuda,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-84,84,Yanma,50,Grass,,Basic,Common,Naoyo Kimura,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-85,85,Black Belt,0,,,,Uncommon,Kanako Eo,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-86,86,Indigo Plateau,0,,,,Uncommon,Ryo Ueda,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-87,87,Junk Arm,0,,,,Uncommon,Ryo Ueda,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-88,88,Seeker,0,,,,Uncommon,Wataru Kawahara,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-89,89,Twins,0,,,,Uncommon,Kanako Eo,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-90,90,Rescue Energy,0,,,,Uncommon,Kent Kanetsuna,"normal, reverse",Triumphant,HeartGold & SoulSilver,103
+hgss4-91,91,Absol,80,Darkness,,Basic,Rare PRIME,Hideaki Hakozaki,holo,Triumphant,HeartGold & SoulSilver,103
+hgss4-92,92,Celebi,60,Grass,,Basic,Rare PRIME,Hideaki Hakozaki,holo,Triumphant,HeartGold & SoulSilver,103
+hgss4-93,93,Electrode,90,Lightning,Voltorb,Stage1,Rare PRIME,Hideaki Hakozaki,holo,Triumphant,HeartGold & SoulSilver,103
+hgss4-94,94,Gengar,130,Psychic,Haunter,Stage2,Rare PRIME,Takashi Yamaguchi,holo,Triumphant,HeartGold & SoulSilver,103
+hgss4-95,95,Machamp,150,Fighting,Machoke,Stage2,Rare PRIME,Shizurow,holo,Triumphant,HeartGold & SoulSilver,103
+hgss4-96,96,Magnezone,140,Lightning,Magneton,Stage2,Rare PRIME,Noriko Hotta,holo,Triumphant,HeartGold & SoulSilver,103
+hgss4-97,97,Mew,60,Psychic,,Basic,Rare PRIME,Hideaki Hakozaki,holo,Triumphant,HeartGold & SoulSilver,103
+hgss4-98,98,Yanmega,110,Grass,Yanma,Stage1,Rare PRIME,Noriko Hotta,holo,Triumphant,HeartGold & SoulSilver,103
+hgss4-99,99,Darkrai & Cresselia LEGEND,150,"Darkness, Psychic",,Basic,Ultra Rare,Shinji Higuchi + Noriko Takaya/樋口真嗣+高屋法子,holo,Triumphant,HeartGold & SoulSilver,103
+hgss4-100,100,Darkrai & Cresselia LEGEND,150,"Darkness, Psychic",,Basic,LEGEND,Shinji Higuchi + Noriko Takaya/樋口真嗣+高屋法子,holo,Triumphant,HeartGold & SoulSilver,103
+hgss4-101,101,Palkia & Dialga LEGEND,160,"Water, Metal",,Basic,LEGEND,Shinji Higuchi + Sachiko Eba/樋口真嗣+江場左知子,holo,Triumphant,HeartGold & SoulSilver,103
+hgss4-102,102,Palkia & Dialga LEGEND,160,"Water, Metal",,Basic,LEGEND,Shinji Higuchi + Sachiko Eba/樋口真嗣+江場左知子,holo,Triumphant,HeartGold & SoulSilver,103
+hgss4-FOUR,FOUR,Alph Lithograph,0,,,,Rare,Milky Isobe,holo,Triumphant,HeartGold & SoulSilver,103

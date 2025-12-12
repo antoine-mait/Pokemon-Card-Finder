@@ -1,0 +1,70 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sm115-1,1,Caterpie,60,Grass,,Basic,Common,tetsuya koizumi,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-2,2,Metapod,90,Grass,Caterpie,Stage1,Uncommon,Shibuzoh.,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-3,3,Butterfree,130,Grass,Metapod,Stage2,Rare,Masakazu Fukuda,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-4,4,Paras,70,Grass,,Basic,Common,OOYAMA,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-5,5,Scyther,100,Grass,,Basic,Uncommon,Hasuno,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-6,6,Pinsir GX,180,Grass,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-7,7,Charmander,70,Fire,,Basic,Common,Megumi Mizutani,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-8,8,Charmeleon,100,Fire,Charmander,Stage1,Uncommon,Shin Nagasawa,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-9,9,Charizard GX,250,Fire,Charmeleon,,Ultra Rare,aky CG Works,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-10,10,Magmar,90,Fire,,Basic,Uncommon,Satoshi Shirai,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-11,11,Psyduck,60,Water,,Basic,Common,nagimiso,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-12,12,Slowpoke,70,Water,,Basic,Common,Misa Tsutsui,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-13,13,Staryu,50,Water,,Basic,Common,Ken Sugimori,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-14,14,Starmie GX,190,Water,Staryu,,Ultra Rare,PLANETA Otani,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-15,15,Magikarp,30,Water,,Basic,Common,Shigenori Negishi,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-16,16,Gyarados GX,230,Water,Magikarp,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-17,17,Lapras,120,Water,,Basic,Rare,kodama,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-18,18,Vaporeon,120,Water,Eevee,Stage1,Rare,Masakazu Fukuda,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-19,19,Pikachu,70,Lightning,,Basic,Common,Kagemaru Himeno,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-20,20,Raichu GX,210,Lightning,Pikachu,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-21,21,Voltorb,50,Lightning,,Basic,Common,SATOSHI NAKAI,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-22,22,Electrode,100,Lightning,Voltorb,Stage1,Rare,Anesaki Dynamic,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-23,23,Jolteon,90,Lightning,Eevee,Stage1,Rare,Kouki Saitou,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-24,24,Zapdos,120,Lightning,,Basic,Rare,Shin Nagasawa,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-25,25,Ekans,60,Psychic,,Basic,Common,MAHOU,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-26,26,Ekans,60,Psychic,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-27,27,Arbok,120,Psychic,Ekans,Stage1,Rare,kirisAki,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-28,28,Koffing,60,Psychic,,Basic,Common,Saya Tsuruta,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-29,29,Weezing,120,Psychic,Koffing,Stage1,Rare,Hideki Ishikawa,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-30,30,Jynx,100,Psychic,,Basic,Uncommon,Kouki Saitou,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-31,31,Mewtwo GX,180,Psychic,,,Ultra Rare,aky CG Works,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-32,32,Mew,80,Psychic,,Basic,Rare,Atsuko Nishida,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-33,33,Geodude,70,Fighting,,Basic,Common,Ken Sugimori,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-34,34,Graveler,100,Fighting,Geodude,Stage1,Uncommon,Ken Sugimori,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-35,35,Golem,170,Fighting,Graveler,Stage2,Rare,Ken Sugimori,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-36,36,Onix GX,200,Fighting,,,Ultra Rare,PLANETA Igarashi,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-37,37,Cubone,60,Fighting,,Basic,Common,Hasuno,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-38,38,Clefairy,60,Fairy,,Basic,Common,Saya Tsuruta,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-39,39,Clefairy,60,Fairy,,Basic,Common,kirisAki,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-40,40,Clefable,120,Fairy,Clefairy,Stage1,Rare,sui,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-41,41,Jigglypuff,70,Fairy,,Basic,Common,Mizue,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-42,42,Wigglytuff GX,210,Fairy,Jigglypuff,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-43,43,Mr. Mime,90,Fairy,,Basic,Rare,Hideki Ishikawa,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-44,44,Moltres & Zapdos & Articuno GX,300,Colorless,,,Ultra Rare,Mitsuhiro Arita,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-45,45,Farfetch’d,80,Colorless,,Basic,Uncommon,Eri Yamaki,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-46,46,Chansey,130,Colorless,,Basic,Uncommon,sowsow,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-47,47,Kangaskhan,120,Colorless,,Basic,Rare,You Iribi,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-48,48,Eevee,60,Colorless,,Basic,Rare,Kagemaru Himeno,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-49,49,Eevee,60,Colorless,,Basic,Common,Hitoshi Ariga,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-50,50,Snorlax,150,Colorless,,Basic,Rare,Akira Komayama,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-51,51,Bill’s Analysis,,,,,Rare,Naoki Saito,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-52,52,Blaine’s Last Stand,,,,,Rare,Ken Sugimori,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-53,53,Brock’s Grit,,,,,Uncommon,Megumi Mizutani,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-54,54,Brock’s Pewter City Gym,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-55,55,Brock’s Training,,,,,Rare,TOKIYA,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-56,56,Erika’s Hospitality,,,,,Rare,Sanosuke Sakuma,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-57,57,Giovanni’s Exile,,,,,Uncommon,Megumi Mizutani,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-58,58,Jessie & James,,,,,Rare,Megumi Mizutani,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-59,59,Koga’s Trap,,,,,Uncommon,Megumi Mizutani,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-60,60,Lt. Surge’s Strategy,,,,,Uncommon,Megumi Mizutani,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-61,61,Misty’s Cerulean City Gym,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-62,62,Misty’s Determination,,,,,Uncommon,Megumi Mizutani,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-63,63,Misty’s Water Command,,,,,Rare,TOKIYA,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-64,64,Pokémon Center Lady,,,,,Uncommon,TOKIYA,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-65,65,Sabrina’s Suggestion,,,,,Uncommon,Hitoshi Ariga,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-66,66,Moltres & Zapdos & Articuno GX,300,Colorless,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-67,67,Giovanni’s Exile,,,,,Ultra Rare,TOKIYA,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-68,68,Jessie & James,,,,,Ultra Rare,Megumi Mizutani,"normal, reverse, holo",Hidden Fates,Sun & Moon,69
+sm115-69,69,Moltres & Zapdos & Articuno GX,300,Colorless,,,Secret Rare,5ban Graphics,"normal, reverse, holo",Hidden Fates,Sun & Moon,69

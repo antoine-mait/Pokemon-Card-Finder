@@ -1,0 +1,220 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+svp-001,001,Sprigatito,70,Grass,,Basic,None,Yuu Nishida,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-002,002,Fuecoco,80,Fire,,Basic,None,Ryuta Fuse,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-003,003,Quaxly,70,Water,,Basic,None,Narumi Sato,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-004,004,Mimikyu ex,190,Psychic,,Basic,None,PLANETA Yamashita,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-005,005,Quaquaval,170,Water,Quaxwell,Stage2,None,kodama,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-006,006,Pawmot,130,Lightning,Pawmo,Stage2,None,GIDORA,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-007,007,Hawlucha,70,Fighting,,Basic,None,Yuya Oka,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-008,008,Revavroom,140,Metal,Varoom,Stage1,None,DOM,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-009,009,Spidops,120,Grass,Tarountula,Stage1,None,Anesaki Dynamic,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-010,010,Espathra,110,Psychic,Flittle,Stage1,None,Sanosuke Sakuma,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-011,011,Arcanine,130,Fire,Growlithe,Stage1,None,Ryuta Fuse,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-012,012,Dondozo,150,Water,,Basic,None,Shin Nagasawa,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-013,013,Miraidon,120,Lightning,,Basic,None,Akira Komayama,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-014,014,Koraidon,130,Fighting,,Basic,None,Mina Nakai,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-015,015,Flaaffy,90,Lightning,Mareep,Stage1,None,0313,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-016,016,Ampharos ex,330,Lightning,Flaaffy,Stage2,None,PLANETA Tsuji,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-017,017,Lucario ex,260,Fighting,Riolu,Stage1,None,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-018,018,Cyclizar ex,210,Colorless,,Basic,None,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-019,019,Baxcalibur,160,Water,Arctibax,Stage2,None,Oswaldo KATO,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-020,020,Tinkaton,140,Psychic,Tinkatuff,Stage2,None,Anesaki Dynamic,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-021,021,Murkrow,60,Darkness,,Basic,None,Shiburingaru,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-022,022,Pelipper,120,Colorless,Wingull,Stage1,None,Nisota Niso,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-023,023,Smoliv,60,Grass,,Basic,None,Misa Tsutsui,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-024,024,Growlithe,90,Fire,,Basic,None,Uta,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-025,025,Tinkatink,70,Psychic,,Basic,None,Kouki Saitou,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-026,026,Varoom,60,Metal,,Basic,None,Mina Nakai,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-027,027,Pikachu,60,Lightning,,Basic,None,Atsushi Furusawa,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-028,028,Miraidon ex,220,Lightning,,Basic,None,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-029,029,Koraidon ex,230,Fighting,,Basic,None,aky CG Works,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-030,030,Chien-Pao ex,220,Water,,Basic,None,aky CG Works,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-031,031,Tinkaton ex,300,Psychic,Tinkatuff,Stage2,None,takuyoa,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-032,032,Annihilape ex,320,Fighting,Primeape,Stage2,None,PLANETA Hiiragi,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-033,033,Meowscarada ex,310,Grass,Floragato,Stage2,None,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-034,034,Skeledirge ex,340,Fire,Crocalor,Stage2,None,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-035,035,Quaquaval ex,320,Water,Quaxwell,Stage2,None,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-036,036,Palafin,150,Water,Finizen,Stage1,None,nagimiso,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-037,037,Cleffa,30,Psychic,,Basic,None,Mina Nakai,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-038,038,Togekiss,150,Psychic,Togetic,Stage2,None,OKACHEKE,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-039,039,Mawile,90,Metal,,Basic,None,Souichirou Gunjima,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-040,040,Pawmi,50,Lightning,,Basic,None,Ryuta Fuse,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-041,041,Paldean Wooper,60,Darkness,,Basic,None,kirisAki,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-042,042,Houndstone,130,Psychic,Greavard,Stage1,None,Pani Kobayashi,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-043,043,Eevee,60,Colorless,,Basic,None,saino misaki,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-044,044,Charmander,60,Fire,,Basic,None,MINAMINAMI Take,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-045,045,Paradise Resort,,,,,None,Naoki Saito,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-046,046,Bulbasaur,70,Grass,,Basic,None,OKACHEKE,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-047,047,Charmander,70,Fire,,Basic,None,NC Empire,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-048,048,Squirtle,70,Water,,Basic,None,Gemi,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-049,049,Zapdos ex,200,Lightning,,Basic,None,takuyoa,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-050,050,Alakazam ex,310,Psychic,Kadabra,Stage2,None,Mitsuhiro Arita,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-051,051,Snorlax,150,Colorless,,Basic,None,GOSSAN,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-052,052,Mewtwo,130,Psychic,,Basic,None,Bun Toujo,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-053,053,Mew ex,180,Psychic,,Basic,None,Natsumi Yoshida,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-054,054,Greninja ex,300,Water,Frogadier,Stage2,None,takuyoa,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-055,055,Kangaskhan ex,230,Colorless,,Basic,None,N-DESIGN Inc.,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-056,056,Charizard ex,330,Darkness,Charmeleon,Stage2,None,takuyoa,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-057,057,Chi-Yu,110,Fire,,Basic,None,Dsuke,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-058,058,Iron Bundle,100,Water,,Basic,None,Lee HyunJung,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-059,059,Xatu,100,Psychic,Natu,Stage1,None,GOSSAN,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-060,060,Aegislash,150,Metal,Doublade,Stage2,None,Takeshi Nakamura,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-061,061,Pineco,70,Grass,,Basic,None,Nobuhiro Imagawa,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-062,062,Sinistea,30,Psychic,,Basic,None,kurumitsu,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-063,063,Cetitan,170,Water,Cetoddle,Stage1,None,GOSSAN,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-064,064,Arctibax,90,Water,Frigibax,Stage1,None,Teeziro,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-065,065,Scream Tail,90,Psychic,,Basic,None,GIDORA,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-066,066,Iron Bundle,100,Water,,Basic,None,Teeziro,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-067,067,Roaring Moon ex,230,Darkness,,Basic,None,takuyoa,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-068,068,Iron Valiant ex,220,Psychic,,Basic,None,aky CG Works,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-069,069,Fidough,50,Psychic,,Basic,None,sowsow,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-070,070,Greavard,70,Psychic,,Basic,None,Nisota Niso,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-071,071,Maschiff,60,Darkness,,Basic,None,Kagemaru Himeno,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-072,072,Great Tusk ex,250,Fighting,,Basic,None,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-073,073,Iron Treads ex,220,Metal,,Basic,None,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-074,074,Charizard ex,330,Darkness,Charmeleon,Stage2,None,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-075,075,Mimikyu,70,Psychic,,Basic,None,Mitsuhiro Arita,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-076,076,Sprigatito,60,Grass,,Basic,None,kurumitsu,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-077,077,Floragato,90,Grass,Sprigatito,Stage1,None,GIDORA,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-078,078,Meowscarada ex,310,Grass,Floragato,Stage2,None,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-079,079,Fuecoco,80,Fire,,Basic,None,OKACHEKE,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-080,080,Crocalor,110,Fire,Fuecoco,Stage1,None,Hideki Ishikawa,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-081,081,Skeledirge ex,340,Fire,Crocalor,Stage2,None,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-082,082,Quaxly,70,Water,,Basic,None,GIDORA,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-083,083,Quaxwell,90,Water,Quaxly,Stage1,None,Atsushi Furusawa,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-084,084,Quaquaval ex,320,Water,Quaxwell,Stage2,None,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-085,085,Pikachu with Grey Felt Hat,60,Lightning,,Basic,None,,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-086,086,Mabosstiff ex,260,Darkness,Maschiff,Stage1,None,PLANETA Mochizuki,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-087,087,Sprigatito ex,200,Grass,,Basic,None,takuyoa,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-088,088,Pikachu,70,Lightning,,Basic,None,saino misaki,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-089,089,Feraligatr,180,Water,Croconaw,Stage2,None,Kurata So,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-090,090,Metang,100,Metal,Beldum,Stage1,None,Uta,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-091,091,Koraidon,140,Dragon,,Basic,None,Anesaki Dynamic,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-092,092,Miraidon,110,Dragon,,Basic,None,akagi,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-093,093,Carvanha,50,Water,,Basic,None,Tonji Matsuno,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-094,094,Bellibolt,130,Lightning,Tadbulb,Stage1,None,Mizue,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-095,095,Cleffa,30,Psychic,,Basic,None,Tika Matsuno,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-096,096,Cyclizar,120,Colorless,,Basic,None,Hasuno,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-097,097,Flutter Mane,90,Psychic,,Basic,None,Takumi Wada,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-098,098,Iron Thorns,140,Lightning,,Basic,None,Tonji Matsuno,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-099,099,Shroodle,50,Colorless,,Basic,None,Hitoshi Ariga,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-100,100,Grafaiai ex,250,Colorless,Shroodle,Stage1,None,aky CG Works,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-101,101,Pikachu,70,Lightning,,Basic,None,Jiro Sasumo,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-102,102,Oddish,60,Grass,,Basic,None,,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-103,103,Houndoom ex,270,Darkness,Houndour,Stage1,None,PLANETA Tsuji,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-104,104,Melmetal ex,300,Metal,Meltan,Stage1,None,PLANETA Igarashi,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-105,105,Armarouge ex,260,Fire,Charcadet,Stage1,None,PLANETA Tsuji,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-106,106,Pikachu ex,200,Lightning,,Basic,None,takuyoa,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-107,107,Mareep,60,Lightning,,Basic,None,Orca,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-108,108,Flaaffy,90,Lightning,Mareep,Stage1,None,Akira Komayama,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-109,109,Ampharos,160,Lightning,Flaaffy,Stage2,None,GIDORA,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-110,110,Darkrai ex,210,Darkness,,Basic,None,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-111,111,Pawniard,70,Darkness,,Basic,None,matazo,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-112,112,Bisharp,100,Darkness,Pawniard,Stage1,None,AKIRA EGAWA,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-113,113,Kingambit,170,Darkness,Bisharp,Stage2,None,nagimiso,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-114,114,Picnicker,,,,,None,Susumu Maeya,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-115,115,Thwackey,100,Grass,Grookey,Stage1,None,Uninori,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-116,116,Infernape,140,Fire,Monferno,Stage2,None,Kazumasa Yasukuni,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-117,117,Froslass,90,Water,Snorunt,Stage1,None,mingo,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-118,118,Tatsugiri,70,Dragon,,Basic,None,Shimaris Yukichi,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-119,119,Toxel,70,Lightning,,Basic,None,Natsumi Yoshida,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-120,120,Pupitar,80,Fighting,Larvitar,Stage1,None,Shiburingaru,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-121,121,Revavroom,140,Metal,Varoom,Stage1,None,Nisota Niso,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-122,122,Snorlax,160,Colorless,,Basic,None,Po-Suzuki,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-123,123,Teal Mask Ogerpon,110,Grass,,Basic,None,kodama,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-124,124,Iono,,,,,None,yuu,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-125,125,Armarouge ex,260,Fire,Charcadet,Stage1,None,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-126,126,Palafin ex,340,Water,Finizen,Stage1,None,PLANETA Mochizuki,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-127,127,Walking Wake ex,220,Water,,Basic,None,takuyoa,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-128,128,Iron Leaves ex,220,Grass,,Basic,None,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-129,129,Pecharunt,80,Darkness,,Basic,None,nagimiso,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-130,130,Kingambit,180,Metal,Bisharp,Stage2,None,Oku,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-131,131,Kingdra ex,310,Water,Seadra,Stage2,None,akagi,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-132,132,Greninja ex,300,Water,Frogadier,Stage2,None,SIE NANAHARA,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-133,133,Ledian,90,Grass,Ledyba,Stage1,None,Natsumi Yoshida,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-134,134,Crabominable,160,Water,Crabrawler,Stage1,None,KEIICHIRO ITO,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-135,135,Drifblim,130,Psychic,Drifloon,Stage1,None,Keisin,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-136,136,Bouffalant,100,Colorless,,Basic,None,Tonji Matsuno,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-137,137,Horsea,60,Water,,Basic,None,MAHOU,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-138,138,Porygon2,90,Colorless,Porygon,Stage1,None,GOSSAN,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-139,139,Latias,110,Psychic,,Basic,None,hncl,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-140,140,Tinkaton,140,Psychic,Tinkatuff,Stage2,None,DOM,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-141,141,Noctowl,100,Colorless,Hoothoot,Stage1,None,Tetsu Kayama,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-142,142,Victini ex,190,Fire,,Basic,None,Saki Hayashiro,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-143,143,Miraidon ex,220,Lightning,,Basic,None,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-144,144,Gouging Fire ex,230,Fire,,Basic,None,PLANETA Mochizuki,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-145,145,Raging Bolt ex,240,Dragon,,Basic,None,PLANETA Mochizuki,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-146,146,Iron Crown ex,220,Psychic,,Basic,None,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-147,147,Iron Boulder ex,240,Fighting,,Basic,None,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-148,148,Miraidon,120,Lightning,,Basic,None,hncl,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-149,149,Pecharunt,80,Darkness,,Basic,None,Souichirou Gunjima,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-150,150,Paradise Resort,,,,,None,Naoki Saito,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-151,151,Gouging Fire,130,Fire,,Basic,None,Hasuno,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-152,152,Chien-Pao,120,Water,,Basic,None,toi8,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-153,153,Magneton,100,Lightning,Magnemite,Stage1,None,Shinya Mizuno,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-154,154,Indeedee,100,Psychic,,Basic,None,buchi,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-155,155,Wooper,60,Water,,Basic,None,Saboteri,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-156,156,Quagsire,120,Water,Wooper,Stage1,None,Saboteri,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-157,157,Zapdos,110,Lightning,,Basic,None,Nisota Niso,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-158,158,Pachirisu,70,Lightning,,Basic,None,Yuya Oka,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-159,159,Magneton,100,Lightning,Magnemite,Stage1,None,Shinji Kanda,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-160,160,Squawkabilly ex,160,Colorless,,Basic,None,N-DESIGN Inc.,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-161,161,Charizard ex,330,Fire,Charmeleon,Stage2,None,PLANETA Mochizuki,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-162,162,Houndstone ex,260,Psychic,Greavard,Stage1,None,takuyoa,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-163,163,Cinderace ex,320,Fire,Raboot,Stage2,None,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-164,164,Lapras ex,220,Water,,Basic,None,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-165,165,Terapagos ex,230,Colorless,,Basic,None,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-166,166,Teal Mask Ogerpon ex,210,Grass,,Basic,None,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-167,167,Flareon,130,Fire,Eevee,Stage1,None,SIE NANAHARA,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-168,168,Vaporeon,130,Water,Eevee,Stage1,None,Taira Akitsu,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-169,169,Jolteon,110,Lightning,Eevee,Stage1,None,Nisota Niso,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-170,170,Leafeon,120,Grass,Eevee,Stage1,None,Iori Suzuki,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-171,171,Glaceon,120,Water,Eevee,Stage1,None,Keisin,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-172,172,Sylveon,120,Psychic,Eevee,Stage1,None,Susumu Maeya,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-173,173,Eevee,50,Colorless,,Basic,None,Makura Tami,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-174,174,Eevee ex,200,Colorless,,Basic,None,,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-177,177,Bloodmoon Ursaluna ex,260,Colorless,,Basic,None,aky CG Works,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-178,178,Kyogre ex,230,Water,,Basic,None,takuyoa,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-179,179,Xerneas ex,210,Psychic,,Basic,None,PLANETA Igarashi,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-180,180,Dialga ex,220,Metal,,Basic,None,PLANETA Tsuji,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-181,181,N's Darmanitan,140,Fire,N's Darumaka,Stage1,None,Takeshi Nakamura,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-182,182,Iono's Kilowattrel,120,Lightning,Iono's Wattrel,Stage1,None,DOM,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-183,183,Lillie's Ribombee,70,Psychic,Lillie's Cutiefly,Stage1,None,tono,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-184,184,Hop's Snorlax,150,Colorless,,Basic,None,OKACHEKE,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-185,185,Yanma,60,Grass,,Basic,None,Dsuke,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-186,186,Scraggy,60,Darkness,,Basic,None,OKUBO,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-187,187,Yanmega,130,Grass,Yanma,Stage1,None,Dsuke,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-188,188,Scrafty,120,Darkness,Scraggy,Stage1,None,OKUBO,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-189,189,N's Zorua,70,Darkness,,Basic,None,Megumi Mizutani,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-190,190,Pikachu,50,Lightning,,Basic,None,,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-191,191,Sprigatito,70,Grass,,Basic,None,Yamazaki Rei,holo,SVP Black Star Promos,Scarlet & Violet,219
+svp-192,192,Fuecoco,80,Fire,,Basic,None,Ito Kyoko,holo,SVP Black Star Promos,Scarlet & Violet,219
+svp-193,193,Hop's Zacian ex,230,Metal,,Basic,None,PLANETA Mochizuki,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-194,194,Iono's Bellibolt ex,280,Lightning,Iono's Tadbulb,Stage1,None,,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-195,195,Lillie's Clefairy ex,190,Psychic,,Basic,None,,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-196,196,Charizard EX,330,Darkness,Charmeleon,Stage2,None,5ban Graphics,holo,SVP Black Star Promos,Scarlet & Violet,219
+svp-197,197,Koraidon ex,230,Fighting,,Basic,None,,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-198,198,Zacian ex,220,Metal,,Basic,None,,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-199,199,Zarude,120,Grass,,Basic,None,Uninori,holo,SVP Black Star Promos,Scarlet & Violet,219
+svp-200,200,Eevee,60,Colorless,,Basic,None,Kariya,holo,SVP Black Star Promos,Scarlet & Violet,219
+svp-201,201,Zebstrika,120,Lightning,Blitzle,Stage1,None,Krgc,holo,SVP Black Star Promos,Scarlet & Violet,219
+svp-202,202,Kangaskhan,130,Colorless,,Basic,None,Uta,holo,SVP Black Star Promos,Scarlet & Violet,219
+svp-203,203,Team Rocket's Wobbuffet,110,Psychic,,Basic,None,Saboteri,holo,SVP Black Star Promos,Scarlet & Violet,219
+svp-204,204,Cynthia's Garchomp ex,330,Fighting,Cynthia's Gabite,Stage2,None,PLANETA Igarashi,holo,SVP Black Star Promos,Scarlet & Violet,219
+svp-205,205,Team Rocket's Mewtwo ex,280,Psychic,,Basic,None,aky CG Works,holo,SVP Black Star Promos,Scarlet & Violet,219
+svp-206,206,Marnie's Morpeko,70,Darkness,,Basic,None,,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-207,207,Steven's Beldum,70,Metal,,Basic,None,,"normal, reverse, holo",SVP Black Star Promos,Scarlet & Violet,219
+svp-208,208,Victini,80,Fire,,Basic,None,Amelicart,holo,SVP Black Star Promos,Scarlet & Violet,219
+svp-209,209,Thundurus,120,Lightning,,Basic,None,Anesaki Dynamic,holo,SVP Black Star Promos,Scarlet & Violet,219
+svp-210,210,Tornadus,120,Colorless,,Basic,None,Kouki Saitou,holo,SVP Black Star Promos,Scarlet & Violet,219
+svp-211,211,Gothitelle,150,Colorless,Gothorita,Stage2,None,IKEDA Saki,holo,SVP Black Star Promos,Scarlet & Violet,219
+svp-212,212,Reuniclus,140,Psychic,Duosion,Stage2,None,satoma,holo,SVP Black Star Promos,Scarlet & Violet,219
+svp-213,213,Feraligatr,180,Water,Croconaw,Stage2,None,Acorviart,normal,SVP Black Star Promos,Scarlet & Violet,219
+svp-214,214,Pikachu,60,Lightning,,Basic,None,Kazuki Minami,normal,SVP Black Star Promos,Scarlet & Violet,219
+svp-215,215,Toxtricity ex,260,Lightning,Toxel,Stage1,None,Anderson,normal,SVP Black Star Promos,Scarlet & Violet,219
+svp-216,216,Team Rocket's Mewtwo ex,280,Psychic,,Basic,None,aky CG Works,holo,SVP Black Star Promos,Scarlet & Violet,219
+svp-217,217,Team Rocket's Nidoking ex,330,Darkness,Team Rocket's Nidorino,Stage2,None,5ban Graphics,holo,SVP Black Star Promos,Scarlet & Violet,219
+svp-218,218,Team Rocket's Persian ex,260,Colorless,Team Rocket's Meowth,Stage1,None,5ban Graphics,holo,SVP Black Star Promos,Scarlet & Violet,219
+svp-224,224,Paradise Resort,,,,,None,Naoki Saito,normal,SVP Black Star Promos,Scarlet & Violet,219
+svp-225,225,Pikachu,70,Lightning,,Basic,None,DOM,"normal, reverse",SVP Black Star Promos,Scarlet & Violet,219
+svp-500,500,Terapagos & Friends,90,Colorless,,Basic,None,Yamazaki Rei,normal,SVP Black Star Promos,Scarlet & Violet,219

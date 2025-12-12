@@ -1,0 +1,147 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+dp6-1,1,Deoxys Normalform,90,Psycho,,Basis,"Selten, Holografisch",Kent Kanetsuna,"reverse, holo",Erwachte Legenden,Diamant & Perl,146
+dp6-2,2,Dragoran,140,Farblos,,Rang 2,"Selten, Holografisch",Mitsuhiro Arita,"reverse, holo",Erwachte Legenden,Diamant & Perl,146
+dp6-3,3,Frosdedje,90,Wasser,,Rang 1,"Selten, Holografisch",Kagemaru Himeno,"reverse, holo",Erwachte Legenden,Diamant & Perl,146
+dp6-4,4,Giratina,100,Psycho,,Basis,"Selten, Holografisch",Kazuaki Aihara,"reverse, holo",Erwachte Legenden,Diamant & Perl,146
+dp6-5,5,Skorgro,80,Kampf,,Rang 1,"Selten, Holografisch",Kent Kanetsuna,"normal, reverse, holo",Erwachte Legenden,Diamant & Perl,146
+dp6-6,6,Heatran,100,Feuer,,Basis,"Selten, Holografisch",Kent Kanetsuna,"reverse, holo",Erwachte Legenden,Diamant & Perl,146
+dp6-7,7,Seedraking,130,Wasser,,Rang 2,"Selten, Holografisch",Mitsuhiro Arita,"reverse, holo",Erwachte Legenden,Diamant & Perl,146
+dp6-8,8,Luxtra,120,Elektro,,Rang 2,"Selten, Holografisch",Mitsuhiro Arita,"reverse, holo",Erwachte Legenden,Diamant & Perl,146
+dp6-9,9,Mamutel,140,Wasser,,Rang 2,"Selten, Holografisch",Kouki Saitou,"normal, reverse, holo",Erwachte Legenden,Diamant & Perl,146
+dp6-10,10,Metagross,120,Metall,,Rang 2,"Selten, Holografisch",Kent Kanetsuna,"normal, reverse, holo",Erwachte Legenden,Diamant & Perl,146
+dp6-11,11,Mewtu,80,Psycho,,Basis,"Selten, Holografisch",Ken Sugimori,"reverse, holo",Erwachte Legenden,Diamant & Perl,146
+dp6-12,12,Quaxo,120,Wasser,,Rang 2,"Selten, Holografisch",Masakazu Fukuda,"reverse, holo",Erwachte Legenden,Diamant & Perl,146
+dp6-13,13,Voluminas,90,Kampf,,Rang 1,"Selten, Holografisch",Kent Kanetsuna,"reverse, holo",Erwachte Legenden,Diamant & Perl,146
+dp6-14,14,Rayquaza,100,Farblos,,Basis,"Selten, Holografisch",Kent Kanetsuna,"reverse, holo",Erwachte Legenden,Diamant & Perl,146
+dp6-15,15,Regigigas,120,Farblos,,Basis,"Selten, Holografisch",Ryo Ueda,"reverse, holo",Erwachte Legenden,Diamant & Perl,146
+dp6-16,16,Kryppuck,70,Psycho,,Basis,"Selten, Holografisch",Ryo Ueda,"reverse, holo",Erwachte Legenden,Diamant & Perl,146
+dp6-17,17,Yanmega,90,Pflanze,,Rang 1,"Selten, Holografisch",Kent Kanetsuna,"normal, reverse, holo",Erwachte Legenden,Diamant & Perl,146
+dp6-18,18,Armaldo,140,Kampf,,Rang 2,Selten,Kazuaki Aihara,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-19,19,Tobutz,70,Psycho,,Basis,Selten,Ken Sugimori,"normal, reverse, holo",Erwachte Legenden,Diamant & Perl,146
+dp6-20,20,Blubella,100,Pflanze,,Rang 2,Selten,Atsuko Nishida,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-21,21,Wielie,120,Pflanze,,Rang 2,Selten,Masakazu Fukuda,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-22,22,Krebutack,90,Wasser,,Rang 1,Selten,Mitsuhiro Arita,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-23,23,Enokoro,80,Farblos,,Rang 1,Selten,Kagemaru Himeno,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-24,24,Deoxys Angriffsform,80,Psycho,,Basis,Selten,Kent Kanetsuna,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-25,25,Deoxys Verteidigungsform,100,Psycho,,Basis,Selten,Kazuaki Aihara,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-26,26,Deoxys Initiativform,70,Psycho,,Basis,Selten,Kazuaki Aihara,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-27,27,Ditto,60,Farblos,,Basis,Selten,Ken Sugimori,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-28,28,Forstellka,90,Metall,,Rang 1,Selten,Kent Kanetsuna,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-29,29,Groudon,100,Kampf,,Basis,Selten,Kazuaki Aihara,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-30,30,Heatran,100,Metall,,Basis,Selten,Kouki Saitou,"normal, reverse, holo",Erwachte Legenden,Diamant & Perl,146
+dp6-31,31,Jirachi,70,Metall,,Basis,Selten,Satoshi Ohta,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-32,32,Kyogre,100,Wasser,,Basis,Selten,Kent Kanetsuna,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-33,33,Schlapor,80,Farblos,,Rang 1,Selten,Kouki Saitou,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-34,34,Vesprit,70,Psycho,,Basis,Selten,Ken Sugimori,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-35,35,Quappo,130,Wasser,,Rang 2,Selten,Mitsuhiro Arita,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-36,36,Regice,90,Wasser,,Basis,Selten,Kazuaki Aihara,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-37,37,Regigigas,100,Farblos,,Basis,Selten,Kouki Saitou,"normal, reverse, holo",Erwachte Legenden,Diamant & Perl,146
+dp6-38,38,Regirock,90,Kampf,,Basis,Selten,Kazuaki Aihara,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-39,39,Registeel,90,Metall,,Basis,Selten,Kazuaki Aihara,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-40,40,Ninjatom,60,Pflanze,,Rang 1,Selten,Kouki Saitou,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-41,41,Qurtel,80,Feuer,,Basis,Selten,Midori Harada,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-42,42,Icognito !,50,Psycho,,Basis,Selten,Kent Kanetsuna,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-43,43,Selfe,70,Psycho,,Basis,Selten,Ken Sugimori,"normal, reverse, holo",Erwachte Legenden,Diamant & Perl,146
+dp6-44,44,Sarzenia,120,Pflanze,,Rang 2,Selten,Kouki Saitou,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-45,45,Giflor,120,Pflanze,,Rang 2,Selten,Kagemaru Himeno,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-46,46,Anorith,80,Kampf,,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-47,47,Camerupt,100,Feuer,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-48,48,Formeo,60,Farblos,,Basis,Ungewöhnlich,Kanako Eo,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-49,49,Formeo Regenform,70,Wasser,,Basis,Ungewöhnlich,Emi Yoshida,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-50,50,Formeo Schneewolkenform,70,Wasser,,Basis,Ungewöhnlich,Saya Tsuruta,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-51,51,Formeo Sonnenform,70,Feuer,,Basis,Ungewöhnlich,Lee HyunJung,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-52,52,Dragonir,70,Farblos,,Rang 1,Ungewöhnlich,Suwama Chiaki,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-53,53,Drifzepli,90,Psycho,,Rang 1,Ungewöhnlich,Ken Sugimori,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-54,54,Kokowei,80,Psycho,,Rang 1,Ungewöhnlich,Ken Sugimori,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-55,55,Skorgro,90,Kampf,,Rang 1,Ungewöhnlich,Ken Sugimori,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-56,56,Groink,90,Psycho,,Rang 1,Ungewöhnlich,Masakazu Fukuda,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-57,57,Hundemon,80,Feuer,,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-58,58,Lanturn,90,Wasser,,Rang 1,Ungewöhnlich,Masakazu Fukuda,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-59,59,Lanturn,90,Elektro,,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-60,60,Ledian,80,Pflanze,,Rang 1,Ungewöhnlich,Midori Harada,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-61,61,Lucario,90,Kampf,,Rang 1,Ungewöhnlich,Naoyo Kimura,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-62,62,Luxio,80,Elektro,,Rang 1,Ungewöhnlich,Naoyo Kimura,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-63,63,Knogga,90,Kampf,,Rang 1,Ungewöhnlich,Ken Sugimori,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-64,64,Metang,80,Metall,,Rang 1,Ungewöhnlich,Midori Harada,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-65,65,Metang,80,Metall,,Rang 1,Ungewöhnlich,Masakazu Fukuda,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-66,66,Magnayen,90,Unlicht,,Rang 1,Ungewöhnlich,Masakazu Fukuda,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-67,67,Ninjask,80,Pflanze,,Rang 1,Ungewöhnlich,Ken Sugimori,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-68,68,Snobilikat,80,Farblos,,Rang 1,Ungewöhnlich,Ken Sugimori,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-69,69,Keifel,100,Wasser,,Rang 1,Ungewöhnlich,Midori Harada,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-70,70,Seemon,80,Wasser,,Rang 1,Ungewöhnlich,Atsuko Nishida,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-71,71,Starmie,80,Wasser,,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-72,72,Schlukwech,90,Psycho,,Rang 1,Ungewöhnlich,Midori Harada,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-73,73,Schwalboss,80,Farblos,,Rang 1,Ungewöhnlich,Suwama Chiaki,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-74,74,Tauros,80,Farblos,,Basis,Ungewöhnlich,Ken Sugimori,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-75,75,Tentoxa,90,Wasser,,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-76,76,Icognito J,50,Psycho,,Basis,Ungewöhnlich,Kent Kanetsuna,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-77,77,Icognito R,60,Psycho,,Basis,Ungewöhnlich,Kent Kanetsuna,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-78,78,Icognito U,50,Psycho,,Basis,Ungewöhnlich,Kent Kanetsuna,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-79,79,Icognito V,60,Psycho,,Basis,Ungewöhnlich,Kent Kanetsuna,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-80,80,Icognito W,90,Psycho,,Basis,Ungewöhnlich,Kazuaki Aihara,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-81,81,Icognito Y,50,Psycho,,Basis,Ungewöhnlich,Kazuaki Aihara,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-82,82,Icognito ?,70,Psycho,,Basis,Ungewöhnlich,Kazuaki Aihara,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-83,83,Tanhel,50,Metall,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-84,84,Tanhel,50,Metall,,Basis,Häufig,Masakazu Fukuda,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-85,85,Knofensa,50,Pflanze,,Basis,Häufig,Atsuko Nishida,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-86,86,Haspiror,50,Farblos,,Basis,Häufig,Atsuko Nishida,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-87,87,Lampi,60,Wasser,,Basis,Häufig,Atsuko Nishida,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-88,88,Lampi,50,Elektro,,Basis,Häufig,Midori Harada,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-89,89,Krebscorps,50,Wasser,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-90,90,Tragosso,60,Kampf,,Basis,Häufig,Kagemaru Himeno,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-91,91,Dratini,40,Farblos,,Basis,Häufig,Ken Sugimori,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-92,92,Driftlon,50,Psycho,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-93,93,Owei,50,Psycho,,Basis,Häufig,Midori Harada,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-94,94,Skorgla,60,Kampf,,Basis,Häufig,Masakazu Fukuda,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-95,95,Skorgla,50,Kampf,,Basis,Häufig,Kouki Saitou,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-96,96,Duflor,70,Pflanze,,Rang 1,Häufig,Sumiyoshi Kizuki,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-97,97,Duflor,80,Psycho,,Rang 1,Häufig,Ken Sugimori,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-98,98,Schluppuck,60,Psycho,,Basis,Häufig,Ken Sugimori,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-99,99,Nockchan,70,Kampf,,Basis,Häufig,Ken Sugimori,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-100,100,Kicklee,80,Kampf,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-101,101,Kapoera,80,Kampf,,Basis,Häufig,Masakazu Fukuda,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-102,102,Seeper,50,Wasser,,Basis,Häufig,Ken Sugimori,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-103,103,Hunduster,50,Unlicht,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-104,104,Ledyba,50,Pflanze,,Basis,Häufig,Atsuko Nishida,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-105,105,Liliep,80,Pflanze,,Rang 1,Häufig,Kouki Saitou,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-106,106,Mauzi,50,Farblos,,Basis,Häufig,Atsuko Nishida,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-107,107,Traunfugil,60,Psycho,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-108,108,Nincada,40,Pflanze,,Basis,Häufig,Midori Harada,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-109,109,Nasgnet,70,Kampf,,Basis,Häufig,Ken Sugimori,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-110,110,Camaub,60,Feuer,,Basis,Häufig,Kouki Saitou,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-111,111,Myrapla,40,Pflanze,,Basis,Häufig,Hiroki Fuchino,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-112,112,Myrapla,50,Psycho,,Basis,Häufig,Ken Sugimori,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-113,113,Tannza,50,Pflanze,,Basis,Häufig,Masakazu Fukuda,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-114,114,Quapsel,40,Wasser,,Basis,Häufig,Atsuko Nishida,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-115,115,Quaputzi,80,Wasser,,Rang 1,Häufig,Sumiyoshi Kizuki,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-116,116,Fiffyen,50,Unlicht,,Basis,Häufig,Kouki Saitou,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-117,117,Riolu,60,Kampf,,Basis,Häufig,Kagemaru Himeno,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-118,118,Sheinux,50,Elektro,,Basis,Häufig,Masakazu Fukuda,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-119,119,Eneco,50,Farblos,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-120,120,Sniebel,60,Unlicht,,Basis,Häufig,Midori Harada,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-121,121,Spoink,50,Psycho,,Basis,Häufig,Kouki Saitou,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-122,122,Sterndu,50,Wasser,,Basis,Häufig,Ken Sugimori,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-123,123,Quiekel,60,Wasser,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-124,124,Schwalbini,50,Farblos,,Basis,Häufig,Takao Unno,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-125,125,Tentacha,50,Wasser,,Basis,Häufig,Atsuko Nishida,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-126,126,Rabauz,60,Kampf,,Basis,Häufig,Kagemaru Himeno,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-127,127,Ultrigaria,80,Pflanze,,Rang 1,Häufig,Ken Sugimori,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-128,128,Yanma,70,Pflanze,,Basis,Häufig,Masakazu Fukuda,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-129,129,Blubberschutz,,,,,Ungewöhnlich,Daisuke Ito,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-130,130,Avenaros Training,,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-131,131,Cynthias Gefühle,,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse, holo",Erwachte Legenden,Diamant & Perl,146
+dp6-132,132,Energieaufsammlung,,,,,Ungewöhnlich,Kent Kanetsuna,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-133,133,Poké-Radar,,,,,Ungewöhnlich,Kazuaki Aihara,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-134,134,Blizzach-Tempel,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-135,135,Kahlberg,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-136,136,Technische Maschine TS-1,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-137,137,Technische Maschine TS-2,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-138,138,Klauenfossil,40,,,,Häufig,Ryo Ueda,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-139,139,Wurzelfossil,40,,,,Häufig,Ryo Ueda,"normal, reverse",Erwachte Legenden,Diamant & Perl,146
+dp6-140,140,Tobutz,90,Psycho,,Level Up,"Selten, Holografisch LV.X",Shizurow,holo,Erwachte Legenden,Diamant & Perl,146
+dp6-141,141,Skorgro,110,Kampf,,Level Up,"Selten, Holografisch LV.X",Ryo Ueda,holo,Erwachte Legenden,Diamant & Perl,146
+dp6-142,142,Magnezone,140,Metall,,Level Up,"Selten, Holografisch LV.X",Ryo Ueda,holo,Erwachte Legenden,Diamant & Perl,146
+dp6-143,143,Vesprit,90,Psycho,,Level Up,"Selten, Holografisch LV.X",Shizurow,holo,Erwachte Legenden,Diamant & Perl,146
+dp6-144,144,Mewtu,120,Psycho,,Level Up,"Selten, Holografisch LV.X",Shizurow,holo,Erwachte Legenden,Diamant & Perl,146
+dp6-145,145,Rihornior,170,Kampf,,Level Up,"Selten, Holografisch LV.X",Ryo Ueda,holo,Erwachte Legenden,Diamant & Perl,146
+dp6-146,146,Selfe,90,Psycho,,Level Up,"Selten, Holografisch LV.X",Shizurow,holo,Erwachte Legenden,Diamant & Perl,146

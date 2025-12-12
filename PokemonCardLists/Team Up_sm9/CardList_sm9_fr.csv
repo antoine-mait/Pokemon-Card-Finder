@@ -1,0 +1,197 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sm9-1,1,Celebi et Florizarre GX,270,Plante,,,Ultra Rare,Mitsuhiro Arita,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-2,2,Aspicot,40,Plante,,De base,Commune,Shibuzoh.,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-3,3,Aspicot,50,Plante,,De base,Commune,SATOSHI NAKAI,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-4,4,Coconfort,80,Plante,Aspicot,Niveau 1,Peu Commune,Yuka Morii,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-5,5,Dardargnan,130,Plante,Coconfort,Niveau 2,Rare,You Iribi,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-6,6,Paras,70,Plante,,De base,Commune,Naoyo Kimura,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-7,7,Parasect,100,Plante,Paras,Niveau 1,Rare,Satoshi Shirai,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-8,8,Noeunoeuf,50,Plante,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-9,9,Scarabrute,120,Plante,,De base,Rare,Eri Yamaki,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-10,10,Shaymin ◇,80,Plante,,De base,Rare,kawayoo,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-11,11,Salamèche,50,Feu,,De base,Commune,Naoyo Kimura,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-12,12,Salamèche,70,Feu,,De base,Commune,Atsuko Nishida,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-13,13,Reptincel,90,Feu,Salamèche,Niveau 1,Peu Commune,Ayaka Yoshida,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-14,14,Dracaufeu,150,Feu,Reptincel,Niveau 2,Rare,Masakazu Fukuda,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-15,15,Goupix,60,Feu,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-16,16,Feunard,100,Feu,Goupix,Niveau 1,Rare,You Iribi,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-17,17,Ponyta,70,Feu,,De base,Commune,Saya Tsuruta,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-18,18,Galopa,100,Feu,Ponyta,Niveau 1,Peu Commune,Shigenori Negishi,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-19,19,Sulfura,120,Feu,,De base,Rare,Shin Nagasawa,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-20,20,Flamiaou,60,Feu,,De base,Commune,sui,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-21,21,Matoufeu,90,Feu,Flamiaou,Niveau 1,Peu Commune,Sanosuke Sakuma,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-22,22,Carapuce,50,Eau,,De base,Commune,sui,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-23,23,Carapuce,70,Eau,,De base,Commune,HYOGONOSUKE,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-24,24,Carabaffe,90,Eau,Carapuce,Niveau 1,Peu Commune,Misa Tsutsui,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-25,25,Tortank,160,Eau,Carabaffe,Niveau 2,Rare,Hitoshi Ariga,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-26,26,Psykokwak,60,Eau,,De base,Commune,Kouki Saitou,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-27,27,Akwakwak,110,Eau,Psykokwak,Niveau 1,Peu Commune,Masakazu Fukuda,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-28,28,Stari,50,Eau,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-29,29,Magicarpe,30,Eau,,De base,Commune,sui,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-30,30,Léviator,150,Eau,Magicarpe,Niveau 1,Rare,Hasuno,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-31,31,Lokhlass,130,Eau,,De base,Rare,Ken Sugimori,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-32,32,Artikodin,110,Eau,,De base,Rare,Yusuke Ohmura,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-33,33,Pikachu et Zekrom GX,240,Électrique,,,Ultra Rare,Mitsuhiro Arita,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-34,34,Racaillou d’Alola,60,Électrique,,De base,Commune,Yukiko Baba,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-35,35,Racaillou d’Alola,70,Électrique,,De base,Commune,Yuka Morii,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-36,36,Gravalanch d’Alola,100,Électrique,Racaillou d’Alola,Niveau 1,Peu Commune,Misa Tsutsui,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-37,37,Grolem d’Alola,180,Électrique,Gravalanch d’Alola,Niveau 2,Rare,kawayoo,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-38,38,Voltorbe,50,Électrique,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-39,39,Électrode,90,Électrique,Voltorbe,Niveau 1,Rare,Asako Ito,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-40,40,Électhor,110,Électrique,,De base,Rare,kawayoo,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-41,41,Wattouat,60,Électrique,,De base,Commune,Akira Komayama,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-42,42,Lainergie,90,Électrique,Wattouat,Niveau 1,Peu Commune,Shibuzoh.,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-43,43,Pharamp GX,240,Électrique,Lainergie,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-44,44,Zébibron,60,Électrique,,De base,Commune,Akira Komayama,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-45,45,Zéblitz,120,Électrique,Zébibron,Niveau 1,Rare,Shin Nagasawa,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-46,46,Emolga,60,Électrique,,De base,Commune,Megumi Mizutani,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-47,47,Statitik,40,Électrique,,De base,Commune,Yuka Morii,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-48,48,Mygavolt,90,Électrique,Statitik,Niveau 1,Rare,SATOSHI NAKAI,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-49,49,Galvaran,60,Électrique,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-50,50,Iguolta,100,Électrique,Galvaran,Niveau 1,Peu Commune,Sumiyoshi Kizuki,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-51,51,Tokorico ◇,130,Électrique,,De base,Rare,Kouki Saitou,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-52,52,Zeraora,120,Électrique,,De base,Rare,Kouki Saitou,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-53,53,Ectoplasma et Mimiqui GX,240,Psy,,,Ultra Rare,Mitsuhiro Arita,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-54,54,Nidoran♀,60,Psy,,De base,Commune,miki kudo,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-55,55,Nidorina,90,Psy,Nidoran♀,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-56,56,Nidoqueen,160,Psy,Nidorina,Niveau 2,Rare,nagimiso,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-57,57,Nidoran♂,60,Psy,,De base,Commune,Naoyo Kimura,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-58,58,Nidorino,90,Psy,Nidoran♂,Niveau 1,Peu Commune,Kouki Saitou,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-59,59,Nidoking,160,Psy,Nidorino,Niveau 2,Rare,kawayoo,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-60,60,Tentacool,60,Psy,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-61,61,Tentacruel,100,Psy,Tentacool,Niveau 1,Peu Commune,kodama,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-62,62,Tadmorv,80,Psy,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-63,63,Grotadmorv,130,Psy,Tadmorv,Niveau 1,Rare,Anesaki Dynamic,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-64,64,Ossatueur d’Alola,120,Psy,Osselait,Niveau 1,Rare,miki kudo,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-65,65,Staross,80,Psy,Stari,Niveau 1,Rare,Mizue,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-66,66,M. Mime,80,Psy,,De base,Rare,Atsuko Nishida,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-67,67,M. Mime GX,150,Psy,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-68,68,Lippoutou,90,Psy,,De base,Peu Commune,HYOGONOSUKE,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-69,69,Cosmog,50,Psy,,De base,Commune,sui,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-70,70,Cosmovum,100,Psy,Cosmog,Niveau 1,Peu Commune,Kouki Saitou,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-71,71,Férosinge,50,Combat,,De base,Commune,Akira Komayama,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-72,72,Colossinge,90,Combat,Férosinge,Niveau 1,Rare,Anesaki Dynamic,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-73,73,Kicklee,100,Combat,,De base,Peu Commune,Tomokazu Komiya,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-74,74,Tygnon,90,Combat,,De base,Peu Commune,Tomokazu Komiya,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-75,75,Amonita,90,Combat,Fossile Inconnu,Niveau 1,Peu Commune,Midori Harada,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-76,76,Amonistar,130,Combat,Amonita,Niveau 2,Rare,kirisAki,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-77,77,Kabuto,90,Combat,Fossile Inconnu,Niveau 1,Peu Commune,sui,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-78,78,Kabutops,140,Combat,Kabuto,Niveau 2,Rare,Shin Nagasawa,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-79,79,Embrylex,70,Combat,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-80,80,Ymphect,80,Combat,Embrylex,Niveau 1,Peu Commune,Anesaki Dynamic,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-81,81,Pandespiègle,60,Combat,,De base,Commune,Yuka Morii,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-82,82,Lougaroc GX,200,Combat,Rocabot,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-83,83,Tadmorv d’Alola,70,Obscurité,,De base,Commune,SATOSHI NAKAI,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-84,84,Grotadmorv d’Alola,120,Obscurité,Tadmorv d’Alola,Niveau 1,Rare,Midori Harada,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-85,85,Tyranocif,170,Obscurité,Ymphect,Niveau 2,Rare,Hasuno,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-86,86,Medhyèna,70,Obscurité,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-87,87,Grahyèna,100,Obscurité,Medhyèna,Niveau 1,Rare,kirisAki,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-88,88,Absol,100,Obscurité,,De base,Rare,nagimiso,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-89,89,Spiritomb,70,Obscurité,,De base,Peu Commune,HYOGONOSUKE,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-90,90,Zorua,60,Obscurité,,De base,Commune,Naoyo Kimura,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-91,91,Zoroark,110,Obscurité,Zorua,Niveau 1,Rare,Masakazu Fukuda,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-92,92,Vostourno,60,Obscurité,,De base,Commune,Eri Yamaki,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-93,93,Vaututrice,120,Obscurité,Vostourno,Niveau 1,Rare,Ayaka Yoshida,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-94,94,Pandarbare,140,Obscurité,Pandespiègle,Niveau 1,Rare,Satoshi Shirai,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-95,95,Yveltal,110,Obscurité,,De base,Rare,Misa Tsutsui,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-96,96,Hoopa GX,190,Obscurité,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-97,97,Félinferno GX,250,Obscurité,Matoufeu,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-98,98,Airmure,110,Métal,,De base,Rare,kirisAki,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-99,99,Jirachi,70,Métal,,De base,Rare,HYOGONOSUKE,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-100,100,Archéomire,50,Métal,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-101,101,Archéodong,130,Métal,Archéomire,Niveau 1,Rare,Misa Tsutsui,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-102,102,Grindur,60,Métal,,De base,Commune,Shigenori Negishi,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-103,103,Noacier,120,Métal,Grindur,Niveau 1,Rare,Hasuno,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-104,104,Scalpion,60,Métal,,De base,Commune,Masakazu Fukuda,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-105,105,Scalproie,110,Métal,Scalpion,Niveau 1,Rare,Anesaki Dynamic,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-106,106,Cobaltium GX,170,Métal,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-107,107,Monorpale,60,Métal,,De base,Commune,sui,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-108,108,Dimoclès,90,Métal,Monorpale,Niveau 1,Peu Commune,Shin Nagasawa,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-109,109,Exagide,140,Métal,Dimoclès,Niveau 2,Rare,Kagemaru Himeno,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-110,110,Trousselin,60,Métal,,De base,Commune,Shigenori Negishi,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-111,111,Feunard d’Alola,110,Fée,Goupix d’Alola,Niveau 1,Rare,Misa Tsutsui,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-112,112,Mimiqui,70,Fée,,De base,Rare,Eri Yamaki,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-113,113,Latias et Latios GX,250,Dragon,,,Ultra Rare,Mitsuhiro Arita,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-114,114,Noadkoko d’Alola,160,Dragon,Noeunoeuf,Niveau 1,Rare,Anesaki Dynamic,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-115,115,Noadkoko d’Alola,160,Dragon,Noeunoeuf,Niveau 1,Rare,Sanosuke Sakuma,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-116,116,Minidraco,60,Dragon,,De base,Commune,Midori Harada,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-117,117,Minidraco,70,Dragon,,De base,Commune,Kouki Saitou,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-118,118,Draco,90,Dragon,Minidraco,Niveau 1,Peu Commune,kirisAki,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-119,119,Dracolosse,160,Dragon,Draco,Niveau 2,Rare,Megumi Mizutani,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-120,120,Évoli et Ronflex GX,270,Incolore,,,Ultra Rare,Mitsuhiro Arita,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-121,121,Roucool,50,Incolore,,De base,Commune,Shigenori Negishi,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-122,122,Roucool,60,Incolore,,De base,Commune,Sumiyoshi Kizuki,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-123,123,Roucoups,60,Incolore,Roucool,Niveau 1,Commune,Mizue,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-124,124,Roucarnage,130,Incolore,Roucoups,Niveau 2,Rare,Akira Komayama,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-125,125,Miaouss,70,Incolore,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-126,126,Persian,100,Incolore,Miaouss,Niveau 1,Peu Commune,Yukiko Baba,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-127,127,Canarticho,80,Incolore,,De base,Peu Commune,Shibuzoh.,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-128,128,Kangourex,130,Incolore,,De base,Peu Commune,Mizue,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-129,129,Tauros,130,Incolore,,De base,Peu Commune,kodama,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-130,130,Ptéra,130,Incolore,Fossile Inconnu,Niveau 1,Rare,hatachu,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-131,131,Lugia,130,Incolore,,De base,Rare,Anesaki Dynamic,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-132,132,Mangriff,100,Incolore,,De base,Rare,Misa Tsutsui,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-133,133,Analyse de Léo,,,,,Rare,Naoki Saito,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-134,134,Marché Noir ◇,,,,,Rare,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-135,135,Vaillance de Pierre,,,,,Peu Commune,Naoki Saito,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-136,136,Protection Musclée,,,,,Peu Commune,Yoshinobu Saito,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-137,137,Méridia,,,,,Peu Commune,Megumi Mizutani,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-138,138,Perceuse Dangereuse,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-139,139,Électrochargeur,,,,,Peu Commune,Eske Yoshinob,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-140,140,Hospitalité d’Erika,,,,,Rare,Sanosuke Sakuma,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-141,141,Vesper,,,,,Peu Commune,Megumi Mizutani,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-142,142,Amulette Féerique UC,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-143,143,ROM Plante,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-144,144,Chammal et Chamsin,,,,,Peu Commune,Yusuke Ohmura,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-145,145,Jasmine,,,,,Peu Commune,Ken Sugimori,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-146,146,Sifflet de Juge,,,,,Peu Commune,Ayaka Yoshida,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-147,147,Lavanville,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-148,148,Masque Métal,,,,,Peu Commune,Yoshinobu Saito,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-149,149,Aurore,,,,,Peu Commune,Megumi Mizutani,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-150,150,Danh,,,,,Peu Commune,Ken Sugimori,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-151,151,Nix,,,,,Peu Commune,Megumi Mizutani,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-152,152,Communication Pokémon,,,,,Peu Commune,Ayaka Yoshida,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-153,153,Adresse de Retour,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-154,154,Suggestion de Morgane,,,,,Peu Commune,Hitoshi Ariga,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-155,155,Fossile Inconnu,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-156,156,Forêt de Jade,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-157,157,ROM Eau,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-158,158,Labyrinthe Miracle ◇,,,,,Rare,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-159,159,Celebi et Florizarre GX,270,Plante,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-160,160,Magicarpe et Wailord GX,300,Eau,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-161,161,Magicarpe et Wailord GX,300,Eau,,,Ultra Rare,OOYAMA,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-162,162,Pikachu et Zekrom GX,240,Électrique,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-163,163,Pharamp GX,240,Électrique,Lainergie,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-164,164,Ectoplasma et Mimiqui GX,240,Psy,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-165,165,Ectoplasma et Mimiqui GX,240,Psy,,,Ultra Rare,Midori Harada,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-166,166,Hoopa GX,190,Obscurité,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-167,167,Félinferno GX,250,Obscurité,Matoufeu,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-168,168,Cobaltium GX,170,Métal,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-169,169,Latias et Latios GX,250,Dragon,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-170,170,Latias et Latios GX,250,Dragon,,,Ultra Rare,Sanosuke Sakuma,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-171,171,Évoli et Ronflex GX,270,Incolore,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-172,172,Vaillance de Pierre,,,,,Ultra Rare,Naoki Saito,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-173,173,Méridia,,,,,Ultra Rare,Kagemaru Himeno,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-174,174,Hospitalité d’Erika,,,,,Ultra Rare,Sanosuke Sakuma,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-175,175,Vesper,,,,,Ultra Rare,Kagemaru Himeno,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-176,176,Chammal et Chamsin,,,,,Ultra Rare,Megumi Mizutani,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-177,177,Jasmine,,,,,Ultra Rare,Hideki Ishikawa,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-178,178,Aurore,,,,,Ultra Rare,Kagemaru Himeno,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-179,179,Danh,,,,,Ultra Rare,Hitoshi Ariga,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-180,180,Nix,,,,,Ultra Rare,Kagemaru Himeno,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-181,181,Suggestion de Morgane,,,,,Ultra Rare,Hitoshi Ariga,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-182,182,Celebi et Florizarre GX,270,Plante,,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-183,183,Magicarpe et Wailord GX,300,Eau,,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-184,184,Pikachu et Zekrom GX,240,Électrique,,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-185,185,Pharamp GX,240,Électrique,Lainergie,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-186,186,Ectoplasma et Mimiqui GX,240,Psy,,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-187,187,Hoopa GX,190,Obscurité,,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-188,188,Félinferno GX,250,Obscurité,Matoufeu,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-189,189,Cobaltium GX,170,Métal,,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-190,190,Latias et Latios GX,250,Dragon,,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-191,191,Évoli et Ronflex GX,270,Incolore,,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-192,192,Perceuse Dangereuse,,,,,Magnifique rare,Toyste Beach,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-193,193,Électrochargeur,,,,,Magnifique rare,Eske Yoshinob,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-194,194,Sifflet de Juge,,,,,Magnifique rare,Ayaka Yoshida,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-195,195,Masque Métal,,,,,Magnifique rare,Yoshinobu Saito,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196
+sm9-196,196,Communication Pokémon,,,,,Magnifique rare,Ayaka Yoshida,"normal, reverse, holo",Duo de Choc,Soleil et Lune,196

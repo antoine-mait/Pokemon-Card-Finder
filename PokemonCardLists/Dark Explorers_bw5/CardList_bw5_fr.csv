@@ -1,0 +1,112 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+bw5-1,1,Bulbizarre,60,Plante,,De base,Commune,Mitsuhiro Arita,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-2,2,Herbizarre,90,Plante,,Niveau 1,Peu Commune,sui,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-3,3,Florizarre,140,Plante,,Niveau 2,Rare,Masakazu Fukuda,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-4,4,Insécateur,80,Plante,,De base,Peu Commune,Naoki Saito,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-5,5,Vortente,90,Plante,,De base,Rare,Yukiko Baba,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-6,6,Phyllali,90,Plante,,Niveau 1,Rare,Ryo Ueda,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-7,7,Crabicoque,60,Plante,,De base,Commune,Akira Komayama,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-8,8,Crabaraque,110,Plante,,Niveau 1,Peu Commune,Ryo Ueda,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-9,9,Carabing,60,Plante,,De base,Commune,Kagemaru Himeno,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-10,10,Escargaume,60,Plante,,De base,Commune,Shigenori Negishi,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-11,11,Limaspeed,90,Plante,,Niveau 1,Rare,Kouki Saitou,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-12,12,Pyroli,90,Feu,,Niveau 1,Peu Commune,Suwama Chiaki,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-13,13,Entei-EX,180,Feu,,,Rare,Shizurow,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-14,14,Poussifeu,50,Feu,,De base,Commune,Masakazu Fukuda,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-15,15,Poussifeu,60,Feu,,De base,Commune,Atsuko Nishida,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-16,16,Galifeu,80,Feu,,Niveau 1,Peu Commune,Sumiyoshi Kizuki,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-17,17,Braségali,140,Feu,,Niveau 2,Rare,TOKIYA,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-18,18,Chartor,90,Feu,,De base,Peu Commune,Masakazu Fukuda,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-19,19,Aflamanoir,90,Feu,,De base,Rare,Mitsuhiro Arita,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-20,20,Pyronille,80,Feu,,De base,Commune,match,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-21,21,Pyronille,60,Feu,,De base,Commune,Kouki Saitou,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-22,22,Pyrax,110,Feu,,Niveau 1,Rare,Shin Nagasawa,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-23,23,Ramoloss,70,Eau,,De base,Commune,MAHOU,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-24,24,Flagadoss,100,Eau,,Niveau 1,Peu Commune,Kouki Saitou,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-25,25,Aquali,110,Eau,,Niveau 1,Peu Commune,Akira Komayama,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-26,26,Kyogre-EX,170,Eau,,,Rare,Shizurow,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-27,27,Tiplouf,60,Eau,,De base,Commune,Kouki Saitou,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-28,28,Prinplouf,80,Eau,,Niveau 1,Peu Commune,Suwama Chiaki,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-29,29,Pingoléon,140,Eau,,Niveau 2,Rare,Naoki Saito,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-30,30,Givrali,90,Eau,,Niveau 1,Rare,Ryo Ueda,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-31,31,Tritonde,60,Eau,,De base,Commune,Kouki Saitou,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-32,32,Batracné,80,Eau,,Niveau 1,Peu Commune,Kouki Saitou,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-33,33,Sorbébé,50,Eau,,De base,Commune,Kouki Saitou,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-34,34,Sorboul,70,Eau,,Niveau 1,Peu Commune,Kouki Saitou,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-35,35,Couaneton,60,Eau,,De base,Commune,sui,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-36,36,Lakmécygne,90,Eau,,Niveau 1,Rare,Mizue,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-37,37,Voltali,90,Électrique,,Niveau 1,Peu Commune,Sumiyoshi Kizuki,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-38,38,Raikou-EX,170,Électrique,,,Rare,Shizurow,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-39,39,Posipi,60,Électrique,,De base,Commune,Naoki Saito,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-40,40,Négapi,60,Électrique,,De base,Commune,Naoki Saito,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-41,41,Statitik,30,Électrique,,De base,Commune,MAHOU,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-42,42,Statitik,30,Électrique,,De base,Commune,Miki Tanaka,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-43,43,Mygavolt,80,Électrique,,Niveau 1,Rare,Akira Komayama,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-44,44,Anchwatt,40,Électrique,,De base,Commune,Midori Harada,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-45,45,Anchwatt,40,Électrique,,De base,Commune,Akira Komayama,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-46,46,Lampéroie,90,Électrique,,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-47,47,Ohmassacre,140,Électrique,,Niveau 2,Rare,kawayoo,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-48,48,Mentali,90,Psy,,Niveau 1,Rare,Mizue,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-49,49,Roigada,90,Psy,,Niveau 1,Rare,Shin Nagasawa,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-50,50,Chovsourir,50,Psy,,De base,Commune,Kagemaru Himeno,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-51,51,Tutafeh,60,Psy,,De base,Peu Commune,Aya Kusube,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-52,52,Tutankafer,100,Psy,,Niveau 1,Rare,kawayoo,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-53,53,Ptéra,90,Combat,,Restauré,Rare,Naoyo Kimura,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-54,54,Groudon-EX,180,Combat,,,Rare,Shizurow,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-55,55,Rototaupe,70,Combat,,De base,Commune,Tomokazu Komiya,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-56,56,Minotaupe,120,Combat,,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-57,57,Minotaupe,120,Combat,,Niveau 1,Rare,Masakazu Fukuda,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-58,58,Charpenti,60,Combat,,De base,Commune,Mizue,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-59,59,Ouvrifier,80,Combat,,Niveau 1,Peu Commune,Mizue,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-60,60,Noctali,100,Obscurité,,Niveau 1,Peu Commune,TOKIYA,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-61,61,Noctali,100,Obscurité,,Niveau 1,Peu Commune,Kouki Saitou,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-62,62,Ténéfix,70,Obscurité,,De base,Peu Commune,kawayoo,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-63,63,Darkrai-EX,180,Obscurité,,,Rare,Shizurow,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-64,64,Mascaïman,70,Obscurité,,De base,Commune,Hajime Kusajima,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-65,65,Escroco,90,Obscurité,,Niveau 1,Peu Commune,Mitsuhiro Arita,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-66,66,Crocorible,150,Obscurité,,Niveau 2,Rare,5ban Graphics,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-67,67,Baggiguane,60,Obscurité,,De base,Commune,Kagemaru Himeno,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-68,68,Baggaïd,100,Obscurité,,Niveau 1,Rare,Kagemaru Himeno,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-69,69,Zorua,50,Obscurité,,De base,Commune,Masakazu Fukuda,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-70,70,Zorua,60,Obscurité,,De base,Commune,Akira Komayama,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-71,71,Zoroark,100,Obscurité,,Niveau 1,Rare,5ban Graphics,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-72,72,Scalproie,90,Obscurité,,Niveau 1,Rare,Masakazu Fukuda,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-73,73,Vostourno,60,Obscurité,,De base,Peu Commune,match,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-74,74,Lançargot,90,Métal,,Niveau 1,Rare,Masakazu Fukuda,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-75,75,Tic,60,Métal,,De base,Commune,Midori Harada,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-76,76,Clic,80,Métal,,Niveau 1,Peu Commune,Shin Nagasawa,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-77,77,Cliticlic,140,Métal,,Niveau 2,Rare,Hajime Kusajima,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-78,78,Scalpion,60,Métal,,De base,Commune,Naoki Saito,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-79,79,Scalproie,100,Métal,,Niveau 1,Rare,Naoki Saito,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-80,80,Leveinard,100,Incolore,,De base,Commune,Kagemaru Himeno,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-81,81,Leveinard,100,Incolore,,De base,Commune,Mizue,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-82,82,Leuphorie,130,Incolore,,Niveau 1,Rare,Kouki Saitou,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-83,83,Évoli,60,Incolore,,De base,Commune,MAHOU,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-84,84,Évoli,50,Incolore,,De base,Commune,Sumiyoshi Kizuki,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-85,85,Pijako,70,Incolore,,De base,Peu Commune,MAHOU,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-86,86,Ponchiot,50,Incolore,,De base,Commune,Kyoko Umemoto,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-87,87,Ponchien,80,Incolore,,Niveau 1,Peu Commune,Naoyo Kimura,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-88,88,Mastouffe,130,Incolore,,Niveau 2,Rare,Atsuko Nishida,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-89,89,Tranchodon,140,Incolore,,Niveau 2,Rare,Akira Komayama,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-90,90,Boréas-EX,170,Incolore,,,Rare,Shizurow,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-91,91,Tcheren,,,,,Peu Commune,Kanako Eo,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-92,92,Griffe Obscure,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-93,93,Fortifiant Obscur,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-94,94,Maillet Amélioré,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-95,95,Loubards Pit & Paul,,,,,Peu Commune,Masakazu Fukuda,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-96,96,N,,,,,Peu Commune,Megumi Mizutani,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-97,97,Vieil Ambre Ptéra,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-98,98,Professeur Keteleeria,,,,,Peu Commune,Kanako Eo,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-99,99,Récepteur Aléatoire,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-100,100,Super Bonbon,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-101,101,Mont Foré,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-102,102,Hyper Ball,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-103,103,Entei-EX,180,Feu,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-104,104,Kyogre-EX,170,Eau,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-105,105,Raikou-EX,170,Électrique,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-106,106,Groudon-EX,180,Combat,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-107,107,Darkrai-EX,180,Obscurité,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-108,108,Boréas-EX,170,Incolore,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-109,109,Gardevoir,110,Psy,,Niveau 2,Magnifique rare,5ban Graphics,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-110,110,Aéroptéryx,130,Combat,,Niveau 1,Magnifique rare,5ban Graphics,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111
+bw5-111,111,Attrape-Pokémon,,,,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Explorateurs Obscurs,Noir & Blanc,111

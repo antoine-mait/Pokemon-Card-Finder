@@ -1,0 +1,288 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+swshp-SWSH001,SWSH001,Grookey,60,Grass,,Basic,None,kirisAki,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH002,SWSH002,Scorbunny,60,Fire,,Basic,None,Hitoshi Ariga,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH003,SWSH003,Sobble,60,Water,,Basic,None,Mizue,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH004,SWSH004,Meowth V,180,Colorless,,Basic,None,aky CG Works,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH005,SWSH005,Meowth VMAX,300,Colorless,Meowth V,VMAX,None,aky CG Works,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH006,SWSH006,Rillaboom,170,Grass,Thwackey,Stage2,None,Kouki Saitou,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH007,SWSH007,Frosmoth,90,Water,Snom,Stage1,None,kirisAki,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH008,SWSH008,Galarian Perrserker,120,Metal,Galarian Meowth,Stage1,None,Akira Komayama,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH009,SWSH009,Cinccino,90,Colorless,Minccino,Stage1,None,Shibuzoh.,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH010,SWSH010,Gossifleur,50,Grass,,Basic,None,Naoki Saito,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH011,SWSH011,Wooloo,60,Colorless,,Basic,None,Hitoshi Ariga,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH012,SWSH012,Morpeko,80,Lightning,,Basic,None,Kagemaru Himeno,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH013,SWSH013,Galarian Ponyta,70,Psychic,,Basic,None,kirisAki,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH014,SWSH014,Rillaboom V,220,Grass,,Basic,None,5ban Graphics,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH015,SWSH015,Cinderace V,210,Fire,,Basic,None,5ban Graphics,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH016,SWSH016,Inteleon V,200,Water,,Basic,None,5ban Graphics,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH017,SWSH017,Toxtricity V,210,Lightning,,Basic,None,5ban Graphics,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH018,SWSH018,Zacian V,220,Metal,,Basic,None,5ban Graphics,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH019,SWSH019,Zamazenta V,230,Metal,,Basic,None,aky CG Works,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH020,SWSH020,Pikachu,70,Lightning,,Basic,None,Hideki Ishikawa,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH021,SWSH021,Polteageist V,170,Psychic,,Basic,None,PLANETA Igarashi,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH022,SWSH022,Flapple,80,Grass,Applin,Stage1,None,Hitoshi Ariga,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH023,SWSH023,Luxray,160,Lightning,Luxio,Stage2,None,Megumi Higuchi,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH024,SWSH024,Coalossal,160,Fighting,Carkol,Stage2,None,Kouki Saitou,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH025,SWSH025,Garbodor,120,Darkness,Trubbish,Stage1,Rare,tetsuya koizumi,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH026,SWSH026,Mantine,110,Water,,Basic,None,0313,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH027,SWSH027,Noctowl,110,Colorless,Hoothoot,Stage1,None,Misa Tsutsui,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH028,SWSH028,Duraludon,130,Metal,,Basic,None,Ryuta Fuse,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH029,SWSH029,Rayquaza,130,Colorless,,Basic,None,so-taro,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH030,SWSH030,Copperajah V,220,Metal,,Basic,None,5ban Graphics,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH031,SWSH031,Morpeko,80,Lightning,,Basic,None,Hitoshi Ariga,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH032,SWSH032,Snorlax,150,Colorless,,Basic,None,Tika Matsuno,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH033,SWSH033,Zacian,130,Metal,,Basic,None,Kouki Saitou,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH034,SWSH034,Zamazenta,130,Metal,,Basic,None,Kouki Saitou,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH035,SWSH035,Decidueye,140,Grass,Dartrix,Stage2,None,Souichirou Gunjima,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH036,SWSH036,Arctozolt,130,Lightning,Rare Fossil,Stage1,None,Hasuno,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH037,SWSH037,Hydreigon,160,Darkness,Zweilous,Stage2,None,Taira Akitsu,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH038,SWSH038,Kangaskhan,130,Colorless,,Basic,None,HYOGONOSUKE,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH039,SWSH039,Pikachu,60,Lightning,,Basic,None,Hitoshi Ariga,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH040,SWSH040,Hatenna,60,Psychic,,Basic,None,Misa Tsutsui,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH041,SWSH041,Flareon,110,Fire,Eevee,Stage1,None,You Iribi,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH042,SWSH042,Eevee,60,Colorless,,Basic,None,You Iribi,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH043,SWSH043,Galarian Sirfetch'd V,210,Fighting,,Basic,None,PLANETA Tsuji,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH044,SWSH044,Eternatus V,220,Darkness,,Basic,None,5ban Graphics,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH045,SWSH045,Eternatus VMAX,340,Darkness,Eternatus V,VMAX,None,5ban Graphics,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH046,SWSH046,Eldegoss,80,Grass,Gossifleur,Stage1,None,Mina Nakai,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH047,SWSH047,Drednaw,130,Water,Chewtle,Stage1,None,Anesaki Dynamic,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH048,SWSH048,Centiskorch,130,Fire,Sizzlipede,Stage1,None,nagimiso,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH049,SWSH049,Dubwool V,210,Colorless,,Basic,None,5ban Graphics,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH050,SWSH050,Charizard V,220,Fire,,Basic,None,5ban Graphics,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH051,SWSH051,Lapras,130,Water,,Basic,None,Megumi Higuchi,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH052,SWSH052,Gengar,110,Psychic,Haunter,Stage2,None,Shibuzoh.,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH053,SWSH053,Machamp,170,Fighting,Machoke,Stage2,None,SATOSHI NAKAI,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH054,SWSH054,Coalossal,160,Fighting,Carkol,Stage2,None,Shigenori Negishi,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH055,SWSH055,Hatterene V,200,Psychic,,Basic,None,PLANETA Igarashi,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH056,SWSH056,Morpeko V,170,Lightning,,Basic,None,5ban Graphics,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH057,SWSH057,Grimmsnarl V,220,Darkness,,Basic,None,5ban Graphics,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH058,SWSH058,Alcremie,110,Psychic,Milcery,Stage1,None,sui,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH059,SWSH059,Galarian Obstagoon,160,Darkness,Galarian Linoone,Stage2,None,Hasuno,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH060,SWSH060,Duraludon,130,Metal,,Basic,None,Kazuma Koda,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH061,SWSH061,Pikachu V,190,Lightning,,Basic,None,PLANETA Tsuji,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH062,SWSH062,Pikachu VMAX,310,Lightning,Pikachu V,VMAX,None,,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH063,SWSH063,Pikachu V,190,Lightning,,Basic,None,Ryota Murayama,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH064,SWSH064,Eternatus V,220,Darkness,,Basic,None,5ban Graphics,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH065,SWSH065,Eevee V,190,Colorless,,Basic,None,Kagemaru Himeno,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH066,SWSH066,Charizard,170,Fire,Charmeleon,Stage2,None,NC Empire,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH067,SWSH067,Donphan,150,Fighting,Phanpy,Stage1,None,Eri Yamaki,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH068,SWSH068,Snorlax,130,Colorless,,Basic,None,Narumi Sato,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH069,SWSH069,Lugia,130,Colorless,,Basic,None,kodama,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH070,SWSH070,Grookey,60,Grass,,Basic,None,Akira Komayama,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH071,SWSH071,Scorbunny,60,Fire,,Basic,None,Akira Komayama,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH072,SWSH072,Vaporeon,110,Water,Eevee,Stage1,None,so-taro,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH073,SWSH073,Sobble,60,Water,,Basic,None,Akira Komayama,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH074,SWSH074,Special Delivery Pikachu,60,Lightning,,Basic,None,Illus. & Direc. The Pokémon Company Art Team,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH076,SWSH076,Zacian V,220,Metal,,Basic,None,5ban Graphics,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH077,SWSH077,Zamazenta V,230,Metal,,Basic,None,aky CG Works,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH078,SWSH078,Orbeetle V,180,Grass,,Basic,None,5ban Graphics,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH079,SWSH079,Galarian Mr. Rime,120,Water,Galarian Mr. Mime,Stage1,None,KEIICHIRO ITO,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH080,SWSH080,Dedenne,70,Psychic,,Basic,None,Yuu Nishida,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH081,SWSH081,Polteageist,60,Psychic,Sinistea,Stage1,None,Misa Tsutsui,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH082,SWSH082,Bunnelby,40,Colorless,,Basic,None,sowsow,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH083,SWSH083,Alakazam V,190,Psychic,,Basic,None,Ayaka Yoshida,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH084,SWSH084,Eldegoss V,180,Grass,,Basic,None,5ban Graphics,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH085,SWSH085,Boltund V,200,Lightning,,Basic,None,aky CG Works,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH086,SWSH086,Cramorant V,200,Colorless,,Basic,None,aky CG Works,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH087,SWSH087,Eevee VMAX,300,Colorless,Eevee V,VMAX,None,PLANETA Mochizuki,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH088,SWSH088,Cherrim,80,Grass,Cherubi,Stage1,None,Tika Matsuno,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH089,SWSH089,Octillery,110,Water,Remoraid,Stage1,None,KIYOTAKA OSHIYAMA,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH090,SWSH090,Houndoom,130,Darkness,Houndour,Stage1,None,Uta,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH091,SWSH091,Bronzong,110,Metal,Bronzor,Stage1,None,Atsushi Furusawa,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH092,SWSH092,Charmander,70,Fire,,Basic,None,Uta,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH093,SWSH093,Arrokuda,60,Water,,Basic,None,tetsuya koizumi,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH094,SWSH094,Jolteon,100,Lightning,Eevee,Stage1,None,Yuu Nishida,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH095,SWSH095,Eevee,60,Colorless,,Basic,None,Naoki Saito,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH096,SWSH096,Dragapult V,210,Psychic,,Basic,None,aky CG Works,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH097,SWSH097,Dragapult VMAX,320,Psychic,Dragapult V,VMAX,None,aky CG Works,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH098,SWSH098,Crobat V,180,Darkness,,Basic,None,PLANETA Mochizuki,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH099,SWSH099,Crobat VMAX,300,Darkness,Crobat V,VMAX,None,PLANETA Tsuji,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH100,SWSH100,Venusaur V,220,Grass,,Basic,None,aky CG Works,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH101,SWSH101,Blastoise V,220,Water,,Basic,None,5ban Graphics,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH102,SWSH102,Venusaur VMAX,330,Grass,Venusaur V,VMAX,None,aky CG Works,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH103,SWSH103,Blastoise VMAX,330,Water,Blastoise V,VMAX,None,5ban Graphics,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH104,SWSH104,Victini V,190,Fire,,Basic,None,5ban Graphics,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH105,SWSH105,Gardevoir V,210,Psychic,,Basic,None,5ban Graphics,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH106,SWSH106,Single Strike Urshifu V,220,Fighting,,Basic,None,5ban Graphics,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH107,SWSH107,Rapid Strike Urshifu V,220,Fighting,,Basic,None,5ban Graphics,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH108,SWSH108,Empoleon V,210,Water,,Basic,None,PLANETA Mochizuki,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH109,SWSH109,Tyranitar V,230,Darkness,,Basic,None,PLANETA Tsuji,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH110,SWSH110,Crobat V,180,Darkness,,Basic,None,PLANETA Mochizuki,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH111,SWSH111,Galarian Rapidash V,210,Psychic,,Basic,None,Saki Hayashiro,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH112,SWSH112,Cinderace,170,Fire,Raboot,Stage2,None,Anesaki Dynamic,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH113,SWSH113,Inteleon,150,Water,Drizzile,Stage2,None,AKIRA EGAWA,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH114,SWSH114,Cresselia,120,Psychic,,Basic,None,Kagemaru Himeno,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH115,SWSH115,Passimian,110,Fighting,,Basic,None,Teeziro,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH116,SWSH116,Morpeko,80,Lightning,,Basic,None,Atsushi Furusawa,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH117,SWSH117,Phanpy,70,Fighting,,Basic,None,Kagemaru Himeno,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH118,SWSH118,Eevee,60,Colorless,,Basic,None,Yuu Nishida,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH119,SWSH119,Snorlax,140,Colorless,,Basic,None,Yuya Oka,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH120,SWSH120,Marnie,,,,,None,Sanosuke Sakuma,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH121,SWSH121,Marnie,,,,,None,Naoki Saito,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH122,SWSH122,Flaaffy,90,Lightning,Mareep,Stage1,None,Pani Kobayashi,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH123,SWSH123,Galarian Articuno,120,Psychic,,Basic,None,Shin Nagasawa,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH124,SWSH124,Galarian Zapdos,110,Fighting,,Basic,None,Oswaldo KATO,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH125,SWSH125,Galarian Moltres,120,Darkness,,Basic,None,KEIICHIRO ITO,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH126,SWSH126,Galarian Slowpoke,70,Psychic,,Basic,None,sowsow,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH127,SWSH127,Eevee,60,Colorless,,Basic,None,Souichirou Gunjima,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH128,SWSH128,Eiscue,120,Water,,Basic,None,kirisAki,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH129,SWSH129,Umbreon,110,Darkness,Eevee,Stage1,None,Souichirou Gunjima,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH130,SWSH130,Ice Rider Calyrex V,210,Water,,Basic,None,5ban Graphics,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH131,SWSH131,Shadow Rider Calyrex V,210,Psychic,,Basic,None,5ban Graphics,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH132,SWSH132,Dragapult,150,Psychic,Drakloak,Stage2,None,5ban Graphics,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH133,SWSH133,Lance's Charizard V,220,Fire,,Basic,None,Hideki Ishikawa,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH134,SWSH134,Dark Sylveon V,180,Psychic,,Basic,None,Ryuta Fuse,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH135,SWSH135,Zacian,160,Metal,,BREAK,None,5ban Graphics,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH136,SWSH136,Mimikyu,70,Water,,Basic,None,,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH137,SWSH137,Light Toxtricity,120,Lightning,Toxel,Stage1,None,,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH138,SWSH138,Hydreigon C,110,Darkness,,Basic,None,,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH139,SWSH139,Pikachu V-UNION,300,Lightning,,V-UNION,None,,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH140,SWSH140,Pikachu V-UNION,300,Lightning,,V-UNION,None,,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH141,SWSH141,Pikachu V-UNION,300,Lightning,,V-UNION,None,,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH142,SWSH142,Pikachu V-UNION,300,Lightning,,V-UNION,None,,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH143,SWSH143,Pikachu V,190,Lightning,,Basic,None,,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH144,SWSH144,Greninja {star},130,Darkness,,Basic,None,Masakazu Fukuda,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH145,SWSH145,Pikachu V,190,Lightning,,Basic,None,,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH146,SWSH146,Poké Ball,,Lightning,,,None,,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH147,SWSH147,Rayquaza V,210,Dragon,,Basic,None,PLANETA Mochizuki,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH148,SWSH148,Noivern V,200,Dragon,,Basic,None,PLANETA Yamashita,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH149,SWSH149,Flareon V,210,Fire,,Basic,None,5ban Graphics,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH150,SWSH150,Vaporeon V,210,Water,,Basic,None,5ban Graphics,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH151,SWSH151,Jolteon V,190,Lightning,,Basic,None,5ban Graphics,holo,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH152,SWSH152,Professor's Research,,,,,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH153,SWSH153,Pikachu,60,Lightning,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH154,SWSH154,Dragonite V,230,Dragon,,Basic,None,,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH155,SWSH155,Greninja V-UNION,300,Water,,V-UNION,None,Shin Nagasawa,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH156,SWSH156,Greninja V-UNION,300,Water,,V-UNION,None,Shin Nagasawa,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH157,SWSH157,Greninja V-UNION,300,Water,,V-UNION,None,Shin Nagasawa,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH158,SWSH158,Greninja V-UNION,300,Water,,V-UNION,None,Shin Nagasawa,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH159,SWSH159,Mewtwo V-UNION,310,Psychic,,V-UNION,None,AKIRA EGAWA,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH160,SWSH160,Mewtwo V-UNION,310,Psychic,,V-UNION,None,AKIRA EGAWA,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH161,SWSH161,Mewtwo V-UNION,310,Psychic,,V-UNION,None,AKIRA EGAWA,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH162,SWSH162,Mewtwo V-UNION,310,Psychic,,V-UNION,None,AKIRA EGAWA,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH163,SWSH163,Zacian V-UNION,320,Metal,,V-UNION,None,PLANETA Tsuji,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH164,SWSH164,Zacian V-UNION,320,Metal,,V-UNION,None,PLANETA Tsuji,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH165,SWSH165,Zacian V-UNION,320,Metal,,V-UNION,None,PLANETA Tsuji,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH166,SWSH166,Zacian V-UNION,320,Metal,,V-UNION,None,PLANETA Tsuji,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH167,SWSH167,Professor Burnet,,,,,None,Ryuta Fuse,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH168,SWSH168,Oricorio,90,Fire,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH169,SWSH169,Pyukumuku,80,Water,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH170,SWSH170,Deoxys,120,Psychic,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH171,SWSH171,Latias,120,Dragon,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH172,SWSH172,Tepig,80,Fire,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH173,SWSH173,Blitzle,60,Lightning,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH174,SWSH174,Espeon,110,Psychic,Eevee,Stage1,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH175,SWSH175,Eevee,60,Colorless,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH176,SWSH176,Hoopa V,220,Darkness,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH177,SWSH177,Special Delivery Bidoof,70,Colorless,,Basic,None,The Pokémon Company Art Team,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH178,SWSH178,Professor's Research,,,,,None,Yusuke Kozaki,,SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH179,SWSH179,Flareon V,210,Fire,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH180,SWSH180,Flareon VMAX,320,Fire,Flareon V,VMAX,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH181,SWSH181,Vaporeon V,210,Water,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH182,SWSH182,Vaporeon VMAX,320,Water,Vaporeon V,VMAX,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH183,SWSH183,Jolteon V,190,Lightning,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH184,SWSH184,Jolteon VMAX,300,Lightning,Jolteon V,VMAX,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH185,SWSH185,Moltres,120,Fire,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH186,SWSH186,Lucario,120,Fighting,Riolu,Stage1,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH187,SWSH187,Liepard,100,Darkness,Purrloin,Stage1,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH188,SWSH188,Bibarel,120,Colorless,Bidoof,Stage1,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH189,SWSH189,Flapple,80,Dragon,Applin,Stage1,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH190,SWSH190,Eevee,60,Colorless,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH191,SWSH191,Leafeon,110,Grass,Eevee,Stage1,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH192,SWSH192,Glaceon,110,Water,Eevee,Stage1,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH193,SWSH193,Galarian Obstagoon,170,Darkness,Galarian Linoone,Stage2,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH194,SWSH194,Leafeon V,210,Grass,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH195,SWSH195,Leafeon VSTAR,260,Grass,Leafeon V,VSTAR,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH196,SWSH196,Glaceon V,210,Water,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH197,SWSH197,Glaceon VSTAR,260,Water,Glaceon V,VSTAR,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH198,SWSH198,Pikachu V,190,Lightning,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH199,SWSH199,Lycanroc V,200,Fighting,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH200,SWSH200,Corviknight V,210,Metal,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH201,SWSH201,Espeon V,200,Psychic,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH202,SWSH202,Sylveon V,200,Psychic,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH203,SWSH203,Umbreon V,200,Darkness,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH204,SWSH204,Arceus V,220,Colorless,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH205,SWSH205,Hisuian Basculegion,120,Water,Hisuian Basculin,Stage1,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH206,SWSH206,Wyrdeer,140,Psychic,Stantler,Stage1,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH207,SWSH207,Hisuian Samurott,170,Darkness,Dewott,Stage2,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH208,SWSH208,Magnezone,150,Metal,Magneton,Stage2,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH209,SWSH209,Toxel,60,Lightning,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH210,SWSH210,Oricorio,90,Psychic,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH211,SWSH211,Sylveon,110,Psychic,Eevee,Stage1,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH212,SWSH212,Eevee,60,Colorless,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH213,SWSH213,Lucario V,210,Fighting,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH214,SWSH214,Lucario VSTAR,270,Fighting,Lucario V,VSTAR,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH215,SWSH215,Morpeko V-UNION,,,,,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH216,SWSH216,Morpeko V-UNION,,,,,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH217,SWSH217,Morpeko V-UNION,,,,,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH218,SWSH218,Morpeko V-UNION,,,,,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH219,SWSH219,Boltund V,200,Lightning,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH220,SWSH220,Rowlet,60,Grass,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH221,SWSH221,Cyndaquil,60,Fire,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH222,SWSH222,Oshawott,70,Water,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH223,SWSH223,Mewtwo V,220,Psychic,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH224,SWSH224,Melmetal V,220,Metal,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH225,SWSH225,Alolan Exeggutor V,240,Grass,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH226,SWSH226,Spark,,,,,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH227,SWSH227,Blanche,,,,,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH228,SWSH228,Candela,,,,,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH229,SWSH229,Mewtwo V,220,Psychic,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH230,SWSH230,Radiant Eevee,90,Colorless,,Basic,Ultra Rare,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH231,SWSH231,Bulbasaur,70,Grass,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH232,SWSH232,Charmander,60,Fire,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH233,SWSH233,Squirtle,70,Water,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH234,SWSH234,Pikachu,60,Lightning,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH235,SWSH235,Dragonite V,230,Dragon,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH236,SWSH236,Dragonite VSTAR,280,Dragon,Dragonite V,VSTAR,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH237,SWSH237,Hisuian Typhlosion V,210,Psychic,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH238,SWSH238,Hisuian Decidueye V,220,Fighting,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH239,SWSH239,Hisuian Samurott V,220,Darkness,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH240,SWSH240,Finneon,50,Water,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH241,SWSH241,Gengar,120,Psychic,Haunter,Stage2,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH242,SWSH242,Comfey,70,Psychic,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH243,SWSH243,Machamp,150,Fighting,Machoke,Stage2,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH244,SWSH244,Scorbunny,60,Fire,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH245,SWSH245,Croagunk,60,Darkness,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH246,SWSH246,Weavile,110,Darkness,Sneasel,Stage1,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH247,SWSH247,Regigigas,150,Colorless,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH248,SWSH248,Kleavor V,210,Fighting,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH249,SWSH249,Kleavor VSTAR,270,Fighting,Kleavor V,VSTAR,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH250,SWSH250,Lumineon V,170,Water,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH252,SWSH252,Infernape V,200,Fire,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH253,SWSH253,Origin Forme Palkia V,220,Water,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH254,SWSH254,Origin Forme Palkia VSTAR,280,Water,Origin Forme Palkia V,VSTAR,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH255,SWSH255,Origin Forme Dialga V,220,Metal,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH256,SWSH256,Origin Forme Dialga VSTAR,280,Metal,Origin Forme Dialga V,VSTAR,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH257,SWSH257,Rotom V,190,Lightning,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH258,SWSH258,Gallade V,220,Fighting,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH259,SWSH259,Giratina V,220,Dragon,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH260,SWSH260,Charizard V,220,Fire,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH261,SWSH261,Charizard VMAX,330,Fire,Charizard V,VMAX,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH262,SWSH262,Charizard VSTAR,280,Fire,Charizard V,VSTAR,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH263,SWSH263,Zeraora V,210,Lightning,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH264,SWSH264,Zeraora VMAX,320,Lightning,Zeraora V,VMAX,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH265,SWSH265,Zeraora VSTAR,270,Lightning,Zeraora V,VSTAR,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH266,SWSH266,Deoxys V,210,Psychic,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH267,SWSH267,Deoxys VMAX,330,Psychic,Deoxys V,VMAX,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH268,SWSH268,Deoxys VSTAR,270,Psychic,Deoxys V,VSTAR,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH269,SWSH269,Sunflora,90,Grass,Sunkern,Stage1,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH270,SWSH270,Rapidash,100,Fire,Ponyta,Stage1,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH271,SWSH271,Kirlia,80,Psychic,Ralts,Stage1,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH272,SWSH272,Archeops,150,Colorless,Archen,Stage2,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH273,SWSH273,Hisuian Basculin,50,Water,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH274,SWSH274,Cranidos,90,Fighting,Unidentified Fossil,Stage1,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH275,SWSH275,Manaphy,70,Water,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH276,SWSH276,Togetic,80,Psychic,Togepi,Stage1,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH277,SWSH277,Rillaboom,180,Grass,Thwackey,Stage2,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH278,SWSH278,Cinderace,170,Fire,Raboot,Stage2,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH279,SWSH279,Inteleon,150,Water,Drizzile,Stage2,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH280,SWSH280,Regieleki V,200,Lightning,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH281,SWSH281,Regidrago V,220,Dragon,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH285,SWSH285,Pikachu V,200,Lightning,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH286,SWSH286,Pikachu VMAX,310,Lightning,Pikachu V,VMAX,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH291,SWSH291,Lucario VSTAR,270,Fighting,Lucario V,VSTAR,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH294,SWSH294,Hisuian Electrode V,210,Grass,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH295,SWSH295,Virizion V,200,Grass,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH296,SWSH296,Champions Festival,,,,,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH297,SWSH297,Hisuian Zoroark V,210,Colorless,,Basic,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287
+swshp-SWSH298,SWSH298,Hisuian Zoroark VSTAR,270,Colorless,Hisuian Zoroark V,VSTAR,None,,"normal, reverse, holo",SWSH Black Star Promos,Sword & Shield,287

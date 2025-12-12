@@ -1,0 +1,166 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+xy8-1,1,Paras,60,Plante,,De base,Commune,Hajime Kusajima,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-2,2,Parasect,100,Plante,Paras,Niveau 1,Rare,Sumiyoshi Kizuki,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-3,3,Scarabrute,100,Plante,,De base,Peu Commune,Satoshi Shirai,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-4,4,Cacnea,60,Plante,,De base,Commune,Yuka Morii,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-5,5,Feuillajou,60,Plante,,De base,Commune,Hajime Kusajima,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-6,6,Feuiloutan,90,Plante,Feuillajou,Niveau 1,Rare,Kagemaru Himeno,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-7,7,Marisson,60,Plante,,De base,Commune,Megumi Mizutani,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-8,8,Marisson,60,Plante,,De base,Commune,Megumi Mizutani,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-9,9,Marisson,60,Plante,,De base,Commune,Kouki Saitou,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-10,10,Boguérisse,90,Plante,Marisson,Niveau 1,Peu Commune,Miki Tanaka,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-11,11,Blindépique,160,Plante,Boguérisse,Niveau 2,Rare,Mitsuhiro Arita,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-12,12,Blindépique TURBO,190,Plante,Blindépique,TURBO,Ultra Rare,5ban Graphics,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-13,13,Lépidonille,30,Plante,,De base,Commune,Sumiyoshi Kizuki,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-14,14,Pérégrain,70,Plante,Lépidonille,Niveau 1,Peu Commune,Saya Tsuruta,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-15,15,Prismillon,120,Plante,Pérégrain,Niveau 2,Rare,Mizue,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-16,16,Cabriolaine,70,Plante,,De base,Commune,Kanako Eo,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-17,17,Chevroum,120,Plante,Cabriolaine,Niveau 1,Peu Commune,Masakazu Fukuda,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-18,18,Héricendre,60,Feu,,De base,Commune,Tomokazu Komiya,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-19,19,Feurisson,80,Feu,Héricendre,Niveau 1,Peu Commune,Shin Nagasawa,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-20,20,Typhlosion,150,Feu,Feurisson,Niveau 2,Rare,Megumi Mizutani,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-21,21,Démolosse EX,170,Feu,,De base,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-22,22,M-Démolosse EX,210,Feu,Démolosse-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-23,23,Flamajou,60,Feu,,De base,Commune,sui,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-24,24,Flamoutan,90,Feu,Flamajou,Niveau 1,Rare,Ayaka Yoshida,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-25,25,Feunnec,50,Feu,,De base,Commune,Kanako Eo,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-26,26,Roussil,80,Feu,Feunnec,Niveau 1,Peu Commune,kawayoo,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-27,27,Poissirène,60,Eau,,De base,Commune,MAHOU,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-28,28,Poissoroy,90,Eau,Poissirène,Niveau 1,Peu Commune,Kyoko Umemoto,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-29,29,Stari,60,Eau,,De base,Commune,Shigenori Negishi,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-30,30,Staross,90,Eau,Stari,Niveau 1,Peu Commune,Mitsuhiro Arita,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-31,31,Rémoraid,60,Eau,,De base,Commune,Suwama Chiaki,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-32,32,Rémoraid,60,Eau,,De base,Commune,Suwama Chiaki,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-33,33,Octillery,90,Eau,Rémoraid,Niveau 1,Rare,Kyoko Umemoto,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-34,34,Oniglali EX,170,Eau,,De base,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-35,35,M-Oniglali EX,220,Eau,Oniglali-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-36,36,Tiplouf,60,Eau,,De base,Commune,Kanako Eo,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-37,37,Prinplouf,80,Eau,Tiplouf,Niveau 1,Peu Commune,kirisAki,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-38,38,Pingoléon,140,Eau,Prinplouf,Niveau 2,Rare,Satoshi Shirai,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-39,39,Blizzi,80,Eau,,De base,Commune,Yukiko Baba,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-40,40,Blizzaroi,130,Eau,Blizzi,Niveau 1,Rare,Naoyo Kimura,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-41,41,Flotajou,60,Eau,,De base,Commune,Midori Harada,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-42,42,Flotoutan,90,Eau,Flotajou,Niveau 1,Rare,Masakazu Fukuda,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-43,43,Sorbébé,50,Eau,,De base,Commune,MAHOU,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-44,44,Sorboul,70,Eau,Sorbébé,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-45,45,Sorbouboul,130,Eau,Sorboul,Niveau 2,Rare,Ayaka Yoshida,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-46,46,Grenousse,50,Eau,,De base,Commune,Masakazu Fukuda,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-47,47,Croâporal,70,Eau,Grenousse,Niveau 1,Peu Commune,Masakazu Fukuda,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-48,48,Pikachu,60,Électrique,,De base,Commune,Kouki Saitou,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-49,49,Raichu,90,Électrique,Pikachu,Niveau 1,Rare,Masakazu Fukuda,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-50,50,Raichu TURBO,130,Électrique,Raichu,TURBO,Ultra Rare,5ban Graphics,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-51,51,Magnéti,60,Électrique,,De base,Commune,Akira Komayama,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-52,52,Magnéti,60,Électrique,,De base,Commune,Akira Komayama,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-53,53,Magnéton,80,Électrique,Magnéti,Niveau 1,Peu Commune,Tomokazu Komiya,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-54,54,Magnézone,140,Électrique,Magnéton,Niveau 2,Rare,Hajime Kusajima,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-55,55,Raikou,120,Électrique,,De base,Rare,Shin Nagasawa,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-56,56,Limonde,110,Électrique,,De base,Peu Commune,Naoki Saito,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-57,57,Dedenne,60,Électrique,,De base,Peu Commune,Kouki Saitou,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-58,58,Fantominus,50,Psy,,De base,Commune,Shigenori Negishi,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-59,59,Spectrum,70,Psy,Fantominus,Niveau 1,Peu Commune,Midori Harada,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-60,60,Ectoplasma,130,Psy,Spectrum,Niveau 2,Rare,Saya Tsuruta,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-61,61,Mewtwo EX,170,Psy,,De base,Ultra Rare,PLANETA,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-62,62,Mewtwo EX,170,Psy,,De base,Ultra Rare,PLANETA,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-63,63,M-Mewtwo EX,230,Psy,Mewtwo-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-64,64,M-Mewtwo EX,210,Psy,Mewtwo-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-65,65,Feuforêve,60,Psy,,De base,Commune,sui,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-66,66,Magirêve,90,Psy,Feuforêve,Niveau 1,Rare,Ayaka Yoshida,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-67,67,Qulbutoké,100,Psy,,De base,Peu Commune,Akira Komayama,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-68,68,Tarsal,60,Psy,,De base,Commune,MAHOU,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-69,69,Kirlia,80,Psy,Tarsal,Niveau 1,Peu Commune,Sanosuke Sakuma,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-70,70,Cresselia,110,Psy,,De base,Rare,kawayoo,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-71,71,Chovsourir,60,Psy,,De base,Commune,match,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-72,72,Rhinolove,90,Psy,Chovsourir,Niveau 1,Peu Commune,sui,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-73,73,Lewsor,50,Psy,,De base,Commune,Aya Kusube,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-74,74,Neitram,90,Psy,Lewsor,Niveau 1,Peu Commune,Tomokazu Komiya,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-75,75,Sabelette,60,Combat,,De base,Commune,Shigenori Negishi,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-76,76,Sablaireau,90,Combat,Sabelette,Niveau 1,Peu Commune,Naoki Saito,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-77,77,Osselait,70,Combat,,De base,Commune,Sumiyoshi Kizuki,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-78,78,Ossatueur,100,Combat,Osselait,Niveau 1,Rare,match,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-79,79,Ossatueur TURBO,140,Combat,Ossatueur,TURBO,Ultra Rare,5ban Graphics,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-80,80,Marcacrin,60,Combat,,De base,Commune,Atsuko Nishida,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-81,81,Cochignon,100,Combat,Marcacrin,Niveau 1,Peu Commune,MAHOU,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-82,82,Mammochon,160,Combat,Cochignon,Niveau 2,Rare,Masakazu Fukuda,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-83,83,Hippopotas,80,Combat,,De base,Commune,Akira Komayama,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-84,84,Gallame,150,Combat,Kirlia,Niveau 2,Rare,5ban Graphics,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-85,85,Meloetta,90,Combat,,De base,Rare,kirisAki,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-86,86,Pandespiègle,60,Combat,,De base,Commune,Mizue,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-87,87,Brutalibré,80,Combat,,De base,Rare,match,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-88,88,Cacturne,100,Obscurité,Cacnea,Niveau 1,Peu Commune,match,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-89,89,Zorua,60,Obscurité,,De base,Commune,Hitoshi Ariga,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-90,90,Zorua,60,Obscurité,,De base,Commune,Hitoshi Ariga,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-91,91,Zoroark,100,Obscurité,Zorua,Niveau 1,Rare,kawayoo,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-92,92,Zoroark TURBO,140,Obscurité,Zoroark,TURBO,Ultra Rare,5ban Graphics,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-93,93,Sepiatop,50,Obscurité,,De base,Commune,Kouki Saitou,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-94,94,Yveltal,130,Obscurité,,De base,Rare,TOKIYA,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-95,95,Archéomire,60,Métal,,De base,Commune,Shigenori Negishi,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-96,96,Archéodong,110,Métal,Archéomire,Niveau 1,Rare,Tomokazu Komiya,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-97,97,M. Mime,70,Fée,,De base,Rare,kirisAki,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-98,98,Snubbull,70,Fée,,De base,Commune,Yuka Morii,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-99,99,Granbull,120,Fée,Snubbull,Niveau 1,Peu Commune,Naoki Saito,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-100,100,Tarsal,60,Fée,,De base,Commune,Aya Kusube,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-101,101,Flabébé,30,Fée,,De base,Commune,Kouki Saitou,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-102,102,Floette,70,Fée,Flabébé,Niveau 1,Peu Commune,Midori Harada,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-103,103,Florges,110,Fée,Floette,Niveau 2,Rare,Hajime Kusajima,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-104,104,Florges TURBO,140,Fée,Florges,TURBO,Ultra Rare,5ban Graphics,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-105,105,Fluvetin,40,Fée,,De base,Commune,Naoyo Kimura,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-106,106,Cocotine,90,Fée,Fluvetin,Niveau 1,Rare,Mizue,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-107,107,Xerneas,120,Fée,,De base,Rare,Mitsuhiro Arita,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-108,108,Coupenotte,60,Dragon,,De base,Commune,Kagemaru Himeno,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-109,109,Coupenotte,60,Dragon,,De base,Commune,Kagemaru Himeno,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-110,110,Incisache,80,Dragon,Coupenotte,Niveau 1,Peu Commune,Mitsuhiro Arita,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-111,111,Tranchodon,160,Dragon,Incisache,Niveau 2,Rare,hatachu,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-112,112,Bruyverne,100,Dragon,Sonistrelle,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-113,113,Bruyverne TURBO,130,Dragon,Bruyverne,TURBO,Ultra Rare,5ban Graphics,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-114,114,Miaouss,60,Incolore,,De base,Commune,kirisAki,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-115,115,Doduo,60,Incolore,,De base,Commune,Naoki Saito,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-116,116,Doduo,60,Incolore,,De base,Commune,Naoki Saito,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-117,117,Dodrio,90,Incolore,Doduo,Niveau 1,Rare,TOKIYA,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-118,118,Ronflex,120,Incolore,,De base,Peu Commune,Kouki Saitou,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-119,119,Hoothoot,60,Incolore,,De base,Commune,Miki Tanaka,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-120,120,Noarfang,90,Incolore,Hoothoot,Niveau 1,Rare,Kouki Saitou,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-121,121,Teddiursa,70,Incolore,,De base,Commune,sui,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-122,122,Ursaring,130,Incolore,Teddiursa,Niveau 1,Peu Commune,5ban Graphics,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-123,123,Queulorior,70,Incolore,,De base,Rare,Yukiko Baba,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-124,124,Tylton,40,Incolore,,De base,Commune,Mizue,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-125,125,Étourmi,50,Incolore,,De base,Commune,Kyoko Umemoto,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-126,126,Étourvol,80,Incolore,Étourmi,Niveau 1,Peu Commune,Suwama Chiaki,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-127,127,Étouraptor,140,Incolore,Étourvol,Niveau 2,Rare,Kouki Saitou,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-128,128,Pijako,70,Incolore,,De base,Rare,Akira Komayama,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-129,129,Furaiglon,50,Incolore,,De base,Commune,Tomokazu Komiya,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-130,130,Gueriaigle,100,Incolore,Furaiglon,Niveau 1,Rare,match,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-131,131,Sonistrelle,50,Incolore,,De base,Commune,sui,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-132,132,Sonistrelle,60,Incolore,,De base,Commune,Kagemaru Himeno,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-133,133,Veste de Combat,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-134,134,Juliette,,,,,Peu Commune,Megumi Mizutani,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-135,135,Rescousse Copain-Copain,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-136,136,Pêcheur,,,,,Peu Commune,Hitoshi Ariga,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-137,137,Pierrallégée,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-138,138,Combine de Giovanni,,,,,Peu Commune,Ken Sugimori,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-139,139,Lien Spirituel Oniglali,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-140,140,Masse Ball,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-141,141,Bottes Lourdes,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-142,142,Lien Spirituel Démolosse,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-143,143,Juge,,,,,Peu Commune,Megumi Mizutani,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-144,144,Lien Spirituel Mewtwo,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-145,145,Cité Parallèle,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-146a,146a,Lettre du Professeur,,,,,Sans Rareté,,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-146,146,Lettre du Professeur,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-147,147,Billet Réservé,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-148,148,Carolina,,,,,Peu Commune,Yusuke Ohmura,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-149,149,Méga Canne,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-150,150,Carte,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-151,151,Énergie Combustion,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-152,152,Énergie Multicolore,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-153,153,Démolosse EX,170,Feu,,De base,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-154,154,M-Démolosse EX,210,Feu,Démolosse-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-155,155,Oniglali EX,170,Eau,,De base,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-156,156,M-Oniglali EX,220,Eau,Oniglali-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-157,157,Mewtwo EX,170,Psy,,De base,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-158,158,Mewtwo EX,170,Psy,,De base,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-159,159,M-Mewtwo EX,230,Psy,Mewtwo-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-160,160,M-Mewtwo EX,210,Psy,Mewtwo-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-161,161,Juliette,,,,,Ultra Rare,Megumi Mizutani,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-162,162,Combine de Giovanni,,,,,Ultra Rare,Ken Sugimori,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-163,163,Mewtwo EX,170,Psy,,De base,Magnifique rare,Mitsuhiro Arita,"normal, reverse, holo",Impulsion Turbo,XY,165
+xy8-164,164,Mewtwo EX,170,Psy,,De base,Magnifique rare,Mitsuhiro Arita,"normal, reverse, holo",Impulsion Turbo,XY,165

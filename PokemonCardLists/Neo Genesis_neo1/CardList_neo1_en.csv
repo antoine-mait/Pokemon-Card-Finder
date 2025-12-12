@@ -1,0 +1,112 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+neo1-1,1,Ampharos,80,Lightning,Flaaffy,Stage2,Rare,Ken Sugimori,"holo, 1st edition",Neo Genesis,Neo,111
+neo1-2,2,Azumarill,70,Water,Marill,Stage1,Rare,Ken Sugimori,"holo, 1st edition",Neo Genesis,Neo,111
+neo1-3,3,Bellossom,70,Grass,Gloom,Stage2,Rare,Atsuko Nishida,"holo, 1st edition",Neo Genesis,Neo,111
+neo1-4,4,Feraligatr,100,Water,Croconaw,Stage2,Rare,Ken Sugimori,"holo, 1st edition",Neo Genesis,Neo,111
+neo1-5,5,Feraligatr,120,Water,Croconaw,Stage2,Rare,Ken Sugimori,"holo, 1st edition",Neo Genesis,Neo,111
+neo1-6,6,Heracross,60,Grass,,Basic,Rare,Ken Sugimori,"holo, 1st edition",Neo Genesis,Neo,111
+neo1-7,7,Jumpluff,70,Grass,Skiploom,Stage2,Rare,Atsuko Nishida,"holo, 1st edition",Neo Genesis,Neo,111
+neo1-8,8,Kingdra,90,Water,Seadra,Stage2,Rare,Ken Sugimori,"holo, 1st edition",Neo Genesis,Neo,111
+neo1-9,9,Lugia,90,Colorless,,Basic,Rare,Hironobu Yoshida,"holo, 1st edition",Neo Genesis,Neo,111
+neo1-10,10,Meganium,100,Grass,Bayleef,Stage2,Rare,Ken Sugimori,"holo, 1st edition",Neo Genesis,Neo,111
+neo1-11,11,Meganium,100,Grass,Bayleef,Stage2,Rare,Ken Sugimori,"holo, 1st edition",Neo Genesis,Neo,111
+neo1-12,12,Pichu,30,Lightning,,Basic,Rare,Ken Sugimori,"holo, 1st edition",Neo Genesis,Neo,111
+neo1-13,13,Skarmory,60,Metal,,Basic,Rare,Ken Sugimori,"holo, 1st edition",Neo Genesis,Neo,111
+neo1-14,14,Slowking,80,Psychic,Slowpoke,Stage1,Rare,Ken Sugimori,"holo, 1st edition",Neo Genesis,Neo,111
+neo1-15,15,Steelix,110,Metal,Onix,Stage1,Rare,Ken Sugimori,"holo, 1st edition",Neo Genesis,Neo,111
+neo1-16,16,Togetic,60,Colorless,Togepi,Stage1,Rare,Ken Sugimori,"holo, 1st edition",Neo Genesis,Neo,111
+neo1-17,17,Typhlosion,100,Fire,Quilava,Stage2,Rare,Shin-ichi Yoshida,"holo, 1st edition",Neo Genesis,Neo,111
+neo1-18,18,Typhlosion,100,Fire,Quilava,Stage2,Rare,Ken Sugimori,"holo, 1st edition",Neo Genesis,Neo,111
+neo1-19,19,Metal Energy,,,,,Rare,Milky Isobe,"holo, 1st edition",Neo Genesis,Neo,111
+neo1-20,20,Cleffa,30,Colorless,,Basic,Rare,Kagemaru Himeno,"holo, 1st edition",Neo Genesis,Neo,111
+neo1-21,21,Donphan,70,Fighting,Phanpy,Stage1,Rare,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-22,22,Elekid,30,Lightning,,Basic,Rare,Miki Tanaka,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-23,23,Magby,30,Fire,,Basic,Rare,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-24,24,Murkrow,50,Darkness,,Basic,Rare,Shin-ichi Yoshida,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-25,25,Sneasel,60,Darkness,,Basic,Rare,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-26,26,Aipom,40,Colorless,,Basic,Uncommon,Hironobu Yoshida,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-27,27,Ariados,60,Grass,Spinarak,Stage1,Uncommon,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-28,28,Bayleef,70,Grass,Chikorita,Stage1,Uncommon,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-29,29,Bayleef,80,Grass,Chikorita,Stage1,Uncommon,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-30,30,Clefairy,50,Colorless,,Basic,Uncommon,Sumiyoshi Kizuki,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-31,31,Croconaw,70,Water,Totodile,Stage1,Uncommon,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-32,32,Croconaw,80,Water,Totodile,Stage1,Uncommon,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-33,33,Electabuzz,70,Lightning,,Basic,Uncommon,Shin-ichi Yoshida,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-34,34,Flaaffy,60,Lightning,Mareep,Stage1,Uncommon,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-35,35,Furret,60,Colorless,Sentret,Stage1,Uncommon,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-36,36,Gloom,60,Grass,Oddish,Stage1,Uncommon,Mitsuhiro Arita,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-37,37,Granbull,70,Colorless,Snubbull,Stage1,Uncommon,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-38,38,Lanturn,70,Lightning,,Stage1,Uncommon,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-39,39,Ledian,60,Grass,Ledyba,Stage1,Uncommon,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-40,40,Magmar,70,Fire,,Basic,Uncommon,Naoyo Kimura,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-41,41,Miltank,70,Colorless,,Basic,Uncommon,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-42,42,Noctowl,60,Colorless,Hoothoot,Stage1,Uncommon,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-43,43,Phanpy,40,Fighting,,Basic,Uncommon,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-44,44,Piloswine,80,Water,Swinub,Stage1,Uncommon,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-45,45,Quagsire,70,Water,Wooper,Stage1,Uncommon,Atsuko Nishida,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-46,46,Quilava,60,Fire,Cyndaquil,Stage1,Uncommon,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-47,47,Quilava,70,Fire,Cyndaquil,Stage1,Uncommon,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-48,48,Seadra,70,Water,Horsea,Stage1,Uncommon,Shin-ichi Yoshida,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-49,49,Skiploom,60,Grass,Hoppip,Stage1,Uncommon,Atsuko Nishida,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-50,50,Sunflora,70,Grass,Sunkern,Stage1,Uncommon,Kagemaru Himeno,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-51,51,Togepi,40,Colorless,,Basic,Uncommon,Naoyo Kimura,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-52,52,Xatu,80,Psychic,Natu,Stage1,Uncommon,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-53,53,Chikorita,40,Grass,,Basic,Common,Naoyo Kimura,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-54,54,Chikorita,50,Grass,,Basic,Common,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-55,55,Chinchou,50,Lightning,,Basic,Common,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-56,56,Cyndaquil,40,Fire,,Basic,Common,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-57,57,Cyndaquil,50,Fire,,Basic,Common,Shin-ichi Yoshida,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-58,58,Girafarig,60,Psychic,,Basic,Common,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-59,59,Gligar,60,Fighting,,Basic,Common,Hironobu Yoshida,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-60,60,Hoothoot,50,Colorless,,Basic,Common,Sumiyoshi Kizuki,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-61,61,Hoppip,50,Grass,,Basic,Common,Atsuko Nishida,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-62,62,Horsea,50,Water,,Basic,Common,Miki Tanaka,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-63,63,Ledyba,40,Grass,,Basic,Common,Sumiyoshi Kizuki,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-64,64,Mantine,60,Water,,Basic,Common,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-65,65,Mareep,40,Lightning,,Basic,Common,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-66,66,Marill,40,Water,,Basic,Common,Atsuko Nishida,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-67,67,Natu,30,Psychic,,Basic,Common,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-68,68,Oddish,40,Grass,,Basic,Common,Sumiyoshi Kizuki,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-69,69,Onix,60,Fighting,,Basic,Common,Mitsuhiro Arita,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-70,70,Pikachu,50,Lightning,,Basic,Common,Naoyo Kimura,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-71,71,Sentret,40,Colorless,,Basic,Common,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-72,72,Shuckle,50,Grass,,Basic,Common,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-73,73,Slowpoke,50,Psychic,,Basic,Common,Tomokazu Komiya,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-74,74,Snubbull,50,Colorless,,Basic,Common,Mitsuhiro Arita,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-75,75,Spinarak,40,Grass,,Basic,Common,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-76,76,Stantler,60,Colorless,,Basic,Common,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-77,77,Sudowoodo,60,Fighting,,Basic,Common,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-78,78,Sunkern,40,Grass,,Basic,Common,Kagemaru Himeno,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-79,79,Swinub,40,Water,,Basic,Common,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-80,80,Totodile,40,Water,,Basic,Common,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-81,81,Totodile,50,Water,,Basic,Common,Hironobu Yoshida,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-82,82,Wooper,50,Water,,Basic,Common,Miki Tanaka,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-83,83,Arcade Game,,,,,Rare,,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-84,84,Ecogym,,,,,Rare,,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-85,85,Energy Charge,,,,,Rare,Keiji Kinebuchi,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-86,86,Focus Band,,,,,Rare,Tomokazu Komiya,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-87,87,Mary,,,,,Rare,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-88,88,PokéGear,,,,,Rare,,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-89,89,Super Energy Retrieval,,,,,Rare,Keiji Kinebuchi,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-90,90,Time Capsule,,,,,Rare,,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-91,91,Bill's Teleporter,,,,,Uncommon,Keiji Kinebuchi,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-92,92,Card-Flip Game,,,,,Uncommon,,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-93,93,Gold Berry,,,,,Uncommon,,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-94,94,Miracle Berry,,,,,Uncommon,,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-95,95,New Pokédex,,,,,Uncommon,Keiji Kinebuchi,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-96,96,Professor Elm,,,,,Uncommon,Ken Sugimori,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-97,97,Sprout Tower,,,,,Uncommon,,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-98,98,Super Scoop Up,,,,,Uncommon,Keiji Kinebuchi,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-99,99,Berry,,,,,Common,,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-100,100,Double Gust,,,,,Common,Tomokazu Komiya,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-101,101,Moo-Moo Milk,,,,,Common,Tomokazu Komiya,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-102,102,Pokémon March,,,,,Common,Tomokazu Komiya,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-103,103,Super Rod,,,,,Common,Keiji Kinebuchi,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-104,104,Darkness Energy,,,,,Rare,Milky Isobe,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-105,105,Recycle Energy,,,,,Rare,Hideki Kazama,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-106,106,Fighting Energy,,,,Basic,Common,Keiji Kinebuchi,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-107,107,Fire Energy,,,,Basic,Common,Keiji Kinebuchi,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-108,108,Grass Energy,,,,Basic,Common,Keiji Kinebuchi,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-109,109,Lightning Energy,,,,Basic,Common,Keiji Kinebuchi,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-110,110,Psychic Energy,,,,Basic,Common,Keiji Kinebuchi,"normal, 1st edition",Neo Genesis,Neo,111
+neo1-111,111,Water Energy,,,,Basic,Common,Keiji Kinebuchi,"normal, 1st edition",Neo Genesis,Neo,111

@@ -1,0 +1,184 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+swsh5-1,1,Knofensa,50,Pflanze,,Basis,Häufig,Sekio,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-2,2,Ultrigaria,80,Pflanze,Knofensa,Rang 1,Ungewöhnlich,Shibuzoh.,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-3,3,Sarzenia,150,Pflanze,Ultrigaria,Rang 2,Selten,Tika Matsuno,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-4,4,Tuska,70,Pflanze,,Basis,Häufig,Kazuma Koda,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-5,5,Noktuska,120,Pflanze,Tuska,Rang 1,Ungewöhnlich,Tomokazu Komiya,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-6,6,Zirpeise V,180,Pflanze,,Basis,Holografisch Selten V,Satoshi Shirai,holo,Kampfstile,Schwert & Schild,183
+swsh5-7,7,Kikugi,50,Pflanze,,Basis,Häufig,Akira Komayama,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-8,8,Kinoso,80,Pflanze,Kikugi,Rang 1,Holografisch Selten,Mina Nakai,"reverse, holo",Kampfstile,Schwert & Schild,183
+swsh5-9,9,Venuflibis,110,Pflanze,,Basis,Ungewöhnlich,AKIRA EGAWA,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-10,10,Fermicula,90,Pflanze,,Basis,Ungewöhnlich,kodama,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-11,11,Purmel,40,Pflanze,,Basis,Häufig,Midori Harada,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-12,12,Puponcho,80,Pflanze,Purmel,Rang 1,Ungewöhnlich,Sumiyoshi Kizuki,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-13,13,Vivillon,120,Pflanze,Puponcho,Rang 2,Selten,miki kudo,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-14,14,Imantis,60,Pflanze,,Basis,Häufig,Yukiko Baba,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-15,15,Mantidea,120,Pflanze,Imantis,Rang 1,Selten,Anesaki Dynamic,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-16,16,Kapu-Toro,130,Pflanze,,Basis,Holografisch Selten,Ryota Murayama,"reverse, holo",Kampfstile,Schwert & Schild,183
+swsh5-17,17,Sensect,50,Pflanze,,Basis,Häufig,Masakazu Fukuda,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-18,18,Drapfel V,190,Pflanze,,Basis,Holografisch Selten V,PLANETA Mochizuki,holo,Kampfstile,Schwert & Schild,183
+swsh5-19,19,Drapfel VMAX,320,Pflanze,Drapfel-V,VMAX,Holografisch Selten VMAX,PLANETA Tsuji,holo,Kampfstile,Schwert & Schild,183
+swsh5-20,20,Entei,130,Feuer,,Basis,Holografisch Selten,kodama,"reverse, holo",Kampfstile,Schwert & Schild,183
+swsh5-21,21,Victini V,190,Feuer,,Basis,Holografisch Selten V,Kagemaru Himeno,holo,Kampfstile,Schwert & Schild,183
+swsh5-22,22,Victini VMAX,310,Feuer,Victini-V,VMAX,Holografisch Selten VMAX,PLANETA Mochizuki,holo,Kampfstile,Schwert & Schild,183
+swsh5-23,23,Floink,80,Feuer,,Basis,Häufig,You Iribi,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-24,24,Ferkokel,100,Feuer,Floink,Rang 1,Ungewöhnlich,tetsuya koizumi,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-25,25,Flambirex,180,Feuer,Ferkokel,Rang 2,Holografisch Selten,Anesaki Dynamic,"reverse, holo",Kampfstile,Schwert & Schild,183
+swsh5-26,26,Furnifraß,120,Feuer,,Basis,Ungewöhnlich,Miki Tanaka,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-27,27,Molunk,70,Feuer,,Basis,Häufig,Yuka Morii,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-28,28,Amfira,90,Feuer,Molunk,Rang 1,Selten,Shibuzoh.,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-29,29,Thermopod,70,Feuer,,Basis,Häufig,Yuka Morii,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-30,30,Infernopod,130,Feuer,Thermopod,Rang 1,Selten,Souichirou Gunjima,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-31,31,Seeper,60,Wasser,,Basis,Häufig,Anesaki Dynamic,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-32,32,Seemon,90,Wasser,Seeper,Rang 1,Ungewöhnlich,0313,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-33,33,Seedraking,150,Wasser,Seemon,Rang 2,Holografisch Selten,kawayoo,"reverse, holo",Kampfstile,Schwert & Schild,183
+swsh5-34,34,Galar-Pantimos,80,Wasser,,Basis,Häufig,kodama,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-35,35,Galar-Pantifrost,110,Wasser,Galar-Pantimos,Rang 1,Selten,HYOGONOSUKE,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-36,36,Remoraid,60,Wasser,,Basis,Häufig,HYOGONOSUKE,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-37,37,Octillery,110,Wasser,Remoraid,Rang 1,Holografisch Selten,Souichirou Gunjima,"reverse, holo",Kampfstile,Schwert & Schild,183
+swsh5-38,38,Krebscorps,70,Wasser,,Basis,Häufig,chibi,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-39,39,Krebutack,130,Wasser,Krebscorps,Rang 1,Ungewöhnlich,Hasegawa Saki,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-40,40,Impoleon V,210,Wasser,,Basis,Holografisch Selten V,Ayaka Yoshida,holo,Kampfstile,Schwert & Schild,183
+swsh5-41,41,Quabbel,80,Wasser,,Basis,Häufig,miki kudo,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-42,42,Apoquallyp,120,Wasser,Quabbel,Rang 1,Selten,Tomokazu Komiya,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-43,43,Knirfish,110,Wasser,,Basis,Ungewöhnlich,Misa Tsutsui,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-44,44,Elektek,80,Elektro,,Basis,Häufig,Hasuno,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-45,45,Elevoltek,140,Elektro,Elektek,Rang 1,Selten,Megumi Higuchi,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-46,46,Sheinux,60,Elektro,,Basis,Häufig,sowsow,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-47,47,Luxio,80,Elektro,Sheinux,Rang 1,Ungewöhnlich,Megumi Higuchi,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-48,48,Luxtra,150,Elektro,Luxio,Rang 2,Holografisch Selten,Kazuma Koda,"reverse, holo",Kampfstile,Schwert & Schild,183
+swsh5-49,49,Pachirisu,70,Elektro,,Basis,Häufig,Naoyo Kimura,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-50,50,Kapu-Riki V,210,Elektro,,Basis,Holografisch Selten V,AKIRA EGAWA,holo,Kampfstile,Schwert & Schild,183
+swsh5-51,51,Kapu-Riki VMAX,320,Elektro,Kapu-Riki-V,VMAX,Holografisch Selten VMAX,PLANETA Tsuji,holo,Kampfstile,Schwert & Schild,183
+swsh5-52,52,Voldi,60,Elektro,,Basis,Häufig,sui,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-53,53,Bellektro,130,Elektro,Voldi,Rang 1,Selten,chibi,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-54,54,Galar-Flegmon,70,Psycho,,Basis,Häufig,Ryota Murayama,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-55,55,Spoink,60,Psycho,,Basis,Häufig,kawayoo,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-56,56,Groink,130,Psycho,Spoink,Rang 1,Ungewöhnlich,Tomokazu Komiya,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-57,57,Puppance,60,Psycho,,Basis,Häufig,sui,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-58,58,Lepumentas,120,Psycho,Puppance,Rang 1,Selten,Shibuzoh.,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-59,59,Palimpalim,70,Psycho,,Basis,Häufig,Shibuzoh.,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-60,60,Psiau,60,Psycho,,Basis,Häufig,Saya Tsuruta,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-61,61,Psiaugon,90,Psycho,Psiau,Rang 1,Holografisch Selten,Yuu Nishida,"reverse, holo",Kampfstile,Schwert & Schild,183
+swsh5-62,62,Mimigma V,160,Psycho,,Basis,Holografisch Selten V,Eske Yoshinob,holo,Kampfstile,Schwert & Schild,183
+swsh5-63,63,Necrozma V,220,Psycho,,Basis,Holografisch Selten V,PLANETA Tsuji,holo,Kampfstile,Schwert & Schild,183
+swsh5-64,64,Keradar,70,Psycho,Sensect,Rang 1,Ungewöhnlich,Midori Harada,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-65,65,Maritellit,110,Psycho,Keradar,Rang 2,Holografisch Selten,Mizue,"reverse, holo",Kampfstile,Schwert & Schild,183
+swsh5-66,66,Menki,60,Kampf,,Basis,Häufig,Ryuta Fuse,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-67,67,Rasaff,120,Kampf,Menki,Rang 1,Selten,Kouki Saitou,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-68,68,Onix,110,Kampf,,Basis,Häufig,Naoyo Kimura,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-69,69,Tragosso,70,Kampf,,Basis,Häufig,You Iribi,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-70,70,Knogga,110,Kampf,Tragosso,Rang 1,Selten,Narumi Sato,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-71,71,Skorgla,70,Kampf,,Basis,Häufig,Naoyo Kimura,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-72,72,Skorgro,120,Kampf,Skorgla,Rang 1,Ungewöhnlich,ryoma uratsuka,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-73,73,Praktibalk,80,Kampf,,Basis,Häufig,Mina Nakai,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-74,74,Strepoli,100,Kampf,Praktibalk,Rang 1,Ungewöhnlich,Uta,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-75,75,Meistagrif,160,Kampf,Strepoli,Rang 2,Selten,Miki Tanaka,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-76,76,Lin-Fu,60,Kampf,,Basis,Häufig,NC Empire,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-77,77,Wie-Shu,90,Kampf,Lin-Fu,Rang 1,Selten,Taira Akitsu,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-78,78,Klonkett,70,Kampf,,Basis,Häufig,SATOSHI NAKAI,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-79,79,Wagong,100,Kampf,Klonkett,Rang 1,Ungewöhnlich,Uta,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-80,80,Montecarbo,180,Kampf,Wagong,Rang 2,Holografisch Selten,AKIRA EGAWA,"reverse, holo",Kampfstile,Schwert & Schild,183
+swsh5-81,81,Salanga,80,Kampf,,Basis,Häufig,Atsuko Nishida,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-82,82,Sanaconda,130,Kampf,Salanga,Rang 1,Holografisch Selten,hatachu,"reverse, holo",Kampfstile,Schwert & Schild,183
+swsh5-83,83,Legios,110,Kampf,,Basis,Selten,Hasuno,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-84,84,Humanolith,130,Kampf,,Basis,Selten,Masakazu Fukuda,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-85,85,Fokussierter-Angriff-Wulaosu V,220,Kampf,,Basis,Holografisch Selten V,PLANETA Mochizuki,holo,Kampfstile,Schwert & Schild,183
+swsh5-86,86,Fokussierter-Angriff-Wulaosu VMAX,330,Kampf,Fokussierter-Angriff-Wulaosu-V,VMAX,Holografisch Selten VMAX,PLANETA Tsuji,holo,Kampfstile,Schwert & Schild,183
+swsh5-87,87,Fließender-Angriff-Wulaosu V,220,Kampf,,Basis,Holografisch Selten V,PLANETA Mochizuki,holo,Kampfstile,Schwert & Schild,183
+swsh5-88,88,Fließender-Angriff-Wulaosu VMAX,330,Kampf,Fließender-Angriff-Wulaosu-V,VMAX,Holografisch Selten VMAX,PLANETA Tsuji,holo,Kampfstile,Schwert & Schild,183
+swsh5-89,89,Zubat,50,Unlicht,,Basis,Häufig,Asako Ito,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-90,90,Golbat,80,Unlicht,Zubat,Rang 1,Ungewöhnlich,sui,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-91,91,Iksbat,130,Unlicht,Golbat,Rang 2,Holografisch Selten,SATOSHI NAKAI,"reverse, holo",Kampfstile,Schwert & Schild,183
+swsh5-92,92,Galar-Lahmus,130,Unlicht,Galar-Flegmon,Rang 1,Selten,Mitsuhiro Arita,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-93,93,Kramurx,70,Unlicht,,Basis,Häufig,Aya Kusube,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-94,94,Kramshef,130,Unlicht,Kramurx,Rang 1,Ungewöhnlich,Miki Tanaka,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-95,95,Hunduster,60,Unlicht,,Basis,Häufig,Sanosuke Sakuma,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-96,96,Hundemon,130,Unlicht,Hunduster,Rang 1,Holografisch Selten,Ryota Murayama,"reverse, holo",Kampfstile,Schwert & Schild,183
+swsh5-97,97,Despotar V,230,Unlicht,,Basis,Holografisch Selten V,Ayaka Yoshida,holo,Kampfstile,Schwert & Schild,183
+swsh5-98,98,Morpeko,80,Unlicht,,Basis,Ungewöhnlich,NC Empire,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-99,99,Stahlos,190,Metall,Onix,Rang 1,Holografisch Selten,NC Empire,"reverse, holo",Kampfstile,Schwert & Schild,183
+swsh5-100,100,Flunkifer,90,Metall,,Basis,Häufig,kawayoo,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-101,101,Bronzel,60,Metall,,Basis,Häufig,Mizue,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-102,102,Bronzong,110,Metall,Bronzel,Rang 1,Holografisch Selten,Hasuno,"reverse, holo",Kampfstile,Schwert & Schild,183
+swsh5-103,103,Gladiantri,60,Metall,,Basis,Häufig,otumami,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-104,104,Caesurio,110,Metall,Gladiantri,Rang 1,Ungewöhnlich,tetsuya koizumi,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-105,105,Gramokles,60,Metall,,Basis,Häufig,sowsow,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-106,106,Duokles,80,Metall,Gramokles,Rang 1,Ungewöhnlich,Miki Tanaka,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-107,107,Durengard,150,Metall,Duokles,Rang 2,Holografisch Selten,miki kudo,"reverse, holo",Kampfstile,Schwert & Schild,183
+swsh5-108,108,Durengard,150,Metall,Duokles,Rang 2,Selten,Naoyo Kimura,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-109,109,Krarmor V,210,Metall,,Basis,Holografisch Selten V,PLANETA Mochizuki,holo,Kampfstile,Schwert & Schild,183
+swsh5-110,110,Krarmor VMAX,320,Metall,Krarmor-V,VMAX,Holografisch Selten VMAX,PLANETA Mochizuki,holo,Kampfstile,Schwert & Schild,183
+swsh5-111,111,Habitak,50,Farblos,,Basis,Häufig,Sekio,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-112,112,Ibitak,90,Farblos,Habitak,Rang 1,Ungewöhnlich,Yukiko Baba,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-113,113,Schlurp,110,Farblos,,Basis,Häufig,HYOGONOSUKE,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-114,114,Schlurplek,140,Farblos,Schlurp,Rang 1,Selten,Mina Nakai,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-115,115,Charmian,60,Farblos,,Basis,Häufig,Shigenori Negishi,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-116,116,Shnurgarst,120,Farblos,Charmian,Rang 1,Ungewöhnlich,Akira Komayama,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-117,117,Bissbark V,210,Farblos,,Basis,Holografisch Selten V,Eske Yoshinob,holo,Kampfstile,Schwert & Schild,183
+swsh5-118,118,Bisofank,120,Farblos,,Basis,Ungewöhnlich,nagimiso,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-119,119,Sen-Long,120,Farblos,,Basis,Selten,Eri Yamaki,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-120,120,Servol,90,Farblos,,Basis,Ungewöhnlich,Saya Tsuruta,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-121,121,Bruno,,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-122,122,Camping-Set,,,,,Ungewöhnlich,sadaji,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-123,123,Raissa,,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-124,124,Energieaufbereitung,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-125,125,Fluchtseil,,,,,Ungewöhnlich,sadaji,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-126,126,EP-Teiler,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-127,127,Wellenfächer,,,,,Ungewöhnlich,sadaji,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-128,128,Connies Fokus,,,,,Ungewöhnlich,kirisAki,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-129,129,Levelball,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-130,130,Antonia,,,,,Ungewöhnlich,GAME FREAK inc.,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-131,131,Fließender-Angriff-Wirbelrolle,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-132,132,Fließender-Stil-Mastrich,,,,,Ungewöhnlich,Naoki Saito,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-133,133,Fokussierter-Angriff-Spottrolle,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-134,134,Fokussierter-Stil-Mastrich,,,,,Ungewöhnlich,Mitsuhiro Arita,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-135,135,Schwerthold & Schildrich,,,,,Ungewöhnlich,Hideki Ishikawa,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-136,136,Ausrüstungsstörer,,,,,Ungewöhnlich,inose yukie,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-137,137,Turm des Unlichts,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-138,138,Turm des Wassers,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-139,139,Urne der Vitalität,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-140,140,Fließender-Angriff-Energie,,,,,Ungewöhnlich,,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-141,141,Fokussierter-Angriff-Energie,,,,,Ungewöhnlich,,"normal, reverse",Kampfstile,Schwert & Schild,183
+swsh5-142,142,Zirpeise V,180,Pflanze,,Basis,Ultra Selten,Satoshi Shirai,holo,Kampfstile,Schwert & Schild,183
+swsh5-143,143,Drapfel V,190,Pflanze,,Basis,Ultra Selten,PLANETA Mochizuki,holo,Kampfstile,Schwert & Schild,183
+swsh5-144,144,Victini V,190,Feuer,,Basis,Ultra Selten,Saki Hayashiro,holo,Kampfstile,Schwert & Schild,183
+swsh5-145,145,Impoleon V,210,Wasser,,Basis,Ultra Selten,Ayaka Yoshida,holo,Kampfstile,Schwert & Schild,183
+swsh5-146,146,Impoleon V,210,Wasser,,Basis,Ultra Selten,chibi,holo,Kampfstile,Schwert & Schild,183
+swsh5-147,147,Kapu-Riki V,210,Elektro,,Basis,Ultra Selten,Eske Yoshinob,holo,Kampfstile,Schwert & Schild,183
+swsh5-148,148,Mimigma V,160,Psycho,,Basis,Ultra Selten,Eske Yoshinob,holo,Kampfstile,Schwert & Schild,183
+swsh5-149,149,Necrozma V,220,Psycho,,Basis,Ultra Selten,PLANETA Tsuji,holo,Kampfstile,Schwert & Schild,183
+swsh5-150,150,Fokussierter-Angriff-Wulaosu V,220,Kampf,,Basis,Ultra Selten,PLANETA Mochizuki,holo,Kampfstile,Schwert & Schild,183
+swsh5-151,151,Fokussierter-Angriff-Wulaosu V,220,Kampf,,Basis,Ultra Selten,kawayoo,holo,Kampfstile,Schwert & Schild,183
+swsh5-152,152,Fließender-Angriff-Wulaosu V,220,Kampf,,Basis,Ultra Selten,PLANETA Mochizuki,holo,Kampfstile,Schwert & Schild,183
+swsh5-153,153,Fließender-Angriff-Wulaosu V,220,Kampf,,Basis,Ultra Selten,Ryota Murayama,holo,Kampfstile,Schwert & Schild,183
+swsh5-154,154,Despotar V,230,Unlicht,,Basis,Ultra Selten,Ayaka Yoshida,holo,Kampfstile,Schwert & Schild,183
+swsh5-155,155,Despotar V,230,Unlicht,,Basis,Ultra Selten,HYOGONOSUKE,holo,Kampfstile,Schwert & Schild,183
+swsh5-156,156,Krarmor V,210,Metall,,Basis,Ultra Selten,PLANETA Mochizuki,holo,Kampfstile,Schwert & Schild,183
+swsh5-157,157,Bissbark V,210,Farblos,,Basis,Ultra Selten,Eske Yoshinob,holo,Kampfstile,Schwert & Schild,183
+swsh5-158,158,Bruno,,,,,Ultra Selten,Ryuta Fuse,holo,Kampfstile,Schwert & Schild,183
+swsh5-159,159,Raissa,,,,,Ultra Selten,Yuu Nishida,holo,Kampfstile,Schwert & Schild,183
+swsh5-160,160,Connies Fokus,,,,,Ultra Selten,Taira Akitsu,holo,Kampfstile,Schwert & Schild,183
+swsh5-161,161,Antonia,,,,,Ultra Selten,Kagemaru Himeno,holo,Kampfstile,Schwert & Schild,183
+swsh5-162,162,Fließender-Stil-Mastrich,,,,,Ultra Selten,Naoki Saito,holo,Kampfstile,Schwert & Schild,183
+swsh5-163,163,Fokussierter-Stil-Mastrich,,,,,Ultra Selten,Mitsuhiro Arita,holo,Kampfstile,Schwert & Schild,183
+swsh5-164,164,Drapfel VMAX,320,Pflanze,Drapfel-V,VMAX,Versteckt Selten,PLANETA Tsuji,holo,Kampfstile,Schwert & Schild,183
+swsh5-165,165,Victini VMAX,310,Feuer,Victini-V,VMAX,Versteckt Selten,PLANETA Mochizuki,holo,Kampfstile,Schwert & Schild,183
+swsh5-166,166,Kapu-Riki VMAX,320,Elektro,Kapu-Riki-V,VMAX,Versteckt Selten,PLANETA Tsuji,holo,Kampfstile,Schwert & Schild,183
+swsh5-167,167,Fokussierter-Angriff-Wulaosu VMAX,330,Kampf,Fokussierter-Angriff-Wulaosu-V,VMAX,Versteckt Selten,PLANETA Tsuji,holo,Kampfstile,Schwert & Schild,183
+swsh5-168,168,Fokussierter-Angriff-Wulaosu VMAX,330,Kampf,Fokussierter-Angriff-Wulaosu-V,VMAX,Versteckt Selten,Kinu Nishimura,holo,Kampfstile,Schwert & Schild,183
+swsh5-169,169,Fließender-Angriff-Wulaosu VMAX,330,Kampf,Fließender-Angriff-Wulaosu-V,VMAX,Versteckt Selten,PLANETA Tsuji,holo,Kampfstile,Schwert & Schild,183
+swsh5-170,170,Fließender-Angriff-Wulaosu VMAX,330,Kampf,Fließender-Angriff-Wulaosu-V,VMAX,Versteckt Selten,KIYOTAKA OSHIYAMA,holo,Kampfstile,Schwert & Schild,183
+swsh5-171,171,Krarmor VMAX,320,Metall,Krarmor-V,VMAX,Versteckt Selten,PLANETA Mochizuki,holo,Kampfstile,Schwert & Schild,183
+swsh5-172,172,Bruno,,,,,Versteckt Selten,Ryuta Fuse,holo,Kampfstile,Schwert & Schild,183
+swsh5-173,173,Raissa,,,,,Versteckt Selten,Yuu Nishida,holo,Kampfstile,Schwert & Schild,183
+swsh5-174,174,Connies Fokus,,,,,Versteckt Selten,Taira Akitsu,holo,Kampfstile,Schwert & Schild,183
+swsh5-175,175,Antonia,,,,,Versteckt Selten,Kagemaru Himeno,holo,Kampfstile,Schwert & Schild,183
+swsh5-176,176,Fließender-Stil-Mastrich,,,,,Versteckt Selten,Naoki Saito,holo,Kampfstile,Schwert & Schild,183
+swsh5-177,177,Fokussierter-Stil-Mastrich,,,,,Versteckt Selten,Mitsuhiro Arita,holo,Kampfstile,Schwert & Schild,183
+swsh5-178,178,Octillery,110,Wasser,Remoraid,Rang 1,Versteckt Selten,PLANETA Mochizuki,holo,Kampfstile,Schwert & Schild,183
+swsh5-179,179,Hundemon,130,Unlicht,Hunduster,Rang 1,Versteckt Selten,PLANETA Mochizuki,holo,Kampfstile,Schwert & Schild,183
+swsh5-180,180,EP-Teiler,,,,,Versteckt Selten,Toyste Beach,holo,Kampfstile,Schwert & Schild,183
+swsh5-181,181,Levelball,,,,,Versteckt Selten,Ryo Ueda,holo,Kampfstile,Schwert & Schild,183
+swsh5-182,182,Fließender-Angriff-Energie,,,,,Versteckt Selten,,holo,Kampfstile,Schwert & Schild,183
+swsh5-183,183,Fokussierter-Angriff-Energie,,,,,Versteckt Selten,,holo,Kampfstile,Schwert & Schild,183

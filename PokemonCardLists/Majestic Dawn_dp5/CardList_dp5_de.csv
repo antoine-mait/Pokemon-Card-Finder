@@ -1,0 +1,101 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+dp5-1,1,Arktos,100,Wasser,,Basis,"Selten, Holografisch",Masakazu Fukuda,"reverse, holo",Majestätischer Morgen,Diamant & Perl,100
+dp5-2,2,Cresselia,70,Psycho,,Basis,"Selten, Holografisch",Mitsuhiro Arita,"reverse, holo",Majestätischer Morgen,Diamant & Perl,100
+dp5-3,3,Darkrai,80,Unlicht,,Basis,"Selten, Holografisch",Mitsuhiro Arita,"reverse, holo",Majestätischer Morgen,Diamant & Perl,100
+dp5-4,4,Dialga,100,Metall,,Basis,"Selten, Holografisch",Masakazu Fukuda,"reverse, holo",Majestätischer Morgen,Diamant & Perl,100
+dp5-5,5,Glaziola,80,Wasser,,Rang 1,"Selten, Holografisch",Atsuko Nishida,"reverse, holo",Majestätischer Morgen,Diamant & Perl,100
+dp5-6,6,Kabutops,120,Kampf,,Rang 2,"Selten, Holografisch",Kouki Saitou,"reverse, holo",Majestätischer Morgen,Diamant & Perl,100
+dp5-7,7,Folipurba,90,Pflanze,,Rang 1,"Selten, Holografisch",Kouki Saitou,"reverse, holo",Majestätischer Morgen,Diamant & Perl,100
+dp5-8,8,Manaphy,70,Wasser,,Basis,"Selten, Holografisch",Suwama Chiaki,"reverse, holo",Majestätischer Morgen,Diamant & Perl,100
+dp5-9,9,Mewtu,90,Psycho,,Basis,"Selten, Holografisch",Kent Kanetsuna,"normal, reverse, holo",Majestätischer Morgen,Diamant & Perl,100
+dp5-10,10,Lavados,100,Feuer,,Basis,"Selten, Holografisch",Kagemaru Himeno,"reverse, holo",Majestätischer Morgen,Diamant & Perl,100
+dp5-11,11,Palkia,100,Wasser,,Basis,"Selten, Holografisch",Masakazu Fukuda,"reverse, holo",Majestätischer Morgen,Diamant & Perl,100
+dp5-12,12,Phione,60,Wasser,,Basis,"Selten, Holografisch",Daisuke Ito,"reverse, holo",Majestätischer Morgen,Diamant & Perl,100
+dp5-13,13,Rotom,60,Elektro,,Basis,"Selten, Holografisch",Kagemaru Himeno,"reverse, holo",Majestätischer Morgen,Diamant & Perl,100
+dp5-14,14,Zapdos,100,Elektro,,Basis,"Selten, Holografisch",Mitsuhiro Arita,"reverse, holo",Majestätischer Morgen,Diamant & Perl,100
+dp5-15,15,Aerodactyl,80,Farblos,,Rang 1,Selten,Kouki Saitou,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-16,16,Bronzong,90,Psycho,,Rang 1,Selten,Kouki Saitou,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-17,17,Impoleon,130,Wasser,,Rang 2,Selten,Kent Kanetsuna,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-18,18,Psiana,80,Psycho,,Rang 1,Selten,Naoyo Kimura,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-19,19,Flamara,90,Feuer,,Rang 1,Selten,Mitsuhiro Arita,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-20,20,Glaziola,90,Wasser,,Rang 1,Selten,Masakazu Fukuda,"normal, reverse, holo",Majestätischer Morgen,Diamant & Perl,100
+dp5-21,21,Hippoterus,100,Kampf,,Rang 1,Selten,Kent Kanetsuna,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-22,22,Panferno,110,Feuer,,Rang 2,Selten,Daisuke Ito,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-23,23,Blitza,80,Elektro,,Rang 1,Selten,Midori Harada,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-24,24,Folipurba,90,Pflanze,,Rang 1,Selten,Masakazu Fukuda,"normal, reverse, holo",Majestätischer Morgen,Diamant & Perl,100
+dp5-25,25,Minun,60,Elektro,,Basis,Selten,Suwama Chiaki,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-26,26,Amoroso,110,Wasser,,Rang 2,Selten,Masakazu Fukuda,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-27,27,Phione,70,Wasser,,Basis,Selten,Ken Sugimori,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-28,28,Plusle,60,Elektro,,Basis,Selten,Suwama Chiaki,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-29,29,Scherox,90,Metall,,Rang 1,Selten,Daisuke Ito,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-30,30,Chelterrar,140,Pflanze,,Rang 2,Selten,Daisuke Ito,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-31,31,Toxiquak,90,Psycho,,Rang 1,Selten,Kent Kanetsuna,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-32,32,Nachtara,80,Unlicht,,Rang 1,Selten,Masakazu Fukuda,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-33,33,Icognito P,50,Psycho,,Basis,Selten,Kent Kanetsuna,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-34,34,Aquana,90,Wasser,,Rang 1,Selten,Kagemaru Himeno,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-35,35,Ambidiffel,80,Farblos,,Rang 1,Ungewöhnlich,Ken Sugimori,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-36,36,Ibitak,80,Farblos,,Rang 1,Ungewöhnlich,Ken Sugimori,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-37,37,Chelcarain,90,Pflanze,,Rang 1,Ungewöhnlich,Daisuke Ito,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-38,38,Kangama,90,Farblos,,Basis,Ungewöhnlich,Atsuko Nishida,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-39,39,Schlurp,70,Farblos,,Basis,Ungewöhnlich,Kagemaru Himeno,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-40,40,Voltenso,80,Elektro,,Rang 1,Ungewöhnlich,Daisuke Ito,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-41,41,Panpyro,70,Feuer,,Rang 1,Ungewöhnlich,Daisuke Ito,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-42,42,Moterpel,80,Pflanze,,Rang 1,Ungewöhnlich,Masakazu Fukuda,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-43,43,Pachirisu,70,Elektro,,Basis,Ungewöhnlich,Tomokazu Komiya,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-44,44,Pliprin,80,Wasser,,Rang 1,Ungewöhnlich,Kent Kanetsuna,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-45,45,Raichu,90,Elektro,,Rang 1,Ungewöhnlich,Daisuke Ito,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-46,46,Sichlor,70,Pflanze,,Basis,Ungewöhnlich,Ken Sugimori,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-47,47,Staravia,80,Farblos,,Rang 1,Ungewöhnlich,Kent Kanetsuna,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-48,48,Mogelbaum,80,Kampf,,Basis,Ungewöhnlich,Kouki Saitou,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-49,49,Icognito Q,30,Psycho,,Basis,Ungewöhnlich,Kent Kanetsuna,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-50,50,Griffel,60,Farblos,,Basis,Häufig,Tomokazu Komiya,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-51,51,Griffel,60,Farblos,,Basis,Häufig,Kouki Saitou,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-52,52,Bronzel,50,Psycho,,Basis,Häufig,Daisuke Ito,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-53,53,Haspiror,50,Farblos,,Basis,Häufig,Kouki Saitou,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-54,54,Burmy Sandumhang,50,Pflanze,,Basis,Häufig,Ken Sugimori,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-55,55,Plaudagei,60,Farblos,,Basis,Häufig,Kagemaru Himeno,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-56,56,Panflam,40,Feuer,,Basis,Häufig,Daisuke Ito,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-57,57,Panflam,50,Feuer,,Basis,Häufig,Naoyo Kimura,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-58,58,Klingplim,40,Psycho,,Basis,Häufig,Ken Sugimori,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-59,59,Wadribie,50,Pflanze,,Basis,Häufig,Midori Harada,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-60,60,Glibunkel,60,Psycho,,Basis,Häufig,Kent Kanetsuna,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-61,61,Driftlon,60,Psycho,,Basis,Häufig,Masakazu Fukuda,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-62,62,Evoli,60,Farblos,,Basis,Häufig,Ken Sugimori,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-63,63,Evoli,60,Farblos,,Basis,Häufig,Kagemaru Himeno,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-64,64,Frizelbliz,60,Elektro,,Basis,Häufig,Daisuke Ito,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-65,65,Charmian,60,Farblos,,Basis,Häufig,Masakazu Fukuda,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-66,66,Hippopotas,60,Kampf,,Basis,Häufig,Kent Kanetsuna,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-67,67,Kabuto,80,Kampf,,Rang 1,Häufig,Midori Harada,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-68,68,Mampfaxo,60,Farblos,,Basis,Häufig,Masakazu Fukuda,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-69,69,Amonitas,70,Wasser,,Rang 1,Häufig,Suwama Chiaki,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-70,70,Pikachu,60,Elektro,,Basis,Häufig,Daisuke Ito,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-71,71,Plinfa,60,Wasser,,Basis,Häufig,Kent Kanetsuna,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-72,72,Plinfa,50,Wasser,,Basis,Häufig,Naoyo Kimura,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-73,73,Schalellos Östliches Meer,60,Wasser,,Basis,Häufig,Midori Harada,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-74,74,Habitak,50,Farblos,,Basis,Häufig,Ken Sugimori,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-75,75,Staralili,50,Farblos,,Basis,Häufig,Kent Kanetsuna,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-76,76,Skunkapuh,60,Unlicht,,Basis,Häufig,Kouki Saitou,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-77,77,Chelast,60,Pflanze,,Basis,Häufig,Daisuke Ito,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-78,78,Chelast,60,Pflanze,,Basis,Häufig,Naoyo Kimura,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-79,79,Morgen-Stadion,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-80,80,Finsterball,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-81,81,Energiewiederherstellung,,,,,Ungewöhnlich,Hideyuki Nakajima,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-82,82,Fossilienbagger,,,,,Ungewöhnlich,Kanako Eo,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-83,83,Mutters Fürsorge,,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-84,84,Altbernstein,50,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-85,85,Pokéball,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-86,86,Flottball,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-87,87,Super-Anziehungskraft,,,,,Ungewöhnlich,Shizurow,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-88,88,Wurmloch,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse, holo",Majestätischer Morgen,Diamant & Perl,100
+dp5-89,89,Domfossil,50,,,,Häufig,Ryo Ueda,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-90,90,Energiesuche,,,,,Häufig,Ryo Ueda,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-91,91,Helixfossil,50,,,,Häufig,Ryo Ueda,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-92,92,Ruf-Energie,,,,,Ungewöhnlich,Takumi Akabane,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-93,93,Finsternis-Energie,,,,,Ungewöhnlich,Takumi Akabane,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-94,94,Heil-Energie,,,,,Ungewöhnlich,Takumi Akabane,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-95,95,Metall-Energie,,,,,Ungewöhnlich,Takumi Akabane,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-96,96,Erhol-Energie,,,,,Ungewöhnlich,Takumi Akabane,"normal, reverse",Majestätischer Morgen,Diamant & Perl,100
+dp5-97,97,Knakrack,140,Farblos,,Level Up,"Selten, Holografisch LV.X",Ryo Ueda,holo,Majestätischer Morgen,Diamant & Perl,100
+dp5-98,98,Glaziola,100,Wasser,,Level Up,"Selten, Holografisch LV.X",Ryo Ueda,holo,Majestätischer Morgen,Diamant & Perl,100
+dp5-99,99,Folipurba,110,Pflanze,,Level Up,"Selten, Holografisch LV.X",Ryo Ueda,holo,Majestätischer Morgen,Diamant & Perl,100
+dp5-100,100,Porygon-Z,130,Farblos,,Level Up,"Selten, Holografisch LV.X",Ryo Ueda,holo,Majestätischer Morgen,Diamant & Perl,100

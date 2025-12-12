@@ -1,0 +1,166 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+ecard1-1,1,Alakazam,100,Psychic,Kadabra,Stage2,Rare,Hajime Kusajima,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-2,2,Ampharos,100,Lightning,Flaaffy,Stage2,Rare,Atsuko Nishida,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-3,3,Arbok,70,Grass,Ekans,Stage1,Rare,Kyoko Umemoto,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-4,4,Blastoise,100,Water,Wartortle,Stage2,Rare,Kimiya Masago,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-5,5,Butterfree,80,Grass,Metapod,Stage2,Rare,Sumiyoshi Kizuki,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-6,6,Charizard,120,Fire,Charmeleon,Stage2,Rare,Hiromichi Sugiyama,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-7,7,Clefable,70,Colorless,Clefairy,Stage1,Rare,Kagemaru Himeno,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-8,8,Cloyster,80,Water,Shellder,Stage1,Rare,Kyoko Umemoto,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-9,9,Dragonite,100,Colorless,Dragonair,Stage2,Rare,Kagemaru Himeno,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-10,10,Dugtrio,70,Fighting,Diglett,Stage1,Rare,Masako Yamashita,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-11,11,Fearow,70,Colorless,Spearow,Stage1,Rare,Kyoko Umemoto,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-12,12,Feraligatr,120,Water,Croconaw,Stage2,Rare,Mitsuhiro Arita,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-13,13,Gengar,90,Psychic,Haunter,Stage2,Rare,Yukiko Baba,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-14,14,Golem,100,Fighting,Graveler,Stage2,Rare,Aya Kusube,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-15,15,Kingler,80,Water,Krabby,Stage1,Rare,Shin-ichi Yoshida,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-16,16,Machamp,120,Fighting,Machoke,Stage2,Rare,Shin-ichi Yoshida,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-17,17,Magby,30,Fire,,Basic,Rare,Mitsuhiro Arita,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-18,18,Meganium,100,Grass,Bayleef,Stage2,Rare,Hajime Kusajima,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-19,19,Mew,50,Psychic,,Basic,Rare,Hajime Kusajima,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-20,20,Mewtwo,70,Psychic,,Basic,Rare,Kimiya Masago,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-21,21,Ninetales,80,Fire,Vulpix,Stage1,Rare,Atsuko Nishida,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-22,22,Pichu,30,Lightning,,Basic,Rare,Atsuko Nishida,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-23,23,Pidgeot,80,Colorless,Pidgeotto,Stage2,Rare,Tomokazu Komiya,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-24,24,Poliwrath,100,Water,Poliwhirl,Stage2,Rare,Yuka Morii,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-25,25,Raichu,80,Lightning,Pikachu,Stage1,Rare,Atsuko Nishida,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-26,26,Rapidash,70,Fire,Ponyta,Stage1,Rare,Kagemaru Himeno,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-27,27,Skarmory,60,Metal,,Basic,Rare,Kimiya Masago,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-28,28,Typhlosion,100,Fire,Quilava,Stage2,Rare,K.  Hoshiba,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-29,29,Tyranitar,120,Darkness,Pupitar,Stage2,Rare,Kimiya Masago,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-30,30,Venusaur,100,Grass,Ivysaur,Stage2,Rare,Shin-ichi Yoshida,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-31,31,Vileplume,90,Grass,Gloom,Stage2,Rare,Miki Tanaka,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-32,32,Weezing,80,Grass,Koffing,Stage1,Rare,Hajime Kusajima,"reverse, holo",Expedition Base Set,E-Card,165
+ecard1-33,33,Alakazam,100,Psychic,Kadabra,Stage2,Rare,Hajime Kusajima,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-34,34,Ampharos,100,Lightning,Flaaffy,Stage2,Rare,Atsuko Nishida,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-35,35,Arbok,70,Grass,,Stage1,Rare,Kyoko Umemoto,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-36,36,Blastoise,100,Water,Wartortle,Stage2,Rare,Hiromichi Sugiyama,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-37,37,Blastoise,100,Water,,Stage2,Rare,Kimiya Masago,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-38,38,Butterfree,80,Grass,Metapod,Stage2,Rare,Sumiyoshi Kizuki,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-39,39,Charizard,100,Fire,Charmeleon,Stage2,Rare,Atsuko Nishida,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-40,40,Charizard,120,Fire,Charmeleon,Stage2,Rare,Hiromichi Sugiyama,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-41,41,Clefable,70,Colorless,Clefairy,Stage1,Rare,Kagemaru Himeno,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-42,42,Cloyster,80,Water,Shellder,Stage1,Rare,Kyoko Umemoto,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-43,43,Dragonite,100,Colorless,Dragonair,Stage2,Rare,Kagemaru Himeno,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-44,44,Dugtrio,70,Fighting,Diglett,Stage1,Rare,Masako Yamashita,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-45,45,Fearow,70,Colorless,Spearow,Stage1,Rare,Kyoko Umemoto,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-46,46,Feraligatr,100,Water,Croconaw,Stage2,Rare,Hiromichi Sugiyama,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-47,47,Feraligatr,120,Water,Croconaw,Stage2,Rare,Mitsuhiro Arita,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-48,48,Gengar,90,Psychic,Haunter,Stage2,Rare,Yukiko Baba,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-49,49,Golem,100,Fighting,Graveler,Stage2,Rare,Aya Kusube,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-50,50,Kingler,80,Water,Krabby,Stage1,Rare,Shin-ichi Yoshida,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-51,51,Machamp,120,Fighting,Machoke,Stage2,Rare,Shin-ichi Yoshida,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-52,52,Magby,30,Fire,,Basic,Rare,Mitsuhiro Arita,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-53,53,Meganium,100,Grass,Bayleef,Stage2,Rare,Kagemaru Himeno,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-54,54,Meganium,100,Grass,Bayleef,Stage2,Rare,Hajime Kusajima,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-55,55,Mew,50,Psychic,,Basic,Rare,Hajime Kusajima,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-56,56,Mewtwo,70,Psychic,,Basic,Rare,Kimiya Masago,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-57,57,Ninetales,80,Fire,Vulpix,Stage1,Rare,Atsuko Nishida,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-58,58,Pichu,30,Lightning,,Basic,Rare,Atsuko Nishida,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-59,59,Pidgeot,80,Colorless,Pidgeotto,Stage2,Rare,Tomokazu Komiya,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-60,60,Poliwrath,100,Water,Poliwhirl,Stage2,Rare,Yuka Morii,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-61,61,Raichu,80,Lightning,Pikachu,Stage1,Rare,Atsuko Nishida,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-62,62,Rapidash,70,Fire,Ponyta,Stage1,Rare,Kagemaru Himeno,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-63,63,Skarmory,60,Metal,,Basic,Rare,Kimiya Masago,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-64,64,Typhlosion,100,Fire,Quilava,Stage2,Rare,Hiroaki Ito,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-65,65,Typhlosion,100,Fire,Quilava,Stage2,Rare,K.  Hoshiba,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-66,66,Tyranitar,120,Darkness,Pupitar,Stage2,Rare,Kimiya Masago,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-67,67,Venusaur,100,Grass,Ivysaur,Stage2,Rare,Atsuko Nishida,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-68,68,Venusaur,100,Grass,Ivysaur,Stage2,Rare,Shin-ichi Yoshida,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-69,69,Vileplume,90,Grass,Gloom,Stage2,Rare,Miki Tanaka,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-70,70,Weezing,80,Grass,Koffing,Stage1,Rare,Hajime Kusajima,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-71,71,Bayleef,70,Grass,Chikorita,Stage1,Uncommon,Mitsuhiro Arita,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-72,72,Chansey,90,Colorless,,Basic,Uncommon,Sumiyoshi Kizuki,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-73,73,Charmeleon,80,Fire,Charmander,Stage1,Uncommon,Tomokazu Komiya,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-74,74,Croconaw,80,Water,Totodile,Stage1,Uncommon,Kagemaru Himeno,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-75,75,Dragonair,70,Colorless,Dratini,Stage1,Uncommon,Kagemaru Himeno,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-76,76,Electabuzz,60,Lightning,,Basic,Uncommon,Hiroaki Ito,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-77,77,Flaaffy,80,Lightning,Mareep,Stage1,Uncommon,Mitsuhiro Arita,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-78,78,Gloom,70,Grass,Oddish,Stage1,Uncommon,Yuichi Sawayama,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-79,79,Graveler,80,Fighting,Geodude,Stage1,Uncommon,Aya Kusube,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-80,80,Haunter,70,Psychic,Gastly,Stage1,Uncommon,Yukiko Baba,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-81,81,Hitmonlee,60,Fighting,,Basic,Uncommon,Atsuko Nishida,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-82,82,Ivysaur,80,Grass,Bulbasaur,Stage1,Uncommon,Miki Tanaka,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-83,83,Jynx,60,Water,,Basic,Uncommon,Sumiyoshi Kizuki,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-84,84,Kadabra,70,Psychic,Abra,Stage1,Uncommon,Hajime Kusajima,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-85,85,Machoke,80,Fighting,Machop,Stage1,Uncommon,Shin-ichi Yoshida,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-86,86,Magmar,60,Fire,,Basic,Uncommon,Miki Tanaka,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-87,87,Metapod,60,Grass,Caterpie,Stage1,Uncommon,Yuichi Sawayama,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-88,88,Pidgeotto,90,Colorless,Pidgey,Stage1,Uncommon,Tomokazu Komiya,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-89,89,Poliwhirl,70,Water,Poliwag,Stage1,Uncommon,Yuka Morii,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-90,90,Pupitar,70,Fighting,Larvitar,Stage1,Uncommon,Yukiko Baba,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-91,91,Quilava,70,Fire,Cyndaquil,Stage1,Uncommon,Asuka Iwashita,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-92,92,Wartortle,80,Water,Squirtle,Stage1,Uncommon,Atsuko Nishida,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-93,93,Abra,40,Psychic,,Basic,Common,Hajime Kusajima,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-94,94,Bulbasaur,50,Grass,,Basic,Common,Sachi Matoba,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-95,95,Bulbasaur,40,Grass,,Basic,Common,Tomokazu Komiya,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-96,96,Caterpie,40,Grass,,Basic,Common,Miki Tanaka,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-97,97,Charmander,50,Fire,,Basic,Common,Masako Yamashita,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-98,98,Charmander,50,Fire,,Basic,Common,Yuichi Sawayama,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-99,99,Chikorita,40,Grass,,Basic,Common,Miki Tanaka,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-100,100,Chikorita,50,Grass,,Basic,Common,Motofumi Fujiwara,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-101,101,Clefairy,50,Colorless,,Basic,Common,Tomokazu Komiya,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-102,102,Corsola,60,Water,,Basic,Common,Miki Tanaka,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-103,103,Cubone,40,Fighting,,Basic,Common,Tomokazu Komiya,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-104,104,Cyndaquil,40,Fire,,Basic,Common,Sachi Matoba,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-105,105,Cyndaquil,50,Fire,,Basic,Common,Kyoko Umemoto,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-106,106,Diglett,40,Fighting,,Basic,Common,Masako Yamashita,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-107,107,Dratini,40,Colorless,,Basic,Common,Kagemaru Himeno,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-108,108,Ekans,50,Grass,,Basic,Common,Kyoko Umemoto,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-109,109,Gastly,40,Psychic,,Basic,Common,Yukiko Baba,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-110,110,Geodude,50,Fighting,,Basic,Common,Aya Kusube,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-111,111,Goldeen,50,Water,,Basic,Common,Masako Yamashita,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-112,112,Hoppip,40,Grass,,Basic,Common,Toshinao Aoki,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-113,113,Houndour,50,Darkness,,Basic,Common,Mitsuhiro Arita,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-114,114,Koffing,50,Grass,,Basic,Common,Hajime Kusajima,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-115,115,Krabby,50,Water,,Basic,Common,Shin-ichi Yoshida,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-116,116,Larvitar,50,Fighting,,Basic,Common,Yukiko Baba,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-117,117,Machop,50,Fighting,,Basic,Common,Shin-ichi Yoshida,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-118,118,Magikarp,30,Water,,Basic,Common,Tomokazu Komiya,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-119,119,Mareep,40,Lightning,,Basic,Common,Sumiyoshi Kizuki,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-120,120,Marill,60,Water,,Basic,Common,Satoshi Ohta,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-121,121,Meowth,50,Colorless,,Basic,Common,Hironobu Yoshida,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-122,122,Oddish,50,Grass,,Basic,Common,Masako Yamashita,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-123,123,Pidgey,40,Colorless,,Basic,Common,Tomokazu Komiya,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-124,124,Pikachu,50,Lightning,,Basic,Common,Atsuko Nishida,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-125,125,Poliwag,50,Water,,Basic,Common,Yuka Morii,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-126,126,Ponyta,40,Fire,,Basic,Common,Kagemaru Himeno,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-127,127,Qwilfish,60,Water,,Basic,Common,Toshinao Aoki,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-128,128,Rattata,30,Colorless,,Basic,Common,Yuka Morii,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-129,129,Shellder,50,Water,,Basic,Common,Sumiyoshi Kizuki,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-130,130,Spearow,40,Colorless,,Basic,Common,Kyoko Umemoto,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-131,131,Squirtle,50,Water,,Basic,Common,Yuka Morii,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-132,132,Squirtle,40,Water,,Basic,Common,Kyoko Umemoto,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-133,133,Tauros,70,Colorless,,Basic,Common,Yuichi Sawayama,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-134,134,Totodile,50,Water,,Basic,Common,Mitsuhiro Arita,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-135,135,Totodile,50,Water,,Basic,Common,Aimi Tomita,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-136,136,Vulpix,50,Fire,,Basic,Common,Yuka Morii,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-137,137,Bill's Maintenance,,,,,Uncommon,Ken Sugimori,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-138,138,Copycat,,,,,Uncommon,Ken Sugimori,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-139,139,Dual Ball,,,,,Uncommon,,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-140,140,Energy Removal 2,,,,,Uncommon,Keiji Kinebuchi,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-141,141,Energy Restore,,,,,Uncommon,Hideyuki Nakajima,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-142,142,Mary's Impulse,,,,,Uncommon,Ken Sugimori,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-143,143,Master Ball,,,,,Uncommon,Keiji Kinebuchi,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-144,144,Multi Technical Machine 01,,,,,Uncommon,"""Big Mama"" Tagawa","normal, reverse",Expedition Base Set,E-Card,165
+ecard1-145,145,Pokémon Nurse,,,,,Uncommon,Ken Sugimori,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-146,146,Pokémon Reversal,,,,,Uncommon,,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-147,147,Power Charge,,,,,Uncommon,Keiji Kinebuchi,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-148,148,Professor Elm's Training Method,,,,,Uncommon,Ken Sugimori,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-149,149,Professor Oak's Research,,,,,Uncommon,Ken Sugimori,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-150,150,Strength Charm,,,,,Uncommon,Keiji Kinebuchi,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-151,151,Super Scoop Up,,,,,Uncommon,Keiji Kinebuchi,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-152,152,Warp Point,,,,,Uncommon,Keiji Kinebuchi,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-153,153,Energy Search,,,,,Common,Kai Ishikawa,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-154,154,Full Heal,,,,,Common,Keiji Kinebuchi,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-155,155,Moo-Moo Milk,,,,,Common,Tomokazu Komiya,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-156,156,Potion,,,,,Common,Keiji Kinebuchi,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-157,157,Switch,,,,,Common,Keiji Kinebuchi,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-158,158,Darkness Energy,,,,,Rare,Milky Isobe,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-159,159,Metal Energy,,,,,Rare,Milky Isobe,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-160,160,Fighting Energy,,,,Basic,Common,Keiji Kinebuchi,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-161,161,Fire Energy,,,,Basic,Common,Keiji Kinebuchi,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-162,162,Grass Energy,,,,Basic,Common,Keiji Kinebuchi,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-163,163,Lightning Energy,,,,Basic,Common,Keiji Kinebuchi,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-164,164,Psychic Energy,,,,Basic,Common,Keiji Kinebuchi,"normal, reverse",Expedition Base Set,E-Card,165
+ecard1-165,165,Water Energy,,,,Basic,Common,Keiji Kinebuchi,"normal, reverse",Expedition Base Set,E-Card,165

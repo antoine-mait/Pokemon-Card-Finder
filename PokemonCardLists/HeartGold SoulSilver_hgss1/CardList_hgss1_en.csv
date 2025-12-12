@@ -1,0 +1,125 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+hgss1-1,1,Arcanine,110,Fire,Growlithe,Stage1,Rare Holo,Naoki Saito,"normal, reverse, holo",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-2,2,Azumarill,90,Water,Marill,Stage1,Rare Holo,Kouki Saitou,"reverse, holo",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-3,3,Clefable,80,Colorless,Clefairy,Stage1,Rare Holo,Masakazu Fukuda,"reverse, holo",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-4,4,Gyarados,130,Water,Magikarp,Stage1,Rare Holo,Mitsuhiro Arita,"reverse, holo",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-5,5,Hitmontop,60,Fighting,,Basic,Rare Holo,Ken Sugimori,"reverse, holo",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-6,6,Jumpluff,90,Grass,Skiploom,Stage2,Rare Holo,sui,"reverse, holo",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-7,7,Ninetales,90,Fire,Vulpix,Stage1,Rare Holo,TOKIYA,"reverse, holo",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-8,8,Noctowl,90,Colorless,Hoothoot,Stage1,Rare Holo,Suwama Chiaki,"normal, reverse, holo",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-9,9,Quagsire,100,Water,Wooper,Stage1,Rare Holo,match,"reverse, holo",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-10,10,Raichu,90,Lightning,Pikachu,Stage1,Rare Holo,match,"reverse, holo",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-11,11,Shuckle,60,Grass,,Basic,Rare Holo,Sumiyoshi Kizuki,"reverse, holo",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-12,12,Slowking,80,Psychic,Slowpoke,Stage1,Rare Holo,Sumiyoshi Kizuki,"reverse, holo",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-13,13,Wobbuffet,90,Psychic,,Basic,Rare Holo,Yuka Morii,"reverse, holo",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-14,14,Ampharos,120,Lightning,Flaaffy,Stage2,Rare,Masakazu Fukuda,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-15,15,Ariados,80,Grass,Spinarak,Stage1,Rare,Ken Sugimori,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-16,16,Butterfree,120,Grass,Metapod,Stage2,Rare,Tomokazu Komiya,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-17,17,Cleffa,30,Colorless,,Basic,Rare,Masakazu Fukuda,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-18,18,Exeggutor,90,Psychic,Exeggcute,Stage1,Rare,Miki Tanaka,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-19,19,Farfetch’d,60,Colorless,,Basic,Rare,Aya Kusube,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-20,20,Feraligatr,130,Water,Croconaw,Stage2,Rare,kawayoo,"normal, reverse, holo",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-21,21,Furret,80,Colorless,Sentret,Stage1,Rare,MAHOU,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-22,22,Granbull,90,Colorless,Snubbull,Stage1,Rare,Ken Sugimori,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-23,23,Hypno,90,Psychic,Drowzee,Stage1,Rare,Masakazu Fukuda,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-24,24,Lapras,90,Water,,Basic,Rare,Suwama Chiaki,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-25,25,Ledian,80,Grass,Ledyba,Stage1,Rare,Yuka Morii,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-26,26,Meganium,130,Grass,Bayleef,Stage2,Rare,Shin Nagasawa,"normal, reverse, holo",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-27,27,Persian,80,Colorless,Meowth,Stage1,Rare,Kagemaru Himeno,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-28,28,Pichu,30,Lightning,,Basic,Rare,match,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-29,29,Sandslash,80,Fighting,Sandshrew,Stage1,Rare,Yukiko Baba,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-30,30,Smoochum,30,Psychic,,Basic,Rare,Midori Harada,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-31,31,Sunflora,80,Grass,Sunkern,Stage1,Rare,Yuka Morii,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-32,32,Typhlosion,130,Fire,Quilava,Stage2,Rare,Kagemaru Himeno,"normal, reverse, holo",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-33,33,Tyrogue,30,Fighting,,Basic,Rare,Ken Sugimori,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-34,34,Weezing,90,Psychic,Koffing,Stage1,Rare,Hajime Kusajima,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-35,35,Bayleef,90,Grass,Chikorita,Stage1,Uncommon,Shin Nagasawa,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-36,36,Blissey,130,Colorless,Chansey,Stage1,Uncommon,Kanako Eo,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-37,37,Corsola,60,Water,,Basic,Uncommon,TOKIYA,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-38,38,Croconaw,80,Water,Totodile,Stage1,Uncommon,kawayoo,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-39,39,Delibird,70,Water,,Basic,Uncommon,sui,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-40,40,Donphan,100,Fighting,Phanpy,Stage1,Uncommon,Midori Harada,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-41,41,Dunsparce,50,Colorless,,Basic,Uncommon,Ken Sugimori,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-42,42,Flaaffy,80,Lightning,Mareep,Stage1,Uncommon,Masakazu Fukuda,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-43,43,Heracross,80,Grass,,Basic,Uncommon,Sachiko Adachi,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-44,44,Igglybuff,30,Colorless,,Basic,Uncommon,Atsuko Nishida,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-45,45,Mantine,80,Water,,Basic,Uncommon,Naoyo Kimura,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-46,46,Metapod,80,Grass,Caterpie,Stage1,Uncommon,Tomokazu Komiya,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-47,47,Miltank,90,Colorless,,Basic,Uncommon,Miki Tanaka,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-48,48,Parasect,90,Grass,Paras,Stage1,Uncommon,Midori Harada,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-49,49,Quilava,80,Fire,Cyndaquil,Stage1,Uncommon,Kagemaru Himeno,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-50,50,Qwilfish,70,Water,,Basic,Uncommon,Ken Sugimori,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-51,51,Skiploom,60,Grass,Hoppip,Stage1,Uncommon,sui,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-52,52,Slowbro,90,Water,Slowpoke,Stage1,Uncommon,Sumiyoshi Kizuki,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-53,53,Starmie,90,Water,Staryu,Stage1,Uncommon,Kagemaru Himeno,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-54,54,Unown,50,Psychic,,Basic,Uncommon,Hideaki Hakozaki,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-55,55,Unown,50,Psychic,,Basic,Uncommon,Hideaki Hakozaki,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-56,56,Wigglytuff,90,Colorless,Jiggylypuff,Stage1,Uncommon,Atsuko Nishida,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-57,57,Caterpie,30,Grass,,Basic,Common,Tomokazu Komiya,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-58,58,Chansey,90,Colorless,,Basic,Common,Kanako Eo,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-59,59,Chikorita,60,Grass,,Basic,Common,Shin Nagasawa,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-60,60,Clefairy,50,Colorless,,Basic,Common,Masakazu Fukuda,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-61,61,Cyndaquil,60,Fire,,Basic,Common,Kagemaru Himeno,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-62,62,Drowzee,60,Psychic,,Basic,Common,Masakazu Fukuda,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-63,63,Exeggcute,50,Psychic,,Basic,Common,Miki Tanaka,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-64,64,Girafarig,70,Colorless,,Basic,Common,Miki Tanaka,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-65,65,Growlithe,70,Fire,,Basic,Common,Naoki Saito,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-66,66,Hoothoot,50,Colorless,,Basic,Common,Suwama Chiaki,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-67,67,Hoppip,30,Grass,,Basic,Common,sui,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-68,68,Jigglypuff,60,Colorless,,Basic,Common,Atsuko Nishida,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-69,69,Jynx,70,Psychic,,Basic,Common,Midori Harada,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-70,70,Koffing,50,Psychic,,Basic,Common,Hajime Kusajima,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-71,71,Ledyba,50,Grass,,Basic,Common,Yuka Morii,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-72,72,Magikarp,30,Water,,Basic,Common,Mitsuhiro Arita,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-73,73,Mareep,40,Lightning,,Basic,Common,Masakazu Fukuda,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-74,74,Marill,60,Water,,Basic,Common,Kouki Saitou,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-75,75,Meowth,60,Colorless,,Basic,Common,Kagemaru Himeno,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-76,76,Paras,50,Grass,,Basic,Common,Midori Harada,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-77,77,Phanpy,70,Fighting,,Basic,Common,Midori Harada,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-78,78,Pikachu,60,Lightning,,Basic,Common,match,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-79,79,Sandshrew,60,Fighting,,Basic,Common,Yukiko Baba,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-80,80,Sentret,50,Colorless,,Basic,Common,MAHOU,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-81,81,Slowpoke,60,Water,,Basic,Common,Sumiyoshi Kizuki,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-82,82,Snubbull,50,Colorless,,Basic,Common,Ken Sugimori,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-83,83,Spinarak,50,Grass,,Basic,Common,Ken Sugimori,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-84,84,Staryu,50,Water,,Basic,Common,Kagemaru Himeno,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-85,85,Sunkern,40,Grass,,Basic,Common,Yuka Morii,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-86,86,Totodile,60,Water,,Basic,Common,kawayoo,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-87,87,Vulpix,50,Fire,,Basic,Common,TOKIYA,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-88,88,Wooper,50,Water,,Basic,Common,match,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-89,89,Bill,0,,,,Uncommon,Ken Sugimori,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-90,90,Copycat,0,,,,Uncommon,Kanako Eo,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-91,91,Energy Switch,0,,,,Uncommon,Wataru Kawahara,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-92,92,Fisherman,0,,,,Uncommon,Kanako Eo,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-93,93,Full Heal,,,,,Uncommon,Takashi Yamaguchi,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-94,94,Moomoo Milk,0,,,,Uncommon,Noriko Hotta,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-95,95,Poké Ball,0,,,,Uncommon,Hideaki Hakozaki,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-96,96,Pokégear3.0,0,,,,Uncommon,Noriko Hotta,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-97,97,Pokémon Collector,,,,,Uncommon,Masakazu Fukuda,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-98,98,Pokémon Communication,0,,,,Uncommon,Takashi Yamaguchi,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-99,99,Pokémon Reversal,0,,,,Uncommon,Wataru Kawahara,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-100,100,Professor Elm’s Training Method,0,,,,Uncommon,Ken Sugimori,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-101,101,Professor Oak’s New Theory,0,,,,Uncommon,Ken Sugimori,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-102,102,Switch,0,,,,Uncommon,Hideaki Hakozaki,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-103,103,Double Colorless Energy,0,,,,Uncommon,Kent Kanetsuna,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-104,104,Rainbow Energy,0,,,,Uncommon,Kent Kanetsuna,"normal, reverse",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-105,105,Ampharos,140,Lightning,Flaaffy,Stage2,Rare PRIME,Kent Kanetsuna,holo,HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-106,106,Blissey,130,Colorless,Chansey,Stage1,Rare PRIME,Noriko Hotta,holo,HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-107,107,Donphan,120,Fighting,Phanpy,Stage1,Rare PRIME,Kent Kanetsuna,holo,HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-108,108,Feraligatr,140,Water,Croconaw,Stage2,Rare PRIME,Kent Kanetsuna,holo,HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-109,109,Meganium,150,Grass,Bayleef,Stage2,Rare PRIME,Takashi Yamaguchi,holo,HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-110,110,Typhlosion,140,Fire,Quilava,Stage2,Rare PRIME,Wataru Kawahara,holo,HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-111,111,Ho-Oh LEGEND,140,Fire,,Basic,LEGEND,Shinji Higuchi,holo,HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-112,112,Ho-Oh LEGEND,140,Fire,,Basic,LEGEND,Shinji Higuchi,holo,HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-113,113,Lugia LEGEND,130,Water,,Basic,LEGEND,Shinji Higuchi,holo,HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-114,114,Lugia LEGEND,130,Water,,Basic,LEGEND,Shinji Higuchi,holo,HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-115,115,Grass Energy,0,,,,Common,,normal,HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-116,116,Fire Energy,0,,,,Common,,normal,HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-117,117,Water Energy,0,,,,Common,,normal,HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-118,118,Lightning Energy,0,,,,Common,,normal,HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-119,119,Psychic Energy,0,,,,Common,,normal,HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-120,120,Fighting Energy,0,,,,Common,,normal,HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-121,121,Darkness Energy,0,,,,Common,,normal,HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-122,122,Metal Energy,0,,,,Common,,normal,HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-123,123,Gyarados,130,Water,Magikarp,Stage1,Rare,Wataru Kawahara,"reverse, holo",HeartGold SoulSilver,HeartGold & SoulSilver,124
+hgss1-ONE,ONE,Alph Lithograph,0,,,,Ultra Rare,Milky Isobe,normal,HeartGold SoulSilver,HeartGold & SoulSilver,124

@@ -320,7 +320,7 @@ class PokemonCardReader:
         print("    ✗ Card number not found")
         return "Unknown"
     
-    def read_card(self):
+    def read_card(self, set_code, language='FR'):
         """Extract card number and lookup name from database"""
         print("\nExtracting card information...")
         
@@ -329,7 +329,7 @@ class PokemonCardReader:
         
         # Lookup name from card database
         if self.card_info['number'] != "Unknown":
-            card_name = get_card_name(self.card_info['number'])
+            card_name = get_card_name(self.card_info['number'], set_code, language='FR')
             if card_name:
                 self.card_info['name'] = card_name
                 self.card_info['source'] = 'Database'
@@ -362,7 +362,7 @@ class PokemonCardReader:
         print(f"\nSuggested filename: {name}_{number}.jpg")
 
 
-def process_card(image_path, save_cropped=True, output_folder='Renamed_Cropped'):
+def process_card(image_path, set_code, save_cropped=True, output_folder='Renamed_Cropped', language='FR'):
     """Complete pipeline: crop card from photo, then extract info"""
     print("="*70)
     print("POKÉMON CARD PROCESSOR - CROP AND RENAME")
@@ -389,7 +389,7 @@ def process_card(image_path, save_cropped=True, output_folder='Renamed_Cropped')
     print("\nStep 2: Reading card information...")
     reader = PokemonCardReader(cropped_card)
     
-    info = reader.read_card()
+    info = reader.read_card(set_code, language)
     reader.display_info()
     
     # Step 3: Save with proper naming
@@ -403,7 +403,6 @@ def process_card(image_path, save_cropped=True, output_folder='Renamed_Cropped')
         name = info.get('name', 'Unknown')
         name = sanitize_filename(name)
         number = info.get('number', 'Unknown').replace('/', '-')
-        set_code = extract_set_code(base_dir)
         ext = os.path.splitext(image_path)[1]
         
         base_filename = f"{name}_{number}_{set_code}{ext}"
@@ -456,7 +455,7 @@ def process_folder(folder_path, output_folder='Renamed_Cropped'):
         
         try:
             # Process the FRONT card
-            info = process_card(input_path, save_cropped=False, output_folder=output_folder)
+            info = process_card(input_path, set_code, save_cropped=False, output_folder=output_folder)
             
             if info and info.get('name') != 'Unknown':
                 name = sanitize_filename(info.get('name', 'Unknown'))
@@ -559,7 +558,8 @@ if __name__ == "__main__":
     
     if choice == "1":
         image_path = input("\nEnter full path to image: ").strip().strip('"')
-        process_card(image_path, save_cropped=True)
+        set_code = extract_set_code(os.path.dirname(image_path))
+        process_card(image_path, set_code, save_cropped=True)
     elif choice == "2":
         folder_path = input("\nEnter full path to folder: ").strip().strip('"')
         process_folder(folder_path)

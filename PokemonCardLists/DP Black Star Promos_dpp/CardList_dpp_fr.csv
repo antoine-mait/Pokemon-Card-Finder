@@ -1,0 +1,43 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+dpp-DP01,DP01,Tortipouss,60,Plante,,De base,Commune,Masakazu Fukuda,holo,Promo DP,Diamant & Perle,56
+dpp-DP02,DP02,Ouisticram,50,Feu,,De base,Commune,Kagemaru Himeno,holo,Promo DP,Diamant & Perle,56
+dpp-DP03,DP03,Tiplouf,60,Eau,,De base,Commune,Atsuko Nishida,holo,Promo DP,Diamant & Perle,56
+dpp-DP05,DP05,Vent tropical,,,,,Commune,Sumiyoshi Kizuki,normal,Promo DP,Diamant & Perle,56
+dpp-DP07,DP07,Kranidos,70,Combat,,Niveau 1,Commune,Mitsuhiro Arita,holo,Promo DP,Diamant & Perle,56
+dpp-DP08,DP08,Dinoclier,80,Métal,,Niveau 1,Commune,Kouki Saitou,holo,Promo DP,Diamant & Perle,56
+dpp-DP09,DP09,Torterra,160,Plante,,Niveau Sup,Commune,Shizurow,holo,Promo DP,Diamant & Perle,56
+dpp-DP10,DP10,Simiabraz,120,Feu,,Niveau Sup,Commune,Shizurow,holo,Promo DP,Diamant & Perle,56
+dpp-DP11,DP11,Pingoléon,140,Eau,,Niveau Sup,Commune,Shizurow,holo,Promo DP,Diamant & Perle,56
+dpp-DP12,DP12,Lucario,110,Combat,,Niveau Sup,Commune,Ryo Ueda,holo,Promo DP,Diamant & Perle,56
+dpp-DP16,DP16,Pikachu,60,Électrique,,De base,Commune,Sumiyoshi Kizuki,holo,Promo DP,Diamant & Perle,56
+dpp-DP17,DP17,Dialga,120,Métal,,Niveau Sup,Commune,Ryo Ueda,holo,Promo DP,Diamant & Perle,56
+dpp-DP18,DP18,Palkia,120,Eau,,Niveau Sup,Commune,Ryo Ueda,holo,Promo DP,Diamant & Perle,56
+dpp-DP19,DP19,Darkrai,100,Obscurité,,Niveau Sup,Commune,Shizurow,holo,Promo DP,Diamant & Perle,56
+dpp-DP20,DP20,Maganon,100,Feu,,Niveau 1,Commune,Hiroaki Ito,holo,Promo DP,Diamant & Perle,56
+dpp-DP21,DP21,Raichu,90,Électrique,,Niveau 1,Commune,Daisuke Ito,holo,Promo DP,Diamant & Perle,56
+dpp-DP22,DP22,Mime Jr.,40,Psy,,De base,Commune,Mitsuhiro Arita,holo,Promo DP,Diamant & Perle,56
+dpp-DP23,DP23,Chaglam,50,Incolore,,De base,Commune,Mitsuhiro Arita,holo,Promo DP,Diamant & Perle,56
+dpp-DP24,DP24,Darkrai,80,Obscurité,,De base,Commune,Kouki Saitou,"normal, holo",Promo DP,Diamant & Perle,56
+dpp-DP25,DP25,Vent tropical,,,,,Commune,Sumiyoshi Kizuki,normal,Promo DP,Diamant & Perle,56
+dpp-DP26,DP26,Dialga,90,Métal,,De base,Commune,Kazuyuki Kano,holo,Promo DP,Diamant & Perle,56
+dpp-DP27,DP27,Palkia,90,Eau,,De base,Commune,Daisuke Ito,holo,Promo DP,Diamant & Perle,56
+dpp-DP28,DP28,Mewtwo,120,Psy,,Niveau Sup,Commune,Shizurow,holo,Promo DP,Diamant & Perle,56
+dpp-DP29,DP29,Rhinastoc,170,Combat,,Niveau Sup,Commune,Ryo Ueda,holo,Promo DP,Diamant & Perle,56
+dpp-DP30,DP30,Regigigas,150,Incolore,,Niveau Sup,Commune,Shizurow,holo,Promo DP,Diamant & Perle,56
+dpp-DP31,DP31,Heatran,120,Feu,,Niveau Sup,Commune,Shizurow,holo,Promo DP,Diamant & Perle,56
+dpp-DP32,DP32,Magnézone,130,Métal,,Niveau 2,Commune,Kent Kanetsuna,holo,Promo DP,Diamant & Perle,56
+dpp-DP33,DP33,Noctunoir,130,Psy,,Niveau 2,Commune,Kent Kanetsuna,holo,Promo DP,Diamant & Perle,56
+dpp-DP34,DP34,Grodrive,80,Psy,,Niveau 1,Commune,Mitsuhiro Arita,holo,Promo DP,Diamant & Perle,56
+dpp-DP35,DP35,Porygon-Z,120,Incolore,,Niveau 2,Commune,Kagemaru Himeno,holo,Promo DP,Diamant & Perle,56
+dpp-DP36,DP36,Scorvol,90,Combat,,Niveau 1,Commune,Kagemaru Himeno,holo,Promo DP,Diamant & Perle,56
+dpp-DP37,DP37,Dialga,120,Métal,,Niveau Sup,Commune,Ryo Ueda,holo,Promo DP,Diamant & Perle,56
+dpp-DP38,DP38,Giratina,130,Psy,,Niveau Sup,Commune,Shizurow,holo,Promo DP,Diamant & Perle,56
+dpp-DP39,DP39,Shaymin,110,Plante,,Niveau Sup,Commune,Shizurow,holo,Promo DP,Diamant & Perle,56
+dpp-DP40,DP40,Regigigas,100,Incolore,,De base,Commune,Kagemaru Himeno,"normal, holo",Promo DP,Diamant & Perle,56
+dpp-DP42,DP42,Vortente,80,Plante,,De base,Commune,Makoto Imai,holo,Promo DP,Diamant & Perle,56
+dpp-DP43,DP43,Tarinorme,90,Combat,,De base,Commune,Ryota Saito,holo,Promo DP,Diamant & Perle,56
+dpp-DP48,DP48,Vent tropical,,,,,Commune,Sumiyoshi Kizuki,normal,Promo DP,Diamant & Perle,56
+dpp-DP50,DP50,Dialga,90,Incolore,,De base,Commune,Kunihiko Yuyama,holo,Promo DP,Diamant & Perle,56
+dpp-DP53,DP53,Arceus,120,Incolore,,Niveau Sup,Commune,Shizurow,holo,Promo DP,Diamant & Perle,56
+dpp-DP54,DP54,Porte de départ,,,,,Commune,Ryo Ueda,holo,Promo DP,Diamant & Perle,56
+dpp-DP55,DP55,Zone ultime,,,,,Commune,Yusuke Ishikawa,holo,Promo DP,Diamant & Perle,56

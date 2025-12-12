@@ -1,0 +1,174 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sv10.5w-001,001,Sewaddle,50,Grass,,Basic,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-002,002,Swadloon,80,Grass,Sewaddle,Stage1,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-003,003,Leavanny,130,Grass,Swadloon,Stage2,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-004,004,Cottonee,60,Grass,,Basic,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-005,005,Whimsicott ex,230,Grass,Cottonee,Stage1,Double rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-006,006,Deerling,70,Grass,,Basic,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-007,007,Sawsbuck,130,Grass,Deerling,Stage1,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-008,008,Shelmet,60,Grass,,Basic,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-009,009,Accelgor,100,Grass,Shelmet,Stage1,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-010,010,Virizion,120,Grass,,Basic,Rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-011,011,Tepig,70,Fire,,Basic,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-012,012,Pignite,110,Fire,Tepig,Stage1,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-013,013,Emboar,180,Fire,Pignite,Stage2,Rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-014,014,Pansear,70,Fire,,Basic,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-015,015,Simisear,100,Fire,Pansear,Stage1,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-016,016,Litwick,60,Fire,,Basic,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-017,017,Lampent,80,Fire,Litwick,Stage1,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-018,018,Chandelure,150,Fire,Lampent,Stage2,Rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-019,019,Heatmor,120,Fire,,Basic,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-020,020,Reshiram ex,230,Fire,,Basic,Double rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-021,021,Oshawott,70,Water,,Basic,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-022,022,Dewott,100,Water,Oshawott,Stage1,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-023,023,Samurott,160,Water,Dewott,Stage2,Rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-024,024,Basculin,90,Water,,Basic,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-025,025,Ducklett,70,Water,,Basic,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-026,026,Swanna,120,Water,Ducklett,Stage1,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-027,027,Vanillite,60,Water,,Basic,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-028,028,Vanillish,90,Water,Vanillite,Stage1,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-029,029,Vanilluxe,150,Water,Vanillish,Stage2,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-030,030,Keldeo ex,210,Water,,Basic,Double rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-031,031,Blitzle,60,Lightning,,Basic,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-032,032,Zebstrika,120,Lightning,Blitzle,Stage1,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-033,033,Joltik,40,Lightning,,Basic,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-034,034,Galvantula,90,Lightning,Joltik,Stage1,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-035,035,Stunfisk,110,Lightning,,Basic,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-036,036,Woobat,60,Psychic,,Basic,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-037,037,Swoobat,90,Psychic,Woobat,Stage1,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-038,038,Sigilyph,120,Psychic,,Basic,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-039,039,Yamask,70,Psychic,,Basic,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-040,040,Cofagrigus,120,Psychic,Yamask,Stage1,Rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-041,041,Gothita,70,Psychic,,Basic,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-042,042,Gothorita,90,Psychic,Gothita,Stage1,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-043,043,Gothitelle,150,Psychic,Gothorita,Stage2,Rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-044,044,Frillish,80,Psychic,,Basic,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-045,045,Jellicent ex,270,Psychic,Frillish,Stage1,Double rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-046,046,Roggenrola,80,Fighting,,Basic,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-047,047,Boldore,110,Fighting,Roggenrola,Stage1,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-048,048,Gigalith,170,Fighting,Boldore,Stage2,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-049,049,Sawk,110,Fighting,,Basic,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-050,050,Archen,80,Fighting,Antique Plume Fossil,Stage1,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-051,051,Archeops,140,Fighting,Archen,Stage2,Rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-052,052,Mienfoo,60,Fighting,,Basic,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-053,053,Mienshao,100,Fighting,Mienfoo,Stage1,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-054,054,Terrakion,140,Fighting,,Basic,Rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-055,055,Purrloin,60,Darkness,,Basic,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-056,056,Liepard,110,Darkness,Purrloin,Stage1,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-057,057,Scraggy,70,Darkness,,Basic,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-058,058,Scrafty,120,Darkness,Scraggy,Stage1,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-059,059,Trubbish,70,Darkness,,Basic,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-060,060,Garbodor,140,Darkness,Trubbish,Stage1,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-061,061,Zorua,70,Darkness,,Basic,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-062,062,Zoroark,120,Darkness,Zorua,Stage1,Rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-063,063,Vullaby,70,Darkness,,Basic,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-064,064,Mandibuzz,110,Darkness,Vullaby,Stage1,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-065,065,Deino,80,Darkness,,Basic,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-066,066,Zweilous,110,Darkness,Deino,Stage1,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-067,067,Hydreigon ex,330,Darkness,Zweilous,Stage2,Double rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-068,068,Ferroseed,70,Metal,,Basic,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-069,069,Ferrothorn,140,Metal,Ferroseed,Stage1,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-070,070,Durant,110,Metal,,Basic,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-071,071,Druddigon,120,Dragon,,Basic,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-072,072,Patrat,60,Colorless,,Basic,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-073,073,Watchog,90,Colorless,Patrat,Stage1,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-074,074,Lillipup,60,Colorless,,Basic,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-075,075,Herdier,90,Colorless,Lillipup,Stage1,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-076,076,Stoutland,160,Colorless,Herdier,Stage2,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-077,077,Bouffalant ex,220,Colorless,,Basic,Double rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-078,078,Tornadus,120,Colorless,,Basic,Rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-079,079,Antique Plume Fossil,60,,,,Common,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-080,080,Brave Bangle,,,,,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-081,081,Cheren,,,,,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-082,082,Energy Retrieval,,,,,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-083,083,Harlequin,,,,,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-084,084,Hilda,,,,,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-085,085,Tool Scrapper,,,,,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-086,086,Ignition Energy,,,,,Uncommon,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-087,087,Sewaddle,50,Grass,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-088,088,Swadloon,80,Grass,Sewaddle,Stage1,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-089,089,Leavanny,130,Grass,Swadloon,Stage2,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-090,090,Cottonee,60,Grass,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-091,091,Deerling,70,Grass,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-092,092,Sawsbuck,130,Grass,Deerling,Stage1,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-093,093,Shelmet,60,Grass,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-094,094,Accelgor,100,Grass,Shelmet,Stage1,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-095,095,Virizion,120,Grass,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-096,096,Tepig,70,Fire,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-097,097,Pignite,110,Fire,Tepig,Stage1,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-098,098,Emboar,180,Fire,Pignite,Stage2,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-099,099,Pansear,70,Fire,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-100,100,Simisear,100,Fire,Pansear,Stage1,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-101,101,Litwick,60,Fire,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-102,102,Lampent,80,Fire,Litwick,Stage1,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-103,103,Chandelure,150,Fire,Lampent,Stage2,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-104,104,Heatmor,120,Fire,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-105,105,Oshawott,70,Water,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-106,106,Dewott,100,Water,Oshawott,Stage1,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-107,107,Samurott,160,Water,Dewott,Stage2,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-108,108,Basculin,90,Water,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-109,109,Ducklett,70,Water,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-110,110,Swanna,120,Water,Ducklett,Stage1,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-111,111,Vanillite,60,Water,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-112,112,Vanillish,90,Water,Vanillite,Stage1,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-113,113,Vanilluxe,150,Water,Vanillish,Stage2,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-114,114,Blitzle,60,Lightning,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-115,115,Zebstrika,120,Lightning,Blitzle,Stage1,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-116,116,Joltik,40,Lightning,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-117,117,Galvantula,90,Lightning,Joltik,Stage1,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-118,118,Stunfisk,110,Lightning,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-119,119,Woobat,60,Psychic,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-120,120,Swoobat,90,Psychic,Woobat,Stage1,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-121,121,Sigilyph,120,Psychic,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-122,122,Yamask,70,Psychic,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-123,123,Cofagrigus,120,Psychic,Yamask,Stage1,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-124,124,Gothita,70,Psychic,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-125,125,Gothorita,90,Psychic,Gothita,Stage1,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-126,126,Frillish,80,Psychic,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-127,127,Roggenrola,80,Fighting,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-128,128,Boldore,110,Fighting,Roggenrola,Stage1,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-129,129,Gigalith,170,Fighting,Boldore,Stage2,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-130,130,Sawk,110,Fighting,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-131,131,Archen,80,Fighting,Antique Plume Fossil,Stage1,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-132,132,Archeops,140,Fighting,Archen,Stage2,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-133,133,Mienfoo,60,Fighting,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-134,134,Mienshao,100,Fighting,Mienfoo,Stage1,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-135,135,Terrakion,140,Fighting,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-136,136,Purrloin,60,Darkness,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-137,137,Liepard,110,Darkness,Purrloin,Stage1,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-138,138,Scraggy,70,Darkness,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-139,139,Scrafty,120,Darkness,Scraggy,Stage1,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-140,140,Trubbish,70,Darkness,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-141,141,Garbodor,140,Darkness,Trubbish,Stage1,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-142,142,Zorua,70,Darkness,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-143,143,Zoroark,120,Darkness,Zorua,Stage1,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-144,144,Vullaby,70,Darkness,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-145,145,Mandibuzz,110,Darkness,Vullaby,Stage1,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-146,146,Deino,80,Darkness,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-147,147,Zweilous,110,Darkness,Deino,Stage1,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-148,148,Ferroseed,70,Metal,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-149,149,Ferrothorn,140,Metal,Ferroseed,Stage1,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-150,150,Durant,110,Metal,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-151,151,Druddigon,120,Dragon,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-152,152,Patrat,60,Colorless,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-153,153,Watchog,90,Colorless,Patrat,Stage1,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-154,154,Lillipup,60,Colorless,,Basic,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-155,155,Herdier,90,Colorless,Lillipup,Stage1,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-156,156,Stoutland,160,Colorless,Herdier,Stage2,Illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-157,157,Whimsicott ex,230,Grass,Cottonee,Stage1,Ultra Rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-158,158,Reshiram ex,230,Fire,,Basic,Ultra Rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-159,159,Keldeo ex,210,Water,,Basic,Ultra Rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-160,160,Jellicent ex,270,Psychic,Frillish,Stage1,Ultra Rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-161,161,Hydreigon ex,330,Darkness,Zweilous,Stage2,Ultra Rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-162,162,Bouffalant ex,220,Colorless,,Basic,Ultra Rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-163,163,Harlequin,,,,,Ultra Rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-164,164,Hilda,,,,,Ultra Rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-165,165,Whimsicott ex,230,Grass,Cottonee,Stage1,Special illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-166,166,Reshiram ex,230,Fire,,Basic,Special illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-167,167,Keldeo ex,210,Water,,Basic,Special illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-168,168,Jellicent ex,270,Psychic,Frillish,Stage1,Special illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-169,169,Hydreigon ex,330,Darkness,Zweilous,Stage2,Special illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-170,170,Bouffalant ex,220,Colorless,,Basic,Special illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-171,171,Hilda,,,,,Special illustration rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-172,172,Victini,80,Fire,,Basic,Black White Rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173
+sv10.5w-173,173,Reshiram ex,230,Fire,,Basic,Black White Rare,,"normal, reverse, holo",White Flare,Scarlet & Violet,173

@@ -1,0 +1,67 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+neo3-1,1,Ampharos,90,Lightning,Flaaffy,Stage2,Rare,Toshinao Aoki,"holo, 1st edition",Neo Revelation,Neo,66
+neo3-2,2,Blissey,120,Colorless,Chansey,Stage1,Rare,Yuka Morii,"holo, 1st edition",Neo Revelation,Neo,66
+neo3-3,3,Celebi,50,Psychic,,Basic,Rare,Hironobu Yoshida,"holo, 1st edition",Neo Revelation,Neo,66
+neo3-4,4,Crobat,90,Grass,Golbat,Stage2,Rare,Shin-ichi Yoshida,"holo, 1st edition",Neo Revelation,Neo,66
+neo3-5,5,Delibird,60,Colorless,,Basic,Rare,Tomokazu Komiya,"holo, 1st edition",Neo Revelation,Neo,66
+neo3-6,6,Entei,80,Fire,,Basic,Rare,Ken Sugimori,"holo, 1st edition",Neo Revelation,Neo,66
+neo3-7,7,Ho-oh,90,Fire,,Basic,Rare,Kimiya Masago,"holo, 1st edition",Neo Revelation,Neo,66
+neo3-8,8,Houndoom,70,Darkness,Houndour,Stage1,Rare,Mitsuhiro Arita,"holo, 1st edition",Neo Revelation,Neo,66
+neo3-9,9,Jumpluff,70,Grass,Skiploom,Stage2,Rare,Kagemaru Himeno,"holo, 1st edition",Neo Revelation,Neo,66
+neo3-10,10,Magneton,80,Metal,Magnemite,Stage1,Rare,,"holo, 1st edition",Neo Revelation,Neo,66
+neo3-11,11,Misdreavus,50,Psychic,,Basic,Rare,Ken Sugimori,"holo, 1st edition",Neo Revelation,Neo,66
+neo3-12,12,Porygon2,70,Colorless,Porygon,Stage1,Rare,Keiji Kinebuchi,"holo, 1st edition",Neo Revelation,Neo,66
+neo3-13,13,Raikou,80,Lightning,,Basic,Rare,Ken Sugimori,"holo, 1st edition",Neo Revelation,Neo,66
+neo3-14,14,Suicune,70,Water,,Basic,Rare,Ken Sugimori,"holo, 1st edition",Neo Revelation,Neo,66
+neo3-15,15,Aerodactyl,60,Fighting,,Stage1,Rare,Shin-ichi Yoshida,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-16,16,Celebi,50,Grass,,Basic,Rare,Sumiyoshi Kizuki,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-17,17,Entei,60,Fire,,Basic,Rare,Naoyo Kimura,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-18,18,Ho-oh,90,Colorless,,Basic,Rare,Aya Kusube,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-19,19,Kingdra,90,Water,Seadra,Stage2,Rare,Mitsuhiro Arita,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-20,20,Lugia,90,Psychic,,Basic,Rare,Aya Kusube,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-21,21,Raichu,80,Lightning,Pikachu,Stage1,Rare,Masako Yamashita,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-22,22,Raikou,60,Lightning,,Basic,Rare,Naoyo Kimura,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-23,23,Skarmory,60,Metal,,Basic,Rare,Aya Kusube,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-24,24,Sneasel,60,Darkness,,Basic,Rare,Sumiyoshi Kizuki,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-25,25,Starmie,70,Psychic,Staryu,Stage1,Rare,,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-26,26,Sudowoodo,60,Fighting,,Basic,Rare,Sumiyoshi Kizuki,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-27,27,Suicune,60,Water,,Basic,Rare,Naoyo Kimura,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-28,28,Flaaffy,70,Lightning,Mareep,Stage1,Uncommon,Toshinao Aoki,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-29,29,Golbat,60,Grass,Zubat,Stage1,Uncommon,Masako Yamashita,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-30,30,Graveler,70,Fighting,Geodude,Stage1,Uncommon,Yukiko Baba,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-31,31,Jynx,60,Water,,Basic,Uncommon,Tomokazu Komiya,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-32,32,Lanturn,80,Lightning,Chinchou,Stage1,Uncommon,Kagemaru Himeno,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-33,33,Magcargo,80,Fire,Slugma,Stage1,Uncommon,Shin-ichi Yoshida,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-34,34,Octillery,80,Water,Remoraid,Stage1,Uncommon,Tomokazu Komiya,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-35,35,Parasect,60,Grass,Paras,Stage1,Uncommon,Atsuko Nishida,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-36,36,Piloswine,90,Fighting,Swinub,Stage1,Uncommon,Atsuko Nishida,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-37,37,Seaking,70,Water,Goldeen,Stage1,Uncommon,Miki Tanaka,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-38,38,Stantler,60,Colorless,,Basic,Uncommon,Yukiko Baba,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-39,39,Unown [B],50,Psychic,,Basic,Uncommon,CR CG gangs,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-40,40,Unown [Y],40,Psychic,,Basic,Uncommon,CR CG gangs,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-41,41,Aipom,40,Colorless,,Basic,Common,Sumiyoshi Kizuki,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-42,42,Chinchou,50,Lightning,,Basic,Common,Atsuko Nishida,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-43,43,Farfetch'd,50,Colorless,,Basic,Common,Miki Tanaka,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-44,44,Geodude,40,Fighting,,Basic,Common,Masako Yamashita,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-45,45,Goldeen,40,Water,,Basic,Common,Yuka Morii,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-46,46,Murkrow,40,Darkness,,Basic,Common,Hironobu Yoshida,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-47,47,Paras,40,Grass,,Basic,Common,Kagemaru Himeno,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-48,48,Quagsire,70,Water,Wooper,Stage1,Common,Yuka Morii,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-49,49,Qwilfish,60,Water,,Basic,Common,Sumiyoshi Kizuki,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-50,50,Remoraid,40,Water,,Basic,Common,Miki Tanaka,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-51,51,Shuckle,40,Fighting,,Basic,Common,Yuka Morii,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-52,52,Skiploom,60,Grass,Hoppip,Stage1,Common,Mitsuhiro Arita,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-53,53,Slugma,50,Fire,,Basic,Common,Kagemaru Himeno,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-54,54,Smoochum,30,Psychic,,Basic,Common,Atsuko Nishida,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-55,55,Snubbull,50,Colorless,,Basic,Common,Tomokazu Komiya,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-56,56,Staryu,40,Water,,Basic,Common,Mitsuhiro Arita,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-57,57,Swinub,40,Fighting,,Basic,Common,Miki Tanaka,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-58,58,Unown [K],40,Psychic,,Basic,Common,CR CG gangs,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-59,59,Zubat,40,Grass,,Basic,Common,Yukiko Baba,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-60,60,Balloon Berry,,,,,Uncommon,Keiji Kinebuchi,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-61,61,Healing Field,,,,,Uncommon,Keiji Kinebuchi,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-62,62,Pokémon Breeder Fields,,,,,Uncommon,Ken Sugimori,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-63,63,Rocket's Hideout,,,,,Uncommon,Keiji Kinebuchi,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-64,64,Old Rod,,,,,Common,Keiji Kinebuchi,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-65,65,Shining Gyarados,100,Water,,Basic,Rare,Ken Sugimori,"normal, 1st edition",Neo Revelation,Neo,66
+neo3-66,66,Shining Magikarp,30,Water,,Basic,Rare,Ken Sugimori,"normal, 1st edition",Neo Revelation,Neo,66

@@ -1,0 +1,166 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+xy8-1,1,Paras,60,Pflanze,,Basis,Häufig,Hajime Kusajima,"normal, reverse, holo",TURBOstart,XY,165
+xy8-2,2,Parasek,100,Pflanze,Paras,Rang 1,Selten,Sumiyoshi Kizuki,"normal, reverse, holo",TURBOstart,XY,165
+xy8-3,3,Pinsir,100,Pflanze,,Basis,Ungewöhnlich,Satoshi Shirai,"normal, reverse, holo",TURBOstart,XY,165
+xy8-4,4,Tuska,60,Pflanze,,Basis,Häufig,Yuka Morii,"normal, reverse, holo",TURBOstart,XY,165
+xy8-5,5,Vegimak,60,Pflanze,,Basis,Häufig,Hajime Kusajima,"normal, reverse, holo",TURBOstart,XY,165
+xy8-6,6,Vegichita,90,Pflanze,Vegimak,Rang 1,Selten,Kagemaru Himeno,"normal, reverse, holo",TURBOstart,XY,165
+xy8-7,7,Igamaro,60,Pflanze,,Basis,Häufig,Megumi Mizutani,"normal, reverse, holo",TURBOstart,XY,165
+xy8-8,8,Igamaro,60,Pflanze,,Basis,Häufig,Megumi Mizutani,"normal, reverse, holo",TURBOstart,XY,165
+xy8-9,9,Igamaro,60,Pflanze,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",TURBOstart,XY,165
+xy8-10,10,Igastarnish,90,Pflanze,Igamaro,Rang 1,Ungewöhnlich,Miki Tanaka,"normal, reverse, holo",TURBOstart,XY,165
+xy8-11,11,Brigaron,160,Pflanze,Igastarnish,Rang 2,Selten,Mitsuhiro Arita,"normal, reverse, holo",TURBOstart,XY,165
+xy8-12,12,Brigaron-TURBO,190,Pflanze,Brigaron,TURBO,Ultra Selten,5ban Graphics,"normal, reverse, holo",TURBOstart,XY,165
+xy8-13,13,Purmel,30,Pflanze,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse, holo",TURBOstart,XY,165
+xy8-14,14,Puponcho,70,Pflanze,Purmel,Rang 1,Ungewöhnlich,Saya Tsuruta,"normal, reverse, holo",TURBOstart,XY,165
+xy8-15,15,Vivillon,120,Pflanze,Puponcho,Rang 2,Selten,Mizue,"normal, reverse, holo",TURBOstart,XY,165
+xy8-16,16,Mähikel,70,Pflanze,,Basis,Häufig,Kanako Eo,"normal, reverse, holo",TURBOstart,XY,165
+xy8-17,17,Chevrumm,120,Pflanze,Mähikel,Rang 1,Ungewöhnlich,Masakazu Fukuda,"normal, reverse, holo",TURBOstart,XY,165
+xy8-18,18,Feurigel,60,Feuer,,Basis,Häufig,Tomokazu Komiya,"normal, reverse, holo",TURBOstart,XY,165
+xy8-19,19,Igelavar,80,Feuer,Feurigel,Rang 1,Ungewöhnlich,Shin Nagasawa,"normal, reverse, holo",TURBOstart,XY,165
+xy8-20,20,Tornupto,150,Feuer,Igelavar,Rang 2,Selten,Megumi Mizutani,"normal, reverse, holo",TURBOstart,XY,165
+xy8-21,21,Hundemon EX,170,Feuer,,Basis,Ultra Selten,Eske Yoshinob,"normal, reverse, holo",TURBOstart,XY,165
+xy8-22,22,M-Hundemon EX,210,Feuer,Hundemon-EX,MEGA,Ultra Selten,5ban Graphics,"normal, reverse, holo",TURBOstart,XY,165
+xy8-23,23,Grillmak,60,Feuer,,Basis,Häufig,sui,"normal, reverse, holo",TURBOstart,XY,165
+xy8-24,24,Grillchita,90,Feuer,Grillmak,Rang 1,Selten,Ayaka Yoshida,"normal, reverse, holo",TURBOstart,XY,165
+xy8-25,25,Fynx,50,Feuer,,Basis,Häufig,Kanako Eo,"normal, reverse, holo",TURBOstart,XY,165
+xy8-26,26,Rutena,80,Feuer,Fynx,Rang 1,Ungewöhnlich,kawayoo,"normal, reverse, holo",TURBOstart,XY,165
+xy8-27,27,Goldini,60,Wasser,,Basis,Häufig,MAHOU,"normal, reverse, holo",TURBOstart,XY,165
+xy8-28,28,Golking,90,Wasser,Goldini,Rang 1,Ungewöhnlich,Kyoko Umemoto,"normal, reverse, holo",TURBOstart,XY,165
+xy8-29,29,Sterndu,60,Wasser,,Basis,Häufig,Shigenori Negishi,"normal, reverse, holo",TURBOstart,XY,165
+xy8-30,30,Starmie,90,Wasser,Sterndu,Rang 1,Ungewöhnlich,Mitsuhiro Arita,"normal, reverse, holo",TURBOstart,XY,165
+xy8-31,31,Remoraid,60,Wasser,,Basis,Häufig,Suwama Chiaki,"normal, reverse, holo",TURBOstart,XY,165
+xy8-32,32,Remoraid,60,Wasser,,Basis,Häufig,Suwama Chiaki,"normal, reverse, holo",TURBOstart,XY,165
+xy8-33,33,Octillery,90,Wasser,Remoraid,Rang 1,Selten,Kyoko Umemoto,"normal, reverse, holo",TURBOstart,XY,165
+xy8-34,34,Firnontor EX,170,Wasser,,Basis,Ultra Selten,Eske Yoshinob,"normal, reverse, holo",TURBOstart,XY,165
+xy8-35,35,M-Firnontor EX,220,Wasser,Firnontor-EX,MEGA,Ultra Selten,5ban Graphics,"normal, reverse, holo",TURBOstart,XY,165
+xy8-36,36,Plinfa,60,Wasser,,Basis,Häufig,Kanako Eo,"normal, reverse, holo",TURBOstart,XY,165
+xy8-37,37,Pliprin,80,Wasser,Plinfa,Rang 1,Ungewöhnlich,kirisAki,"normal, reverse, holo",TURBOstart,XY,165
+xy8-38,38,Impoleon,140,Wasser,Pliprin,Rang 2,Selten,Satoshi Shirai,"normal, reverse, holo",TURBOstart,XY,165
+xy8-39,39,Shnebedeck,80,Wasser,,Basis,Häufig,Yukiko Baba,"normal, reverse, holo",TURBOstart,XY,165
+xy8-40,40,Rexblisar,130,Wasser,Shnebedeck,Rang 1,Selten,Naoyo Kimura,"normal, reverse, holo",TURBOstart,XY,165
+xy8-41,41,Sodamak,60,Wasser,,Basis,Häufig,Midori Harada,"normal, reverse, holo",TURBOstart,XY,165
+xy8-42,42,Sodachita,90,Wasser,Sodamak,Rang 1,Selten,Masakazu Fukuda,"normal, reverse, holo",TURBOstart,XY,165
+xy8-43,43,Gelatini,50,Wasser,,Basis,Häufig,MAHOU,"normal, reverse, holo",TURBOstart,XY,165
+xy8-44,44,Gelatroppo,70,Wasser,Gelatini,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, reverse, holo",TURBOstart,XY,165
+xy8-45,45,Gelatwino,130,Wasser,Gelatroppo,Rang 2,Selten,Ayaka Yoshida,"normal, reverse, holo",TURBOstart,XY,165
+xy8-46,46,Froxy,50,Wasser,,Basis,Häufig,Masakazu Fukuda,"normal, reverse, holo",TURBOstart,XY,165
+xy8-47,47,Amphizel,70,Wasser,Froxy,Rang 1,Ungewöhnlich,Masakazu Fukuda,"normal, reverse, holo",TURBOstart,XY,165
+xy8-48,48,Pikachu,60,Elektro,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",TURBOstart,XY,165
+xy8-49,49,Raichu,90,Elektro,Pikachu,Rang 1,Selten,Masakazu Fukuda,"normal, reverse, holo",TURBOstart,XY,165
+xy8-50,50,Raichu-TURBO,130,Elektro,Raichu,TURBO,Ultra Selten,5ban Graphics,"normal, reverse, holo",TURBOstart,XY,165
+xy8-51,51,Magnetilo,60,Elektro,,Basis,Häufig,Akira Komayama,"normal, reverse, holo",TURBOstart,XY,165
+xy8-52,52,Magnetilo,60,Elektro,,Basis,Häufig,Akira Komayama,"normal, reverse, holo",TURBOstart,XY,165
+xy8-53,53,Magneton,80,Elektro,Magnetilo,Rang 1,Ungewöhnlich,Tomokazu Komiya,"normal, reverse, holo",TURBOstart,XY,165
+xy8-54,54,Magnezone,140,Elektro,Magneton,Rang 2,Selten,Hajime Kusajima,"normal, reverse, holo",TURBOstart,XY,165
+xy8-55,55,Raikou,120,Elektro,,Basis,Selten,Shin Nagasawa,"normal, reverse, holo",TURBOstart,XY,165
+xy8-56,56,Flunschlik,110,Elektro,,Basis,Ungewöhnlich,Naoki Saito,"normal, reverse, holo",TURBOstart,XY,165
+xy8-57,57,Dedenne,60,Elektro,,Basis,Ungewöhnlich,Kouki Saitou,"normal, reverse, holo",TURBOstart,XY,165
+xy8-58,58,Nebulak,50,Psycho,,Basis,Häufig,Shigenori Negishi,"normal, reverse, holo",TURBOstart,XY,165
+xy8-59,59,Alpollo,70,Psycho,Nebulak,Rang 1,Ungewöhnlich,Midori Harada,"normal, reverse, holo",TURBOstart,XY,165
+xy8-60,60,Gengar,130,Psycho,Alpollo,Rang 2,Selten,Saya Tsuruta,"normal, reverse, holo",TURBOstart,XY,165
+xy8-61,61,Mewtu EX,170,Psycho,,Basis,Ultra Selten,PLANETA,"normal, reverse, holo",TURBOstart,XY,165
+xy8-62,62,Mewtu EX,170,Psycho,,Basis,Ultra Selten,PLANETA,"normal, reverse, holo",TURBOstart,XY,165
+xy8-63,63,M-Mewtu EX,230,Psycho,Mewtu-EX,MEGA,Ultra Selten,5ban Graphics,"normal, reverse, holo",TURBOstart,XY,165
+xy8-64,64,M-Mewtu EX,210,Psycho,Mewtu-EX,MEGA,Ultra Selten,5ban Graphics,"normal, reverse, holo",TURBOstart,XY,165
+xy8-65,65,Traunfugil,60,Psycho,,Basis,Häufig,sui,"normal, reverse, holo",TURBOstart,XY,165
+xy8-66,66,Traunmagil,90,Psycho,Traunfugil,Rang 1,Selten,Ayaka Yoshida,"normal, reverse, holo",TURBOstart,XY,165
+xy8-67,67,Woingenau,100,Psycho,,Basis,Ungewöhnlich,Akira Komayama,"normal, reverse, holo",TURBOstart,XY,165
+xy8-68,68,Trasla,60,Psycho,,Basis,Häufig,MAHOU,"normal, reverse, holo",TURBOstart,XY,165
+xy8-69,69,Kirlia,80,Psycho,Trasla,Rang 1,Ungewöhnlich,Sanosuke Sakuma,"normal, reverse, holo",TURBOstart,XY,165
+xy8-70,70,Cresselia,110,Psycho,,Basis,Selten,kawayoo,"normal, reverse, holo",TURBOstart,XY,165
+xy8-71,71,Fleknoil,60,Psycho,,Basis,Häufig,match,"normal, reverse, holo",TURBOstart,XY,165
+xy8-72,72,Fletiamo,90,Psycho,Fleknoil,Rang 1,Ungewöhnlich,sui,"normal, reverse, holo",TURBOstart,XY,165
+xy8-73,73,Pygraulon,50,Psycho,,Basis,Häufig,Aya Kusube,"normal, reverse, holo",TURBOstart,XY,165
+xy8-74,74,Megalon,90,Psycho,Pygraulon,Rang 1,Ungewöhnlich,Tomokazu Komiya,"normal, reverse, holo",TURBOstart,XY,165
+xy8-75,75,Sandan,60,Kampf,,Basis,Häufig,Shigenori Negishi,"normal, reverse, holo",TURBOstart,XY,165
+xy8-76,76,Sandamer,90,Kampf,Sandan,Rang 1,Ungewöhnlich,Naoki Saito,"normal, reverse, holo",TURBOstart,XY,165
+xy8-77,77,Tragosso,70,Kampf,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse, holo",TURBOstart,XY,165
+xy8-78,78,Knogga,100,Kampf,Tragosso,Rang 1,Selten,match,"normal, reverse, holo",TURBOstart,XY,165
+xy8-79,79,Knogga-TURBO,140,Kampf,Knogga,TURBO,Ultra Selten,5ban Graphics,"normal, reverse, holo",TURBOstart,XY,165
+xy8-80,80,Quiekel,60,Kampf,,Basis,Häufig,Atsuko Nishida,"normal, reverse, holo",TURBOstart,XY,165
+xy8-81,81,Keifel,100,Kampf,Quiekel,Rang 1,Ungewöhnlich,MAHOU,"normal, reverse, holo",TURBOstart,XY,165
+xy8-82,82,Mamutel,160,Kampf,Keifel,Rang 2,Selten,Masakazu Fukuda,"normal, reverse, holo",TURBOstart,XY,165
+xy8-83,83,Hippopotas,80,Kampf,,Basis,Häufig,Akira Komayama,"normal, reverse, holo",TURBOstart,XY,165
+xy8-84,84,Galagladi,150,Kampf,Kirlia,Rang 2,Selten,5ban Graphics,"normal, reverse, holo",TURBOstart,XY,165
+xy8-85,85,Meloetta,90,Kampf,,Basis,Selten,kirisAki,"normal, reverse, holo",TURBOstart,XY,165
+xy8-86,86,Pam-Pam,60,Kampf,,Basis,Häufig,Mizue,"normal, reverse, holo",TURBOstart,XY,165
+xy8-87,87,Resladero,80,Kampf,,Basis,Selten,match,"normal, reverse, holo",TURBOstart,XY,165
+xy8-88,88,Noktuska,100,Unlicht,Tuska,Rang 1,Ungewöhnlich,match,"normal, reverse, holo",TURBOstart,XY,165
+xy8-89,89,Zorua,60,Unlicht,,Basis,Häufig,Hitoshi Ariga,"normal, reverse, holo",TURBOstart,XY,165
+xy8-90,90,Zorua,60,Unlicht,,Basis,Häufig,Hitoshi Ariga,"normal, reverse, holo",TURBOstart,XY,165
+xy8-91,91,Zoroark,100,Unlicht,Zorua,Rang 1,Selten,kawayoo,"normal, reverse, holo",TURBOstart,XY,165
+xy8-92,92,Zoroark-TURBO,140,Unlicht,Zoroark,TURBO,Ultra Selten,5ban Graphics,"normal, reverse, holo",TURBOstart,XY,165
+xy8-93,93,Iscalar,50,Unlicht,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",TURBOstart,XY,165
+xy8-94,94,Yveltal,130,Unlicht,,Basis,Selten,TOKIYA,"normal, reverse, holo",TURBOstart,XY,165
+xy8-95,95,Bronzel,60,Metall,,Basis,Häufig,Shigenori Negishi,"normal, reverse, holo",TURBOstart,XY,165
+xy8-96,96,Bronzong,110,Metall,Bronzel,Rang 1,Selten,Tomokazu Komiya,"normal, reverse, holo",TURBOstart,XY,165
+xy8-97,97,Pantimos,70,Fee,,Basis,Selten,kirisAki,"normal, reverse, holo",TURBOstart,XY,165
+xy8-98,98,Snubbull,70,Fee,,Basis,Häufig,Yuka Morii,"normal, reverse, holo",TURBOstart,XY,165
+xy8-99,99,Granbull,120,Fee,Snubbull,Rang 1,Ungewöhnlich,Naoki Saito,"normal, reverse, holo",TURBOstart,XY,165
+xy8-100,100,Trasla,60,Fee,,Basis,Häufig,Aya Kusube,"normal, reverse, holo",TURBOstart,XY,165
+xy8-101,101,Flabébé,30,Fee,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",TURBOstart,XY,165
+xy8-102,102,Floette,70,Fee,Flabébé,Rang 1,Ungewöhnlich,Midori Harada,"normal, reverse, holo",TURBOstart,XY,165
+xy8-103,103,Florges,110,Fee,Floette,Rang 2,Selten,Hajime Kusajima,"normal, reverse, holo",TURBOstart,XY,165
+xy8-104,104,Florges-TURBO,140,Fee,Florges,TURBO,Ultra Selten,5ban Graphics,"normal, reverse, holo",TURBOstart,XY,165
+xy8-105,105,Parfi,40,Fee,,Basis,Häufig,Naoyo Kimura,"normal, reverse, holo",TURBOstart,XY,165
+xy8-106,106,Parfinesse,90,Fee,Parfi,Rang 1,Selten,Mizue,"normal, reverse, holo",TURBOstart,XY,165
+xy8-107,107,Xerneas,120,Fee,,Basis,Selten,Mitsuhiro Arita,"normal, reverse, holo",TURBOstart,XY,165
+xy8-108,108,Milza,60,Drache,,Basis,Häufig,Kagemaru Himeno,"normal, reverse, holo",TURBOstart,XY,165
+xy8-109,109,Milza,60,Drache,,Basis,Häufig,Kagemaru Himeno,"normal, reverse, holo",TURBOstart,XY,165
+xy8-110,110,Sharfax,80,Drache,Milza,Rang 1,Ungewöhnlich,Mitsuhiro Arita,"normal, reverse, holo",TURBOstart,XY,165
+xy8-111,111,Maxax,160,Drache,Sharfax,Rang 2,Selten,hatachu,"normal, reverse, holo",TURBOstart,XY,165
+xy8-112,112,UHaFnir,100,Drache,eF-eM,Rang 1,Selten,Mitsuhiro Arita,"normal, reverse, holo",TURBOstart,XY,165
+xy8-113,113,UHaFnir-TURBO,130,Drache,UHaFnir,TURBO,Ultra Selten,5ban Graphics,"normal, reverse, holo",TURBOstart,XY,165
+xy8-114,114,Mauzi,60,Farblos,,Basis,Häufig,kirisAki,"normal, reverse, holo",TURBOstart,XY,165
+xy8-115,115,Dodu,60,Farblos,,Basis,Häufig,Naoki Saito,"normal, reverse, holo",TURBOstart,XY,165
+xy8-116,116,Dodu,60,Farblos,,Basis,Häufig,Naoki Saito,"normal, reverse, holo",TURBOstart,XY,165
+xy8-117,117,Dodri,90,Farblos,Dodu,Rang 1,Selten,TOKIYA,"normal, reverse, holo",TURBOstart,XY,165
+xy8-118,118,Relaxo,120,Farblos,,Basis,Ungewöhnlich,Kouki Saitou,"normal, reverse, holo",TURBOstart,XY,165
+xy8-119,119,Hoothoot,60,Farblos,,Basis,Häufig,Miki Tanaka,"normal, reverse, holo",TURBOstart,XY,165
+xy8-120,120,Noctuh,90,Farblos,Hoothoot,Rang 1,Selten,Kouki Saitou,"normal, reverse, holo",TURBOstart,XY,165
+xy8-121,121,Teddiursa,70,Farblos,,Basis,Häufig,sui,"normal, reverse, holo",TURBOstart,XY,165
+xy8-122,122,Ursaring,130,Farblos,Teddiursa,Rang 1,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",TURBOstart,XY,165
+xy8-123,123,Farbeagle,70,Farblos,,Basis,Selten,Yukiko Baba,"normal, reverse, holo",TURBOstart,XY,165
+xy8-124,124,Wablu,40,Farblos,,Basis,Häufig,Mizue,"normal, reverse, holo",TURBOstart,XY,165
+xy8-125,125,Staralili,50,Farblos,,Basis,Häufig,Kyoko Umemoto,"normal, reverse, holo",TURBOstart,XY,165
+xy8-126,126,Staravia,80,Farblos,Staralili,Rang 1,Ungewöhnlich,Suwama Chiaki,"normal, reverse, holo",TURBOstart,XY,165
+xy8-127,127,Staraptor,140,Farblos,Staravia,Rang 2,Selten,Kouki Saitou,"normal, reverse, holo",TURBOstart,XY,165
+xy8-128,128,Plaudagei,70,Farblos,,Basis,Selten,Akira Komayama,"normal, reverse, holo",TURBOstart,XY,165
+xy8-129,129,Geronimatz,50,Farblos,,Basis,Häufig,Tomokazu Komiya,"normal, reverse, holo",TURBOstart,XY,165
+xy8-130,130,Washakwil,100,Farblos,Geronimatz,Rang 1,Selten,match,"normal, reverse, holo",TURBOstart,XY,165
+xy8-131,131,eF-eM,50,Farblos,,Basis,Häufig,sui,"normal, reverse, holo",TURBOstart,XY,165
+xy8-132,132,eF-eM,60,Farblos,,Basis,Häufig,Kagemaru Himeno,"normal, reverse, holo",TURBOstart,XY,165
+xy8-133,133,Offensivweste,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",TURBOstart,XY,165
+xy8-134,134,Linette,,,,,Ungewöhnlich,Megumi Mizutani,"normal, reverse, holo",TURBOstart,XY,165
+xy8-135,135,Vetternhilfe,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",TURBOstart,XY,165
+xy8-136,136,Angler,,,,,Ungewöhnlich,Hitoshi Ariga,"normal, reverse, holo",TURBOstart,XY,165
+xy8-137,137,Leichtstein,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",TURBOstart,XY,165
+xy8-138,138,Giovannis Intrige,,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse, holo",TURBOstart,XY,165
+xy8-139,139,Firnontors Geistesbund,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",TURBOstart,XY,165
+xy8-140,140,Schwerball,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",TURBOstart,XY,165
+xy8-141,141,Schwere Stiefel,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",TURBOstart,XY,165
+xy8-142,142,Hundemons Geistesbund,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",TURBOstart,XY,165
+xy8-143,143,Richter,,,,,Ungewöhnlich,Megumi Mizutani,"normal, reverse, holo",TURBOstart,XY,165
+xy8-144,144,Mewtus Geistesbund,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",TURBOstart,XY,165
+xy8-145,145,Parallelstadt,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",TURBOstart,XY,165
+xy8-146a,146a,Brief vom Prof.,,,,,Keine,,"normal, reverse, holo",TURBOstart,XY,165
+xy8-146,146,Brief vom Prof.,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",TURBOstart,XY,165
+xy8-147,147,Vorbestellte Fahrkarte,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",TURBOstart,XY,165
+xy8-148,148,Géraldine,,,,,Ungewöhnlich,Yusuke Ohmura,"normal, reverse, holo",TURBOstart,XY,165
+xy8-149,149,Superangel,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",TURBOstart,XY,165
+xy8-150,150,Karte,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",TURBOstart,XY,165
+xy8-151,151,Brand-Energie,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",TURBOstart,XY,165
+xy8-152,152,Regenbogen-Energie,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",TURBOstart,XY,165
+xy8-153,153,Hundemon EX,170,Feuer,,Basis,Ultra Selten,Ryo Ueda,"normal, reverse, holo",TURBOstart,XY,165
+xy8-154,154,M-Hundemon EX,210,Feuer,Hundemon-EX,MEGA,Ultra Selten,5ban Graphics,"normal, reverse, holo",TURBOstart,XY,165
+xy8-155,155,Firnontor EX,170,Wasser,,Basis,Ultra Selten,Ryo Ueda,"normal, reverse, holo",TURBOstart,XY,165
+xy8-156,156,M-Firnontor EX,220,Wasser,Firnontor-EX,MEGA,Ultra Selten,5ban Graphics,"normal, reverse, holo",TURBOstart,XY,165
+xy8-157,157,Mewtu EX,170,Psycho,,Basis,Ultra Selten,Ryo Ueda,"normal, reverse, holo",TURBOstart,XY,165
+xy8-158,158,Mewtu EX,170,Psycho,,Basis,Ultra Selten,Ryo Ueda,"normal, reverse, holo",TURBOstart,XY,165
+xy8-159,159,M-Mewtu EX,230,Psycho,Mewtu-EX,MEGA,Ultra Selten,5ban Graphics,"normal, reverse, holo",TURBOstart,XY,165
+xy8-160,160,M-Mewtu EX,210,Psycho,Mewtu-EX,MEGA,Ultra Selten,5ban Graphics,"normal, reverse, holo",TURBOstart,XY,165
+xy8-161,161,Linette,,,,,Ultra Selten,Megumi Mizutani,"normal, reverse, holo",TURBOstart,XY,165
+xy8-162,162,Giovannis Intrige,,,,,Ultra Selten,Ken Sugimori,"normal, reverse, holo",TURBOstart,XY,165
+xy8-163,163,Mewtu EX,170,Psycho,,Basis,Versteckt Selten,Mitsuhiro Arita,"normal, reverse, holo",TURBOstart,XY,165
+xy8-164,164,Mewtu EX,170,Psycho,,Basis,Versteckt Selten,Mitsuhiro Arita,"normal, reverse, holo",TURBOstart,XY,165

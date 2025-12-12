@@ -1,0 +1,125 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+hgss1-1,1,Arkani,110,Feuer,,Rang 1,"Selten, Holografisch",Naoki Saito,"normal, reverse, holo",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-2,2,Azumarill,90,Wasser,,Rang 1,"Selten, Holografisch",Kouki Saitou,"reverse, holo",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-3,3,Pixi,80,Farblos,,Rang 1,"Selten, Holografisch",Masakazu Fukuda,"reverse, holo",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-4,4,Garados,130,Wasser,,Rang 1,"Selten, Holografisch",Mitsuhiro Arita,"reverse, holo",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-5,5,Kapoera,60,Kampf,,Basis,"Selten, Holografisch",Ken Sugimori,"reverse, holo",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-6,6,Papungha,90,Pflanze,,Rang 2,"Selten, Holografisch",sui,"reverse, holo",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-7,7,Vulnona,90,Feuer,,Rang 1,"Selten, Holografisch",TOKIYA,"reverse, holo",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-8,8,Noctuh,90,Farblos,,Rang 1,"Selten, Holografisch",Suwama Chiaki,"normal, reverse, holo",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-9,9,Morlord,100,Wasser,,Rang 1,"Selten, Holografisch",match,"reverse, holo",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-10,10,Raichu,90,Elektro,,Rang 1,"Selten, Holografisch",match,"reverse, holo",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-11,11,Pottrott,60,Pflanze,,Basis,"Selten, Holografisch",Sumiyoshi Kizuki,"reverse, holo",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-12,12,Laschoking,80,Psycho,,Rang 1,"Selten, Holografisch",Sumiyoshi Kizuki,"reverse, holo",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-13,13,Woingenau,90,Psycho,,Basis,"Selten, Holografisch",Yuka Morii,"reverse, holo",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-14,14,Ampharos,120,Elektro,,Rang 2,Selten,Masakazu Fukuda,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-15,15,Ariados,80,Pflanze,,Rang 1,Selten,Ken Sugimori,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-16,16,Smettbo,120,Pflanze,,Rang 2,Selten,Tomokazu Komiya,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-17,17,Pii,30,Farblos,,Basis,Selten,Masakazu Fukuda,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-18,18,Kokowei,90,Psycho,,Rang 1,Selten,Miki Tanaka,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-19,19,Porenta,60,Farblos,,Basis,Selten,Aya Kusube,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-20,20,Impergator,130,Wasser,,Rang 2,Selten,kawayoo,"normal, reverse, holo",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-21,21,Wiesenior,80,Farblos,,Rang 1,Selten,MAHOU,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-22,22,Granbull,90,Farblos,,Rang 1,Selten,Ken Sugimori,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-23,23,Hypno,90,Psycho,,Rang 1,Selten,Masakazu Fukuda,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-24,24,Lapras,90,Wasser,,Basis,Selten,Suwama Chiaki,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-25,25,Ledian,80,Pflanze,,Rang 1,Selten,Yuka Morii,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-26,26,Meganie,130,Pflanze,,Rang 2,Selten,Shin Nagasawa,"normal, reverse, holo",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-27,27,Snobilikat,80,Farblos,,Rang 1,Selten,Kagemaru Himeno,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-28,28,Pichu,30,Elektro,,Basis,Selten,match,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-29,29,Sandamer,80,Kampf,,Rang 1,Selten,Yukiko Baba,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-30,30,Kussilla,30,Psycho,,Basis,Selten,Midori Harada,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-31,31,Sonnflora,80,Pflanze,,Rang 1,Selten,Yuka Morii,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-32,32,Tornupto,130,Feuer,,Rang 2,Selten,Kagemaru Himeno,"normal, reverse, holo",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-33,33,Rabauz,30,Kampf,,Basis,Selten,Ken Sugimori,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-34,34,Smogmog,90,Psycho,,Rang 1,Selten,Hajime Kusajima,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-35,35,Lorblatt,90,Pflanze,,Rang 1,Ungewöhnlich,Shin Nagasawa,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-36,36,Heiteira,130,Farblos,,Rang 1,Ungewöhnlich,Kanako Eo,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-37,37,Corasonn,60,Wasser,,Basis,Ungewöhnlich,TOKIYA,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-38,38,Tyracroc,80,Wasser,,Rang 1,Ungewöhnlich,kawayoo,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-39,39,Botogel,70,Wasser,,Basis,Ungewöhnlich,sui,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-40,40,Donphan,100,Kampf,,Rang 1,Ungewöhnlich,Midori Harada,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-41,41,Dummisel,50,Farblos,,Basis,Ungewöhnlich,Ken Sugimori,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-42,42,Waaty,80,Elektro,,Rang 1,Ungewöhnlich,Masakazu Fukuda,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-43,43,Skaraborn,80,Pflanze,,Basis,Ungewöhnlich,Sachiko Adachi,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-44,44,Fluffeluff,30,Farblos,,Basis,Ungewöhnlich,Atsuko Nishida,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-45,45,Mantax,80,Wasser,,Basis,Ungewöhnlich,Naoyo Kimura,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-46,46,Safcon,80,Pflanze,,Rang 1,Ungewöhnlich,Tomokazu Komiya,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-47,47,Miltank,90,Farblos,,Basis,Ungewöhnlich,Miki Tanaka,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-48,48,Parasek,90,Pflanze,,Rang 1,Ungewöhnlich,Midori Harada,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-49,49,Igelavar,80,Feuer,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-50,50,Baldorfish,70,Wasser,,Basis,Ungewöhnlich,Ken Sugimori,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-51,51,Hubelupf,60,Pflanze,,Rang 1,Ungewöhnlich,sui,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-52,52,Lahmus,90,Wasser,,Rang 1,Ungewöhnlich,Sumiyoshi Kizuki,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-53,53,Starmie,90,Wasser,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-54,54,Icognito,50,Psycho,,Basis,Ungewöhnlich,Hideaki Hakozaki,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-55,55,Icognito,50,Psycho,,Basis,Ungewöhnlich,Hideaki Hakozaki,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-56,56,Knuddeluff,90,Farblos,,Rang 1,Ungewöhnlich,Atsuko Nishida,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-57,57,Raupy,30,Pflanze,,Basis,Häufig,Tomokazu Komiya,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-58,58,Chaneira,90,Farblos,,Basis,Häufig,Kanako Eo,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-59,59,Endivie,60,Pflanze,,Basis,Häufig,Shin Nagasawa,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-60,60,Piepi,50,Farblos,,Basis,Häufig,Masakazu Fukuda,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-61,61,Feurigel,60,Feuer,,Basis,Häufig,Kagemaru Himeno,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-62,62,Traumato,60,Psycho,,Basis,Häufig,Masakazu Fukuda,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-63,63,Owei,50,Psycho,,Basis,Häufig,Miki Tanaka,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-64,64,Girafarig,70,Farblos,,Basis,Häufig,Miki Tanaka,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-65,65,Fukano,70,Feuer,,Basis,Häufig,Naoki Saito,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-66,66,Hoothoot,50,Farblos,,Basis,Häufig,Suwama Chiaki,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-67,67,Hoppspross,30,Pflanze,,Basis,Häufig,sui,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-68,68,Pummeluff,60,Farblos,,Basis,Häufig,Atsuko Nishida,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-69,69,Rossana,70,Psycho,,Basis,Häufig,Midori Harada,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-70,70,Smogon,50,Psycho,,Basis,Häufig,Hajime Kusajima,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-71,71,Ledyba,50,Pflanze,,Basis,Häufig,Yuka Morii,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-72,72,Karpador,30,Wasser,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-73,73,Voltilamm,40,Elektro,,Basis,Häufig,Masakazu Fukuda,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-74,74,Marill,60,Wasser,,Basis,Häufig,Kouki Saitou,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-75,75,Mauzi,60,Farblos,,Basis,Häufig,Kagemaru Himeno,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-76,76,Paras,50,Pflanze,,Basis,Häufig,Midori Harada,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-77,77,Phanpy,70,Kampf,,Basis,Häufig,Midori Harada,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-78,78,Pikachu,60,Elektro,,Basis,Häufig,match,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-79,79,Sandan,60,Kampf,,Basis,Häufig,Yukiko Baba,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-80,80,Wiesor,50,Farblos,,Basis,Häufig,MAHOU,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-81,81,Flegmon,60,Wasser,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-82,82,Snubbull,50,Farblos,,Basis,Häufig,Ken Sugimori,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-83,83,Webarak,50,Pflanze,,Basis,Häufig,Ken Sugimori,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-84,84,Sterndu,50,Wasser,,Basis,Häufig,Kagemaru Himeno,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-85,85,Sonnkern,40,Pflanze,,Basis,Häufig,Yuka Morii,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-86,86,Karnimani,60,Wasser,,Basis,Häufig,kawayoo,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-87,87,Vulpix,50,Feuer,,Basis,Häufig,TOKIYA,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-88,88,Felino,50,Wasser,,Basis,Häufig,match,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-89,89,Bill,0,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-90,90,Nachahmerin,0,,,,Ungewöhnlich,Kanako Eo,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-91,91,Energie-Umschalter,0,,,,Ungewöhnlich,Wataru Kawahara,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-92,92,Angler,0,,,,Ungewöhnlich,Kanako Eo,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-93,93,Hyperheiler,,,,,Ungewöhnlich,Takashi Yamaguchi,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-94,94,Kuhmuh-Milch,0,,,,Ungewöhnlich,Noriko Hotta,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-95,95,Pokéball,0,,,,Ungewöhnlich,Hideaki Hakozaki,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-96,96,Pokécom 3.0,0,,,,Ungewöhnlich,Noriko Hotta,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-97,97,Pokémon-Sammler,,,,,Ungewöhnlich,Masakazu Fukuda,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-98,98,Pokémon-Kommunikation,0,,,,Ungewöhnlich,Takashi Yamaguchi,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-99,99,Pokémon-Umkehrung,0,,,,Ungewöhnlich,Wataru Kawahara,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-100,100,Professor Linds Trainingsmethoden,0,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-101,101,Professor Eichs neue Theorie,0,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-102,102,Tausch,0,,,,Ungewöhnlich,Hideaki Hakozaki,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-103,103,Doppel-Farblos-Energie,0,,,,Ungewöhnlich,Kent Kanetsuna,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-104,104,Regenbogen-Energie,0,,,,Ungewöhnlich,Kent Kanetsuna,"normal, reverse",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-105,105,Ampharos,140,Elektro,,Rang 2,"selten, Primus",Kent Kanetsuna,holo,HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-106,106,Heiteira,130,Farblos,,Rang 1,"selten, Primus",Noriko Hotta,holo,HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-107,107,Donphan,120,Kampf,,Rang 1,"selten, Primus",Kent Kanetsuna,holo,HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-108,108,Impergator,140,Wasser,,Rang 2,"selten, Primus",Kent Kanetsuna,holo,HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-109,109,Meganie,150,Pflanze,,Rang 2,"selten, Primus",Takashi Yamaguchi,holo,HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-110,110,Tornupto,140,Feuer,,Rang 2,"selten, Primus",Wataru Kawahara,holo,HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-111,111,Ho-Oh LEGENDE,140,Feuer,,Basis,LEGENDE,Shinji Higuchi,holo,HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-112,112,Ho-Oh LEGENDE,140,Feuer,,Basis,LEGENDE,Shinji Higuchi,holo,HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-113,113,Lugia LEGENDE,130,Wasser,,Basis,LEGENDE,Shinji Higuchi,holo,HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-114,114,Lugia LEGENDE,130,Wasser,,Basis,LEGENDE,Shinji Higuchi,holo,HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-115,115,Pflanzenenergie,0,,,,Häufig,,normal,HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-116,116,Feuerenergie,0,,,,Häufig,,normal,HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-117,117,Wasserenergie,0,,,,Häufig,,normal,HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-118,118,Elektroenergie,0,,,,Häufig,,normal,HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-119,119,Psychoenergie,0,,,,Häufig,,normal,HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-120,120,Kampfenergie,0,,,,Häufig,,normal,HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-121,121,Finsternis-Energie,0,,,,Häufig,,normal,HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-122,122,Metall-Energie,0,,,,Häufig,,normal,HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-123,123,Garados,130,Wasser,,Rang 1,Selten,Wataru Kawahara,"reverse, holo",HeartGold SoulSilver,HeartGold SoulSilver,124
+hgss1-ONE,ONE,Alph Lithograph,0,,,,Ultra Selten,Milky Isobe,normal,HeartGold SoulSilver,HeartGold SoulSilver,124

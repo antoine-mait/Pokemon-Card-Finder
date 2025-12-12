@@ -1,0 +1,113 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+xy6-1,1,Exeggcute,40,Grass,,Basic,Common,Tomokazu Komiya,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-2,2,Exeggutor,120,Grass,Exeggcute,Stage1,Uncommon,Shin Nagasawa,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-3,3,Wurmple,60,Grass,,Basic,Common,Naoyo Kimura,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-4,4,Silcoon,80,Grass,Wurmple,Stage1,Uncommon,Shigenori Negishi,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-5,5,Beautifly,130,Grass,Silcoon,Stage2,Rare,Midori Harada,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-6,6,Cascoon,80,Grass,Wurmple,Stage1,Common,MAHOU,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-7,7,Dustox,140,Grass,Cascoon,Stage2,Uncommon,Akira Komayama,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-8,8,Dustox,130,Grass,Cascoon,Stage2,Rare,match,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-9,9,Nincada,40,Grass,,Basic,Common,Kyoko Umemoto,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-10,10,Ninjask,70,Grass,Nincada,Stage1,Uncommon,Sumiyoshi Kizuki,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-11,11,Shedinja,30,Grass,Nincada,Stage1,Rare,Aya Kusube,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-12,12,Tropius,110,Grass,,Basic,Uncommon,Kyoko Umemoto,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-13,13,Victini,70,Fire,,Basic,Rare,Kouki Saitou,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-14,14,Fletchinder,70,Fire,Fletchling,Stage1,Uncommon,Naoyo Kimura,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-15,15,Talonflame,130,Fire,Fletchinder,Stage2,Rare,Masakazu Fukuda,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-16,16,Articuno,120,Water,,Basic,Rare,Naoki Saito,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-17,17,Articuno,120,Water,,Basic,Rare,5ban Graphics,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-18,18,Wingull,60,Water,,Basic,Common,MAHOU,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-19,19,Pelipper,100,Water,Wingull,Stage1,Uncommon,Midori Harada,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-20,20,Pikachu,60,Lightning,,Basic,Common,Naoki Saito,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-21,21,Voltorb,60,Lightning,,Basic,Common,Suwama Chiaki,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-22,22,Electrode,90,Lightning,Voltorb,Stage1,Uncommon,Tomokazu Komiya,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-23,23,Zapdos,120,Lightning,,Basic,Rare,Hitoshi Ariga,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-24,24,Electrike,60,Lightning,,Basic,Common,Akira Komayama,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-25,25,Manectric,90,Lightning,Electrike,Stage1,Uncommon,match,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-26,26,Thundurus EX,170,Lightning,,Basic,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-27,27,Natu,50,Psychic,,Basic,Common,Atsuko Nishida,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-28,28,Natu,40,Psychic,,Basic,Common,Kagemaru Himeno,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-29,29,Xatu,90,Psychic,Natu,Stage1,Rare,Hajime Kusajima,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-30,30,Shuppet,60,Psychic,,Basic,Common,Yukiko Baba,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-31,31,Banette,80,Psychic,Shuppet,Stage1,Rare,Aya Kusube,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-32,32,Banette,90,Psychic,Shuppet,Stage1,Rare,Shin Nagasawa,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-33,33,Deoxys,110,Psychic,,Basic,Rare,kawayoo,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-34,34,Gallade EX,170,Psychic,,Basic,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-35,35,M Gallade EX,220,Psychic,Gallade-EX,MEGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-36,36,Gligar,70,Fighting,,Basic,Common,Suwama Chiaki,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-37,37,Gliscor,90,Fighting,Gligar,Stage1,Uncommon,Hajime Kusajima,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-38,38,Binacle,60,Fighting,,Basic,Common,Kanako Eo,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-39,39,Hawlucha,80,Fighting,,Basic,Common,Shin Nagasawa,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-40,40,Absol,100,Darkness,,Basic,Rare,Kagemaru Himeno,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-41,41,Inkay,50,Darkness,,Basic,Common,Akira Komayama,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-42,42,Jirachi,70,Metal,,Basic,Rare,Sanosuke Sakuma,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-43,43,Togepi,40,Fairy,,Basic,Common,HiRON,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-44,44,Togetic,80,Fairy,Togepi,Stage1,Uncommon,Kanako Eo,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-45,45,Togekiss,140,Fairy,Togetic,Stage2,Rare,Sumiyoshi Kizuki,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-46,46,Togekiss,130,Fairy,Togetic,Stage2,Rare,PLANETA,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-47,47,Carbink,70,Fairy,,Basic,Rare,Akira Komayama,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-48,48,Klefki,60,Fairy,,Basic,Rare,Kagemaru Himeno,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-49,49,Dratini,50,Dragon,,Basic,Common,Miki Tanaka,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-50,50,Dragonair,80,Dragon,Dratini,Stage1,Uncommon,Mizue,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-51,51,Dragonite,150,Dragon,Dragonair,Stage2,Rare,kawayoo,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-52,52,Dragonite,160,Dragon,Dragonair,Stage2,Rare,hatachu,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-53,53,Altaria,80,Dragon,Swablu,Stage1,Uncommon,Mitsuhiro Arita,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-54,54,Bagon,60,Dragon,,Basic,Common,Kagemaru Himeno,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-55,55,Bagon,60,Dragon,,Basic,Common,kirisAki,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-56,56,Shelgon,80,Dragon,Bagon,Stage1,Uncommon,sui,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-57,57,Salamence,160,Dragon,Shelgon,Stage2,Rare,TOKIYA,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-58,58,Latios EX,170,Dragon,,Basic,Ultra Rare,Ayaka Yoshida,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-59,59,M Latios EX,220,Dragon,Latios-EX,MEGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-60,60,Rayquaza EX,180,Dragon,,Basic,Ultra Rare,PLANETA,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-61,61,M Rayquaza EX,230,Dragon,Rayquaza-EX,MEGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-62,62,Hydreigon EX,180,Dragon,,Basic,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-63,63,Reshiram,130,Dragon,,Basic,Rare,Kouki Saitou,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-64,64,Zekrom,130,Dragon,,Basic,Rare,kawayoo,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-65,65,Spearow,60,Colorless,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-66,66,Fearow,100,Colorless,Spearow,Stage1,Uncommon,Satoshi Shirai,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-67,67,Meowth,60,Colorless,,Basic,Common,Akira Komayama,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-68,68,Dunsparce,60,Colorless,,Basic,Common,Yuka Morii,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-69,69,Skarmory,100,Colorless,,Basic,Rare,Hitoshi Ariga,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-70,70,Taillow,50,Colorless,,Basic,Common,Atsuko Nishida,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-71,71,Swellow,90,Colorless,Taillow,Stage1,Rare,Sanosuke Sakuma,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-72,72,Swellow,90,Colorless,Taillow,Stage1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-73,73,Swablu,40,Colorless,,Basic,Common,Mizue,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-74,74,Altaria,90,Colorless,Swablu,Stage1,Rare,Naoki Saito,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-75,75,Rayquaza EX,170,Colorless,,Basic,Ultra Rare,Ryota Murayama,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-76,76,M Rayquaza EX,220,Colorless,Rayquaza-EX,MEGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-77a,77a,Shaymin EX,110,Colorless,,Basic,Rare,Ayaka Yoshida,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-77,77,Shaymin EX,110,Colorless,,Basic,Ultra Rare,Ayaka Yoshida,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-78,78,Pidove,60,Colorless,,Basic,Common,kirisAki,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-79,79,Tranquill,80,Colorless,Pidove,Stage1,Uncommon,sui,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-80,80,Unfezant,130,Colorless,Tranquill,Stage2,Uncommon,Shigenori Negishi,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-81,81,Unfezant,140,Colorless,Tranquill,Stage2,Rare,TOKIYA,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-82,82,Fletchling,40,Colorless,,Basic,Common,Kanako Eo,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-83,83,Gallade Spirit Link,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-84,84,Healing Scarf,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-85,85,Latios Spirit Link,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-86,86,Mega Turbo,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-87,87,Rayquaza Spirit Link,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-88,88,Revive,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-89,89,Sky Field,,,,,Uncommon,Ayaka Yoshida,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-90,90,Steven,,,,,Uncommon,Megumi Mizutani,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-91,91,Switch,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-92,92,Trainers' Mail,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-92a,92a,Trainers' Mail,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-93,93,Ultra Ball,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-94,94,Wally,,,,,Uncommon,Megumi Mizutani,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-95,95,Wide Lens,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-96,96,Winona,,,,,Uncommon,Megumi Mizutani,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-97,97,Double Dragon Energy,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-98,98,Thundurus EX,170,Lightning,,Basic,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-99,99,Gallade EX,170,Psychic,,Basic,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-100,100,M Gallade EX,220,Psychic,Gallade-EX,MEGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-101,101,Latios EX,170,Dragon,,Basic,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-102,102,M Latios EX,220,Dragon,Latios-EX,MEGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-103,103,Hydreigon EX,180,Dragon,,Basic,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-104,104,Rayquaza EX,170,Colorless,,Basic,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-105,105,M Rayquaza EX,220,Colorless,Rayquaza-EX,MEGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-106,106,Shaymin EX,110,Colorless,,Basic,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-107,107,Wally,,,,,Ultra Rare,Emi Ando,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-108,108,Winona,,,,,Ultra Rare,Megumi Mizutani,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-109,109,Energy Switch,,,,,Secret Rare,5ban Graphics,"normal, reverse, holo",Roaring Skies,XY,112
+xy6-110,110,VS Seeker,,,,,Secret Rare,5ban Graphics,"normal, reverse, holo",Roaring Skies,XY,112

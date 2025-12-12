@@ -1,0 +1,57 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+dpp-DP01,DP01,Turtwig,60,Grass,,Basic,Common,Masakazu Fukuda,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP02,DP02,Chimchar,50,Fire,,Basic,Common,Kagemaru Himeno,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP03,DP03,Piplup,60,Water,,Basic,Common,Atsuko Nishida,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP04,DP04,Pachirisu,70,Lightning,,Basic,Common,Atsuko Nishida,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP05,DP05,Tropical Wind,,,,,Common,Sumiyoshi Kizuki,normal,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP06,DP06,Buneary,50,Colorless,,Basic,Common,Kagemaru Himeno,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP07,DP07,Cranidos,70,Fighting,Skull Fossil,Stage1,Common,Mitsuhiro Arita,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP08,DP08,Shieldon,80,Metal,Armor Fossil,Stage1,Common,Kouki Saitou,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP09,DP09,Torterra,160,Grass,,LEVEL-UP,Common,Shizurow,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP10,DP10,Infernape,120,Fire,,LEVEL-UP,Common,Shizurow,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP11,DP11,Empoleon,140,Water,,LEVEL-UP,Common,Shizurow,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP12,DP12,Lucario,110,Fighting,,LEVEL-UP,Common,Ryo Ueda,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP13,DP13,Buizel,60,Water,,Basic,Common,Mitsuhiro Arita,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP14,DP14,Chatot,60,Colorless,,Basic,Common,Masakazu Fukuda,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP15,DP15,Shinx,60,Lightning,,Basic,Common,Kagemaru Himeno,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP16,DP16,Pikachu,60,Lightning,,Basic,Common,Sumiyoshi Kizuki,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP17,DP17,Dialga,120,Metal,,LEVEL-UP,Common,Ryo Ueda,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP18,DP18,Palkia,120,Water,,LEVEL-UP,Common,Ryo Ueda,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP19,DP19,Darkrai,100,Darkness,,LEVEL-UP,Common,Shizurow,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP20,DP20,Magmortar,100,Fire,Magmar,Stage1,Common,Hiroaki Ito,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP21,DP21,Raichu,90,Lightning,Pikachu,Stage1,Common,Daisuke Ito,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP22,DP22,Mime Jr.,40,Psychic,,Basic,Common,Mitsuhiro Arita,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP23,DP23,Glameow,50,Colorless,,Basic,Common,Mitsuhiro Arita,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP24,DP24,Darkrai,80,Darkness,,Basic,Common,Kouki Saitou,"normal, holo",DP Black Star Promos,Diamond & Pearl,56
+dpp-DP25,DP25,Tropical Wind,,,,,Common,Sumiyoshi Kizuki,normal,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP26,DP26,Dialga,90,Metal,,Basic,Common,Kazuyuki Kano,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP27,DP27,Palkia,90,Water,,Basic,Common,Daisuke Ito,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP28,DP28,Mewtwo,120,Psychic,,LEVEL-UP,Common,Shizurow,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP29,DP29,Rhyperior,170,Fighting,,LEVEL-UP,Common,Ryo Ueda,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP30,DP30,Regigigas,150,Colorless,,LEVEL-UP,Common,Shizurow,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP31,DP31,Heatran,120,Fire,,LEVEL-UP,Common,Shizurow,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP32,DP32,Magnezone,130,Metal,Magneton,Stage2,Common,Kent Kanetsuna,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP33,DP33,Dusknoir,130,Psychic,Dusclops,Stage2,Common,Kent Kanetsuna,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP34,DP34,Drifblim,80,Psychic,Drifloon,Stage1,Common,Mitsuhiro Arita,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP35,DP35,Porygon-Z,120,Colorless,Porygon2,Stage2,Common,Kagemaru Himeno,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP36,DP36,Gliscor,90,Fighting,Gligar,Stage1,Common,Kagemaru Himeno,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP37,DP37,Dialga,120,Metal,,LEVEL-UP,Common,Ryo Ueda,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP38,DP38,Giratina,130,Psychic,,LEVEL-UP,Common,Shizurow,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP39,DP39,Shaymin,110,Grass,,LEVEL-UP,Common,Shizurow,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP40,DP40,Regigigas,100,Colorless,,Basic,Common,Kagemaru Himeno,"normal, holo",DP Black Star Promos,Diamond & Pearl,56
+dpp-DP41,DP41,Toxicroak G,90,Fighting,,Basic,Common,Ryota Saito,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP42,DP42,Carnivine G,80,Grass,,Basic,Common,Makoto Imai,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP43,DP43,Probopass G,90,Fighting,,Basic,Common,Ryota Saito,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP44,DP44,Magnezone,130,Lightning,Magneton,Stage2,Common,Kagemaru Himeno,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP45,DP45,Charizard G,120,Fire,,LEVEL-UP,Common,Wataru Kawahara,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP46,DP46,Garchomp C,110,Colorless,,LEVEL-UP,Common,Shizurow,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP47,DP47,Rayquaza C,120,Colorless,,LEVEL-UP,Common,,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP48,DP48,Tropical Wind,,,,,Common,Sumiyoshi Kizuki,normal,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP49,DP49,Dialga,100,Metal,,Basic,Common,Kagemaru Himeno,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP50,DP50,Arceus,90,Colorless,,Basic,Common,Kunihiko Yuyama,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP51,DP51,Cresselia,90,Psychic,,Basic,Common,Wataru Kawahara,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP52,DP52,Darkrai,90,Darkness,,Basic,Common,Wataru Kawahara,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP53,DP53,Arceus,120,Colorless,,LEVEL-UP,Common,Shizurow,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP54,DP54,Beginning Door,,,,,Common,Ryo Ueda,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP55,DP55,Ultimate Zone,,,,,Common,Yusuke Ishikawa,holo,DP Black Star Promos,Diamond & Pearl,56
+dpp-DP56,DP56,Arceus,120,Colorless,,LEVEL-UP,Common,Ryo Ueda,holo,DP Black Star Promos,Diamond & Pearl,56

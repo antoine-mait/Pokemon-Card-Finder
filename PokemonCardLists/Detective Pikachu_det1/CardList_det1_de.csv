@@ -1,0 +1,19 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+det1-1,1,Bisasam,60,Pflanze,,Basis,Häufig,MPC Film,"normal, reverse, holo",Meisterdetektiv Pikachu,Sonne & Mond,18
+det1-2,2,Kappalores,140,Pflanze,,Rang 2,Selten,Framestore,"normal, reverse, holo",Meisterdetektiv Pikachu,Sonne & Mond,18
+det1-3,3,Bubungus,50,Pflanze,,Basis,Häufig,MPC Film,"normal, reverse, holo",Meisterdetektiv Pikachu,Sonne & Mond,18
+det1-4,4,Glumanda,60,Feuer,,Basis,Häufig,MPC Film,"normal, reverse, holo",Meisterdetektiv Pikachu,Sonne & Mond,18
+det1-5,5,Glurak,180,Feuer,,Rang 2,Ultra Selten,Framestore,"normal, reverse, holo",Meisterdetektiv Pikachu,Sonne & Mond,18
+det1-6,6,Arkani,120,Feuer,,Rang 1,Selten,MPC Film,"normal, reverse, holo",Meisterdetektiv Pikachu,Sonne & Mond,18
+det1-7,7,Enton,80,Wasser,,Basis,Häufig,Framestore,"normal, reverse, holo",Meisterdetektiv Pikachu,Sonne & Mond,18
+det1-8,8,Karpador,30,Wasser,,Basis,Häufig,Framestore,"normal, reverse, holo",Meisterdetektiv Pikachu,Sonne & Mond,18
+det1-9,9,Quajutsu,140,Wasser,,Rang 2,Ultra Selten,MPC Film,"normal, reverse, holo",Meisterdetektiv Pikachu,Sonne & Mond,18
+det1-10,10,Meisterdetektiv Pikachu,90,Elektro,,Basis,Selten,MPC Film,"normal, reverse, holo",Meisterdetektiv Pikachu,Sonne & Mond,18
+det1-11,11,Pantimos,80,Psycho,,Basis,Selten,MPC Film,"normal, reverse, holo",Meisterdetektiv Pikachu,Sonne & Mond,18
+det1-12,12,Mewtu,130,Psycho,,Basis,Ultra Selten,MPC Film,"normal, reverse, holo",Meisterdetektiv Pikachu,Sonne & Mond,18
+det1-13,13,Machomei,160,Kampf,,Rang 2,Selten,MPC Film,"normal, reverse, holo",Meisterdetektiv Pikachu,Sonne & Mond,18
+det1-14,14,Pummeluff,60,Fee,,Basis,Häufig,Framestore,"normal, reverse, holo",Meisterdetektiv Pikachu,Sonne & Mond,18
+det1-15,15,Snubbull,70,Fee,,Basis,Häufig,Framestore,"normal, reverse, holo",Meisterdetektiv Pikachu,Sonne & Mond,18
+det1-16,16,Schlurp,100,Farblos,,Basis,Häufig,MPC Film,"normal, reverse, holo",Meisterdetektiv Pikachu,Sonne & Mond,18
+det1-17,17,Ditto,60,Farblos,,Basis,Ultra Selten,MPC Film,"normal, reverse, holo",Meisterdetektiv Pikachu,Sonne & Mond,18
+det1-18,18,Letarking,180,Farblos,,Rang 2,Selten,Framestore,"normal, reverse, holo",Meisterdetektiv Pikachu,Sonne & Mond,18

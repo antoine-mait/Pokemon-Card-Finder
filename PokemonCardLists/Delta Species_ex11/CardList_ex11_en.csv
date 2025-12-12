@@ -1,0 +1,115 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+ex11-1,1,Beedrill δ,90,"Grass, Metal",Kakuna,Stage2,Rare,Masakazu Fukuda,holo,Delta Species,EX,114
+ex11-2,2,Crobat δ,90,"Grass, Metal",Golbat,Stage2,Rare,Ryo Ueda,holo,Delta Species,EX,114
+ex11-3,3,Dragonite δ,100,"Lightning, Metal",Dragonair,Stage2,Rare,Ryo Ueda,holo,Delta Species,EX,114
+ex11-4,4,Espeon δ,70,"Psychic, Metal",Eevee,Stage1,Rare,Ryo Ueda,holo,Delta Species,EX,114
+ex11-5,5,Flareon δ,70,"Fire, Metal",Eevee,Stage1,Rare,Kouki Saitou,holo,Delta Species,EX,114
+ex11-6,6,Gardevoir δ,100,"Psychic, Metal",Kirlia,Stage2,Rare,Mitsuhiro Arita,holo,Delta Species,EX,114
+ex11-7,7,Jolteon δ,70,"Lightning, Metal",Eevee,Stage1,Rare,Kouki Saitou,holo,Delta Species,EX,114
+ex11-8,8,Latias δ,70,"Lightning, Metal",,Basic,Rare,Ryo Ueda,holo,Delta Species,EX,114
+ex11-9,9,Latios δ,80,"Lightning, Metal",,Basic,Rare,Ryo Ueda,holo,Delta Species,EX,114
+ex11-10,10,Marowak δ,80,"Fighting, Metal",Cubone,Stage1,Rare,Hajime Kusajima,holo,Delta Species,EX,114
+ex11-11,11,Metagross δ,100,"Lightning, Metal",Metang,Stage2,Rare,Masakazu Fukuda,holo,Delta Species,EX,114
+ex11-12,12,Mewtwo δ,70,"Fire, Metal",,Basic,Rare,Ryo Ueda,holo,Delta Species,EX,114
+ex11-13,13,Rayquaza δ,90,"Lightning, Metal",,Basic,Rare,Ryo Ueda,holo,Delta Species,EX,114
+ex11-14,14,Salamence δ,110,"Fire, Metal",Shelgon,Stage2,Rare,Ryo Ueda,holo,Delta Species,EX,114
+ex11-15,15,Starmie δ,60,"Water, Metal",Staryu,Stage1,Rare,Masakazu Fukuda,holo,Delta Species,EX,114
+ex11-16,16,Tyranitar δ,120,"Fire, Metal",Pupitar,Stage2,Rare,Mitsuhiro Arita,holo,Delta Species,EX,114
+ex11-17,17,Umbreon δ,70,"Darkness, Metal",Eevee,Stage1,Rare,Ryo Ueda,holo,Delta Species,EX,114
+ex11-18,18,Vaporeon δ,70,"Water, Metal",Eevee,Stage1,Rare,Kouki Saitou,holo,Delta Species,EX,114
+ex11-19,19,Azumarill δ,80,"Water, Metal",Marill,Stage1,Rare,Atsuko Nishida,normal,Delta Species,EX,114
+ex11-20,20,Azurill,50,Colorless,,Basic,Rare,Midori Harada,normal,Delta Species,EX,114
+ex11-21,21,Holon's Electrode,70,Lightning,Holon's Voltorb,Stage1,Rare,Hisao Nakamura,normal,Delta Species,EX,114
+ex11-22,22,Holon's Magneton,70,Metal,Holon's Magnemite,Stage1,Rare,Katsura Tabata,normal,Delta Species,EX,114
+ex11-23,23,Hypno,70,Psychic,Drowzee,Stage1,Rare,Midori Harada,normal,Delta Species,EX,114
+ex11-24,24,Mightyena δ,70,"Darkness, Metal",Poochyena,Stage1,Rare,Hajime Kusajima,normal,Delta Species,EX,114
+ex11-25,25,Porygon2,70,Colorless,Porygon,Stage1,Rare,Hisao Nakamura,normal,Delta Species,EX,114
+ex11-26,26,Rain Castform,70,Water,,Basic,Rare,Miki Tanaka,normal,Delta Species,EX,114
+ex11-27,27,Sandslash δ,80,"Fighting, Metal",Sandshrew,Stage1,Rare,Mitsuhiro Arita,normal,Delta Species,EX,114
+ex11-28,28,Slowking,80,Water,Slowpoke,Stage1,Rare,Kagemaru Himeno,normal,Delta Species,EX,114
+ex11-29,29,Snow-cloud Castform,70,Water,,Basic,Rare,Miki Tanaka,normal,Delta Species,EX,114
+ex11-30,30,Starmie δ,70,"Water, Metal",Staryu,Stage1,Rare,Midori Harada,normal,Delta Species,EX,114
+ex11-31,31,Sunny Castform,70,Fire,,Basic,Rare,Miki Tanaka,normal,Delta Species,EX,114
+ex11-32,32,Swellow,70,Colorless,Taillow,Stage1,Rare,Atsuko Nishida,normal,Delta Species,EX,114
+ex11-33,33,Weezing,70,Grass,Koffing,Stage1,Rare,Yukiko Baba,normal,Delta Species,EX,114
+ex11-34,34,Castform,60,Colorless,,Basic,Uncommon,Miki Tanaka,normal,Delta Species,EX,114
+ex11-35,35,Ditto,60,Colorless,,Basic,Uncommon,Yuka Morii,normal,Delta Species,EX,114
+ex11-36,36,Ditto,60,Grass,,Basic,Uncommon,Yuka Morii,normal,Delta Species,EX,114
+ex11-37,37,Ditto,60,Fire,,Basic,Uncommon,Yuka Morii,normal,Delta Species,EX,114
+ex11-38,38,Ditto,60,Psychic,,Basic,Uncommon,Yuka Morii,normal,Delta Species,EX,114
+ex11-39,39,Ditto,60,Lightning,,Basic,Uncommon,Yuka Morii,normal,Delta Species,EX,114
+ex11-40,40,Ditto,60,Water,,Basic,Uncommon,Yuka Morii,normal,Delta Species,EX,114
+ex11-41,41,Dragonair δ,70,Lightning,Dratini,Stage1,Uncommon,Hajime Kusajima,normal,Delta Species,EX,114
+ex11-42,42,Dragonair δ,70,Lightning,Dratini,Stage1,Uncommon,Mitsuhiro Arita,normal,Delta Species,EX,114
+ex11-43,43,Golbat,70,Grass,Zubat,Stage1,Uncommon,Yukiko Baba,normal,Delta Species,EX,114
+ex11-44,44,Hariyama,80,Fire,Makuhita,Stage1,Uncommon,Hisao Nakamura,normal,Delta Species,EX,114
+ex11-45,45,Illumise,60,Grass,,Basic,Uncommon,Midori Harada,normal,Delta Species,EX,114
+ex11-46,46,Kakuna,60,Grass,Weedle,Stage1,Uncommon,Sachiko Adachi,normal,Delta Species,EX,114
+ex11-47,47,Kirlia,70,Psychic,Ralts,Stage1,Uncommon,Midori Harada,normal,Delta Species,EX,114
+ex11-48,48,Magneton,80,Lightning,Magnemite,Stage1,Uncommon,Kagemaru Himeno,normal,Delta Species,EX,114
+ex11-49,49,Metang δ,80,Lightning,Beldum,Stage1,Uncommon,Hajime Kusajima,"normal, holo",Delta Species,EX,114
+ex11-50,50,Persian,80,Colorless,Meowth,Stage1,Uncommon,Naoyo Kimura,normal,Delta Species,EX,114
+ex11-51,51,Pupitar δ,70,Fire,Larvitar,Stage1,Uncommon,Masakazu Fukuda,normal,Delta Species,EX,114
+ex11-52,52,Rapidash,70,Fire,Ponyta,Stage1,Uncommon,Atsuko Nishida,normal,Delta Species,EX,114
+ex11-53,53,Shelgon δ,80,Fire,Bagon,Stage1,Uncommon,Masakazu Fukuda,normal,Delta Species,EX,114
+ex11-54,54,Shelgon δ,70,Fire,Bagon,Stage1,Uncommon,Mitsuhiro Arita,normal,Delta Species,EX,114
+ex11-55,55,Skarmory,70,Metal,,Basic,Uncommon,Hisao Nakamura,normal,Delta Species,EX,114
+ex11-56,56,Volbeat,60,Grass,,Basic,Uncommon,Midori Harada,normal,Delta Species,EX,114
+ex11-57,57,Bagon δ,50,Fire,,Basic,Common,Masakazu Fukuda,normal,Delta Species,EX,114
+ex11-58,58,Bagon δ,50,Fire,,Basic,Common,Hajime Kusajima,normal,Delta Species,EX,114
+ex11-59,59,Beldum δ,50,Lightning,,Basic,Common,Hajime Kusajima,normal,Delta Species,EX,114
+ex11-60,60,Cubone,50,Fighting,,Basic,Common,Yukiko Baba,normal,Delta Species,EX,114
+ex11-61,61,Ditto,60,Fire,,Basic,Common,Yuka Morii,normal,Delta Species,EX,114
+ex11-62,62,Ditto,60,Fighting,,Basic,Common,Yuka Morii,normal,Delta Species,EX,114
+ex11-63,63,Ditto,60,Lightning,,Basic,Common,Yuka Morii,"normal, holo",Delta Species,EX,114
+ex11-64,64,Ditto,60,Water,,Basic,Common,Yuka Morii,normal,Delta Species,EX,114
+ex11-65,65,Dratini δ,50,Lightning,,Basic,Common,Hajime Kusajima,normal,Delta Species,EX,114
+ex11-66,66,Dratini δ,50,Lightning,,Basic,Common,Mitsuhiro Arita,normal,Delta Species,EX,114
+ex11-67,67,Drowzee,50,Psychic,,Basic,Common,Tomokazu Komiya,normal,Delta Species,EX,114
+ex11-68,68,Eevee δ,50,Metal,,Basic,Common,Mitsuhiro Arita,normal,Delta Species,EX,114
+ex11-69,69,Eevee,50,Colorless,,Basic,Common,Atsuko Nishida,normal,Delta Species,EX,114
+ex11-70,70,Holon's Magnemite,40,Metal,,Basic,Common,Katsura Tabata,normal,Delta Species,EX,114
+ex11-71,71,Holon's Voltorb,40,Lightning,,Basic,Common,Takao Unno,normal,Delta Species,EX,114
+ex11-72,72,Koffing,50,Grass,,Basic,Common,Sachiko Adachi,normal,Delta Species,EX,114
+ex11-73,73,Larvitar δ,50,Fire,,Basic,Common,Hajime Kusajima,normal,Delta Species,EX,114
+ex11-74,74,Magnemite,50,Lightning,,Basic,Common,Kagemaru Himeno,normal,Delta Species,EX,114
+ex11-75,75,Makuhita,50,Fighting,,Basic,Common,Sachiko Adachi,normal,Delta Species,EX,114
+ex11-76,76,Marill,50,Water,,Basic,Common,Midori Harada,normal,Delta Species,EX,114
+ex11-77,77,Meowth,50,Colorless,,Basic,Common,Hiroki Fuchino,normal,Delta Species,EX,114
+ex11-78,78,Ponyta,50,Fire,,Basic,Common,Naoyo Kimura,normal,Delta Species,EX,114
+ex11-79,79,Poochyena,50,Darkness,,Basic,Common,Sachiko Adachi,normal,Delta Species,EX,114
+ex11-80,80,Porygon,50,Colorless,,Basic,Common,Hisao Nakamura,normal,Delta Species,EX,114
+ex11-81,81,Ralts,50,Psychic,,Basic,Common,Kenkichi Toyama,normal,Delta Species,EX,114
+ex11-82,82,Sandshrew,50,Water,,Basic,Common,Tomokazu Komiya,normal,Delta Species,EX,114
+ex11-83,83,Slowpoke,50,Water,,Basic,Common,Kagemaru Himeno,normal,Delta Species,EX,114
+ex11-84,84,Staryu,50,Water,,Basic,Common,Midori Harada,normal,Delta Species,EX,114
+ex11-85,85,Staryu,50,Water,,Basic,Common,Hisao Nakamura,normal,Delta Species,EX,114
+ex11-86,86,Taillow,40,Colorless,,Basic,Common,Tomokazu Komiya,normal,Delta Species,EX,114
+ex11-87,87,Weedle,50,Grass,,Basic,Common,Atsuko Nishida,normal,Delta Species,EX,114
+ex11-88,88,Zubat,50,Grass,,Basic,Common,Tomokazu Komiya,normal,Delta Species,EX,114
+ex11-89,89,Dual Ball,,,,,Uncommon,"""Big Mama"" Tagawa",normal,Delta Species,EX,114
+ex11-90,90,Great Ball,,,,,Uncommon,Nakaoka,normal,Delta Species,EX,114
+ex11-91,91,Holon Farmer,,,,,Uncommon,Kouki Saitou,normal,Delta Species,EX,114
+ex11-92,92,Holon Lass,,,,,Uncommon,Kouki Saitou,normal,Delta Species,EX,114
+ex11-93,93,Holon Mentor,,,,,Uncommon,Kouki Saitou,normal,Delta Species,EX,114
+ex11-94,94,Holon Research Tower,,,,,Uncommon,Ryo Ueda,normal,Delta Species,EX,114
+ex11-95,95,Holon Researcher,,,,,Uncommon,Kanako Eo,normal,Delta Species,EX,114
+ex11-96,96,Holon Ruins,,,,,Uncommon,Ryo Ueda,normal,Delta Species,EX,114
+ex11-97,97,Holon Scientist,,,,,Uncommon,Ken Sugimori,normal,Delta Species,EX,114
+ex11-98,98,Holon Transceiver,,,,,Uncommon,Mitsuhiro Arita,normal,Delta Species,EX,114
+ex11-99,99,Master Ball,,,,,Uncommon,Keiji Kinebuchi,normal,Delta Species,EX,114
+ex11-100,100,Super Scoop Up,,,,,Uncommon,Keiji Kinebuchi,normal,Delta Species,EX,114
+ex11-101,101,Potion,,,,,Common,Shin-ichi Yoshikawa,normal,Delta Species,EX,114
+ex11-102,102,Switch,,,,,Common,Hiromichi Sugiyama,normal,Delta Species,EX,114
+ex11-103,103,Darkness Energy,,,,,Rare,Milky Isobe,normal,Delta Species,EX,114
+ex11-104,104,Holon Energy FF,,,,,Rare,Takumi Akabane,normal,Delta Species,EX,114
+ex11-105,105,Holon Energy GL,,,,,Rare,Takumi Akabane,normal,Delta Species,EX,114
+ex11-106,106,Holon Energy WP,,,,,Rare,Takumi Akabane,normal,Delta Species,EX,114
+ex11-107,107,Metal Energy,,,,,Rare,Milky Isobe,normal,Delta Species,EX,114
+ex11-108,108,Flareon ex,110,Fire,Eevee,,Rare,Ryo Ueda,holo,Delta Species,EX,114
+ex11-109,109,Jolteon ex,100,Lightning,Eevee,,Rare,Mitsuhiro Arita,holo,Delta Species,EX,114
+ex11-110,110,Vaporeon ex,120,Water,Eevee,,Rare,Hikaru Koike,holo,Delta Species,EX,114
+ex11-111,111,Groudon Star,90,Fighting,,Basic,Rare,Masakazu Fukuda,holo,Delta Species,EX,114
+ex11-112,112,Kyogre Star,90,Water,,Basic,Rare,Masakazu Fukuda,holo,Delta Species,EX,114
+ex11-113,113,Metagross Star,70,Metal,,Basic,Rare,Masakazu Fukuda,holo,Delta Species,EX,114
+ex11-114,114,Azumarill,70,Water,Marill,Stage1,Rare,Kagemaru Himeno,holo,Delta Species,EX,114

@@ -1,0 +1,234 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+swsh6-1,1,Weedle,40,Grass,,Basic,Common,Sanosuke Sakuma,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-2,2,Kakuna,80,Grass,Weedle,Stage1,Uncommon,nagimiso,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-3,3,Beedrill,130,Grass,Kakuna,Stage2,Holo Rare,Misa Tsutsui,"reverse, holo",Chilling Reign,Sword & Shield,233
+swsh6-4,4,Ledyba,60,Grass,,Basic,Common,Naoyo Kimura,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-5,5,Ledian,90,Grass,Ledyba,Stage1,Uncommon,Sekio,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-6,6,Heracross,120,Grass,,Basic,Common,Hasuno,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-7,7,Celebi V,190,Grass,,Basic,Holo Rare V,AKIRA EGAWA,holo,Chilling Reign,Sword & Shield,233
+swsh6-8,8,Celebi VMAX,310,Grass,Celebi V,VMAX,Holo Rare VMAX,PLANETA Tsuji,holo,Chilling Reign,Sword & Shield,233
+swsh6-9,9,Snover,80,Grass,,Basic,Common,Naoki Saito,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-10,10,Abomasnow,140,Grass,Snover,Stage1,Rare,Akira Komayama,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-11,11,Deerling,60,Grass,,Basic,Common,Lee HyunJung,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-12,12,Sawsbuck,110,Grass,Deerling,Stage1,Rare,Sekio,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-13,13,Bounsweet,60,Grass,,Basic,Common,MAHOU,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-14,14,Steenee,80,Grass,Bounsweet,Stage1,Uncommon,Tomokazu Komiya,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-15,15,Tsareena,140,Grass,Steenee,Stage2,Rare,Yuu Nishida,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-16,16,Grookey,60,Grass,,Basic,Common,kodama,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-17,17,Thwackey,100,Grass,Grookey,Stage1,Uncommon,Kouki Saitou,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-18,18,Rillaboom,180,Grass,Thwackey,Stage2,Holo Rare,Hitoshi Ariga,"reverse, holo",Chilling Reign,Sword & Shield,233
+swsh6-19,19,Zarude,130,Grass,,Basic,Holo Rare,Shin Nagasawa,"reverse, holo",Chilling Reign,Sword & Shield,233
+swsh6-20,20,Blaziken V,210,Fire,,Basic,Holo Rare V,Ayaka Yoshida,holo,Chilling Reign,Sword & Shield,233
+swsh6-21,21,Blaziken VMAX,320,Fire,Blaziken V,VMAX,Holo Rare VMAX,AKIRA EGAWA,holo,Chilling Reign,Sword & Shield,233
+swsh6-22,22,Castform Sunny Form,70,Fire,,Basic,Common,Yuka Morii,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-23,23,Larvesta,80,Fire,,Basic,Common,Misa Tsutsui,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-24,24,Volcarona,130,Fire,Larvesta,Stage1,Rare,Mika Pikazo,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-25,25,Volcanion V,220,Fire,,Basic,Holo Rare V,Ryota Murayama,holo,Chilling Reign,Sword & Shield,233
+swsh6-26,26,Scorbunny,60,Fire,,Basic,Common,tetsuya koizumi,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-27,27,Raboot,90,Fire,Scorbunny,Stage1,Uncommon,Souichirou Gunjima,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-28,28,Cinderace,170,Fire,Raboot,Stage2,Holo Rare,Ryuta Fuse,"reverse, holo",Chilling Reign,Sword & Shield,233
+swsh6-29,29,Lapras,110,Water,,Basic,Common,Atsushi Furusawa,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-30,30,Sneasel,70,Water,,Basic,Common,NC Empire,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-31,31,Weavile,110,Water,Sneasel,Stage1,Holo Rare,Taira Akitsu,"reverse, holo",Chilling Reign,Sword & Shield,233
+swsh6-32,32,Delibird,90,Water,,Basic,Common,Narumi Sato,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-33,33,Castform Rainy Form,70,Water,,Basic,Common,sowsow,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-34,34,Castform Snowy Form,70,Water,,Basic,Common,miki kudo,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-35,35,Snorunt,60,Water,,Basic,Common,Kouki Saitou,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-36,36,Froslass,90,Water,Snorunt,Stage1,Holo Rare,Souichirou Gunjima,"reverse, holo",Chilling Reign,Sword & Shield,233
+swsh6-37,37,Spheal,70,Water,,Basic,Common,kirisAki,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-38,38,Sealeo,110,Water,Spheal,Stage1,Uncommon,tetsuya koizumi,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-39,39,Walrein,170,Water,Sealeo,Stage2,Rare,KEIICHIRO ITO,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-40,40,Tapu Fini,120,Water,,Basic,Holo Rare,Shin Nagasawa,"reverse, holo",Chilling Reign,Sword & Shield,233
+swsh6-41,41,Sobble,60,Water,,Basic,Common,Yuu Nishida,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-42,42,Drizzile,90,Water,Sobble,Stage1,Uncommon,Mitsuhiro Arita,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-43,43,Inteleon,150,Water,Drizzile,Stage2,Holo Rare,NC Empire,reverse,Chilling Reign,Sword & Shield,233
+swsh6-44,44,Rapid Strike Urshifu,140,Water,Kubfu,Stage1,Holo Rare,Naoki Saito,"reverse, holo",Chilling Reign,Sword & Shield,233
+swsh6-45,45,Ice Rider Calyrex V,210,Water,,Basic,Holo Rare V,D.A.G Inc.,holo,Chilling Reign,Sword & Shield,233
+swsh6-46,46,Ice Rider Calyrex VMAX,320,Water,Ice Rider Calyrex V,VMAX,Holo Rare VMAX,5ban Graphics,holo,Chilling Reign,Sword & Shield,233
+swsh6-47,47,Mareep,70,Lightning,,Basic,Common,Miki Tanaka,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-48,48,Flaaffy,100,Lightning,Mareep,Stage1,Uncommon,sui,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-49,49,Ampharos,160,Lightning,Flaaffy,Stage2,Rare,Megumi Mizutani,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-50,50,Blitzle,60,Lightning,,Basic,Common,HYOGONOSUKE,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-51,51,Zebstrika,120,Lightning,Blitzle,Stage1,Rare,Hasuno,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-52,52,Thundurus,120,Lightning,,Basic,Holo Rare,Souichirou Gunjima,"reverse, holo",Chilling Reign,Sword & Shield,233
+swsh6-53,53,Zeraora V,210,Lightning,,Basic,Holo Rare V,chibi,holo,Chilling Reign,Sword & Shield,233
+swsh6-54,54,Galarian Slowpoke,70,Psychic,,Basic,Common,Naoyo Kimura,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-55,55,Gastly,50,Psychic,,Basic,Common,Motofumi Fujiwara,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-56,56,Haunter,80,Psychic,Gastly,Stage1,Uncommon,Kagemaru Himeno,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-57,57,Gengar,130,Psychic,Haunter,Stage2,Holo Rare,Aya Kusube,"reverse, holo",Chilling Reign,Sword & Shield,233
+swsh6-58,58,Galarian Articuno V,210,Psychic,,Basic,Holo Rare V,5ban Graphics,holo,Chilling Reign,Sword & Shield,233
+swsh6-59,59,Ralts,60,Psychic,,Basic,Common,Narumi Sato,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-60,60,Kirlia,80,Psychic,Ralts,Stage1,Uncommon,0313,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-61,61,Gardevoir,140,Psychic,Kirlia,Stage2,Holo Rare,kodama,"reverse, holo",Chilling Reign,Sword & Shield,233
+swsh6-62,62,Shuppet,50,Psychic,,Basic,Common,OKACHEKE,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-63,63,Banette,80,Psychic,Shuppet,Stage1,Rare,Megumi Higuchi,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-64,64,Cresselia,120,Psychic,,Basic,Holo Rare,Tika Matsuno,"reverse, holo",Chilling Reign,Sword & Shield,233
+swsh6-65,65,Golett,90,Psychic,,Basic,Common,0313,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-66,66,Golurk,150,Psychic,Golett,Stage1,Rare,Teeziro,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-67,67,Swirlix,60,Psychic,,Basic,Common,Shibuzoh.,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-68,68,Slurpuff,110,Psychic,Swirlix,Stage1,Rare,Saya Tsuruta,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-69,69,Inkay,50,Psychic,,Basic,Common,Sanosuke Sakuma,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-70,70,Malamar,120,Psychic,Inkay,Stage1,Rare,Kagemaru Himeno,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-71,71,Hatenna,60,Psychic,,Basic,Common,Sekio,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-72,72,Hattrem,80,Psychic,Hatenna,Stage1,Uncommon,miki kudo,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-73,73,Hatterene,130,Psychic,Hattrem,Stage2,Holo Rare,chibi,"reverse, holo",Chilling Reign,Sword & Shield,233
+swsh6-74,74,Shadow Rider Calyrex V,210,Psychic,,Basic,Holo Rare V,D.A.G Inc.,holo,Chilling Reign,Sword & Shield,233
+swsh6-75,75,Shadow Rider Calyrex VMAX,320,Psychic,Shadow Rider Calyrex V,VMAX,Holo Rare VMAX,5ban Graphics,holo,Chilling Reign,Sword & Shield,233
+swsh6-76,76,Diglett,50,Fighting,,Basic,Common,Souichirou Gunjima,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-77,77,Dugtrio,90,Fighting,Diglett,Stage1,Rare,Hitoshi Ariga,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-78,78,Galarian Farfetch'd,80,Fighting,,Basic,Common,HYOGONOSUKE,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-79,79,Galarian Sirfetch'd,130,Fighting,Galarian Farfetch'd,Stage1,Rare,Uta,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-80,80,Galarian Zapdos V,200,Fighting,,Basic,Holo Rare V,5ban Graphics,holo,Chilling Reign,Sword & Shield,233
+swsh6-81,81,Gallade,170,Fighting,Kirlia,Stage2,Rare,NC Empire,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-82,82,Galarian Yamask,60,Fighting,,Basic,Common,SATOSHI NAKAI,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-83,83,Galarian Runerigus,120,Fighting,Galarian Yamask,Stage1,Holo Rare,KEIICHIRO ITO,"reverse, holo",Chilling Reign,Sword & Shield,233
+swsh6-84,84,Crabrawler,80,Fighting,,Basic,Common,Mitsuhiro Arita,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-85,85,Crabominable,150,Fighting,Crabrawler,Stage1,Uncommon,Shigenori Negishi,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-86,86,Rockruff,70,Fighting,,Basic,Common,Yuu Nishida,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-87,87,Lycanroc,120,Fighting,Rockruff,Stage1,Holo Rare,Teeziro,"reverse, holo",Chilling Reign,Sword & Shield,233
+swsh6-88,88,Passimian,110,Fighting,,Basic,Rare,Akira Komayama,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-89,89,Sandaconda V,220,Fighting,,Basic,Holo Rare V,Shin Nagasawa,holo,Chilling Reign,Sword & Shield,233
+swsh6-90,90,Sandaconda VMAX,320,Fighting,Sandaconda V,VMAX,Holo Rare VMAX,aky CG Works,holo,Chilling Reign,Sword & Shield,233
+swsh6-91,91,Clobbopus,70,Fighting,,Basic,Common,Yuka Morii,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-92,92,Grapploct,140,Fighting,Clobbopus,Stage1,Holo Rare,Anesaki Dynamic,"reverse, holo",Chilling Reign,Sword & Shield,233
+swsh6-93,93,Kubfu,70,Fighting,,Basic,Common,Kouki Saitou,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-94,94,Koffing,70,Darkness,,Basic,Common,Aya Kusube,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-95,95,Weezing,130,Darkness,Koffing,Stage1,Rare,Ryuta Fuse,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-96,96,Galarian Weezing,130,Darkness,Koffing,Stage1,Rare,Miki Tanaka,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-97,97,Galarian Moltres V,220,Darkness,,Basic,Holo Rare V,aky CG Works,holo,Chilling Reign,Sword & Shield,233
+swsh6-98,98,Galarian Slowking,120,Darkness,Galarian Slowpoke,Stage1,Holo Rare,Naoki Saito,"reverse, holo",Chilling Reign,Sword & Shield,233
+swsh6-99,99,Galarian Slowking V,220,Darkness,,Basic,Holo Rare V,Mitsuhiro Arita,holo,Chilling Reign,Sword & Shield,233
+swsh6-100,100,Galarian Slowking VMAX,320,Darkness,Galarian Slowking V,VMAX,Holo Rare VMAX,5ban Graphics,holo,Chilling Reign,Sword & Shield,233
+swsh6-101,101,Qwilfish,90,Darkness,,Basic,Common,Anesaki Dynamic,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-102,102,Seviper,110,Darkness,,Basic,Rare,Anesaki Dynamic,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-103,103,Spiritomb,70,Darkness,,Basic,Rare,Shibuzoh.,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-104,104,Liepard V,190,Darkness,,Basic,Holo Rare V,Ayaka Yoshida,holo,Chilling Reign,Sword & Shield,233
+swsh6-105,105,Venipede,70,Darkness,,Basic,Common,Oswaldo KATO,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-106,106,Whirlipede,90,Darkness,Venipede,Stage1,Uncommon,hatachu,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-107,107,Scolipede,160,Darkness,Whirlipede,Stage2,Rare,Megumi Higuchi,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-108,108,Single Strike Urshifu,140,Darkness,Kubfu,Stage1,Holo Rare,Mitsuhiro Arita,,Chilling Reign,Sword & Shield,233
+swsh6-109,109,Aron,70,Metal,,Basic,Common,Kyoko Umemoto,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-110,110,Lairon,100,Metal,Aron,Stage1,Uncommon,HYOGONOSUKE,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-111,111,Aggron,180,Metal,Lairon,Stage2,Rare,Teeziro,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-112,112,Metagross V,220,Metal,,Basic,Holo Rare V,PLANETA Mochizuki,holo,Chilling Reign,Sword & Shield,233
+swsh6-113,113,Metagross VMAX,330,Metal,Metagross V,VMAX,Holo Rare VMAX,Ryota Murayama,holo,Chilling Reign,Sword & Shield,233
+swsh6-114,114,Cobalion,120,Metal,,Basic,Holo Rare,Kazuma Koda,"reverse, holo",Chilling Reign,Sword & Shield,233
+swsh6-115,115,Tauros,130,Colorless,,Basic,Holo Rare,nagimiso,"reverse, holo",Chilling Reign,Sword & Shield,233
+swsh6-116,116,Porygon,60,Colorless,,Basic,Common,ryoma uratsuka,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-117,117,Porygon2,90,Colorless,Porygon,Stage1,Uncommon,Nagomi Nijo,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-118,118,Porygon-Z,140,Colorless,Porygon2,Stage2,Holo Rare,Tomokazu Komiya,"reverse, holo",Chilling Reign,Sword & Shield,233
+swsh6-119,119,Blissey V,250,Colorless,,Basic,Holo Rare V,Saki Hayashiro,holo,Chilling Reign,Sword & Shield,233
+swsh6-120,120,Zangoose,110,Colorless,,Basic,Rare,Anesaki Dynamic,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-121,121,Castform,70,Colorless,,Basic,Common,Asako Ito,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-122,122,Kecleon,90,Colorless,,Basic,Rare,KIYOTAKA OSHIYAMA,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-123,123,Shaymin,70,Colorless,,Basic,Holo Rare,Megumi Mizutani,"reverse, holo",Chilling Reign,Sword & Shield,233
+swsh6-124,124,Tornadus V,210,Colorless,,Basic,Holo Rare V,PLANETA Mochizuki,holo,Chilling Reign,Sword & Shield,233
+swsh6-125,125,Tornadus VMAX,320,Colorless,Tornadus V,VMAX,Holo Rare VMAX,Mitsuhiro Arita,holo,Chilling Reign,Sword & Shield,233
+swsh6-126,126,Furfrou,90,Colorless,,Basic,Common,Tika Matsuno,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-127,127,Skwovet,60,Colorless,,Basic,Common,OKACHEKE,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-128,128,Greedent,120,Colorless,Skwovet,Stage1,Holo Rare,HYOGONOSUKE,"reverse, holo",Chilling Reign,Sword & Shield,233
+swsh6-129,129,Agatha,,,,,Uncommon,Ken Sugimori,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-130,130,Avery,,,,,Uncommon,Ken Sugimori,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-131,131,Brawly,,,,,Uncommon,Megumi Mizutani,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-132,132,Caitlin,,,,,Uncommon,Sanosuke Sakuma,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-133,133,Crushing Gloves,,,,,Uncommon,Toyste Beach,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-134,134,Doctor,,,,,Uncommon,Megumi Mizutani,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-135,135,Dyna Tree Hill,,,,,Uncommon,Oswaldo KATO,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-136,136,Echoing Horn,,,,,Uncommon,Studio Bora Inc.,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-137,137,Expedition Uniform,,,,,Uncommon,AYUMI ODASHIMA,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-138,138,Fire-Resistant Gloves,,,,,Uncommon,Toyste Beach,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-139,139,Flannery,,,,,Uncommon,Megumi Mizutani,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-140,140,Fog Crystal,,,,,Uncommon,sadaji,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-141,141,Galarian Chestplate,,,,,Uncommon,inose yukie,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-142,142,Honey,,,,,Uncommon,Ryuta Fuse,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-143,143,Justified Gloves,,,,,Uncommon,Toyste Beach,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-144,144,Karen's Conviction,,,,,Uncommon,Ken Sugimori,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-145,145,Klara,,,,,Uncommon,Ken Sugimori,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-146,146,Melony,,,,,Uncommon,take,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-147,147,Old Cemetery,,,,,Uncommon,Oswaldo KATO,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-148,148,Path to the Peak,,,,,Uncommon,Oswaldo KATO,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-149,149,Peonia,,,,,Uncommon,kirisAki,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-150,150,Peony,,,,,Uncommon,Ken Sugimori,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-151,151,Rapid Strike Scroll of the Skies,,,,,Uncommon,5ban Graphics,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-152,152,Rugged Helmet,,,,,Uncommon,sadaji,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-153,153,Siebold,,,,,Uncommon,Ken Sugimori,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-154,154,Single Strike Scroll of Piercing,,,,,Uncommon,5ban Graphics,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-155,155,Weeding Gloves,,,,,Uncommon,Toyste Beach,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-156,156,Welcoming Lantern,,,,,Uncommon,Studio Bora Inc.,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-157,157,Impact Energy,,,,,Uncommon,,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-158,158,Lucky Energy,,,,,Uncommon,,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-159,159,Spiral Energy,,,,,Uncommon,,"normal, reverse",Chilling Reign,Sword & Shield,233
+swsh6-160,160,Celebi V,190,Grass,,Basic,Ultra Rare,PLANETA Tsuji,holo,Chilling Reign,Sword & Shield,233
+swsh6-161,161,Blaziken V,210,Fire,,Basic,Ultra Rare,Ayaka Yoshida,holo,Chilling Reign,Sword & Shield,233
+swsh6-162,162,Volcanion V,220,Fire,,Basic,Ultra Rare,Eske Yoshinob,holo,Chilling Reign,Sword & Shield,233
+swsh6-163,163,Ice Rider Calyrex V,210,Water,,Basic,Ultra Rare,5ban Graphics,holo,Chilling Reign,Sword & Shield,233
+swsh6-164,164,Ice Rider Calyrex V,210,Water,,Basic,Ultra Rare,OKACHEKE,holo,Chilling Reign,Sword & Shield,233
+swsh6-165,165,Zeraora V,210,Lightning,,Basic,Ultra Rare,PLANETA Tsuji,holo,Chilling Reign,Sword & Shield,233
+swsh6-166,166,Zeraora V,210,Lightning,,Basic,Ultra Rare,Atsushi Furusawa,holo,Chilling Reign,Sword & Shield,233
+swsh6-167,167,Galarian Rapidash V,210,Psychic,,Basic,Ultra Rare,Saki Hayashiro,holo,Chilling Reign,Sword & Shield,233
+swsh6-168,168,Galarian Rapidash V,210,Psychic,,Basic,Ultra Rare,sui,holo,Chilling Reign,Sword & Shield,233
+swsh6-169,169,Galarian Articuno V,210,Psychic,,Basic,Ultra Rare,5ban Graphics,holo,Chilling Reign,Sword & Shield,233
+swsh6-170,170,Galarian Articuno V,210,Psychic,,Basic,Ultra Rare,Uta,holo,Chilling Reign,Sword & Shield,233
+swsh6-171,171,Shadow Rider Calyrex V,210,Psychic,,Basic,Ultra Rare,5ban Graphics,holo,Chilling Reign,Sword & Shield,233
+swsh6-172,172,Shadow Rider Calyrex V,210,Psychic,,Basic,Ultra Rare,kodama,holo,Chilling Reign,Sword & Shield,233
+swsh6-173,173,Galarian Zapdos V,200,Fighting,,Basic,Ultra Rare,5ban Graphics,,Chilling Reign,Sword & Shield,233
+swsh6-174,174,Galarian Zapdos V,200,Fighting,,Basic,Ultra Rare,Akira Komayama,holo,Chilling Reign,Sword & Shield,233
+swsh6-175,175,Sandaconda V,220,Fighting,,Basic,Ultra Rare,PLANETA Tsuji,holo,Chilling Reign,Sword & Shield,233
+swsh6-176,176,Galarian Moltres V,220,Darkness,,Basic,Ultra Rare,aky CG Works,holo,Chilling Reign,Sword & Shield,233
+swsh6-177,177,Galarian Moltres V,220,Darkness,,Basic,Ultra Rare,Shibuzoh.,,Chilling Reign,Sword & Shield,233
+swsh6-178,178,Galarian Slowking V,220,Darkness,,Basic,Ultra Rare,5ban Graphics,holo,Chilling Reign,Sword & Shield,233
+swsh6-179,179,Galarian Slowking V,220,Darkness,,Basic,Ultra Rare,Tomokazu Komiya,holo,Chilling Reign,Sword & Shield,233
+swsh6-180,180,Liepard V,190,Darkness,,Basic,Ultra Rare,Ayaka Yoshida,holo,Chilling Reign,Sword & Shield,233
+swsh6-181,181,Metagross V,220,Metal,,Basic,Ultra Rare,PLANETA Mochizuki,holo,Chilling Reign,Sword & Shield,233
+swsh6-182,182,Blissey V,250,Colorless,,Basic,Ultra Rare,Saki Hayashiro,holo,Chilling Reign,Sword & Shield,233
+swsh6-183,183,Blissey V,250,Colorless,,Basic,Ultra Rare,Saya Tsuruta,holo,Chilling Reign,Sword & Shield,233
+swsh6-184,184,Tornadus V,210,Colorless,,Basic,Ultra Rare,PLANETA Mochizuki,holo,Chilling Reign,Sword & Shield,233
+swsh6-185,185,Tornadus V,210,Colorless,,Basic,Ultra Rare,tetsuya koizumi,holo,Chilling Reign,Sword & Shield,233
+swsh6-186,186,Agatha,,,,,Ultra Rare,NC Empire,holo,Chilling Reign,Sword & Shield,233
+swsh6-187,187,Avery,,,,,Ultra Rare,kirisAki,holo,Chilling Reign,Sword & Shield,233
+swsh6-188,188,Brawly,,,,,Ultra Rare,Sanosuke Sakuma,holo,Chilling Reign,Sword & Shield,233
+swsh6-189,189,Caitlin,,,,,Ultra Rare,En Morikura,holo,Chilling Reign,Sword & Shield,233
+swsh6-190,190,Doctor,,,,,Ultra Rare,Sanosuke Sakuma,holo,Chilling Reign,Sword & Shield,233
+swsh6-191,191,Flannery,,,,,Ultra Rare,Ryuta Fuse,holo,Chilling Reign,Sword & Shield,233
+swsh6-192,192,Honey,,,,,Ultra Rare,Ryuta Fuse,holo,Chilling Reign,Sword & Shield,233
+swsh6-193,193,Karen's Conviction,,,,,Ultra Rare,Hideki Ishikawa,holo,Chilling Reign,Sword & Shield,233
+swsh6-194,194,Klara,,,,,Ultra Rare,Naoki Saito,holo,Chilling Reign,Sword & Shield,233
+swsh6-195,195,Melony,,,,,Ultra Rare,Taira Akitsu,holo,Chilling Reign,Sword & Shield,233
+swsh6-196,196,Peonia,,,,,Ultra Rare,kirisAki,holo,Chilling Reign,Sword & Shield,233
+swsh6-197,197,Peony,,,,,Ultra Rare,Hitoshi Ariga,holo,Chilling Reign,Sword & Shield,233
+swsh6-198,198,Siebold,,,,,Ultra Rare,Hideki Ishikawa,holo,Chilling Reign,Sword & Shield,233
+swsh6-199,199,Celebi VMAX,310,Grass,Celebi V,VMAX,Secret Rare,PLANETA Tsuji,holo,Chilling Reign,Sword & Shield,233
+swsh6-200,200,Blaziken VMAX,320,Fire,Blaziken V,VMAX,Secret Rare,AKIRA EGAWA,holo,Chilling Reign,Sword & Shield,233
+swsh6-201,201,Blaziken VMAX,320,Fire,Blaziken V,VMAX,Secret Rare,Shigenori Negishi,holo,Chilling Reign,Sword & Shield,233
+swsh6-202,202,Ice Rider Calyrex VMAX,320,Water,Ice Rider Calyrex V,VMAX,Secret Rare,5ban Graphics,holo,Chilling Reign,Sword & Shield,233
+swsh6-203,203,Ice Rider Calyrex VMAX,320,Water,Ice Rider Calyrex V,VMAX,Secret Rare,Oswaldo KATO,,Chilling Reign,Sword & Shield,233
+swsh6-204,204,Shadow Rider Calyrex VMAX,320,Psychic,Shadow Rider Calyrex V,VMAX,Secret Rare,5ban Graphics,holo,Chilling Reign,Sword & Shield,233
+swsh6-205,205,Shadow Rider Calyrex VMAX,320,Psychic,Shadow Rider Calyrex V,VMAX,Secret Rare,Mitsuhiro Arita,holo,Chilling Reign,Sword & Shield,233
+swsh6-206,206,Sandaconda VMAX,320,Fighting,Sandaconda V,VMAX,Secret Rare,aky CG Works,holo,Chilling Reign,Sword & Shield,233
+swsh6-207,207,Galarian Slowking VMAX,320,Darkness,Galarian Slowking V,VMAX,Secret Rare,5ban Graphics,holo,Chilling Reign,Sword & Shield,233
+swsh6-208,208,Metagross VMAX,330,Metal,Metagross V,VMAX,Secret Rare,Ryota Murayama,holo,Chilling Reign,Sword & Shield,233
+swsh6-209,209,Tornadus VMAX,320,Colorless,Tornadus V,VMAX,Secret Rare,Mitsuhiro Arita,holo,Chilling Reign,Sword & Shield,233
+swsh6-210,210,Agatha,,,,,Secret Rare,NC Empire,holo,Chilling Reign,Sword & Shield,233
+swsh6-211,211,Avery,,,,,Secret Rare,kirisAki,holo,Chilling Reign,Sword & Shield,233
+swsh6-212,212,Brawly,,,,,Secret Rare,Sanosuke Sakuma,holo,Chilling Reign,Sword & Shield,233
+swsh6-213,213,Caitlin,,,,,Secret Rare,En Morikura,holo,Chilling Reign,Sword & Shield,233
+swsh6-214,214,Doctor,,,,,Secret Rare,Sanosuke Sakuma,holo,Chilling Reign,Sword & Shield,233
+swsh6-215,215,Flannery,,,,,Secret Rare,Ryuta Fuse,holo,Chilling Reign,Sword & Shield,233
+swsh6-216,216,Karen's Conviction,,,,,Secret Rare,Hideki Ishikawa,holo,Chilling Reign,Sword & Shield,233
+swsh6-217,217,Klara,,,,,Secret Rare,Naoki Saito,holo,Chilling Reign,Sword & Shield,233
+swsh6-218,218,Melony,,,,,Secret Rare,Taira Akitsu,holo,Chilling Reign,Sword & Shield,233
+swsh6-219,219,Peonia,,,,,Secret Rare,kirisAki,holo,Chilling Reign,Sword & Shield,233
+swsh6-220,220,Peony,,,,,Secret Rare,Hitoshi Ariga,holo,Chilling Reign,Sword & Shield,233
+swsh6-221,221,Siebold,,,,,Secret Rare,Hideki Ishikawa,holo,Chilling Reign,Sword & Shield,233
+swsh6-222,222,Electrode,90,Lightning,Voltorb,Stage1,Secret Rare,Ryo Ueda,holo,Chilling Reign,Sword & Shield,233
+swsh6-223,223,Bronzong,110,Metal,Bronzor,Stage1,Secret Rare,Eske Yoshinob,holo,Chilling Reign,Sword & Shield,233
+swsh6-224,224,Snorlax,130,Colorless,,Basic,Secret Rare,Saki Hayashiro,holo,Chilling Reign,Sword & Shield,233
+swsh6-225,225,Echoing Horn,,,,,Secret Rare,Studio Bora Inc.,holo,Chilling Reign,Sword & Shield,233
+swsh6-226,226,Fan of Waves,,,,,Secret Rare,sadaji,holo,Chilling Reign,Sword & Shield,233
+swsh6-227,227,Fog Crystal,,,,,Secret Rare,sadaji,holo,Chilling Reign,Sword & Shield,233
+swsh6-228,228,Rugged Helmet,,,,,Secret Rare,sadaji,holo,Chilling Reign,Sword & Shield,233
+swsh6-229,229,Urn of Vitality,,,,,Secret Rare,Toyste Beach,holo,Chilling Reign,Sword & Shield,233
+swsh6-230,230,Welcoming Lantern,,,,,Secret Rare,Studio Bora Inc.,holo,Chilling Reign,Sword & Shield,233
+swsh6-231,231,Water Energy,,,,,Secret Rare,,holo,Chilling Reign,Sword & Shield,233
+swsh6-232,232,Psychic Energy,,,,,Secret Rare,,holo,Chilling Reign,Sword & Shield,233
+swsh6-233,233,Fighting Energy,,,,,Secret Rare,,holo,Chilling Reign,Sword & Shield,233

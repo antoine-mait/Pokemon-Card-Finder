@@ -1,0 +1,173 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sv10.5b-001,001,Serpifeu,70,Pflanze,,Basis,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-002,002,Efoserp,100,Pflanze,Serpifeu,Rang 1,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-003,003,Serpiroyal-ex,320,Pflanze,Efoserp,Rang 2,Doppelselten,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-004,004,Vegimak,70,Pflanze,,Basis,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-005,005,Vegichita,100,Pflanze,Vegimak,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-006,006,Lilminip,60,Pflanze,,Basis,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-007,007,Dressella,100,Pflanze,Lilminip,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-008,008,Maracamba,100,Pflanze,,Basis,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-009,009,Laukaps,60,Pflanze,,Basis,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-010,010,Tarnpignon,50,Pflanze,,Basis,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-011,011,Hutsassa,120,Pflanze,Tarnpignon,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-012,012,Victini,80,Feuer,,Basis,Selten,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-013,013,Flampion,80,Feuer,,Basis,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-014,014,Flampivian,140,Feuer,Flampion,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-015,015,Ignivor,60,Feuer,,Basis,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-016,016,Ramoth,120,Feuer,Ignivor,Rang 1,Selten,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-017,017,Sodamak,70,Wasser,,Basis,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-018,018,Sodachita,100,Wasser,Sodamak,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-019,019,Schallquap,60,Wasser,,Basis,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-020,020,Mebrana,90,Wasser,Schallquap,Rang 1,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-021,021,Branawarz,170,Wasser,Mebrana,Rang 2,Ungewöhnlich,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-022,022,Galapaflos,100,Wasser,Antikes Schildfossil,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-023,023,Karippas,180,Wasser,Galapaflos,Rang 2,Selten,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-024,024,Mamolida,110,Wasser,,Basis,Ungewöhnlich,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-025,025,Petznief,70,Wasser,,Basis,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-026,026,Siberio,150,Wasser,Petznief,Rang 1,Selten,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-027,027,Frigometri,90,Wasser,,Basis,Ungewöhnlich,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-028,028,Kyurem-ex,230,Wasser,,Basis,Doppelselten,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-029,029,Emolga,70,Elektro,,Basis,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-030,030,Zapplardin,40,Elektro,,Basis,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-031,031,Zapplalek,90,Elektro,Zapplardin,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-032,032,Zapplarang,160,Elektro,Zapplalek,Rang 2,Ungewöhnlich,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-033,033,Voltolos,120,Elektro,,Basis,Selten,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-034,034,Zekrom-ex,230,Elektro,,Basis,Doppelselten,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-035,035,Somniam,70,Psycho,,Basis,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-036,036,Somnivora,120,Psycho,Somniam,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-037,037,Monozyto,40,Psycho,,Basis,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-038,038,Mitodos,70,Psycho,Monozyto,Rang 1,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-039,039,Zytomega,140,Psycho,Mitodos,Rang 2,Ungewöhnlich,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-040,040,Pygraulon,60,Psycho,,Basis,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-041,041,Megalon,90,Psycho,Pygraulon,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-042,042,Golbit,90,Psycho,,Basis,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-043,043,Golgantes,160,Psycho,Golbit,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-044,044,Meloetta-ex,200,Psycho,,Basis,Doppelselten,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-045,045,Rotomurf,70,Kampf,,Basis,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-046,046,Stalobor-ex,270,Kampf,Rotomurf,Rang 1,Doppelselten,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-047,047,Praktibalk,70,Kampf,,Basis,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-048,048,Strepoli,100,Kampf,Praktibalk,Rang 1,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-049,049,Meistagrif,140,Kampf,Strepoli,Rang 2,Selten,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-050,050,Jiutesto,130,Kampf,,Basis,Ungewöhnlich,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-051,051,Lithomith,70,Kampf,,Basis,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-052,052,Castellith,150,Kampf,Lithomith,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-053,053,Demeteros,130,Kampf,,Basis,Selten,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-054,054,Toxiped,80,Unlicht,,Basis,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-055,055,Rollum,100,Unlicht,Toxiped,Rang 1,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-056,056,Cerapendra,160,Unlicht,Rollum,Rang 2,Ungewöhnlich,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-057,057,Ganovil,70,Unlicht,,Basis,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-058,058,Rokkaiman,100,Unlicht,Ganovil,Rang 1,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-059,059,Rabigator,170,Unlicht,Rokkaiman,Rang 2,Ungewöhnlich,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-060,060,Cavalanzas,130,Metall,Laukaps,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-061,061,Klikk,60,Metall,,Basis,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-062,062,Kliklak,90,Metall,Klikk,Rang 1,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-063,063,Klikdiklak,150,Metall,Kliklak,Rang 2,Selten,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-064,064,Gladiantri,60,Metall,,Basis,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-065,065,Caesurio,120,Metall,Gladiantri,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-066,066,Kobalium,120,Metall,,Basis,Selten,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-067,067,Genesect-ex,220,Metall,,Basis,Doppelselten,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-068,068,Milza,70,Drache,,Basis,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-069,069,Sharfax,100,Drache,Milza,Rang 1,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-070,070,Maxax,170,Drache,Sharfax,Rang 2,Selten,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-071,071,Dusselgurr,60,Farblos,,Basis,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-072,072,Navitaub,80,Farblos,Dusselgurr,Rang 1,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-073,073,Fasasnob,150,Farblos,Navitaub,Rang 2,Ungewöhnlich,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-074,074,Ohrdoch,100,Farblos,,Basis,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-075,075,Picochilla,60,Farblos,,Basis,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-076,076,Chillabell,100,Farblos,Picochilla,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-077,077,Geronimatz,70,Farblos,,Basis,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-078,078,Washakwil,140,Farblos,Geronimatz,Rang 1,Ungewöhnlich,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-079,079,Luftballon,,,,,Ungewöhnlich,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-080,080,Antikes Schildfossil,,,,,Häufig,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-081,081,Energiemünze,,,,,Ungewöhnlich,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-082,082,Vivian,,,,,Ungewöhnlich,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-083,083,Ns Plan,,,,,Ungewöhnlich,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-084,084,Pokécom 3.0,,,,,Ungewöhnlich,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-085,085,Forschung des Professors,,,,,Ungewöhnlich,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-086,086,Prisma-Energie,,,,,Ungewöhnlich,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-087,087,Serpifeu,70,Pflanze,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-088,088,Efoserp,100,Pflanze,Serpifeu,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-089,089,Vegimak,70,Pflanze,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-090,090,Vegichita,100,Pflanze,Vegimak,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-091,091,Lilminip,60,Pflanze,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-092,092,Dressella,100,Pflanze,Lilminip,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-093,093,Maracamba,100,Pflanze,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-094,094,Laukaps,60,Pflanze,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-095,095,Tarnpignon,50,Pflanze,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-096,096,Hutsassa,120,Pflanze,Tarnpignon,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-097,097,Flampion,80,Feuer,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-098,098,Flampivian,140,Feuer,Flampion,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-099,099,Ignivor,60,Feuer,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-100,100,Ramoth,120,Feuer,Ignivor,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-101,101,Sodamak,70,Wasser,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-102,102,Sodachita,100,Wasser,Sodamak,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-103,103,Schallquap,60,Wasser,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-104,104,Mebrana,90,Wasser,Schallquap,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-105,105,Branawarz,170,Wasser,Mebrana,Rang 2,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-106,106,Galapaflos,100,Wasser,Antikes Schildfossil,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-107,107,Karippas,180,Wasser,Galapaflos,Rang 2,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-108,108,Mamolida,110,Wasser,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-109,109,Petznief,70,Wasser,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-110,110,Siberio,150,Wasser,Petznief,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-111,111,Frigometri,90,Wasser,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-112,112,Emolga,70,Elektro,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-113,113,Zapplardin,40,Elektro,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-114,114,Zapplalek,90,Elektro,Zapplardin,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-115,115,Zapplarang,160,Elektro,Zapplalek,Rang 2,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-116,116,Somniam,70,Psycho,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-117,117,Somnivora,120,Psycho,Somniam,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-118,118,Monozyto,40,Psycho,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-119,119,Mitodos,70,Psycho,Monozyto,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-120,120,Pygraulon,60,Psycho,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-121,121,Megalon,90,Psycho,Pygraulon,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-122,122,Golbit,90,Psycho,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-123,123,Golgantes,160,Psycho,Golbit,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-124,124,Rotomurf,70,Kampf,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-125,125,Praktibalk,70,Kampf,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-126,126,Strepoli,100,Kampf,Praktibalk,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-127,127,Meistagrif,140,Kampf,Strepoli,Rang 2,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-128,128,Jiutesto,130,Kampf,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-129,129,Lithomith,70,Kampf,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-130,130,Castellith,150,Kampf,Lithomith,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-131,131,Demeteros,130,Kampf,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-132,132,Toxiped,80,Unlicht,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-133,133,Rollum,100,Unlicht,Toxiped,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-134,134,Cerapendra,160,Unlicht,Rollum,Rang 2,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-135,135,Ganovil,70,Unlicht,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-136,136,Rokkaiman,100,Unlicht,Ganovil,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-137,137,Rabigator,170,Unlicht,Rokkaiman,Rang 2,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-138,138,Cavalanzas,130,Metall,Laukaps,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-139,139,Klikk,60,Metall,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-140,140,Kliklak,90,Metall,Klikk,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-141,141,Klikdiklak,150,Metall,Kliklak,Rang 2,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-142,142,Gladiantri,60,Metall,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-143,143,Caesurio,120,Metall,Gladiantri,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-144,144,Kobalium,120,Metall,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-145,145,Milza,70,Drache,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-146,146,Sharfax,100,Drache,Milza,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-147,147,Maxax,170,Drache,Sharfax,Rang 2,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-148,148,Dusselgurr,60,Farblos,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-149,149,Navitaub,80,Farblos,Dusselgurr,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-150,150,Fasasnob,150,Farblos,Navitaub,Rang 2,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-151,151,Ohrdoch,100,Farblos,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-152,152,Picochilla,60,Farblos,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-153,153,Chillabell,100,Farblos,Picochilla,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-154,154,Geronimatz,70,Farblos,,Basis,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-155,155,Washakwil,140,Farblos,Geronimatz,Rang 1,"Selten, Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-156,156,Serpiroyal-ex,320,Pflanze,Efoserp,Rang 2,Ultra Selten,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-157,157,Kyurem-ex,230,Wasser,,Basis,Ultra Selten,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-158,158,Zekrom-ex,230,Elektro,,Basis,Ultra Selten,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-159,159,Meloetta-ex,200,Psycho,,Basis,Ultra Selten,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-160,160,Stalobor-ex,270,Kampf,Rotomurf,Rang 1,Ultra Selten,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-161,161,Genesect-ex,220,Metall,,Basis,Ultra Selten,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-162,162,Vivian,,,,,Ultra Selten,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-163,163,Ns Plan,,,,,Ultra Selten,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-164,164,Serpiroyal-ex,320,Pflanze,Efoserp,Rang 2,"Selten, besondere Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-165,165,Kyurem-ex,230,Wasser,,Basis,"Selten, besondere Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-166,166,Zekrom-ex,230,Elektro,,Basis,"Selten, besondere Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-167,167,Meloetta-ex,200,Psycho,,Basis,"Selten, besondere Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-168,168,Stalobor-ex,270,Kampf,Rotomurf,Rang 1,"Selten, besondere Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-169,169,Genesect-ex,220,Metall,,Basis,"Selten, besondere Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-170,170,Ns Plan,,,,,"Selten, besondere Illustration",,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-171,171,Victini,80,Feuer,,Basis,Schwarz-Weiß Selten,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172
+sv10.5b-172,172,Zekrom-ex,230,Elektro,,Basis,Schwarz-Weiß Selten,,"normal, reverse, holo",Schwarze Blitze,Karmesin & Purpur,172

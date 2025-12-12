@@ -1,0 +1,57 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+dpp-DP01,DP01,Chelast,60,Pflanze,,Basis,Häufig,Masakazu Fukuda,holo,Promo DP,Diamant & Perl,56
+dpp-DP02,DP02,Panflam,50,Feuer,,Basis,Häufig,Kagemaru Himeno,holo,Promo DP,Diamant & Perl,56
+dpp-DP03,DP03,Plinfa,60,Wasser,,Basis,Häufig,Atsuko Nishida,holo,Promo DP,Diamant & Perl,56
+dpp-DP04,DP04,Pachirisu,70,Elektro,,Basis,Häufig,Atsuko Nishida,holo,Promo DP,Diamant & Perl,56
+dpp-DP05,DP05,Tropenwinde,,,,,Häufig,Sumiyoshi Kizuki,normal,Promo DP,Diamant & Perl,56
+dpp-DP06,DP06,Haspiror,50,Farblos,,Basis,Häufig,Kagemaru Himeno,holo,Promo DP,Diamant & Perl,56
+dpp-DP07,DP07,Koknodon,70,Kampf,,Rang 1,Häufig,Mitsuhiro Arita,holo,Promo DP,Diamant & Perl,56
+dpp-DP08,DP08,Schilterus,80,Metall,,Rang 1,Häufig,Kouki Saitou,holo,Promo DP,Diamant & Perl,56
+dpp-DP09,DP09,Chelterrar,160,Pflanze,,Level Up,Häufig,Shizurow,holo,Promo DP,Diamant & Perl,56
+dpp-DP10,DP10,Panferno,120,Feuer,,Level Up,Häufig,Shizurow,holo,Promo DP,Diamant & Perl,56
+dpp-DP11,DP11,Impoleon,140,Wasser,,Level Up,Häufig,Shizurow,holo,Promo DP,Diamant & Perl,56
+dpp-DP12,DP12,Lucario,110,Kampf,,Level Up,Häufig,Ryo Ueda,holo,Promo DP,Diamant & Perl,56
+dpp-DP13,DP13,Bamelin,60,Wasser,,Basis,Häufig,Mitsuhiro Arita,holo,Promo DP,Diamant & Perl,56
+dpp-DP14,DP14,Plaudagei,60,Farblos,,Basis,Häufig,Masakazu Fukuda,holo,Promo DP,Diamant & Perl,56
+dpp-DP15,DP15,Sheinux,60,Elektro,,Basis,Häufig,Kagemaru Himeno,holo,Promo DP,Diamant & Perl,56
+dpp-DP16,DP16,Pikachu,60,Elektro,,Basis,Häufig,Sumiyoshi Kizuki,holo,Promo DP,Diamant & Perl,56
+dpp-DP17,DP17,Dialga,120,Metall,,Level Up,Häufig,Ryo Ueda,holo,Promo DP,Diamant & Perl,56
+dpp-DP18,DP18,Palkia,120,Wasser,,Level Up,Häufig,Ryo Ueda,holo,Promo DP,Diamant & Perl,56
+dpp-DP19,DP19,Darkrai,100,Unlicht,,Level Up,Häufig,Shizurow,holo,Promo DP,Diamant & Perl,56
+dpp-DP20,DP20,Magbrant,100,Feuer,,Rang 1,Häufig,Hiroaki Ito,holo,Promo DP,Diamant & Perl,56
+dpp-DP21,DP21,Raichu,90,Elektro,,Rang 1,Häufig,Daisuke Ito,holo,Promo DP,Diamant & Perl,56
+dpp-DP22,DP22,Pantimimi,40,Psycho,,Basis,Häufig,Mitsuhiro Arita,holo,Promo DP,Diamant & Perl,56
+dpp-DP23,DP23,Charmian,50,Farblos,,Basis,Häufig,Mitsuhiro Arita,holo,Promo DP,Diamant & Perl,56
+dpp-DP24,DP24,Darkrai,80,Unlicht,,Basis,Häufig,Kouki Saitou,"normal, holo",Promo DP,Diamant & Perl,56
+dpp-DP25,DP25,Tropenwinde,,,,,Häufig,Sumiyoshi Kizuki,normal,Promo DP,Diamant & Perl,56
+dpp-DP26,DP26,Dialga,90,Metall,,Basis,Häufig,Kazuyuki Kano,holo,Promo DP,Diamant & Perl,56
+dpp-DP27,DP27,Palkia,90,Wasser,,Basis,Häufig,Daisuke Ito,holo,Promo DP,Diamant & Perl,56
+dpp-DP28,DP28,Mewtu,120,Psycho,,Level Up,Häufig,Shizurow,holo,Promo DP,Diamant & Perl,56
+dpp-DP29,DP29,Rihornior,170,Kampf,,Level Up,Häufig,Ryo Ueda,holo,Promo DP,Diamant & Perl,56
+dpp-DP30,DP30,Regigigas,150,Farblos,,Level Up,Häufig,Shizurow,holo,Promo DP,Diamant & Perl,56
+dpp-DP31,DP31,Heatran,120,Feuer,,Level Up,Häufig,Shizurow,holo,Promo DP,Diamant & Perl,56
+dpp-DP32,DP32,Magnezone,130,Metall,,Rang 2,Häufig,Kent Kanetsuna,holo,Promo DP,Diamant & Perl,56
+dpp-DP33,DP33,Zwirrfinst,130,Psycho,,Rang 2,Häufig,Kent Kanetsuna,holo,Promo DP,Diamant & Perl,56
+dpp-DP34,DP34,Drifzepeli,80,Psycho,,Rang 1,Häufig,Mitsuhiro Arita,holo,Promo DP,Diamant & Perl,56
+dpp-DP35,DP35,Porygon-Z,120,Farblos,,Rang 2,Häufig,Kagemaru Himeno,holo,Promo DP,Diamant & Perl,56
+dpp-DP36,DP36,Skorgro,90,Kampf,,Rang 1,Häufig,Kagemaru Himeno,holo,Promo DP,Diamant & Perl,56
+dpp-DP37,DP37,Dialga,120,Metall,,Level Up,Häufig,Ryo Ueda,holo,Promo DP,Diamant & Perl,56
+dpp-DP38,DP38,Giratina,130,Psycho,,Level Up,Häufig,Shizurow,holo,Promo DP,Diamant & Perl,56
+dpp-DP39,DP39,Shaymin,110,Pflanze,,Level Up,Häufig,Shizurow,holo,Promo DP,Diamant & Perl,56
+dpp-DP40,DP40,Regigigas,100,Farblos,,Basis,Häufig,Kagemaru Himeno,"normal, holo",Promo DP,Diamant & Perl,56
+dpp-DP41,DP41,Toxiquak G,90,Kampf,,Basis,Häufig,Ryota Saito,holo,Promo DP,Diamant & Perl,56
+dpp-DP42,DP42,Venuflibis G,80,Pflanze,,Basis,Häufig,Makoto Imai,holo,Promo DP,Diamant & Perl,56
+dpp-DP43,DP43,Voluminas G,90,Kampf,,Basis,Häufig,Ryota Saito,holo,Promo DP,Diamant & Perl,56
+dpp-DP44,DP44,Magnezone,130,Elektro,,Rang 2,Häufig,Kagemaru Himeno,holo,Promo DP,Diamant & Perl,56
+dpp-DP45,DP45,Glurak G,120,Feuer,,Level Up,Häufig,Wataru Kawahara,holo,Promo DP,Diamant & Perl,56
+dpp-DP46,DP46,Knakrack C,110,Farblos,,Level Up,Häufig,Shizurow,holo,Promo DP,Diamant & Perl,56
+dpp-DP47,DP47,Rayquaza C,120,Farblos,,Level Up,Häufig,,holo,Promo DP,Diamant & Perl,56
+dpp-DP48,DP48,Tropenwinde,,,,,Häufig,Sumiyoshi Kizuki,normal,Promo DP,Diamant & Perl,56
+dpp-DP49,DP49,Dialga,100,Metall,,Basis,Häufig,Kagemaru Himeno,holo,Promo DP,Diamant & Perl,56
+dpp-DP50,DP50,Arceus,90,Farblos,,Basis,Häufig,Kunihiko Yuyama,holo,Promo DP,Diamant & Perl,56
+dpp-DP51,DP51,Cresselia,90,Psycho,,Basis,Häufig,Wataru Kawahara,holo,Promo DP,Diamant & Perl,56
+dpp-DP52,DP52,Darkrai,90,Unlicht,,Basis,Häufig,Wataru Kawahara,holo,Promo DP,Diamant & Perl,56
+dpp-DP53,DP53,Arceus,120,Farblos,,Level Up,Häufig,Shizurow,holo,Promo DP,Diamant & Perl,56
+dpp-DP54,DP54,Tor des Ursprungs,,,,,Häufig,Ryo Ueda,holo,Promo DP,Diamant & Perl,56
+dpp-DP55,DP55,Ultimativ-Zone,,,,,Häufig,Yusuke Ishikawa,holo,Promo DP,Diamant & Perl,56
+dpp-DP56,DP56,Arceus,120,Farblos,,Level Up,Häufig,Ryo Ueda,holo,Promo DP,Diamant & Perl,56

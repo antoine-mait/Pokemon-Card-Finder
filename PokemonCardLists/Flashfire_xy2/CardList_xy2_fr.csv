@@ -1,0 +1,111 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+xy2-1,1,Chenipan,40,Plante,,De base,Commune,Sumiyoshi Kizuki,"normal, reverse, holo",Étincelles,XY,110
+xy2-2,2,Chrysacier,70,Plante,Chenipan,Niveau 1,Peu Commune,kawayoo,"normal, reverse, holo",Étincelles,XY,110
+xy2-3,3,Papilusion,130,Plante,Chrysacier,Niveau 2,Rare,sui,"normal, reverse, holo",Étincelles,XY,110
+xy2-4,4,Pomdepik,60,Plante,,De base,Commune,Suwama Chiaki,"normal, reverse, holo",Étincelles,XY,110
+xy2-5,5,Grainipiot,50,Plante,,De base,Commune,Naoyo Kimura,"normal, reverse, holo",Étincelles,XY,110
+xy2-6,6,Pifeuil,80,Plante,Grainipiot,Niveau 1,Peu Commune,Midori Harada,"normal, reverse, holo",Étincelles,XY,110
+xy2-7,7,Tengalice,140,Plante,Pifeuil,Niveau 2,Rare,Kouki Saitou,"normal, reverse, holo",Étincelles,XY,110
+xy2-8,8,Rosélia,60,Plante,,De base,Commune,kirisAki,"normal, reverse, holo",Étincelles,XY,110
+xy2-9,9,Roserade,90,Plante,Rosélia,Niveau 1,Peu Commune,Masakazu Fukuda,"normal, reverse, holo",Étincelles,XY,110
+xy2-10,10,Maracachi,90,Plante,,De base,Peu Commune,match,"normal, reverse, holo",Étincelles,XY,110
+xy2-11,11,Dracaufeu EX,180,Feu,,De base,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Étincelles,XY,110
+xy2-12,12,Dracaufeu EX,180,Feu,,De base,Ultra Rare,PLANETA,"normal, reverse, holo",Étincelles,XY,110
+xy2-13,13,M-Dracaufeu EX,220,Feu,Dracaufeu-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-14,14,Ponyta,60,Feu,,De base,Commune,Tomokazu Komiya,"normal, reverse, holo",Étincelles,XY,110
+xy2-15,15,Galopa,90,Feu,Ponyta,Niveau 1,Peu Commune,Akira Komayama,"normal, reverse, holo",Étincelles,XY,110
+xy2-16,16,Chartor,100,Feu,,De base,Peu Commune,Akira Komayama,"normal, reverse, holo",Étincelles,XY,110
+xy2-17,17,Braisillon,80,Feu,Passerouge,Niveau 1,Peu Commune,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-18,18,Hélionceau,70,Feu,,De base,Commune,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-19,19,Hélionceau,60,Feu,,De base,Commune,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-20,20,Némélios,110,Feu,Hélionceau,Niveau 1,Rare,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-21,21,Qwilfish,80,Eau,,De base,Rare,Kouki Saitou,"normal, reverse, holo",Étincelles,XY,110
+xy2-22,22,Barpau,30,Eau,,De base,Commune,Shigenori Negishi,"normal, reverse, holo",Étincelles,XY,110
+xy2-23,23,Milobellus,100,Eau,Barpau,Niveau 1,Rare,Shin Nagasawa,"normal, reverse, holo",Étincelles,XY,110
+xy2-24,24,Obalie,70,Eau,,De base,Commune,Kagemaru Himeno,"normal, reverse, holo",Étincelles,XY,110
+xy2-25,25,Phogleur,90,Eau,Obalie,Niveau 1,Peu Commune,Mitsuhiro Arita,"normal, reverse, holo",Étincelles,XY,110
+xy2-26,26,Kaimorse,150,Eau,Phogleur,Niveau 2,Rare,Naoki Saito,"normal, reverse, holo",Étincelles,XY,110
+xy2-27,27,Lovdisc,60,Eau,,De base,Peu Commune,Atsuko Nishida,"normal, reverse, holo",Étincelles,XY,110
+xy2-28,28,Mustébouée,60,Eau,,De base,Commune,sui,"normal, reverse, holo",Étincelles,XY,110
+xy2-29,29,Mustéflott,90,Eau,Mustébouée,Niveau 1,Rare,Kanako Eo,"normal, reverse, holo",Étincelles,XY,110
+xy2-30,30,Grelaçon,70,Eau,,De base,Commune,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-31,31,Séracrawl,130,Eau,Grelaçon,Niveau 1,Peu Commune,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-32,32,Lixy,60,Électrique,,De base,Commune,Sanosuke Sakuma,"normal, reverse, holo",Étincelles,XY,110
+xy2-33,33,Luxio,80,Électrique,Lixy,Niveau 1,Peu Commune,Akira Komayama,"normal, reverse, holo",Étincelles,XY,110
+xy2-34,34,Luxray,140,Électrique,Luxio,Niveau 2,Rare,Hitoshi Ariga,"normal, reverse, holo",Étincelles,XY,110
+xy2-35,35,Magnézone EX,180,Électrique,,De base,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Étincelles,XY,110
+xy2-36,36,Galvaran,60,Électrique,,De base,Commune,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-37,37,Iguolta,90,Électrique,Galvaran,Niveau 1,Rare,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-38,38,Skelénox,50,Psy,,De base,Commune,match,"normal, reverse, holo",Étincelles,XY,110
+xy2-39,39,Téraclope,80,Psy,Skelénox,Niveau 1,Peu Commune,MAHOU,"normal, reverse, holo",Étincelles,XY,110
+xy2-40,40,Noctunoir,130,Psy,Téraclope,Niveau 2,Rare,Suwama Chiaki,"normal, reverse, holo",Étincelles,XY,110
+xy2-41,41,Coatox EX,170,Psy,,De base,Ultra Rare,PLANETA,"normal, reverse, holo",Étincelles,XY,110
+xy2-42,42,Psystigri,60,Psy,,De base,Commune,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-43,43,Mistigrix,90,Psy,Psystigri,Niveau 1,Rare,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-44,44,Venalgue,50,Psy,,De base,Commune,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-45,45,Racaillou,60,Combat,,De base,Commune,MAHOU,"normal, reverse, holo",Étincelles,XY,110
+xy2-46,46,Gravalanch,100,Combat,Racaillou,Niveau 1,Peu Commune,Naoyo Kimura,"normal, reverse, holo",Étincelles,XY,110
+xy2-47,47,Grolem,150,Combat,Gravalanch,Niveau 2,Rare,Sumiyoshi Kizuki,"normal, reverse, holo",Étincelles,XY,110
+xy2-48,48,Opermine,70,Combat,,De base,Commune,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-49,49,Golgopathe,110,Combat,Opermine,Niveau 1,Rare,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-50,50,Farfuret,60,Obscurité,,De base,Peu Commune,Mizue,"normal, reverse, holo",Étincelles,XY,110
+xy2-51,51,Farfuret,60,Obscurité,,De base,Commune,match,"normal, reverse, holo",Étincelles,XY,110
+xy2-52,52,Dimoret,90,Obscurité,Farfuret,Niveau 1,Rare,Shigenori Negishi,"normal, reverse, holo",Étincelles,XY,110
+xy2-53,53,Moufouette,60,Obscurité,,De base,Commune,Kyoko Umemoto,"normal, reverse, holo",Étincelles,XY,110
+xy2-54,54,Moufouette,60,Obscurité,,De base,Commune,Masakazu Fukuda,"normal, reverse, holo",Étincelles,XY,110
+xy2-55,55,Moufflair,100,Obscurité,Moufouette,Niveau 1,Rare,kirisAki,"normal, reverse, holo",Étincelles,XY,110
+xy2-56,56,Mascaïman,70,Obscurité,,De base,Commune,Masakazu Fukuda,"normal, reverse, holo",Étincelles,XY,110
+xy2-57,57,Escroco,90,Obscurité,Mascaïman,Niveau 1,Peu Commune,Naoki Saito,"normal, reverse, holo",Étincelles,XY,110
+xy2-58,58,Baggiguane,60,Obscurité,,De base,Commune,Naoki Saito,"normal, reverse, holo",Étincelles,XY,110
+xy2-59,59,Baggaïd,100,Obscurité,Baggiguane,Niveau 1,Rare,Hitoshi Ariga,"normal, reverse, holo",Étincelles,XY,110
+xy2-60,60,Foretress,100,Métal,Pomdepik,Niveau 1,Rare,Tomokazu Komiya,"normal, reverse, holo",Étincelles,XY,110
+xy2-61,61,Fermite,70,Métal,,De base,Rare,Midori Harada,"normal, reverse, holo",Étincelles,XY,110
+xy2-62,62,Flabébé,40,Fée,,De base,Commune,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-63,63,Flabébé,40,Fée,,De base,Commune,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-64,64,Floette,70,Fée,Flabébé,Niveau 1,Rare,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-65,65,Floette,70,Fée,Flabébé,Niveau 1,Peu Commune,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-66,66,Florges,110,Fée,Floette,Niveau 2,Rare,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-67,67,Fluvetin,50,Fée,,De base,Commune,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-68,68,Strassie,70,Fée,,De base,Rare,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-69,69,M-Dracaufeu EX,230,Dragon,Dracaufeu-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-70,70,Drakkarmin,110,Dragon,,De base,Rare,Ryota Murayama,"normal, reverse, holo",Étincelles,XY,110
+xy2-71,71,Kravarech,100,Dragon,Venalgue,Niveau 1,Rare,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-72,72,Mucuscule,50,Dragon,,De base,Commune,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-73,73,Colimucus,80,Dragon,Mucuscule,Niveau 1,Peu Commune,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-74,74,Muplodocus,150,Dragon,Colimucus,Niveau 2,Rare,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-75,75,Roucool,60,Incolore,,De base,Commune,Atsuko Nishida,"normal, reverse, holo",Étincelles,XY,110
+xy2-76,76,Roucoups,80,Incolore,Roucool,Niveau 1,Peu Commune,Shin Nagasawa,"normal, reverse, holo",Étincelles,XY,110
+xy2-77,77,Roucarnage,130,Incolore,Roucoups,Niveau 2,Rare,kawayoo,"normal, reverse, holo",Étincelles,XY,110
+xy2-78,78,Kangourex EX,180,Incolore,,De base,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Étincelles,XY,110
+xy2-79,79,M-Kangourex EX,230,Incolore,Kangourex-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-80,80,Ronflex,130,Incolore,,De base,Rare,Mitsuhiro Arita,"normal, reverse, holo",Étincelles,XY,110
+xy2-81,81,Fouinette,50,Incolore,,De base,Commune,Mizue,"normal, reverse, holo",Étincelles,XY,110
+xy2-82,82,Fouinar,90,Incolore,Fouinette,Niveau 1,Rare,Kagemaru Himeno,"normal, reverse, holo",Étincelles,XY,110
+xy2-83,83,Écrémeuh,100,Incolore,,De base,Peu Commune,Kanako Eo,"normal, reverse, holo",Étincelles,XY,110
+xy2-84,84,Laporeille,60,Incolore,,De base,Commune,Kyoko Umemoto,"normal, reverse, holo",Étincelles,XY,110
+xy2-85,85,Lockpin,90,Incolore,Laporeille,Niveau 1,Rare,Sanosuke Sakuma,"normal, reverse, holo",Étincelles,XY,110
+xy2-86,86,Passerouge,50,Incolore,,De base,Commune,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-87,87,Couafarel,90,Incolore,,De base,Peu Commune,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-88a,88a,Forgeron,,,,,Peu Commune,Masakazu Fukuda,"normal, reverse, holo",Étincelles,XY,110
+xy2-88,88,Forgeron,,,,,Peu Commune,Masakazu Fukuda,"normal, reverse, holo",Étincelles,XY,110
+xy2-89,89,Flambeau Incandescent,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Étincelles,XY,110
+xy2-90,90,Lysandre,,,,,Peu Commune,Ken Sugimori,"normal, reverse, holo",Étincelles,XY,110
+xy2-91,91,Tempête Magnétique,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Étincelles,XY,110
+xy2-92,92,Registre Ami,,,,,Peu Commune,PLANETA,"normal, reverse, holo",Étincelles,XY,110
+xy2-93,93,Dame du Centre Pokémon,,,,,Peu Commune,Maiko Fujiwara,"normal, reverse, holo",Étincelles,XY,110
+xy2-94,94,Fan Club Pokémon,,,,,Peu Commune,Yusuke Ohmura,"normal, reverse, holo",Étincelles,XY,110
+xy2-95,95,Cube Protecteur,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Étincelles,XY,110
+xy2-96,96,Cendre Sacrée,,,,,Peu Commune,PLANETA,"normal, reverse, holo",Étincelles,XY,110
+xy2-97,97,Mégaphone Surprise,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Étincelles,XY,110
+xy2-98,98,Pelle Rusée,,,,,Peu Commune,PLANETA,"normal, reverse, holo",Étincelles,XY,110
+xy2-99,99,Hyper Ball,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-100,100,Dracaufeu EX,180,Feu,,De base,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Étincelles,XY,110
+xy2-101,101,Magnézone EX,180,Électrique,,De base,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Étincelles,XY,110
+xy2-102,102,Coatox EX,170,Psy,,De base,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Étincelles,XY,110
+xy2-103,103,Kangourex EX,180,Incolore,,De base,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Étincelles,XY,110
+xy2-104,104,Lysandre,,,,,Ultra Rare,Ken Sugimori,"normal, reverse, holo",Étincelles,XY,110
+xy2-105,105,Dame du Centre Pokémon,,,,,Ultra Rare,Megumi Mizutani,"normal, reverse, holo",Étincelles,XY,110
+xy2-106,106,Fan Club Pokémon,,,,,Ultra Rare,Emi Ando,"normal, reverse, holo",Étincelles,XY,110
+xy2-107,107,M-Dracaufeu EX,220,Feu,Dracaufeu-EX,MÉGA,Magnifique rare,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-108,108,M-Dracaufeu EX,230,Dragon,Dracaufeu-EX,MÉGA,Magnifique rare,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110
+xy2-109,109,M-Kangourex EX,230,Incolore,Kangourex-EX,MÉGA,Magnifique rare,5ban Graphics,"normal, reverse, holo",Étincelles,XY,110

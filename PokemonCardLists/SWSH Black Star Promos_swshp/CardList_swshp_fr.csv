@@ -1,0 +1,286 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+swshp-SWSH001,SWSH001,Ouistempo,60,Plante,,De base,Sans Rareté,kirisAki,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH002,SWSH002,Flambino,60,Feu,,De base,Sans Rareté,Hitoshi Ariga,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH003,SWSH003,Larméléon,60,Eau,,De base,Sans Rareté,Mizue,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH004,SWSH004,Miaouss V,180,Incolore,,De base,Sans Rareté,aky CG Works,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH005,SWSH005,Miaouss VMAX,300,Incolore,Miaouss-V,ESCOUADE,Sans Rareté,aky CG Works,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH006,SWSH006,Gorythmic,170,Plante,Badabouin,Niveau 2,Sans Rareté,Kouki Saitou,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH007,SWSH007,Beldeneige,90,Eau,Frissonille,Niveau 1,Sans Rareté,kirisAki,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH008,SWSH008,Berserkatt de Galar,120,Métal,Miaouss de Galar,Niveau 1,Sans Rareté,Akira Komayama,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH009,SWSH009,Pashmilla,90,Incolore,Chinchidou,Niveau 1,Sans Rareté,Shibuzoh.,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH010,SWSH010,Tournicoton,50,Plante,,De base,Sans Rareté,Naoki Saito,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH011,SWSH011,Moumouton,60,Incolore,,De base,Sans Rareté,Hitoshi Ariga,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH012,SWSH012,Morpeko,80,Électrique,,De base,Sans Rareté,Kagemaru Himeno,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH013,SWSH013,Ponyta de Galar,70,Psy,,De base,Sans Rareté,kirisAki,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH014,SWSH014,Gorythmic V,220,Plante,,De base,Sans Rareté,5ban Graphics,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH015,SWSH015,Pyrobut V,210,Feu,,De base,Sans Rareté,5ban Graphics,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH016,SWSH016,Lézargus V,200,Eau,,De base,Sans Rareté,5ban Graphics,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH017,SWSH017,Salarsen V,210,Électrique,,De base,Sans Rareté,5ban Graphics,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH018,SWSH018,Zacian V,220,Métal,,De base,Sans Rareté,5ban Graphics,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH019,SWSH019,Zamazenta V,230,Métal,,De base,Sans Rareté,aky CG Works,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH020,SWSH020,Pikachu,70,Électrique,,De base,Sans Rareté,Hideki Ishikawa,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH021,SWSH021,Polthégeist V,170,Psy,,De base,Sans Rareté,PLANETA Igarashi,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH022,SWSH022,Pomdrapi,80,Plante,Verpom,Niveau 1,Sans Rareté,Hitoshi Ariga,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH023,SWSH023,Luxray,160,Électrique,Luxio,Niveau 2,Sans Rareté,Megumi Higuchi,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH024,SWSH024,Monthracite,160,Combat,Wagomine,Niveau 2,Sans Rareté,Kouki Saitou,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH025,SWSH025,Miasmax,120,Obscurité,Miamiasme,Niveau 1,Rare,tetsuya koizumi,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH026,SWSH026,Démanta,110,Eau,,De base,Sans Rareté,0313,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH027,SWSH027,Noarfang,110,Incolore,Hoothoot,Niveau 1,Sans Rareté,Misa Tsutsui,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH028,SWSH028,Duralugon,130,Métal,,De base,Sans Rareté,Ryuta Fuse,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH029,SWSH029,Rayquaza,130,Incolore,,De base,Sans Rareté,so-taro,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH030,SWSH030,Pachyradjah V,220,Métal,,De base,Sans Rareté,5ban Graphics,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH031,SWSH031,Morpeko,80,Électrique,,De base,Sans Rareté,Hitoshi Ariga,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH032,SWSH032,Ronflex,150,Incolore,,De base,Sans Rareté,Tika Matsuno,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH033,SWSH033,Zacian,130,Métal,,De base,Sans Rareté,Kouki Saitou,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH034,SWSH034,Zamazenta,130,Métal,,De base,Sans Rareté,Kouki Saitou,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH035,SWSH035,Archéduc,140,Plante,Efflèche,Niveau 2,Sans Rareté,Souichirou Gunjima,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH036,SWSH036,Galvagla,130,Électrique,Fossile Rare,Niveau 1,Sans Rareté,Hasuno,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH037,SWSH037,Trioxhydre,160,Obscurité,Diamat,Niveau 2,Sans Rareté,Taira Akitsu,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH038,SWSH038,Kangourex,130,Incolore,,De base,Sans Rareté,HYOGONOSUKE,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH039,SWSH039,Pikachu,60,Électrique,,De base,Sans Rareté,Hitoshi Ariga,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH040,SWSH040,Bibichut,60,Psy,,De base,Sans Rareté,Misa Tsutsui,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH041,SWSH041,Pyroli,110,Feu,Évoli,Niveau 1,Sans Rareté,You Iribi,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH042,SWSH042,Évoli,60,Incolore,,De base,Sans Rareté,You Iribi,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH043,SWSH043,Palarticho de Galar V,210,Combat,,De base,Sans Rareté,PLANETA Tsuji,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH044,SWSH044,Éthernatos V,220,Obscurité,,De base,Sans Rareté,5ban Graphics,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH045,SWSH045,Éthernatos VMAX,340,Obscurité,Éthernatos-V,ESCOUADE,Sans Rareté,5ban Graphics,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH046,SWSH046,Blancoton,80,Plante,Tournicoton,Niveau 1,Sans Rareté,Mina Nakai,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH047,SWSH047,Torgamord,130,Eau,Khélocrok,Niveau 1,Sans Rareté,Anesaki Dynamic,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH048,SWSH048,Scolocendre,130,Feu,Grillepattes,Niveau 1,Sans Rareté,nagimiso,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH049,SWSH049,Moumouflon V,210,Incolore,,De base,Sans Rareté,5ban Graphics,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH050,SWSH050,Dracaufeu V,220,Feu,,De base,Sans Rareté,5ban Graphics,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH051,SWSH051,Lokhlass,130,Eau,,De base,Sans Rareté,Megumi Higuchi,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH052,SWSH052,Ectoplasma,110,Psy,Spectrum,Niveau 2,Sans Rareté,Shibuzoh.,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH053,SWSH053,Mackogneur,170,Combat,Machopeur,Niveau 2,Sans Rareté,SATOSHI NAKAI,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH054,SWSH054,Monthracite,160,Combat,Wagomine,Niveau 2,Sans Rareté,Shigenori Negishi,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH055,SWSH055,Sorcilence V,200,Psy,,De base,Sans Rareté,PLANETA Igarashi,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH056,SWSH056,Morpeko V,170,Électrique,,De base,Sans Rareté,5ban Graphics,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH057,SWSH057,Angoliath V,220,Obscurité,,De base,Sans Rareté,5ban Graphics,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH058,SWSH058,Charmilly,110,Psy,Crèmy,Niveau 1,Sans Rareté,sui,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH059,SWSH059,Ixon de Galar,160,Obscurité,Linéon de Galar,Niveau 2,Sans Rareté,Hasuno,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH060,SWSH060,Duralugon,130,Métal,,De base,Sans Rareté,Kazuma Koda,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH061,SWSH061,Pikachu V,190,Électrique,,De base,Sans Rareté,PLANETA Tsuji,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH062,SWSH062,Pikachu VMAX,310,Électrique,Pikachu-V,ESCOUADE,Sans Rareté,,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH063,SWSH063,Pikachu V,190,Électrique,,De base,Sans Rareté,Ryota Murayama,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH064,SWSH064,Éthernatos V,220,Obscurité,,De base,Sans Rareté,5ban Graphics,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH065,SWSH065,Évoli V,190,Incolore,,De base,Sans Rareté,Kagemaru Himeno,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH066,SWSH066,Dracaufeu,170,Feu,Reptincel,Niveau 2,Sans Rareté,NC Empire,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH067,SWSH067,Donphan,150,Combat,Phanpy,Niveau 1,Sans Rareté,Eri Yamaki,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH068,SWSH068,Ronflex,130,Incolore,,De base,Sans Rareté,Narumi Sato,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH069,SWSH069,Lugia,130,Incolore,,De base,Sans Rareté,kodama,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH070,SWSH070,Ouistempo,60,Plante,,De base,Sans Rareté,Akira Komayama,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH071,SWSH071,Flambino,60,Feu,,De base,Sans Rareté,Akira Komayama,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH072,SWSH072,Aquali,110,Eau,Évoli,Niveau 1,Sans Rareté,so-taro,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH073,SWSH073,Larméléon,60,Eau,,De base,Sans Rareté,Akira Komayama,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH076,SWSH076,Zacian V,220,Métal,,De base,Sans Rareté,5ban Graphics,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH077,SWSH077,Zamazenta V,230,Métal,,De base,Sans Rareté,aky CG Works,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH078,SWSH078,Astronelle V,180,Plante,,De base,Sans Rareté,5ban Graphics,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH079,SWSH079,M. Glaquette de Galar,120,Eau,M. Mime de Galar,Niveau 1,Sans Rareté,KEIICHIRO ITO,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH080,SWSH080,Dedenne,70,Psy,,De base,Sans Rareté,Yuu Nishida,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH081,SWSH081,Polthégeist,60,Psy,Théffroi,Niveau 1,Sans Rareté,Misa Tsutsui,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH082,SWSH082,Sapereau,40,Incolore,,De base,Sans Rareté,sowsow,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH083,SWSH083,Alakazam V,190,Psy,,De base,Sans Rareté,Ayaka Yoshida,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH084,SWSH084,Blancoton V,180,Plante,,De base,Sans Rareté,5ban Graphics,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH085,SWSH085,Fulgudog V,200,Électrique,,De base,Sans Rareté,aky CG Works,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH086,SWSH086,Nigosier V,200,Incolore,,De base,Sans Rareté,aky CG Works,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH087,SWSH087,Évoli VMAX,300,Incolore,Évoli-V,ESCOUADE,Sans Rareté,PLANETA Mochizuki,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH088,SWSH088,Ceriflor,80,Plante,Ceribou,Niveau 1,Sans Rareté,Tika Matsuno,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH089,SWSH089,Octillery,110,Eau,Rémoraid,Niveau 1,Sans Rareté,KIYOTAKA OSHIYAMA,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH090,SWSH090,Démolosse,130,Obscurité,Malosse,Niveau 1,Sans Rareté,Uta,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH091,SWSH091,Archéodong,110,Métal,Archéomire,Niveau 1,Sans Rareté,Atsushi Furusawa,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH092,SWSH092,Salamèche,70,Feu,,De base,Sans Rareté,Uta,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH093,SWSH093,Embrochet,60,Eau,,De base,Sans Rareté,tetsuya koizumi,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH094,SWSH094,Voltali,100,Électrique,Évoli,Niveau 1,Sans Rareté,Yuu Nishida,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH095,SWSH095,Évoli,60,Incolore,,De base,Sans Rareté,Naoki Saito,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH096,SWSH096,Lanssorien V,210,Psy,,De base,Sans Rareté,aky CG Works,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH097,SWSH097,Lanssorien VMAX,320,Psy,Lanssorien-V,ESCOUADE,Sans Rareté,aky CG Works,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH098,SWSH098,Nostenfer V,180,Obscurité,,De base,Sans Rareté,PLANETA Mochizuki,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH099,SWSH099,Nostenfer VMAX,300,Obscurité,Nostenfer-V,ESCOUADE,Sans Rareté,PLANETA Tsuji,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH100,SWSH100,Florizarre V,220,Plante,,De base,Sans Rareté,aky CG Works,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH101,SWSH101,Tortank V,220,Eau,,De base,Sans Rareté,5ban Graphics,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH102,SWSH102,Florizarre VMAX,330,Plante,Florizarre-V,ESCOUADE,Sans Rareté,aky CG Works,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH103,SWSH103,Tortank VMAX,330,Eau,Tortank-V,ESCOUADE,Sans Rareté,5ban Graphics,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH104,SWSH104,Victini V,190,Feu,,De base,Sans Rareté,5ban Graphics,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH105,SWSH105,Gardevoir V,210,Psy,,De base,Sans Rareté,5ban Graphics,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH106,SWSH106,Shifours Poing Final V,220,Combat,,De base,Sans Rareté,5ban Graphics,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH107,SWSH107,Shifours Mille Poings V,220,Combat,,De base,Sans Rareté,5ban Graphics,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH108,SWSH108,Pingoléon V,210,Eau,,De base,Sans Rareté,PLANETA Mochizuki,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH109,SWSH109,Tyranocif V,230,Obscurité,,De base,Sans Rareté,PLANETA Tsuji,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH110,SWSH110,Nostenfer V,180,Obscurité,,De base,Sans Rareté,PLANETA Mochizuki,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH111,SWSH111,Galopa de Galar V,210,Psy,,De base,Sans Rareté,Saki Hayashiro,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH112,SWSH112,Pyrobut,170,Feu,Lapyro,Niveau 2,Sans Rareté,Anesaki Dynamic,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH113,SWSH113,Lézargus,150,Eau,Arrozard,Niveau 2,Sans Rareté,AKIRA EGAWA,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH114,SWSH114,Cresselia,120,Psy,,De base,Sans Rareté,Kagemaru Himeno,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH115,SWSH115,Quartermac,110,Combat,,De base,Sans Rareté,Teeziro,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH116,SWSH116,Morpeko,80,Électrique,,De base,Sans Rareté,Atsushi Furusawa,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH117,SWSH117,Phanpy,70,Combat,,De base,Sans Rareté,Kagemaru Himeno,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH118,SWSH118,Évoli,60,Incolore,,De base,Sans Rareté,Yuu Nishida,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH119,SWSH119,Ronflex,140,Incolore,,De base,Sans Rareté,Yuya Oka,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH120,SWSH120,Rosemary,,,,,Sans Rareté,Sanosuke Sakuma,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH121,SWSH121,Rosemary,,,,,Sans Rareté,Naoki Saito,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH122,SWSH122,Lainergie,90,Électrique,Wattouat,Niveau 1,Sans Rareté,Pani Kobayashi,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH123,SWSH123,Artikodin de Galar,120,Psy,,De base,Sans Rareté,Shin Nagasawa,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH124,SWSH124,Électhor de Galar,110,Combat,,De base,Sans Rareté,Oswaldo KATO,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH125,SWSH125,Sulfura de Galar,120,Obscurité,,De base,Sans Rareté,KEIICHIRO ITO,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH126,SWSH126,Ramoloss de Galar,70,Psy,,De base,Sans Rareté,sowsow,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH127,SWSH127,Évoli,60,Incolore,,De base,Sans Rareté,Souichirou Gunjima,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH128,SWSH128,Bekaglaçon,120,Eau,,De base,Sans Rareté,kirisAki,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH129,SWSH129,Noctali,110,Obscurité,Évoli,Niveau 1,Sans Rareté,Souichirou Gunjima,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH130,SWSH130,Sylveroy Cavalier du Froid V,210,Eau,,De base,Sans Rareté,5ban Graphics,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH131,SWSH131,Sylveroy Cavalier d'Effroi V,210,Psy,,De base,Sans Rareté,5ban Graphics,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH132,SWSH132,Lanssorien,150,Psy,Dispareptil,Niveau 2,Sans Rareté,5ban Graphics,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH133,SWSH133,Dracaufeu V de Peter,220,Feu,,De base,Sans Rareté,Hideki Ishikawa,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH134,SWSH134,Nymphali obscur V,180,Psy,,De base,Sans Rareté,Ryuta Fuse,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH135,SWSH135,Zacian,160,Métal,,TURBO,Sans Rareté,5ban Graphics,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH136,SWSH136,Mimiqui,70,Eau,,De base,Sans Rareté,,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH137,SWSH137,Salarsen lumineux,120,Électrique,Toxizap,Niveau 1,Sans Rareté,,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH138,SWSH138,Trioxhydre C,110,Obscurité,,De base,Sans Rareté,,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH139,SWSH139,Pikachu V-UNION,300,Électrique,,V-UNION,Sans Rareté,,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH140,SWSH140,Pikachu V-UNION,300,Électrique,,V-UNION,Sans Rareté,,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH141,SWSH141,Pikachu V-UNION,300,Électrique,,V-UNION,Sans Rareté,,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH142,SWSH142,Pikachu V-UNION,300,Électrique,,V-UNION,Sans Rareté,,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH143,SWSH143,Pikachu V,190,Électrique,,De base,Sans Rareté,,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH144,SWSH144,Amphinobi {star},130,Obscurité,,De base,Sans Rareté,Masakazu Fukuda,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH145,SWSH145,Pikachu V,190,Électrique,,De base,Sans Rareté,,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH146,SWSH146,Poké Ball,,Électrique,,,Sans Rareté,,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH147,SWSH147,Rayquaza V,210,Dragon,,De base,Sans Rareté,PLANETA Mochizuki,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH148,SWSH148,Bruyverne V,200,Dragon,,De base,Sans Rareté,PLANETA Yamashita,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH149,SWSH149,Pyroli V,210,Feu,,De base,Sans Rareté,5ban Graphics,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH150,SWSH150,Aquali V,210,Eau,,De base,Sans Rareté,5ban Graphics,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH151,SWSH151,Voltali V,190,Électrique,,De base,Sans Rareté,5ban Graphics,holo,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH152,SWSH152,Recherches Professorales,,,,,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH153,SWSH153,Pikachu,60,Électrique,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH154,SWSH154,Dracolosse V,230,Dragon,,De base,Sans Rareté,,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH155,SWSH155,Amphinobi V-UNION,300,Eau,,V-UNION,Sans Rareté,Shin Nagasawa,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH156,SWSH156,Amphinobi V-UNION,300,Eau,,V-UNION,Sans Rareté,Shin Nagasawa,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH157,SWSH157,Amphinobi V-UNION,300,Eau,,V-UNION,Sans Rareté,Shin Nagasawa,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH158,SWSH158,Amphinobi V-UNION,300,Eau,,V-UNION,Sans Rareté,Shin Nagasawa,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH159,SWSH159,Mewtwo V-UNION,310,Psy,,V-UNION,Sans Rareté,AKIRA EGAWA,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH160,SWSH160,Mewtwo V-UNION,310,Psy,,V-UNION,Sans Rareté,AKIRA EGAWA,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH161,SWSH161,Mewtwo V-UNION,310,Psy,,V-UNION,Sans Rareté,AKIRA EGAWA,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH162,SWSH162,Mewtwo V-UNION,310,Psy,,V-UNION,Sans Rareté,AKIRA EGAWA,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH163,SWSH163,Zacian V-UNION,320,Métal,,V-UNION,Sans Rareté,PLANETA Tsuji,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH164,SWSH164,Zacian V-UNION,320,Métal,,V-UNION,Sans Rareté,PLANETA Tsuji,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH165,SWSH165,Zacian V-UNION,320,Métal,,V-UNION,Sans Rareté,PLANETA Tsuji,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH166,SWSH166,Zacian V-UNION,320,Métal,,V-UNION,Sans Rareté,PLANETA Tsuji,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH167,SWSH167,Professeure Pimprenelle,,,,,Sans Rareté,Ryuta Fuse,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH168,SWSH168,Plumeline,90,Feu,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH169,SWSH169,Concombaffe,80,Eau,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH170,SWSH170,Deoxys,120,Psy,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH171,SWSH171,Latias,120,Dragon,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH172,SWSH172,Gruikui,80,Feu,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH173,SWSH173,Zébibron,60,Électrique,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH174,SWSH174,Mentali,110,Psy,Évoli,Niveau 1,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH175,SWSH175,Évoli,60,Incolore,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH176,SWSH176,Hoopa V,220,Obscurité,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH178,SWSH178,Recherches Professorales,,,,,Sans Rareté,Yusuke Kozaki,,Promo SWSH,Épée et Bouclier,285
+swshp-SWSH179,SWSH179,Pyroli V,210,Feu,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH180,SWSH180,Pyroli VMAX,320,Feu,Pyroli-V,ESCOUADE,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH181,SWSH181,Aquali V,210,Eau,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH182,SWSH182,Aquali VMAX,320,Eau,Aquali-V,ESCOUADE,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH183,SWSH183,Voltali V,190,Électrique,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH184,SWSH184,Voltali VMAX,300,Électrique,Voltali-V,ESCOUADE,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH185,SWSH185,Sulfura,120,Feu,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH186,SWSH186,Lucario,120,Combat,Riolu,Niveau 1,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH187,SWSH187,Léopardus,100,Obscurité,Chacripan,Niveau 1,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH188,SWSH188,Castorno,120,Incolore,Keunotor,Niveau 1,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH189,SWSH189,Pomdrapi,80,Dragon,Verpom,Niveau 1,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH190,SWSH190,Évoli,60,Incolore,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH191,SWSH191,Phyllali,110,Plante,Évoli,Niveau 1,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH192,SWSH192,Givrali,110,Eau,Évoli,Niveau 1,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH193,SWSH193,Ixon de Galar,170,Obscurité,Linéon de Galar,Niveau 2,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH194,SWSH194,Phyllali V,210,Plante,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH195,SWSH195,Phyllali VSTAR,260,Plante,Phyllali-V,VSTAR,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH196,SWSH196,Givrali V,210,Eau,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH197,SWSH197,Givrali VSTAR,260,Eau,Givrali-V,VSTAR,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH198,SWSH198,Pikachu V,190,Électrique,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH199,SWSH199,Lougaroc V,200,Combat,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH200,SWSH200,Corvaillus V,210,Métal,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH201,SWSH201,Mentali V,200,Psy,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH202,SWSH202,Nymphali V,200,Psy,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH203,SWSH203,Noctali V,200,Obscurité,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH204,SWSH204,Arceus V,220,Incolore,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH205,SWSH205,Paragruel de Hisui,120,Eau,Bargantua de Hisui,Niveau 1,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH206,SWSH206,Cerbyllin,140,Psy,Cerfrousse,Niveau 1,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH207,SWSH207,Clamiral de Hisui,170,Obscurité,Mateloutre,Niveau 2,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH208,SWSH208,Magnézone,150,Métal,Magnéton,Niveau 2,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH209,SWSH209,Toxizap,60,Électrique,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH210,SWSH210,Plumeline,90,Psy,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH211,SWSH211,Nymphali,110,Psy,Évoli,Niveau 1,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH212,SWSH212,Évoli,60,Incolore,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH213,SWSH213,Lucario V,210,Combat,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH214,SWSH214,Lucario VSTAR,270,Combat,Lucario-V,VSTAR,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH215,SWSH215,Morpeko V-UNION,,,,,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH216,SWSH216,Morpeko V-UNION,,,,,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH217,SWSH217,Morpeko V-UNION,,,,,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH218,SWSH218,Morpeko V-UNION,,,,,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH219,SWSH219,Fulgudog V,200,Électrique,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH220,SWSH220,Brindibou,60,Plante,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH221,SWSH221,Héricendre,60,Feu,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH222,SWSH222,Moustillon,70,Eau,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH223,SWSH223,Mewtwo V,220,Psy,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH224,SWSH224,Melmetal V,220,Métal,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH225,SWSH225,Noadkoko d'Alola V,240,Plante,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH226,SWSH226,Capitaine d'équipe Spark,,,,,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH227,SWSH227,Capitaine d'équipe Blanche,,,,,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH228,SWSH228,Capitaine d'équipe Candela,,,,,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH229,SWSH229,Mewtwo V,220,Psy,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH230,SWSH230,Évoli Radieux,90,Incolore,,De base,Ultra Rare,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH231,SWSH231,Bulbizarre,70,Plante,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH232,SWSH232,Salamèche,60,Feu,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH233,SWSH233,Carapuce,70,Eau,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH234,SWSH234,Pikachu,60,Électrique,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH235,SWSH235,Dracolosse V,230,Dragon,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH236,SWSH236,Dracolosse VSTAR,280,Dragon,Dracolosse-V,VSTAR,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH237,SWSH237,Typhlosion de Hisui V,210,Psy,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH238,SWSH238,Archéduc de Hisui V,220,Combat,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH239,SWSH239,Clamiral de Hisui V,220,Obscurité,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH240,SWSH240,Écayon,50,Eau,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH241,SWSH241,Ectoplasma,120,Psy,Spectrum,Niveau 2,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH242,SWSH242,Guérilande,70,Psy,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH243,SWSH243,Mackogneur,150,Combat,Machopeur,Niveau 2,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH244,SWSH244,Flambino,60,Feu,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH245,SWSH245,Cradopaud,60,Obscurité,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH246,SWSH246,Dimoret,110,Obscurité,Farfuret,Niveau 1,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH247,SWSH247,Regigigas,150,Incolore,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH248,SWSH248,Hachécateur V,210,Combat,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH249,SWSH249,Hachécateur VSTAR,270,Combat,Hachécateur-V,VSTAR,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH250,SWSH250,Luminéon V,170,Eau,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH252,SWSH252,Simiabraz V,200,Feu,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH253,SWSH253,Palkia Originel V,220,Eau,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH254,SWSH254,Palkia Originel VSTAR,280,Eau,Palkia Originel-V,VSTAR,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH255,SWSH255,Dialga Originel V,220,Métal,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH256,SWSH256,Dialga Originel VSTAR,280,Métal,Dialga Originel-V,VSTAR,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH257,SWSH257,Motisma V,190,Électrique,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH258,SWSH258,Gallame V,220,Combat,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH259,SWSH259,Giratina V,220,Dragon,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH260,SWSH260,Dracaufeu V,220,Feu,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH261,SWSH261,Dracaufeu VMAX,330,Feu,Dracaufeu-V,ESCOUADE,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH262,SWSH262,Dracaufeu VSTAR,280,Feu,Dracaufeu-V,VSTAR,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH263,SWSH263,Zeraora V,210,Électrique,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH264,SWSH264,Zeraora VMAX,320,Électrique,Zeraora-V,ESCOUADE,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH265,SWSH265,Zeraora VSTAR,270,Électrique,Zeraora-V,VSTAR,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH266,SWSH266,Deoxys V,210,Psy,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH267,SWSH267,Deoxys VMAX,330,Psy,Deoxys-V,ESCOUADE,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH268,SWSH268,Deoxys VSTAR,270,Psy,Deoxys-V,VSTAR,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH269,SWSH269,Héliatronc,90,Plante,Tournegrin,Niveau 1,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH270,SWSH270,Galopa,100,Feu,Ponyta,Niveau 1,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH271,SWSH271,Kirlia,80,Psy,Tarsal,Niveau 1,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH272,SWSH272,Aéroptéryx,150,Incolore,Arkéapti,Niveau 2,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH273,SWSH273,Bargantua de Hisui,50,Eau,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH274,SWSH274,Kranidos,90,Combat,Fossile Inconnu,Niveau 1,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH275,SWSH275,Manaphy,70,Eau,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH276,SWSH276,Togetic,80,Psy,Togepi,Niveau 1,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH277,SWSH277,Gorythmic,180,Plante,Badabouin,Niveau 2,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH278,SWSH278,Pyrobut,170,Feu,Lapyro,Niveau 2,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH279,SWSH279,Lézargus,150,Eau,Arrozard,Niveau 2,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH280,SWSH280,Regieleki V,200,Électrique,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH281,SWSH281,Regidrago V,220,Dragon,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH285,SWSH285,Pikachu V,200,Électrique,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH286,SWSH286,Pikachu VMAX,310,Électrique,Pikachu-V,ESCOUADE,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH291,SWSH291,Lucario VSTAR,270,Combat,Lucario-V,VSTAR,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH294,SWSH294,Électrode de Hisui V,210,Plante,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH295,SWSH295,Viridium V,200,Plante,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH296,SWSH296,Festival des Champions,,,,,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH297,SWSH297,Zoroark de Hisui V,210,Incolore,,De base,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285
+swshp-SWSH298,SWSH298,Zoroark de Hisui VSTAR,270,Incolore,Zoroark de Hisui-V,VSTAR,Sans Rareté,,"normal, reverse, holo",Promo SWSH,Épée et Bouclier,285

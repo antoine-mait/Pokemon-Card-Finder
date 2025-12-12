@@ -1,0 +1,248 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+swsh11-001,001,Oddish,50,Grass,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-002,002,Gloom,80,Grass,Oddish,Stage1,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-003,003,Vileplume,150,Grass,Gloom,Stage2,Holo Rare,,"reverse, holo",Lost Origin,Sword & Shield,247
+swsh11-004,004,Paras,70,Grass,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-005,005,Parasect,120,Grass,Paras,Stage1,Rare,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-006,006,Wurmple,60,Grass,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-007,007,Silcoon,80,Grass,Wurmple,Stage1,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-008,008,Beautifly,130,Grass,Silcoon,Stage2,Holo Rare,,"reverse, holo",Lost Origin,Sword & Shield,247
+swsh11-009,009,Cascoon,80,Grass,Wurmple,Stage1,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-010,010,Dustox,140,Grass,Cascoon,Stage2,Rare,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-011,011,Seedot,50,Grass,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-012,012,Nuzleaf,80,Grass,Seedot,Stage1,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-013,013,Shiftry,160,Grass,Nuzleaf,Stage2,Holo Rare,,"reverse, holo",Lost Origin,Sword & Shield,247
+swsh11-014,014,Roselia,70,Grass,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-015,015,Roserade,120,Grass,Roselia,Stage1,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-016,016,Phantump,70,Grass,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-017,017,Trevenant,120,Grass,Phantump,Stage1,Holo Rare,,"reverse, holo",Lost Origin,Sword & Shield,247
+swsh11-018,018,Blipbug,50,Grass,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-019,019,Dottler,80,Grass,Blipbug,Stage1,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-020,020,Orbeetle,110,Grass,Dottler,Stage2,Holo Rare,,"reverse, holo",Lost Origin,Sword & Shield,247
+swsh11-021,021,Slugma,70,Fire,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-022,022,Magcargo,130,Fire,Slugma,Stage1,Rare,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-023,023,Torkoal,110,Fire,,Basic,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-024,024,Litwick,60,Fire,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-025,025,Lampent,80,Fire,Litwick,Stage1,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-026,026,Chandelure,150,Fire,Lampent,Stage2,Holo Rare,,"reverse, holo",Lost Origin,Sword & Shield,247
+swsh11-027,027,Delphox V,210,Fire,,Basic,Holo Rare V,,holo,Lost Origin,Sword & Shield,247
+swsh11-028,028,Litleo,70,Fire,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-029,029,Pyroar,120,Fire,Litleo,Stage1,Holo Rare,,"reverse, holo",Lost Origin,Sword & Shield,247
+swsh11-030,030,Poliwag,60,Water,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-031,031,Poliwhirl,90,Water,Poliwag,Stage1,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-032,032,Politoed,140,Water,Poliwhirl,Stage2,Rare,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-033,033,Seel,70,Water,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-034,034,Dewgong,120,Water,Seel,Stage1,Rare,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-035,035,Horsea,50,Water,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-036,036,Seadra,80,Water,Horsea,Stage1,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-037,037,Kingdra,150,Water,Seadra,Stage2,Holo Rare,,"reverse, holo",Lost Origin,Sword & Shield,247
+swsh11-038,038,Luvdisc,70,Water,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-039,039,Shellos,70,Water,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-040,040,Finneon,50,Water,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-041,041,Lumineon,90,Water,Finneon,Stage1,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-042,042,Snover,80,Water,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-043,043,Abomasnow,140,Water,Snover,Stage1,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-044,044,Hisuian Basculin,50,Water,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-045,045,Hisuian Basculegion,110,Water,Hisuian Basculin,Stage1,Holo Rare,,"reverse, holo",Lost Origin,Sword & Shield,247
+swsh11-046,046,Ducklett,60,Water,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-047,047,Swanna,120,Water,Ducklett,Stage1,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-048,048,Kyurem V,220,Water,,Basic,Holo Rare V,,holo,Lost Origin,Sword & Shield,247
+swsh11-049,049,Kyurem VMAX,330,Water,Kyurem V,VMAX,Holo Rare VMAX,,holo,Lost Origin,Sword & Shield,247
+swsh11-050,050,Cramorant,110,Water,,Basic,Rare,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-051,051,Glastrier,130,Water,,Basic,Holo Rare,,"reverse, holo",Lost Origin,Sword & Shield,247
+swsh11-052,052,Pikachu,60,Lightning,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-053,053,Raichu,120,Lightning,Pikachu,Stage1,Rare,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-054,054,Electrike,60,Lightning,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-055,055,Manectric,120,Lightning,Electrike,Stage1,Rare,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-056,056,Magnezone V,210,Lightning,,Basic,Holo Rare VMAX,,holo,Lost Origin,Sword & Shield,247
+swsh11-057,057,Magnezone VSTAR,270,Lightning,Magnezone V,VSTAR,Holo Rare VSTAR,,holo,Lost Origin,Sword & Shield,247
+swsh11-058,058,Rotom V,190,Lightning,,Basic,Holo Rare VMAX,,holo,Lost Origin,Sword & Shield,247
+swsh11-059,059,Tynamo,30,Lightning,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-060,060,Eelektrik,80,Lightning,Tynamo,Stage1,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-061,061,Eelektross,160,Lightning,Eelektrik,Stage2,Rare,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-062,062,Clefairy,60,Psychic,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-063,063,Clefable,100,Psychic,Clefairy,Stage1,Rare,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-064,064,Gastly,40,Psychic,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-065,065,Haunter,70,Psychic,Gastly,Stage1,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-066,066,Gengar,120,Psychic,Haunter,Stage2,Holo Rare,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-067,067,Mr. Mime,90,Psychic,,Basic,Rare,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-068,068,Jynx,100,Psychic,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-069,069,Radiant Gardevoir,130,Psychic,,Basic,Radiant Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-070,070,Sableye,80,Psychic,,Basic,Holo Rare,,"reverse, holo",Lost Origin,Sword & Shield,247
+swsh11-071,071,Mawile,90,Psychic,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-072,072,Shuppet,60,Psychic,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-073,073,Banette,100,Psychic,Shuppet,Stage1,Rare,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-074,074,Cresselia,120,Psychic,,Basic,Holo Rare,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-075,075,Hisuian Zorua,60,Psychic,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-076,076,Hisuian Zoroark,120,Psychic,Hisuian Zorua,Stage1,Holo Rare,,"reverse, holo",Lost Origin,Sword & Shield,247
+swsh11-077,077,Inkay,60,Psychic,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-078,078,Malamar,110,Psychic,Inkay,Stage1,Rare,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-079,079,Comfey,70,Psychic,,Basic,Rare,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-080,080,Mimikyu,70,Psychic,,Basic,Rare,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-081,081,Spectrier,120,Psychic,,Basic,Holo Rare,,"reverse, holo",Lost Origin,Sword & Shield,247
+swsh11-082,082,Enamorus V,210,Psychic,,Basic,Holo Rare V,,holo,Lost Origin,Sword & Shield,247
+swsh11-083,083,Hisuian Growlithe,70,Fighting,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-084,084,Hisuian Arcanine,130,Fighting,Hisuian Growlithe,Stage1,Holo Rare,,"reverse, holo",Lost Origin,Sword & Shield,247
+swsh11-085,085,Poliwrath,160,Fighting,Poliwhirl,Stage2,Rare,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-086,086,Machop,70,Fighting,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-087,087,Machoke,100,Fighting,Machop,Stage1,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-088,088,Machamp,150,Fighting,Machoke,Stage2,Holo Rare,,"reverse, holo",Lost Origin,Sword & Shield,247
+swsh11-089,089,Rhyhorn,100,Fighting,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-090,090,Rhydon,120,Fighting,Rhyhorn,Stage1,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-091,091,Rhyperior,190,Fighting,Rhydon,Stage2,Rare,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-092,092,Aerodactyl V,210,Fighting,,Basic,Holo Rare V,,holo,Lost Origin,Sword & Shield,247
+swsh11-093,093,Aerodactyl VSTAR,260,Fighting,Aerodactyl V,VSTAR,Holo Rare VSTAR,,holo,Lost Origin,Sword & Shield,247
+swsh11-094,094,Sudowoodo,110,Fighting,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-095,095,Gligar,60,Fighting,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-096,096,Gliscor,120,Fighting,Gligar,Stage1,Rare,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-097,097,Makuhita,80,Fighting,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-098,098,Hariyama,140,Fighting,Makuhita,Stage1,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-099,099,Meditite,70,Fighting,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-100,100,Medicham,110,Fighting,Meditite,Stage1,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-101,101,Relicanth,90,Fighting,,Basic,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-102,102,Gastrodon,130,Fighting,Shellos,Stage1,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-103,103,Mienfoo,60,Fighting,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-104,104,Mienshao,90,Fighting,Mienfoo,Stage1,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-105,105,Landorus,120,Fighting,,Basic,Rare,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-106,106,Binacle,70,Fighting,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-107,107,Barbaracle,130,Fighting,Binacle,Stage1,Holo Rare,,"reverse, holo",Lost Origin,Sword & Shield,247
+swsh11-108,108,Carbink,90,Fighting,,Basic,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-109,109,Rockruff,60,Fighting,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-110,110,Falinks,100,Fighting,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-111,111,Stonjourner,140,Fighting,,Basic,Rare,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-112,112,Spinarak,50,Darkness,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-113,113,Ariados,90,Darkness,Spinarak,Stage1,Rare,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-114,114,Murkrow,60,Darkness,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-115,115,Honchkrow,120,Darkness,Murkrow,Stage1,Rare,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-116,116,Seviper,110,Darkness,,Basic,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-117,117,Spiritomb,60,Darkness,,Basic,Rare,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-118,118,Drapion V,210,Darkness,,Basic,Holo Rare V,,holo,Lost Origin,Sword & Shield,247
+swsh11-119,119,Drapion VSTAR,270,Darkness,Drapion V,VSTAR,Holo Rare VSTAR,,holo,Lost Origin,Sword & Shield,247
+swsh11-120,120,Darkrai,120,Darkness,,Basic,Holo Rare,,"reverse, holo",Lost Origin,Sword & Shield,247
+swsh11-121,121,Inkay,50,Darkness,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-122,122,Hoopa,120,Darkness,,Basic,Rare,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-123,123,Radiant Hisuian Sneasler,130,Darkness,,Basic,Radiant Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-124,124,Radiant Steelix,170,Metal,,Basic,Radiant Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-125,125,Bronzor,70,Metal,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-126,126,Bronzong,130,Metal,Bronzor,Stage1,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-127,127,Galarian Stunfisk,100,Metal,,Basic,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-128,128,Magearna,90,Metal,,Basic,Rare,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-129,129,Galarian Perrserker V,200,Metal,,Basic,Holo Rare V,,holo,Lost Origin,Sword & Shield,247
+swsh11-130,130,Giratina V,220,Dragon,,Basic,Holo Rare V,,holo,Lost Origin,Sword & Shield,247
+swsh11-131,131,Giratina VSTAR,280,Dragon,Giratina V,VSTAR,Holo Rare VSTAR,,holo,Lost Origin,Sword & Shield,247
+swsh11-132,132,Goomy,60,Dragon,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-133,133,Hisuian Sliggoo,90,Dragon,Goomy,Stage1,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-134,134,Hisuian Goodra,160,Dragon,Hisuian Sliggoo,Stage2,Holo Rare,,"reverse, holo",Lost Origin,Sword & Shield,247
+swsh11-135,135,Hisuian Goodra V,220,Dragon,,Basic,Holo Rare V,,holo,Lost Origin,Sword & Shield,247
+swsh11-136,136,Hisuian Goodra VSTAR,270,Dragon,Hisuian Goodra V,VSTAR,Holo Rare VSTAR,,holo,Lost Origin,Sword & Shield,247
+swsh11-137,137,Pidgeot V,210,Colorless,,Basic,Holo Rare V,,holo,Lost Origin,Sword & Shield,247
+swsh11-138,138,Lickitung,110,Colorless,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-139,139,Lickilicky,140,Colorless,Lickitung,Stage1,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-140,140,Porygon,60,Colorless,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-141,141,Porygon2,90,Colorless,Porygon,Stage1,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-142,142,Porygon-Z,150,Colorless,Porygon2,Stage2,Rare,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-143,143,Snorlax,150,Colorless,,Basic,Holo Rare,,"reverse, holo",Lost Origin,Sword & Shield,247
+swsh11-144,144,Aipom,60,Colorless,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-145,145,Ambipom,90,Colorless,Aipom,Stage1,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-146,146,Hisuian Zoroark V,210,Colorless,,Basic,Holo Rare V,,holo,Lost Origin,Sword & Shield,247
+swsh11-147,147,Hisuian Zoroark VSTAR,270,Colorless,Hisuian Zoroark V,VSTAR,Holo Rare VSTAR,,holo,Lost Origin,Sword & Shield,247
+swsh11-148,148,Bouffalant,130,Colorless,,Basic,Rare,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-149,149,Komala,100,Colorless,,Basic,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-150,150,Skwovet,60,Colorless,,Basic,Common,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-151,151,Greedent,130,Colorless,Skwovet,Stage1,Rare,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-152,152,Arc Phone,,,,,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-153,153,Arezu,,,,,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-154,154,Box of Disaster,,,,,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-155,155,Colress's Experiment,,,,,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-156,156,Damage Pump,,,,,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-157,157,Fantina,,,,,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-158,158,Iscan,,,,,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-159,159,Lady,,,,,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-160,160,Lake Acuity,,,,,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-161,161,Lost City,,,,,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-162,162,Lost Vacuum,,,,,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-163,163,Mirage Gate,,,,,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-164,164,Miss Fortune Sisters,,,,,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-165,165,Panic Mask,,,,,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-166,166,Riley,,,,,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-167,167,Thorton,,,,,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-168,168,Tool Box,,,,,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-169,169,Volo,,,,,Holo Rare,,"reverse, holo",Lost Origin,Sword & Shield,247
+swsh11-170,170,Windup Arm,,,,,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-171,171,Gift Energy,,,,,Uncommon,,"normal, reverse",Lost Origin,Sword & Shield,247
+swsh11-172,172,Hisuian Electrode V,210,Grass,,Basic,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-173,173,Delphox V,210,Fire,,Basic,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-174,174,Kyurem V,220,Water,,Basic,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-175,175,Magnezone V,210,Lightning,,Basic,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-176,176,Rotom V,190,Lightning,,Basic,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-177,177,Rotom V,190,Lightning,,Basic,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-178,178,Enamorus V,210,Psychic,,Basic,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-179,179,Aerodactyl V,210,Fighting,,Basic,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-180,180,Aerodactyl V,210,Fighting,,Basic,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-181,181,Gallade V,220,Fighting,,Basic,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-182,182,Drapion V,210,Darkness,,Basic,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-183,183,Galarian Perrserker V,200,Metal,,Basic,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-184,184,Galarian Perrserker V,200,Metal,,Basic,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-185,185,Giratina V,220,Dragon,,Basic,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-186,186,Giratina V,220,Dragon,,Basic,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-187,187,Hisuian Goodra V,220,Dragon,,Basic,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-188,188,Pidgeot V,210,Colorless,,Basic,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-189,189,Arezu,,,,,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-190,190,Colress's Experiment,,,,,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-191,191,Fantina,,,,,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-192,192,Iscan,,,,,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-193,193,Lady,,,,,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-194,194,Miss Fortune Sisters,,,,,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-195,195,Thorton,,,,,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-196,196,Volo,,,,,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-197,197,Kyurem VMAX,330,Water,Kyurem V,VMAX,Secret Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-198,198,Magnezone VSTAR,270,Lightning,Magnezone V,VSTAR,Secret Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-199,199,Aerodactyl VSTAR,260,Fighting,Aerodactyl V,VSTAR,Secret Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-200,200,Drapion VSTAR,270,Darkness,Drapion V,VSTAR,Secret Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-201,201,Giratina VSTAR,280,Dragon,Giratina V,VSTAR,Secret Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-202,202,Hisuian Goodra VSTAR,270,Dragon,Hisuian Goodra V,VSTAR,Secret Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-203,203,Hisuian Zoroark VSTAR,270,Colorless,Hisuian Zoroark V,VSTAR,Secret Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-204,204,Arezu,,,,,Secret Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-205,205,Colress's Experiment,,,,,Secret Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-206,206,Fantina,,,,,Secret Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-207,207,Iscan,,,,,Secret Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-208,208,Lady,,,,,Secret Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-209,209,Miss Fortune Sisters,,,,,Secret Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-210,210,Thorton,,,,,Secret Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-211,211,Volo,,,,,Secret Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-212,212,Giratina VSTAR,280,Dragon,Giratina V,VSTAR,Secret Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-213,213,Hisuian Zoroark VSTAR,270,Colorless,Hisuian Zoroark V,VSTAR,Secret Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-214,214,Box of Disaster,,,,,Secret Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-215,215,Collapsed Stadium,,,,,Secret Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-216,216,Dark Patch,,,,,Secret Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-217,217,Lost Vacuum,,,,,Secret Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-TG01,TG01,Parasect,120,Grass,Paras,Stage1,Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-TG02,TG02,Roserade,120,Grass,Roselia,Stage1,Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-TG03,TG03,Charizard,170,Fire,Charmeleon,Stage2,Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-TG04,TG04,Chandelure,150,Fire,Lampent,Stage2,Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-TG05,TG05,Pikachu,60,Lightning,,Basic,Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-TG06,TG06,Gengar,120,Psychic,Haunter,Stage2,Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-TG07,TG07,Banette,80,Psychic,Shuppet,Stage1,Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-TG08,TG08,Hisuian Arcanine,130,Fighting,Hisuian Growlithe,Stage1,Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-TG09,TG09,Spiritomb,60,Darkness,,Basic,Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-TG10,TG10,Snorlax,150,Colorless,,Basic,Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-TG11,TG11,Castform,70,Colorless,,Basic,Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-TG12,TG12,Orbeetle V,180,Grass,,Basic,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-TG13,TG13,Orbeetle VMAX,310,Grass,Orbeetle V,VMAX,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-TG14,TG14,Centiskorch V,210,Fire,,Basic,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-TG15,TG15,Centiskorch VMAX,320,Fire,Centiskorch V,VMAX,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-TG16,TG16,Pikachu V,190,Lightning,,Basic,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-TG17,TG17,Pikachu VMAX,310,Lightning,Pikachu V,VMAX,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-TG18,TG18,Enamorus V,210,Psychic,,Basic,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-TG19,TG19,Gallade V,220,Fighting,,Basic,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-TG20,TG20,Crobat V,180,Darkness,,Basic,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-TG21,TG21,Eternatus V,220,Darkness,,Basic,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-TG22,TG22,Eternatus VMAX,340,Darkness,Eternatus V,VMAX,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-TG23,TG23,Adventurer's Discovery,,,,,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-TG24,TG24,Boss's Orders,,,,,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-TG25,TG25,Cook,,,,,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-TG26,TG26,Kabu,,,,,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-TG27,TG27,Nessa,,,,,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-TG28,TG28,Opal,,,,,Ultra Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-TG29,TG29,Pikachu VMAX,310,Lightning,Pikachu V,VMAX,Secret Rare,,holo,Lost Origin,Sword & Shield,247
+swsh11-TG30,TG30,Mew VMAX,310,Psychic,Mew V,VMAX,Secret Rare,,holo,Lost Origin,Sword & Shield,247

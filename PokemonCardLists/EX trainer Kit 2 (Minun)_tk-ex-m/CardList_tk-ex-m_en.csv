@@ -1,0 +1,13 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+tk-ex-m-1,1,Arcanine,90,Fire,Growlithe,Stage1,None,Ken Sugimori,"normal, reverse, holo",EX trainer Kit 2 (Minun),Trainer kits,12
+tk-ex-m-2,2,Charmander,50,Fire,,Basic,None,Midori Harada,"normal, reverse, holo",EX trainer Kit 2 (Minun),Trainer kits,12
+tk-ex-m-3,3,Charmeleon,70,Fire,Charmander,Stage1,None,Kouki Saitou,"normal, reverse, holo",EX trainer Kit 2 (Minun),Trainer kits,12
+tk-ex-m-4,4,Growlithe,60,Fire,,Basic,None,Ken Sugimori,"normal, reverse, holo",EX trainer Kit 2 (Minun),Trainer kits,12
+tk-ex-m-5,5,Mareep,50,Lightning,,Basic,None,Naoyo Kimura,"normal, reverse, holo",EX trainer Kit 2 (Minun),Trainer kits,12
+tk-ex-m-6,6,Minun,60,Lightning,,Basic,None,Katsura Tabata,"normal, reverse, holo",EX trainer Kit 2 (Minun),Trainer kits,12
+tk-ex-m-7,7,Vulpix,50,Fire,,Basic,None,Midori Harada,"normal, reverse, holo",EX trainer Kit 2 (Minun),Trainer kits,12
+tk-ex-m-8,8,Celio's Network,,,,,None,Ken Sugimori,"normal, reverse, holo",EX trainer Kit 2 (Minun),Trainer kits,12
+tk-ex-m-9,9,Energy Search,,,,,None,Kai Ishikawa,"normal, reverse, holo",EX trainer Kit 2 (Minun),Trainer kits,12
+tk-ex-m-10,10,Potion,,,,,None,Keiji Kinebuchi,"normal, reverse, holo",EX trainer Kit 2 (Minun),Trainer kits,12
+tk-ex-m-11,11,Fire Energy,,,,Basic,None,,"normal, reverse, holo",EX trainer Kit 2 (Minun),Trainer kits,12
+tk-ex-m-12,12,Lightning Energy,,,,Basic,None,,"normal, reverse, holo",EX trainer Kit 2 (Minun),Trainer kits,12

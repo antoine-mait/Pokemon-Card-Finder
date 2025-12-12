@@ -1,0 +1,13 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+tk-ex-p-1,1,Beldum,50,Psychic,,Basic,None,Kouki Saitou,"normal, reverse, holo",EX trainer Kit 2 (Plusle),Trainer kits,12
+tk-ex-p-2,2,Electrike,50,Lightning,,Basic,None,Hiroki Fuchino,"normal, reverse, holo",EX trainer Kit 2 (Plusle),Trainer kits,12
+tk-ex-p-3,3,Grumpig,70,Psychic,Spoink,Stage1,None,Ken Sugimori,"normal, reverse, holo",EX trainer Kit 2 (Plusle),Trainer kits,12
+tk-ex-p-4,4,Meowth,50,Colorless,,Basic,None,Masakazu Fukuda,"normal, reverse, holo",EX trainer Kit 2 (Plusle),Trainer kits,12
+tk-ex-p-5,5,Metang,80,Psychic,Beldum,Stage1,None,Hisao Nakamura,"normal, reverse, holo",EX trainer Kit 2 (Plusle),Trainer kits,12
+tk-ex-p-6,6,Plusle,60,Lightning,,Basic,None,Katsura Tabata,"normal, reverse, holo",EX trainer Kit 2 (Plusle),Trainer kits,12
+tk-ex-p-7,7,Spoink,50,Psychic,,Basic,None,Ken Sugimori,"normal, reverse, holo",EX trainer Kit 2 (Plusle),Trainer kits,12
+tk-ex-p-8,8,Energy Search,,,,,None,Kai Ishikawa,"normal, reverse, holo",EX trainer Kit 2 (Plusle),Trainer kits,12
+tk-ex-p-9,9,Potion,,,,,None,Keiji Kinebuchi,"normal, reverse, holo",EX trainer Kit 2 (Plusle),Trainer kits,12
+tk-ex-p-10,10,Professor Cozmo's Discovery,,,,,None,Ken Sugimori,"normal, reverse, holo",EX trainer Kit 2 (Plusle),Trainer kits,12
+tk-ex-p-11,11,Lightning Energy,,,,Basic,None,,"normal, reverse, holo",EX trainer Kit 2 (Plusle),Trainer kits,12
+tk-ex-p-12,12,Psychic Energy,,,,Basic,None,,"normal, reverse, holo",EX trainer Kit 2 (Plusle),Trainer kits,12
