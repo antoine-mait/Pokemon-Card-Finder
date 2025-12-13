@@ -29,9 +29,89 @@ class CardMatcher:
         self.card_info_map = {}  # Maps card_id to all language names
         self.csv_path = None
         self.current_language = None
+        self.use_pokedex = False
+        self.pokedex_db = None
         self.load_reference_images()
         self.learning = LearningSystem(self.set_code)
+        self.check_if_old_set()
     
+    def check_if_old_set(self):
+        """Check if this is a pre-2002 set that needs Pokedex for JA language"""
+        # Load all_sets_full.json to check release date
+        sets_file = Path('PokemonCardLists/all_sets_full.json')
+        
+        if not sets_file.exists():
+            print(f"  ⚠ all_sets_full.json not found at {sets_file}")
+            print(f"  Checking if set code suggests old set...")
+            # Fallback: Check if set code starts with known old prefixes
+            old_set_prefixes = ['base', 'jungle', 'fossil', 'base2', 'gym1', 'gym2', 
+                               'neo1', 'neo2', 'neo3', 'neo4', 'legendary']
+            if any(self.set_code.lower().startswith(prefix) for prefix in old_set_prefixes):
+                self.use_pokedex = True
+                from cards_utils import PokedexDatabase
+                self.pokedex_db = PokedexDatabase()
+                print(f"  📖 Old set detected (pre-2003) - Pokedex lookup enabled for JA")
+            return
+        
+        try:
+            with open(sets_file, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+            
+            # Check if data is a dict with a 'data' key or if it's directly a list
+            if isinstance(data, dict):
+                all_sets = data.get('data', [])
+            elif isinstance(data, list):
+                all_sets = data
+            else:
+                print(f"  ⚠ Unexpected JSON format")
+                all_sets = []
+            
+            # Find this set
+            found_set = False
+            for set_info in all_sets:
+                if not isinstance(set_info, dict):
+                    continue
+                    
+                set_id = set_info.get('id', '')
+                # Try exact match or partial match
+                if set_id == self.set_code or set_id.lower() == self.set_code.lower():
+                    release_date = set_info.get('releaseDate', '')
+                    print(f"  ℹ Found set in database: {set_info.get('name', 'Unknown')}")
+                    print(f"  ℹ Release date: {release_date}")
+                    
+                    if release_date:
+                        # Parse date (format: YYYY/MM/DD)
+                        year = int(release_date.split('/')[0])
+                        if year <= 2002:
+                            self.use_pokedex = True
+                            from cards_utils import PokedexDatabase
+                            self.pokedex_db = PokedexDatabase()
+                            print(f"  📖 Old set detected ({year}) - Pokedex lookup enabled for JA")
+                    found_set = True
+                    break
+            
+            if not found_set:
+                print(f"  ℹ Set '{self.set_code}' not found in all_sets_full.json")
+                # Fallback check
+                old_set_prefixes = ['base', 'jungle', 'fossil', 'base2', 'gym1', 'gym2', 
+                                   'neo1', 'neo2', 'neo3', 'neo4', 'legendary']
+                if any(self.set_code.lower().startswith(prefix) for prefix in old_set_prefixes):
+                    self.use_pokedex = True
+                    from cards_utils import PokedexDatabase
+                    self.pokedex_db = PokedexDatabase()
+                    print(f"  📖 Old set detected by prefix - Pokedex lookup enabled for JA")
+                    
+        except Exception as e:
+            print(f"  ⚠ Error checking set date: {e}")
+            # Still enable Pokedex for known old sets
+            old_set_prefixes = ['base', 'jungle', 'fossil', 'base2', 'gym1', 'gym2', 
+                               'neo1', 'neo2', 'neo3', 'neo4', 'legendary']
+            if any(self.set_code.lower().startswith(prefix) for prefix in old_set_prefixes):
+                self.use_pokedex = True
+                from cards_utils import PokedexDatabase
+                self.pokedex_db = PokedexDatabase()
+                print(f"  📖 Old set detected by prefix (fallback) - Pokedex lookup enabled for JA")
+            
     def load_reference_images(self):
         """Load all reference images and card info from the set folder"""
         print(f"\n  Looking for set code: '{self.set_code}'")
@@ -148,6 +228,10 @@ class CardMatcher:
                             'name_pt': '',
                         }
             print(f"  ✓ Loaded info for {len(self.card_info_map)} cards")
+            
+            # NEW: Also load English names immediately for Pokedex matching
+            self.load_card_info_for_language('EN')
+            
         except Exception as e:
             print(f"  ⚠ Error loading CSV: {e}")
     
@@ -194,6 +278,13 @@ class CardMatcher:
         print("MANUAL CARD ENTRY")
         print("="*70)
         print("Enter the card number from the card (e.g., '001', '25', '123')")
+        
+        # NEW: Add Pokedex option for JA language
+        if self.use_pokedex and self.current_language == 'JA':
+            print("💡 TIP: For Japanese cards, enter the Pokedex number")
+            print("   (e.g., '184' for Azumarill, '160' for Feraligatr)")
+            print("   The card will be matched and renamed with English name")
+        
         print("Or enter the full card ID if you know it")
         print("Type 'list' to see all available cards")
         print("Type 'skip' to skip this card")
@@ -210,12 +301,19 @@ class CardMatcher:
                 for card_id, info in sorted(self.card_info_map.items(), 
                                            key=lambda x: x[1].get('localId', '')):
                     local_id = info.get('localId', 'N/A')
-                    # Show name in current language if available
-                    if self.current_language:
-                        name = self.get_card_name_for_language(info, self.current_language)
+                    
+                    # Show English name too for JA with Pokedex
+                    if self.use_pokedex and self.current_language == 'JA':
+                        name_ja = self.get_card_name_for_language(info, 'JA')
+                        name_en = info.get('name_en', info.get('name', ''))
+                        # Always show English name first for easier reading
+                        if name_en and name_en != 'Unknown':
+                            print(f"  #{local_id:4s} - {name_en} ({name_ja})")
+                        else:
+                            print(f"  #{local_id:4s} - {name_ja}")
                     else:
-                        name = info.get('name', 'Unknown')
-                    print(f"  #{local_id:4s} - {name}")
+                        name = self.get_card_name_for_language(info, self.current_language)
+                        print(f"  #{local_id:4s} - {name}")
                 print()
                 continue
             
@@ -223,28 +321,92 @@ class CardMatcher:
                 print("Please enter a card number or 'skip'\n")
                 continue
             
-            # Try to find the card
-            card_info = self.get_card_by_number(card_input)
+            # NEW: Try Pokedex lookup FIRST for JA language
+            card_info = None
+            if self.use_pokedex and self.current_language == 'JA' and self.pokedex_db:
+                # Pad the input to 4 digits for Pokedex lookup
+                pokedex_num = card_input.zfill(4)
+                english_name = self.pokedex_db.get_english_name(pokedex_num)
+                
+                if english_name:
+                    print(f"  📖 Pokedex #{card_input}: {english_name}")
+                    
+                    # Search by English name in our card database
+                    found_cards = []
+                    for cid, info in self.card_info_map.items():
+                        name_en = info.get('name_en', '').strip()
+                        name_default = info.get('name', '').strip()
+                        
+                        # Try exact match first
+                        if (name_en.lower() == english_name.lower() or 
+                            name_default.lower() == english_name.lower()):
+                            found_cards.append((cid, info, 'exact'))
+                        # Try partial match (for cards with different forms)
+                        elif (name_en and english_name.lower() in name_en.lower()) or \
+                             (name_default and english_name.lower() in name_default.lower()):
+                            found_cards.append((cid, info, 'partial'))
+                    
+                    if found_cards:
+                        if len(found_cards) == 1:
+                            card_info = found_cards[0][1]
+                            print(f"  ✓ Matched to card in set")
+                        else:
+                            # Multiple matches - let user choose
+                            print(f"\n  📋 Found {len(found_cards)} cards with this name:")
+                            for i, (cid, info, match_type) in enumerate(found_cards, 1):
+                                local_id = info.get('localId', 'N/A')
+                                name_ja = self.get_card_name_for_language(info, 'JA')
+                                name_en = info.get('name_en', info.get('name', ''))
+                                print(f"    {i}. #{local_id:4s} - {name_en} ({name_ja})")
+                            
+                            choice = input("\n  Select card number (or Enter for first): ").strip()
+                            if choice.isdigit() and 1 <= int(choice) <= len(found_cards):
+                                card_info = found_cards[int(choice) - 1][1]
+                            else:
+                                card_info = found_cards[0][1]
+                            print(f"  ✓ Selected card")
+                    else:
+                        print(f"  ⚠ '{english_name}' not found in this set")
+                        print(f"  Trying direct card number lookup...")
+                else:
+                    print(f"  ⚠ Pokedex #{card_input} not found in pokedex.csv")
+                    print(f"  Trying direct card number lookup...")
             
+            # If not found via Pokedex, try normal card number lookup
+            if not card_info:
+                card_info = self.get_card_by_number(card_input)
+            
+            # CRITICAL: This section was already there but check it's complete
             if card_info:
                 local_id = card_info.get('localId', 'N/A')
-                # Show name in current language
-                if self.current_language:
-                    name = self.get_card_name_for_language(card_info, self.current_language)
-                else:
-                    name = card_info.get('name', 'Unknown')
                 
-                print(f"\n✓ Found: {name} (#{local_id})")
+                # For JA language with Pokedex, show both names
+                if self.use_pokedex and self.current_language == 'JA':
+                    name_ja = self.get_card_name_for_language(card_info, 'JA')
+                    name_en = card_info.get('name_en', card_info.get('name', 'Unknown'))
+                    if not name_en or name_en == 'Unknown':
+                        name_en = card_info.get('name', 'Unknown')
+                    print(f"\n✓ Found: {name_en} / {name_ja} (#{local_id})")
+                else:
+                    if self.current_language:
+                        name = self.get_card_name_for_language(card_info, self.current_language)
+                    else:
+                        name = card_info.get('name', 'Unknown')
+                    print(f"\n✓ Found: {name} (#{local_id})")
                 
                 confirm = input("Is this correct? (y/n): ").strip().lower()
                 if confirm == 'y':
-                    return card_info
+                    return card_info  # THIS IS CRITICAL - MUST RETURN HERE
                 else:
                     print("Let's try again...\n")
             else:
-                print(f"\n✗ Card '{card_input}' not found in this set")
-                print("Please try again or type 'list' to see all cards\n")
-    
+                print(f"\n✗ Card not found")
+                if self.use_pokedex and self.current_language == 'JA':
+                    print("💡 Enter Pokedex number (e.g., '184' for Azumarill)")
+                    print("   or type 'list' to see all cards in this set\n")
+                else:
+                    print("Please try again or type 'list' to see all cards\n")
+                    
     def resize_to_match(self, img1, img2):
         """Resize images to same dimensions for comparison"""
         h1, w1 = img1.shape[:2]
@@ -573,8 +735,18 @@ def process_folder(folder_path, output_folder='Renamed_Cropped', selected_langua
                     pair_number += 1
                     continue
                 
-                # Get the name in the current language
-                name = matcher.get_card_name_for_language(card_info, language)
+               # Get the name in the current language
+                if matcher.use_pokedex and language == 'JA':
+                    # For old JA sets, use English name
+                    name_en = card_info.get('name_en', '').strip()
+                    if not name_en or name_en == 'Unknown':
+                        # Fallback to default name
+                        name_en = card_info.get('name', 'Unknown')
+                    name = name_en
+                    print(f"  📖 Using English name for filename: {name}")
+                else:
+                    name = matcher.get_card_name_for_language(card_info, language)
+                    
                 name = sanitize_filename(name)
                 local_id = card_info.get('localId', 'Unknown').replace('/', '-')
                 ext = os.path.splitext(front_filename)[1]

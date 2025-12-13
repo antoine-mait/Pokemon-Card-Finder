@@ -353,7 +353,52 @@ class CardDatabase:
             cards.append((local_id, name, card_id))
         return cards
 
-
+class PokedexDatabase:
+    """Load Pokedex CSV for old Japanese sets"""
+    
+    def __init__(self, base_path='PokemonCardLists'):
+        self.base_path = Path(base_path)
+        self.pokedex = {}
+        self.load_pokedex()
+    
+    def load_pokedex(self):
+        """Load the pokedex.csv file"""
+        pokedex_file = self.base_path / "pokedex.csv"
+        
+        if not pokedex_file.exists():
+            print(f"  ⚠ Pokedex file not found at {pokedex_file}")
+            return
+        
+        try:
+            with open(pokedex_file, 'r', encoding='utf-8') as f:
+                reader = csv.DictReader(f)
+                for row in reader:
+                    number = row.get('Number', '').strip()
+                    japanese = row.get('Japanese', '').strip()
+                    english = row.get('English', '').strip()
+                    
+                    if number and english:
+                        self.pokedex[number] = {
+                            'japanese': japanese,
+                            'english': english
+                        }
+            
+            print(f"  ✓ Loaded Pokedex with {len(self.pokedex)} entries")
+        except Exception as e:
+            print(f"  ⚠ Error loading Pokedex: {e}")
+    
+    def get_english_name(self, number):
+        """Get English name for a Pokedex number"""
+        number_clean = number.strip().zfill(4)  # Pad to 4 digits
+        return self.pokedex.get(number_clean, {}).get('english', None)
+    
+    def search_by_japanese(self, japanese_name):
+        """Search for English name by Japanese name"""
+        japanese_lower = japanese_name.lower().strip()
+        for number, data in self.pokedex.items():
+            if data['japanese'].lower() == japanese_lower:
+                return data['english']
+        return None
 # ============================================================================
 # CARD CROPPER
 # ============================================================================
