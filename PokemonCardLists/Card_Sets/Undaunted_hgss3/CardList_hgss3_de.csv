@@ -1,0 +1,92 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+hgss3-1,1,Blubella,110,Pflanze,,Rang 2,"Selten, Holografisch",Mitsuhiro Arita,"normal, reverse, holo",Unerschrocken,HeartGold SoulSilver,91
+hgss3-2,2,Psiana,90,Psycho,,Rang 1,"Selten, Holografisch",match,"normal, reverse, holo",Unerschrocken,HeartGold SoulSilver,91
+hgss3-3,3,Forstellka,90,Metall,,Rang 1,"Selten, Holografisch",Kyoko Umemoto,"reverse, holo",Unerschrocken,HeartGold SoulSilver,91
+hgss3-4,4,Skorgro,90,Kampf,,Rang 1,"Selten, Holografisch",Naoki Saito,"normal, reverse, holo",Unerschrocken,HeartGold SoulSilver,91
+hgss3-5,5,Hundemon,90,Unlicht,,Rang 1,"Selten, Holografisch",Kagemaru Himeno,"reverse, holo",Unerschrocken,HeartGold SoulSilver,91
+hgss3-6,6,Magcargo,100,Feuer,,Rang 1,"Selten, Holografisch",Yuka Morii,"reverse, holo",Unerschrocken,HeartGold SoulSilver,91
+hgss3-7,7,Scherox,90,Metall,,Rang 1,"Selten, Holografisch",Kent Kanetsuna/Direc. Shinji Higuchi,"reverse, holo",Unerschrocken,HeartGold SoulSilver,91
+hgss3-8,8,Farbeagle,70,Farblos,,Basis,"Selten, Holografisch",Midori Harada,"reverse, holo",Unerschrocken,HeartGold SoulSilver,91
+hgss3-9,9,Togekiss,120,Farblos,,Rang 2,"Selten, Holografisch",Atsuko Nishida,"normal, reverse, holo",Unerschrocken,HeartGold SoulSilver,91
+hgss3-10,10,Nachtara,90,Unlicht,,Rang 1,"Selten, Holografisch",Mitsuhiro Arita,"normal, reverse, holo",Unerschrocken,HeartGold SoulSilver,91
+hgss3-11,11,Dodri,80,Farblos,,Rang 1,Selten,Yukiko Baba,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-12,12,Drifzepeli,90,Psycho,,Rang 1,Selten,Kagemaru Himeno,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-13,13,Forstellka,80,Metall,,Rang 1,Selten,Kagemaru Himeno,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-14,14,Hariyama,100,Kampf,,Rang 1,Selten,Tomokazu Komiya,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-15,15,Kramshef,90,Unlicht,,Rang 1,Selten,kawayoo,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-16,16,Kramshef,90,Unlicht,,Rang 1,Selten,Masakazu Fukuda,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-17,17,Folipurba,90,Pflanze,,Rang 1,Selten,Noriko Hotta,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-18,18,Metagross,130,Metall,,Rang 2,Selten,TOKIYA,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-19,19,Traunmagil,80,Psycho,,Rang 1,Selten,Suwama Chiaki,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-20,20,Rotom,60,Elektro,,Basis,Selten,MAHOU,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-21,21,Panzaeron,80,Metall,,Basis,Selten,Midori Harada,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-22,22,Tropius,90,Pflanze,,Basis,Selten,Masakazu Fukuda,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-23,23,Honweisel,100,Pflanze,,Rang 1,Selten,Naoyo Kimura,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-24,24,Giflor,120,Pflanze,,Rang 2,Selten,Mitsuhiro Arita,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-25,25,Snibunna,80,Unlicht,,Rang 1,Selten,Aya Kusube,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-26,26,Flamara,90,Feuer,,Rang 1,Ungewöhnlich,kawayoo,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-27,27,Duflor,80,Pflanze,,Rang 1,Ungewöhnlich,Mitsuhiro Arita,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-28,28,Blitza,80,Elektro,,Rang 1,Ungewöhnlich,Shin Nagasawa,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-29,29,Stollrak,90,Metall,,Rang 1,Ungewöhnlich,match,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-30,30,Metang,80,Metall,,Rang 1,Ungewöhnlich,TOKIYA,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-31,31,Sleimok,100,Psycho,,Rang 1,Ungewöhnlich,Midori Harada,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-32,32,Pinsir,70,Pflanze,,Basis,Ungewöhnlich,match,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-33,33,Raichu,80,Elektro,,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-34,34,Rattikarl,80,Farblos,,Rang 1,Ungewöhnlich,Sachiko Adachi,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-35,35,Zobiris,60,Unlicht,,Basis,Ungewöhnlich,Midori Harada,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-36,36,Sichlor,60,Pflanze,,Basis,Ungewöhnlich,Wataru Kawahara/Direc. Shinji Higuchi,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-37,37,Skunktank,80,Unlicht,,Rang 1,Ungewöhnlich,Naoyo Kimura,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-38,38,Lahmus,90,Wasser,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-39,39,Togetic,80,Farblos,,Rang 1,Ungewöhnlich,Atsuko Nishida,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-40,40,Icognito,50,Psycho,,Basis,Ungewöhnlich,Hideaki Hakozaki,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-41,41,Aquana,90,Wasser,,Rang 1,Ungewöhnlich,sui,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-42,42,Stollunior,50,Metall,,Basis,Häufig,match,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-43,43,Tanhel,50,Metall,,Basis,Häufig,TOKIYA,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-44,44,Wadribie,30,Pflanze,,Basis,Häufig,Naoyo Kimura,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-45,45,Dodu,50,Farblos,,Basis,Häufig,Yukiko Baba,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-46,46,Driftlon,50,Psycho,,Basis,Häufig,Kagemaru Himeno,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-47,47,Evoli,50,Farblos,,Basis,Häufig,Kanako Eo,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-48,48,Evoli,50,Farblos,,Basis,Häufig,Noriko Hotta,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-49,49,Skorgla,70,Kampf,,Basis,Häufig,Naoki Saito,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-50,50,Sleima,60,Psycho,,Basis,Häufig,Midori Harada,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-51,51,Nockchan,70,Kampf,,Basis,Häufig,Kouki Saitou,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-52,52,Kicklee,80,Kampf,,Basis,Häufig,Kouki Saitou,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-53,53,Hunduster,50,Unlicht,,Basis,Häufig,kawayoo,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-54,54,Hunduster,50,Unlicht,,Basis,Häufig,Kagemaru Himeno,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-55,55,Makuhita,70,Kampf,,Basis,Häufig,Tomokazu Komiya,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-56,56,Flunkifer,60,Metall,,Basis,Häufig,TOKIYA,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-57,57,Traunfugil,60,Psycho,,Basis,Häufig,Suwama Chiaki,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-58,58,Kramurx,60,Unlicht,,Basis,Häufig,kawayoo,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-59,59,Kramurx,70,Unlicht,,Basis,Häufig,Masakazu Fukuda,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-60,60,Myrapla,40,Pflanze,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-61,61,Pikachu,50,Elektro,,Basis,Häufig,Kouki Saitou,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-62,62,Tannza,60,Pflanze,,Basis,Häufig,Kagemaru Himeno,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-63,63,Tannza,60,Pflanze,,Basis,Häufig,Kyoko Umemoto,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-64,64,Rattfratz,40,Farblos,,Basis,Häufig,Sachiko Adachi,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-65,65,Sichlor,70,Pflanze,,Basis,Häufig,Masakazu Fukuda,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-66,66,Flegmon,60,Wasser,,Basis,Häufig,Kagemaru Himeno,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-67,67,Schneckmag,60,Feuer,,Basis,Häufig,Yuka Morii,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-68,68,Sniebel,60,Unlicht,,Basis,Häufig,Aya Kusube,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-69,69,Skunkapuh,60,Unlicht,,Basis,Häufig,Naoyo Kimura,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-70,70,Togepi,40,Farblos,,Basis,Häufig,Atsuko Nishida,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-71,71,Turmruine,0,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-72,72,Defender,0,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-73,73,Energieaustausch,0,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-74,74,Blumenfrau,0,,,,Ungewöhnlich,Kanako Eo,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-75,75,Legendenkiste,0,,,,Ungewöhnlich,Shizurow,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-76,76,Alph-Ruinen,0,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-77,77,Training des Weisen,0,,,,Ungewöhnlich,Masakazu Fukuda,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-78,78,Team Rockets Trickserei,0,,,,Ungewöhnlich,Takao Unno,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-79,79,Finsternis-Energie,0,,,,Ungewöhnlich,Kent Kanetsuna,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-80,80,Metall-Energie,,,,,Ungewöhnlich,Kent Kanetsuna,"normal, reverse",Unerschrocken,HeartGold SoulSilver,91
+hgss3-81,81,Psiana,100,Psycho,,Rang 1,"selten, Primus",Hideaki Hakozaki,holo,Unerschrocken,HeartGold SoulSilver,91
+hgss3-82,82,Hundemon,110,Unlicht,,Rang 1,"selten, Primus",Hideaki Hakozaki,holo,Unerschrocken,HeartGold SoulSilver,91
+hgss3-83,83,Raichu,100,Elektro,,Rang 1,"selten, Primus",Takashi Yamaguchi,holo,Unerschrocken,HeartGold SoulSilver,91
+hgss3-84,84,Scherox,100,Metall,,Rang 1,"selten, Primus",Noriko Hotta,holo,Unerschrocken,HeartGold SoulSilver,91
+hgss3-85,85,Laschoking,100,Psycho,,Rang 1,"selten, Primus",Noriko Hotta,holo,Unerschrocken,HeartGold SoulSilver,91
+hgss3-86,86,Nachtara,100,Unlicht,,Rang 1,"selten, Primus",Hideaki Hakozaki,holo,Unerschrocken,HeartGold SoulSilver,91
+hgss3-87,87,Kyogre & Groudon LEGENDE,150,"Wasser, Kampf",,Basis,LEGENDE,Shinji Higuchi + Sachiko Eba/樋口真嗣 + 江場左知子,holo,Unerschrocken,HeartGold SoulSilver,91
+hgss3-88,88,Kyogre & Groudon LEGENDE,150,"Wasser, Kampf",,Basis,LEGENDE,Shinji Higuchi + Sachiko Eba/樋口真嗣 + 江場左知子,holo,Unerschrocken,HeartGold SoulSilver,91
+hgss3-89,89,Rayquaza & Deoxys LEGENDE,140,"Farblos, Psycho",,Basis,LEGENDE,Shinji Higuchi + Sachiko Eba/樋口真嗣 + 江場左知子,holo,Unerschrocken,HeartGold SoulSilver,91
+hgss3-90,90,Rayquaza & Deoxys LEGENDE,140,"Farblos, Psycho",,Basis,LEGENDE,Shinji Higuchi + Sachiko Eba/樋口真嗣 + 江場左知子,holo,Unerschrocken,HeartGold SoulSilver,91
+hgss3-THREE,THREE,Alph Lithograph,0,,,,Ultra Selten,Milky Isobe,normal,Unerschrocken,HeartGold SoulSilver,91

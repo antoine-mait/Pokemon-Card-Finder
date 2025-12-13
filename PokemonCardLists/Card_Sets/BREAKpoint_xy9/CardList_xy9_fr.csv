@@ -1,0 +1,127 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+xy9-1,1,Germignon,60,Plante,,De base,Commune,Akira Komayama,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-2,2,Macronium,90,Plante,Germignon,Niveau 1,Peu Commune,Mizue,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-3,3,Méganium,150,Plante,Macronium,Niveau 2,Rare,kawayoo,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-4,4,Grainipiot,50,Plante,,De base,Commune,Kanako Eo,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-5,5,Crikzik,60,Plante,,De base,Commune,Sumiyoshi Kizuki,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-6,6,Mélokrik,90,Plante,Crikzik,Niveau 1,Peu Commune,Suwama Chiaki,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-7,7,Chlorobule,50,Plante,,De base,Commune,Naoyo Kimura,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-8,8,Fragilady,80,Plante,Chlorobule,Niveau 1,Rare,Shin Nagasawa,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-9,9,Fermite,70,Plante,,De base,Peu Commune,Kouki Saitou,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-10,10,Caninos,70,Feu,,De base,Commune,match,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-11,11,Arcanin,110,Feu,Caninos,Niveau 1,Peu Commune,match,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-12,12,Chamallot,80,Feu,,De base,Commune,MAHOU,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-13,13,Camérupt,130,Feu,Chamallot,Niveau 1,Rare,Shigenori Negishi,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-14,14,Roitiflam EX,180,Feu,,De base,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-15,15,Aflamanoir,100,Feu,,De base,Peu Commune,match,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-16,16,Psykokwak,60,Eau,,De base,Commune,Kagemaru Himeno,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-17,17,Akwakwak,100,Eau,Psykokwak,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-18,18,Akwakwak TURBO,140,Eau,Akwakwak,TURBO,Ultra Rare,5ban Graphics,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-19,19,Ramoloss,70,Eau,,De base,Commune,Akira Komayama,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-20,20,Flagadoss,100,Eau,Ramoloss,Niveau 1,Peu Commune,kirisAki,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-21,21,Roigada,100,Eau,Ramoloss,Niveau 1,Rare,Aya Kusube,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-22,22,Kokiyas,60,Eau,,De base,Commune,Mizue,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-23,23,Kokiyas,60,Eau,,De base,Commune,Kouki Saitou,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-24,24,Crustabri,100,Eau,Kokiyas,Niveau 1,Peu Commune,Saya Tsuruta,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-25,25,Stari,40,Eau,,De base,Commune,Hiroki Asanuma,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-26,26,Léviator EX,180,Eau,,De base,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-27,27,M-Léviator EX,240,Eau,Léviator-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-28,28,Lokhlass,120,Eau,,De base,Peu Commune,kirisAki,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-29,29,Corayon,80,Eau,,De base,Commune,Kanako Eo,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-30,30,Suicune,120,Eau,,De base,Rare,Mitsuhiro Arita,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-31,31,Palkia EX,180,Eau,,De base,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-32,32,Manaphy EX,120,Eau,,De base,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-33,33,Tritonde,60,Eau,,De base,Commune,Miki Tanaka,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-34,34,Batracné,90,Eau,Tritonde,Niveau 1,Peu Commune,Ayaka Yoshida,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-35,35,Crapustule,150,Eau,Batracné,Niveau 2,Rare,Kanako Eo,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-36,36,Couaneton,60,Eau,,De base,Commune,Atsuko Nishida,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-37,37,Lakmécygne,80,Eau,Couaneton,Niveau 1,Peu Commune,sui,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-38,38,Grenousse,60,Eau,,De base,Commune,Sanosuke Sakuma,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-39,39,Croâporal,70,Eau,Grenousse,Niveau 1,Peu Commune,Shin Nagasawa,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-40,40,Amphinobi,130,Eau,Croâporal,Niveau 2,Rare,Naoki Saito,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-41,41,Amphinobi TURBO,170,Eau,Amphinobi,TURBO,Ultra Rare,5ban Graphics,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-42,42,Élektek,70,Électrique,,De base,Commune,Shin Nagasawa,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-43,43,Élekable,110,Électrique,Élektek,Niveau 1,Peu Commune,Shin Nagasawa,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-44,44,Lixy,60,Électrique,,De base,Commune,Saya Tsuruta,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-45,45,Luxio,80,Électrique,Lixy,Niveau 1,Peu Commune,Sanosuke Sakuma,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-46,46,Luxray,140,Électrique,Luxio,Niveau 2,Rare,Masakazu Fukuda,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-47,47,Luxray TURBO,170,Électrique,Luxray,TURBO,Ultra Rare,5ban Graphics,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-48,48,Zébibron,60,Électrique,,De base,Commune,Aya Kusube,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-49,49,Zéblitz,100,Électrique,Zébibron,Niveau 1,Rare,Hajime Kusajima,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-50,50,Soporifik,70,Psy,,De base,Commune,Shigenori Negishi,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-51,51,Hypnomade,90,Psy,Soporifik,Niveau 1,Rare,Tomokazu Komiya,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-52,52,Mentali EX,170,Psy,,De base,Ultra Rare,Ayaka Yoshida,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-53,53,Rapion,70,Psy,,De base,Commune,Kyoko Umemoto,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-54,54,Drascore,130,Psy,Rapion,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-55,55,Cryptéro,90,Psy,,De base,Peu Commune,Masakazu Fukuda,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-56,56,Miamiasme,70,Psy,,De base,Commune,OOYAMA,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-57,57,Miasmax,100,Psy,Miamiasme,Niveau 1,Rare,Kouki Saitou,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-58,58,Psystigri,60,Psy,,De base,Commune,Kagemaru Himeno,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-59,59,Mistigrix,90,Psy,Psystigri,Niveau 1,Rare,Kagemaru Himeno,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-60,60,Monorpale,60,Psy,,De base,Commune,kawayoo,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-61,61,Dimoclès,80,Psy,Monorpale,Niveau 1,Peu Commune,Hajime Kusajima,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-62,62,Exagide,140,Psy,Dimoclès,Niveau 2,Rare,Hitoshi Ariga,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-63,63,Venalgue,50,Psy,,De base,Commune,Yukiko Baba,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-64,64,Brocélôme,50,Psy,,De base,Commune,Sumiyoshi Kizuki,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-65,65,Desséliande,110,Psy,Brocélôme,Niveau 1,Rare,Midori Harada,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-66,66,Desséliande TURBO,160,Psy,Desséliande,TURBO,Ultra Rare,5ban Graphics,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-67,67,Simularbre,90,Combat,,De base,Peu Commune,Hitoshi Ariga,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-68,68,Griknot,60,Combat,,De base,Commune,Naoyo Kimura,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-69,69,Carmache,80,Combat,Griknot,Niveau 1,Peu Commune,Midori Harada,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-70,70,Carchacrok,130,Combat,Carmache,Niveau 2,Rare,TOKIYA,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-71,71,Pandespiègle,60,Combat,,De base,Commune,MAHOU,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-72,72,Pifeuil,80,Obscurité,Grainipiot,Niveau 1,Peu Commune,Yuka Morii,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-73,73,Tengalice,140,Obscurité,Pifeuil,Niveau 2,Rare,TOKIYA,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-74,74,Darkrai EX,180,Obscurité,,De base,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-75,75,Pandarbare,120,Obscurité,Pandespiègle,Niveau 1,Rare,Naoki Saito,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-76,76,Cizayox EX,170,Métal,,De base,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-77,77,M-Cizayox EX,220,Métal,Cizayox-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-78,78,Mysdibule,80,Métal,,De base,Peu Commune,Kouki Saitou,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-79,79,Grindur,60,Métal,,De base,Commune,Satoshi Shirai,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-80,80,Noacier,100,Métal,Grindur,Niveau 1,Rare,Kagemaru Himeno,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-81,81,Mélofée,60,Fée,,De base,Commune,Tomokazu Komiya,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-82,82,Mélodelfe,100,Fée,Mélofée,Niveau 1,Rare,Sanosuke Sakuma,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-83,83,Togekiss EX,170,Fée,,De base,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-84,84,Fluvetin,50,Fée,,De base,Commune,kirisAki,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-85,85,Cocotine,90,Fée,Fluvetin,Niveau 1,Peu Commune,kirisAki,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-86,86,Kravarech,110,Dragon,Venalgue,Niveau 1,Rare,Shin Nagasawa,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-87,87,Rattata,30,Incolore,,De base,Commune,match,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-88,88,Rattatac,70,Incolore,Rattata,Niveau 1,Rare,Kagemaru Himeno,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-89,89,Rattatac TURBO,110,Incolore,Rattatac,TURBO,Ultra Rare,5ban Graphics,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-90,90,Insolourdo,60,Incolore,,De base,Peu Commune,Akira Komayama,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-91,91,Cerfrousse,90,Incolore,,De base,Peu Commune,sui,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-92,92,Ho-Oh EX,180,Incolore,,De base,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-93,93,Chaglam,60,Incolore,,De base,Commune,Saya Tsuruta,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-94,94,Chaffreux,100,Incolore,Chaglam,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-95,95,Couafarel,80,Incolore,,De base,Commune,Masakazu Fukuda,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-96,96,Célébration Nocturne,,,,,Peu Commune,Hitoshi Ariga,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-97,97,Ballon Explosif,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-98a,98a,Terreur,,,,,Peu Commune,Megumi Mizutani,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-98b,98b,Terreur,,,,,Peu Commune,Yusuke Ohmura,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-98,98,Terreur,,,,,Peu Commune,Yusuke Ohmura,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-99,99,Ceinture Furie Combative,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-100,100,Super Ball,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-101,101,Lien Spirituel Léviator,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-102,102,Max Élixir,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-103,103,Potion Max,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-104,104,Détermination d'Ondine,,,,,Peu Commune,Ken Sugimori,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-105,105,Attrape-Pokémon,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-106,106,Potion,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-107a,107a,Professeur Platane,,,,,Peu Commune,Yusuke Ohmura,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-107,107,Professeur Platane,,,,,Peu Commune,Yusuke Ohmura,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-108,108,Troisième Œil du Kinésiste,,,,,Peu Commune,Yusuke Ohmura,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-109,109,Énigme du Temps,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-110,110,Vallée Inverse,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-111,111,Lien Spirituel Cizayox,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-112,112,Tierno,,,,,Peu Commune,Ken Sugimori,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-113,113,Énergie Éclaboussure,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-114,114,Léviator EX,180,Eau,,De base,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-115,115,M-Léviator EX,240,Eau,Léviator-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-116,116,Manaphy EX,120,Eau,,De base,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-117,117,Mentali EX,170,Psy,,De base,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-118,118,Darkrai EX,180,Obscurité,,De base,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-119,119,Cizayox EX,170,Métal,,De base,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-120,120,M-Cizayox EX,220,Métal,Cizayox-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-121,121,Ho-Oh EX,180,Incolore,,De base,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-122,122,Carolina,,,,,Ultra Rare,Megumi Mizutani,"normal, reverse, holo",Rupture Turbo,XY,126
+xy9-123,123,Léviator EX,180,Eau,,De base,Magnifique rare,Mitsuhiro Arita,"normal, reverse, holo",Rupture Turbo,XY,126

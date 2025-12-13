@@ -1,0 +1,98 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+ex4-1,1,Cacturne de Team Aqua,80,"Plante, Obscurité",,Niveau 1,Rare,K. Utsunomiya,"reverse, holo",EX Team Magma vs Team Aqua,EX,97
+ex4-2,2,Colhomard de Team Aqua,80,"Eau, Obscurité",,Niveau 1,Rare,Nakaoka,"reverse, holo",EX Team Magma vs Team Aqua,EX,97
+ex4-3,3,Kyogre de Team Aqua,100,"Eau, Obscurité",,De base,Rare,K. Hoshiba,"normal, reverse, holo",EX Team Magma vs Team Aqua,EX,97
+ex4-4,4,Elecsprint de Team Aqua,70,"Électrique, Obscurité",,Niveau 1,Rare,K. Utsunomiya,"reverse, holo",EX Team Magma vs Team Aqua,EX,97
+ex4-5,5,Sharpedo de Team Aqua,70,"Eau, Obscurité",,Niveau 1,Rare,Katsura Tabata,"reverse, holo",EX Team Magma vs Team Aqua,EX,97
+ex4-6,6,Kaimorse de Team Aqua,120,"Eau, Obscurité",,Niveau 2,Rare,Ken Ikuji,"reverse, holo",EX Team Magma vs Team Aqua,EX,97
+ex4-7,7,Galeking de Team Magma,120,"Combat, Obscurité",,Niveau 2,Rare,Hiromichi Sugiyama,"reverse, holo",EX Team Magma vs Team Aqua,EX,97
+ex4-8,8,Kaorine de Team Magma,80,"Psy, Obscurité",,Niveau 1,Rare,Zu-Ka,"reverse, holo",EX Team Magma vs Team Aqua,EX,97
+ex4-9,9,Groudon de Team Magma,100,"Combat, Obscurité",,De base,Rare,Kazuo Yazawa,"normal, reverse, holo",EX Team Magma vs Team Aqua,EX,97
+ex4-10,10,Démolosse de Team Magma,70,"Feu, Obscurité",,Niveau 1,Rare,Ken Ikuji,"reverse, holo",EX Team Magma vs Team Aqua,EX,97
+ex4-11,11,Rhinoféros de Team Magma,90,"Combat, Obscurité",,Niveau 1,Rare,T. Honda,"reverse, holo",EX Team Magma vs Team Aqua,EX,97
+ex4-12,12,Chartor de Team Magma,80,"Feu, Obscurité",,De base,Rare,K. Hoshiba,"reverse, holo",EX Team Magma vs Team Aqua,EX,97
+ex4-13,13,Raichu,80,Électrique,,Niveau 1,Rare,Ken Sugimori,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-14,14,Colhomard de Team Aqua,80,Eau,,Niveau 1,Rare,Nakaoka,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-15,15,Grahyena de Team Aqua,70,Obscurité,,Niveau 1,Rare,Shin-ichi Yoshikawa,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-16,16,Phogleur de Team Aqua,70,Eau,,Niveau 1,Rare,T. Honda,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-17,17,Seviper de Team Aqua,80,Plante,,De base,Rare,Jungo Suzuki,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-18,18,Sharpedo de Team Aqua,70,Eau,,Niveau 1,Rare,Katsura Tabata,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-19,19,Camerupt de Team Magma,80,Feu,,Niveau 1,Rare,Katsura Tabata,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-20,20,Galegon de Team Magma,80,Combat,,Niveau 1,Rare,Hiromichi Sugiyama,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-21,21,Grahyena de Team Magma,70,Obscurité,,Niveau 1,Rare,Shin-ichi Yoshikawa,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-22,22,Rhinoféros de Team Magma,80,Combat,,Niveau 1,Rare,T. Honda,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-23,23,Mangriff de Team Magma,70,Incolore,,De base,Rare,Zu-Ka,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-24,24,Cacnea de Team Aqua,50,"Plante, Obscurité",,De base,Peu Commune,K. Utsunomiya,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-25,25,Carvanha de Team Aqua,50,Eau,,De base,Peu Commune,Mt. TBT,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-26,26,Écrapince de Team Aqua,50,Eau,,De base,Peu Commune,Jungo Suzuki,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-27,27,Dynavolt de Team Aqua,50,Électrique,,De base,Peu Commune,M. Akiyama,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-28,28,Lanturn de Team Aqua,80,Électrique,,Niveau 1,Peu Commune,Jungo Suzuki,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-29,29,Elecsprint de Team Aqua,80,Électrique,,Niveau 1,Peu Commune,K. Utsunomiya,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-30,30,Grahyena de Team Aqua,80,Obscurité,,Niveau 1,Peu Commune,Shin-ichi Yoshikawa,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-31,31,Phogleur de Team Aqua,80,Eau,,Niveau 1,Peu Commune,T. Honda,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-32,32,Balbuto de Team Magma,50,Psy,,De base,Peu Commune,Atsuko Ujiie,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-33,33,Kaorine de Team Magma,80,Combat,,Niveau 1,Peu Commune,Zu-Ka,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-34,34,Démolosse de Team Magma,70,Feu,,Niveau 1,Peu Commune,Ken Ikuji,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-35,35,Malosse de Team Magma,50,Feu,,De base,Peu Commune,Atsuko Ujiie,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-36,36,Galegon de Team Magma,70,Combat,,Niveau 1,Peu Commune,Hiromichi Sugiyama,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-37,37,Grahyena de Team Magma,80,Obscurité,,Niveau 1,Peu Commune,Shin-ichi Yoshikawa,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-38,38,Rhinocorne de Team Magma,50,Combat,,De base,Peu Commune,Mt. TBT,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-39,39,Bulbizarre,50,Plante,,De base,Commune,Ken Sugimori,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-40,40,Osselait,50,Combat,,De base,Commune,Ken Sugimori,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-41,41,Rondoudou,50,Incolore,,De base,Commune,Ken Sugimori,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-42,42,Miaouss,50,Incolore,,De base,Commune,Ken Sugimori,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-43,43,Pikachu,50,Électrique,,De base,Commune,Ken Sugimori,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-44,44,Psykokwak,40,Eau,,De base,Commune,Ken Sugimori,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-45,45,Ramoloss,50,Psy,,De base,Commune,Ken Sugimori,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-46,46,Carapuce,50,Eau,,De base,Commune,Ken Sugimori,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-47,47,Carvanha de Team Aqua,40,Eau,,De base,Commune,Yosuke Da Silva,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-48,48,Carvanha de Team Aqua,50,Eau,,De base,Commune,Hiromichi Sugiyama,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-49,49,Loupio de Team Aqua,50,Électrique,,De base,Commune,Kazuo Yazawa,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-50,50,Écrapince de Team Aqua,50,Eau,,De base,Commune,Jungo Suzuki,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-51,51,Écrapince de Team Aqua,50,Eau,,De base,Commune,Jungo Suzuki,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-52,52,Dynavolt de Team Aqua,50,Électrique,,De base,Commune,M. Akiyama,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-53,53,Dynavolt de Team Aqua,50,Électrique,,De base,Commune,M. Akiyama,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-54,54,Medhyena de Team Aqua,40,Obscurité,,De base,Commune,Shin-ichi Yoshikawa,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-55,55,Medhyena de Team Aqua,50,Obscurité,,De base,Commune,Shin-ichi Yoshikawa,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-56,56,Obalie de Team Aqua,40,Eau,,De base,Commune,Nakaoka,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-57,57,Obalie de Team Aqua,50,Eau,,De base,Commune,Nakaoka,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-58,58,Galekid de Team Magma,50,Combat,,De base,Commune,Katsura Tabata,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-59,59,Galekid de Team Magma,50,Combat,,De base,Commune,Katsura Tabata,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-60,60,Balbuto de Team Magma,50,Combat,,De base,Commune,Atsuko Ujiie,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-61,61,Balbuto de Team Magma,50,Combat,,De base,Commune,Atsuko Ujiie,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-62,62,Malosse de Team Magma,50,Feu,,De base,Commune,Atsuko Ujiie,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-63,63,Malosse de Team Magma,50,Feu,,De base,Commune,Atsuko Ujiie,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-64,64,Chamallot de Team Magma,50,Feu,,De base,Commune,Katsura Tabata,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-65,65,Medhyena de Team Magma,40,Obscurité,,De base,Commune,Shin-ichi Yoshikawa,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-66,66,Medhyena de Team Magma,50,Obscurité,,De base,Commune,Shin-ichi Yoshikawa,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-67,67,Rhinocorne de Team Magma,50,Combat,,De base,Commune,Yosuke Da Silva,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-68,68,Rhinocorne de Team Magma,60,Combat,,De base,Commune,Yosuke Da Silva,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-69,69,Manipulateur de Team Aqua,,,,,Commune,Ken Sugimori,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-70,70,Manipulateur de Team Magma,,,,,Commune,Ken Sugimori,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-71,71,Arthur,,,,,Peu Commune,Ken Sugimori,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-72,72,Double boule,,,,,Peu Commune,"Big Mama"" Tagawa""","normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-73,73,Max,,,,,Peu Commune,Ken Sugimori,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-74,74,Sort de force,,,,,Peu Commune,Keiji Kinebuchi,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-75,75,Boule de Team Aqua,,,,,Peu Commune,Ryo Ueda,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-76,76,Raclée de Team Aqua,,,,,Peu Commune,Mitsuhiro Arita,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-77,77,Conspirateur de Team Aqua,,,,,Peu Commune,Ken Sugimori,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-78,78,Cachette de Team Aqua,,,,,Peu Commune,Hiromichi Sugiyama,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-79,79,Machine Technique 01 de Team Aqua,,,,,Peu Commune,Mitsuhiro Arita,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-80,80,Boule de Team Magma,,,,,Peu Commune,Ryo Ueda,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-81,81,Raclée de Team Magma,,,,,Peu Commune,Mitsuhiro Arita,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-82,82,Conspirateur de Team Magma,,,,,Peu Commune,Ken Sugimori,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-83,83,Cachette de Team Magma,,,,,Peu Commune,Ken Ikuji,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-84,84,Machine Technique 01 de Team Magma,,,,,Peu Commune,Mitsuhiro Arita,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-85,85,Point d'échange,,,,,Peu Commune,Keiji Kinebuchi,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-86,86,Énergie Magma,,,,,Peu Commune,Takumi Akabane,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-87,87,Énergie Magma,,,,,Peu Commune,Takumi Akabane,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-88,88,Double Énergie Multicolore,,,,,Rare,Takumi Akabane,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-89,89,Brasegali ex,150,Feu,,,Rare,Hikaru Koike,holo,EX Team Magma vs Team Aqua,EX,97
+ex4-90,90,Vacilys ex,150,Plante,,,Rare,Ryo Ueda,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-91,91,Entei ex,100,Feu,,,Rare,Ryo Ueda,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-92,92,Raikou ex,100,Électrique,,,Rare,Ryo Ueda,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-93,93,Jungko ex,150,Plante,,,Rare,Hikaru Koike,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-94,94,Suicune ex,100,Eau,,,Rare,Ryo Ueda,holo,EX Team Magma vs Team Aqua,EX,97
+ex4-95,95,Laggron ex,150,Combat,,,Rare,Hikaru Koike,holo,EX Team Magma vs Team Aqua,EX,97
+ex4-96,96,Absol,70,Obscurité,,De base,Rare,Mitsuhiro Arita,"normal, reverse",EX Team Magma vs Team Aqua,EX,97
+ex4-97,97,Jirachi,50,Psy,,De base,Rare,Mitsuhiro Arita,"normal, reverse",EX Team Magma vs Team Aqua,EX,97

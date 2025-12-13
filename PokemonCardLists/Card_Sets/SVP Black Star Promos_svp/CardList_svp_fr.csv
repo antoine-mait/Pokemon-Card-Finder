@@ -1,0 +1,193 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+svp-001,001,Poussacha,70,Plante,,De base,Sans Rareté,Yuu Nishida,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-002,002,Chochodile,80,Feu,,De base,Sans Rareté,Ryuta Fuse,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-003,003,Coiffeton,70,Eau,,De base,Sans Rareté,Narumi Sato,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-004,004,Mimiqui-ex,190,Psy,,De base,Sans Rareté,PLANETA Yamashita,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-005,005,Palmaval,170,Eau,Canarbello,Niveau 2,Sans Rareté,kodama,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-006,006,Pohmarmotte,130,Électrique,Pohmotte,Niveau 2,Sans Rareté,GIDORA,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-007,007,Brutalibré,70,Combat,,De base,Sans Rareté,Yuya Oka,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-008,008,Vrombotor,140,Métal,Vrombi,Niveau 1,Sans Rareté,DOM,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-009,009,Filentrappe,120,Plante,Tissenboule,Niveau 1,Sans Rareté,Anesaki Dynamic,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-010,010,Cléopsytra,110,Psy,Flotillon,Niveau 1,Sans Rareté,Sanosuke Sakuma,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-011,011,Arcanin,130,Feu,Caninos,Niveau 1,Sans Rareté,Ryuta Fuse,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-012,012,Oyacata,150,Eau,,De base,Sans Rareté,Shin Nagasawa,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-013,013,Miraidon,120,Électrique,,De base,Sans Rareté,Akira Komayama,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-014,014,Koraidon,130,Combat,,De base,Sans Rareté,Mina Nakai,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-015,015,Lainergie,90,Électrique,Wattouat,Niveau 1,Sans Rareté,0313,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-016,016,Pharamp-ex,330,Électrique,Lainergie,Niveau 2,Sans Rareté,PLANETA Tsuji,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-017,017,Lucario-ex,260,Combat,Riolu,Niveau 1,Sans Rareté,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-018,018,Motorizard-ex,210,Incolore,,De base,Sans Rareté,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-019,019,Glaivodo,160,Eau,Cryodo,Niveau 2,Sans Rareté,Oswaldo KATO,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-020,020,Forgelina,140,Psy,Forgella,Niveau 2,Sans Rareté,Anesaki Dynamic,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-021,021,Cornèbre,60,Obscurité,,De base,Sans Rareté,Shiburingaru,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-022,022,Bekipan,120,Incolore,Goélise,Niveau 1,Sans Rareté,Nisota Niso,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-023,023,Olivini,60,Plante,,De base,Sans Rareté,Misa Tsutsui,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-024,024,Caninos,90,Feu,,De base,Sans Rareté,Uta,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-025,025,Forgerette,70,Psy,,De base,Sans Rareté,Kouki Saitou,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-026,026,Vrombi,60,Métal,,De base,Sans Rareté,Mina Nakai,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-027,027,Pikachu,60,Électrique,,De base,Sans Rareté,Atsushi Furusawa,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-028,028,Miraidon-ex,220,Électrique,,De base,Sans Rareté,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-029,029,Koraidon-ex,230,Combat,,De base,Sans Rareté,aky CG Works,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-030,030,Baojian-ex,220,Eau,,De base,Sans Rareté,aky CG Works,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-031,031,Forgelina-ex,300,Psy,Forgella,Niveau 2,Sans Rareté,takuyoa,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-032,032,Courrousinge-ex,320,Combat,Colossinge,Niveau 2,Sans Rareté,PLANETA Hiiragi,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-033,033,Miascarade-ex,310,Plante,Matourgeon,Niveau 2,Sans Rareté,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-034,034,Flâmigator-ex,340,Feu,Crocogril,Niveau 2,Sans Rareté,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-035,035,Palmaval-ex,320,Eau,Canarbello,Niveau 2,Sans Rareté,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-036,036,Superdofin,150,Eau,Dofin,Niveau 1,Sans Rareté,nagimiso,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-037,037,Mélo,30,Psy,,De base,Sans Rareté,Mina Nakai,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-038,038,Togekiss,150,Psy,Togetic,Niveau 2,Sans Rareté,OKACHEKE,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-039,039,Mysdibule,90,Métal,,De base,Sans Rareté,Souichirou Gunjima,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-040,040,Pohm,50,Électrique,,De base,Sans Rareté,Ryuta Fuse,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-041,041,Axoloto de Paldea,60,Obscurité,,De base,Sans Rareté,kirisAki,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-042,042,Tomberro,130,Psy,Toutombe,Niveau 1,Sans Rareté,Pani Kobayashi,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-043,043,Évoli,60,Incolore,,De base,Sans Rareté,saino misaki,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-044,044,Salamèche,60,Feu,,De base,Sans Rareté,MINAMINAMI Take,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-045,045,"Hôtel "" Au paradis des Pokémon """,,,,,Sans Rareté,Naoki Saito,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-046,046,Bulbizarre,70,Plante,,De base,Sans Rareté,OKACHEKE,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-047,047,Salamèche,70,Feu,,De base,Sans Rareté,NC Empire,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-048,048,Carapuce,70,Eau,,De base,Sans Rareté,Gemi,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-049,049,Électhor-ex,200,Électrique,,De base,Sans Rareté,takuyoa,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-050,050,Alakazam-ex,310,Psy,Kadabra,Niveau 2,Sans Rareté,Mitsuhiro Arita,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-051,051,Ronflex,150,Incolore,,De base,Sans Rareté,GOSSAN,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-052,052,Mewtwo,130,Psy,,De base,Sans Rareté,Bun Toujo,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-053,053,Mew-ex,180,Psy,,De base,Sans Rareté,Natsumi Yoshida,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-054,054,Amphinobi-ex,300,Eau,Croâporal,Niveau 2,Sans Rareté,takuyoa,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-055,055,Kangourex-ex,230,Incolore,,De base,Sans Rareté,N-DESIGN Inc.,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-056,056,Dracaufeu-ex,330,Obscurité,Reptincel,Niveau 2,Sans Rareté,takuyoa,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-057,057,Yuyu,110,Feu,,De base,Sans Rareté,Dsuke,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-058,058,Hotte-de-Fer,100,Eau,,De base,Sans Rareté,Lee HyunJung,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-059,059,Xatu,100,Psy,Natu,Niveau 1,Sans Rareté,GOSSAN,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-060,060,Exagide,150,Métal,Dimoclès,Niveau 2,Sans Rareté,Takeshi Nakamura,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-061,061,Pomdepik,70,Plante,,De base,Sans Rareté,Nobuhiro Imagawa,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-062,062,Théffroi,30,Psy,,De base,Sans Rareté,kurumitsu,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-063,063,Balbalèze,170,Eau,Piétacé,Niveau 1,Sans Rareté,GOSSAN,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-064,064,Cryodo,90,Eau,Frigodo,Niveau 1,Sans Rareté,Teeziro,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-065,065,Hurle-Queue,90,Psy,,De base,Sans Rareté,GIDORA,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-066,066,Hotte-de-Fer,100,Eau,,De base,Sans Rareté,Teeziro,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-067,067,Rugit-Lune-ex,230,Obscurité,,De base,Sans Rareté,takuyoa,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-068,068,Garde-de-Fer-ex,220,Psy,,De base,Sans Rareté,aky CG Works,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-069,069,Pâtachiot,50,Psy,,De base,Sans Rareté,sowsow,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-070,070,Toutombe,70,Psy,,De base,Sans Rareté,Nisota Niso,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-071,071,Grondogue,60,Obscurité,,De base,Sans Rareté,Kagemaru Himeno,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-072,072,Fort-Ivoire-ex,250,Combat,,De base,Sans Rareté,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-073,073,Roue-de-Fer-ex,220,Métal,,De base,Sans Rareté,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-074,074,Dracaufeu-ex,330,Obscurité,Reptincel,Niveau 2,Sans Rareté,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-075,075,Mimiqui,70,Psy,,De base,Sans Rareté,Mitsuhiro Arita,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-076,076,Poussacha,60,Plante,,De base,Sans Rareté,kurumitsu,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-077,077,Matourgeon,90,Plante,Poussacha,Niveau 1,Sans Rareté,GIDORA,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-078,078,Miascarade-ex,310,Plante,Matourgeon,Niveau 2,Sans Rareté,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-079,079,Chochodile,80,Feu,,De base,Sans Rareté,OKACHEKE,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-080,080,Crocogril,110,Feu,Chochodile,Niveau 1,Sans Rareté,Hideki Ishikawa,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-081,081,Flâmigator-ex,340,Feu,Crocogril,Niveau 2,Sans Rareté,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-082,082,Coiffeton,70,Eau,,De base,Sans Rareté,GIDORA,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-083,083,Canarbello,90,Eau,Coiffeton,Niveau 1,Sans Rareté,Atsushi Furusawa,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-084,084,Palmaval-ex,320,Eau,Canarbello,Niveau 2,Sans Rareté,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-086,086,Dogrino-ex,260,Obscurité,Grondogue,Niveau 1,Sans Rareté,PLANETA Mochizuki,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-087,087,Poussacha-ex,200,Plante,,De base,Sans Rareté,takuyoa,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-088,088,Pikachu,70,Électrique,,De base,Sans Rareté,saino misaki,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-089,089,Aligatueur,180,Eau,Crocrodil,Niveau 2,Sans Rareté,Kurata So,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-090,090,Métang,100,Métal,Terhal,Niveau 1,Sans Rareté,Uta,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-091,091,Koraidon,140,Dragon,,De base,Sans Rareté,Anesaki Dynamic,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-092,092,Miraidon,110,Dragon,,De base,Sans Rareté,akagi,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-093,093,Carvanha,50,Eau,,De base,Sans Rareté,Tonji Matsuno,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-094,094,Ampibidou,130,Électrique,Têtampoule,Niveau 1,Sans Rareté,Mizue,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-095,095,Mélo,30,Psy,,De base,Sans Rareté,Tika Matsuno,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-096,096,Motorizard,120,Incolore,,De base,Sans Rareté,Hasuno,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-097,097,Flotte-Mèche,90,Psy,,De base,Sans Rareté,Takumi Wada,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-098,098,Épine-de-Fer,140,Électrique,,De base,Sans Rareté,Tonji Matsuno,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-099,099,Gribouraigne,50,Incolore,,De base,Sans Rareté,Hitoshi Ariga,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-100,100,Tag-Tag-ex,250,Incolore,Gribouraigne,Niveau 1,Sans Rareté,aky CG Works,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-101,101,Pikachu,70,Électrique,,De base,Sans Rareté,Jiro Sasumo,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-103,103,Démolosse-ex,270,Obscurité,Malosse,Niveau 1,Sans Rareté,PLANETA Tsuji,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-104,104,Melmetal-ex,300,Métal,Meltan,Niveau 1,Sans Rareté,PLANETA Igarashi,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-105,105,Carmadura-ex,260,Feu,Charbambin,Niveau 1,Sans Rareté,PLANETA Tsuji,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-106,106,Pikachu-ex,200,Électrique,,De base,Sans Rareté,takuyoa,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-107,107,Wattouat,60,Électrique,,De base,Sans Rareté,Orca,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-108,108,Lainergie,90,Électrique,Wattouat,Niveau 1,Sans Rareté,Akira Komayama,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-109,109,Pharamp,160,Électrique,Lainergie,Niveau 2,Sans Rareté,GIDORA,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-110,110,Darkrai-ex,210,Obscurité,,De base,Sans Rareté,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-111,111,Scalpion,70,Obscurité,,De base,Sans Rareté,matazo,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-112,112,Scalproie,100,Obscurité,Scalpion,Niveau 1,Sans Rareté,AKIRA EGAWA,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-113,113,Scalpereur,170,Obscurité,Scalproie,Niveau 2,Sans Rareté,nagimiso,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-114,114,Fan de Pique-Nique,,,,,Sans Rareté,Susumu Maeya,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-115,115,Badabouin,100,Plante,Ouistempo,Niveau 1,Sans Rareté,Uninori,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-116,116,Simiabraz,140,Feu,Chimpenfeu,Niveau 2,Sans Rareté,Kazumasa Yasukuni,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-117,117,Momartik,90,Eau,Stalgamin,Niveau 1,Sans Rareté,mingo,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-118,118,Nigirigon,70,Dragon,,De base,Sans Rareté,Shimaris Yukichi,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-119,119,Toxizap,70,Électrique,,De base,Sans Rareté,Natsumi Yoshida,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-120,120,Ymphect,80,Combat,Embrylex,Niveau 1,Sans Rareté,Shiburingaru,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-121,121,Vrombotor,140,Métal,Vrombi,Niveau 1,Sans Rareté,Nisota Niso,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-122,122,Ronflex,160,Incolore,,De base,Sans Rareté,Po-Suzuki,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-123,123,Ogerpon Masque Turquoise,110,Plante,,De base,Sans Rareté,kodama,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-124,124,Mashynn,,,,,Sans Rareté,yuu,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-125,125,Carmadura-ex,260,Feu,Charbambin,Niveau 1,Sans Rareté,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-126,126,Superdofin-ex,340,Eau,Dofin,Niveau 1,Sans Rareté,PLANETA Mochizuki,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-127,127,Serpente-Eau-ex,220,Eau,,De base,Sans Rareté,takuyoa,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-128,128,Vert-de-Fer-ex,220,Plante,,De base,Sans Rareté,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-129,129,Pêchaminus,80,Obscurité,,De base,Sans Rareté,nagimiso,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-130,130,Scalpereur,180,Métal,Scalproie,Niveau 2,Sans Rareté,Oku,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-131,131,Hyporoi-ex,310,Eau,Hypocéan,Niveau 2,Sans Rareté,akagi,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-132,132,Amphinobi-ex,300,Eau,Croâporal,Niveau 2,Sans Rareté,SIE NANAHARA,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-133,133,Coxyclaque,90,Plante,Coxy,Niveau 1,Sans Rareté,Natsumi Yoshida,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-134,134,Crabominable,160,Eau,Crabagarre,Niveau 1,Sans Rareté,KEIICHIRO ITO,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-135,135,Grodrive,130,Psy,Baudrive,Niveau 1,Sans Rareté,Keisin,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-136,136,Frison,100,Incolore,,De base,Sans Rareté,Tonji Matsuno,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-137,137,Hypotrempe,60,Eau,,De base,Sans Rareté,MAHOU,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-138,138,Porygon2,90,Incolore,Porygon,Niveau 1,Sans Rareté,GOSSAN,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-139,139,Latias,110,Psy,,De base,Sans Rareté,hncl,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-140,140,Forgelina,140,Psy,Forgella,Niveau 2,Sans Rareté,DOM,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-141,141,Noarfang,100,Incolore,Hoothoot,Niveau 1,Sans Rareté,Tetsu Kayama,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-142,142,Victini-ex,190,Feu,,De base,Sans Rareté,Saki Hayashiro,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-143,143,Miraidon-ex,220,Électrique,,De base,Sans Rareté,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-144,144,Feu-Perçant-ex,230,Feu,,De base,Sans Rareté,PLANETA Mochizuki,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-145,145,Ire-Foudre-ex,240,Dragon,,De base,Sans Rareté,PLANETA Mochizuki,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-146,146,Chef-de-Fer-ex,220,Psy,,De base,Sans Rareté,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-147,147,Roc-de-Fer-ex,240,Combat,,De base,Sans Rareté,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-148,148,Miraidon,120,Électrique,,De base,Sans Rareté,hncl,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-149,149,Pêchaminus,80,Obscurité,,De base,Sans Rareté,Souichirou Gunjima,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-150,150,"Hôtel "" Au paradis des Pokémon """,,,,,Sans Rareté,Naoki Saito,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-151,151,Feu-Perçant,130,Feu,,De base,Sans Rareté,Hasuno,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-152,152,Baojian,120,Eau,,De base,Sans Rareté,toi8,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-153,153,Magnéton,100,Électrique,Magnéti,Niveau 1,Sans Rareté,Shinya Mizuno,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-154,154,Wimessir,100,Psy,,De base,Sans Rareté,buchi,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-155,155,Axoloto,60,Eau,,De base,Sans Rareté,Saboteri,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-156,156,Maraiste,120,Eau,Axoloto,Niveau 1,Sans Rareté,Saboteri,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-157,157,Électhor,110,Électrique,,De base,Sans Rareté,Nisota Niso,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-158,158,Pachirisu,70,Électrique,,De base,Sans Rareté,Yuya Oka,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-159,159,Magnéton,100,Électrique,Magnéti,Niveau 1,Sans Rareté,Shinji Kanda,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-160,160,Tapatoès-ex,160,Incolore,,De base,Sans Rareté,N-DESIGN Inc.,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-161,161,Dracaufeu-ex,330,Feu,Reptincel,Niveau 2,Sans Rareté,PLANETA Mochizuki,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-162,162,Tomberro-ex,260,Psy,Toutombe,Niveau 1,Sans Rareté,takuyoa,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-163,163,Pyrobut-ex,320,Feu,Lapyro,Niveau 2,Sans Rareté,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-164,164,Lokhlass-ex,220,Eau,,De base,Sans Rareté,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-165,165,Terapagos-ex,230,Incolore,,De base,Sans Rareté,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-166,166,Ogerpon Masque Turquoise-ex,210,Plante,,De base,Sans Rareté,5ban Graphics,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-167,167,Pyroli,130,Feu,Évoli,Niveau 1,Sans Rareté,SIE NANAHARA,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-168,168,Aquali,130,Eau,Évoli,Niveau 1,Sans Rareté,Taira Akitsu,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-169,169,Voltali,110,Électrique,Évoli,Niveau 1,Sans Rareté,Nisota Niso,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-170,170,Phyllali,120,Plante,Évoli,Niveau 1,Sans Rareté,Iori Suzuki,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-171,171,Givrali,120,Eau,Évoli,Niveau 1,Sans Rareté,Keisin,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-172,172,Nymphali,120,Psy,Évoli,Niveau 1,Sans Rareté,Susumu Maeya,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-173,173,Évoli,50,Incolore,,De base,Sans Rareté,Makura Tami,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-174,174,Évoli-ex,200,Incolore,,De base,Sans Rareté,,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-177,177,Ursaking Lune Vermeille-ex,260,Incolore,,De base,Sans Rareté,aky CG Works,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-178,178,Kyogre-ex,230,Eau,,De base,Sans Rareté,takuyoa,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-179,179,Xerneas-ex,210,Psy,,De base,Sans Rareté,PLANETA Igarashi,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-180,180,Dialga-ex,220,Métal,,De base,Sans Rareté,PLANETA Tsuji,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-181,181,Darumacho de N,140,Feu,Darumarond de N,Niveau 1,Sans Rareté,Takeshi Nakamura,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-182,182,Fulgulairo de Mashynn,120,Électrique,Zapétrel de Mashynn,Niveau 1,Sans Rareté,DOM,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-183,183,Rubombelle de Lilie,70,Psy,Bombydou de Lilie,Niveau 1,Sans Rareté,tono,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-184,184,Ronflex de Nabil,150,Incolore,,De base,Sans Rareté,OKACHEKE,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-185,185,Yanma,60,Plante,,De base,Sans Rareté,Dsuke,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-186,186,Baggiguane,60,Obscurité,,De base,Sans Rareté,OKUBO,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-187,187,Yanmega,130,Plante,Yanma,Niveau 1,Sans Rareté,Dsuke,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-188,188,Baggaïd,120,Obscurité,Baggiguane,Niveau 1,Sans Rareté,OKUBO,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-189,189,Zorua de N,70,Obscurité,,De base,Sans Rareté,Megumi Mizutani,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-193,193,Zacian-ex de Nabil,230,Métal,,De base,Sans Rareté,PLANETA Mochizuki,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-194,194,Ampibidou-ex de Mashynn,280,Électrique,Têtampoule de Mashynn,Niveau 1,Sans Rareté,,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-195,195,Mélofée-ex de Lilie,190,Psy,,De base,Sans Rareté,,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-197,197,Koraidon-ex,230,Combat,,De base,Sans Rareté,,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-198,198,Zacian-ex,220,Métal,,De base,Sans Rareté,,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-206,206,Morpeko de Rosemary,70,Obscurité,,De base,Sans Rareté,,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192
+svp-207,207,Terhal de Pierre,70,Métal,,De base,Sans Rareté,,"normal, reverse, holo",SVP Black Star Promos,Écarlate et Violet,192

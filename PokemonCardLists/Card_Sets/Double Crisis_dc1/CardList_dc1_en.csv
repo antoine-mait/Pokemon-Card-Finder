@@ -1,0 +1,35 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+dc1-1,1,Team Magma's Numel,70,Fire,,Basic,Common,Akira Komayama,"normal, reverse, holo",Double Crisis,XY,34
+dc1-2,2,Team Magma's Camerupt,110,Fire,Team Magma's Numel,Stage1,Rare,Shin Nagasawa,"normal, reverse, holo",Double Crisis,XY,34
+dc1-3,3,Team Aqua's Spheal,60,Water,,Basic,Common,Sanosuke Sakuma,"normal, reverse, holo",Double Crisis,XY,34
+dc1-4,4,Team Aqua's Sealeo,90,Water,Team Aqua's Spheal,Stage1,Common,Naoki Saito,"normal, reverse, holo",Double Crisis,XY,34
+dc1-5,5,Team Aqua's Walrein,140,Water,Team Aqua's Sealeo,Stage2,Rare,Hitoshi Ariga,"normal, reverse, holo",Double Crisis,XY,34
+dc1-6,6,Team Aqua's Kyogre EX,190,Water,,,Ultra Rare,nagimiso,"normal, reverse, holo",Double Crisis,XY,34
+dc1-7,7,Team Aqua's Grimer,70,Psychic,,Basic,Common,kawayoo,"normal, reverse, holo",Double Crisis,XY,34
+dc1-8,8,Team Aqua's Muk,110,Psychic,Team Aqua's Grimer,Stage1,Rare,Kouki Saitou,"normal, reverse, holo",Double Crisis,XY,34
+dc1-9,9,Team Aqua's Seviper,90,Psychic,,Basic,Common,Naoki Saito,"normal, reverse, holo",Double Crisis,XY,34
+dc1-10,10,Team Magma's Baltoy,50,Psychic,,Basic,Common,Mitsuhiro Arita,"normal, reverse, holo",Double Crisis,XY,34
+dc1-11,11,Team Magma's Claydol,90,Psychic,Team Magma's Baltoy,Stage1,Rare,Masakazu Fukuda,"normal, reverse, holo",Double Crisis,XY,34
+dc1-12,12,Team Magma's Aron,60,Fighting,,Basic,Common,Akira Komayama,"normal, reverse, holo",Double Crisis,XY,34
+dc1-13,13,Team Magma's Lairon,90,Fighting,Team Magma's Aron,Stage1,Common,Masakazu Fukuda,"normal, reverse, holo",Double Crisis,XY,34
+dc1-14,14,Team Magma's Aggron,140,Fighting,Team Magma's Lairon,Stage2,Rare,TOKIYA,"normal, reverse, holo",Double Crisis,XY,34
+dc1-15,15,Team Magma's Groudon EX,190,Fighting,,,Ultra Rare,nagimiso,"normal, reverse, holo",Double Crisis,XY,34
+dc1-16,16,Team Aqua's Poochyena,60,Darkness,,Basic,Common,Kouki Saitou,"normal, reverse, holo",Double Crisis,XY,34
+dc1-17,17,Team Magma's Poochyena,60,Darkness,,Basic,Common,TOKIYA,"normal, reverse, holo",Double Crisis,XY,34
+dc1-18,18,Team Aqua's Mightyena,100,Darkness,Team Aqua's Poochyena,Stage1,Common,Mitsuhiro Arita,"normal, reverse, holo",Double Crisis,XY,34
+dc1-19,19,Team Magma's Mightyena,100,Darkness,Team Magma's Poochyena,Stage1,Common,Hitoshi Ariga,"normal, reverse, holo",Double Crisis,XY,34
+dc1-20,20,Team Aqua's Carvanha,50,Darkness,,Basic,Common,Sanosuke Sakuma,"normal, reverse, holo",Double Crisis,XY,34
+dc1-21,21,Team Aqua's Sharpedo,90,Darkness,Team Aqua's Carvanha,Stage1,Rare,kawayoo,"normal, reverse, holo",Double Crisis,XY,34
+dc1-22,22,Team Magma's Zangoose,90,Colorless,,Basic,Common,Shin Nagasawa,"normal, reverse, holo",Double Crisis,XY,34
+dc1-23,23,Aqua Diffuser,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",Double Crisis,XY,34
+dc1-24,24,Magma Pointer,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",Double Crisis,XY,34
+dc1-25,25,Team Aqua Admin,,,,,Uncommon,GAME FREAK inc.,"normal, reverse, holo",Double Crisis,XY,34
+dc1-26,26,Team Aqua Grunt,,,,,Uncommon,GAME FREAK inc.,"normal, reverse, holo",Double Crisis,XY,34
+dc1-27,27,Team Aqua's Great Ball,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",Double Crisis,XY,34
+dc1-28,28,Team Aqua's Secret Base,,,,,Uncommon,Ryo Ueda,"normal, reverse, holo",Double Crisis,XY,34
+dc1-29,29,Team Magma Admin,,,,,Uncommon,GAME FREAK inc.,"normal, reverse, holo",Double Crisis,XY,34
+dc1-30,30,Team Magma Grunt,,,,,Uncommon,GAME FREAK inc.,"normal, reverse, holo",Double Crisis,XY,34
+dc1-31,31,Team Magma's Great Ball,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",Double Crisis,XY,34
+dc1-32,32,Team Magma's Secret Base,,,,,Uncommon,Ryo Ueda,"normal, reverse, holo",Double Crisis,XY,34
+dc1-33,33,Double Aqua Energy,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Double Crisis,XY,34
+dc1-34,34,Double Magma Energy,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Double Crisis,XY,34

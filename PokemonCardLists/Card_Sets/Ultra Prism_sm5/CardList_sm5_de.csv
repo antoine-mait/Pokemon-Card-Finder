@@ -1,0 +1,174 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sm5-1,1,Owei,50,Pflanze,,Basis,Häufig,kawayoo,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-2,2,Yanma,70,Pflanze,,Basis,Häufig,Akira Komayama,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-3,3,Yanmega,120,Pflanze,,Rang 1,Ungewöhnlich,SATOSHI NAKAI,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-4,4,Roselia,70,Pflanze,,Basis,Häufig,Kyoko Umemoto,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-5,5,Roserade,100,Pflanze,,Rang 1,Selten,Mitsuhiro Arita,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-6,6,Chelast,70,Pflanze,,Basis,Häufig,Ken Sugimori,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-7,7,Chelast,80,Pflanze,,Basis,Häufig,OOYAMA,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-8,8,Chelcarain,110,Pflanze,,Rang 1,Ungewöhnlich,Shigenori Negishi,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-9,9,Chelterrar,180,Pflanze,,Rang 2,Selten,kawayoo,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-10,10,Kikugi,50,Pflanze,,Basis,Häufig,Asako Ito,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-11,11,Kinoso,80,Pflanze,,Rang 1,Ungewöhnlich,MAHOU,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-12,12,Venuflibis,90,Pflanze,,Basis,Häufig,Anesaki Dynamic,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-13,13,Folipurba GX,200,Pflanze,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-14,14,Schneid-Rotom,90,Pflanze,,Basis,Selten,kawayoo,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-15,15,Shaymin,80,Pflanze,,Basis,Selten,Mizue,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-16,16,Araqua,60,Pflanze,,Basis,Häufig,Midori Harada,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-17,17,Aranestro,100,Pflanze,,Rang 1,Selten,Shin Nagasawa,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-18,18,Magmar,80,Feuer,,Basis,Häufig,Yumi,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-19,19,Magbrant,130,Feuer,,Rang 1,Selten,nagimiso,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-20,20,Panflam,40,Feuer,,Basis,Häufig,Ken Sugimori,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-21,21,Panflam,60,Feuer,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-22,22,Panpyro,80,Feuer,,Rang 1,Ungewöhnlich,Shigenori Negishi,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-23,23,Panferno,130,Feuer,,Rang 2,Selten,nagimiso,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-24,24,Hitze-Rotom,90,Feuer,,Basis,Selten,Shin Nagasawa,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-25,25,Molunk,70,Feuer,,Basis,Häufig,Misa Tsutsui,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-26,26,Amfira,110,Feuer,,Rang 1,Selten,Kagemaru Himeno,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-27,27,Tortunator,130,Feuer,,Basis,Ungewöhnlich,Anesaki Dynamic,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-28,28,Alola-Sandan,60,Wasser,,Basis,Häufig,Shin Nagasawa,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-29,29,Alola-Sandamer,120,Wasser,,Rang 1,Selten,Anesaki Dynamic,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-30,30,Alola Vulpix,60,Wasser,,Basis,Häufig,Tomokazu Komiya,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-31,31,Plinfa,60,Wasser,,Basis,Häufig,Ken Sugimori,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-32,32,Plinfa,70,Wasser,,Basis,Häufig,Shibuzoh.,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-33,33,Pliprin,90,Wasser,,Rang 1,Ungewöhnlich,Mizue,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-34,34,Impoleon,160,Wasser,,Rang 2,Selten,nagimiso,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-35,35,Bamelin,70,Wasser,,Basis,Häufig,so-taro,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-36,36,Bojelin,100,Wasser,,Rang 1,Ungewöhnlich,Naoyo Kimura,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-37,37,Shnebedeck,80,Wasser,,Basis,Häufig,match,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-38,38,Rexblisar,130,Wasser,,Rang 1,Selten,Masakazu Fukuda,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-39,39,Glaziola GX,200,Wasser,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-40,40,Wasch-Rotom,90,Wasser,,Basis,Selten,Shigenori Negishi,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-41,41,Frost-Rotom,90,Wasser,,Basis,Selten,MAHOU,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-42,42,Manaphy,70,Wasser,,Basis,Ungewöhnlich,kawayoo,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-43,43,Elektek,80,Elektro,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-44,44,Elevoltek,140,Elektro,,Rang 1,Selten,Anesaki Dynamic,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-45,45,Sheinux,50,Elektro,,Basis,Häufig,Shibuzoh.,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-46,46,Sheinux,60,Elektro,,Basis,Häufig,Ken Sugimori,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-47,47,Luxio,80,Elektro,,Rang 1,Ungewöhnlich,tetsuya koizumi,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-48,48,Luxtra,150,Elektro,,Rang 2,Selten,Akira Komayama,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-49,49,Pachirisu,70,Elektro,,Basis,Häufig,OOYAMA,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-50,50,Rotom,70,Elektro,,Basis,Ungewöhnlich,Naoyo Kimura,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-51,51,Driftlon,60,Psycho,,Basis,Häufig,Asako Ito,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-52,52,Drifzepeli,110,Psycho,,Rang 1,Ungewöhnlich,Yumi,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-53,53,Kryppuk,70,Psycho,,Basis,Ungewöhnlich,Shin Nagasawa,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-54,54,Pionskora,80,Psycho,,Basis,Häufig,Misa Tsutsui,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-55,55,Piondragi,130,Psycho,,Rang 1,Selten,Studio Bora Inc.,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-56,56,Glibunkel,60,Psycho,,Basis,Häufig,SATOSHI NAKAI,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-57,57,Toxiquak,100,Psycho,,Rang 1,Selten,Hasuno,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-58,58,Giratina ◇,160,Psycho,,Basis,Selten,Masakazu Fukuda,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-59,59,Cresselia,120,Psycho,,Basis,Selten,chibi,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-60,60,Cosmog,60,Psycho,,Basis,Häufig,Shin Nagasawa,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-61,61,Cosmovum,90,Psycho,,Rang 1,Ungewöhnlich,Sanosuke Sakuma,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-62,62,Lunala ◇,160,Psycho,,Basis,Selten,Hitoshi Ariga,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-63,63,Morgenschwingen-Necrozma GX,180,Psycho,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-64,64,Koknodon,90,Kampf,,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-65,65,Rameidon,150,Kampf,,Rang 2,Selten,Yoshinobu Saito,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-66,66,Riolu,70,Kampf,,Basis,Häufig,Kyoko Umemoto,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-67,67,Lucario,110,Kampf,,Rang 1,Selten,Mitsuhiro Arita,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-68,68,Hippopotas,90,Kampf,,Basis,Häufig,Yumi,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-69,69,Hippoterus,140,Kampf,,Rang 1,Selten,Shigenori Negishi,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-70,70,Quartermak,110,Kampf,,Basis,Häufig,kawayoo,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-71,71,Kramurx,70,Unlicht,,Basis,Häufig,match,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-72,72,Kramshef,110,Unlicht,,Rang 1,Ungewöhnlich,Hitoshi Ariga,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-73,73,Sniebel,70,Unlicht,,Basis,Häufig,Masakazu Fukuda,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-74,74,Snibunna,90,Unlicht,,Rang 1,Selten,Misa Tsutsui,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-75,75,Skunkapuh,70,Unlicht,,Basis,Häufig,Naoyo Kimura,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-76,76,Skuntank,120,Unlicht,,Rang 1,Ungewöhnlich,Studio Bora Inc.,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-77,77,Darkrai ◇,160,Unlicht,,Basis,Selten,Naoki Saito,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-78,78,Alola-Digda,50,Metall,,Basis,Häufig,Naoyo Kimura,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-79,79,Alola-Digdri,60,Metall,,Rang 1,Ungewöhnlich,Megumi Mizutani,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-80,80,Magnetilo,60,Metall,,Basis,Häufig,MAHOU,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-81,81,Magnetilo,60,Metall,,Basis,Häufig,Ken Sugimori,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-82,82,Magneton,90,Metall,,Rang 1,Ungewöhnlich,kirisAki,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-83,83,Magnezone,150,Metall,,Rang 2,Selten,Yoshinobu Saito,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-84,84,Schilterus,100,Metall,,Rang 1,Ungewöhnlich,so-taro,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-85,85,Bollterus,160,Metall,,Rang 2,Selten,Hasuno,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-86,86,Bronzel,60,Metall,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-87,87,Bronzong,110,Metall,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-88,88,Heatran,130,Metall,,Basis,Selten,tetsuya koizumi,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-89,89,Solgaleo ◇,160,Metall,,Basis,Selten,Shin Nagasawa,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-90,90,Abendmähne-Necrozma GX,190,Metall,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-91,91,Magearna,90,Metall,,Basis,Selten,kawayoo,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-92,92,Bubungus,60,Fee,,Basis,Häufig,Midori Harada,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-93,93,Lamellux,100,Fee,,Rang 1,Selten,kawayoo,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-94,94,Kapu-Fala,110,Fee,,Basis,Selten,Shin Nagasawa,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-95,95,Alola-Kokowei,130,Drache,,Rang 1,Selten,Hasuno,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-96,96,Kaumalat,50,Drache,,Basis,Häufig,Kyoko Umemoto,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-97,97,Kaumalat,60,Drache,,Basis,Häufig,Ken Sugimori,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-98,98,Knarksel,80,Drache,,Rang 1,Ungewöhnlich,Sumiyoshi Kizuki,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-99,99,Knakrack,150,Drache,,Rang 2,Selten,Megumi Mizutani,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-100,100,Dialga GX,180,Drache,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-101,101,Palkia GX,180,Drache,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-102,102,Schlurp,100,Farblos,,Basis,Häufig,Mizue,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-103,103,Schlurplek,130,Farblos,,Rang 1,Selten,Yumi,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-104,104,Evoli,60,Farblos,,Basis,Häufig,Atsuko Nishida,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-105,105,Evoli,60,Farblos,,Basis,Häufig,Hideki Ishikawa,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-106,106,Haspiror,60,Farblos,,Basis,Häufig,Kagemaru Himeno,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-107,107,Schlapor,90,Farblos,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-108,108,Charmian,60,Farblos,,Basis,Häufig,Shibuzoh.,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-109,109,Shnurgarst,110,Farblos,,Rang 1,Ungewöhnlich,Shibuzoh.,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-110,110,Wirbel-Rotom,70,Farblos,,Basis,Selten,Masakazu Fukuda,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-111,111,Shaymin,70,Farblos,,Basis,Selten,kirisAki,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-112,112,Mangunior,70,Farblos,,Basis,Häufig,Misa Tsutsui,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-113,113,Manguspektor,110,Farblos,,Rang 1,Ungewöhnlich,nagimiso,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-114,114,Kommandutan,120,Farblos,,Basis,Ungewöhnlich,Kouki Saitou,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-115,115,Typ:Null,110,Farblos,,Basis,Selten,match,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-116,116,Amigento GX,210,Farblos,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-117,117,Sen-Long,130,Farblos,,Basis,Selten,Hasuno,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-118,118,Ewiger Kristall,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-119,119,Cynthia,,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-120,120,Zyrus ◇,,,,,Selten,Masakazu Fukuda,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-121,121,Elektro-Disc,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-122,122,Fluchtboard,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-123,123,Feuer-Disc,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-124,124,Silvana,,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-125,125,Lilly,,,,,Ungewöhnlich,Sanosuke Sakuma,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-126,126,LeBelle,,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-127,127,LeBelle-Pfeife,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-128,128,Mars,,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-129,129,Fehlendes Kleeblatt,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-130,130,Kraterberg,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-131,131,Bestellpad,,,,,Ungewöhnlich,Eske Yoshinob,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-132,132,Adressbuch,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-133,133,Pokémon Fan Club,,,,,Ungewöhnlich,Sanosuke Sakuma,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-134,134,Unbekanntes Fossil,60,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-135,135,Volkner,,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-136,136,Super-Antriebs-Energie ◇,,,,,Selten,,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-137,137,Aggregat-Energie GrassFireWater,,,,,Ungewöhnlich,,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-138,138,Aggregat-Energie LightningPsychicMetal,,,,,Ungewöhnlich,,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-139,139,Folipurba GX,200,Pflanze,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-140,140,Schabelle GX,170,Pflanze,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-141,141,Glaziola GX,200,Wasser,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-142,142,Voltriant GX,180,Elektro,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-143,143,Morgenschwingen-Necrozma GX,180,Psycho,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-144,144,Kaguron GX,200,Metall,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-145,145,Abendmähne-Necrozma GX,190,Metall,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-146,146,Dialga GX,180,Drache,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-147,147,Palkia GX,180,Drache,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-148,148,Cynthia,,,,,Ultra Selten,nagimiso,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-149,149,Silvana,,,,,Ultra Selten,You Iribi,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-150,150,Tracy,,,,,Ultra Selten,Kanako Eo,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-151,151,Lilly,,,,,Ultra Selten,Naoki Saito,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-152,152,LeBelle,,,,,Ultra Selten,Hitoshi Ariga,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-153,153,Samantha,,,,,Ultra Selten,You Iribi,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-154,154,Mars,,,,,Ultra Selten,kodama,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-155,155,Pokémon Fan Club,,,,,Ultra Selten,Sanosuke Sakuma,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-156,156,Volkner,,,,,Ultra Selten,TOKIYA,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-157,157,Folipurba GX,200,Pflanze,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-158,158,Schabelle GX,170,Pflanze,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-159,159,Glaziola GX,200,Wasser,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-160,160,Voltriant GX,180,Elektro,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-161,161,Morgenschwingen-Necrozma GX,180,Psycho,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-162,162,Kaguron GX,200,Metall,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-163,163,Abendmähne-Necrozma GX,190,Metall,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-164,164,Dialga GX,180,Drache,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-165,165,Palkia GX,180,Drache,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-166,166,Schmetterhammer,,,,,Versteckt Selten,Yoshinobu Saito,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-167,167,Fluchtboard,,,,,Versteckt Selten,Toyste Beach,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-168,168,Fehlendes Kleeblatt,,,,,Versteckt Selten,Toyste Beach,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-169,169,Rote Späher-Karte,,,,,Versteckt Selten,Toyste Beach,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-170,170,Aggregat-Energie GrassFireWater,,,,,Versteckt Selten,,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-171,171,Aggregat-Energie LightningPsychicMetal,,,,,Versteckt Selten,,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-172,172,Lunala GX,250,Psycho,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173
+sm5-173,173,Solgaleo GX,250,Metall,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Ultra-Prisma,Sonne & Mond,173

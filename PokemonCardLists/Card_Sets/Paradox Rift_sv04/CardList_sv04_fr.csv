@@ -1,0 +1,267 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sv04-001,001,Arakdo,50,Plante,,De base,Commune,Yoriyuki Ikegami,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-002,002,Maskadra,100,Plante,Arakdo,Niveau 1,Peu Commune,kantaro,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-003,003,Momartik-ex,250,Plante,Stalgamin,Niveau 1,Double rare,5ban Graphics,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-004,004,Feuillajou,70,Plante,,De base,Commune,Jerky,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-005,005,Feuiloutan,100,Plante,Feuillajou,Niveau 1,Peu Commune,Kurata So,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-006,006,Crabicoque,60,Plante,,De base,Commune,Scav,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-007,007,Crabaraque,130,Plante,Crabicoque,Niveau 1,Commune,Shin Nagasawa,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-008,008,Croquine,60,Plante,,De base,Commune,Kouki Saitou,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-009,009,Candine,90,Plante,Croquine,Niveau 1,Peu Commune,Kariya,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-010,010,Larvadar,50,Plante,,De base,Commune,OKUBO,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-011,011,Coléodôme,80,Plante,Larvadar,Niveau 1,Commune,Haru Akasaka,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-012,012,Astronelle,130,Plante,Coléodôme,Niveau 2,Peu Commune,Oku,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-013,013,Lilliterelle,40,Plante,,De base,Commune,Pani Kobayashi,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-014,014,Lilliterelle,50,Plante,,De base,Commune,Kouki Saitou,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-015,015,Terracool,50,Plante,,De base,Commune,Tomokazu Komiya,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-016,016,Terracool,60,Plante,,De base,Commune,Souichirou Gunjima,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-017,017,Terracruel,120,Plante,Terracool,Niveau 1,Peu Commune,Toshinao Aoki,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-018,018,Chongjian,130,Plante,,De base,Rare,Kouki Saitou,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-019,019,Magby,30,Feu,,De base,Commune,Naoyo Kimura,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-020,020,Flamajou,70,Feu,,De base,Commune,LINNE,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-021,021,Flamoutan,100,Feu,Flamajou,Niveau 1,Peu Commune,Yuya Oka,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-022,022,Volcanion,130,Feu,,De base,Rare,Nisota Niso,"reverse, holo",Faille Paradoxe,Écarlate et Violet,266
+sv04-023,023,Chochodile,80,Feu,,De base,Commune,Gemi,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-024,024,Crocogril,100,Feu,Chochodile,Niveau 1,Peu Commune,Pani Kobayashi,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-025,025,Charbambin,60,Feu,,De base,Commune,kantaro,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-026,026,Charbambin,80,Feu,,De base,Commune,Mizue,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-027,027,Carmadura-ex,260,Feu,Charbambin,Niveau 1,Double rare,takuyoa,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-028,028,Mite-de-Fer,130,Feu,,De base,Rare,Kouki Saitou,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-029,029,Yuyu,110,Feu,,De base,Rare,Oswaldo KATO,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-030,030,Hypotrempe,60,Eau,,De base,Commune,HYOGONOSUKE,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-031,031,Hypocéan,90,Eau,Hypotrempe,Niveau 1,Commune,otumami,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-032,032,Hyporoi,150,Eau,Hypocéan,Niveau 2,Rare,Tonji Matsuno,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-033,033,Rémoraid,70,Eau,,De base,Commune,Midori Harada,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-034,034,Octillery,110,Eau,Rémoraid,Niveau 1,Commune,Yuka Morii,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-035,035,Barpau,30,Eau,,De base,Commune,Tetsu Kayama,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-036,036,Milobellus,120,Eau,Barpau,Niveau 1,Rare,Atsuya Uki,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-037,037,Stalgamin,60,Eau,,De base,Commune,satoma,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-038,038,Carchacrok-ex,320,Eau,Carmache,Niveau 2,Double rare,5ban Graphics,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-039,039,Babimanta,30,Eau,,De base,Commune,miki kudo,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-040,040,Palkia,130,Eau,,De base,Rare,Ryuta Fuse,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-041,041,Flotajou,70,Eau,,De base,Commune,Natsumi Yoshida,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-042,042,Flotoutan,100,Eau,Flotajou,Niveau 1,Peu Commune,nagimiso,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-043,043,Sorbébé,60,Eau,,De base,Commune,miki kudo,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-044,044,Sorboul,90,Eau,Sorbébé,Niveau 1,Commune,Lee HyunJung,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-045,045,Sorbouboul,150,Eau,Sorboul,Niveau 2,Peu Commune,Nelnal,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-046,046,Sucreine-ex,310,Eau,Candine,Niveau 2,Double rare,5ban Graphics,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-047,047,Sovkipou,70,Eau,,De base,Commune,Shigenori Negishi,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-048,048,Sovkipou,70,Eau,,De base,Commune,sowsow,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-049,049,Sarmuraï,140,Eau,Sovkipou,Niveau 1,Rare,nagimiso,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-050,050,Sarmuraï-ex,270,Eau,Sovkipou,Niveau 1,Double rare,N-DESIGN Inc.,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-051,051,Taupikeau,50,Eau,,De base,Commune,Shibuzoh.,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-052,052,Taupikeau,60,Eau,,De base,Commune,Tomokazu Komiya,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-053,053,Triopikeau,90,Eau,Taupikeau,Niveau 1,Peu Commune,Kouki Saitou,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-054,054,Délestin,120,Eau,,De base,Peu Commune,Oswaldo KATO,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-055,055,Oyacata,160,Eau,,De base,Peu Commune,Kouki Saitou,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-056,056,Hotte-de-Fer,100,Eau,,De base,Peu Commune,Oswaldo KATO,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-057,057,Baojian,120,Eau,,De base,Rare,Anesaki Dynamic,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-058,058,Mewtwo-ex,230,Électrique,,De base,Double rare,aky CG Works,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-059,059,Élekid,30,Électrique,,De base,Commune,aoki,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-060,060,Posipi,70,Électrique,,De base,Commune,Sekio,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-061,061,Négapi,70,Électrique,,De base,Commune,Narumi Sato,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-062,062,Zébibron,60,Électrique,,De base,Commune,Shinji Kanda,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-063,063,Zéblitz,120,Électrique,Zébibron,Niveau 1,Peu Commune,GOSSAN,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-064,064,Statitik,40,Électrique,,De base,Commune,Kedamahadaitai Yawarakai,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-065,065,Mygavolt,100,Électrique,Statitik,Niveau 1,Commune,Taira Akitsu,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-066,066,Zekrom,130,Électrique,,De base,Rare,Shiburingaru,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-067,067,Plumeline,90,Électrique,,De base,Commune,Saya Tsuruta,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-068,068,Tokorico-ex,210,Électrique,,De base,Double rare,hncl,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-069,069,Toxizap,70,Électrique,,De base,Commune,Yuka Morii,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-070,070,Paume-de-Fer-ex,230,Électrique,,De base,Double rare,PLANETA Mochizuki,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-071,071,Natu,50,Psy,,De base,Commune,ryoma uratsuka,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-072,072,Xatu,100,Psy,Natu,Niveau 1,Rare,Tetsu Kayama,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-073,073,Latios,110,Psy,,De base,Rare,chibi,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-074,074,Deoxys,120,Psy,,De base,Rare,Saya Tsuruta,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-075,075,Tutafeh,70,Psy,,De base,Commune,Misa Tsutsui,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-076,076,Tutankafer-ex,260,Psy,Tutafeh,Niveau 1,Double rare,kawayoo,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-077,077,Pitrouille,60,Psy,,De base,Commune,saino misaki,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-078,078,Banshitrouye,110,Psy,Pitrouille,Niveau 1,Peu Commune,nisimono,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-079,079,Flotillon,40,Psy,,De base,Commune,Mizue,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-080,080,Flotillon,50,Psy,,De base,Commune,kodama,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-081,081,Cléopsytra,120,Psy,Flotillon,Niveau 1,Rare,Teeziro,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-082,082,Forgerette,60,Psy,,De base,Commune,Teeziro,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-083,083,Forgerette,70,Psy,,De base,Commune,Oswaldo KATO,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-084,084,Forgella,80,Psy,Forgerette,Niveau 1,Commune,Souichirou Gunjima,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-085,085,Forgelina,130,Psy,Forgella,Niveau 2,Peu Commune,KEIICHIRO ITO,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-086,086,Hurle-Queue,90,Psy,,De base,Peu Commune,Ryota Murayama,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-087,087,Mordudor,50,Psy,,De base,Commune,Mizue,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-088,088,Mordudor,70,Psy,,De base,Commune,Kouki Saitou,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-089,089,Garde-de-Fer-ex,220,Psy,,De base,Double rare,aky CG Works,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-090,090,Onix,120,Combat,,De base,Commune,Shiburingaru,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-091,091,Scorplane,70,Combat,,De base,Commune,HYOGONOSUKE,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-092,092,Scorvol,120,Combat,Scorplane,Niveau 1,Peu Commune,GOSSAN,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-093,093,Groudon,130,Combat,,De base,Rare,Uta,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-094,094,Griknot,70,Combat,,De base,Commune,saino misaki,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-095,095,Carmache,100,Combat,Griknot,Niveau 1,Commune,Nisota Niso,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-096,096,Kungfouine,60,Combat,,De base,Commune,Natsumi Yoshida,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-097,097,Shaofouine,100,Combat,Kungfouine,Niveau 1,Peu Commune,Mousho,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-098,098,Hoopa-ex,220,Combat,,De base,Double rare,5ban Graphics,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-099,099,Météno,70,Combat,,De base,Peu Commune,OKUBO,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-100,100,Salarsen-ex,260,Combat,Toxizap,Niveau 1,Double rare,5ban Graphics,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-101,101,Selutin,60,Combat,,De base,Commune,Mizue,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-102,102,Selutin,70,Combat,,De base,Commune,Pani Kobayashi,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-103,103,Amassel,100,Combat,Selutin,Niveau 1,Commune,KEIICHIRO ITO,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-104,104,Gigansel,160,Combat,Amassel,Niveau 2,Rare,Souichirou Gunjima,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-105,105,Craparoi,120,Combat,,De base,Peu Commune,Yuya Oka,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-106,106,Flamenroule,110,Combat,,De base,Commune,Anesaki Dynamic,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-107,107,Rampe-Ailes,140,Combat,,De base,Peu Commune,Anesaki Dynamic,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-108,108,Pelage-Sablé-ex,220,Combat,,De base,Double rare,PLANETA Mochizuki,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-109,109,Dinglu,140,Combat,,De base,Rare,AKIRA EGAWA,"reverse, holo",Faille Paradoxe,Écarlate et Violet,266
+sv04-110,110,Nosferapti,50,Obscurité,,De base,Commune,Sumiyoshi Kizuki,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-111,111,Nosferalto,80,Obscurité,Nosferapti,Niveau 1,Commune,Eri Yamaki,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-112,112,Nostenfer,130,Obscurité,Nosferalto,Niveau 2,Peu Commune,Uta,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-113,113,Absol,100,Obscurité,,De base,Peu Commune,Shinji Kanda,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-114,114,Chacripan,60,Obscurité,,De base,Commune,0313,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-115,115,Léopardus,100,Obscurité,Chacripan,Niveau 1,Commune,Yoshioka,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-116,116,Miamiasme,70,Obscurité,,De base,Commune,Miki Tanaka,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-117,117,Miasmax,120,Obscurité,Miamiasme,Niveau 1,Peu Commune,Aya Kusube,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-118,118,Yveltal,130,Obscurité,,De base,Rare,kawayoo,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-119,119,Goupilou,70,Obscurité,,De base,Commune,Yuu Nishida,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-120,120,Roublenard,110,Obscurité,Goupilou,Niveau 1,Rare,SIE NANAHARA,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-121,121,Morpeko,70,Obscurité,,De base,Rare,Cona Nitanda,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-122,122,Gambex,120,Obscurité,Lilliterelle,Niveau 1,Rare,Souichirou Gunjima,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-123,123,Fongus-Furie,120,Obscurité,,De base,Rare,Anesaki Dynamic,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-124,124,Rugit-Lune-ex,230,Obscurité,,De base,Double rare,takuyoa,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-125,125,Steelix,180,Métal,Onix,Niveau 1,Rare,Po-Suzuki,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-126,126,Jirachi,70,Métal,,De base,Commune,Naoyo Kimura,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-127,127,Grindur,70,Métal,,De base,Commune,Miki Tanaka,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-128,128,Noacier,140,Métal,Grindur,Niveau 1,Peu Commune,SATOSHI NAKAI,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-129,129,Fermite,70,Métal,,De base,Peu Commune,Kyoko Umemoto,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-130,130,Monorpale,60,Métal,,De base,Commune,aoki,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-131,131,Monorpale,60,Métal,,De base,Commune,Nagomi Nijo,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-132,132,Dimoclès,90,Métal,Monorpale,Niveau 1,Commune,Bun Toujo,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-133,133,Dimoclès,90,Métal,Monorpale,Niveau 1,Commune,Shigenori Negishi,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-134,134,Exagide,150,Métal,Dimoclès,Niveau 2,Rare,Jiro Sasumo,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-135,135,Exagide-ex,330,Métal,Dimoclès,Niveau 2,Double rare,toriyufu,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-136,136,Zacian,120,Métal,,De base,Rare,Tonji Matsuno,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-137,137,Flâmigator-ex,330,Métal,Crocogril,Niveau 2,Double rare,5ban Graphics,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-138,138,Ferdeter,140,Métal,,De base,Peu Commune,Pani Kobayashi,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-139,139,Gromago-ex,260,Métal,Mordudor,Niveau 1,Double rare,takuyoa,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-140,140,Altaria-ex,260,Dragon,Tylton,Niveau 1,Double rare,Saki Hayashiro,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-141,141,Nigirigon,70,Dragon,,De base,Peu Commune,Shibuzoh.,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-142,142,Porygon,60,Incolore,,De base,Commune,Taiga Kayama,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-143,143,Porygon2,90,Incolore,Porygon,Niveau 1,Commune,kurumitsu,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-144,144,Porygon-Z,150,Incolore,Porygon2,Niveau 2,Rare,hatachu,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-145,145,Capumain,60,Incolore,,De base,Commune,aspara,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-146,146,Capidextre,100,Incolore,Capumain,Niveau 1,Peu Commune,Hitoshi Ariga,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-147,147,Écrémeuh,120,Incolore,,De base,Commune,sowsow,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-148,148,Chuchmur,70,Incolore,,De base,Commune,sui,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-149,149,Ramboum,100,Incolore,Chuchmur,Niveau 1,Commune,Yukiko Baba,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-150,150,Brouhabam,160,Incolore,Ramboum,Niveau 2,Peu Commune,LINNE,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-151,151,Spinda,80,Incolore,,De base,Commune,Masakazu Fukuda,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-152,152,Tylton,50,Incolore,,De base,Commune,HYOGONOSUKE,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-153,153,Compagnol,30,Incolore,,De base,Commune,Shibuzoh.,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-154,154,Compagnol,40,Incolore,,De base,Commune,Akira Komayama,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-155,155,Famignol-ex,230,Incolore,Compagnol,Niveau 1,Double rare,5ban Graphics,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-156,156,Lestombaile-ex,200,Incolore,,De base,Double rare,PLANETA Mochizuki,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-157,157,Motorizard,120,Incolore,,De base,Peu Commune,kawayoo,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-158,158,Têtes-de-Fer,130,Incolore,,De base,Rare,Souichirou Gunjima,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-159,159,Capsule Énergie Booster Temps Passé,,,,,Peu Commune,5ban Graphics,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-160,160,Attrape-Riposte,,,,,Peu Commune,Toyste Beach,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-161,161,Plumeau Maudit,,,,,Peu Commune,AYUMI ODASHIMA,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-162,162,Veste de Défi,,,,,Peu Commune,Ayaka Yoshida,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-163,163,Urne Terrestre,,,,,Peu Commune,AYUMI ODASHIMA,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-164,164,Capsule Énergie Booster Temps Futur,,,,,Peu Commune,5ban Graphics,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-165,165,Okuba,,,,,Commune,Akira Komayama,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-166,166,Cape Luxueuse,,,,,Peu Commune,Toyste Beach,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-167,167,Meloco,,,,,Peu Commune,kirisAki,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-168,168,Norman,,,,,Peu Commune,Hideki Ishikawa,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-169,169,Sœur Parasol,,,,,Commune,Cona Nitanda,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-170,170,Vitalité de la Professeure Olim,,,,,Peu Commune,Megumi Mizutani,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-171,171,Plan du Professeur Turum,,,,,Peu Commune,hncl,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-172,172,Cayenn,,,,,Peu Commune,GIDORA,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-173,173,Pierrick,,,,,Peu Commune,Ryuta Fuse,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-174,174,Anis,,,,,Peu Commune,yuu,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-175,175,Poupée Ronflex,120,,,,Peu Commune,AYUMI ODASHIMA,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-176,176,Capsule Technique : Angle Mort,,,,,Peu Commune,Studio Bora Inc.,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-177,177,Capsule Technique : Dés-Évolution,,,,,Peu Commune,Studio Bora Inc.,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-178,178,Capsule Technique : Évolution,,,,,Peu Commune,Studio Bora Inc.,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-179,179,Capsule Technique : Énergisant Spontané,,,,,Peu Commune,Studio Bora Inc.,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-180,180,Techno-Radar,,,,,Peu Commune,inose yukie,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-181,181,Tully,,,,,Peu Commune,Naoki Saito,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-182,182,Énergie Médicale,,,,,Peu Commune,,"normal, reverse",Faille Paradoxe,Écarlate et Violet,266
+sv04-183,183,Crabaraque,130,Plante,Crabicoque,Niveau 1,Illustration rare,OKUBO,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-184,184,Coléodôme,80,Plante,Larvadar,Niveau 1,Illustration rare,Tetsu Kayama,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-185,185,Terracruel,120,Plante,Terracool,Niveau 1,Illustration rare,KEIICHIRO ITO,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-186,186,Magby,30,Feu,,De base,Illustration rare,Mina Nakai,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-187,187,Mite-de-Fer,130,Feu,,De base,Illustration rare,Takeshi Nakamura,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-188,188,Stalgamin,60,Eau,,De base,Illustration rare,Narumi Sato,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-189,189,Babimanta,30,Eau,,De base,Illustration rare,rika,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-190,190,Sorboul,90,Eau,Sorbébé,Niveau 1,Illustration rare,Taiga Kayama,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-191,191,Sovkipou,70,Eau,,De base,Illustration rare,Oku,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-192,192,Délestin,120,Eau,,De base,Illustration rare,Shibuzoh.,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-193,193,Posipi,70,Électrique,,De base,Illustration rare,OKACHEKE,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-194,194,Négapi,70,Électrique,,De base,Illustration rare,OKACHEKE,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-195,195,Zébibron,60,Électrique,,De base,Illustration rare,matazo,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-196,196,Statitik,40,Électrique,,De base,Illustration rare,Atsushi Furusawa,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-197,197,Cléopsytra,120,Psy,Flotillon,Niveau 1,Illustration rare,AKIRA EGAWA,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-198,198,Mordudor,70,Psy,,De base,Illustration rare,Akira Komayama,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-199,199,Groudon,130,Combat,,De base,Illustration rare,Nurikabe,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-200,200,Shaofouine,100,Combat,Kungfouine,Niveau 1,Illustration rare,Taira Akitsu,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-201,201,Météno,70,Combat,,De base,Illustration rare,0313,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-202,202,Gigansel,160,Combat,Amassel,Niveau 2,Illustration rare,kodama,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-203,203,Rampe-Ailes,140,Combat,,De base,Illustration rare,Takeshi Nakamura,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-204,204,Miasmax,120,Obscurité,Miamiasme,Niveau 1,Illustration rare,Shinya Komatsu,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-205,205,Yveltal,130,Obscurité,,De base,Illustration rare,Masako Tomii,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-206,206,Morpeko,70,Obscurité,,De base,Illustration rare,Yuu Nishida,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-207,207,Fongus-Furie,120,Obscurité,,De base,Illustration rare,Tomokazu Komiya,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-208,208,Steelix,180,Métal,Onix,Niveau 1,Illustration rare,nisimono,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-209,209,Noacier,140,Métal,Grindur,Niveau 1,Illustration rare,Kurata So,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-210,210,Exagide,150,Métal,Dimoclès,Niveau 2,Illustration rare,Takumi Wada,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-211,211,Capumain,60,Incolore,,De base,Illustration rare,Yuka Morii,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-212,212,Ramboum,100,Incolore,Chuchmur,Niveau 1,Illustration rare,NC Empire,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-213,213,Tylton,50,Incolore,,De base,Illustration rare,Jiro Sasumo,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-214,214,Porygon-Z,150,Incolore,Porygon2,Niveau 2,Illustration rare,GOSSAN,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-215,215,Motorizard,120,Incolore,,De base,Illustration rare,Mina Nakai,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-216,216,Têtes-de-Fer,130,Incolore,,De base,Illustration rare,GIDORA,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-217,217,Momartik-ex,250,Plante,Stalgamin,Niveau 1,Ultra Rare,5ban Graphics,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-218,218,Carmadura-ex,260,Feu,Charbambin,Niveau 1,Ultra Rare,takuyoa,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-219,219,Carchacrok-ex,320,Eau,Carmache,Niveau 2,Ultra Rare,5ban Graphics,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-220,220,Sucreine-ex,310,Eau,Candine,Niveau 2,Ultra Rare,5ban Graphics,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-221,221,Sarmuraï-ex,270,Eau,Sovkipou,Niveau 1,Ultra Rare,N-DESIGN Inc.,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-222,222,Tokorico-ex,210,Électrique,,De base,Ultra Rare,PLANETA Igarashi,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-223,223,Paume-de-Fer-ex,230,Électrique,,De base,Ultra Rare,PLANETA Mochizuki,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-224,224,Tutankafer-ex,260,Psy,Tutafeh,Niveau 1,Ultra Rare,Eske Yoshinob,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-225,225,Garde-de-Fer-ex,220,Psy,,De base,Ultra Rare,aky CG Works,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-226,226,Hoopa-ex,220,Combat,,De base,Ultra Rare,5ban Graphics,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-227,227,Salarsen-ex,260,Combat,Toxizap,Niveau 1,Ultra Rare,5ban Graphics,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-228,228,Pelage-Sablé-ex,220,Combat,,De base,Ultra Rare,PLANETA Mochizuki,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-229,229,Rugit-Lune-ex,230,Obscurité,,De base,Ultra Rare,takuyoa,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-230,230,Exagide-ex,330,Métal,Dimoclès,Niveau 2,Ultra Rare,Satoshi Shirai,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-231,231,Gromago-ex,260,Métal,Mordudor,Niveau 1,Ultra Rare,takuyoa,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-232,232,Altaria-ex,260,Dragon,Tylton,Niveau 1,Ultra Rare,Saki Hayashiro,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-233,233,Famignol-ex,230,Incolore,Compagnol,Niveau 1,Ultra Rare,5ban Graphics,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-234,234,Lestombaile-ex,200,Incolore,,De base,Ultra Rare,PLANETA Mochizuki,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-235,235,Okuba,,,,,Ultra Rare,Akira Komayama,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-236,236,Meloco,,,,,Ultra Rare,kirisAki,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-237,237,Norman,,,,,Ultra Rare,Hideki Ishikawa,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-238,238,Sœur Parasol,,,,,Ultra Rare,Cona Nitanda,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-239,239,Vitalité de la Professeure Olim,,,,,Ultra Rare,Megumi Mizutani,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-240,240,Plan du Professeur Turum,,,,,Ultra Rare,hncl,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-241,241,Cayenn,,,,,Ultra Rare,GIDORA,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-242,242,Pierrick,,,,,Ultra Rare,Ryuta Fuse,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-243,243,Anis,,,,,Ultra Rare,En Morikura,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-244,244,Tully,,,,,Ultra Rare,Naoki Saito,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-245,245,Carchacrok-ex,320,Eau,Carmache,Niveau 2,Illustration spéciale rare,Oswaldo KATO,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-246,246,Sarmuraï-ex,270,Eau,Sovkipou,Niveau 1,Illustration spéciale rare,Oku,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-247,247,Tokorico-ex,210,Électrique,,De base,Illustration spéciale rare,Jerky,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-248,248,Paume-de-Fer-ex,230,Électrique,,De base,Illustration spéciale rare,Toshinao Aoki,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-249,249,Garde-de-Fer-ex,220,Psy,,De base,Illustration spéciale rare,kantaro,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-250,250,Pelage-Sablé-ex,220,Combat,,De base,Illustration spéciale rare,Toshinao Aoki,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-251,251,Rugit-Lune-ex,230,Obscurité,,De base,Illustration spéciale rare,Ryota Murayama,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-252,252,Gromago-ex,260,Métal,Mordudor,Niveau 1,Illustration spéciale rare,Akira Komayama,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-253,253,Altaria-ex,260,Dragon,Tylton,Niveau 1,Illustration spéciale rare,Jiro Sasumo,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-254,254,Meloco,,,,,Illustration spéciale rare,rika,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-255,255,Sœur Parasol,,,,,Illustration spéciale rare,En Morikura,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-256,256,Vitalité de la Professeure Olim,,,,,Illustration spéciale rare,Ryota Murayama,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-257,257,Plan du Professeur Turum,,,,,Illustration spéciale rare,Atsushi Furusawa,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-258,258,Cayenn,,,,,Illustration spéciale rare,kantaro,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-259,259,Tully,,,,,Illustration spéciale rare,AKIRA EGAWA,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-260,260,Carchacrok-ex,320,Eau,Carmache,Niveau 2,Hyper rare,5ban Graphics,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-261,261,Garde-de-Fer-ex,220,Psy,,De base,Hyper rare,aky CG Works,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-262,262,Rugit-Lune-ex,230,Obscurité,,De base,Hyper rare,takuyoa,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-263,263,Terrain de Plage,,,,,Hyper rare,Oswaldo KATO,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-264,264,Attrape-Riposte,,,,,Hyper rare,Toyste Beach,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-265,265,Cape Luxueuse,,,,,Hyper rare,Toyste Beach,holo,Faille Paradoxe,Écarlate et Violet,266
+sv04-266,266,Énergie Inversion,,,,,Hyper rare,,holo,Faille Paradoxe,Écarlate et Violet,266

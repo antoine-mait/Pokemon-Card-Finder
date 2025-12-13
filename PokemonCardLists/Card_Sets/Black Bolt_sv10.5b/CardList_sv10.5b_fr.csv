@@ -1,0 +1,173 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sv10.5b-001,001,Vipélierre,70,Plante,,De base,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-002,002,Lianaja,100,Plante,Vipélierre,Niveau 1,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-003,003,Majaspic-ex,320,Plante,Lianaja,Niveau 2,Double rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-004,004,Feuillajou,70,Plante,,De base,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-005,005,Feuiloutan,100,Plante,Feuillajou,Niveau 1,Peu Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-006,006,Chlorobule,60,Plante,,De base,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-007,007,Fragilady,100,Plante,Chlorobule,Niveau 1,Peu Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-008,008,Maracachi,100,Plante,,De base,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-009,009,Carabing,60,Plante,,De base,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-010,010,Trompignon,50,Plante,,De base,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-011,011,Gaulet,120,Plante,Trompignon,Niveau 1,Peu Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-012,012,Victini,80,Feu,,De base,Rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-013,013,Darumarond,80,Feu,,De base,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-014,014,Darumacho,140,Feu,Darumarond,Niveau 1,Peu Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-015,015,Pyronille,60,Feu,,De base,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-016,016,Pyrax,120,Feu,Pyronille,Niveau 1,Rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-017,017,Flotajou,70,Eau,,De base,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-018,018,Flotoutan,100,Eau,Flotajou,Niveau 1,Peu Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-019,019,Tritonde,60,Eau,,De base,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-020,020,Batracné,90,Eau,Tritonde,Niveau 1,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-021,021,Crapustule,170,Eau,Batracné,Niveau 2,Peu Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-022,022,Carapagos,100,Eau,Fossile Plaque Ancien,Niveau 1,Peu Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-023,023,Mégapagos,180,Eau,Carapagos,Niveau 2,Rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-024,024,Mamanbo,110,Eau,,De base,Peu Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-025,025,Polarhume,70,Eau,,De base,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-026,026,Polagriffe,150,Eau,Polarhume,Niveau 1,Rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-027,027,Hexagel,90,Eau,,De base,Peu Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-028,028,Kyurem-ex,230,Eau,,De base,Double rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-029,029,Emolga,70,Électrique,,De base,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-030,030,Anchwatt,40,Électrique,,De base,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-031,031,Lampéroie,90,Électrique,Anchwatt,Niveau 1,Peu Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-032,032,Ohmassacre,160,Électrique,Lampéroie,Niveau 2,Peu Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-033,033,Fulguris,120,Électrique,,De base,Rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-034,034,Zekrom-ex,230,Électrique,,De base,Double rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-035,035,Munna,70,Psy,,De base,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-036,036,Mushana,120,Psy,Munna,Niveau 1,Peu Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-037,037,Nucléos,40,Psy,,De base,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-038,038,Méios,70,Psy,Nucléos,Niveau 1,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-039,039,Symbios,140,Psy,Méios,Niveau 2,Peu Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-040,040,Lewsor,60,Psy,,De base,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-041,041,Neitram,90,Psy,Lewsor,Niveau 1,Peu Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-042,042,Gringolem,90,Psy,,De base,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-043,043,Golemastoc,160,Psy,Gringolem,Niveau 1,Peu Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-044,044,Meloetta-ex,200,Psy,,De base,Double rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-045,045,Rototaupe,70,Combat,,De base,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-046,046,Minotaupe-ex,270,Combat,Rototaupe,Niveau 1,Double rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-047,047,Charpenti,70,Combat,,De base,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-048,048,Ouvrifier,100,Combat,Charpenti,Niveau 1,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-049,049,Bétochef,140,Combat,Ouvrifier,Niveau 2,Rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-050,050,Judokrak,130,Combat,,De base,Peu Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-051,051,Crabicoque,70,Combat,,De base,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-052,052,Crabaraque,150,Combat,Crabicoque,Niveau 1,Peu Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-053,053,Démétéros,130,Combat,,De base,Rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-054,054,Venipatte,80,Obscurité,,De base,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-055,055,Scobolide,100,Obscurité,Venipatte,Niveau 1,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-056,056,Brutapode,160,Obscurité,Scobolide,Niveau 2,Peu Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-057,057,Mascaïman,70,Obscurité,,De base,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-058,058,Escroco,100,Obscurité,Mascaïman,Niveau 1,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-059,059,Crocorible,170,Obscurité,Escroco,Niveau 2,Peu Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-060,060,Lançargot,130,Métal,Carabing,Niveau 1,Peu Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-061,061,Tic,60,Métal,,De base,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-062,062,Clic,90,Métal,Tic,Niveau 1,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-063,063,Cliticlic,150,Métal,Clic,Niveau 2,Rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-064,064,Scalpion,60,Métal,,De base,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-065,065,Scalproie,120,Métal,Scalpion,Niveau 1,Peu Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-066,066,Cobaltium,120,Métal,,De base,Rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-067,067,Genesect-ex,220,Métal,,De base,Double rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-068,068,Coupenotte,70,Dragon,,De base,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-069,069,Incisache,100,Dragon,Coupenotte,Niveau 1,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-070,070,Tranchodon,170,Dragon,Incisache,Niveau 2,Rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-071,071,Poichigeon,60,Incolore,,De base,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-072,072,Colombeau,80,Incolore,Poichigeon,Niveau 1,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-073,073,Déflaisan,150,Incolore,Colombeau,Niveau 2,Peu Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-074,074,Nanméouïe,100,Incolore,,De base,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-075,075,Chinchidou,60,Incolore,,De base,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-076,076,Pashmilla,100,Incolore,Chinchidou,Niveau 1,Peu Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-077,077,Furaiglon,70,Incolore,,De base,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-078,078,Gueriaigle,140,Incolore,Furaiglon,Niveau 1,Peu Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-079,079,Ballon,,,,,Peu Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-080,080,Fossile Plaque Ancien,,,,,Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-081,081,Pièce Énergie,,,,,Peu Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-082,082,Oryse,,,,,Peu Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-083,083,Plan de N,,,,,Peu Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-084,084,Pokématos 3.0,,,,,Peu Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-085,085,Recherches Professorales,,,,,Peu Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-086,086,Énergie Prisme,,,,,Peu Commune,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-087,087,Vipélierre,70,Plante,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-088,088,Lianaja,100,Plante,Vipélierre,Niveau 1,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-089,089,Feuillajou,70,Plante,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-090,090,Feuiloutan,100,Plante,Feuillajou,Niveau 1,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-091,091,Chlorobule,60,Plante,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-092,092,Fragilady,100,Plante,Chlorobule,Niveau 1,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-093,093,Maracachi,100,Plante,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-094,094,Carabing,60,Plante,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-095,095,Trompignon,50,Plante,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-096,096,Gaulet,120,Plante,Trompignon,Niveau 1,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-097,097,Darumarond,80,Feu,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-098,098,Darumacho,140,Feu,Darumarond,Niveau 1,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-099,099,Pyronille,60,Feu,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-100,100,Pyrax,120,Feu,Pyronille,Niveau 1,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-101,101,Flotajou,70,Eau,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-102,102,Flotoutan,100,Eau,Flotajou,Niveau 1,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-103,103,Tritonde,60,Eau,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-104,104,Batracné,90,Eau,Tritonde,Niveau 1,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-105,105,Crapustule,170,Eau,Batracné,Niveau 2,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-106,106,Carapagos,100,Eau,Fossile Plaque Ancien,Niveau 1,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-107,107,Mégapagos,180,Eau,Carapagos,Niveau 2,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-108,108,Mamanbo,110,Eau,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-109,109,Polarhume,70,Eau,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-110,110,Polagriffe,150,Eau,Polarhume,Niveau 1,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-111,111,Hexagel,90,Eau,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-112,112,Emolga,70,Électrique,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-113,113,Anchwatt,40,Électrique,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-114,114,Lampéroie,90,Électrique,Anchwatt,Niveau 1,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-115,115,Ohmassacre,160,Électrique,Lampéroie,Niveau 2,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-116,116,Munna,70,Psy,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-117,117,Mushana,120,Psy,Munna,Niveau 1,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-118,118,Nucléos,40,Psy,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-119,119,Méios,70,Psy,Nucléos,Niveau 1,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-120,120,Lewsor,60,Psy,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-121,121,Neitram,90,Psy,Lewsor,Niveau 1,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-122,122,Gringolem,90,Psy,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-123,123,Golemastoc,160,Psy,Gringolem,Niveau 1,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-124,124,Rototaupe,70,Combat,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-125,125,Charpenti,70,Combat,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-126,126,Ouvrifier,100,Combat,Charpenti,Niveau 1,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-127,127,Bétochef,140,Combat,Ouvrifier,Niveau 2,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-128,128,Judokrak,130,Combat,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-129,129,Crabicoque,70,Combat,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-130,130,Crabaraque,150,Combat,Crabicoque,Niveau 1,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-131,131,Démétéros,130,Combat,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-132,132,Venipatte,80,Obscurité,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-133,133,Scobolide,100,Obscurité,Venipatte,Niveau 1,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-134,134,Brutapode,160,Obscurité,Scobolide,Niveau 2,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-135,135,Mascaïman,70,Obscurité,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-136,136,Escroco,100,Obscurité,Mascaïman,Niveau 1,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-137,137,Crocorible,170,Obscurité,Escroco,Niveau 2,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-138,138,Lançargot,130,Métal,Carabing,Niveau 1,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-139,139,Tic,60,Métal,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-140,140,Clic,90,Métal,Tic,Niveau 1,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-141,141,Cliticlic,150,Métal,Clic,Niveau 2,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-142,142,Scalpion,60,Métal,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-143,143,Scalproie,120,Métal,Scalpion,Niveau 1,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-144,144,Cobaltium,120,Métal,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-145,145,Coupenotte,70,Dragon,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-146,146,Incisache,100,Dragon,Coupenotte,Niveau 1,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-147,147,Tranchodon,170,Dragon,Incisache,Niveau 2,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-148,148,Poichigeon,60,Incolore,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-149,149,Colombeau,80,Incolore,Poichigeon,Niveau 1,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-150,150,Déflaisan,150,Incolore,Colombeau,Niveau 2,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-151,151,Nanméouïe,100,Incolore,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-152,152,Chinchidou,60,Incolore,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-153,153,Pashmilla,100,Incolore,Chinchidou,Niveau 1,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-154,154,Furaiglon,70,Incolore,,De base,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-155,155,Gueriaigle,140,Incolore,Furaiglon,Niveau 1,Illustration rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-156,156,Majaspic-ex,320,Plante,Lianaja,Niveau 2,Ultra Rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-157,157,Kyurem-ex,230,Eau,,De base,Ultra Rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-158,158,Zekrom-ex,230,Électrique,,De base,Ultra Rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-159,159,Meloetta-ex,200,Psy,,De base,Ultra Rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-160,160,Minotaupe-ex,270,Combat,Rototaupe,Niveau 1,Ultra Rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-161,161,Genesect-ex,220,Métal,,De base,Ultra Rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-162,162,Oryse,,,,,Ultra Rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-163,163,Plan de N,,,,,Ultra Rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-164,164,Majaspic-ex,320,Plante,Lianaja,Niveau 2,Illustration spéciale rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-165,165,Kyurem-ex,230,Eau,,De base,Illustration spéciale rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-166,166,Zekrom-ex,230,Électrique,,De base,Illustration spéciale rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-167,167,Meloetta-ex,200,Psy,,De base,Illustration spéciale rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-168,168,Minotaupe-ex,270,Combat,Rototaupe,Niveau 1,Illustration spéciale rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-169,169,Genesect-ex,220,Métal,,De base,Illustration spéciale rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-170,170,Plan de N,,,,,Illustration spéciale rare,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-171,171,Victini,80,Feu,,De base,Rare Noir Blanc,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172
+sv10.5b-172,172,Zekrom-ex,230,Électrique,,De base,Rare Noir Blanc,,"normal, reverse, holo",Foudre Noire,Écarlate et Violet,172

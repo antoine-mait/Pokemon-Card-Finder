@@ -1,0 +1,259 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sm11-1,1,Brindibou et Noadkoko d’Alola GX,270,Plante,,,Ultra Rare,Mitsuhiro Arita,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-2,2,Yanma,70,Plante,,De base,Commune,Eri Yamaki,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-3,3,Yanmega,120,Plante,Yanma,Niveau 1,Peu Commune,Hitoshi Ariga,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-4,4,Celebi,80,Plante,,De base,Rare,Megumi Mizutani,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-5,5,Balignon,60,Plante,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-6,6,Larveyette,50,Plante,,De base,Commune,Naoyo Kimura,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-7,7,Larveyette,50,Plante,,De base,Commune,Shigenori Negishi,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-8,8,Couverdure,70,Plante,Larveyette,Niveau 1,Peu Commune,Shibuzoh.,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-9,9,Manternel,120,Plante,Couverdure,Niveau 2,Rare,Kagemaru Himeno,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-10,10,Crabicoque,70,Plante,,De base,Commune,kawayoo,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-11,11,Crabaraque,120,Plante,Crabicoque,Niveau 1,Rare,Tomokazu Komiya,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-12,12,Carabing,70,Plante,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-13,13,Trompignon,40,Plante,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-14,14,Gaulet,100,Plante,Trompignon,Niveau 1,Rare,Midori Harada,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-15,15,Mimantis,70,Plante,,De base,Commune,Yuka Morii,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-16,16,Floramantis,110,Plante,Mimantis,Niveau 1,Peu Commune,AKIRA EGAWA,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-17,17,Croquine,60,Plante,,De base,Commune,Mizue,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-18,18,Candine,90,Plante,Croquine,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-19,19,Sucreine,140,Plante,Candine,Niveau 2,Rare,kirisAki,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-20,20,Sinistrail,100,Plante,,De base,Peu Commune,TOKIYA,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-21,21,Magmar,80,Feu,,De base,Commune,Hiroki Asanuma,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-22,22,Maganon,130,Feu,Magmar,Niveau 1,Rare,KEIICHIRO ITO,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-23,23,Chamallot,90,Feu,,De base,Commune,Motofumi Fujiwara,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-24,24,Camérupt,140,Feu,Chamallot,Niveau 1,Rare,Masakazu Fukuda,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-25,25,Heatran GX,190,Feu,,,Ultra Rare,PLANETA Tsuji,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-26,26,Victini,70,Feu,,De base,Rare,Mizue,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-27,27,Funécire,60,Feu,,De base,Commune,MAHOU,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-28,28,Funécire,60,Feu,,De base,Commune,sowsow,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-29,29,Mélancolux,80,Feu,Funécire,Niveau 1,Peu Commune,Sachiko Adachi,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-30,30,Lugulabre,140,Feu,Mélancolux,Niveau 2,Rare,kirisAki,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-31,31,Braisillon,80,Feu,Passerouge,Niveau 1,Commune,Mina Nakai,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-32,32,Flambusard,130,Feu,Braisillon,Niveau 2,Rare,SATOSHI NAKAI,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-33,33,Tritox,70,Feu,,De base,Commune,Kyoko Umemoto,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-34,34,Malamandre,100,Feu,Tritox,Niveau 1,Rare,Midori Harada,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-35,35,Ramoloss et Psykokwak GX,250,Eau,,,Ultra Rare,Mitsuhiro Arita,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-36,36,Lokhlass,110,Eau,,De base,Peu Commune,Kagemaru Himeno,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-37,37,Stalgamin,50,Eau,,De base,Commune,Naoyo Kimura,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-38,38,Momartik,80,Eau,Stalgamin,Niveau 1,Rare,Mizue,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-39,39,Écayon,50,Eau,,De base,Commune,sui,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-40,40,Luminéon,90,Eau,Écayon,Niveau 1,Peu Commune,Sekio,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-41,41,Blizzi,90,Eau,,De base,Commune,otumami,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-42,42,Blizzaroi,140,Eau,Blizzi,Niveau 1,Rare,Shin Nagasawa,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-43,43,Bargantua,80,Eau,,De base,Peu Commune,SATOSHI NAKAI,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-44,44,Carapagos,100,Eau,Fossile Inconnu,Niveau 1,Peu Commune,HYOGONOSUKE,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-45,45,Mégapagos,160,Eau,Carapagos,Niveau 2,Peu Commune,Kouki Saitou,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-46,46,Hexagel,90,Eau,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-47,47,Keldeo GX,170,Eau,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-48,48,Araqua,60,Eau,,De base,Commune,Atsuko Nishida,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-49,49,Tarenbulle,100,Eau,Araqua,Niveau 1,Rare,Misa Tsutsui,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-50,50,Sovkipou,70,Eau,,De base,Commune,Tomokazu Komiya,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-51,51,Sarmuraï,140,Eau,Sovkipou,Niveau 1,Rare,Masakazu Fukuda,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-52,52,Concombaffe,80,Eau,,De base,Peu Commune,OOYAMA,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-53,53,Tokopisco,120,Eau,,De base,Rare,Hasuno,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-54,54,Raichu et Raichu d’Alola GX,260,Électrique,,,Ultra Rare,Mitsuhiro Arita,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-55,55,Pikachu,60,Électrique,,De base,Commune,Sanosuke Sakuma,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-56,56,Pikachu,70,Électrique,,De base,Commune,Misa Tsutsui,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-57,57,Raichu d’Alola,110,Électrique,Pikachu,Niveau 1,Rare,Kouki Saitou,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-58,58,Magnéti,60,Électrique,,De base,Commune,sowsow,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-59,59,Magnéton,90,Électrique,Magnéti,Niveau 1,Peu Commune,Yumi,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-60,60,Magnézone,160,Électrique,Magnéton,Niveau 2,Rare,Shin Nagasawa,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-61,61,Statitik,40,Électrique,,De base,Commune,Midori Harada,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-62,62,Mygavolt,90,Électrique,Statitik,Niveau 1,Rare,Yumi,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-63,63,Anchwatt,30,Électrique,,De base,Commune,Mina Nakai,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-64,64,Anchwatt,40,Électrique,,De base,Commune,SATOSHI NAKAI,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-65,65,Lampéroie,90,Électrique,Anchwatt,Niveau 1,Peu Commune,Midori Harada,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-66,66,Ohmassacre,150,Électrique,Lampéroie,Niveau 2,Rare,Shigenori Negishi,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-67,67,Limonde,90,Électrique,,De base,Commune,MAHOU,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-68,68,Fulguris,120,Électrique,,De base,Peu Commune,Anesaki Dynamic,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-69,69,Tokorico,120,Électrique,,De base,Rare,Shin Nagasawa,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-70,70,Câblifère,120,Électrique,,De base,Rare,Satoshi Shirai,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-71,71,Mewtwo et Mew GX,270,Psy,,,Ultra Rare,Mitsuhiro Arita,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-72,72,Mentali et Deoxys GX,260,Psy,,,Ultra Rare,Mitsuhiro Arita,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-73,73,Noeunoeuf,50,Psy,,De base,Commune,otumami,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-74,74,Noadkoko,140,Psy,Noeunoeuf,Niveau 1,Rare,kirisAki,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-75,75,Ossatueur d’Alola,120,Psy,Osselait,Niveau 1,Rare,Masakazu Fukuda,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-76,76,Lippoutou,80,Psy,,De base,Peu Commune,sowsow,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-77,77,Okéoké,60,Psy,,De base,Peu Commune,Kagemaru Himeno,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-78,78,Latios GX,170,Psy,,,Ultra Rare,Yoshinobu Saito,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-79,79,Jirachi GX,160,Psy,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-80,80,Baudrive,70,Psy,,De base,Commune,ryoma uratsuka,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-81,81,Grodrive,100,Psy,Baudrive,Niveau 1,Rare,Mizue,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-82,82,Rapion,70,Psy,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-83,83,Créhelf,70,Psy,,De base,Rare,kodama,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-84,84,Créfollet,60,Psy,,De base,Peu Commune,Sekio,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-85,85,Créfadet,70,Psy,,De base,Peu Commune,Mizue,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-86,86,Giratina,130,Psy,,De base,Rare,Misa Tsutsui,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-87,87,Cresselia,130,Psy,,De base,Peu Commune,Megumi Mizutani,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-88,88,Munna,60,Psy,,De base,Commune,Shibuzoh.,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-89,89,Mushana,100,Psy,Munna,Niveau 1,Peu Commune,Misa Tsutsui,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-90,90,Lewsor,60,Psy,,De base,Peu Commune,Sumiyoshi Kizuki,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-91,91,Neitram,80,Psy,Lewsor,Niveau 1,Rare,Kyoko Umemoto,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-92,92,Monorpale,50,Psy,,De base,Commune,MAHOU,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-93,93,Monorpale,70,Psy,,De base,Commune,Suwama Chiaki,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-94,94,Dimoclès,90,Psy,Monorpale,Niveau 1,Peu Commune,Akira Komayama,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-95,95,Exagide,130,Psy,Dimoclès,Niveau 2,Rare,Eske Yoshinob,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-96,96,Vorastérie,70,Psy,,De base,Commune,Saya Tsuruta,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-97,97,Prédastérie,110,Psy,Vorastérie,Niveau 1,Rare,chibi,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-98,98,Tritox,70,Psy,,De base,Commune,Yukiko Baba,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-99,99,Malamandre,110,Psy,Tritox,Niveau 1,Rare,Masakazu Fukuda,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-100,100,Cosmog,40,Psy,,De base,Commune,Akira Komayama,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-101,101,Necrozma,130,Psy,,De base,Rare,Masakazu Fukuda,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-102,102,Vémini,70,Psy,,De base,Commune,Shin Nagasawa,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-103,103,Onix,110,Combat,,De base,Commune,Hitoshi Ariga,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-104,104,Steelix,170,Combat,Onix,Niveau 1,Rare,Ayaka Yoshida,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-105,105,Osselait,60,Combat,,De base,Commune,otumami,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-106,106,Ptéra GX,210,Combat,Fossile Inconnu,,Ultra Rare,PLANETA Igarashi,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-107,107,Scarhino,100,Combat,,De base,Peu Commune,Sanosuke Sakuma,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-108,108,Chapignon,120,Combat,Balignon,Niveau 1,Peu Commune,Atsuko Nishida,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-109,109,Méditikka,60,Combat,,De base,Commune,Mina Nakai,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-110,110,Charmina,110,Combat,Méditikka,Niveau 1,Rare,Shigenori Negishi,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-111,111,Relicanth,90,Combat,,De base,Peu Commune,Yuka Morii,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-112,112,Griknot,60,Combat,,De base,Commune,Asako Ito,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-113,113,Carmache,90,Combat,Griknot,Niveau 1,Peu Commune,SATOSHI NAKAI,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-114,114,Carchacrok,150,Combat,Carmache,Niveau 2,Rare,Akira Komayama,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-115,115,Riolu,60,Combat,,De base,Commune,kirisAki,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-116,116,Riolu,60,Combat,,De base,Commune,AKIRA EGAWA,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-117,117,Lucario,120,Combat,Riolu,Niveau 1,Rare,kirisAki,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-118,118,Rototaupe,70,Combat,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-119,119,Minotaupe,120,Combat,Rototaupe,Niveau 1,Rare,Kyoko Umemoto,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-120,120,Arkéapti,80,Combat,Fossile Inconnu,Niveau 1,Peu Commune,0313,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-121,121,Aéroptéryx,130,Combat,Arkéapti,Niveau 2,Rare,Hasuno,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-122,122,Terrakium,140,Combat,,De base,Rare,Anesaki Dynamic,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-123,123,Meloetta,90,Combat,,De base,Rare,Kouki Saitou,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-124,124,Zygarde,90,Combat,,De base,Rare,Shigenori Negishi,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-125,125,Noctali et Darkrai GX,270,Obscurité,,,Ultra Rare,Mitsuhiro Arita,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-126,126,Méga-Ténéfix et Tyranocif GX,280,Obscurité,,,Ultra Rare,Mitsuhiro Arita,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-127,127,Tadmorv d’Alola,80,Obscurité,,De base,Commune,kawayoo,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-128,128,Cornèbre,70,Obscurité,,De base,Commune,nagimiso,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-129,129,Cornèbre,70,Obscurité,,De base,Commune,tetsuya koizumi,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-130,130,Corboss,110,Obscurité,Cornèbre,Niveau 1,Rare,Tomokazu Komiya,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-131,131,Farfuret,70,Obscurité,,De base,Commune,sui,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-132,132,Dimoret GX,200,Obscurité,Farfuret,,Ultra Rare,aky CG Works,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-133,133,Ténéfix,80,Obscurité,,De base,Peu Commune,Suwama Chiaki,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-134,134,Drascore,140,Obscurité,Rapion,Niveau 1,Rare,SATOSHI NAKAI,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-135,135,Chacripan,70,Obscurité,,De base,Commune,Sumiyoshi Kizuki,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-136,136,Léopardus,100,Obscurité,Chacripan,Niveau 1,Rare,sui,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-137,137,Baggiguane,70,Obscurité,,De base,Commune,Yumi,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-138,138,Baggaïd,110,Obscurité,Baggiguane,Niveau 1,Rare,Akira Komayama,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-139,139,Yveltal,130,Obscurité,,De base,Rare,sui,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-140,140,Hoopa,130,Obscurité,,De base,Rare,Ayaka Yoshida,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-141,141,Mysdibule GX,170,Métal,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-142,142,Lançargot,130,Métal,Carabing,Niveau 1,Rare,Satoshi Shirai,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-143,143,Doudouvet,60,Fée,,De base,Commune,Asako Ito,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-144,144,Farfaduvet,80,Fée,Doudouvet,Niveau 1,Rare,Shibuzoh.,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-145,145,Dedenne,70,Fée,,De base,Peu Commune,Saya Tsuruta,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-146,146,Carchacrok et Giratina GX,270,Dragon,,,Ultra Rare,Mitsuhiro Arita,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-147,147,Minidraco,60,Dragon,,De base,Commune,Motofumi Fujiwara,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-148,148,Minidraco,60,Dragon,,De base,Commune,Sekio,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-149,149,Draco,90,Dragon,Minidraco,Niveau 1,Peu Commune,Sanosuke Sakuma,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-150,150,Draco,100,Dragon,Minidraco,Niveau 1,Peu Commune,sowsow,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-151,151,Dracolosse,160,Dragon,Draco,Niveau 2,Rare,Misa Tsutsui,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-152,152,Dracolosse GX,250,Dragon,Draco,,Ultra Rare,PLANETA Igarashi,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-153,153,Latias,120,Dragon,,De base,Rare,chibi,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-154,154,Coupenotte,60,Dragon,,De base,Commune,Yukiko Baba,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-155,155,Incisache,90,Dragon,Coupenotte,Niveau 1,Peu Commune,tetsuya koizumi,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-156,156,Tranchodon,150,Dragon,Incisache,Niveau 2,Rare,Anesaki Dynamic,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-157,157,Drakkarmin,120,Dragon,,De base,Commune,hatachu,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-158,158,Sonistrelle,60,Dragon,,De base,Commune,0313,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-159,159,Bruyverne,120,Dragon,Sonistrelle,Niveau 1,Rare,Shin Nagasawa,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-160,160,Mandrillon GX,210,Dragon,Vémini,,Ultra Rare,PLANETA Tsuji,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-161,161,Excelangue,100,Incolore,,De base,Commune,tetsuya koizumi,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-162,162,Coudlangue,130,Incolore,Excelangue,Niveau 1,Rare,Suwama Chiaki,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-163,163,Kangourex,130,Incolore,,De base,Rare,Sanosuke Sakuma,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-164,164,Tauros,110,Incolore,,De base,Peu Commune,KEIICHIRO ITO,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-165,165,Hoothoot,60,Incolore,,De base,Commune,Misa Tsutsui,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-166,166,Noarfang,90,Incolore,Hoothoot,Niveau 1,Peu Commune,Tomokazu Komiya,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-167,167,Parecool,50,Incolore,,De base,Commune,miki kudo,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-168,168,Parecool,70,Incolore,,De base,Commune,tetsuya koizumi,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-169,169,Vigoroth,90,Incolore,Parecool,Niveau 1,Peu Commune,Midori Harada,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-170,170,Monaflèmit,180,Incolore,Vigoroth,Niveau 2,Rare,Akira Komayama,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-171,171,Keunotor,70,Incolore,,De base,Commune,Sekio,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-172,172,Castorno,120,Incolore,Keunotor,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-173,173,Goinfrex,60,Incolore,,De base,Peu Commune,sowsow,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-174,174,Poichigeon,60,Incolore,,De base,Commune,ryoma uratsuka,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-175,175,Colombeau,80,Incolore,Poichigeon,Niveau 1,Peu Commune,Sekio,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-176,176,Déflaisan,140,Incolore,Colombeau,Niveau 2,Rare,Shin Nagasawa,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-177,177,Nanméouïe,90,Incolore,,De base,Peu Commune,sui,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-178,178,Boréas,120,Incolore,,De base,Peu Commune,Anesaki Dynamic,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-179,179,Passerouge,60,Incolore,,De base,Commune,Saya Tsuruta,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-180,180,Manglouton,70,Incolore,,De base,Commune,Shigenori Negishi,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-181,181,Argouste,100,Incolore,Manglouton,Niveau 1,Rare,Midori Harada,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-182,182,Gouroutan,120,Incolore,,De base,Peu Commune,Naoki Saito,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-183,183,Type:0,100,Incolore,,De base,Peu Commune,tetsuya koizumi,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-184,184,Silvallié,130,Incolore,Type:0,Niveau 1,Rare,Eske Yoshinob,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-185,185,Dodoala,90,Incolore,,De base,Peu Commune,Miki Tanaka,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-186,186,Série de Quiz d’Auguste,,,,,Peu Commune,Megumi Mizutani,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-187,187,Blizzarville,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-188,188,Tactiques de Blue,,,,,Peu Commune,Megumi Mizutani,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-189,189,Scout,,,,,Peu Commune,kirisAki,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-190,190,Exorciste,,,,,Peu Commune,TOKIYA,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-191,191,Mémoire Ball,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-192,192,Dresseurs Coach,,,,,Peu Commune,nagimiso,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-193,193,Sombreville,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-194,194,Cloche Sonnante,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-195,195,Aérozélite : Lame d’Air,,,,,Peu Commune,aky CG Works,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-196,196,Bombe Géante,,,,,Peu Commune,Studio Bora Inc.,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-197,197,Âtre Géant,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-198,198,Potion Géniale,,,,,Peu Commune,Yoshinobu Saito,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-199,199,Pieris,,,,,Peu Commune,kodama,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-200,200,Paulie,,,,,Peu Commune,Ken Sugimori,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-201,201,Ceinture de Karaté,,,,,Peu Commune,Yoshinobu Saito,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-202,202,Faveur d’Ondine,,,,,Peu Commune,Hideki Ishikawa,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-203,203,Normazélite : Charge,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-204,204,Pokémaniac,,,,,Peu Commune,Hitoshi Ariga,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-205,205,Laboratoire Pokémon,,,,,Peu Commune,aky CG Works,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-206,206,Tampon de Réinitialisation,,,,,Peu Commune,sadaji,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-207,207,Forêt Sommeillante,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-208,208,Navigateur de Stade,,,,,Peu Commune,Yoshinobu Saito,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-209,209,Échange d’Escouade,,,,,Peu Commune,Yoshinobu Saito,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-210,210,Fossile Inconnu,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-211,211,Planche Demi-Tour,,,,,Peu Commune,sadaji,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-212,212,Énergie Recyclée,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-213,213,Énergie Garde Faiblesse,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-214,214,Brindibou et Noadkoko d’Alola GX,270,Plante,,,Ultra Rare,ConceptLab,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-215,215,Brindibou et Noadkoko d’Alola GX,270,Plante,,,Ultra Rare,Naoyo Kimura,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-216,216,Heatran GX,190,Feu,,,Ultra Rare,ConceptLab,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-217,217,Ramoloss et Psykokwak GX,250,Eau,,,Ultra Rare,ConceptLab,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-218,218,Ramoloss et Psykokwak GX,250,Eau,,,Ultra Rare,Miki Tanaka,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-219,219,Keldeo GX,170,Eau,,,Ultra Rare,ConceptLab,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-220,220,Raichu et Raichu d’Alola GX,260,Électrique,,,Ultra Rare,ConceptLab,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-221,221,Raichu et Raichu d’Alola GX,260,Électrique,,,Ultra Rare,tetsuya koizumi,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-222,222,Mewtwo et Mew GX,270,Psy,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-223,223,Latios GX,170,Psy,,,Ultra Rare,ConceptLab,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-224,224,Ptéra GX,210,Combat,Fossile Inconnu,,Ultra Rare,ConceptLab,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-225,225,Méga-Ténéfix et Tyranocif GX,280,Obscurité,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-226,226,Méga-Ténéfix et Tyranocif GX,280,Obscurité,,,Ultra Rare,chibi,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-227,227,Mysdibule GX,170,Métal,,,Ultra Rare,ConceptLab,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-228,228,Carchacrok et Giratina GX,270,Dragon,,,Ultra Rare,aky CG Works,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-229,229,Dracolosse GX,250,Dragon,Draco,,Ultra Rare,ConceptLab,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-230,230,Mandrillon GX,210,Dragon,Vémini,,Ultra Rare,ConceptLab,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-231,231,Tactiques de Blue,,,,,Ultra Rare,Naoki Saito,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-232,232,Exorciste,,,,,Ultra Rare,TOKIYA,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-233,233,Dresseurs Coach,,,,,Ultra Rare,nagimiso,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-234,234,Pieris,,,,,Ultra Rare,kodama,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-235,235,Faveur d’Ondine,,,,,Ultra Rare,Hideki Ishikawa,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-236,236,Pokémaniac,,,,,Ultra Rare,Hitoshi Ariga,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-237,237,Brindibou et Noadkoko d’Alola GX,270,Plante,,De base,Magnifique rare,ConceptLab,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-238,238,Heatran GX,190,Feu,,De base,Magnifique rare,ConceptLab,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-239,239,Ramoloss et Psykokwak GX,250,Eau,,De base,Magnifique rare,ConceptLab,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-240,240,Keldeo GX,170,Eau,,De base,Magnifique rare,ConceptLab,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-241,241,Raichu et Raichu d’Alola GX,260,Électrique,,De base,Magnifique rare,ConceptLab,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-242,242,Mewtwo et Mew GX,270,Psy,,De base,Magnifique rare,5ban Graphics,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-243,243,Latios GX,170,Psy,,De base,Magnifique rare,ConceptLab,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-244,244,Ptéra GX,210,Combat,,Niveau 1,Magnifique rare,ConceptLab,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-245,245,Méga-Ténéfix et Tyranocif GX,280,Obscurité,,De base,Magnifique rare,5ban Graphics,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-246,246,Mysdibule GX,170,Métal,,De base,Magnifique rare,ConceptLab,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-247,247,Carchacrok et Giratina GX,270,Dragon,,De base,Magnifique rare,aky CG Works,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-248,248,Dracolosse GX,250,Dragon,,Niveau 2,Magnifique rare,ConceptLab,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-249,249,Mandrillon GX,210,Dragon,,Niveau 1,Magnifique rare,ConceptLab,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-250,250,Mémoire Ball,,,,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-251,251,Bombe Géante,,,,,Magnifique rare,Studio Bora Inc.,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-252,252,Ceinture de Karaté,,,,,Magnifique rare,Yoshinobu Saito,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-253,253,Tampon de Réinitialisation,,,,,Magnifique rare,sadaji,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-254,254,Échange d’Escouade,,,,,Magnifique rare,Yoshinobu Saito,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-255,255,Planche Demi-Tour,,,,,Magnifique rare,sadaji,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-256,256,Forêt de Jade,,,,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-257,257,Énergie Recyclée,,,,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258
+sm11-258,258,Énergie Garde Faiblesse,,,,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Harmonie des Esprits,Soleil et Lune,258

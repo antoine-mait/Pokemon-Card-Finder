@@ -1,0 +1,235 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sm10-1,1,Schabelle & Masskito GX,260,Pflanze,,,Ultra Selten,Mitsuhiro Arita,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-2,2,Raupy,40,Pflanze,,Basis,Häufig,Shibuzoh.,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-3,3,Safcon,70,Pflanze,,Rang 1,Ungewöhnlich,Shigenori Negishi,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-4,4,Smettbo,130,Pflanze,,Rang 2,Selten,Midori Harada,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-5,5,Myrapla,50,Pflanze,,Basis,Häufig,0313,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-6,6,Myrapla,60,Pflanze,,Basis,Häufig,Asako Ito,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-7,7,Duflor,80,Pflanze,,Rang 1,Ungewöhnlich,Anesaki Dynamic,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-8,8,Giflor,140,Pflanze,,Rang 2,Selten,Suwama Chiaki,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-9,9,Bluzuk,60,Pflanze,,Basis,Häufig,kirisAki,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-10,10,Bluzuk,60,Pflanze,,Basis,Häufig,Yuka Morii,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-11,11,Omot,90,Pflanze,,Rang 1,Selten,Mina Nakai,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-12,12,Omot GX,200,Pflanze,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-13,13,Knofensa,50,Pflanze,,Basis,Häufig,Ken Sugimori,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-14,14,Ultrigaria,80,Pflanze,,Rang 1,Ungewöhnlich,otumami,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-15,15,Sarzenia,140,Pflanze,,Rang 2,Selten,Anesaki Dynamic,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-16,16,Tangela,80,Pflanze,,Basis,Häufig,Naoyo Kimura,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-17,17,Tangoloss,130,Pflanze,,Rang 1,Selten,kodama,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-18,18,Mabula,60,Pflanze,,Basis,Häufig,Yuka Morii,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-19,19,Katagami,70,Pflanze,,Basis,Selten,Shin Nagasawa,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-20,20,Reshiram & Glurak GX,270,Feuer,,,Ultra Selten,Mitsuhiro Arita,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-21,21,Fukano,80,Feuer,,Basis,Häufig,tetsuya koizumi,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-22,22,Arkani,140,Feuer,,Rang 1,Selten,Shin Nagasawa,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-23,23,Flampion,80,Feuer,,Basis,Häufig,Yuka Morii,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-24,24,Flampivian,130,Feuer,,Rang 1,Selten,Midori Harada,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-25,25,Volcanion,120,Feuer,,Basis,Selten,Satoshi Shirai,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-26,26,Flamiau,50,Feuer,,Basis,Häufig,0313,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-27,27,Flamiau,60,Feuer,,Basis,Häufig,Atsuko Nishida,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-28,28,Miezunder,80,Feuer,,Rang 1,Ungewöhnlich,tetsuya koizumi,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-29,29,Fuegro,160,Feuer,,Rang 2,Selten,Misa Tsutsui,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-30,30,Molunk,70,Feuer,,Basis,Häufig,Yusuke Ohmura,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-31,31,Amfira,100,Feuer,,Rang 1,Selten,hatachu,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-32,32,Kopplosio,120,Feuer,,Basis,Selten,kawayoo,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-33,33,Schiggy,60,Wasser,,Basis,Häufig,tetsuya koizumi,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-34,34,Schillok,70,Wasser,,Rang 1,Ungewöhnlich,Hiroki Asanuma,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-35,35,Turtok GX,240,Wasser,,,Ultra Selten,sadaji,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-36,36,Quapsel,50,Wasser,,Basis,Häufig,Midori Harada,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-37,37,Quapsel,60,Wasser,,Basis,Häufig,Shibuzoh.,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-38,38,Quaputzi,90,Wasser,,Rang 1,Ungewöhnlich,Yukiko Baba,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-39,39,Quappo,150,Wasser,,Rang 2,Selten,Akira Komayama,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-40,40,Tentacha,60,Wasser,,Basis,Häufig,Shin Nagasawa,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-41,41,Tentoxa,100,Wasser,,Rang 1,Ungewöhnlich,Shigenori Negishi,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-42,42,Flegmon,70,Wasser,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-43,43,Lahmus,120,Wasser,,Rang 1,Selten,Ken Sugimori,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-44,44,Jurob,80,Wasser,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-45,45,Jugong,120,Wasser,,Rang 1,Selten,Kagemaru Himeno,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-46,46,Krabby,70,Wasser,,Basis,Häufig,Sekio,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-47,47,Kingler,130,Wasser,,Rang 1,Selten,Shigenori Negishi,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-48,48,Goldini,60,Wasser,,Basis,Häufig,Naoyo Kimura,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-49,49,Golking,100,Wasser,,Rang 1,Selten,Midori Harada,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-50,50,Kyurem,130,Wasser,,Basis,Selten,Anesaki Dynamic,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-51,51,Froxy,60,Wasser,,Basis,Häufig,Kyoko Umemoto,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-52,52,Amphizel,80,Wasser,,Rang 1,Ungewöhnlich,Satoshi Shirai,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-53,53,Gufa,70,Wasser,,Basis,Ungewöhnlich,Asako Ito,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-54,54,Pikachu,70,Elektro,,Basis,Häufig,nagimiso,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-55,55,Raichu,120,Elektro,,Rang 1,Selten,Shin Nagasawa,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-56,56,Flunschlik,110,Elektro,,Basis,Selten,sowsow,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-57,57,Dedenne GX,160,Elektro,,,Ultra Selten,PLANETA Igarashi,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-58,58,Akkup,80,Elektro,,Rang 1,Ungewöhnlich,Sekio,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-59,59,Donarion,150,Elektro,,Rang 2,Selten,Hasuno,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-60,60,Zeraora,120,Elektro,,Basis,Selten,kawayoo,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-61,61,Sleimok & Alola-Sleimok GX,270,Psycho,,,Ultra Selten,Mitsuhiro Arita,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-62,62,Rettan,70,Psycho,,Basis,Häufig,Yumi,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-63,63,Arbok,120,Psycho,,Rang 1,Selten,Yukiko Baba,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-64,64,Zubat,50,Psycho,,Basis,Häufig,Sekio,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-65,65,Golbat,80,Psycho,,Rang 1,Ungewöhnlich,Shin Nagasawa,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-66,66,Iksbat,130,Psycho,,Rang 2,Selten,Anesaki Dynamic,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-67,67,Nebulak,40,Psycho,,Basis,Häufig,chibi,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-68,68,Nebulak,60,Psycho,,Basis,Häufig,MAHOU,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-69,69,Alpollo,70,Psycho,,Rang 1,Ungewöhnlich,Miki Tanaka,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-70,70,Gengar,130,Psycho,,Rang 2,Selten,so-taro,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-71,71,Traumato,70,Psycho,,Basis,Häufig,Miki Tanaka,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-72,72,Hypno,110,Psycho,,Rang 1,Selten,sui,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-73,73,Smogon,70,Psycho,,Basis,Häufig,Mizue,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-74,74,Smogmog,120,Psycho,,Rang 1,Selten,OOYAMA,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-75,75,Mewtu,120,Psycho,,Basis,Selten,Shin Nagasawa,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-76,76,Mew,60,Psycho,,Basis,Selten,sui,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-77,77,Traunfugil,60,Psycho,,Basis,Häufig,Miki Tanaka,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-78,78,Traunmagil,110,Psycho,,Rang 1,Selten,sui,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-79,79,Psiau,60,Psycho,,Basis,Häufig,HYOGONOSUKE,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-80,80,Psiaugon,90,Psycho,,Rang 1,Selten,Saya Tsuruta,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-81,81,Marshadow,80,Psycho,,Basis,Selten,chibi,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-82,82,Marshadow & Machomei GX,270,Kampf,,,Ultra Selten,Mitsuhiro Arita,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-83,83,Sandan,70,Kampf,,Basis,Häufig,Sekio,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-84,84,Sandamer,110,Kampf,,Rang 1,Selten,Shigenori Negishi,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-85,85,Digda,50,Kampf,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-86,86,Digdri,90,Kampf,,Rang 1,Selten,Akira Komayama,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-87,87,Kleinstein,70,Kampf,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-88,88,Georok,110,Kampf,,Rang 1,Ungewöhnlich,Ayaka Yoshida,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-89,89,Geowaz,180,Kampf,,Rang 2,Selten,Kyoko Umemoto,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-90,90,Tragosso,60,Kampf,,Basis,Häufig,Mizue,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-91,91,Knogga,110,Kampf,,Rang 1,Selten,kirisAki,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-92,92,Rihorn,80,Kampf,,Basis,Häufig,sowsow,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-93,93,Rihorn,90,Kampf,,Basis,Häufig,otumami,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-94,94,Rizeros,110,Kampf,,Rang 1,Ungewöhnlich,kirisAki,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-95,95,Rihornior,170,Kampf,,Rang 2,Selten,kawayoo,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-96,96,Felino,70,Kampf,,Basis,Häufig,tetsuya koizumi,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-97,97,Morlord,120,Kampf,,Rang 1,Selten,kirisAki,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-98,98,Skorgla,60,Kampf,,Basis,Häufig,Ken Sugimori,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-99,99,Skorgro,110,Kampf,,Rang 1,Ungewöhnlich,Mizue,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-100,100,Rabauz,60,Kampf,,Basis,Ungewöhnlich,Mina Nakai,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-101,101,Kapoera,90,Kampf,,Basis,Ungewöhnlich,Tomokazu Komiya,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-102,102,Riolu,70,Kampf,,Basis,Häufig,Mizue,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-103,103,Demeteros,120,Kampf,,Basis,Selten,Hasuno,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-104,104,Krabbox,80,Kampf,,Basis,Häufig,Akira Komayama,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-105,105,Krawell,140,Kampf,,Rang 1,Selten,Tomokazu Komiya,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-106,106,Muramura,120,Kampf,,Basis,Selten,nagimiso,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-107,107,Quajutsu & Zoroark GX,250,Unlicht,,,Ultra Selten,Mitsuhiro Arita,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-108,108,Kramurx,70,Unlicht,,Basis,Häufig,0313,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-109,109,Kramshef GX,210,Unlicht,,,Ultra Selten,sadaji,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-110,110,Kanivanha,60,Unlicht,,Basis,Häufig,SATOSHI NAKAI,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-111,111,Tohaido,110,Unlicht,,Rang 1,Selten,Tomokazu Komiya,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-112,112,Kryppuk,60,Unlicht,,Basis,Selten,Kagemaru Himeno,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-113,113,Ganovil,60,Unlicht,,Basis,Häufig,Yuka Morii,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-114,114,Ganovil,70,Unlicht,,Basis,Häufig,Akira Komayama,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-115,115,Rokkaiman,90,Unlicht,,Rang 1,Ungewöhnlich,SATOSHI NAKAI,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-116,116,Rabigator,150,Unlicht,,Rang 2,Selten,Anesaki Dynamic,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-117,117,Quajutsu,130,Unlicht,,Rang 2,Selten,Yusuke Ohmura,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-118,118,Iscalar,60,Unlicht,,Basis,Häufig,Naoyo Kimura,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-119,119,Calamanero,100,Unlicht,,Rang 1,Selten,Yusuke Ohmura,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-120,120,Lucario & Melmetal GX,260,Metall,,,Ultra Selten,Mitsuhiro Arita,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-121,121,Alola-Digda,50,Metall,,Basis,Häufig,Atsuko Nishida,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-122,122,Alola-Digdri,80,Metall,,Rang 1,Selten,SATOSHI NAKAI,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-123,123,Stollunior,60,Metall,,Basis,Häufig,Ken Sugimori,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-124,124,Stollrak,90,Metall,,Rang 1,Ungewöhnlich,Suwama Chiaki,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-125,125,Stolloss,170,Metall,,Rang 2,Selten,Satoshi Shirai,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-126,126,Lucario,130,Metall,,Rang 1,Selten,Midori Harada,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-127,127,Genesect,130,Metall,,Basis,Selten,Anesaki Dynamic,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-128,128,Meltan,70,Metall,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-129,129,Melmetal,150,Metall,,Rang 1,Selten,Kouki Saitou,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-130,130,Guardevoir & Feelinara GX,260,Fee,,,Ultra Selten,Mitsuhiro Arita,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-131,131,Pii,60,Fee,,Basis,Ungewöhnlich,Shibuzoh.,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-132,132,Piepi,60,Fee,,Basis,Häufig,0313,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-133,133,Pixi,110,Fee,,Rang 1,Selten,Suwama Chiaki,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-134,134,Pummeluff,70,Fee,,Basis,Häufig,Yumi,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-135,135,Knuddeluff,110,Fee,,Rang 1,Selten,miki kudo,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-136,136,Togepi,50,Fee,,Basis,Häufig,Sekio,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-137,137,Togetic,80,Fee,,Rang 1,Ungewöhnlich,sui,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-138,138,Togekiss,140,Fee,,Rang 2,Selten,Kagemaru Himeno,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-139,139,Waumboll,50,Fee,,Basis,Häufig,Ken Sugimori,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-140,140,Elfun GX,190,Fee,,,Ultra Selten,PLANETA Igarashi,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-141,141,Parfi,60,Fee,,Basis,Häufig,MAHOU,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-142,142,Parfinesse,90,Fee,,Rang 1,Selten,Saya Tsuruta,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-143,143,Rattfratz,30,Farblos,,Basis,Häufig,Eri Yamaki,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-144,144,Rattikarl,70,Farblos,,Rang 1,Ungewöhnlich,Shigenori Negishi,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-145,145,Habitak,60,Farblos,,Basis,Häufig,tetsuya koizumi,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-146,146,Ibitak,100,Farblos,,Rang 1,Ungewöhnlich,kawayoo,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-147,147,Mauzi,60,Farblos,,Basis,Häufig,Shibuzoh.,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-148,148,Snobilikat,100,Farblos,,Rang 1,Selten,nagimiso,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-149,149,Snobilikat GX,200,Farblos,,,Ultra Selten,PLANETA Igarashi,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-150,150,Dodu,70,Farblos,,Basis,Häufig,kodama,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-151,151,Dodri,100,Farblos,,Rang 1,Ungewöhnlich,Misa Tsutsui,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-152,152,Schlurp,90,Farblos,,Basis,Häufig,Yukiko Baba,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-153,153,Schlurplek,130,Farblos,,Rang 1,Selten,sui,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-154,154,Porygon,50,Farblos,,Basis,Häufig,Ayaka Yoshida,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-155,155,Porygon,60,Farblos,,Basis,Häufig,Suwama Chiaki,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-156,156,Porygon2,80,Farblos,,Rang 1,Ungewöhnlich,sowsow,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-157,157,Porygon-Z,130,Farblos,,Rang 2,Selten,Misa Tsutsui,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-158,158,Relaxo,150,Farblos,,Basis,Selten,kanahei,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-159,159,Charmian,60,Farblos,,Basis,Häufig,sowsow,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-160,160,Shnurgarst,120,Farblos,,Rang 1,Selten,Tomokazu Komiya,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-161,161,Wonneira,60,Farblos,,Basis,Ungewöhnlich,Eri Yamaki,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-162,162,Plaudagei,70,Farblos,,Basis,Ungewöhnlich,HYOGONOSUKE,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-163,163,Kaguron GX,200,Farblos,,,Ultra Selten,PLANETA Igarashi,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-164,164,Bestienbringer,,,,,Ungewöhnlich,Ayaka Yoshida,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-165,165,Hackender Eispickel,,,,,Ungewöhnlich,Yoshinobu Saito,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-166,166,Rückentwicklungsspray Z,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-167,167,Finsterstein,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-168,168,Staubinsel,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-169,169,Elektromagnetisches Radar,,,,,Ungewöhnlich,Yoshinobu Saito,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-170,170,Energie-Spinner,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-171,171,Feenschmuck Fähigkeit,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-172,172,Feenschmuck Lightning,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-173,173,Feuerkristall,,,,,Ungewöhnlich,Yoshinobu Saito,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-174,174,Giovannis Exil,,,,,Ungewöhnlich,Megumi Mizutani,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-175,175,Grüns Erkundung,,,,,Ungewöhnlich,Naoki Saito,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-176,176,Janina,,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-177,177,Kogas Falle,,,,,Ungewöhnlich,Megumi Mizutani,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-178,178,Major Bobs Strategie,,,,,Ungewöhnlich,Megumi Mizutani,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-179,179,Kampfkunstschule,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-180,180,Metallkernbarriere,,,,,Ungewöhnlich,Studio Bora Inc.,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-181,181,Marlon,,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-182,182,Pokécom 3.0,,,,,Ungewöhnlich,Studio Bora Inc.,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-183,183,Kraftwerk,,,,,Ungewöhnlich,aky CG Works,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-184,184,Rots Herausforderung,,,,,Selten,Megumi Mizutani,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-185,185,Samson Eich,,,,,Ungewöhnlich,Masakazu Fukuda,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-186,186,Tarnkappe,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-187,187,Überraschungskiste,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-188,188,Ultrawald Katagami-Ass,,,,,Ungewöhnlich,Masakazu Fukuda,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-189,189,Schweißer,,,,,Ungewöhnlich,Hitoshi Ariga,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-190,190,Dreifach-Beschleunigungs-Energie,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-191,191,Schabelle & Masskito GX,260,Pflanze,,,Ultra Selten,aky CG Works,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-192,192,Schabelle & Masskito GX,260,Pflanze,,,Ultra Selten,kirisAki,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-193,193,Omot GX,200,Pflanze,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-194,194,Reshiram & Glurak GX,270,Feuer,,,Ultra Selten,aky CG Works,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-195,195,Dedenne GX,160,Elektro,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-196,196,Sleimok & Alola-Sleimok GX,270,Psycho,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-197,197,Sleimok & Alola-Sleimok GX,270,Psycho,,,Ultra Selten,Masakazu Fukuda,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-198,198,Marshadow & Machomei GX,270,Kampf,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-199,199,Marshadow & Machomei GX,270,Kampf,,,Ultra Selten,You Iribi,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-200,200,Quajutsu & Zoroark GX,250,Unlicht,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-201,201,Quajutsu & Zoroark GX,250,Unlicht,,,Ultra Selten,kodama,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-202,202,Kramshef GX,210,Unlicht,,,Ultra Selten,sadaji,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-203,203,Lucario & Melmetal GX,260,Metall,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-204,204,Guardevoir & Feelinara GX,260,Fee,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-205,205,Guardevoir & Feelinara GX,260,Fee,,,Ultra Selten,Atsuko Nishida,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-206,206,Elfun GX,190,Fee,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-207,207,Snobilikat GX,200,Farblos,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-208,208,Kaguron GX,200,Farblos,,,Ultra Selten,aky CG Works,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-209,209,Grüns Erkundung,,,,,Ultra Selten,Naoki Saito,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-210,210,Janina,,,,,Ultra Selten,Hideki Ishikawa,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-211,211,Kogas Falle,,,,,Ultra Selten,TOKIYA,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-212,212,Marlon,,,,,Ultra Selten,Masakazu Fukuda,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-213,213,Rots Herausforderung,,,,,Ultra Selten,Naoki Saito,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-214,214,Schweißer,,,,,Ultra Selten,Hitoshi Ariga,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-215,215,Schabelle & Masskito GX,260,Pflanze,,,Versteckt Selten,aky CG Works,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-216,216,Omot GX,200,Pflanze,,Rang 1,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-217,217,Reshiram & Glurak GX,270,Feuer,,,Versteckt Selten,aky CG Works,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-218,218,Turtok GX,240,Wasser,,,Versteckt Selten,sadaji,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-219,219,Dedenne GX,160,Elektro,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-220,220,Sleimok & Alola-Sleimok GX,270,Psycho,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-221,221,Marshadow & Machomei GX,270,Kampf,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-222,222,Quajutsu & Zoroark GX,250,Unlicht,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-223,223,Kramshef GX,210,Unlicht,,,Versteckt Selten,sadaji,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-224,224,Lucario & Melmetal GX,260,Metall,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-225,225,Guardevoir & Feelinara GX,260,Fee,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-226,226,Elfun GX,190,Fee,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-227,227,Snobilikat GX,200,Farblos,,Rang 1,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-228,228,Kaguron GX,200,Farblos,,,Versteckt Selten,aky CG Works,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-229,229,Bestienbringer,,,,,Versteckt Selten,Ayaka Yoshida,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-230,230,Elektromagnetisches Radar,,,,,Versteckt Selten,Yoshinobu Saito,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-231,231,Feuerkristall,,,,,Versteckt Selten,Yoshinobu Saito,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-232,232,Metallkernbarriere,,,,,Versteckt Selten,Studio Bora Inc.,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-233,233,Pokécom 3.0,,,,,Versteckt Selten,Studio Bora Inc.,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234
+sm10-234,234,Dreifach-Beschleunigungs-Energie,,,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Kräfte im Einklang,Sonne & Mond,234

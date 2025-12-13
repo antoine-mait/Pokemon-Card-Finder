@@ -1,0 +1,48 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+col1-2,2,Deoxys,80,Psy,,De base,Rare Holo,Ryo Ueda,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-3,3,Dialga,100,Métal,,De base,Rare Holo,Ayaka Yoshida,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-6,6,Groudon,100,Combat,,De base,Rare Holo,Ryo Ueda,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-9,9,Ho-Oh,100,Feu,,De base,Rare Holo,Ryo Ueda,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-12,12,Kyogre,100,Eau,,De base,Rare Holo,Ryo Ueda,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-14,14,Lucario,90,Combat,Riolu,Niveau 1,Rare Holo,Takashi Yamaguchi,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-15,15,Lugia,100,Eau,,De base,Rare Holo,Ryo Ueda,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-18,18,Pachirisu,60,Électrique,,De base,Rare Holo,Noriko Hotta,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-19,19,Palkia,100,Eau,,De base,Rare Holo,Daisuke Iwamoto,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-20,20,Rayquaza,100,Incolore,,De base,Rare Holo,Ryo Ueda,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-29,29,M. Mime,70,Psy,,De base,Rare,Noriko Hotta,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-33,33,Ronflex,100,Incolore,,De base,Rare,Kent Kanetsuna,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-34,34,Bouldeneu,110,Plante,Saquedeneu,Niveau 1,Rare,Hideaki Hakozaki,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-39,39,Mangriff,80,Incolore,,De base,Rare,Wataru Kawahara,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-47,47,Mime Jr.,30,Psy,,De base,Peu Commune,Noriko Hotta,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-50,50,Riolu,50,Combat,,De base,Peu Commune,Takashi Yamaguchi,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-51,51,Seviper,90,Psy,,De base,Peu Commune,Wataru Kawahara,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-53,53,Germignon,50,Plante,,De base,Commune,Ken Sugimori,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-55,55,Héricendre,40,Feu,,De base,Commune,Ken Sugimori,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-63,63,Wattouat,40,Électrique,,De base,Commune,Ken Sugimori,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-66,66,Phanpy,60,Combat,,De base,Commune,Ken Sugimori,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-69,69,Relicanth,80,Eau,,De base,Commune,Wataru Kawahara,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-72,72,Saquedeneu,70,Plante,,De base,Commune,Hideaki Hakozaki,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-73,73,Teddiursa,50,Incolore,,De base,Commune,Ken Sugimori,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-74,74,Kaiminus,60,Eau,,De base,Commune,Ken Sugimori,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-80,80,Nettoyeur perdu,,,,,Peu Commune,Wataru Kawahara,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-81,81,Monde perdu,,,,,Peu Commune,Hideaki Hakozaki,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-84,84,Archive des recherches,,,,,Peu Commune,Hideaki Hakozaki,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-88,88,Énergie Plante,,,,De base,Commune,,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-89,89,Énergie Feu,,,,De base,Commune,,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-90,90,Énergie Eau,,,,De base,Commune,,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-91,91,Énergie Électrique,,,,De base,Commune,,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-92,92,Énergie Psy,,,,De base,Commune,,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-93,93,Énergie Combat,,,,De base,Commune,,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-94,94,Énergie Obscurité,,,,De base,Commune,,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-95,95,Énergie Métal,,,,De base,Commune,,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-SL1,SL1,Deoxys,80,Psy,,De base,Rare Holo,Noriko Hotta,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-SL10,SL10,Rayquaza,100,Incolore,,De base,Rare Holo,Noriko Hotta,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-SL11,SL11,Suicune,90,Eau,,De base,Rare Holo,Ayaka Yoshida,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-SL2,SL2,Dialga,100,Métal,,De base,Rare Holo,Ayaka Yoshida,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-SL3,SL3,Entei,90,Feu,,De base,Rare Holo,Yuri Umemura,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-SL4,SL4,Groudon,100,Combat,,De base,Rare Holo,Yuri Umemura,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-SL5,SL5,Ho-Oh,100,Feu,,De base,Rare Holo,Hideaki Hakozaki,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-SL6,SL6,Kyogre,100,Eau,,De base,Rare Holo,Yuri Umemura,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-SL7,SL7,Lugia,100,Eau,,De base,Rare Holo,Hideaki Hakozaki,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-SL8,SL8,Palkia,100,Eau,,De base,Rare Holo,Ayaka Yoshida,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95
+col1-SL9,SL9,Raikou,90,Électrique,,De base,Rare Holo,Noriko Hotta,"normal, reverse, holo",L'appel des Légendes,L'appel des Légendes,95

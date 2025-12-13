@@ -1,0 +1,35 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+dc1-1,1,Chamallot de la Team Magma,70,Feu,,De base,Commune,Akira Komayama,"normal, reverse, holo",Double Danger,XY,34
+dc1-2,2,Camérupt de la Team Magma,110,Feu,Chamallot de la Team Magma,Niveau 1,Rare,Shin Nagasawa,"normal, reverse, holo",Double Danger,XY,34
+dc1-3,3,Obalie de la Team Aqua,60,Eau,,De base,Commune,Sanosuke Sakuma,"normal, reverse, holo",Double Danger,XY,34
+dc1-4,4,Phogleur de la Team Aqua,90,Eau,Obalie de la Team Aqua,Niveau 1,Commune,Naoki Saito,"normal, reverse, holo",Double Danger,XY,34
+dc1-5,5,Kaimorse de la Team Aqua,140,Eau,Phogleur de la Team Aqua,Niveau 2,Rare,Hitoshi Ariga,"normal, reverse, holo",Double Danger,XY,34
+dc1-6,6,Kyogre-EX de la Team Aqua,190,Eau,,,Ultra Rare,nagimiso,"normal, reverse, holo",Double Danger,XY,34
+dc1-7,7,Tadmorv de la Team Aqua,70,Psy,,De base,Commune,kawayoo,"normal, reverse, holo",Double Danger,XY,34
+dc1-8,8,Grotadmorv de la Team Aqua,110,Psy,Tadmorv de la Team Aqua,Niveau 1,Rare,Kouki Saitou,"normal, reverse, holo",Double Danger,XY,34
+dc1-9,9,Séviper de la Team Aqua,90,Psy,,De base,Commune,Naoki Saito,"normal, reverse, holo",Double Danger,XY,34
+dc1-10,10,Balbuto de la Team Magma,50,Psy,,De base,Commune,Mitsuhiro Arita,"normal, reverse, holo",Double Danger,XY,34
+dc1-11,11,Kaorine de la Team Magma,90,Psy,Balbuto de la Team Magma,Niveau 1,Rare,Masakazu Fukuda,"normal, reverse, holo",Double Danger,XY,34
+dc1-12,12,Galekid de la Team Magma,60,Combat,,De base,Commune,Akira Komayama,"normal, reverse, holo",Double Danger,XY,34
+dc1-13,13,Galegon de la Team Magma,90,Combat,Galekid de la Team Magma,Niveau 1,Commune,Masakazu Fukuda,"normal, reverse, holo",Double Danger,XY,34
+dc1-14,14,Galeking de la Team Magma,140,Combat,Galegon de la Team Magma,Niveau 2,Rare,TOKIYA,"normal, reverse, holo",Double Danger,XY,34
+dc1-15,15,Groudon-EX de la Team Magma,190,Combat,,,Ultra Rare,nagimiso,"normal, reverse, holo",Double Danger,XY,34
+dc1-16,16,Medhyèna de la Team Aqua,60,Obscurité,,De base,Commune,Kouki Saitou,"normal, reverse, holo",Double Danger,XY,34
+dc1-17,17,Medhyèna de la Team Magma,60,Obscurité,,De base,Commune,TOKIYA,"normal, reverse, holo",Double Danger,XY,34
+dc1-18,18,Grahyèna de la Team Aqua,100,Obscurité,Medhyèna de la Team Aqua,Niveau 1,Commune,Mitsuhiro Arita,"normal, reverse, holo",Double Danger,XY,34
+dc1-19,19,Grahyèna de la Team Magma,100,Obscurité,Medhyèna de la Team Magma,Niveau 1,Commune,Hitoshi Ariga,"normal, reverse, holo",Double Danger,XY,34
+dc1-20,20,Carvanha de la Team Aqua,50,Obscurité,,De base,Commune,Sanosuke Sakuma,"normal, reverse, holo",Double Danger,XY,34
+dc1-21,21,Sharpedo de la Team Aqua,90,Obscurité,Carvanha de la Team Aqua,Niveau 1,Rare,kawayoo,"normal, reverse, holo",Double Danger,XY,34
+dc1-22,22,Mangriff de la Team Magma,90,Incolore,,De base,Commune,Shin Nagasawa,"normal, reverse, holo",Double Danger,XY,34
+dc1-23,23,Diffuseur Aqua,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Double Danger,XY,34
+dc1-24,24,Pointeur Magma,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Double Danger,XY,34
+dc1-25,25,Admin Team Aqua,,,,,Peu Commune,GAME FREAK inc.,"normal, reverse, holo",Double Danger,XY,34
+dc1-26,26,Sbire de la Team Aqua,,,,,Peu Commune,GAME FREAK inc.,"normal, reverse, holo",Double Danger,XY,34
+dc1-27,27,Super Ball de la Team Aqua,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Double Danger,XY,34
+dc1-28,28,Base Secrète de la Team Aqua,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Double Danger,XY,34
+dc1-29,29,Admin Team Magma,,,,,Peu Commune,GAME FREAK inc.,"normal, reverse, holo",Double Danger,XY,34
+dc1-30,30,Sbire de la Team Magma,,,,,Peu Commune,GAME FREAK inc.,"normal, reverse, holo",Double Danger,XY,34
+dc1-31,31,Super Ball de la Team Magma,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Double Danger,XY,34
+dc1-32,32,Base Secrète de la Team Magma,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Double Danger,XY,34
+dc1-33,33,Double Énergie Aqua,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Double Danger,XY,34
+dc1-34,34,Double Énergie Magma,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Double Danger,XY,34

@@ -1,0 +1,84 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+base5-1,1,Dunkles Simsala,60,Psycho,,Rang 2,Selten,Ken Sugimori,"holo, 1st edition",Team Rocket,Grund,83
+base5-2,2,Dunkles Arbok,60,Pflanze,,Rang 1,Selten,Mitsuhiro Arita,"holo, 1st edition",Team Rocket,Grund,83
+base5-3,3,Dunkles Turtok,70,Wasser,,Rang 2,Selten,Mitsuhiro Arita,"holo, 1st edition",Team Rocket,Grund,83
+base5-4,4,Dunkles Glurak,80,Feuer,,Rang 2,Selten,Ken Sugimori,"holo, 1st edition",Team Rocket,Grund,83
+base5-5,5,Dunkles Dragoran,70,Farblos,,Rang 2,Selten,Mitsuhiro Arita,"holo, 1st edition",Team Rocket,Grund,83
+base5-6,6,Dunkles Digdri,50,Kampf,,Rang 1,Selten,Kagemaru Himeno,"holo, 1st edition",Team Rocket,Grund,83
+base5-7,7,Dunkles Golbat,50,Pflanze,,Rang 1,Selten,Mitsuhiro Arita,"holo, 1st edition",Team Rocket,Grund,83
+base5-8,8,Dunkles Garados,70,Wasser,,Rang 1,Selten,Kagemaru Himeno,"holo, 1st edition",Team Rocket,Grund,83
+base5-9,9,Dunkles Hypno,60,Psycho,,Rang 1,Selten,Kagemaru Himeno,"holo, 1st edition",Team Rocket,Grund,83
+base5-10,10,Dunkles Machomei,70,Kampf,,Rang 2,Selten,Mitsuhiro Arita,"holo, 1st edition",Team Rocket,Grund,83
+base5-11,11,Dunkles Magneton,60,Elektro,,Rang 1,Selten,Miki Tanaka,"holo, 1st edition",Team Rocket,Grund,83
+base5-12,12,Dunkles Lahmus,60,Psycho,,Rang 1,Selten,Mitsuhiro Arita,"holo, 1st edition",Team Rocket,Grund,83
+base5-13,13,Dunkles Giflor,60,Pflanze,,Rang 2,Selten,Kagemaru Himeno,"holo, 1st edition",Team Rocket,Grund,83
+base5-14,14,Dunkles Smogmog,60,Pflanze,,Rang 1,Selten,Shin-ichi Yoshida,"holo, 1st edition",Team Rocket,Grund,83
+base5-15,15,Hier kommt Team Rocket!,,,,,Selten,Ken Sugimori,"holo, 1st edition",Team Rocket,Grund,83
+base5-16,16,Rockets Überraschungsangriff,,,,,Selten,Ken Sugimori,"holo, 1st edition",Team Rocket,Grund,83
+base5-17,17,Regenbogen-Energie,,,,,Selten,Takumi Akabane,"holo, 1st edition",Team Rocket,Grund,83
+base5-18,18,Dunkles Simsala,60,Psycho,,Rang 2,Selten,Ken Sugimori,"normal, 1st edition",Team Rocket,Grund,83
+base5-19,19,Dunkles Arbok,60,Pflanze,,Rang 1,Selten,Mitsuhiro Arita,"normal, 1st edition",Team Rocket,Grund,83
+base5-20,20,Dunkles Turtok,70,Wasser,,Rang 2,Selten,Mitsuhiro Arita,"normal, 1st edition",Team Rocket,Grund,83
+base5-21,21,Dunkles Glurak,80,Feuer,,Rang 2,Selten,Ken Sugimori,"normal, 1st edition",Team Rocket,Grund,83
+base5-22,22,Dunkles Dragoran,70,Farblos,,Rang 2,Selten,Mitsuhiro Arita,"normal, 1st edition",Team Rocket,Grund,83
+base5-23,23,Dunkles Digdri,50,Kampf,,Rang 1,Selten,Kagemaru Himeno,"normal, 1st edition",Team Rocket,Grund,83
+base5-24,24,Dunkles Golbat,50,Pflanze,,Rang 1,Selten,Mitsuhiro Arita,"normal, 1st edition",Team Rocket,Grund,83
+base5-25,25,Dunkles Garados,70,Wasser,,Rang 1,Selten,Kagemaru Himeno,"normal, 1st edition",Team Rocket,Grund,83
+base5-26,26,Dunkles Hypno,60,Psycho,,Rang 1,Selten,Kagemaru Himeno,"normal, 1st edition",Team Rocket,Grund,83
+base5-27,27,Dunkles Machomei,70,Kampf,,Rang 2,Selten,Mitsuhiro Arita,"normal, 1st edition",Team Rocket,Grund,83
+base5-28,28,Dunkles Magneton,60,Elektro,,Rang 1,Selten,Miki Tanaka,"normal, 1st edition",Team Rocket,Grund,83
+base5-29,29,Dunkles Lahmus,60,Psycho,,Rang 1,Selten,Mitsuhiro Arita,"normal, 1st edition",Team Rocket,Grund,83
+base5-30,30,Dunkles Giflor,60,Pflanze,,Rang 2,Selten,Kagemaru Himeno,"normal, 1st edition",Team Rocket,Grund,83
+base5-31,31,Dunkles Smogmog,60,Pflanze,,Rang 1,Selten,Shin-ichi Yoshida,"normal, 1st edition",Team Rocket,Grund,83
+base5-32,32,Dunkles Glutexo,50,Feuer,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, 1st edition",Team Rocket,Grund,83
+base5-33,33,Dunkles Dragonir,60,Farblos,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, 1st edition",Team Rocket,Grund,83
+base5-34,34,Dunkles Lektrobal,60,Elektro,,Rang 1,Ungewöhnlich,Ken Sugimori,"normal, 1st edition",Team Rocket,Grund,83
+base5-35,35,Dunkles Flamara,50,Feuer,,Rang 1,Ungewöhnlich,Mitsuhiro Arita,"normal, 1st edition",Team Rocket,Grund,83
+base5-36,36,Dunkles Duflor,50,Pflanze,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, 1st edition",Team Rocket,Grund,83
+base5-37,37,Dunkles Entoron,60,Wasser,,Rang 1,Ungewöhnlich,Mitsuhiro Arita,"normal, 1st edition",Team Rocket,Grund,83
+base5-38,38,Dunkles Blitza,50,Elektro,,Rang 1,Ungewöhnlich,Mitsuhiro Arita,"normal, 1st edition",Team Rocket,Grund,83
+base5-39,39,Dunkles Kadabra,50,Psycho,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, 1st edition",Team Rocket,Grund,83
+base5-40,40,Dunkles Maschock,60,Kampf,,Rang 1,Ungewöhnlich,Mitsuhiro Arita,"normal, 1st edition",Team Rocket,Grund,83
+base5-41,41,Dunkles Sleimok,60,Pflanze,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, 1st edition",Team Rocket,Grund,83
+base5-42,42,Dunkles Snobilikat,60,Farblos,,Rang 1,Ungewöhnlich,Shin-ichi Yoshida,"normal, 1st edition",Team Rocket,Grund,83
+base5-43,43,Dunkles Rasaff,60,Kampf,,Rang 1,Ungewöhnlich,Mitsuhiro Arita,"normal, 1st edition",Team Rocket,Grund,83
+base5-44,44,Dunkles Gallopa,60,Feuer,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, 1st edition",Team Rocket,Grund,83
+base5-45,45,Dunkles Aquana,60,Wasser,,Rang 1,Ungewöhnlich,Mitsuhiro Arita,"normal, 1st edition",Team Rocket,Grund,83
+base5-46,46,Dunkles Schillok,60,Wasser,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, 1st edition",Team Rocket,Grund,83
+base5-47,47,Karpador,30,Wasser,,Basis,Ungewöhnlich,Kagemaru Himeno,"normal, 1st edition",Team Rocket,Grund,83
+base5-48,48,Porygon,40,Farblos,,Basis,Ungewöhnlich,Keiji Kinebuchi,"normal, 1st edition",Team Rocket,Grund,83
+base5-49,49,Abra,40,Psycho,,Basis,Häufig,Sumiyoshi Kizuki,"normal, 1st edition",Team Rocket,Grund,83
+base5-50,50,Glumanda,40,Feuer,,Basis,Häufig,Kagemaru Himeno,"normal, 1st edition",Team Rocket,Grund,83
+base5-51,51,Dunkles Rattikarl,50,Farblos,,Rang 1,Häufig,Shin-ichi Yoshida,"normal, 1st edition",Team Rocket,Grund,83
+base5-52,52,Digda,40,Kampf,,Basis,Häufig,Sumiyoshi Kizuki,"normal, 1st edition",Team Rocket,Grund,83
+base5-53,53,Dratini,40,Farblos,,Basis,Häufig,Kagemaru Himeno,"normal, 1st edition",Team Rocket,Grund,83
+base5-54,54,Traumato,50,Psycho,,Basis,Häufig,Kagemaru Himeno,"normal, 1st edition",Team Rocket,Grund,83
+base5-55,55,Evoli,40,Farblos,,Basis,Häufig,Atsuko Nishida,"normal, 1st edition",Team Rocket,Grund,83
+base5-56,56,Rettan,50,Pflanze,,Basis,Häufig,Ken Sugimori,"normal, 1st edition",Team Rocket,Grund,83
+base5-57,57,Sleima,40,Pflanze,,Basis,Häufig,Kagemaru Himeno,"normal, 1st edition",Team Rocket,Grund,83
+base5-58,58,Smogon,40,Pflanze,,Basis,Häufig,Sumiyoshi Kizuki,"normal, 1st edition",Team Rocket,Grund,83
+base5-59,59,Machollo,50,Kampf,,Basis,Häufig,Ken Sugimori,"normal, 1st edition",Team Rocket,Grund,83
+base5-60,60,Magnetilo,40,Elektro,,Basis,Häufig,Miki Tanaka,"normal, 1st edition",Team Rocket,Grund,83
+base5-61,61,Menki,40,Kampf,,Basis,Häufig,Sumiyoshi Kizuki,"normal, 1st edition",Team Rocket,Grund,83
+base5-62,62,Mauzi,40,Farblos,,Basis,Häufig,Atsuko Nishida,"normal, 1st edition",Team Rocket,Grund,83
+base5-63,63,Myrapla,50,Pflanze,,Basis,Häufig,Kagemaru Himeno,"normal, 1st edition",Team Rocket,Grund,83
+base5-64,64,Ponita,50,Feuer,,Basis,Häufig,Atsuko Nishida,"normal, 1st edition",Team Rocket,Grund,83
+base5-65,65,Enton,50,Wasser,,Basis,Häufig,Mitsuhiro Arita,"normal, 1st edition",Team Rocket,Grund,83
+base5-66,66,Rattfratz,40,Farblos,,Basis,Häufig,Atsuko Nishida,"normal, 1st edition",Team Rocket,Grund,83
+base5-67,67,Flegmon,50,Psycho,,Basis,Häufig,Sumiyoshi Kizuki,"normal, 1st edition",Team Rocket,Grund,83
+base5-68,68,Schiggy,50,Wasser,,Basis,Häufig,Atsuko Nishida,"normal, 1st edition",Team Rocket,Grund,83
+base5-69,69,Voltobal,40,Elektro,,Basis,Häufig,Ken Sugimori,"normal, 1st edition",Team Rocket,Grund,83
+base5-70,70,Zubat,40,Pflanze,,Basis,Häufig,Mitsuhiro Arita,"normal, 1st edition",Team Rocket,Grund,83
+base5-71,71,Hier kommt Team Rocket!,,,,,Selten,Ken Sugimori,"normal, 1st edition",Team Rocket,Grund,83
+base5-72,72,Rockets Überraschungsangriff,,,,,Selten,Ken Sugimori,"normal, 1st edition",Team Rocket,Grund,83
+base5-73,73,Der Boss hat immer Recht,,,,,Ungewöhnlich,Ken Sugimori,"normal, 1st edition",Team Rocket,Grund,83
+base5-74,74,Herausforderung!,,,,,Ungewöhnlich,Kagemaru Himeno,"normal, 1st edition",Team Rocket,Grund,83
+base5-75,75,Bagger,,,,,Ungewöhnlich,Sumiyoshi Kizuki,"normal, 1st edition",Team Rocket,Grund,83
+base5-76,76,Die Rache des falschen Profess,,,,,Ungewöhnlich,Ken Sugimori,"normal, 1st edition",Team Rocket,Grund,83
+base5-77,77,Nächtliche Müllabfuhr,,,,,Ungewöhnlich,Sumiyoshi Kizuki,"normal, 1st edition",Team Rocket,Grund,83
+base5-78,78,Uhu-Gasangriff,,,,,Häufig,Sumiyoshi Kizuki,"normal, 1st edition",Team Rocket,Grund,83
+base5-79,79,Schlaf!,,,,,Häufig,Sumiyoshi Kizuki,"normal, 1st edition",Team Rocket,Grund,83
+base5-80,80,Regenbogen-Energie,,,,,Selten,Takumi Akabane,"normal, 1st edition",Team Rocket,Grund,83
+base5-81,81,Hyperheiler-Energie,,,,,Ungewöhnlich,Keiji Kinebuchi,"normal, 1st edition",Team Rocket,Grund,83
+base5-82,82,Trank-Energie,,,,,Ungewöhnlich,Keiji Kinebuchi,"normal, 1st edition",Team Rocket,Grund,83
+base5-83,83,Dunkles Raichu,70,Elektro,,Rang 1,Selten,Mitsuhiro Arita,"normal, 1st edition",Team Rocket,Grund,83

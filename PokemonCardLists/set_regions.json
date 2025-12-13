@@ -1,0 +1,29 @@
+{
+  "PFL": {
+    "number_region": {
+      "y_start": 0.9,
+      "y_end": 1.0,
+      "x_start": 0.0,
+      "x_end": 0.4
+    },
+    "description": "Pokémon 151 set - bottom 10%, left 40%"
+  },
+  "NEO1": {
+    "number_region": {
+      "y_start": 0.9,
+      "y_end": 1.0,
+      "x_start": 0.8,
+      "x_end": 1
+    },
+    "description": "Neo Genesis - bottom 10%, Right 40%"
+  },
+  "DEFAULT": {
+    "number_region": {
+      "y_start": 0.9,
+      "y_end": 1.0,
+      "x_start": 0.0,
+      "x_end": 0.4
+    },
+    "description": "Default region for unknown sets"
+  }
+}

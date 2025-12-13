@@ -1,0 +1,125 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+dp2-1,1,Aggron,130,Metal,Lairon,Stage2,Rare Holo,Kouki Saitou,"reverse, holo",Mysterious Treasures,Diamond & Pearl,124
+dp2-2,2,Alakazam,100,Psychic,Kadabra,Stage2,Rare Holo,Kouki Saitou,"reverse, holo",Mysterious Treasures,Diamond & Pearl,124
+dp2-3,3,Ambipom,80,Colorless,Aipom,Stage1,Rare Holo,Kouki Saitou,"reverse, holo",Mysterious Treasures,Diamond & Pearl,124
+dp2-4,4,Azelf,60,Psychic,,Basic,Rare Holo,Ryo Ueda,"reverse, holo",Mysterious Treasures,Diamond & Pearl,124
+dp2-5,5,Blissey,130,Colorless,Chansey,Stage1,Rare Holo,Kagemaru Himeno,"reverse, holo",Mysterious Treasures,Diamond & Pearl,124
+dp2-6,6,Bronzong,90,Metal,Bronzor,Stage1,Rare Holo,Daisuke Ito,"reverse, holo",Mysterious Treasures,Diamond & Pearl,124
+dp2-7,7,Celebi,60,Grass,,Basic,Rare Holo,Kagemaru Himeno,"reverse, holo",Mysterious Treasures,Diamond & Pearl,124
+dp2-8,8,Feraligatr,130,Water,Croconaw,Stage2,Rare Holo,Kazuyuki Kano,"reverse, holo",Mysterious Treasures,Diamond & Pearl,124
+dp2-9,9,Garchomp,130,Colorless,Gabite,Stage2,Rare Holo,Kazuyuki Kano,"reverse, holo",Mysterious Treasures,Diamond & Pearl,124
+dp2-10,10,Honchkrow,90,Darkness,Murkrow,Stage1,Rare Holo,Kazuyuki Kano,"reverse, holo",Mysterious Treasures,Diamond & Pearl,124
+dp2-11,11,Lumineon,80,Water,Finneon,Stage1,Rare Holo,Mitsuhiro Arita,"reverse, holo",Mysterious Treasures,Diamond & Pearl,124
+dp2-12,12,Magmortar,100,Fire,Magmar,Stage1,Rare Holo,Hiroaki Ito,"reverse, holo",Mysterious Treasures,Diamond & Pearl,124
+dp2-13,13,Meganium,130,Grass,Bayleef,Stage2,Rare Holo,Daisuke Ito,"reverse, holo",Mysterious Treasures,Diamond & Pearl,124
+dp2-14,14,Mesprit,60,Psychic,,Basic,Rare Holo,Ryo Ueda,"reverse, holo",Mysterious Treasures,Diamond & Pearl,124
+dp2-15,15,Raichu,90,Lightning,Pikachu,Stage1,Rare Holo,Daisuke Ito,"reverse, holo",Mysterious Treasures,Diamond & Pearl,124
+dp2-16,16,Typhlosion,110,Fire,Quilava,Stage2,Rare Holo,Kazuyuki Kano,"reverse, holo",Mysterious Treasures,Diamond & Pearl,124
+dp2-17,17,Tyranitar,140,Darkness,Pupitar,Stage2,Rare Holo,Masakazu Fukuda,"reverse, holo",Mysterious Treasures,Diamond & Pearl,124
+dp2-18,18,Uxie,60,Psychic,,Basic,Rare Holo,Ryo Ueda,"reverse, holo",Mysterious Treasures,Diamond & Pearl,124
+dp2-19,19,Abomasnow,100,Grass,Snover,Stage1,Rare,Kazuyuki Kano,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-20,20,Ariados,80,Grass,Spinarak,Stage1,Rare,Midori Harada,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-21,21,Bastiodon,130,Metal,Shieldon,Stage2,Rare,Kazuyuki Kano,"normal, reverse, holo",Mysterious Treasures,Diamond & Pearl,124
+dp2-22,22,Chimecho,70,Psychic,,Basic,Rare,Daisuke Ito,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-23,23,Crobat,100,Psychic,Golbat,Stage2,Rare,Masakazu Fukuda,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-24,24,Exeggutor,90,Grass,Exeggcute,Stage1,Rare,Masakazu Fukuda,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-25,25,Glalie,90,Water,Snorunt,Stage1,Rare,Mitsuhiro Arita,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-26,26,Gyarados,120,Water,Magikarp,Stage1,Rare,Mitsuhiro Arita,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-27,27,Kricketune,80,Grass,Kricketot,Stage1,Rare,Mitsuhiro Arita,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-28,28,Manectric,80,Lightning,Electrike,Stage1,Rare,Atsuko Nishida,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-29,29,Mantine,80,Water,,Basic,Rare,Masakazu Fukuda,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-30,30,Mr. Mime,70,Psychic,,Basic,Rare,Kagemaru Himeno,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-31,31,Nidoqueen,120,Psychic,Nidorina,Stage2,Rare,Kagemaru Himeno,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-32,32,Ninetales,80,Fire,Vulpix,Stage1,Rare,Kouki Saitou,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-33,33,Rampardos,120,Fighting,Cranidos,Stage2,Rare,Kazuyuki Kano,"normal, reverse, holo",Mysterious Treasures,Diamond & Pearl,124
+dp2-34,34,Slaking,140,Colorless,Vigoroth,Stage2,Rare,Kouki Saitou,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-35,35,Sudowoodo,80,Fighting,,Basic,Rare,Atsuko Nishida,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-36,36,Toxicroak,90,Psychic,Croagunk,Stage1,Rare,Daisuke Ito,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-37,37,Unown I,50,Psychic,,Basic,Rare,Daisuke Ito,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-38,38,Ursaring,100,Colorless,Teddiursa,Stage1,Rare,Mitsuhiro Arita,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-39,39,Walrein,130,Water,Sealeo,Stage2,Rare,Midori Harada,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-40,40,Whiscash,90,Water,Barboach,Stage1,Rare,Daisuke Ito,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-41,41,Bayleef,80,Grass,Chikorita,Stage1,Uncommon,Midori Harada,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-42,42,Chingling,40,Psychic,,Basic,Uncommon,Emi Yoshida,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-43,43,Cranidos,70,Fighting,Skull Fossil,Stage1,Uncommon,Mitsuhiro Arita,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-44,44,Croconaw,80,Water,Totodile,Stage1,Uncommon,Mitsuhiro Arita,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-45,45,Dewgong,90,Water,Seel,Stage1,Uncommon,Masakazu Fukuda,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-46,46,Dodrio,80,Colorless,Doduo,Stage1,Uncommon,Masakazu Fukuda,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-47,47,Dunsparce,60,Colorless,,Basic,Uncommon,Midori Harada,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-48,48,Gabite,80,Colorless,Gible,Stage1,Uncommon,Ken Sugimori,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-49,49,Girafarig,70,Colorless,,Basic,Uncommon,Midori Harada,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-50,50,Golbat,70,Psychic,Zubat,Stage1,Uncommon,Kazuyuki Kano,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-51,51,Graveler,90,Fighting,Geodude,Stage1,Uncommon,Mitsuhiro Arita,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-52,52,Happiny,60,Colorless,,Basic,Uncommon,Yuka Morii,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-53,53,Lairon,80,Metal,Aron,Stage1,Uncommon,Midori Harada,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-54,54,Magmar,70,Fire,,Basic,Uncommon,Mitsuhiro Arita,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-55,55,Masquerain,70,Grass,Surskit,Stage1,Uncommon,Midori Harada,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-56,56,Nidorina,80,Psychic,Nidoran♀,Stage1,Uncommon,Atsuko Nishida,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-57,57,Octillery,80,Water,Remoraid,Stage1,Uncommon,Kagemaru Himeno,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-58,58,Parasect,90,Grass,Paras,Stage1,Uncommon,Masakazu Fukuda,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-59,59,Pupitar,70,Fighting,Larvitar,Stage1,Uncommon,Midori Harada,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-60,60,Quilava,80,Fire,Cyndaquil,Stage1,Uncommon,Atsuko Nishida,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-61,61,Sandslash,90,Fighting,Sandshrew,Stage1,Uncommon,Atsuko Nishida,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-62,62,Sealeo,80,Water,Spheal,Stage1,Uncommon,Kouki Saitou,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-63,63,Shieldon,80,Metal,Armor Fossil,Stage1,Uncommon,Kouki Saitou,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-64,64,Tropius,80,Grass,,Basic,Uncommon,Kazuyuki Kano,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-65,65,Unown E,50,Psychic,,Basic,Uncommon,Daisuke Ito,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-66,66,Unown M,50,Psychic,,Basic,Uncommon,Kazuyuki Kano,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-67,67,Unown T,50,Psychic,,Basic,Uncommon,Kazuyuki Kano,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-68,68,Vigoroth,80,Colorless,Slakoth,Stage1,Uncommon,Masakazu Fukuda,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-69,69,Abra,50,Psychic,,Basic,Common,Ken Sugimori,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-70,70,Aipom,60,Colorless,,Basic,Common,Kagemaru Himeno,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-71,71,Aron,50,Metal,,Basic,Common,Yuka Morii,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-72,72,Barboach,50,Water,,Basic,Common,Ken Sugimori,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-73,73,Bidoof,60,Colorless,,Basic,Common,Yusuke Ohmura,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-74,74,Bronzor,50,Metal,,Basic,Common,Ken Sugimori,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-75,75,Buizel,60,Water,,Basic,Common,Kenkichi Toyama,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-76,76,Chansey,100,Colorless,,Basic,Common,Atsuko Nishida,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-77,77,Chikorita,50,Grass,,Basic,Common,Kagemaru Himeno,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-78,78,Croagunk,60,Psychic,,Basic,Common,Ken Sugimori,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-79,79,Cyndaquil,60,Fire,,Basic,Common,Masakazu Fukuda,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-80,80,Doduo,60,Colorless,,Basic,Common,Ken Sugimori,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-81,81,Electrike,60,Lightning,,Basic,Common,Kouki Saitou,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-82,82,Exeggcute,60,Grass,,Basic,Common,Ken Sugimori,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-83,83,Finneon,50,Water,,Basic,Common,Ken Sugimori,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-84,84,Geodude,60,Fighting,,Basic,Common,Ken Sugimori,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-85,85,Gible,50,Colorless,,Basic,Common,Hiroki Fuchino,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-86,86,Kricketot,60,Grass,,Basic,Common,Atsuko Nishida,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-87,87,Larvitar,50,Fighting,,Basic,Common,Masakazu Fukuda,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-88,88,Magby,40,Fire,,Basic,Common,Midori Harada,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-89,89,Magikarp,30,Water,,Basic,Common,Yusuke Ohmura,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-90,90,Murkrow,60,Darkness,,Basic,Common,Atsuko Nishida,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-91,91,Nidoran♀,50,Psychic,,Basic,Common,Ken Sugimori,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-92,92,Paras,60,Grass,,Basic,Common,Ken Sugimori,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-93,93,Pichu,40,Lightning,,Basic,Common,Yuka Morii,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-94,94,Pikachu,60,Lightning,,Basic,Common,Sumiyoshi Kizuki,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-95,95,Remoraid,60,Water,,Basic,Common,Sumiyoshi Kizuki,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-96,96,Sandshrew,60,Fighting,,Basic,Common,Ken Sugimori,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-97,97,Seel,60,Water,,Basic,Common,Ken Sugimori,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-98,98,Shinx,60,Lightning,,Basic,Common,Lee HyunJung,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-99,99,Slakoth,50,Colorless,,Basic,Common,Yuka Morii,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-100,100,Snorunt,50,Water,,Basic,Common,Kagemaru Himeno,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-101,101,Snover,60,Grass,,Basic,Common,Ken Sugimori,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-102,102,Spheal,50,Water,,Basic,Common,Sumiyoshi Kizuki,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-103,103,Spinarak,50,Grass,,Basic,Common,Kagemaru Himeno,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-104,104,Surskit,50,Grass,,Basic,Common,Ken Sugimori,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-105,105,Teddiursa,60,Colorless,,Basic,Common,Yuka Morii,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-106,106,Totodile,50,Water,,Basic,Common,Kouki Saitou,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-107,107,Vulpix,60,Fire,,Basic,Common,Kagemaru Himeno,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-108,108,Zubat,50,Psychic,,Basic,Common,Ken Sugimori,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-109,109,Bebe's Search,,,,,Uncommon,Ken Sugimori,"normal, reverse, holo",Mysterious Treasures,Diamond & Pearl,124
+dp2-110,110,Dusk Ball,,,,,Uncommon,Ryo Ueda,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-111,111,Fossil Excavator,,,,,Uncommon,Kanako Eo,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-112,112,Lake Boundary,,,,,Uncommon,Ryo Ueda,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-113,113,Night Maintenance,,,,,Uncommon,Ryo Ueda,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-114,114,Quick Ball,,,,,Uncommon,Ryo Ueda,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-115,115,Team Galactic's Wager,,,,,Uncommon,Ken Sugimori,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-116,116,Armor Fossil,50,,,,Common,Ryo Ueda,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-117,117,Skull Fossil,50,,,,Common,Ryo Ueda,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-118,118,Multi Energy,,,,,Rare,Takumi Akabane,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-119,119,Darkness Energy,,,,,Uncommon,Takumi Akabane,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-120,120,Metal Energy,,,,,Uncommon,Takumi Akabane,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-121,121,Electivire,120,Lightning,,LEVEL-UP,Rare Holo LV.X,Shizurow,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-122,122,Lucario,110,Fighting,,LEVEL-UP,Rare Holo LV.X,Ryo Ueda,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-123,123,Magmortar,130,Fire,,LEVEL-UP,Rare Holo LV.X,Shizurow,"normal, reverse",Mysterious Treasures,Diamond & Pearl,124
+dp2-124,124,Time-Space Distortion,,,,,Rare,Shizurow,normal,Mysterious Treasures,Diamond & Pearl,124

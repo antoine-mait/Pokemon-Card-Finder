@@ -1,0 +1,101 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+ex3-1,1,Absol,70,Unlicht,,Basis,Selten,Naoyo Kimura,"normal, reverse, holo",EX Drache,EX,100
+ex3-2,2,Altaria,80,Farblos,,Rang 1,Selten,Atsuko Nishida,"normal, reverse, holo",EX Drache,EX,100
+ex3-3,3,Krebutack,80,Wasser,,Rang 1,Selten,Hisao Nakamura,"normal, reverse, holo",EX Drache,EX,100
+ex3-4,4,Libelldra,120,Farblos,,Rang 2,Selten,Mitsuhiro Arita,"normal, reverse, holo",EX Drache,EX,100
+ex3-5,5,Geowaz,120,Kampf,,Rang 2,Selten,Hisao Nakamura,"normal, reverse, holo",EX Drache,EX,100
+ex3-6,6,Groink,80,Psycho,,Rang 1,Selten,Midori Harada,"normal, reverse, holo",EX Drache,EX,100
+ex3-7,7,Minun,50,Elektro,,Basis,Selten,Atsuko Nishida,"normal, reverse, holo",EX Drache,EX,100
+ex3-8,8,Plusle,50,Elektro,,Basis,Selten,Atsuko Nishida,"normal, reverse, holo",EX Drache,EX,100
+ex3-9,9,Roselia,60,Pflanze,,Basis,Selten,Atsuko Nishida,"normal, reverse, holo",EX Drache,EX,100
+ex3-10,10,Brutalanda,120,Farblos,,Rang 2,Selten,Mitsuhiro Arita,"normal, reverse, holo",EX Drache,EX,100
+ex3-11,11,Ninjatom,30,Pflanze,,Rang 1,Selten,Kagemaru Himeno,"normal, reverse, holo",EX Drache,EX,100
+ex3-12,12,Qurtel,80,Feuer,,Basis,Selten,Kagemaru Himeno,"normal, reverse, holo",EX Drache,EX,100
+ex3-13,13,Krebutack,80,Wasser,,Rang 1,Selten,Kagemaru Himeno,"normal, reverse, holo",EX Drache,EX,100
+ex3-14,14,Dragonir,70,Farblos,,Rang 1,Selten,Aya Kusube,"normal, reverse, holo",EX Drache,EX,100
+ex3-15,15,Libelldra,100,Farblos,,Rang 2,Selten,Hajime Kusajima,"normal, reverse, holo",EX Drache,EX,100
+ex3-16,16,Girafarig,70,Psycho,,Basis,Selten,Midori Harada,"normal, reverse, holo",EX Drache,EX,100
+ex3-17,17,Magneton,70,Elektro,,Rang 1,Selten,Midori Harada,"normal, reverse, holo",EX Drache,EX,100
+ex3-18,18,Ninjask,70,Pflanze,,Rang 1,Selten,Hajime Kusajima,"normal, reverse, holo",EX Drache,EX,100
+ex3-19,19,Brutalanda,100,Farblos,,Rang 2,Selten,Kouki Saitou,"normal, reverse, holo",EX Drache,EX,100
+ex3-20,20,Draschel,80,Farblos,,Rang 1,Selten,Mitsuhiro Arita,"normal, reverse, holo",EX Drache,EX,100
+ex3-21,21,Panzaeron,70,Metall,,Basis,Selten,Hisao Nakamura,"normal, reverse, holo",EX Drache,EX,100
+ex3-22,22,Vibrava,80,Farblos,,Rang 1,Selten,Kagemaru Himeno,"normal, reverse, holo",EX Drache,EX,100
+ex3-23,23,Kindwurm,50,Farblos,,Basis,Ungewöhnlich,Mitsuhiro Arita,"normal, reverse, holo",EX Drache,EX,100
+ex3-24,24,Camerupt,80,Feuer,,Rang 1,Ungewöhnlich,Naoyo Kimura,"normal, reverse, holo",EX Drache,EX,100
+ex3-25,25,Jungglut,70,Feuer,,Rang 1,Ungewöhnlich,Atsuko Nishida,"normal, reverse, holo",EX Drache,EX,100
+ex3-26,26,Dratini,50,Farblos,,Basis,Ungewöhnlich,Aya Kusube,"normal, reverse, holo",EX Drache,EX,100
+ex3-27,27,Waaty,80,Elektro,,Rang 1,Ungewöhnlich,Miki Tanaka,"normal, reverse, holo",EX Drache,EX,100
+ex3-28,28,Forstellka,80,Metall,,Rang 1,Ungewöhnlich,Mitsuhiro Arita,"normal, reverse, holo",EX Drache,EX,100
+ex3-29,29,Georok,80,Kampf,,Rang 1,Ungewöhnlich,Hisao Nakamura,"normal, reverse, holo",EX Drache,EX,100
+ex3-30,30,Georok,80,Kampf,,Rang 1,Ungewöhnlich,Midori Harada,"normal, reverse, holo",EX Drache,EX,100
+ex3-31,31,Reptain,70,Pflanze,,Rang 1,Ungewöhnlich,Atsuko Nishida,"normal, reverse, holo",EX Drache,EX,100
+ex3-32,32,Garados,100,Wasser,,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse, holo",EX Drache,EX,100
+ex3-33,33,Seeper,40,Wasser,,Basis,Ungewöhnlich,Hajime Kusajima,"normal, reverse, holo",EX Drache,EX,100
+ex3-34,34,Hundemon,70,Unlicht,,Rang 1,Ungewöhnlich,Atsuko Nishida,"normal, reverse, holo",EX Drache,EX,100
+ex3-35,35,Magneton,80,Elektro,,Rang 1,Ungewöhnlich,Kyoko Umemoto,"normal, reverse, holo",EX Drache,EX,100
+ex3-36,36,Moorabbel,80,Wasser,,Rang 1,Ungewöhnlich,Atsuko Nishida,"normal, reverse, holo",EX Drache,EX,100
+ex3-37,37,Meditie,50,Kampf,,Basis,Ungewöhnlich,Kouki Saitou,"normal, reverse, holo",EX Drache,EX,100
+ex3-38,38,Ninjask,70,Pflanze,,Rang 1,Ungewöhnlich,Toshinao Aoki,"normal, reverse, holo",EX Drache,EX,100
+ex3-39,39,Seemon,70,Wasser,,Rang 1,Ungewöhnlich,Hajime Kusajima,"normal, reverse, holo",EX Drache,EX,100
+ex3-40,40,Seemon,70,Wasser,,Rang 1,Ungewöhnlich,Midori Harada,"normal, reverse, holo",EX Drache,EX,100
+ex3-41,41,Draschel,70,Farblos,,Rang 1,Ungewöhnlich,Yuka Morii,"normal, reverse, holo",EX Drache,EX,100
+ex3-42,42,Draschel,70,Farblos,,Rang 1,Ungewöhnlich,Ken Sugimori,"normal, reverse, holo",EX Drache,EX,100
+ex3-43,43,Shuppet,50,Psycho,,Basis,Ungewöhnlich,Aya Kusube,"normal, reverse, holo",EX Drache,EX,100
+ex3-44,44,Schneppke,50,Wasser,,Basis,Ungewöhnlich,Sumiyoshi Kizuki,"normal, reverse, holo",EX Drache,EX,100
+ex3-45,45,Schwalboss,70,Farblos,,Rang 1,Ungewöhnlich,Mitsuhiro Arita,"normal, reverse, holo",EX Drache,EX,100
+ex3-46,46,Vibrava,70,Farblos,,Rang 1,Ungewöhnlich,Hajime Kusajima,"normal, reverse, holo",EX Drache,EX,100
+ex3-47,47,Vibrava,70,Farblos,,Rang 1,Ungewöhnlich,Ken Sugimori,"normal, reverse, holo",EX Drache,EX,100
+ex3-48,48,Welsar,90,Wasser,,Rang 1,Ungewöhnlich,Tomokazu,"normal, reverse, holo",EX Drache,EX,100
+ex3-49,49,Kindwurm,40,Farblos,,Basis,Häufig,Ken Sugimori,"normal, reverse, holo",EX Drache,EX,100
+ex3-50,50,Kindwurm,50,Farblos,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",EX Drache,EX,100
+ex3-51,51,Schmerbe,50,Wasser,,Basis,Häufig,Tomokazu Komiya,"normal, reverse, holo",EX Drache,EX,100
+ex3-52,52,Krebscorps,40,Wasser,,Basis,Häufig,Ken Sugimori,"normal, reverse, holo",EX Drache,EX,100
+ex3-53,53,Krebscorps,50,Wasser,,Basis,Häufig,Kagemaru Himeno,"normal, reverse, holo",EX Drache,EX,100
+ex3-54,54,Krebscorps,50,Wasser,,Basis,Häufig,Hisao Nakamura,"normal, reverse, holo",EX Drache,EX,100
+ex3-55,55,Kleinstein,50,Kampf,,Basis,Häufig,Hisao Nakamura,"normal, reverse, holo",EX Drache,EX,100
+ex3-56,56,Kleinstein,40,Kampf,,Basis,Häufig,Midori Harada,"normal, reverse, holo",EX Drache,EX,100
+ex3-57,57,Sleima,50,Pflanze,,Basis,Häufig,Yuka Morii,"normal, reverse, holo",EX Drache,EX,100
+ex3-58,58,Seeper,50,Wasser,,Basis,Häufig,Midori Harada,"normal, reverse, holo",EX Drache,EX,100
+ex3-59,59,Hunduster,50,Unlicht,,Basis,Häufig,Hajime Kusajima,"normal, reverse, holo",EX Drache,EX,100
+ex3-60,60,Karpador,30,Wasser,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",EX Drache,EX,100
+ex3-61,61,Magnetilo,40,Elektro,,Basis,Häufig,Tomokazu Komiya,"normal, reverse, holo",EX Drache,EX,100
+ex3-62,62,Magnetilo,50,Elektro,,Basis,Häufig,Midori Harada,"normal, reverse, holo",EX Drache,EX,100
+ex3-63,63,Magnetilo,50,Elektro,,Basis,Häufig,Kyoko Umemoto,"normal, reverse, holo",EX Drache,EX,100
+ex3-64,64,Voltilamm,50,Elektro,,Basis,Häufig,Miki Tanaka,"normal, reverse, holo",EX Drache,EX,100
+ex3-65,65,Hydropi,50,Wasser,,Basis,Häufig,Hironobu Yoshida,"normal, reverse, holo",EX Drache,EX,100
+ex3-66,66,Nincada,40,Pflanze,,Basis,Häufig,Toshinao Aoki,"normal, reverse, holo",EX Drache,EX,100
+ex3-67,67,Nincada,50,Pflanze,,Basis,Häufig,Ken Sugimori,"normal, reverse, holo",EX Drache,EX,100
+ex3-68,68,Nincada,50,Pflanze,,Basis,Häufig,Hajime Kusajima,"normal, reverse, holo",EX Drache,EX,100
+ex3-69,69,Camaub,40,Feuer,,Basis,Häufig,Yuka Morii,"normal, reverse, holo",EX Drache,EX,100
+ex3-70,70,Camaub,50,Feuer,,Basis,Häufig,Naoyo Kimura,"normal, reverse, holo",EX Drache,EX,100
+ex3-71,71,Tannza,40,Pflanze,,Basis,Häufig,Hajime Kusajima,"normal, reverse, holo",EX Drache,EX,100
+ex3-72,72,Schneckmag,50,Feuer,,Basis,Häufig,Kyoko Umemoto,"normal, reverse, holo",EX Drache,EX,100
+ex3-73,73,Spoink,50,Psycho,,Basis,Häufig,Miki Tanaka,"normal, reverse, holo",EX Drache,EX,100
+ex3-74,74,Spoink,50,Psycho,,Basis,Häufig,Midori Harada,"normal, reverse, holo",EX Drache,EX,100
+ex3-75,75,Wablu,40,Farblos,,Basis,Häufig,Atsuko Nishida,"normal, reverse, holo",EX Drache,EX,100
+ex3-76,76,Schwalbini,50,Farblos,,Basis,Häufig,Kyoko Umemoto,"normal, reverse, holo",EX Drache,EX,100
+ex3-77,77,Flemmli,50,Feuer,,Basis,Häufig,Hironobu Yoshida,"normal, reverse, holo",EX Drache,EX,100
+ex3-78,78,Knacklion,50,Kampf,,Basis,Häufig,Yuka Morii,"normal, reverse, holo",EX Drache,EX,100
+ex3-79,79,Knacklion,50,Kampf,,Basis,Häufig,Ken Sugimori,"normal, reverse, holo",EX Drache,EX,100
+ex3-80,80,Geckarbor,50,Pflanze,,Basis,Häufig,Hajime Kusajima,"normal, reverse, holo",EX Drache,EX,100
+ex3-81,81,Waumpel,50,Pflanze,,Basis,Häufig,Midori Harada,"normal, reverse, holo",EX Drache,EX,100
+ex3-82,82,Ballonbeere,,,,,Ungewöhnlich,Keiji Kinebuchi,"normal, reverse, holo",EX Drache,EX,100
+ex3-83,83,Dämpfender Talisman,,,,,Ungewöhnlich,Katsura Tabata,"normal, reverse, holo",EX Drache,EX,100
+ex3-84,84,Energie Wiederverwertung,,,,,Ungewöhnlich,Zu-Ka,"normal, reverse, holo",EX Drache,EX,100
+ex3-85,85,Hochdrucksystem,,,,,Ungewöhnlich,Ken Ikuji,"normal, reverse, holo",EX Drache,EX,100
+ex3-86,86,Tiefdrucksystem,,,,,Ungewöhnlich,Shin-ichi Yoshikawa,"normal, reverse, holo",EX Drache,EX,100
+ex3-87,87,Mr. Bracks Mitgefühl,,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse, holo",EX Drache,EX,100
+ex3-88,88,TV Reporter,,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse, holo",EX Drache,EX,100
+ex3-89,89,Ampharos ex,150,Elektro,,,Selten,Ryo Ueda,"normal, reverse, holo",EX Drache,EX,100
+ex3-90,90,Dragoran ex,150,Farblos,,,Selten,Ryo Ueda,"normal, reverse, holo",EX Drache,EX,100
+ex3-91,91,Geowaz ex,160,Kampf,,,Selten,Hikaru Koike,"normal, reverse, holo",EX Drache,EX,100
+ex3-92,92,Seedraking ex,150,Wasser,,,Selten,Hikaru Koike,"normal, reverse, holo",EX Drache,EX,100
+ex3-93,93,Latias ex,90,Farblos,,,Selten,Ryo Ueda,"normal, reverse, holo",EX Drache,EX,100
+ex3-94,94,Latios ex,100,Farblos,,,Selten,Ryo Ueda,"normal, reverse, holo",EX Drache,EX,100
+ex3-95,95,Magcargo ex,100,Feuer,,,Selten,Hikaru Koike,"normal, reverse, holo",EX Drache,EX,100
+ex3-96,96,Sleimok ex,100,Pflanze,,,Selten,Hikaru Koike,"normal, reverse, holo",EX Drache,EX,100
+ex3-97,97,Rayquaza ex,100,Farblos,,,Selten,Hikaru Koike,"normal, reverse, holo",EX Drache,EX,100
+ex3-98,98,Glumanda,50,Feuer,,Basis,Selten,Mitsuhiro Arita,"normal, reverse, holo",EX Drache,EX,100
+ex3-99,99,Glutexo,70,Feuer,,Rang 1,Selten,Mitsuhiro Arita,"normal, reverse, holo",EX Drache,EX,100
+ex3-100,100,Glurak,120,Feuer,,Rang 2,Selten,Mitsuhiro Arita,"normal, reverse, holo",EX Drache,EX,100

@@ -1,0 +1,58 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+neo2-001,001,キャタピー,50,Grass,,Basic,Common,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-002,002,雑草,40,Grass,,Basic,Common,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-003,003,スパラク,50,Grass,,Basic,Common,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-004,004,ホッピップ,30,Grass,,Basic,Common,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-005,005,Pineco,40,Grass,,Basic,Common,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-006,006,メタポッド,70,Grass,,Stage1,Uncommon,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-007,007,カクナ,70,Grass,,Stage1,Uncommon,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-008,008,スキスター,60,Grass,,Basic,Uncommon,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-009,009,蝶,80,Grass,,Stage2,Holo Rare,,holo,遺跡をこえて...,ポケモンカード★neo,57
+neo2-010,010,beedrill,80,Grass,,Stage2,Holo Rare,,holo,遺跡をこえて...,ポケモンカード★neo,57
+neo2-011,011,ヤンマ,60,Grass,,Basic,Holo Rare,,holo,遺跡をこえて...,ポケモンカード★neo,57
+neo2-012,012,ハウンドア（HR）,50,Fire,,Basic,Holo Rare,,holo,遺跡をこえて...,ポケモンカード★neo,57
+neo2-013,013,poliwag,40,Water,,Basic,Common,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-014,014,カブト,50,Water,,Stage1,Common,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-015,015,ウーパー,50,Water,,Basic,Common,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-016,016,PoliWhirl,70,Water,,Stage1,Uncommon,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-017,017,コルサラ,50,Water,,Basic,Uncommon,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-018,018,カブトップス,90,Water,,Stage2,Holo Rare,,holo,遺跡をこえて...,ポケモンカード★neo,57
+neo2-019,019,政治,100,Water,,Stage2,Holo Rare,,holo,遺跡をこえて...,ポケモンカード★neo,57
+neo2-020,020,Mareep,50,Lightning,,Basic,Common,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-021,021,ダークライチュ,70,Lightning,,Stage1,Secret Rare,,holo,遺跡をこえて...,ポケモンカード★neo,57
+neo2-022,022,natu,40,Psychic,,Basic,Common,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-023,023,未作外,40,Psychic,,Basic,Common,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-024,024,xatu,70,Psychic,,Stage1,Uncommon,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-025,025,d,40,Psychic,,Basic,Uncommon,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-026,026,f,40,Psychic,,Basic,Uncommon,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-027,027,未定のm,40,Psychic,,Basic,Uncommon,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-028,028,Unown u,40,Psychic,,Basic,Uncommon,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-029,029,エスペオン,80,Psychic,,Stage1,Holo Rare,,holo,遺跡をこえて...,ポケモンカード★neo,57
+neo2-030,030,a,40,Psychic,,Basic,Holo Rare,,holo,遺跡をこえて...,ポケモンカード★neo,57
+neo2-031,031,ウォブバフェット,90,Psychic,,Basic,Holo Rare,,holo,遺跡をこえて...,ポケモンカード★neo,57
+neo2-032,032,オマニテ,50,Fighting,,Stage1,Common,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-033,033,タイログ,30,Fighting,,Baby,Common,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-034,034,幼虫,40,Fighting,,Basic,Common,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-035,035,Omastar,80,Fighting,,Stage2,Uncommon,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-036,036,Pupitar,70,Fighting,,Stage1,Uncommon,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-037,037,Poliwrath,90,Fighting,,Stage2,Holo Rare,,holo,遺跡をこえて...,ポケモンカード★neo,57
+neo2-038,038,ヒットモントップ,60,Fighting,,Basic,Holo Rare,,holo,遺跡をこえて...,ポケモンカード★neo,57
+neo2-039,039,houndour（u）,40,Darkness,,Basic,Uncommon,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-040,040,Umbreon,80,Darkness,,Stage1,Holo Rare,,holo,遺跡をこえて...,ポケモンカード★neo,57
+neo2-041,041,猟犬,70,Darkness,,Stage1,Holo Rare,,holo,遺跡をこえて...,ポケモンカード★neo,57
+neo2-042,042,タイラニター,100,Darkness,,Stage2,Holo Rare,,holo,遺跡をこえて...,ポケモンカード★neo,57
+neo2-043,043,マグナイト,40,Metal,,Basic,Holo Rare,,holo,遺跡をこえて...,ポケモンカード★neo,57
+neo2-044,044,forretress,80,Metal,,Stage1,Holo Rare,,holo,遺跡をこえて...,ポケモンカード★neo,57
+neo2-045,045,Scizor,80,Metal,,Stage1,Holo Rare,,holo,遺跡をこえて...,ポケモンカード★neo,57
+neo2-046,046,セントレット,50,Colorless,,Basic,Common,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-047,047,ダンズパース,30,Colorless,,Basic,Common,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-048,048,Teddiursa,40,Colorless,,Basic,Common,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-049,049,Eevee,50,Colorless,,Basic,Uncommon,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-050,050,Igglybuff,30,Colorless,,Baby,Uncommon,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-051,051,ウルサリング,80,Colorless,,Stage1,Holo Rare,,holo,遺跡をこえて...,ポケモンカード★neo,57
+neo2-052,052,Smeargle,50,Colorless,,Basic,Holo Rare,,holo,遺跡をこえて...,ポケモンカード★neo,57
+neo2-053,053,エネルギーアーク,,,,,Common,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-054,054,壁を台無しにする[カブト],,,,,Uncommon,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-055,055,化石卵,,,,,Uncommon,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-056,056,ハイパーデボルブスプレー,,,,,Uncommon,,normal,遺跡をこえて...,ポケモンカード★neo,57
+neo2-057,057,壁を台無しにする[aerodactyl],,,,,Uncommon,,normal,遺跡をこえて...,ポケモンカード★neo,57

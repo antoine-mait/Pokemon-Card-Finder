@@ -1,0 +1,101 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+dp5-1,1,Articuno,100,Water,,Basic,Rare Holo,Masakazu Fukuda,"reverse, holo",Majestic Dawn,Diamond & Pearl,100
+dp5-2,2,Cresselia,70,Psychic,,Basic,Rare Holo,Mitsuhiro Arita,"reverse, holo",Majestic Dawn,Diamond & Pearl,100
+dp5-3,3,Darkrai,80,Darkness,,Basic,Rare Holo,Mitsuhiro Arita,"reverse, holo",Majestic Dawn,Diamond & Pearl,100
+dp5-4,4,Dialga,100,Metal,,Basic,Rare Holo,Masakazu Fukuda,"reverse, holo",Majestic Dawn,Diamond & Pearl,100
+dp5-5,5,Glaceon,80,Water,Eevee,Stage1,Rare Holo,Atsuko Nishida,"reverse, holo",Majestic Dawn,Diamond & Pearl,100
+dp5-6,6,Kabutops,120,Fighting,Kabuto,Stage2,Rare Holo,Kouki Saitou,"reverse, holo",Majestic Dawn,Diamond & Pearl,100
+dp5-7,7,Leafeon,90,Grass,Eevee,Stage1,Rare Holo,Kouki Saitou,"reverse, holo",Majestic Dawn,Diamond & Pearl,100
+dp5-8,8,Manaphy,70,Water,,Basic,Rare Holo,Suwama Chiaki,"reverse, holo",Majestic Dawn,Diamond & Pearl,100
+dp5-9,9,Mewtwo,90,Psychic,,Basic,Rare Holo,Kent Kanetsuna,"normal, reverse, holo",Majestic Dawn,Diamond & Pearl,100
+dp5-10,10,Moltres,100,Fire,,Basic,Rare Holo,Kagemaru Himeno,"reverse, holo",Majestic Dawn,Diamond & Pearl,100
+dp5-11,11,Palkia,100,Water,,Basic,Rare Holo,Masakazu Fukuda,"reverse, holo",Majestic Dawn,Diamond & Pearl,100
+dp5-12,12,Phione,60,Water,,Basic,Rare Holo,Daisuke Ito,"reverse, holo",Majestic Dawn,Diamond & Pearl,100
+dp5-13,13,Rotom,60,Lightning,,Basic,Rare Holo,Kagemaru Himeno,"reverse, holo",Majestic Dawn,Diamond & Pearl,100
+dp5-14,14,Zapdos,100,Lightning,,Basic,Rare Holo,Mitsuhiro Arita,"reverse, holo",Majestic Dawn,Diamond & Pearl,100
+dp5-15,15,Aerodactyl,80,Colorless,Old Amber,Stage1,Rare,Kouki Saitou,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-16,16,Bronzong,90,Psychic,Bronzor,Stage1,Rare,Kouki Saitou,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-17,17,Empoleon,130,Water,Prinplup,Stage2,Rare,Kent Kanetsuna,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-18,18,Espeon,80,Psychic,Eevee,Stage1,Rare,Naoyo Kimura,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-19,19,Flareon,90,Fire,Eevee,Stage1,Rare,Mitsuhiro Arita,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-20,20,Glaceon,90,Water,Eevee,Stage1,Rare,Masakazu Fukuda,"normal, reverse, holo",Majestic Dawn,Diamond & Pearl,100
+dp5-21,21,Hippowdon,100,Fighting,Hippopotas,Stage1,Rare,Kent Kanetsuna,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-22,22,Infernape,110,Fire,Monferno,Stage2,Rare,Daisuke Ito,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-23,23,Jolteon,80,Lightning,Eevee,Stage1,Rare,Midori Harada,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-24,24,Leafeon,90,Grass,Eevee,Stage1,Rare,Masakazu Fukuda,"normal, reverse, holo",Majestic Dawn,Diamond & Pearl,100
+dp5-25,25,Minun,60,Lightning,,Basic,Rare,Suwama Chiaki,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-26,26,Omastar,110,Water,Omanyte,Stage2,Rare,Masakazu Fukuda,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-27,27,Phione,70,Water,,Basic,Rare,Ken Sugimori,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-28,28,Plusle,60,Lightning,,Basic,Rare,Suwama Chiaki,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-29,29,Scizor,90,Metal,Scyther,Stage1,Rare,Daisuke Ito,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-30,30,Torterra,140,Grass,Grotle,Stage2,Rare,Daisuke Ito,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-31,31,Toxicroak,90,Psychic,Croagunk,Stage1,Rare,Kent Kanetsuna,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-32,32,Umbreon,80,Darkness,Eevee,Stage1,Rare,Masakazu Fukuda,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-33,33,Unown P,50,Psychic,,Basic,Rare,Kent Kanetsuna,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-34,34,Vaporeon,90,Water,Eevee,Stage1,Rare,Kagemaru Himeno,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-35,35,Ambipom,80,Colorless,Aipom,Stage1,Uncommon,Ken Sugimori,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-36,36,Fearow,80,Colorless,Spearow,Stage1,Uncommon,Ken Sugimori,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-37,37,Grotle,90,Grass,Turtwig,Stage1,Uncommon,Daisuke Ito,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-38,38,Kangaskhan,90,Colorless,,Basic,Uncommon,Atsuko Nishida,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-39,39,Lickitung,70,Colorless,,Basic,Uncommon,Kagemaru Himeno,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-40,40,Manectric,80,Lightning,Electrike,Stage1,Uncommon,Daisuke Ito,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-41,41,Monferno,70,Fire,Chimchar,Stage1,Uncommon,Daisuke Ito,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-42,42,Mothim,80,Grass,Burmy,Stage1,Uncommon,Masakazu Fukuda,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-43,43,Pachirisu,70,Lightning,,Basic,Uncommon,Tomokazu Komiya,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-44,44,Prinplup,80,Water,Piplup,Stage1,Uncommon,Kent Kanetsuna,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-45,45,Raichu,90,Lightning,Pikachu,Stage1,Uncommon,Daisuke Ito,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-46,46,Scyther,70,Grass,,Basic,Uncommon,Ken Sugimori,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-47,47,Staravia,80,Colorless,Starly,Stage1,Uncommon,Kent Kanetsuna,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-48,48,Sudowoodo,80,Fighting,,Basic,Uncommon,Kouki Saitou,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-49,49,Unown Q,30,Psychic,,Basic,Uncommon,Kent Kanetsuna,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-50,50,Aipom,60,Colorless,,Basic,Common,Tomokazu Komiya,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-51,51,Aipom,60,Colorless,,Basic,Common,Kouki Saitou,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-52,52,Bronzor,50,Psychic,,Basic,Common,Daisuke Ito,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-53,53,Buneary,50,Colorless,,Basic,Common,Kouki Saitou,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-54,54,Burmy Sandy Cloak,50,Grass,,Basic,Common,Ken Sugimori,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-55,55,Chatot,60,Colorless,,Basic,Common,Kagemaru Himeno,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-56,56,Chimchar,40,Fire,,Basic,Common,Daisuke Ito,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-57,57,Chimchar,50,Fire,,Basic,Common,Naoyo Kimura,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-58,58,Chingling,40,Psychic,,Basic,Common,Ken Sugimori,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-59,59,Combee,50,Grass,,Basic,Common,Midori Harada,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-60,60,Croagunk,60,Psychic,,Basic,Common,Kent Kanetsuna,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-61,61,Drifloon,60,Psychic,,Basic,Common,Masakazu Fukuda,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-62,62,Eevee,60,Colorless,,Basic,Common,Ken Sugimori,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-63,63,Eevee,60,Colorless,,Basic,Common,Kagemaru Himeno,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-64,64,Electrike,60,Lightning,,Basic,Common,Daisuke Ito,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-65,65,Glameow,60,Colorless,,Basic,Common,Masakazu Fukuda,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-66,66,Hippopotas,60,Fighting,,Basic,Common,Kent Kanetsuna,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-67,67,Kabuto,80,Fighting,Dome Fossil,Stage1,Common,Midori Harada,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-68,68,Munchlax,60,Colorless,,Basic,Common,Masakazu Fukuda,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-69,69,Omanyte,70,Water,Helix Fossil,Stage1,Common,Suwama Chiaki,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-70,70,Pikachu,60,Lightning,,Basic,Common,Daisuke Ito,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-71,71,Piplup,60,Water,,Basic,Common,Kent Kanetsuna,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-72,72,Piplup,50,Water,,Basic,Common,Naoyo Kimura,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-73,73,Shellos East Sea,60,Water,,Basic,Common,Midori Harada,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-74,74,Spearow,50,Colorless,,Basic,Common,Ken Sugimori,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-75,75,Starly,50,Colorless,,Basic,Common,Kent Kanetsuna,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-76,76,Stunky,60,Darkness,,Basic,Common,Kouki Saitou,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-77,77,Turtwig,60,Grass,,Basic,Common,Daisuke Ito,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-78,78,Turtwig,60,Grass,,Basic,Common,Naoyo Kimura,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-79,79,Dawn Stadium,,,,,Uncommon,Ryo Ueda,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-80,80,Dusk Ball,,,,,Uncommon,Ryo Ueda,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-81,81,Energy Restore,,,,,Uncommon,Hideyuki Nakajima,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-82,82,Fossil Excavator,,,,,Uncommon,Kanako Eo,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-83,83,Mom's Kindness,,,,,Uncommon,Ken Sugimori,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-84,84,Old Amber,50,,,,Uncommon,Ryo Ueda,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-85,85,Poké Ball,,,,,Uncommon,Ryo Ueda,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-86,86,Quick Ball,,,,,Uncommon,Ryo Ueda,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-87,87,Super Scoop Up,,,,,Uncommon,Shizurow,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-88,88,Warp Point,,,,,Uncommon,Ryo Ueda,"normal, reverse, holo",Majestic Dawn,Diamond & Pearl,100
+dp5-89,89,Dome Fossil,50,,,,Common,Ryo Ueda,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-90,90,Energy Search,,,,,Common,Ryo Ueda,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-91,91,Helix Fossil,50,,,,Common,Ryo Ueda,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-92,92,Call Energy,,,,,Uncommon,Takumi Akabane,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-93,93,Darkness Energy,,,,,Uncommon,Takumi Akabane,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-94,94,Health Energy,,,,,Uncommon,Takumi Akabane,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-95,95,Metal Energy,,,,,Uncommon,Takumi Akabane,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-96,96,Recover Energy,,,,,Uncommon,Takumi Akabane,"normal, reverse",Majestic Dawn,Diamond & Pearl,100
+dp5-97,97,Garchomp,140,Colorless,,LEVEL-UP,Rare Holo LV.X,Ryo Ueda,holo,Majestic Dawn,Diamond & Pearl,100
+dp5-98,98,Glaceon,100,Water,,LEVEL-UP,Rare Holo LV.X,Ryo Ueda,holo,Majestic Dawn,Diamond & Pearl,100
+dp5-99,99,Leafeon,110,Grass,,LEVEL-UP,Rare Holo LV.X,Ryo Ueda,holo,Majestic Dawn,Diamond & Pearl,100
+dp5-100,100,Porygon-Z,130,Colorless,,LEVEL-UP,Rare Holo LV.X,Ryo Ueda,holo,Majestic Dawn,Diamond & Pearl,100

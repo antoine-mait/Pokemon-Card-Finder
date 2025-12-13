@@ -1,0 +1,113 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+xy6-1,1,Owei,40,Pflanze,,Basis,Häufig,Tomokazu Komiya,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-2,2,Kokowei,120,Pflanze,Owei,Rang 1,Ungewöhnlich,Shin Nagasawa,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-3,3,Waumpel,60,Pflanze,,Basis,Häufig,Naoyo Kimura,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-4,4,Schaloko,80,Pflanze,Waumpel,Rang 1,Ungewöhnlich,Shigenori Negishi,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-5,5,Papinella,130,Pflanze,Schaloko,Rang 2,Selten,Midori Harada,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-6,6,Panekon,80,Pflanze,Waumpel,Rang 1,Häufig,MAHOU,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-7,7,Pudox,140,Pflanze,Panekon,Rang 2,Ungewöhnlich,Akira Komayama,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-8,8,Pudox,130,Pflanze,Panekon,Rang 2,Selten,match,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-9,9,Nincada,40,Pflanze,,Basis,Häufig,Kyoko Umemoto,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-10,10,Ninjask,70,Pflanze,Nincada,Rang 1,Ungewöhnlich,Sumiyoshi Kizuki,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-11,11,Ninjatom,30,Pflanze,Nincada,Rang 1,Selten,Aya Kusube,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-12,12,Tropius,110,Pflanze,,Basis,Ungewöhnlich,Kyoko Umemoto,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-13,13,Victini,70,Feuer,,Basis,Selten,Kouki Saitou,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-14,14,Dartignis,70,Feuer,Dartiri,Rang 1,Ungewöhnlich,Naoyo Kimura,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-15,15,Fiaro,130,Feuer,Dartignis,Rang 2,Selten,Masakazu Fukuda,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-16,16,Arktos,120,Wasser,,Basis,Selten,Naoki Saito,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-17,17,Arktos,120,Wasser,,Basis,Selten,5ban Graphics,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-18,18,Wingull,60,Wasser,,Basis,Häufig,MAHOU,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-19,19,Pelipper,100,Wasser,Wingull,Rang 1,Ungewöhnlich,Midori Harada,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-20,20,Pikachu,60,Elektro,,Basis,Häufig,Naoki Saito,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-21,21,Voltobal,60,Elektro,,Basis,Häufig,Suwama Chiaki,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-22,22,Lektrobal,90,Elektro,Voltobal,Rang 1,Ungewöhnlich,Tomokazu Komiya,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-23,23,Zapdos,120,Elektro,,Basis,Selten,Hitoshi Ariga,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-24,24,Frizelbliz,60,Elektro,,Basis,Häufig,Akira Komayama,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-25,25,Voltenso,90,Elektro,Frizelbliz,Rang 1,Ungewöhnlich,match,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-26,26,Voltolos EX,170,Elektro,,Basis,Ultra Selten,Eske Yoshinob,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-27,27,Natu,50,Psycho,,Basis,Häufig,Atsuko Nishida,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-28,28,Natu,40,Psycho,,Basis,Häufig,Kagemaru Himeno,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-29,29,Xatu,90,Psycho,Natu,Rang 1,Selten,Hajime Kusajima,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-30,30,Shuppet,60,Psycho,,Basis,Häufig,Yukiko Baba,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-31,31,Banette,80,Psycho,Shuppet,Rang 1,Selten,Aya Kusube,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-32,32,Banette,90,Psycho,Shuppet,Rang 1,Selten,Shin Nagasawa,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-33,33,Deoxys,110,Psycho,,Basis,Selten,kawayoo,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-34,34,Galagladi EX,170,Psycho,,Basis,Ultra Selten,Eske Yoshinob,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-35,35,M-Galagladi EX,220,Psycho,Galagladi-EX,MEGA,Ultra Selten,5ban Graphics,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-36,36,Skorgla,70,Kampf,,Basis,Häufig,Suwama Chiaki,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-37,37,Skorgro,90,Kampf,Skorgla,Rang 1,Ungewöhnlich,Hajime Kusajima,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-38,38,Bithora,60,Kampf,,Basis,Häufig,Kanako Eo,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-39,39,Resladero,80,Kampf,,Basis,Häufig,Shin Nagasawa,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-40,40,Absol,100,Unlicht,,Basis,Selten,Kagemaru Himeno,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-41,41,Iscalar,50,Unlicht,,Basis,Häufig,Akira Komayama,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-42,42,Jirachi,70,Metall,,Basis,Selten,Sanosuke Sakuma,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-43,43,Togepi,40,Fee,,Basis,Häufig,HiRON,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-44,44,Togetic,80,Fee,Togepi,Rang 1,Ungewöhnlich,Kanako Eo,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-45,45,Togekiss,140,Fee,Togetic,Rang 2,Selten,Sumiyoshi Kizuki,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-46,46,Togekiss,130,Fee,Togetic,Rang 2,Selten,PLANETA,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-47,47,Rocara,70,Fee,,Basis,Selten,Akira Komayama,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-48,48,Clavion,60,Fee,,Basis,Selten,Kagemaru Himeno,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-49,49,Dratini,50,Drache,,Basis,Häufig,Miki Tanaka,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-50,50,Dragonir,80,Drache,Dratini,Rang 1,Ungewöhnlich,Mizue,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-51,51,Dragoran,150,Drache,Dragonir,Rang 2,Selten,kawayoo,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-52,52,Dragoran,160,Drache,Dragonir,Rang 2,Selten,hatachu,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-53,53,Altaria,80,Drache,Wablu,Rang 1,Ungewöhnlich,Mitsuhiro Arita,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-54,54,Kindwurm,60,Drache,,Basis,Häufig,Kagemaru Himeno,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-55,55,Kindwurm,60,Drache,,Basis,Häufig,kirisAki,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-56,56,Draschel,80,Drache,Kindwurm,Rang 1,Ungewöhnlich,sui,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-57,57,Brutalanda,160,Drache,Draschel,Rang 2,Selten,TOKIYA,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-58,58,Latios EX,170,Drache,,Basis,Ultra Selten,Ayaka Yoshida,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-59,59,M-Latios EX,220,Drache,Latios-EX,MEGA,Ultra Selten,5ban Graphics,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-60,60,Rayquaza EX,180,Drache,,Basis,Ultra Selten,PLANETA,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-61,61,M-Rayquaza EX,230,Drache,Rayquaza-EX,MEGA,Ultra Selten,5ban Graphics,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-62,62,Trikephalo EX,180,Drache,,Basis,Ultra Selten,Eske Yoshinob,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-63,63,Reshiram,130,Drache,,Basis,Selten,Kouki Saitou,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-64,64,Zekrom,130,Drache,,Basis,Selten,kawayoo,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-65,65,Habitak,60,Farblos,,Basis,Häufig,Masakazu Fukuda,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-66,66,Ibitak,100,Farblos,Habitak,Rang 1,Ungewöhnlich,Satoshi Shirai,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-67,67,Mauzi,60,Farblos,,Basis,Häufig,Akira Komayama,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-68,68,Dummisel,60,Farblos,,Basis,Häufig,Yuka Morii,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-69,69,Panzaeron,100,Farblos,,Basis,Selten,Hitoshi Ariga,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-70,70,Schwalbini,50,Farblos,,Basis,Häufig,Atsuko Nishida,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-71,71,Schwalboss,90,Farblos,Schwalbini,Rang 1,Selten,Sanosuke Sakuma,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-72,72,Schwalboss,90,Farblos,Schwalbini,Rang 1,Selten,Mitsuhiro Arita,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-73,73,Wablu,40,Farblos,,Basis,Häufig,Mizue,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-74,74,Altaria,90,Farblos,Wablu,Rang 1,Selten,Naoki Saito,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-75,75,Rayquaza EX,170,Farblos,,Basis,Ultra Selten,Ryota Murayama,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-76,76,M-Rayquaza EX,220,Farblos,Rayquaza-EX,MEGA,Ultra Selten,5ban Graphics,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-77a,77a,Shaymin EX,110,Farblos,,Basis,Selten,Ayaka Yoshida,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-77,77,Shaymin EX,110,Farblos,,Basis,Ultra Selten,Ayaka Yoshida,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-78,78,Dusselgurr,60,Farblos,,Basis,Häufig,kirisAki,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-79,79,Navitaub,80,Farblos,Dusselgurr,Rang 1,Ungewöhnlich,sui,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-80,80,Fasasnob,130,Farblos,Navitaub,Rang 2,Ungewöhnlich,Shigenori Negishi,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-81,81,Fasasnob,140,Farblos,Navitaub,Rang 2,Selten,TOKIYA,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-82,82,Dartiri,40,Farblos,,Basis,Häufig,Kanako Eo,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-83,83,Galagladis Geistesbund,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-84,84,Heilender Schal,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-85,85,Latios' Geistesbund,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-86,86,MegaTurbo,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-87,87,Rayquazas Geistesbund,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-88,88,Beleber,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-89,89,Himmelsfeld,,,,,Ungewöhnlich,Ayaka Yoshida,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-90,90,Troy,,,,,Ungewöhnlich,Megumi Mizutani,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-91,91,Tausch,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-92,92,TrainerPost,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-92a,92a,TrainerPost,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-93,93,Hyperball,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-94,94,Heiko,,,,,Ungewöhnlich,Megumi Mizutani,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-95,95,Großlinse,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-96,96,Wibke,,,,,Ungewöhnlich,Megumi Mizutani,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-97,97,DoppelDrachenEnergie,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-98,98,Voltolos EX,170,Elektro,,Basis,Ultra Selten,Ryo Ueda,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-99,99,Galagladi EX,170,Psycho,,Basis,Ultra Selten,Ryo Ueda,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-100,100,M-Galagladi EX,220,Psycho,Galagladi-EX,MEGA,Ultra Selten,5ban Graphics,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-101,101,Latios EX,170,Drache,,Basis,Ultra Selten,Ryo Ueda,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-102,102,M-Latios EX,220,Drache,Latios-EX,MEGA,Ultra Selten,5ban Graphics,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-103,103,Trikephalo EX,180,Drache,,Basis,Ultra Selten,Ryo Ueda,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-104,104,Rayquaza EX,170,Farblos,,Basis,Ultra Selten,Ryo Ueda,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-105,105,M-Rayquaza EX,220,Farblos,Rayquaza-EX,MEGA,Ultra Selten,5ban Graphics,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-106,106,Shaymin EX,110,Farblos,,Basis,Ultra Selten,Ryo Ueda,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-107,107,Heiko,,,,,Ultra Selten,Emi Ando,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-108,108,Wibke,,,,,Ultra Selten,Megumi Mizutani,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-109,109,EnergieUmschalter,,,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Drachenleuchten,XY,112
+xy6-110,110,Kampffahnder,,,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Drachenleuchten,XY,112

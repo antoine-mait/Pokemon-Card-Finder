@@ -1,0 +1,109 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+ex8-1,1,Altaria,70,Colorless,Swablu,Stage1,Rare,Kyoko Umemoto,holo,Deoxys,EX,108
+ex8-2,2,Beautifly,100,Grass,Silcoon,Stage2,Rare,Kagemaru Himeno,holo,Deoxys,EX,108
+ex8-3,3,Breloom,80,Fighting,Shroomish,Stage1,Rare,Hajime Kusajima,holo,Deoxys,EX,108
+ex8-4,4,Camerupt,90,Fire,Numel,Stage1,Rare,Tomokazu Komiya,"normal, holo",Deoxys,EX,108
+ex8-5,5,Claydol,80,Fighting,Baltoy,Stage1,Rare,Hajime Kusajima,holo,Deoxys,EX,108
+ex8-6,6,Crawdaunt,70,Darkness,Corphish,Stage1,Rare,Tomoko Wakai,holo,Deoxys,EX,108
+ex8-7,7,Dusclops,70,Psychic,Duskull,Stage1,Rare,Tomoko Wakai,holo,Deoxys,EX,108
+ex8-8,8,Gyarados,90,Water,Magikarp,Stage1,Rare,Hisao Nakamura,holo,Deoxys,EX,108
+ex8-9,9,Jirachi,60,Metal,,Basic,Rare,Sumiyoshi Kizuki,holo,Deoxys,EX,108
+ex8-10,10,Ludicolo,100,Water,Lombre,Stage2,Rare,Atsuko Nishida,holo,Deoxys,EX,108
+ex8-11,11,Metagross,100,Psychic,Metang,Stage2,Rare,Hisao Nakamura,holo,Deoxys,EX,108
+ex8-12,12,Mightyena,70,Darkness,Poochyena,Stage1,Rare,Naoyo Kimura,holo,Deoxys,EX,108
+ex8-13,13,Ninjask,70,Grass,Nincada,Stage1,Rare,Katsura Tabata,holo,Deoxys,EX,108
+ex8-14,14,Shedinja,50,Psychic,Nincada,Stage1,Rare,Yukiko Baba,"normal, holo",Deoxys,EX,108
+ex8-15,15,Slaking,120,Colorless,Vigoroth,Stage2,Rare,Mitsuhiro Arita,holo,Deoxys,EX,108
+ex8-16,16,Deoxys,70,Psychic,,Basic,Rare,Hironobu Yoshida,"normal, holo",Deoxys,EX,108
+ex8-17,17,Deoxys,70,Psychic,,Basic,Rare,Hironobu Yoshida,"normal, holo",Deoxys,EX,108
+ex8-18,18,Deoxys,70,Psychic,,Basic,Rare,Hironobu Yoshida,"normal, holo",Deoxys,EX,108
+ex8-19,19,Ludicolo,100,Water,Lombre,Stage2,Rare,Ken Sugimori,"normal, holo",Deoxys,EX,108
+ex8-20,20,Magcargo,80,Fire,Slugma,Stage1,Rare,Midori Harada,"normal, holo",Deoxys,EX,108
+ex8-21,21,Pelipper,70,Water,Wingull,Stage1,Rare,Tomokazu Komiya,"normal, holo",Deoxys,EX,108
+ex8-22,22,Rayquaza,80,Colorless,,Basic,Rare,Hiromichi Sugiyama,"normal, holo",Deoxys,EX,108
+ex8-23,23,Sableye,60,Darkness,,Basic,Rare,Aya Kusube,"normal, holo",Deoxys,EX,108
+ex8-24,24,Seaking,70,Water,Goldeen,Stage1,Rare,Atsuko Nishida,"normal, holo",Deoxys,EX,108
+ex8-25,25,Shiftry,110,Grass,Nuzleaf,Stage2,Rare,Kouki Saitou,"normal, holo",Deoxys,EX,108
+ex8-26,26,Skarmory,70,Metal,,Basic,Rare,Kouki Saitou,"normal, holo",Deoxys,EX,108
+ex8-27,27,Tropius,80,Grass,,Basic,Rare,Miki Tanaka,"normal, holo",Deoxys,EX,108
+ex8-28,28,Whiscash,90,Fighting,Barboach,Stage1,Rare,Miki Tanaka,"normal, holo",Deoxys,EX,108
+ex8-29,29,Xatu,70,Psychic,Natu,Stage1,Rare,Yuka Morii,"normal, holo",Deoxys,EX,108
+ex8-30,30,Donphan,80,Fighting,Phanpy,Stage1,Uncommon,Yuka Morii,"normal, holo",Deoxys,EX,108
+ex8-31,31,Golbat,70,Grass,Zubat,Stage1,Uncommon,Sachiko Adachi,"normal, holo",Deoxys,EX,108
+ex8-32,32,Grumpig,80,Psychic,Spoink,Stage1,Uncommon,Ken Sugimori,"normal, holo",Deoxys,EX,108
+ex8-33,33,Lombre,70,Water,Lotad,Stage1,Uncommon,Atsuko Nishida,"normal, holo",Deoxys,EX,108
+ex8-34,34,Lombre,70,Water,Lotad,Stage1,Uncommon,Ken Sugimori,"normal, holo",Deoxys,EX,108
+ex8-35,35,Lotad,50,Water,,Basic,Uncommon,Atsuko Nishida,"normal, holo",Deoxys,EX,108
+ex8-36,36,Lunatone,60,Fighting,,Basic,Uncommon,Kyoko Umemoto,"normal, holo",Deoxys,EX,108
+ex8-37,37,Magcargo,80,Fire,Slugma,Stage1,Uncommon,Aya Kusube,"normal, holo",Deoxys,EX,108
+ex8-38,38,Manectric,70,Lightning,Electrike,Stage1,Uncommon,Hajime Kusajima,"normal, holo",Deoxys,EX,108
+ex8-39,39,Masquerain,60,Grass,Surskit,Stage1,Uncommon,Mitsuhiro Arita,"normal, holo",Deoxys,EX,108
+ex8-40,40,Metang,80,Psychic,Beldum,Stage1,Uncommon,Hisao Nakamura,"normal, holo",Deoxys,EX,108
+ex8-41,41,Minun,60,Lightning,,Basic,Uncommon,Hajime Kusajima,"normal, holo",Deoxys,EX,108
+ex8-42,42,Nosepass,60,Fighting,,Basic,Uncommon,Sumiyoshi Kizuki,"normal, holo",Deoxys,EX,108
+ex8-43,43,Nuzleaf,70,Grass,Seedot,Stage1,Uncommon,Kouki Saitou,"normal, holo",Deoxys,EX,108
+ex8-44,44,Plusle,60,Lightning,,Basic,Uncommon,Hajime Kusajima,"normal, holo",Deoxys,EX,108
+ex8-45,45,Shelgon,80,Colorless,Bagon,Stage1,Uncommon,Aya Kusube,"normal, holo",Deoxys,EX,108
+ex8-46,46,Silcoon,80,Grass,Wurmple,Stage1,Uncommon,Kagemaru Himeno,"normal, holo",Deoxys,EX,108
+ex8-47,47,Solrock,70,Psychic,,Basic,Uncommon,Kyoko Umemoto,"normal, holo",Deoxys,EX,108
+ex8-48,48,Starmie,70,Water,Staryu,Stage1,Uncommon,Yukiko Baba,"normal, holo",Deoxys,EX,108
+ex8-49,49,Swellow,70,Colorless,Taillow,Stage1,Uncommon,Midori Harada,"normal, holo",Deoxys,EX,108
+ex8-50,50,Vigoroth,80,Colorless,Slakoth,Stage1,Uncommon,Mitsuhiro Arita,"normal, holo",Deoxys,EX,108
+ex8-51,51,Weezing,70,Grass,Koffing,Stage1,Uncommon,Hisao Nakamura,"normal, holo",Deoxys,EX,108
+ex8-52,52,Bagon,50,Colorless,,Basic,Common,Takao Unno,"normal, holo",Deoxys,EX,108
+ex8-53,53,Baltoy,50,Fighting,,Basic,Common,Kenkichi Toyama,"normal, holo",Deoxys,EX,108
+ex8-54,54,Barboach,50,Water,,Basic,Common,Miki Tanaka,"normal, holo",Deoxys,EX,108
+ex8-55,55,Beldum,50,Psychic,,Basic,Common,Hisao Nakamura,"normal, holo",Deoxys,EX,108
+ex8-56,56,Carvanha,50,Darkness,,Basic,Common,Tomokazu Komiya,"normal, holo",Deoxys,EX,108
+ex8-57,57,Corphish,40,Water,,Basic,Common,Takao Unno,"normal, holo",Deoxys,EX,108
+ex8-58,58,Duskull,40,Psychic,,Basic,Common,Tomoko Wakai,"normal, holo",Deoxys,EX,108
+ex8-59,59,Electrike,50,Lightning,,Basic,Common,Naoyo Kimura,"normal, holo",Deoxys,EX,108
+ex8-60,60,Electrike,50,Lightning,,Basic,Common,Hiroki Fuchino,"normal, holo",Deoxys,EX,108
+ex8-61,61,Goldeen,50,Water,,Basic,Common,Atsuko Nishida,"normal, holo",Deoxys,EX,108
+ex8-62,62,Koffing,50,Grass,,Basic,Common,Hisao Nakamura,"normal, holo",Deoxys,EX,108
+ex8-63,63,Lotad,50,Water,,Basic,Common,Ken Sugimori,"normal, holo",Deoxys,EX,108
+ex8-64,64,Magikarp,30,Water,,Basic,Common,Hisao Nakamura,"normal, holo",Deoxys,EX,108
+ex8-65,65,Makuhita,50,Fighting,,Basic,Common,Asuka Iwashita,"normal, holo",Deoxys,EX,108
+ex8-66,66,Natu,50,Psychic,,Basic,Common,Yuka Morii,"normal, holo",Deoxys,EX,108
+ex8-67,67,Nincada,50,Grass,,Basic,Common,Yukiko Baba,"normal, holo",Deoxys,EX,108
+ex8-68,68,Numel,40,Fire,,Basic,Common,Tomokazu Komiya,"normal, holo",Deoxys,EX,108
+ex8-69,69,Phanpy,50,Fighting,,Basic,Common,Yuka Morii,"normal, holo",Deoxys,EX,108
+ex8-70,70,Poochyena,50,Darkness,,Basic,Common,Aimi Tomita,"normal, holo",Deoxys,EX,108
+ex8-71,71,Seedot,40,Grass,,Basic,Common,Kouki Saitou,"normal, holo",Deoxys,EX,108
+ex8-72,72,Shroomish,40,Grass,,Basic,Common,Kanako Eo,"normal, holo",Deoxys,EX,108
+ex8-73,73,Slakoth,40,Colorless,,Basic,Common,Takao Unno,"normal, holo",Deoxys,EX,108
+ex8-74,74,Slugma,50,Fire,,Basic,Common,Aya Kusube,"normal, holo",Deoxys,EX,108
+ex8-75,75,Slugma,50,Fire,,Basic,Common,Midori Harada,"normal, holo",Deoxys,EX,108
+ex8-76,76,Spoink,50,Psychic,,Basic,Common,Ken Sugimori,"normal, holo",Deoxys,EX,108
+ex8-77,77,Staryu,50,Water,,Basic,Common,Yukiko Baba,"normal, holo",Deoxys,EX,108
+ex8-78,78,Surskit,50,Grass,,Basic,Common,Mitsuhiro Arita,"normal, holo",Deoxys,EX,108
+ex8-79,79,Swablu,40,Colorless,,Basic,Common,Kyoko Umemoto,"normal, holo",Deoxys,EX,108
+ex8-80,80,Taillow,40,Colorless,,Basic,Common,Midori Harada,"normal, holo",Deoxys,EX,108
+ex8-81,81,Wingull,50,Water,,Basic,Common,Tomokazu Komiya,"normal, holo",Deoxys,EX,108
+ex8-82,82,Wurmple,50,Grass,,Basic,Common,Kagemaru Himeno,"normal, holo",Deoxys,EX,108
+ex8-83,83,Zubat,50,Grass,,Basic,Common,Sachiko Adachi,"normal, holo",Deoxys,EX,108
+ex8-84,84,Balloon Berry,,,,,Uncommon,Keiji Kinebuchi,"normal, holo",Deoxys,EX,108
+ex8-85,85,Crystal Shard,,,,,Uncommon,Jungo Suzuki,"normal, holo",Deoxys,EX,108
+ex8-86,86,Energy Charge,,,,,Uncommon,Keiji Kinebuchi,"normal, holo",Deoxys,EX,108
+ex8-87,87,Lady Outing,,,,,Uncommon,Ken Sugimori,"normal, holo",Deoxys,EX,108
+ex8-88,88,Master Ball,,,,,Uncommon,Keiji Kinebuchi,"normal, holo",Deoxys,EX,108
+ex8-89,89,Meteor Falls,,,,,Uncommon,Ryo Ueda,"normal, holo",Deoxys,EX,108
+ex8-90,90,Professor Cozmo's Discovery,,,,,Uncommon,Ken Sugimori,"normal, holo",Deoxys,EX,108
+ex8-91,91,Space Center,,,,,Uncommon,Ryo Ueda,"normal, holo",Deoxys,EX,108
+ex8-92,92,Strength Charm,,,,,Uncommon,Keiji Kinebuchi,"normal, holo",Deoxys,EX,108
+ex8-93,93,Boost Energy,,,,,Uncommon,Shin-ichi Yoshikawa,holo,Deoxys,EX,108
+ex8-94,94,Heal Energy,,,,,Uncommon,Takumi Akabane,"normal, holo",Deoxys,EX,108
+ex8-95,95,Scramble Energy,,,,,Uncommon,Takumi Akabane,"normal, holo",Deoxys,EX,108
+ex8-96,96,Crobat ex,130,Grass,Golbat,,Rare,Ryo Ueda,holo,Deoxys,EX,108
+ex8-97,97,Deoxys ex,100,Psychic,,,Rare,Mitsuhiro Arita,holo,Deoxys,EX,108
+ex8-98,98,Deoxys ex,110,Psychic,,,Rare,Mitsuhiro Arita,holo,Deoxys,EX,108
+ex8-99,99,Deoxys ex,90,Psychic,,,Rare,Mitsuhiro Arita,holo,Deoxys,EX,108
+ex8-100,100,Hariyama ex,110,Fighting,Makuhita,,Rare,Ryo Ueda,holo,Deoxys,EX,108
+ex8-101,101,Manectric ex,100,Lightning,Electrike,,Rare,Hikaru Koike,"normal, holo",Deoxys,EX,108
+ex8-102,102,Rayquaza ex,100,Colorless,,,Rare,Shin-ichi Yoshikawa,holo,Deoxys,EX,108
+ex8-103,103,Salamence ex,160,Colorless,Shelgon,,Rare,Hikaru Koike,holo,Deoxys,EX,108
+ex8-104,104,Sharpedo ex,100,Darkness,Carvanha,,Rare,Hikaru Koike,holo,Deoxys,EX,108
+ex8-105,105,Latias Star,80,Colorless,,Basic,Rare,Masakazu Fukuda,"normal, holo",Deoxys,EX,108
+ex8-106,106,Latios Star,80,Colorless,,Basic,Rare,Masakazu Fukuda,holo,Deoxys,EX,108
+ex8-107,107,Rayquaza Star,90,Colorless,,Basic,Rare,Masakazu Fukuda,holo,Deoxys,EX,108
+ex8-108,108,Rocket's Raikou ex,100,Darkness,,Basic,Rare,Ryo Ueda,holo,Deoxys,EX,108

@@ -1,0 +1,184 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+swsh5-1,1,Bellsprout,50,Grass,,Basic,Common,Sekio,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-2,2,Weepinbell,80,Grass,Bellsprout,Stage1,Uncommon,Shibuzoh.,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-3,3,Victreebel,150,Grass,Weepinbell,Stage2,Rare,Tika Matsuno,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-4,4,Cacnea,70,Grass,,Basic,Common,Kazuma Koda,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-5,5,Cacturne,120,Grass,Cacnea,Stage1,Uncommon,Tomokazu Komiya,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-6,6,Kricketune V,180,Grass,,Basic,Holo Rare V,Satoshi Shirai,holo,Battle Styles,Sword & Shield,183
+swsh5-7,7,Cherubi,50,Grass,,Basic,Common,Akira Komayama,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-8,8,Cherrim,80,Grass,Cherubi,Stage1,Holo Rare,Mina Nakai,"reverse, holo",Battle Styles,Sword & Shield,183
+swsh5-9,9,Carnivine,110,Grass,,Basic,Uncommon,AKIRA EGAWA,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-10,10,Durant,90,Grass,,Basic,Uncommon,kodama,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-11,11,Scatterbug,40,Grass,,Basic,Common,Midori Harada,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-12,12,Spewpa,80,Grass,Scatterbug,Stage1,Uncommon,Sumiyoshi Kizuki,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-13,13,Vivillon,120,Grass,Spewpa,Stage2,Rare,miki kudo,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-14,14,Fomantis,60,Grass,,Basic,Common,Yukiko Baba,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-15,15,Lurantis,120,Grass,Fomantis,Stage1,Rare,Anesaki Dynamic,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-16,16,Tapu Bulu,130,Grass,,Basic,Holo Rare,Ryota Murayama,"reverse, holo",Battle Styles,Sword & Shield,183
+swsh5-17,17,Blipbug,50,Grass,,Basic,Common,Masakazu Fukuda,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-18,18,Flapple V,190,Grass,,Basic,Holo Rare V,PLANETA Mochizuki,holo,Battle Styles,Sword & Shield,183
+swsh5-19,19,Flapple VMAX,320,Grass,Flapple V,VMAX,Holo Rare VMAX,PLANETA Tsuji,holo,Battle Styles,Sword & Shield,183
+swsh5-20,20,Entei,130,Fire,,Basic,Holo Rare,kodama,"reverse, holo",Battle Styles,Sword & Shield,183
+swsh5-21,21,Victini V,190,Fire,,Basic,Holo Rare V,Kagemaru Himeno,holo,Battle Styles,Sword & Shield,183
+swsh5-22,22,Victini VMAX,310,Fire,Victini V,VMAX,Holo Rare VMAX,PLANETA Mochizuki,holo,Battle Styles,Sword & Shield,183
+swsh5-23,23,Tepig,80,Fire,,Basic,Common,You Iribi,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-24,24,Pignite,100,Fire,Tepig,Stage1,Uncommon,tetsuya koizumi,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-25,25,Emboar,180,Fire,Pignite,Stage2,Holo Rare,Anesaki Dynamic,"reverse, holo",Battle Styles,Sword & Shield,183
+swsh5-26,26,Heatmor,120,Fire,,Basic,Uncommon,Miki Tanaka,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-27,27,Salandit,70,Fire,,Basic,Common,Yuka Morii,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-28,28,Salazzle,90,Fire,Salandit,Stage1,Rare,Shibuzoh.,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-29,29,Sizzlipede,70,Fire,,Basic,Common,Yuka Morii,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-30,30,Centiskorch,130,Fire,Sizzlipede,Stage1,Rare,Souichirou Gunjima,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-31,31,Horsea,60,Water,,Basic,Common,Anesaki Dynamic,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-32,32,Seadra,90,Water,Horsea,Stage1,Uncommon,0313,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-33,33,Kingdra,150,Water,Seadra,Stage2,Holo Rare,kawayoo,"reverse, holo",Battle Styles,Sword & Shield,183
+swsh5-34,34,Galarian Mr. Mime,80,Water,,Basic,Common,kodama,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-35,35,Galarian Mr. Rime,110,Water,Galarian Mr. Mime,Stage1,Rare,HYOGONOSUKE,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-36,36,Remoraid,60,Water,,Basic,Common,HYOGONOSUKE,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-37,37,Octillery,110,Water,Remoraid,Stage1,Holo Rare,Souichirou Gunjima,"reverse, holo",Battle Styles,Sword & Shield,183
+swsh5-38,38,Corphish,70,Water,,Basic,Common,chibi,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-39,39,Crawdaunt,130,Water,Corphish,Stage1,Uncommon,Hasegawa Saki,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-40,40,Empoleon V,210,Water,,Basic,Holo Rare V,Ayaka Yoshida,holo,Battle Styles,Sword & Shield,183
+swsh5-41,41,Frillish,80,Water,,Basic,Common,miki kudo,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-42,42,Jellicent,120,Water,Frillish,Stage1,Rare,Tomokazu Komiya,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-43,43,Bruxish,110,Water,,Basic,Uncommon,Misa Tsutsui,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-44,44,Electabuzz,80,Lightning,,Basic,Common,Hasuno,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-45,45,Electivire,140,Lightning,Electabuzz,Stage1,Rare,Megumi Higuchi,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-46,46,Shinx,60,Lightning,,Basic,Common,sowsow,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-47,47,Luxio,80,Lightning,Shinx,Stage1,Uncommon,Megumi Higuchi,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-48,48,Luxray,150,Lightning,Luxio,Stage2,Holo Rare,Kazuma Koda,"reverse, holo",Battle Styles,Sword & Shield,183
+swsh5-49,49,Pachirisu,70,Lightning,,Basic,Common,Naoyo Kimura,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-50,50,Tapu Koko V,210,Lightning,,Basic,Holo Rare V,AKIRA EGAWA,holo,Battle Styles,Sword & Shield,183
+swsh5-51,51,Tapu Koko VMAX,320,Lightning,Tapu Koko V,VMAX,Holo Rare VMAX,PLANETA Tsuji,holo,Battle Styles,Sword & Shield,183
+swsh5-52,52,Yamper,60,Lightning,,Basic,Common,sui,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-53,53,Boltund,130,Lightning,Yamper,Stage1,Rare,chibi,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-54,54,Galarian Slowpoke,70,Psychic,,Basic,Common,Ryota Murayama,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-55,55,Spoink,60,Psychic,,Basic,Common,kawayoo,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-56,56,Grumpig,130,Psychic,Spoink,Stage1,Uncommon,Tomokazu Komiya,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-57,57,Baltoy,60,Psychic,,Basic,Common,sui,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-58,58,Claydol,120,Psychic,Baltoy,Stage1,Rare,Shibuzoh.,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-59,59,Chimecho,70,Psychic,,Basic,Common,Shibuzoh.,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-60,60,Espurr,60,Psychic,,Basic,Common,Saya Tsuruta,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-61,61,Meowstic,90,Psychic,Espurr,Stage1,Holo Rare,Yuu Nishida,"reverse, holo",Battle Styles,Sword & Shield,183
+swsh5-62,62,Mimikyu V,160,Psychic,,Basic,Holo Rare V,Eske Yoshinob,holo,Battle Styles,Sword & Shield,183
+swsh5-63,63,Necrozma V,220,Psychic,,Basic,Holo Rare V,PLANETA Tsuji,holo,Battle Styles,Sword & Shield,183
+swsh5-64,64,Dottler,70,Psychic,Blipbug,Stage1,Uncommon,Midori Harada,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-65,65,Orbeetle,110,Psychic,Dottler,Stage2,Holo Rare,Mizue,"reverse, holo",Battle Styles,Sword & Shield,183
+swsh5-66,66,Mankey,60,Fighting,,Basic,Common,Ryuta Fuse,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-67,67,Primeape,120,Fighting,Mankey,Stage1,Rare,Kouki Saitou,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-68,68,Onix,110,Fighting,,Basic,Common,Naoyo Kimura,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-69,69,Cubone,70,Fighting,,Basic,Common,You Iribi,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-70,70,Marowak,110,Fighting,Cubone,Stage1,Rare,Narumi Sato,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-71,71,Gligar,70,Fighting,,Basic,Common,Naoyo Kimura,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-72,72,Gliscor,120,Fighting,Gligar,Stage1,Uncommon,ryoma uratsuka,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-73,73,Timburr,80,Fighting,,Basic,Common,Mina Nakai,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-74,74,Gurdurr,100,Fighting,Timburr,Stage1,Uncommon,Uta,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-75,75,Conkeldurr,160,Fighting,Gurdurr,Stage2,Rare,Miki Tanaka,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-76,76,Mienfoo,60,Fighting,,Basic,Common,NC Empire,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-77,77,Mienshao,90,Fighting,Mienfoo,Stage1,Rare,Taira Akitsu,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-78,78,Rolycoly,70,Fighting,,Basic,Common,SATOSHI NAKAI,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-79,79,Carkol,100,Fighting,Rolycoly,Stage1,Uncommon,Uta,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-80,80,Coalossal,180,Fighting,Carkol,Stage2,Holo Rare,AKIRA EGAWA,"reverse, holo",Battle Styles,Sword & Shield,183
+swsh5-81,81,Silicobra,80,Fighting,,Basic,Common,Atsuko Nishida,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-82,82,Sandaconda,130,Fighting,Silicobra,Stage1,Holo Rare,hatachu,"reverse, holo",Battle Styles,Sword & Shield,183
+swsh5-83,83,Falinks,110,Fighting,,Basic,Rare,Hasuno,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-84,84,Stonjourner,130,Fighting,,Basic,Rare,Masakazu Fukuda,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-85,85,Single Strike Urshifu V,220,Fighting,,Basic,Holo Rare V,PLANETA Mochizuki,holo,Battle Styles,Sword & Shield,183
+swsh5-86,86,Single Strike Urshifu VMAX,330,Fighting,Single Strike Urshifu V,VMAX,Holo Rare VMAX,PLANETA Tsuji,holo,Battle Styles,Sword & Shield,183
+swsh5-87,87,Rapid Strike Urshifu V,220,Fighting,,Basic,Holo Rare V,PLANETA Mochizuki,holo,Battle Styles,Sword & Shield,183
+swsh5-88,88,Rapid Strike Urshifu VMAX,330,Fighting,Rapid Strike Urshifu V,VMAX,Holo Rare VMAX,PLANETA Tsuji,holo,Battle Styles,Sword & Shield,183
+swsh5-89,89,Zubat,50,Darkness,,Basic,Common,Asako Ito,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-90,90,Golbat,80,Darkness,Zubat,Stage1,Uncommon,sui,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-91,91,Crobat,130,Darkness,Golbat,Stage2,Holo Rare,SATOSHI NAKAI,"reverse, holo",Battle Styles,Sword & Shield,183
+swsh5-92,92,Galarian Slowbro,130,Darkness,Galarian Slowpoke,Stage1,Rare,Mitsuhiro Arita,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-93,93,Murkrow,70,Darkness,,Basic,Common,Aya Kusube,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-94,94,Honchkrow,130,Darkness,Murkrow,Stage1,Uncommon,Miki Tanaka,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-95,95,Houndour,60,Darkness,,Basic,Common,Sanosuke Sakuma,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-96,96,Houndoom,130,Darkness,Houndour,Stage1,Holo Rare,Ryota Murayama,"reverse, holo",Battle Styles,Sword & Shield,183
+swsh5-97,97,Tyranitar V,230,Darkness,,Basic,Holo Rare V,Ayaka Yoshida,holo,Battle Styles,Sword & Shield,183
+swsh5-98,98,Morpeko,80,Darkness,,Basic,Uncommon,NC Empire,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-99,99,Steelix,190,Metal,Onix,Stage1,Holo Rare,NC Empire,"reverse, holo",Battle Styles,Sword & Shield,183
+swsh5-100,100,Mawile,90,Metal,,Basic,Common,kawayoo,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-101,101,Bronzor,60,Metal,,Basic,Common,Mizue,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-102,102,Bronzong,110,Metal,Bronzor,Stage1,Holo Rare,Hasuno,"reverse, holo",Battle Styles,Sword & Shield,183
+swsh5-103,103,Pawniard,60,Metal,,Basic,Common,otumami,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-104,104,Bisharp,110,Metal,Pawniard,Stage1,Uncommon,tetsuya koizumi,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-105,105,Honedge,60,Metal,,Basic,Common,sowsow,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-106,106,Doublade,80,Metal,Honedge,Stage1,Uncommon,Miki Tanaka,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-107,107,Aegislash,150,Metal,Doublade,Stage2,Holo Rare,miki kudo,"reverse, holo",Battle Styles,Sword & Shield,183
+swsh5-108,108,Aegislash,150,Metal,Doublade,Stage2,Rare,Naoyo Kimura,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-109,109,Corviknight V,210,Metal,,Basic,Holo Rare V,PLANETA Mochizuki,holo,Battle Styles,Sword & Shield,183
+swsh5-110,110,Corviknight VMAX,320,Metal,Corviknight V,VMAX,Holo Rare VMAX,PLANETA Mochizuki,holo,Battle Styles,Sword & Shield,183
+swsh5-111,111,Spearow,50,Colorless,,Basic,Common,Sekio,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-112,112,Fearow,90,Colorless,Spearow,Stage1,Uncommon,Yukiko Baba,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-113,113,Lickitung,110,Colorless,,Basic,Common,HYOGONOSUKE,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-114,114,Lickilicky,140,Colorless,Lickitung,Stage1,Rare,Mina Nakai,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-115,115,Glameow,60,Colorless,,Basic,Common,Shigenori Negishi,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-116,116,Purugly,120,Colorless,Glameow,Stage1,Uncommon,Akira Komayama,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-117,117,Stoutland V,210,Colorless,,Basic,Holo Rare V,Eske Yoshinob,holo,Battle Styles,Sword & Shield,183
+swsh5-118,118,Bouffalant,120,Colorless,,Basic,Uncommon,nagimiso,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-119,119,Drampa,120,Colorless,,Basic,Rare,Eri Yamaki,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-120,120,Indeedee,90,Colorless,,Basic,Uncommon,Saya Tsuruta,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-121,121,Bruno,,,,,Uncommon,Ken Sugimori,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-122,122,Camping Gear,,,,,Uncommon,sadaji,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-123,123,Cheryl,,,,,Uncommon,Ken Sugimori,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-124,124,Energy Recycler,,,,,Uncommon,Toyste Beach,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-125,125,Escape Rope,,,,,Uncommon,sadaji,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-126,126,Exp. Share,,,,,Uncommon,Toyste Beach,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-127,127,Fan of Waves,,,,,Uncommon,sadaji,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-128,128,Korrina's Focus,,,,,Uncommon,kirisAki,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-129,129,Level Ball,,,,,Uncommon,Ryo Ueda,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-130,130,Phoebe,,,,,Uncommon,GAME FREAK inc.,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-131,131,Rapid Strike Scroll of Swirls,,,,,Uncommon,5ban Graphics,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-132,132,Rapid Strike Style Mustard,,,,,Uncommon,Naoki Saito,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-133,133,Single Strike Scroll of Scorn,,,,,Uncommon,5ban Graphics,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-134,134,Single Strike Style Mustard,,,,,Uncommon,Mitsuhiro Arita,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-135,135,Sordward & Shielbert,,,,,Uncommon,Hideki Ishikawa,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-136,136,Tool Jammer,,,,,Uncommon,inose yukie,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-137,137,Tower of Darkness,,,,,Uncommon,5ban Graphics,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-138,138,Tower of Waters,,,,,Uncommon,5ban Graphics,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-139,139,Urn of Vitality,,,,,Uncommon,Toyste Beach,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-140,140,Rapid Strike Energy,,,,,Uncommon,,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-141,141,Single Strike Energy,,,,,Uncommon,,"normal, reverse",Battle Styles,Sword & Shield,183
+swsh5-142,142,Kricketune V,180,Grass,,Basic,Ultra Rare,Satoshi Shirai,holo,Battle Styles,Sword & Shield,183
+swsh5-143,143,Flapple V,190,Grass,,Basic,Ultra Rare,PLANETA Mochizuki,holo,Battle Styles,Sword & Shield,183
+swsh5-144,144,Victini V,190,Fire,,Basic,Ultra Rare,Saki Hayashiro,holo,Battle Styles,Sword & Shield,183
+swsh5-145,145,Empoleon V,210,Water,,Basic,Ultra Rare,Ayaka Yoshida,holo,Battle Styles,Sword & Shield,183
+swsh5-146,146,Empoleon V,210,Water,,Basic,Ultra Rare,chibi,holo,Battle Styles,Sword & Shield,183
+swsh5-147,147,Tapu Koko V,210,Lightning,,Basic,Ultra Rare,Eske Yoshinob,holo,Battle Styles,Sword & Shield,183
+swsh5-148,148,Mimikyu V,160,Psychic,,Basic,Ultra Rare,Eske Yoshinob,holo,Battle Styles,Sword & Shield,183
+swsh5-149,149,Necrozma V,220,Psychic,,Basic,Ultra Rare,PLANETA Tsuji,holo,Battle Styles,Sword & Shield,183
+swsh5-150,150,Single Strike Urshifu V,220,Fighting,,Basic,Ultra Rare,PLANETA Mochizuki,holo,Battle Styles,Sword & Shield,183
+swsh5-151,151,Single Strike Urshifu V,220,Fighting,,Basic,Ultra Rare,kawayoo,holo,Battle Styles,Sword & Shield,183
+swsh5-152,152,Rapid Strike Urshifu V,220,Fighting,,Basic,Ultra Rare,PLANETA Mochizuki,holo,Battle Styles,Sword & Shield,183
+swsh5-153,153,Rapid Strike Urshifu V,220,Fighting,,Basic,Ultra Rare,Ryota Murayama,holo,Battle Styles,Sword & Shield,183
+swsh5-154,154,Tyranitar V,230,Darkness,,Basic,Ultra Rare,Ayaka Yoshida,holo,Battle Styles,Sword & Shield,183
+swsh5-155,155,Tyranitar V,230,Darkness,,Basic,Ultra Rare,HYOGONOSUKE,holo,Battle Styles,Sword & Shield,183
+swsh5-156,156,Corviknight V,210,Metal,,Basic,Ultra Rare,PLANETA Mochizuki,holo,Battle Styles,Sword & Shield,183
+swsh5-157,157,Stoutland V,210,Colorless,,Basic,Ultra Rare,Eske Yoshinob,holo,Battle Styles,Sword & Shield,183
+swsh5-158,158,Bruno,,,,,Ultra Rare,Ryuta Fuse,holo,Battle Styles,Sword & Shield,183
+swsh5-159,159,Cheryl,,,,,Ultra Rare,Yuu Nishida,holo,Battle Styles,Sword & Shield,183
+swsh5-160,160,Korrina's Focus,,,,,Ultra Rare,Taira Akitsu,holo,Battle Styles,Sword & Shield,183
+swsh5-161,161,Phoebe,,,,,Ultra Rare,Kagemaru Himeno,holo,Battle Styles,Sword & Shield,183
+swsh5-162,162,Rapid Strike Style Mustard,,,,,Ultra Rare,Naoki Saito,holo,Battle Styles,Sword & Shield,183
+swsh5-163,163,Single Strike Style Mustard,,,,,Ultra Rare,Mitsuhiro Arita,holo,Battle Styles,Sword & Shield,183
+swsh5-164,164,Flapple VMAX,320,Grass,Flapple V,VMAX,Secret Rare,PLANETA Tsuji,holo,Battle Styles,Sword & Shield,183
+swsh5-165,165,Victini VMAX,310,Fire,Victini V,VMAX,Secret Rare,PLANETA Mochizuki,holo,Battle Styles,Sword & Shield,183
+swsh5-166,166,Tapu Koko VMAX,320,Lightning,Tapu Koko V,VMAX,Secret Rare,PLANETA Tsuji,holo,Battle Styles,Sword & Shield,183
+swsh5-167,167,Single Strike Urshifu VMAX,330,Fighting,Single Strike Urshifu V,VMAX,Secret Rare,PLANETA Tsuji,holo,Battle Styles,Sword & Shield,183
+swsh5-168,168,Single Strike Urshifu VMAX,330,Fighting,Single Strike Urshifu V,VMAX,Secret Rare,Kinu Nishimura,holo,Battle Styles,Sword & Shield,183
+swsh5-169,169,Rapid Strike Urshifu VMAX,330,Fighting,Rapid Strike Urshifu V,VMAX,Secret Rare,PLANETA Tsuji,holo,Battle Styles,Sword & Shield,183
+swsh5-170,170,Rapid Strike Urshifu VMAX,330,Fighting,Rapid Strike Urshifu V,VMAX,Secret Rare,KIYOTAKA OSHIYAMA,holo,Battle Styles,Sword & Shield,183
+swsh5-171,171,Corviknight VMAX,320,Metal,Corviknight V,VMAX,Secret Rare,PLANETA Mochizuki,holo,Battle Styles,Sword & Shield,183
+swsh5-172,172,Bruno,,,,,Secret Rare,Ryuta Fuse,holo,Battle Styles,Sword & Shield,183
+swsh5-173,173,Cheryl,,,,,Secret Rare,Yuu Nishida,holo,Battle Styles,Sword & Shield,183
+swsh5-174,174,Korrina's Focus,,,,,Secret Rare,Taira Akitsu,holo,Battle Styles,Sword & Shield,183
+swsh5-175,175,Phoebe,,,,,Secret Rare,Kagemaru Himeno,holo,Battle Styles,Sword & Shield,183
+swsh5-176,176,Rapid Strike Style Mustard,,,,,Secret Rare,Naoki Saito,holo,Battle Styles,Sword & Shield,183
+swsh5-177,177,Single Strike Style Mustard,,,,,Secret Rare,Mitsuhiro Arita,holo,Battle Styles,Sword & Shield,183
+swsh5-178,178,Octillery,110,Water,Remoraid,Stage1,Secret Rare,PLANETA Mochizuki,holo,Battle Styles,Sword & Shield,183
+swsh5-179,179,Houndoom,130,Darkness,Houndour,Stage1,Secret Rare,PLANETA Mochizuki,holo,Battle Styles,Sword & Shield,183
+swsh5-180,180,Exp. Share,,,,,Secret Rare,Toyste Beach,holo,Battle Styles,Sword & Shield,183
+swsh5-181,181,Level Ball,,,,,Secret Rare,Ryo Ueda,holo,Battle Styles,Sword & Shield,183
+swsh5-182,182,Rapid Strike Energy,,,,,Secret Rare,,holo,Battle Styles,Sword & Shield,183
+swsh5-183,183,Single Strike Energy,,,,,Secret Rare,,holo,Battle Styles,Sword & Shield,183

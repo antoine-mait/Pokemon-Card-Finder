@@ -1,0 +1,111 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+xy2-1,1,Caterpie,40,Grass,,Basic,Common,Sumiyoshi Kizuki,"normal, reverse, holo",Flashfire,XY,110
+xy2-2,2,Metapod,70,Grass,Caterpie,Stage1,Uncommon,kawayoo,"normal, reverse, holo",Flashfire,XY,110
+xy2-3,3,Butterfree,130,Grass,Metapod,Stage2,Rare,sui,"normal, reverse, holo",Flashfire,XY,110
+xy2-4,4,Pineco,60,Grass,,Basic,Common,Suwama Chiaki,"normal, reverse, holo",Flashfire,XY,110
+xy2-5,5,Seedot,50,Grass,,Basic,Common,Naoyo Kimura,"normal, reverse, holo",Flashfire,XY,110
+xy2-6,6,Nuzleaf,80,Grass,Seedot,Stage1,Uncommon,Midori Harada,"normal, reverse, holo",Flashfire,XY,110
+xy2-7,7,Shiftry,140,Grass,Nuzleaf,Stage2,Rare,Kouki Saitou,"normal, reverse, holo",Flashfire,XY,110
+xy2-8,8,Roselia,60,Grass,,Basic,Common,kirisAki,"normal, reverse, holo",Flashfire,XY,110
+xy2-9,9,Roserade,90,Grass,Roselia,Stage1,Uncommon,Masakazu Fukuda,"normal, reverse, holo",Flashfire,XY,110
+xy2-10,10,Maractus,90,Grass,,Basic,Uncommon,match,"normal, reverse, holo",Flashfire,XY,110
+xy2-11,11,Charizard EX,180,Fire,,Basic,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Flashfire,XY,110
+xy2-12,12,Charizard EX,180,Fire,,Basic,Ultra Rare,PLANETA,"normal, reverse, holo",Flashfire,XY,110
+xy2-13,13,M Charizard EX,220,Fire,Charizard-EX,MEGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-14,14,Ponyta,60,Fire,,Basic,Common,Tomokazu Komiya,"normal, reverse, holo",Flashfire,XY,110
+xy2-15,15,Rapidash,90,Fire,Ponyta,Stage1,Uncommon,Akira Komayama,"normal, reverse, holo",Flashfire,XY,110
+xy2-16,16,Torkoal,100,Fire,,Basic,Uncommon,Akira Komayama,"normal, reverse, holo",Flashfire,XY,110
+xy2-17,17,Fletchinder,80,Fire,Fletchling,Stage1,Uncommon,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-18,18,Litleo,70,Fire,,Basic,Common,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-19,19,Litleo,60,Fire,,Basic,Common,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-20,20,Pyroar,110,Fire,Litleo,Stage1,Rare,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-21,21,Qwilfish,80,Water,,Basic,Rare,Kouki Saitou,"normal, reverse, holo",Flashfire,XY,110
+xy2-22,22,Feebas,30,Water,,Basic,Common,Shigenori Negishi,"normal, reverse, holo",Flashfire,XY,110
+xy2-23,23,Milotic,100,Water,Feebas,Stage1,Rare,Shin Nagasawa,"normal, reverse, holo",Flashfire,XY,110
+xy2-24,24,Spheal,70,Water,,Basic,Common,Kagemaru Himeno,"normal, reverse, holo",Flashfire,XY,110
+xy2-25,25,Sealeo,90,Water,Spheal,Stage1,Uncommon,Mitsuhiro Arita,"normal, reverse, holo",Flashfire,XY,110
+xy2-26,26,Walrein,150,Water,Sealeo,Stage2,Rare,Naoki Saito,"normal, reverse, holo",Flashfire,XY,110
+xy2-27,27,Luvdisc,60,Water,,Basic,Uncommon,Atsuko Nishida,"normal, reverse, holo",Flashfire,XY,110
+xy2-28,28,Buizel,60,Water,,Basic,Common,sui,"normal, reverse, holo",Flashfire,XY,110
+xy2-29,29,Floatzel,90,Water,Buizel,Stage1,Rare,Kanako Eo,"normal, reverse, holo",Flashfire,XY,110
+xy2-30,30,Bergmite,70,Water,,Basic,Common,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-31,31,Avalugg,130,Water,Bergmite,Stage1,Uncommon,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-32,32,Shinx,60,Lightning,,Basic,Common,Sanosuke Sakuma,"normal, reverse, holo",Flashfire,XY,110
+xy2-33,33,Luxio,80,Lightning,Shinx,Stage1,Uncommon,Akira Komayama,"normal, reverse, holo",Flashfire,XY,110
+xy2-34,34,Luxray,140,Lightning,Luxio,Stage2,Rare,Hitoshi Ariga,"normal, reverse, holo",Flashfire,XY,110
+xy2-35,35,Magnezone EX,180,Lightning,,Basic,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Flashfire,XY,110
+xy2-36,36,Helioptile,60,Lightning,,Basic,Common,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-37,37,Heliolisk,90,Lightning,Helioptile,Stage1,Rare,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-38,38,Duskull,50,Psychic,,Basic,Common,match,"normal, reverse, holo",Flashfire,XY,110
+xy2-39,39,Dusclops,80,Psychic,Duskull,Stage1,Uncommon,MAHOU,"normal, reverse, holo",Flashfire,XY,110
+xy2-40,40,Dusknoir,130,Psychic,Dusclops,Stage2,Rare,Suwama Chiaki,"normal, reverse, holo",Flashfire,XY,110
+xy2-41,41,Toxicroak EX,170,Psychic,,Basic,Ultra Rare,PLANETA,"normal, reverse, holo",Flashfire,XY,110
+xy2-42,42,Espurr,60,Psychic,,Basic,Common,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-43,43,Meowstic,90,Psychic,Espurr,Stage1,Rare,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-44,44,Skrelp,50,Psychic,,Basic,Common,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-45,45,Geodude,60,Fighting,,Basic,Common,MAHOU,"normal, reverse, holo",Flashfire,XY,110
+xy2-46,46,Graveler,100,Fighting,Geodude,Stage1,Uncommon,Naoyo Kimura,"normal, reverse, holo",Flashfire,XY,110
+xy2-47,47,Golem,150,Fighting,Graveler,Stage2,Rare,Sumiyoshi Kizuki,"normal, reverse, holo",Flashfire,XY,110
+xy2-48,48,Binacle,70,Fighting,,Basic,Common,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-49,49,Barbaracle,110,Fighting,Binacle,Stage1,Rare,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-50,50,Sneasel,60,Darkness,,Basic,Uncommon,Mizue,"normal, reverse, holo",Flashfire,XY,110
+xy2-51,51,Sneasel,60,Darkness,,Basic,Common,match,"normal, reverse, holo",Flashfire,XY,110
+xy2-52,52,Weavile,90,Darkness,Sneasel,Stage1,Rare,Shigenori Negishi,"normal, reverse, holo",Flashfire,XY,110
+xy2-53,53,Stunky,60,Darkness,,Basic,Common,Kyoko Umemoto,"normal, reverse, holo",Flashfire,XY,110
+xy2-54,54,Stunky,60,Darkness,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Flashfire,XY,110
+xy2-55,55,Skuntank,100,Darkness,Stunky,Stage1,Rare,kirisAki,"normal, reverse, holo",Flashfire,XY,110
+xy2-56,56,Sandile,70,Darkness,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Flashfire,XY,110
+xy2-57,57,Krokorok,90,Darkness,Sandile,Stage1,Uncommon,Naoki Saito,"normal, reverse, holo",Flashfire,XY,110
+xy2-58,58,Scraggy,60,Darkness,,Basic,Common,Naoki Saito,"normal, reverse, holo",Flashfire,XY,110
+xy2-59,59,Scrafty,100,Darkness,Scraggy,Stage1,Rare,Hitoshi Ariga,"normal, reverse, holo",Flashfire,XY,110
+xy2-60,60,Forretress,100,Metal,Pineco,Stage1,Rare,Tomokazu Komiya,"normal, reverse, holo",Flashfire,XY,110
+xy2-61,61,Durant,70,Metal,,Basic,Rare,Midori Harada,"normal, reverse, holo",Flashfire,XY,110
+xy2-62,62,Flabébé,40,Fairy,,Basic,Common,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-63,63,Flabébé,40,Fairy,,Basic,Common,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-64,64,Floette,70,Fairy,Flabébé,Stage1,Rare,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-65,65,Floette,70,Fairy,Flabébé,Stage1,Uncommon,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-66,66,Florges,110,Fairy,Floette,Stage2,Rare,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-67,67,Spritzee,50,Fairy,,Basic,Common,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-68,68,Carbink,70,Fairy,,Basic,Rare,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-69,69,M Charizard EX,230,Dragon,Charizard-EX,MEGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-70,70,Druddigon,110,Dragon,,Basic,Rare,Ryota Murayama,"normal, reverse, holo",Flashfire,XY,110
+xy2-71,71,Dragalge,100,Dragon,Skrelp,Stage1,Rare,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-72,72,Goomy,50,Dragon,,Basic,Common,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-73,73,Sliggoo,80,Dragon,Goomy,Stage1,Uncommon,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-74,74,Goodra,150,Dragon,Sliggoo,Stage2,Rare,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-75,75,Pidgey,60,Colorless,,Basic,Common,Atsuko Nishida,"normal, reverse, holo",Flashfire,XY,110
+xy2-76,76,Pidgeotto,80,Colorless,Pidgey,Stage1,Uncommon,Shin Nagasawa,"normal, reverse, holo",Flashfire,XY,110
+xy2-77,77,Pidgeot,130,Colorless,Pidgeotto,Stage2,Rare,kawayoo,"normal, reverse, holo",Flashfire,XY,110
+xy2-78,78,Kangaskhan EX,180,Colorless,,Basic,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Flashfire,XY,110
+xy2-79,79,M Kangaskhan EX,230,Colorless,Kangaskhan-EX,MEGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-80,80,Snorlax,130,Colorless,,Basic,Rare,Mitsuhiro Arita,"normal, reverse, holo",Flashfire,XY,110
+xy2-81,81,Sentret,50,Colorless,,Basic,Common,Mizue,"normal, reverse, holo",Flashfire,XY,110
+xy2-82,82,Furret,90,Colorless,Sentret,Stage1,Rare,Kagemaru Himeno,"normal, reverse, holo",Flashfire,XY,110
+xy2-83,83,Miltank,100,Colorless,,Basic,Uncommon,Kanako Eo,"normal, reverse, holo",Flashfire,XY,110
+xy2-84,84,Buneary,60,Colorless,,Basic,Common,Kyoko Umemoto,"normal, reverse, holo",Flashfire,XY,110
+xy2-85,85,Lopunny,90,Colorless,Buneary,Stage1,Rare,Sanosuke Sakuma,"normal, reverse, holo",Flashfire,XY,110
+xy2-86,86,Fletchling,50,Colorless,,Basic,Common,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-87,87,Furfrou,90,Colorless,,Basic,Uncommon,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-88a,88a,Blacksmith,,,,,Uncommon,Masakazu Fukuda,"normal, reverse, holo",Flashfire,XY,110
+xy2-88,88,Blacksmith,,,,,Uncommon,Masakazu Fukuda,"normal, reverse, holo",Flashfire,XY,110
+xy2-89,89,Fiery Torch,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",Flashfire,XY,110
+xy2-90,90,Lysandre,,,,,Uncommon,Ken Sugimori,"normal, reverse, holo",Flashfire,XY,110
+xy2-91,91,Magnetic Storm,,,,,Uncommon,Ryo Ueda,"normal, reverse, holo",Flashfire,XY,110
+xy2-92,92,Pal Pad,,,,,Uncommon,PLANETA,"normal, reverse, holo",Flashfire,XY,110
+xy2-93,93,Pokémon Center Lady,,,,,Uncommon,Maiko Fujiwara,"normal, reverse, holo",Flashfire,XY,110
+xy2-94,94,Pokémon Fan Club,,,,,Uncommon,Yusuke Ohmura,"normal, reverse, holo",Flashfire,XY,110
+xy2-95,95,Protection Cube,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",Flashfire,XY,110
+xy2-96,96,Sacred Ash,,,,,Uncommon,PLANETA,"normal, reverse, holo",Flashfire,XY,110
+xy2-97,97,Startling Megaphone,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",Flashfire,XY,110
+xy2-98,98,Trick Shovel,,,,,Uncommon,PLANETA,"normal, reverse, holo",Flashfire,XY,110
+xy2-99,99,Ultra Ball,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-100,100,Charizard EX,180,Fire,,Basic,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Flashfire,XY,110
+xy2-101,101,Magnezone EX,180,Lightning,,Basic,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Flashfire,XY,110
+xy2-102,102,Toxicroak EX,170,Psychic,,Basic,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Flashfire,XY,110
+xy2-103,103,Kangaskhan EX,180,Colorless,,Basic,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Flashfire,XY,110
+xy2-104,104,Lysandre,,,,,Ultra Rare,Ken Sugimori,"normal, reverse, holo",Flashfire,XY,110
+xy2-105,105,Pokémon Center Lady,,,,,Ultra Rare,Megumi Mizutani,"normal, reverse, holo",Flashfire,XY,110
+xy2-106,106,Pokémon Fan Club,,,,,Ultra Rare,Emi Ando,"normal, reverse, holo",Flashfire,XY,110
+xy2-107,107,M Charizard EX,220,Fire,Charizard-EX,MEGA,Secret Rare,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-108,108,M Charizard EX,230,Dragon,Charizard-EX,MEGA,Secret Rare,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110
+xy2-109,109,M Kangaskhan EX,230,Colorless,Kangaskhan-EX,MEGA,Secret Rare,5ban Graphics,"normal, reverse, holo",Flashfire,XY,110

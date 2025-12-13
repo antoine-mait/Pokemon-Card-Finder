@@ -1,0 +1,115 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+xy3-1,1,Knofensa,50,Pflanze,,Basis,Häufig,Kanako Eo,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-2,2,Ultrigaria,80,Pflanze,Knofensa,Rang 1,Ungewöhnlich,Mizue,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-3,3,Sarzenia,130,Pflanze,Ultrigaria,Rang 2,Selten,Sanosuke Sakuma,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-4,4,Skaraborn EX,170,Pflanze,,Basis,Ultra Selten,Eske Yoshinob,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-5,5,M Skaraborn EX,220,Pflanze,Skaraborn-EX,MEGA,Ultra Selten,5ban Graphics,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-6,6,Knilz,60,Pflanze,,Basis,Häufig,Kyoko Umemoto,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-7,7,Folipurba,90,Pflanze,Evoli,Rang 1,Selten,Naoyo Kimura,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-8,8,Schnuthelm,60,Pflanze,,Basis,Häufig,sui,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-9,9,Hydragil,90,Pflanze,Schnuthelm,Rang 1,Ungewöhnlich,Shin Nagasawa,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-10,10,Magmar,80,Feuer,,Basis,Häufig,MAHOU,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-11,11,Magbrant,120,Feuer,Magmar,Rang 1,Selten,PLANETA,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-12,12,Flemmli,60,Feuer,,Basis,Häufig,Sanosuke Sakuma,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-13,13,Jungglut,80,Feuer,Flemmli,Rang 1,Ungewöhnlich,Shin Nagasawa,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-14,14,Lohgock,140,Feuer,Jungglut,Rang 2,Selten,PLANETA,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-15,15,Quapsel,60,Wasser,,Basis,Häufig,MAHOU,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-16,16,Quaputzi,80,Wasser,Quapsel,Rang 1,Ungewöhnlich,Kanako Eo,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-17,17,Quappo,140,Wasser,Quaputzi,Rang 2,Selten,Mitsuhiro Arita,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-18,18,Quaxo,130,Wasser,Quaputzi,Rang 2,Selten,Atsuko Nishida,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-19,19,Glaziola,90,Wasser,Evoli,Rang 1,Selten,Kagemaru Himeno,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-20,20,Branawarz EX,180,Wasser,,Basis,Ultra Selten,Eske Yoshinob,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-21,21,Petznief,70,Wasser,,Basis,Häufig,kirisAki,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-22,22,Siberio,130,Wasser,Petznief,Rang 1,Selten,PLANETA,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-23,23,Scampisto,60,Wasser,,Basis,Häufig,5ban Graphics,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-24,24,Wummer,100,Wasser,Scampisto,Rang 1,Selten,5ban Graphics,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-25,25,Amarino,90,Wasser,Flossenfossil,Erweckt,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-26,26,Amagarga,130,Wasser,Amarino,Rang 1,Selten,5ban Graphics,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-27,27,Pikachu,60,Elektro,,Basis,Häufig,Sanosuke Sakuma,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-28,28,Raichu,90,Elektro,Pikachu,Rang 1,Ungewöhnlich,Sanosuke Sakuma,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-29,29,Elektek,80,Elektro,,Basis,Häufig,Naoki Saito,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-30,30,Elevoltek,120,Elektro,Elektek,Rang 1,Selten,PLANETA,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-31,31,Plusle,70,Elektro,,Basis,Häufig,Akira Komayama,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-32,32,Minun,70,Elektro,,Basis,Häufig,Akira Komayama,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-33,33,Voltolos,120,Elektro,,Basis,Selten,Hajime Kusajima,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-34,34,Dedenne,70,Elektro,,Basis,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-35,35,Traumato,70,Psycho,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-36,36,Hypno,90,Psycho,Traumato,Rang 1,Selten,Shigenori Negishi,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-37,37,Rossana,70,Psycho,,Basis,Selten,Naoki Saito,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-38,38,Pionskora,70,Psycho,,Basis,Häufig,Naoki Saito,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-39,39,Mollimorba,50,Psycho,,Basis,Häufig,Atsuko Nishida,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-40,40,Hypnomorba,80,Psycho,Mollimorba,Rang 1,Ungewöhnlich,Suwama Chiaki,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-41,41,Morbitesse,130,Psycho,Hypnomorba,Rang 2,Selten,kirisAki,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-42,42,Golbit,90,Psycho,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-43,43,Golgantes,130,Psycho,Golbit,Rang 1,Selten,PLANETA,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-44,44,Machollo,70,Kampf,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-45,45,Maschock,90,Kampf,Machollo,Rang 1,Ungewöhnlich,Mitsuhiro Arita,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-46,46,Machomei,150,Kampf,Maschock,Rang 2,Selten,PLANETA,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-47,47,Kicklee,90,Kampf,,Basis,Ungewöhnlich,Hitoshi Ariga,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-48,48,Nockchan,90,Kampf,,Basis,Ungewöhnlich,match,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-49,49,Kapoera,90,Kampf,,Basis,Ungewöhnlich,kawayoo,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-50,50,Kapilz,100,Kampf,Knilz,Rang 1,Selten,Hitoshi Ariga,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-51,51,Makuhita,80,Kampf,,Basis,Häufig,Masakazu Fukuda,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-52,52,Hariyama,120,Kampf,Makuhita,Rang 1,Selten,TOKIYA,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-53,53,Knacklion,60,Kampf,,Basis,Häufig,Mizue,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-54,54,Lucario EX,180,Kampf,,Basis,Ultra Selten,Eske Yoshinob,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-55a,55a,M Lucario EX,220,Kampf,Lucario-EX,MEGA,Selten,5ban Graphics,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-55,55,M Lucario EX,220,Kampf,Lucario-EX,MEGA,Ultra Selten,5ban Graphics,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-56,56,Lin-Fu,60,Kampf,,Basis,Häufig,Shigenori Negishi,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-57,57,Wie-Shu,90,Kampf,Lin-Fu,Rang 1,Ungewöhnlich,TOKIYA,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-58,58,Demeteros,120,Kampf,,Basis,Selten,PLANETA,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-59,59,Pam-Pam,60,Kampf,,Basis,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-60,60,Pam-Pam,70,Kampf,,Basis,Häufig,5ban Graphics,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-61,61,Balgoras,90,Kampf,Kieferfossil,Erweckt,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-62,62,Monargoras,150,Kampf,Balgoras,Rang 1,Selten,5ban Graphics,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-63,63,Resladero,70,Kampf,,Basis,Selten,5ban Graphics,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-64,64,Resladero EX,130,Kampf,,Basis,Ultra Selten,5ban Graphics,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-65,65,Piondragi,110,Unlicht,Pionskora,Rang 1,Selten,Hitoshi Ariga,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-66,66,Zurrokex,60,Unlicht,,Basis,Häufig,Tomokazu Komiya,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-67,67,Irokex,90,Unlicht,Zurrokex,Rang 1,Ungewöhnlich,match,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-68,68,Pandagro,120,Unlicht,Pam-Pam,Rang 1,Selten,5ban Graphics,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-69,69,Piepi,60,Fee,,Basis,Häufig,Naoyo Kimura,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-70,70,Piepi,60,Fee,,Basis,Häufig,match,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-71,71,Pixi,90,Fee,Piepi,Rang 1,Ungewöhnlich,Atsuko Nishida,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-72,72,Feelinara,90,Fee,Evoli,Rang 1,Selten,5ban Graphics,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-73,73,Clavion,60,Fee,,Basis,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-74,74,Dragoran EX,180,Drache,,Basis,Ultra Selten,Eske Yoshinob,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-75,75,Vibrava,80,Drache,Knacklion,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-76,76,Libelldra,130,Drache,Vibrava,Rang 2,Selten,Masakazu Fukuda,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-77,77,UHaFnir,100,Drache,eF-eM,Rang 1,Selten,5ban Graphics,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-78,78,Schlurp,90,Farblos,,Basis,Häufig,Masakazu Fukuda,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-79,79,Schlurplek,120,Farblos,Schlurp,Rang 1,Ungewöhnlich,Hajime Kusajima,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-80,80,Evoli,50,Farblos,,Basis,Häufig,sui,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-81,81,Bummelz,60,Farblos,,Basis,Häufig,Midori Harada,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-82,82,Muntier,90,Farblos,Bummelz,Rang 1,Ungewöhnlich,Suwama Chiaki,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-83,83,Letarking,150,Farblos,Muntier,Rang 2,Selten,PLANETA,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-84,84,Nagelotz,60,Farblos,,Basis,Häufig,Kyoko Umemoto,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-85,85,Kukmarda,80,Farblos,Nagelotz,Rang 1,Ungewöhnlich,Midori Harada,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-86,86,Boreos,110,Farblos,,Basis,Selten,kawayoo,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-87,87,eF-eM,60,Farblos,,Basis,Häufig,5ban Graphics,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-88,88,Kampfreporter,,,,,Ungewöhnlich,Shin Nagasawa,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-89,89,Energie-Umschalter,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-90,90,Kampfhalle,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-91,91,Fokusgurt,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-92,92,Fossilforscher,,,,,Ungewöhnlich,Naoki Saito,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-93,93,Hyperheiler,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-94,94,Kieferfossil,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-95,95,Connie,,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-96,96,Wartung,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-97,97,Gebirgsring,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-98,98,Flossenfossil,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-99,99,Glänzender Mantel,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-100,100,Super-Anziehungskraft,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-101,101,Ausrüstungsgreifer,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-102,102,Trainingscenter,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-103,103,Kräuter-Energie,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-104,104,Stärke-Energie,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-105,105,Skaraborn EX,170,Pflanze,,Basis,Ultra Selten,Ryo Ueda,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-106,106,Branawarz EX,180,Wasser,,Basis,Ultra Selten,Ryo Ueda,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-107,107,Lucario EX,180,Kampf,,Basis,Ultra Selten,Ryo Ueda,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-108,108,Dragoran EX,180,Drache,,Basis,Ultra Selten,Ryo Ueda,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-109,109,Kampfreporter,,,,,Ultra Selten,Shin Nagasawa,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-110,110,Fossilforscher,,,,,Ultra Selten,Naoki Saito,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-111,111,Connie,,,,,Ultra Selten,Yusuke Ohmura,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-112,112,M Skaraborn EX,220,Pflanze,Skaraborn-EX,MEGA,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Fliegende Fäuste,XY,114
+xy3-113,113,M Lucario EX,220,Kampf,Lucario-EX,MEGA,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Fliegende Fäuste,XY,114

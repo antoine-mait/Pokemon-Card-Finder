@@ -1,0 +1,121 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+pl2-1,1,Arcanin Niv. 53,100,Feu,Caninos,Niveau 1,Rare Holo,Masakazu Fukuda,"reverse, holo",Rivaux Émergeants,Platine,120
+pl2-2,2,Bastiodon  Niv. 41,90,Métal,,De base,Rare Holo,Hajime Kusajima,"reverse, holo",Rivaux Émergeants,Platine,120
+pl2-3,3,Darkrai  Niv. 58,90,Obscurité,,De base,Rare Holo,Makoto Imai,"reverse, holo",Rivaux Émergeants,Platine,120
+pl2-4,4,Mustéflott  Niv. 37,80,Eau,,De base,Rare Holo,Midori Harada,"reverse, holo",Rivaux Émergeants,Platine,120
+pl2-5,5,Flygon Niv. 65,120,Incolore,Vibraninf,Niveau 2,Rare Holo,Kouki Saitou,"normal, reverse, holo",Rivaux Émergeants,Platine,120
+pl2-6,6,Momartik  Niv. 44,70,Eau,,De base,Rare Holo,Atsuko Nishida,"reverse, holo",Rivaux Émergeants,Platine,120
+pl2-7,7,Jirachi Niv. 39,60,Métal,,De base,Rare Holo,Kenkichi Toyama,"reverse, holo",Rivaux Émergeants,Platine,120
+pl2-8,8,Lucario  Niv. 32,80,Combat,,De base,Rare Holo,Kagemaru Himeno,"reverse, holo",Rivaux Émergeants,Platine,120
+pl2-9,9,Luxray  Niv. 48,80,Électrique,,De base,Rare Holo,Kouki Saitou,"reverse, holo",Rivaux Émergeants,Platine,120
+pl2-10,10,Magirêve  Niv. 26,80,Psy,,De base,Rare Holo,Naoyo Kimura,"reverse, holo",Rivaux Émergeants,Platine,120
+pl2-11,11,Charkos  Niv. 63,90,Combat,,De base,Rare Holo,Suwama Chiaki,"reverse, holo",Rivaux Émergeants,Platine,120
+pl2-12,12,Roserade  Niv. 22,80,Plante,,De base,Rare Holo,Kanako Eo,"reverse, holo",Rivaux Émergeants,Platine,120
+pl2-13,13,Tengalice Niv. 55,130,Obscurité,Pifeuil,Niveau 2,Rare Holo,Kagemaru Himeno,"reverse, holo",Rivaux Émergeants,Platine,120
+pl2-14,14,Galeking Niv. 53,130,Métal,Galegon,Niveau 2,Rare,Naoyo Kimura,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-15,15,Dardargnan Niv. 47,110,Plante,Coconfort,Niveau 2,Rare,Kagemaru Himeno,"reverse, holo",Rivaux Émergeants,Platine,120
+pl2-16,16,Archéodong  Niv. 54,90,Psy,,De base,Rare,Mitsuhiro Arita,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-17,17,Drascore  Niv. 53,100,Obscurité,,De base,Rare,Kouki Saitou,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-18,18,Mentali  Niv. 55,80,Psy,,De base,Rare,Mitsuhiro Arita,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-19,19,Pyroli Niv. 38,80,Feu,Evoli,Niveau 1,Rare,Midori Harada,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-20,20,Gallame  Niv. 59,80,Psy,,De base,Rare,Mitsuhiro Arita,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-21,21,Tritosor Mer Orient Niv. 40,90,Eau,Sancoki Mer Orient,Niveau 1,Rare,Ken Sugimori,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-22,22,Tritosor Mer Occident Niv. 50,110,Combat,Sancoki Mer Occident,Niveau 1,Rare,Kyoko Umemoto,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-23,23,Grolem  Niv. 52,110,Combat,,De base,Rare,Kagemaru Himeno,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-24,24,Scarhino  Niv. 51,90,Plante,,De base,Rare,Kouki Saitou,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-25,25,Hippodocus Niv. 48,110,Combat,Hippopotas,Niveau 1,Rare,Tomoaki Imakuni,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-26,26,Voltali Niv. 43,80,Électrique,Evoli,Niveau 1,Rare,Hajime Kusajima,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-27,27,Mammochon  Niv. 61,100,Eau,,De base,Rare,Atsuko Nishida,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-28,28,M. Mime  Niv. 53,70,Psy,,De base,Rare,Mitsuhiro Arita,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-29,29,Nidoking Niv. 59,130,Combat,Nidorino,Niveau 2,Rare,Masakazu Fukuda,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-30,30,Nidoqueen Niv. 54,120,Psy,Nidorina,Niveau 2,Rare,Midori Harada,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-31,31,Raichu  Niv. 46,80,Électrique,,De base,Rare,Kouki Saitou,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-32,32,Rhinastoc  Niv. 55,100,Combat,,De base,Rare,Kagemaru Himeno,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-33,33,Ronflex Niv. 37,100,Incolore,,De base,Rare,Kagemaru Himeno,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-34,34,Aquali Niv. 48,90,Eau,Evoli,Niveau 1,Rare,Masakazu Fukuda,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-35,35,Apireine  Niv. 50,80,Plante,,De base,Rare,Kouki Saitou,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-36,36,Kaimorse Niv. 59,140,Eau,Phogleur,Niveau 2,Rare,kawayoo,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-37,37,Yanmega  Niv. 49,90,Plante,,De base,Rare,Kouki Saitou,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-38,38,Alakazam  Niv. 56,80,Psy,,De base,Peu Commune,Mitsuhiro Arita,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-39,39,Electrode  Niv. 38,70,Électrique,,De base,Peu Commune,Yusuke Ishikawa,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-40,40,Ectoplasma  Niv. 65,70,Psy,,De base,Peu Commune,Naoyo Kimura,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-41,41,Givrali Niv. 42,80,Eau,Evoli,Niveau 1,Peu Commune,Naoyo Kimura,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-42,42,Hippodocus  Niv. 52,90,Combat,,De base,Peu Commune,Kagemaru Himeno,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-43,43,Simiabraz  Niv. 55,90,Feu,,De base,Peu Commune,Masakazu Fukuda,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-44,44,Galegon Niv. 37,80,Métal,Galekid,Niveau 1,Peu Commune,Yukiko Baba,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-45,45,Phyllali Niv. 49,90,Plante,Evoli,Niveau 1,Peu Commune,Suwama Chiaki,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-46,46,Mackogneur  Niv. 64,100,Combat,,De base,Peu Commune,Kagemaru Himeno,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-47,47,Galopa  Niv. 53,70,Feu,,De base,Peu Commune,Masakazu Fukuda,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-48,48,Cizayox  Niv. 49,80,Plante,,De base,Peu Commune,Kouki Saitou,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-49,49,Sharpedo Niv. 43,90,Obscurité,Carvanha,Niveau 1,Peu Commune,Kouki Saitou,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-50,50,Staross Niv. 44,80,Eau,Stari,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-51,51,Steelix  Niv. 38,110,Métal,,De base,Peu Commune,Hajime Kusajima,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-52,52,Tropius Niv. 35,80,Plante,,De base,Peu Commune,Ken Sugimori,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-53,53,Vibraninf Niv. 36,70,Incolore,Kraknoix,Niveau 1,Peu Commune,Kyoko Umemoto,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-54,54,Barbicha  Niv. 50,80,Combat,,De base,Peu Commune,Kagemaru Himeno,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-55,55,Ptera  Niv. 62,80,Combat,,De base,Commune,Suwama Chiaki,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-56,56,Capidextre  Niv. 40,80,Incolore,,De base,Commune,Makoto Imai,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-57,57,Galekid Niv. 21,50,Métal,,De base,Commune,Takao Unno,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-58,58,Carvanha Niv. 13,40,Obscurité,,De base,Commune,Midori Harada,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-59,59,Evoli Niv. 10,50,Incolore,,De base,Commune,Naoyo Kimura,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-60,60,Pyroli  Niv. 55,70,Feu,,De base,Commune,Masakazu Fukuda,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-61,61,Forretress  Niv. 35,80,Métal,,De base,Commune,Ryota Saito,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-62,62,Scorvol  Niv. 53,80,Combat,,De base,Commune,Kagemaru Himeno,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-63,63,Caninos Niv. 26,70,Feu,,De base,Commune,Naoyo Kimura,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-64,64,Hippopotas Niv. 31,70,Combat,,De base,Commune,kawayoo,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-65,65,Demolosse  Niv. 52,80,Obscurité,,De base,Commune,Masakazu Fukuda,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-66,66,Coconfort Niv. 8,80,Plante,Aspicot,Niveau 1,Commune,Midori Harada,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-67,67,Kecleon Niv. 34,70,Incolore,,De base,Commune,Midori Harada,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-68,68,Smogo Niv. 22,60,Psy,,De base,Commune,Yukiko Baba,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-69,69,Goinfrex Niv. 13,70,Incolore,,De base,Commune,Tomokazu Komiya,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-70,70,Goinfrex Niv. 15,70,Incolore,,De base,Commune,Kagemaru Himeno,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-71,71,Nidoran♀ Niv. 14,60,Psy,,De base,Commune,Miki Tanaka,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-72,72,Nidoran♂ Niv. 9,50,Psy,,De base,Commune,Ken Sugimori,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-73,73,Nidorina Niv. 29,80,Psy,Nidoran♀,Niveau 1,Commune,Ken Sugimori,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-74,74,Nidorino Niv. 30,80,Psy,Nidoran♂,Niveau 1,Commune,kawayoo,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-75,75,Pifeuil Niv. 25,80,Obscurité,Grainipiot,Niveau 1,Commune,Yukiko Baba,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-76,76,Maraiste  Niv. 34,90,Eau,,De base,Commune,Midori Harada,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-77,77,Phogleur Niv. 31,80,Eau,Obalie,Niveau 1,Commune,Saya Tsuruta,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-78,78,Grainipiot Niv. 8,40,Plante,,De base,Commune,Miki Tanaka,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-79,79,Sancoki Mer Orient Niv. 21,60,Eau,,De base,Commune,Tomokazu Komiya,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-80,80,Sancoki Mer Occident Niv. 27,70,Eau,,De base,Commune,Miki Tanaka,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-81,81,Ronflex Niv. 40,100,Incolore,,De base,Commune,Kouki Saitou,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-82,82,Obalie Niv. 18,60,Eau,,De base,Commune,Tomokazu Komiya,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-83,83,Stari Niv. 18,50,Eau,,De base,Commune,Atsuko Nishida,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-84,84,Kraknoix Niv. 14,50,Combat,,De base,Commune,Atsuko Nishida,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-85,85,Tortipouss  Niv. 20,90,Plante,,De base,Commune,Kanako Eo,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-86,86,Aspicot Niv. 6,60,Plante,,De base,Commune,Ken Sugimori,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-87,87,Smogogo Niv. 47,80,Psy,Smogo,Niveau 1,Commune,Ken Sugimori,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-88,88,La collection d'Aaron,,,,,Peu Commune,Ken Sugimori,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-89,89,La recherche d'Amelle,,,,,Peu Commune,Ken Sugimori,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-90,90,La chaleur de Terry,,,,,Peu Commune,Ken Sugimori,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-91,91,La volonté d'Adrien,,,,,Peu Commune,Ken Sugimori,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-92,92,La mission de Lucio,,,,,Peu Commune,Ken Sugimori,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-93,93,La salle de concours Pokémon,,,,,Peu Commune,Makoto Imai,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-94,94,Le gymnase de Rivamar City,,,,,Peu Commune,Yusuke Ishikawa,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-95,95,Machine Technique  Invention G-107 de Team Galaxie,,,,,Peu Commune,Makoto Imai,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-96,96,Radar SP Invention G-109 de Team Galaxie,,,,,Peu Commune,Kent Kanetsuna,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-97,97,Expédition souterraine,,,,,Peu Commune,Kagemaru Himeno,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-98,98,La Philosophie de Tanguy,,,,,Peu Commune,Ken Sugimori,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-99,99,Énergie Obscurité,,,,,Peu Commune,Takumi Akabane,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-100,100,Énergie Métal,,,,,Peu Commune,Takumi Akabane,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-101,101,Énergie SP,,,,,Peu Commune,Kent Kanetsuna,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-102,102,Énergie Sup,,,,,Peu Commune,Ryo Ueda,"normal, reverse",Rivaux Émergeants,Platine,120
+pl2-103,103,Alakazam  Niv. X,100,Psy,,Niveau Sup,Rare Holo LV.X,Ryo Ueda,holo,Rivaux Émergeants,Platine,120
+pl2-104,104,Mustéflott  Niv. X,100,Eau,,Niveau Sup,Rare Holo LV.X,Mitsuhiro Arita,holo,Rivaux Émergeants,Platine,120
+pl2-105,105,Libegon Niv. X,140,Incolore,,Niveau Sup,Rare Holo LV.X,Shizurow,holo,Rivaux Émergeants,Platine,120
+pl2-106,106,Gallame  Niv. X,100,Psy,,Niveau Sup,Rare Holo LV.X,Ryo Ueda,holo,Rivaux Émergeants,Platine,120
+pl2-107,107,Hippodocus Niv. X,130,Combat,,Niveau Sup,Rare Holo LV.X,Shizurow,holo,Rivaux Émergeants,Platine,120
+pl2-108,108,Simiabraz  Niv. X,110,Feu,,Niveau Sup,Rare Holo LV.X,Ryo Ueda,holo,Rivaux Émergeants,Platine,120
+pl2-109,109,Luxray  Niv. X,110,Électrique,,Niveau Sup,Rare Holo LV.X,Mitsuhiro Arita,"normal, holo",Rivaux Émergeants,Platine,120
+pl2-110,110,Magirêve  Niv. X,100,Psy,,Niveau Sup,Rare Holo LV.X,Kent Kanetsuna,holo,Rivaux Émergeants,Platine,120
+pl2-111,111,Ronflex Niv. X,130,Incolore,,Niveau Sup,Rare Holo LV.X,Shizurow,holo,Rivaux Émergeants,Platine,120
+pl2-112,112,Pikachu Niv. 12,40,Électrique,,De base,Rare,Mitsuhiro Arita,holo,Rivaux Émergeants,Platine,120
+pl2-113,113,Pikachu volant Niv. 12,40,Électrique,,De base,Rare,Toshinao Aoki,holo,Rivaux Émergeants,Platine,120
+pl2-114,114,Pikachu surfeur Niv. 13,50,Électrique,,De base,Rare,Toshinao Aoki,holo,Rivaux Émergeants,Platine,120
+pl2-RT1,RT1,Motisma Hélice Niv. 46,70,Électrique,,De base,Rare,Motofumi Fujiwara,reverse,Rivaux Émergeants,Platine,120
+pl2-RT2,RT2,Motisma Froid Niv. 46,90,Électrique,,De base,Rare,Hironobu Yoshida,reverse,Rivaux Émergeants,Platine,120
+pl2-RT3,RT3,Motisma Chaleur Niv. 46,80,Électrique,,De base,Rare,Lee HyunJung,reverse,Rivaux Émergeants,Platine,120
+pl2-RT4,RT4,Motisma Tonte Niv. 46,90,Électrique,,De base,Rare,Yusuke Ohmura,reverse,Rivaux Émergeants,Platine,120
+pl2-RT5,RT5,Motisma Lavage Niv. 46,90,Électrique,,De base,Rare,Hiroki Fuchino,reverse,Rivaux Émergeants,Platine,120
+pl2-RT6,RT6,Le choix de Pluton,,,,,Rare,Ken Sugimori,reverse,Rivaux Émergeants,Platine,120

@@ -1,0 +1,108 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+A3b-001,001,Tropius,100,Grass,,Basic,Two Diamond,Oswaldo KATO,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-002,002,Leafeon,90,Grass,Eevee,Stage1,Three Diamond,chibi,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-003,003,Bounsweet,60,Grass,,Basic,One Diamond,Yuka Morii,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-004,004,Steenee,80,Grass,Bounsweet,Stage1,One Diamond,Tomokazu Komiya,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-005,005,Tsareena,140,Grass,Steenee,Stage2,Two Diamond,Naoki Saito,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-006,006,Applin,40,Grass,,Basic,One Diamond,Kagemaru Himeno,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-007,007,Appletun,90,Grass,Applin,Stage1,Two Diamond,Akira Komayama,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-008,008,Flareon,110,Fire,Eevee,Stage1,Three Diamond,Eri Yamaki,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-009,009,Flareon ex,150,Fire,Eevee,Stage1,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-010,010,Torkoal,100,Fire,,Basic,One Diamond,sui,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-011,011,Litten,70,Fire,,Basic,One Diamond,0313,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-012,012,Torracat,80,Fire,Litten,Stage1,One Diamond,Shin Nagasawa,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-013,013,Incineroar,150,Fire,Torracat,Stage2,Two Diamond,Hitoshi Ariga,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-014,014,Salandit,60,Fire,,Basic,One Diamond,tetsuya koizumi,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-015,015,Salazzle,90,Fire,Salandit,Stage1,Two Diamond,Shibuzoh.,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-016,016,Vaporeon,120,Water,Eevee,Stage1,Three Diamond,sui,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-017,017,Glaceon,100,Water,Eevee,Stage1,Three Diamond,Mizue,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-018,018,Vanillite,60,Water,,Basic,One Diamond,MAHOU,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-019,019,Vanillish,80,Water,Vanillite,Stage1,One Diamond,Shin Nagasawa,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-020,020,Vanilluxe,140,Water,Vanillish,Stage2,Two Diamond,Ayaka Yoshida,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-021,021,Alomomola,110,Water,,Basic,One Diamond,Miki Tanaka,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-022,022,Popplio,70,Water,,Basic,One Diamond,match,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-023,023,Brionne,90,Water,Popplio,Stage1,One Diamond,Atsuko Nishida,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-024,024,Primarina ex,180,Water,Brionne,Stage2,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-025,025,Jolteon,90,Lightning,Eevee,Stage1,Three Diamond,Sanosuke Sakuma,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-026,026,Joltik,40,Lightning,,Basic,One Diamond,Kouki Saitou,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-027,027,Galvantula,80,Lightning,Joltik,Stage1,Two Diamond,otumami,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-028,028,Espeon,100,Psychic,Eevee,Stage1,Three Diamond,Ryota Murayama,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-029,029,Woobat,60,Psychic,,Basic,One Diamond,match,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-030,030,Swoobat,100,Psychic,Woobat,Stage1,Two Diamond,Shigenori Negishi,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-031,031,Swirlix,60,Psychic,,Basic,One Diamond,MAHOU,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-032,032,Slurpuff,120,Psychic,Swirlix,Stage1,Two Diamond,Kyoko Umemoto,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-033,033,Sylveon,90,Psychic,Eevee,Stage1,Three Diamond,Naoyo Kimura,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-034,034,Sylveon ex,140,Psychic,Eevee,Stage1,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-035,035,Mimikyu,70,Psychic,,Basic,Two Diamond,Eri Yamaki,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-036,036,Milcery,50,Psychic,,Basic,One Diamond,Mina Nakai,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-037,037,Alcremie,80,Psychic,Milcery,Stage1,Two Diamond,Mizue,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-038,038,Barboach,70,Fighting,,Basic,One Diamond,Tomokazu Komiya,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-039,039,Whiscash,130,Fighting,Barboach,Stage1,Two Diamond,Shinji Kanda,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-040,040,Mienfoo,60,Fighting,,Basic,One Diamond,Shigenori Negishi,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-041,041,Mienshao,90,Fighting,Mienfoo,Stage1,Two Diamond,Shibuzoh.,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-042,042,Carbink,80,Fighting,,Basic,One Diamond,5ban Graphics,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-043,043,Umbreon,100,Darkness,Eevee,Stage1,Three Diamond,Ryota Murayama,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-044,044,Sableye,70,Darkness,,Basic,One Diamond,Yukiko Baba,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-045,045,Purrloin,60,Darkness,,Basic,One Diamond,Kouki Saitou,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-046,046,Liepard,90,Darkness,Purrloin,Stage1,Two Diamond,kawayoo,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-047,047,Mawile,70,Metal,,Basic,One Diamond,AKIRA EGAWA,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-048,048,Togedemaru,80,Metal,,Basic,One Diamond,Oswaldo KATO,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-049,049,Meltan,60,Metal,,Basic,One Diamond,HYOGONOSUKE,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-050,050,Melmetal,140,Metal,Meltan,Stage1,Two Diamond,NC Empire,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-051,051,Dratini,60,Dragon,,Basic,One Diamond,Naoyo Kimura,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-052,052,Dragonair,90,Dragon,Dratini,Stage1,One Diamond,sui,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-053,053,Dragonite ex,180,Dragon,Dragonair,Stage2,Four Diamond,PLANETA Igarashi,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-054,054,Drampa,100,Dragon,,Basic,Two Diamond,Sanosuke Sakuma,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-055,055,Eevee,60,Colorless,,Basic,One Diamond,Naoki Saito,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-056,056,Eevee ex,90,Colorless,,Basic,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-057,057,Snorlax ex,160,Colorless,,Basic,Four Diamond,PLANETA Tsuji,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-058,058,Aipom,60,Colorless,,Basic,One Diamond,Shibuzoh.,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-059,059,Ambipom,90,Colorless,Aipom,Stage1,Two Diamond,Sumiyoshi Kizuki,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-060,060,Chatot,70,Colorless,,Basic,One Diamond,Akira Komayama,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-061,061,Audino,90,Colorless,,Basic,One Diamond,sui,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-062,062,Minccino,70,Colorless,,Basic,One Diamond,Sekio,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-063,063,Cinccino,90,Colorless,Minccino,Stage1,Two Diamond,Mizue,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-064,064,Skwovet,70,Colorless,,Basic,One Diamond,Akira Komayama,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-065,065,Greedent,120,Colorless,Skwovet,Stage1,Two Diamond,kirisAki,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-066,066,Eevee Bag,,,,,Two Diamond,AYUMI ODASHIMA,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-067,067,Leftovers,,,,,Two Diamond,Studio Bora Inc.,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-068,068,Hau,,,,,Two Diamond,Yuu Nishida,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-069,069,Penny,,,,,Two Diamond,Susumu Maeya,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-070,070,Leafeon,90,Grass,Eevee,Stage1,One Star,Ryota Murayama,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-071,071,Flareon,110,Fire,Eevee,Stage1,One Star,Teeziro,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-072,072,Vaporeon,120,Water,Eevee,Stage1,One Star,chibi,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-073,073,Glaceon,100,Water,Eevee,Stage1,One Star,Fujimoto Gold,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-074,074,Jolteon,90,Lightning,Eevee,Stage1,One Star,Nisota Niso,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-075,075,Espeon,100,Psychic,Eevee,Stage1,One Star,rika,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-076,076,Sylveon,90,Psychic,Eevee,Stage1,One Star,saino misaki,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-077,077,Umbreon,100,Darkness,Eevee,Stage1,One Star,kawayoo,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-078,078,Eevee,60,Colorless,,Basic,One Star,Narumi Sato,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-079,079,Flareon ex,150,Fire,Eevee,Stage1,Two Star,PLANETA CG Works,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-080,080,Primarina ex,180,Water,Brionne,Stage2,Two Star,PLANETA CG Works,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-081,081,Sylveon ex,140,Psychic,Eevee,Stage1,Two Star,PLANETA CG Works,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-082,082,Dragonite ex,180,Dragon,Dragonair,Stage2,Two Star,PLANETA Mochizuki,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-083,083,Eevee ex,90,Colorless,,Basic,Two Star,PLANETA CG Works,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-084,084,Snorlax ex,160,Colorless,,Basic,Two Star,PLANETA CG Works,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-085,085,Hau,,,,,Two Star,Yuu Nishida,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-086,086,Penny,,,,,Two Star,Susumu Maeya,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-087,087,Flareon ex,150,Fire,Eevee,Stage1,Two Star,Kuroimori,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-088,088,Primarina ex,180,Water,Brionne,Stage2,Two Star,DOM,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-089,089,Sylveon ex,140,Psychic,Eevee,Stage1,Two Star,Yuu Nishida,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-090,090,Dragonite ex,180,Dragon,Dragonair,Stage2,Two Star,Mori Yuu,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-091,091,Snorlax ex,160,Colorless,,Basic,Two Star,Mékayu,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-092,092,Eevee ex,90,Colorless,,Basic,Three Star,kurumitsu,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-093,093,Pinsir,90,Grass,,Basic,One Shiny,Masakazu Fukuda,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-094,094,Lapras,100,Water,,Basic,One Shiny,Nelnal,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-095,095,Voltorb,60,Lightning,,Basic,One Shiny,Scav,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-096,096,Electrode,80,Lightning,Voltorb,Stage1,One Shiny,Scav,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-097,097,Ralts,60,Psychic,,Basic,One Shiny,Sanosuke Sakuma,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-098,098,Kirlia,80,Psychic,Ralts,Stage1,One Shiny,Sanosuke Sakuma,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-099,099,Gardevoir,110,Psychic,Kirlia,Stage2,One Shiny,Sanosuke Sakuma,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-100,100,Ekans,60,Darkness,,Basic,One Shiny,SATOSHI NAKAI,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-101,101,Arbok,100,Darkness,Ekans,Stage1,One Shiny,SATOSHI NAKAI,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-102,102,Farfetch'd,60,Colorless,,Basic,One Shiny,MAHOU,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-103,103,Moltres ex,140,Fire,,Basic,Two Shiny,PLANETA Saito,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-104,104,Articuno ex,140,Water,,Basic,Two Shiny,PLANETA Saito,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-105,105,Zapdos ex,130,Lightning,,Basic,Two Shiny,PLANETA Saito,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-106,106,Gallade ex,170,Fighting,Kirlia,Stage2,Two Shiny,PLANETA CG Works,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107
+A3b-107,107,Eevee Bag,,,,,Crown,AYUMI ODASHIMA,"normal, reverse, holo",Eevee Grove,Pokémon TCG Pocket,107

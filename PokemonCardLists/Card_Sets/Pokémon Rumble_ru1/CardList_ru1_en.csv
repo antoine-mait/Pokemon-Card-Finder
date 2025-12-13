@@ -1,0 +1,17 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+ru1-1,1,Venusaur,140,Grass,Ivysaur,Stage2,None,,normal,Pokémon Rumble,Platinum,16
+ru1-2,2,Cherrim,80,Grass,Cherubi,Stage1,None,,normal,Pokémon Rumble,Platinum,16
+ru1-3,3,Ninetales,90,Fire,Vulpix,Stage1,None,,normal,Pokémon Rumble,Platinum,16
+ru1-4,4,Heatran,110,Fire,,Basic,None,,normal,Pokémon Rumble,Platinum,16
+ru1-5,5,Starmie,80,Water,Staryu,Stage1,None,,normal,Pokémon Rumble,Platinum,16
+ru1-6,6,Gyarados,130,Water,Magikarp,Stage1,None,,normal,Pokémon Rumble,Platinum,16
+ru1-7,7,Pikachu,60,Lightning,,Basic,None,,normal,Pokémon Rumble,Platinum,16
+ru1-8,8,Zapdos,100,Lightning,,Basic,None,,normal,Pokémon Rumble,Platinum,16
+ru1-9,9,Mewtwo,100,Psychic,,Basic,None,,normal,Pokémon Rumble,Platinum,16
+ru1-10,10,Mew,60,Psychic,,Basic,None,,normal,Pokémon Rumble,Platinum,16
+ru1-11,11,Diglett,30,Fighting,,Basic,None,,normal,Pokémon Rumble,Platinum,16
+ru1-12,12,Lucario,90,Fighting,Riolu,Stage1,None,,normal,Pokémon Rumble,Platinum,16
+ru1-13,13,Skuntank,90,Darkness,Stunky,Stage1,None,,normal,Pokémon Rumble,Platinum,16
+ru1-14,14,Bastiodon,120,Metal,Shieldon,Stage2,None,,normal,Pokémon Rumble,Platinum,16
+ru1-15,15,Rattata,30,Colorless,,Basic,None,,normal,Pokémon Rumble,Platinum,16
+ru1-16,16,Bibarel,90,Colorless,Bidoof,Stage1,None,,normal,Pokémon Rumble,Platinum,16

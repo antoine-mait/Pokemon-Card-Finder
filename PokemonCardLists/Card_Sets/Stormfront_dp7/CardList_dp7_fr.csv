@@ -1,0 +1,107 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+dp7-1,1,Noctunoir,120,Psy,Teraclope,Niveau 2,Rare Holo,Mitsuhiro Arita,"reverse, holo",Tempête,Diamant & Perle,106
+dp7-2,2,Pingoléon,130,Métal,Prinplouf,Niveau 2,Rare Holo,Kouki Saitou,"reverse, holo",Tempête,Diamant & Perle,106
+dp7-3,3,Simiabraz,120,Combat,Chimpenfeu,Niveau 2,Rare Holo,Mitsuhiro Arita,"reverse, holo",Tempête,Diamant & Perle,106
+dp7-4,4,Luminéon,80,Eau,Ecayon,Niveau 1,Rare Holo,Kent Kanetsuna,"reverse, holo",Tempête,Diamant & Perle,106
+dp7-5,5,Magnézone,120,Métal,Magneton,Niveau 2,Rare Holo,Masakazu Fukuda,"reverse, holo",Tempête,Diamant & Perle,106
+dp7-6,6,Magnézone,120,Électrique,Magneton,Niveau 2,Rare Holo,Tomoaki Imakuni,"reverse, holo",Tempête,Diamant & Perle,106
+dp7-7,7,Magirêve,80,Psy,Feuforêve,Niveau 1,Rare Holo,Midori Harada,"reverse, holo",Tempête,Diamant & Perle,106
+dp7-8,8,Raichu,90,Électrique,Pikachu,Niveau 1,Rare Holo,Kagemaru Himeno,"reverse, holo",Tempête,Diamant & Perle,106
+dp7-9,9,Regigigas,100,Incolore,Regigigas,De base,Rare Holo,Masakazu Fukuda,"reverse, holo",Tempête,Diamant & Perle,106
+dp7-10,10,Jungko,110,Plante,Massko,Niveau 2,Rare Holo,Suwama Chiaki,"normal, reverse, holo",Tempête,Diamant & Perle,106
+dp7-11,11,Torterra,140,Combat,Boskara,Niveau 2,Rare Holo,Masakazu Fukuda,"reverse, holo",Tempête,Diamant & Perle,106
+dp7-12,12,Blizzaroi,100,Eau,Blizzi,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-13,13,Archéodong,90,Psy,Archéomire,Niveau 1,Rare,Kyoko Umemoto,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-14,14,Ceriflor,80,Plante,Ceribou,Niveau 1,Rare,Suwama Chiaki,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-15,15,Drascore,110,Obscurité,Rapion,Niveau 1,Rare,Kent Kanetsuna,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-16,16,Grodrive,90,Psy,Baudrive,Niveau 1,Rare,Hajime Kusajima,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-17,17,Noctunoir,120,Psy,Teraclope,Niveau 2,Rare,Tomoaki Imakuni,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-18,18,Ectoplasma,110,Psy,Spectrum,Niveau 2,Rare,Hajime Kusajima,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-19,19,Leviator,130,Eau,Magicarpe,Niveau 1,Rare,Midori Harada,"normal, reverse, holo",Tempête,Diamant & Perle,106
+dp7-20,20,Mackogneur,130,Combat,Machopeur,Niveau 2,Rare,Masakazu Fukuda,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-21,21,Mammochon,140,Combat,Chochignon,Niveau 2,Rare,Kent Kanetsuna,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-22,22,Galopa,80,Feu,Ponyta,Niveau 1,Rare,Suwama Chiaki,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-23,23,Roserade,90,Psy,Roselia,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-24,24,Drattak,140,Incolore,Drackhaus,Niveau 2,Rare,Kagemaru Himeno,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-25,25,Cizayox,100,Plante,Insécateur,Niveau 1,Rare,Midori Harada,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-26,26,Moufflair,100,Obscurité,Moufouette,Niveau 1,Rare,Kouki Saitou,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-27,27,Etouraptor,120,Incolore,Etourvol,Niveau 2,Rare,Kouki Saitou,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-28,28,Steelix,130,Métal,Onix,Niveau 1,Rare,Naoyo Kimura,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-29,29,Bouldeneu,110,Plante,Saquedeneu,Niveau 1,Rare,Kouki Saitou,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-30,30,Tyranocif,140,Obscurité,Ymphect,Niveau 2,Rare,Kagemaru Himeno,"normal, reverse, holo",Tempête,Diamant & Perle,106
+dp7-31,31,Apireine,100,Plante,Apitrini,Niveau 1,Rare,Kent Kanetsuna,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-32,32,Castorno,100,Eau,Keunotor,Niveau 1,Peu Commune,Kouki Saitou,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-33,33,Rozbouton,40,Psy,Rozbouton,De base,Peu Commune,Yuka Morii,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-34,34,Teraclope,80,Psy,Skélénox,Niveau 1,Peu Commune,Yukiko Baba,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-35,35,Teraclope,80,Psy,Skélénox,Niveau 1,Peu Commune,Sumiyoshi Kizuki,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-36,36,Electrode,90,Électrique,Voltorbe,Niveau 1,Peu Commune,Kent Kanetsuna,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-37,37,Electrode,80,Électrique,Voltorbe,Niveau 1,Peu Commune,Sumiyoshi Kizuki,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-38,38,Canarticho,70,Incolore,Canarticho,De base,Peu Commune,Sumiyoshi Kizuki,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-39,39,Massko,80,Plante,Arcko,Niveau 1,Peu Commune,Naoyo Kimura,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-40,40,Spectrum,80,Psy,Fantominus,Niveau 1,Peu Commune,Yukiko Baba,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-41,41,Machopeur,80,Combat,Machoc,Niveau 1,Peu Commune,Sachiko Adachi,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-42,42,Magneton,80,Métal,Magneti,Niveau 1,Peu Commune,Hajime Kusajima,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-43,43,Magneton,80,Électrique,Magneti,Niveau 1,Peu Commune,Kent Kanetsuna,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-44,44,Écrémeuh,70,Incolore,Écrémeuh,De base,Peu Commune,Kouki Saitou,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-45,45,Pichu,50,Électrique,Pichu,De base,Peu Commune,Atsuko Nishida,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-46,46,Cochignon,90,Combat,Marcacrin,Niveau 1,Peu Commune,Mitsuhiro Arita,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-47,47,Ymphect,80,Combat,Embrylex,Niveau 1,Peu Commune,Hajime Kusajima,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-48,48,Ténéfix,60,Obscurité,Ténéfix,De base,Peu Commune,Kyoko Umemoto,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-49,49,Insécateur,60,Plante,Insécateur,De base,Peu Commune,Mitsuhiro Arita,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-50,50,Drackhaus,90,Incolore,Draby,Niveau 1,Peu Commune,Tomokazu Komiya,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-51,51,Airmure,80,Métal,Airmure,De base,Peu Commune,Kagemaru Himeno,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-52,52,Etourvol,70,Incolore,Etourmi,Niveau 1,Peu Commune,Midori Harada,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-53,53,Draby,50,Incolore,Draby,De base,Commune,Aya Kusube,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-54,54,Keunotor,60,Incolore,Keunotor,De base,Commune,Yuka Morii,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-55,55,Archéomire,60,Psy,Archéomire,De base,Commune,Miki Tanaka,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-56,56,Ceribou,50,Plante,Ceribou,De base,Commune,Tomokazu Komiya,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-57,57,Apitrini,50,Plante,Apitrini,De base,Commune,Miki Tanaka,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-58,58,Baudrive,50,Psy,Baudrive,De base,Commune,Atsuko Nishida,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-59,59,Skélénox,50,Psy,Skélénox,De base,Commune,Kouki Saitou,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-60,60,Skélénox,50,Psy,Skélénox,De base,Commune,Sachiko Adachi,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-61,61,Ecayon,50,Eau,Ecayon,De base,Commune,Kagemaru Himeno,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-62,62,Fantominus,50,Psy,Fantominus,De base,Commune,Aya Kusube,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-63,63,Embrylex,50,Combat,Embrylex,De base,Commune,Yuka Morii,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-64,64,Machoc,60,Combat,Machoc,De base,Commune,Midori Harada,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-65,65,Magicarpe,30,Eau,Magicarpe,De base,Commune,Tomokazu Komiya,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-66,66,Magneti,50,Métal,Magneti,De base,Commune,Aya Kusube,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-67,67,Magneti,50,Électrique,Magneti,De base,Commune,Kent Kanetsuna,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-68,68,Feuforêve,60,Psy,Feuforêve,De base,Commune,Atsuko Nishida,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-69,69,Onix,90,Combat,Onix,De base,Commune,Kyoko Umemoto,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-70,70,Pikachu,70,Électrique,Pikachu,De base,Commune,Hajime Kusajima,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-71,71,Ponyta,50,Feu,Ponyta,De base,Commune,Atsuko Nishida,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-72,72,Roselia,70,Psy,Roselia,De base,Commune,Sumiyoshi Kizuki,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-73,73,Rapion,60,Plante,Rapion,De base,Commune,Sachiko Adachi,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-74,74,Blizzi,50,Eau,Blizzi,De base,Commune,Kagemaru Himeno,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-75,75,Etourmi,50,Incolore,Etourmi,De base,Commune,Atsuko Nishida,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-76,76,Moufouette,60,Obscurité,Moufouette,De base,Commune,Tomokazu Komiya,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-77,77,Marcacrin,50,Combat,Marcacrin,De base,Commune,Yukiko Baba,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-78,78,Saquedeneu,70,Plante,Saquedeneu,De base,Commune,Yukiko Baba,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-79,79,Arcko,50,Plante,Arcko,De base,Commune,Naoyo Kimura,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-80,80,Voltorbe,60,Électrique,Voltorbe,De base,Commune,Kent Kanetsuna,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-81,81,Voltorbe,60,Électrique,Voltorbe,De base,Commune,Miki Tanaka,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-82,82,Carrière conductrice,,,,,Peu Commune,Ryo Ueda,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-83,83,Chaîne d'énergie,,,,,Peu Commune,Ryo Ueda,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-84,84,Échange d'Énergie,,,,,Peu Commune,Ryo Ueda,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-85,85,Super Ball,,,,,Peu Commune,Kent Kanetsuna,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-86,86,Luxe Ball,,,,,Peu Commune,Ryo Ueda,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-87,87,La requête de Vivianne,,,,,Peu Commune,Ken Sugimori,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-88,88,Poké Coup +,,,,,Peu Commune,Ryo Ueda,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-89,89,Poké Pioche +,,,,,Peu Commune,Ryo Ueda,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-90,90,Poké Guérison +,,,,,Peu Commune,Ryo Ueda,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-91,91,Honor ball,,,,,Peu Commune,Ryo Ueda,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-92,92,Potion,,,,,Commune,Shin-ichi Yoshikawa,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-93,93,Échange,,,,,Commune,Ryo Ueda,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-94,94,Énergie Cyclone,,,,,Peu Commune,Takumi Akabane,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-95,95,Énergie de Distorsion,,,,,Peu Commune,Takumi Akabane,"normal, reverse",Tempête,Diamant & Perle,106
+dp7-96,96,Noctunoir,140,Psy,Noctunoir LV.X,Niveau Sup,Rare Holo LV.X,Shizurow,holo,Tempête,Diamant & Perle,106
+dp7-97,97,Heatran,120,Feu,Heatran LV.X,Niveau Sup,Rare Holo LV.X,Shizurow,holo,Tempête,Diamant & Perle,106
+dp7-98,98,Mackogneur,150,Combat,Mackogneur LV.X,Niveau Sup,Rare Holo LV.X,Ryo Ueda,holo,Tempête,Diamant & Perle,106
+dp7-99,99,Raichu,110,Électrique,Raichu LV.X,Niveau Sup,Rare Holo LV.X,Ryo Ueda,holo,Tempête,Diamant & Perle,106
+dp7-100,100,Regigigas,150,Incolore,Regigigas LV.X,Niveau Sup,Rare Holo LV.X,Shizurow,holo,Tempête,Diamant & Perle,106
+dp7-101,101,Salamèche,50,Feu,Salamèche,De base,Rare,Mitsuhiro Arita,holo,Tempête,Diamant & Perle,106
+dp7-102,102,Reptincel,80,Feu,Salamèche,Niveau 1,Rare,Mitsuhiro Arita,holo,Tempête,Diamant & Perle,106
+dp7-103,103,Dracaufeu,120,Feu,Reptincel,Niveau 2,Rare,Mitsuhiro Arita,holo,Tempête,Diamant & Perle,106
+dp7-SH1,SH1,Baudrive,50,Psy,Baudrive,De base,Rare Holo LV.X,Atsuko Nishida,holo,Tempête,Diamant & Perle,106
+dp7-SH2,SH2,Skélénox,60,Psy,Skélénox,De base,Rare Holo LV.X,Kouki Saitou,holo,Tempête,Diamant & Perle,106
+dp7-SH3,SH3,Voltorbe,60,Électrique,Voltorbe,De base,Rare Holo LV.X,Kent Kanetsuna,holo,Tempête,Diamant & Perle,106

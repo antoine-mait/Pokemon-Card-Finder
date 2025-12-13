@@ -1,0 +1,19 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+det1-1,1,Bulbasaur,60,Grass,,Basic,Common,MPC Film,"normal, reverse, holo",Detective Pikachu,Sun & Moon,18
+det1-2,2,Ludicolo,140,Grass,Lombre,Stage2,Rare,Framestore,"normal, reverse, holo",Detective Pikachu,Sun & Moon,18
+det1-3,3,Morelull,50,Grass,,Basic,Common,MPC Film,"normal, reverse, holo",Detective Pikachu,Sun & Moon,18
+det1-4,4,Charmander,60,Fire,,Basic,Common,MPC Film,"normal, reverse, holo",Detective Pikachu,Sun & Moon,18
+det1-5,5,Charizard,180,Fire,Charmeleon,Stage2,Ultra Rare,Framestore,"normal, reverse, holo",Detective Pikachu,Sun & Moon,18
+det1-6,6,Arcanine,120,Fire,Growlithe,Stage1,Rare,MPC Film,"normal, reverse, holo",Detective Pikachu,Sun & Moon,18
+det1-7,7,Psyduck,80,Water,,Basic,Common,Framestore,"normal, reverse, holo",Detective Pikachu,Sun & Moon,18
+det1-8,8,Magikarp,30,Water,,Basic,Common,Framestore,"normal, reverse, holo",Detective Pikachu,Sun & Moon,18
+det1-9,9,Greninja,140,Water,Frogadier,Stage2,Ultra Rare,MPC Film,"normal, reverse, holo",Detective Pikachu,Sun & Moon,18
+det1-10,10,Detective Pikachu,90,Lightning,,Basic,Rare,MPC Film,"normal, reverse, holo",Detective Pikachu,Sun & Moon,18
+det1-11,11,Mr. Mime,80,Psychic,,Basic,Rare,MPC Film,"normal, reverse, holo",Detective Pikachu,Sun & Moon,18
+det1-12,12,Mewtwo,130,Psychic,,Basic,Ultra Rare,MPC Film,"normal, reverse, holo",Detective Pikachu,Sun & Moon,18
+det1-13,13,Machamp,160,Fighting,Machoke,Stage2,Rare,MPC Film,"normal, reverse, holo",Detective Pikachu,Sun & Moon,18
+det1-14,14,Jigglypuff,60,Fairy,,Basic,Common,Framestore,"normal, reverse, holo",Detective Pikachu,Sun & Moon,18
+det1-15,15,Snubbull,70,Fairy,,Basic,Common,Framestore,"normal, reverse, holo",Detective Pikachu,Sun & Moon,18
+det1-16,16,Lickitung,100,Colorless,,Basic,Common,MPC Film,"normal, reverse, holo",Detective Pikachu,Sun & Moon,18
+det1-17,17,Ditto,60,Colorless,,Basic,Ultra Rare,MPC Film,"normal, reverse, holo",Detective Pikachu,Sun & Moon,18
+det1-18,18,Slaking,180,Colorless,Vigoroth,Stage2,Rare,Framestore,"normal, reverse, holo",Detective Pikachu,Sun & Moon,18

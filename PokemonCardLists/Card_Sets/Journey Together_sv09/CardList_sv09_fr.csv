@@ -1,0 +1,191 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sv09-001,001,Chenipan,50,Plante,,De base,Commune,Shimaris Yukichi,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-002,002,Chrysacier,90,Plante,Chenipan,Niveau 1,Commune,OKUBO,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-003,003,Papilusion,120,Plante,Chrysacier,Niveau 2,Rare,satoma,"reverse, holo",Aventures Ensemble,Écarlate et Violet,190
+sv09-004,004,Paras,70,Plante,,De base,Commune,Ayako Ozaki,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-005,005,Parasect,120,Plante,Paras,Niveau 1,Commune,Tetsu Kayama,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-006,006,Chlorobule,50,Plante,,De base,Commune,Shibuzoh.,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-007,007,Fragilady,110,Plante,Chlorobule,Niveau 1,Commune,Jiro Sasumo,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-008,008,Maracachi,110,Plante,,De base,Peu Commune,Dsuke,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-009,009,Carabing,60,Plante,,De base,Commune,Yuka Morii,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-010,010,Trompignon,50,Plante,,De base,Commune,Saboteri,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-011,011,Gaulet-ex,260,Plante,Trompignon,Niveau 1,Double rare,PLANETA Mochizuki,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-012,012,Escargaume,70,Plante,,De base,Commune,Toshinao Aoki,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-013,013,Limaspeed,100,Plante,Escargaume,Niveau 1,Peu Commune,Kazumasa Yasukuni,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-014,014,Fermite,90,Plante,,De base,Commune,KEIICHIRO ITO,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-015,015,Viridium,120,Plante,,De base,Peu Commune,Anesaki Dynamic,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-016,016,Poussacha,60,Plante,,De base,Commune,Mina Nakai,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-017,017,Matourgeon,90,Plante,Poussacha,Niveau 1,Commune,Felicia Chen,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-018,018,Miascarade,160,Plante,Matourgeon,Niveau 2,Rare,kodama,"reverse, holo",Aventures Ensemble,Écarlate et Violet,190
+sv09-019,019,Lilliterelle,50,Plante,,De base,Commune,Ayako Ozaki,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-020,020,Magmar,80,Feu,,De base,Commune,Naoyo Kimura,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-021,021,Maganon,130,Feu,Magmar,Niveau 1,Rare,Tonji Matsuno,"reverse, holo",Aventures Ensemble,Écarlate et Violet,190
+sv09-022,022,Poussifeu,60,Feu,,De base,Commune,OKACHEKE,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-023,023,Galifeu,90,Feu,Poussifeu,Niveau 1,Peu Commune,Fujimoto Gold,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-024,024,Braségali-ex,320,Feu,Galifeu,Niveau 2,Double rare,takuyoa,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-025,025,Chartor,130,Feu,,De base,Commune,kodama,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-026,026,Darumarond de N,80,Feu,,De base,Commune,Gemi,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-027,027,Darumacho de N,140,Feu,Darumarond de N,Niveau 1,Peu Commune,nagimiso,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-028,028,Pyronille,80,Feu,,De base,Commune,Kyoko Umemoto,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-029,029,Pyrax,140,Feu,Pyronille,Niveau 1,Peu Commune,Mitsuhiro Arita,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-030,030,Reshiram-ex,220,Feu,,De base,Double rare,PLANETA Mochizuki,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-031,031,Volcanion-ex,220,Feu,,De base,Double rare,5ban Graphics,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-032,032,Artikodin,110,Eau,,De base,Peu Commune,Takumi Wada,"normal, reverse, holo",Aventures Ensemble,Écarlate et Violet,190
+sv09-033,033,Rémoraid,60,Eau,,De base,Commune,Minahamu,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-034,034,Octillery,110,Eau,Rémoraid,Niveau 1,Peu Commune,Toshinao Aoki,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-035,035,Nénupiot,60,Eau,,De base,Commune,Ayako Ozaki,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-036,036,Lombre,90,Eau,Nénupiot,Niveau 1,Commune,Mousho,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-037,037,Ludicolo,140,Eau,Lombre,Niveau 2,Rare,Jerky,"reverse, holo",Aventures Ensemble,Écarlate et Violet,190
+sv09-038,038,Goélise,60,Eau,,De base,Commune,Mékayu,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-039,039,Bekipan,120,Eau,Goélise,Niveau 1,Peu Commune,Nelnal,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-040,040,Wailmer,130,Eau,,De base,Commune,Shinya Mizuno,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-041,041,Wailord,240,Eau,Wailmer,Niveau 1,Rare,Takeshi Nakamura,"reverse, holo",Aventures Ensemble,Écarlate et Violet,190
+sv09-042,042,Regice,120,Eau,,De base,Peu Commune,Takumi Wada,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-043,043,Délestin-ex,210,Eau,,De base,Double rare,5ban Graphics,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-044,044,Racaillou d'Alola,60,Électrique,,De base,Commune,svlt,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-045,045,Gravalanch d'Alola,100,Électrique,Racaillou d'Alola,Niveau 1,Commune,HYOGONOSUKE,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-046,046,Grolem d'Alola,180,Électrique,Gravalanch d'Alola,Niveau 2,Peu Commune,Takeshi Nakamura,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-047,047,Voltorbe de Mashynn,70,Électrique,,De base,Commune,Kazumasa Yasukuni,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-048,048,Électrode de Mashynn,100,Électrique,Voltorbe de Mashynn,Niveau 1,Peu Commune,GOTO minori,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-049,049,Statitik de N,40,Électrique,,De base,Commune,Iori Suzuki,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-050,050,Togedemaru,80,Électrique,,De base,Commune,Susumu Maeya,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-051,051,Tokorico-ex,200,Électrique,,De base,Double rare,PLANETA Igarashi,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-052,052,Têtampoule de Mashynn,60,Électrique,,De base,Commune,kurumitsu,"normal, reverse, holo",Aventures Ensemble,Écarlate et Violet,190
+sv09-053,053,Ampibidou-ex de Mashynn,280,Électrique,Têtampoule de Mashynn,Niveau 1,Double rare,5ban Graphics,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-054,054,Zapétrel de Mashynn,60,Électrique,,De base,Commune,Akira Komayama,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-055,055,Fulgulairo de Mashynn,120,Électrique,Zapétrel de Mashynn,Niveau 1,Rare,chibi,"normal, reverse, holo",Aventures Ensemble,Écarlate et Violet,190
+sv09-056,056,Mélofée-ex de Lilie,190,Psy,,De base,Double rare,5ban Graphics,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-057,057,Ossatueur d'Alola,120,Psy,Osselait,Niveau 1,Peu Commune,Uta,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-058,058,M. Mime,90,Psy,,De base,Commune,GOTO minori,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-059,059,Polichombr,60,Psy,,De base,Commune,miki kudo,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-060,060,Branette,90,Psy,Polichombr,Niveau 1,Peu Commune,Anesaki Dynamic,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-061,061,Terhal,60,Psy,,De base,Commune,Izucch,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-062,062,Métang,100,Psy,Terhal,Niveau 1,Commune,Oswaldo KATO,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-063,063,Métalosse,170,Psy,Métang,Niveau 2,Rare,Mitsuhiro Arita,"reverse, holo",Aventures Ensemble,Écarlate et Violet,190
+sv09-064,064,Cryptéro de N,110,Psy,,De base,Commune,Shiburingaru,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-065,065,Plumeline,80,Psy,,De base,Commune,aspara,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-066,066,Bombydou de Lilie,30,Psy,,De base,Commune,Saya Tsuruta,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-067,067,Rubombelle de Lilie,70,Psy,Bombydou de Lilie,Niveau 1,Rare,mashu,"reverse, holo",Aventures Ensemble,Écarlate et Violet,190
+sv09-068,068,Guérilande de Lilie,70,Psy,,De base,Commune,Narumi Sato,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-069,069,Mimiqui-ex,190,Psy,,De base,Double rare,PLANETA Igarashi,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-070,070,Sinistrail,130,Psy,,De base,Commune,Sanosuke Sakuma,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-071,071,Grimalin,70,Psy,,De base,Commune,Haru Akasaka,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-072,072,Fourbelin,90,Psy,Grimalin,Niveau 1,Commune,Lee HyunJung,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-073,073,Angoliath,170,Psy,Fourbelin,Niveau 2,Peu Commune,Nisota Niso,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-074,074,Crèmy,50,Psy,,De base,Commune,Shibuzoh.,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-075,075,Charmilly-ex,250,Psy,Crèmy,Niveau 1,Double rare,PLANETA Mochizuki,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-076,076,Osselait,70,Combat,,De base,Commune,Mugi Hamada,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-077,077,Marcacrin,70,Combat,,De base,Commune,REND,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-078,078,Cochignon,100,Combat,Marcacrin,Niveau 1,Commune,Aliya Chen,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-079,079,Mammochon-ex,340,Combat,Cochignon,Niveau 2,Double rare,Nisota Niso,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-080,080,Embrylex,70,Combat,,De base,Commune,Dsuke,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-081,081,Ymphect,90,Combat,Embrylex,Niveau 1,Commune,Scav,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-082,082,Regirock,130,Combat,,De base,Rare,Uta,"reverse, holo",Aventures Ensemble,Écarlate et Violet,190
+sv09-083,083,Pandespiègle,60,Combat,,De base,Commune,Yuriko Akase,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-084,084,Rocabot,70,Combat,,De base,Commune,Yoshimi Miyoshi,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-085,085,Lougaroc,120,Combat,Rocabot,Niveau 1,Rare,Shiburingaru,"reverse, holo",Aventures Ensemble,Écarlate et Violet,190
+sv09-086,086,Dunaja de Nabil,80,Combat,,De base,Commune,aspara,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-087,087,Dunaconda de Nabil,140,Combat,Dunaja de Nabil,Niveau 1,Peu Commune,Sanosuke Sakuma,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-088,088,Terracool,60,Combat,,De base,Commune,osare,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-089,089,Terracruel,130,Combat,Terracool,Niveau 1,Peu Commune,Masako Tomii,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-090,090,Craparoi,120,Combat,,De base,Peu Commune,Shinya Komatsu,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-091,091,Smogo,60,Obscurité,,De base,Commune,Rond,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-092,092,Smogogo,130,Obscurité,Smogo,Niveau 1,Peu Commune,KEIICHIRO ITO,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-093,093,Axoloto de Paldea,60,Obscurité,,De base,Commune,Lee HyunJung,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-094,094,Terraiste de Paldea-ex,280,Obscurité,Axoloto de Paldea,Niveau 1,Double rare,PLANETA Tsuji,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-095,095,Tyranocif,190,Obscurité,Ymphect,Niveau 2,Rare,AKIRA EGAWA,"reverse, holo",Aventures Ensemble,Écarlate et Violet,190
+sv09-096,096,Chacripan de N,70,Obscurité,,De base,Commune,Keisin,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-097,097,Zorua de N,70,Obscurité,,De base,Commune,Jiro Sasumo,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-098,098,Zoroark-ex de N,280,Obscurité,Zorua de N,Niveau 1,Double rare,takuyoa,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-099,099,Pandarbare,140,Obscurité,Pandespiègle,Niveau 1,Peu Commune,nagimiso,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-100,100,Gambex,120,Obscurité,Lilliterelle,Niveau 1,Peu Commune,AKIRA EGAWA,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-101,101,Lestombaile,120,Obscurité,,De base,Commune,Gemi,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-102,102,Lançargot,120,Métal,Carabing,Niveau 1,Peu Commune,Takumi Wada,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-103,103,Tic de N,60,Métal,,De base,Commune,Saboteri,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-104,104,Clic de N,90,Métal,Tic de N,Niveau 1,Commune,KEIICHIRO ITO,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-105,105,Cliticlic de N,160,Métal,Clic de N,Niveau 2,Peu Commune,matazo,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-106,106,Limonde de Galar,100,Métal,,De base,Commune,Aya Kusube,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-107,107,Magearna,90,Métal,,De base,Rare,rika,"reverse, holo",Aventures Ensemble,Écarlate et Violet,190
+sv09-108,108,Corvaillus de Nabil,170,Métal,Bleuseille de Nabil,Niveau 2,Peu Commune,GIDORA,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-109,109,Charibari,100,Métal,,De base,Commune,kodama,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-110,110,Pachyradjah,190,Métal,Charibari,Niveau 1,Peu Commune,Ryuta Fuse,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-111,111,Zacian-ex de Nabil,230,Métal,,De base,Double rare,aky CG Works,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-112,112,Draby,70,Dragon,,De base,Commune,Miki Tanaka,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-113,113,Drackhaus,100,Dragon,Draby,Niveau 1,Commune,Julie Hang,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-114,114,Drattak-ex,320,Dragon,Drackhaus,Niveau 2,Double rare,toriyufu,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-115,115,Drakkarmin,120,Dragon,,De base,Commune,kawayoo,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-116,116,Reshiram de N,130,Dragon,,De base,Rare,rika,"reverse, holo",Aventures Ensemble,Écarlate et Violet,190
+sv09-117,117,Ronflex de Nabil,150,Incolore,,De base,Rare,GOSSAN,"reverse, holo",Aventures Ensemble,Écarlate et Violet,190
+sv09-118,118,Fouinette,60,Incolore,,De base,Commune,Taiga Kayama,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-119,119,Fouinar,120,Incolore,Fouinette,Niveau 1,Commune,Tomomi Ozaki,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-120,120,Insolourdo,70,Incolore,,De base,Commune,Asako Ito,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-121,121,Deusolourdo-ex,270,Incolore,Insolourdo,Niveau 1,Double rare,5ban Graphics,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-122,122,Kecleon,80,Incolore,,De base,Commune,0313,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-123,123,Tropius,110,Incolore,,De base,Commune,Atsuya Uki,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-124,124,Nanméouïe,110,Incolore,,De base,Commune,Minahamu,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-125,125,Chinchidou,70,Incolore,,De base,Commune,Oswaldo KATO,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-126,126,Pashmilla,100,Incolore,Chinchidou,Niveau 1,Peu Commune,En Morikura,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-127,127,Sonistrelle,60,Incolore,,De base,Commune,Tomokazu Komiya,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-128,128,Bruyverne,110,Incolore,Sonistrelle,Niveau 1,Rare,Anesaki Dynamic,"normal, reverse, holo",Aventures Ensemble,Écarlate et Violet,190
+sv09-129,129,Dodoala,100,Incolore,,De base,Commune,Natsumi Yoshida,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-130,130,Draïeul,120,Incolore,,De base,Commune,Tetsu Kayama,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-131,131,Rongourmand,60,Incolore,,De base,Commune,sowsow,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-132,132,Rongrigou,120,Incolore,Rongourmand,Niveau 1,Peu Commune,Jerky,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-133,133,Minisange de Nabil,60,Incolore,,De base,Commune,Shinya Mizuno,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-134,134,Bleuseille de Nabil,90,Incolore,Minisange de Nabil,Niveau 1,Commune,Souichirou Gunjima,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-135,135,Moumouton de Nabil,70,Incolore,,De base,Commune,Tomomi Ozaki,"normal, reverse, holo",Aventures Ensemble,Écarlate et Violet,190
+sv09-136,136,Moumouflon de Nabil,120,Incolore,Moumouton de Nabil,Niveau 1,Rare,Ryota Murayama,"reverse, holo",Aventures Ensemble,Écarlate et Violet,190
+sv09-137,137,Nigosier,110,Incolore,,De base,Commune,Tomomi Ozaki,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-138,138,Nigosier de Nabil,110,Incolore,,De base,Peu Commune,Saboteri,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-139,139,Gourmelet,70,Incolore,,De base,Commune,OKACHEKE,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-140,140,Fragroin,120,Incolore,Gourmelet,Niveau 1,Peu Commune,Mina Nakai,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-141,141,Tapatoès,70,Incolore,,De base,Commune,sowsow,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-142,142,Milio et Naire,,,,,Commune,Sanosuke Sakuma,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-143,143,Entraînement de Karatéka,,,,,Commune,GOSSAN,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-144,144,Entraînement de Karatéka,,,,,Commune,GOSSAN,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-145,145,Entraînement de Karatéka,,,,,Commune,GOSSAN,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-146,146,Exploration de Pierre,,,,,Peu Commune,Teeziro,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-147,147,Sac de Nabil,,,,,Peu Commune,AYUMI ODASHIMA,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-148,148,Bandeau Choix de Nabil,,,,,Peu Commune,Toyste Beach,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-149,149,Esprit Combatif d'Iris,,,,,Peu Commune,yuu,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-150,150,Levalendura,,,,,Peu Commune,MARINA Chikazawa,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-151,151,Perle de Lilie,,,,,Peu Commune,AYUMI ODASHIMA,"normal, reverse, holo",Aventures Ensemble,Écarlate et Violet,190
+sv09-152,152,Palais de N,,,,,Peu Commune,AYUMI ODASHIMA,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-153,153,PP Plus de N,,,,,Peu Commune,Toyste Beach,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-154,154,Paddoxton,,,,,Peu Commune,AYUMI ODASHIMA,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-155,155,Recherches Professorales,,,,,Commune,Taira Akitsu,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-156,156,Billet à Échanger,,,,,Peu Commune,Studio Bora Inc.,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-157,157,Petite Frappe,,,,,Peu Commune,Hideki Ishikawa,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-158,158,Super Potion,,,,,Peu Commune,Studio Bora Inc.,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-159,159,Énergie Piquante,,,,,Peu Commune,,"normal, reverse",Aventures Ensemble,Écarlate et Violet,190
+sv09-160,160,Maracachi,110,Plante,,De base,Illustration rare,Ounishi,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-161,161,Artikodin,110,Eau,,De base,Illustration rare,Kuroimori,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-162,162,Wailord,240,Eau,Wailmer,Niveau 1,Illustration rare,Katsunori Sato,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-163,163,Fulgulairo de Mashynn,120,Électrique,Zapétrel de Mashynn,Niveau 1,Illustration rare,Terada Tera,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-164,164,Rubombelle de Lilie,70,Psy,Bombydou de Lilie,Niveau 1,Illustration rare,saino misaki,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-165,165,Marcacrin,70,Combat,,De base,Illustration rare,Nakamura Ippan,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-166,166,Lougaroc,120,Combat,Rocabot,Niveau 1,Illustration rare,GIDORA,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-167,167,Reshiram de N,130,Dragon,,De base,Illustration rare,Bun Toujo,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-168,168,Fouinar,120,Incolore,Fouinette,Niveau 1,Illustration rare,REND,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-169,169,Sonistrelle,60,Incolore,,De base,Illustration rare,sowsow,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-170,170,Moumouton de Nabil,70,Incolore,,De base,Illustration rare,MINAMINAMI Take,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-171,171,Volcanion-ex,220,Feu,,De base,Ultra Rare,5ban Graphics,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-172,172,Ampibidou-ex de Mashynn,280,Électrique,Têtampoule de Mashynn,Niveau 1,Ultra Rare,5ban Graphics,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-173,173,Mélofée-ex de Lilie,190,Psy,,De base,Ultra Rare,5ban Graphics,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-174,174,Mammochon-ex,340,Combat,Cochignon,Niveau 2,Ultra Rare,N-DESIGN Inc.,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-175,175,Zoroark-ex de N,280,Obscurité,Zorua de N,Niveau 1,Ultra Rare,takuyoa,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-176,176,Zacian-ex de Nabil,230,Métal,,De base,Ultra Rare,aky CG Works,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-177,177,Drattak-ex,320,Dragon,Drackhaus,Niveau 2,Ultra Rare,5ban Graphics,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-178,178,Deusolourdo-ex,270,Incolore,Insolourdo,Niveau 1,Ultra Rare,5ban Graphics,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-179,179,Exploration de Pierre,,,,,Ultra Rare,Teeziro,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-180,180,Esprit Combatif d'Iris,,,,,Ultra Rare,yuu,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-181,181,Petite Frappe,,,,,Ultra Rare,Hideki Ishikawa,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-182,182,Volcanion-ex,220,Feu,,De base,Illustration spéciale rare,akagi,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-183,183,Ampibidou-ex de Mashynn,280,Électrique,Têtampoule de Mashynn,Niveau 1,Illustration spéciale rare,Yuu Nishida,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-184,184,Mélofée-ex de Lilie,190,Psy,,De base,Illustration spéciale rare,Susumu Maeya,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-185,185,Zoroark-ex de N,280,Obscurité,Zorua de N,Niveau 1,Illustration spéciale rare,Megumi Mizutani,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-186,186,Zacian-ex de Nabil,230,Métal,,De base,Illustration spéciale rare,DOM,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-187,187,Drattak-ex,320,Dragon,Drackhaus,Niveau 2,Illustration spéciale rare,Tsuyoshi Nagano,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-188,188,Ampibidou-ex de Mashynn,280,Électrique,Têtampoule de Mashynn,Niveau 1,Hyper rare,5ban Graphics,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-189,189,Zoroark-ex de N,280,Obscurité,Zorua de N,Niveau 1,Hyper rare,takuyoa,holo,Aventures Ensemble,Écarlate et Violet,190
+sv09-190,190,Énergie Piquante,,,,,Hyper rare,,holo,Aventures Ensemble,Écarlate et Violet,190

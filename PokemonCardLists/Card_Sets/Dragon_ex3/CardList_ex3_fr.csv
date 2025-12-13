@@ -1,0 +1,101 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+ex3-1,1,Absol,70,Obscurité,,De base,Rare,Naoyo Kimura,"normal, reverse, holo",EX Dragon,EX,100
+ex3-2,2,Altaria,80,Incolore,,Niveau 1,Rare,Atsuko Nishida,"normal, reverse, holo",EX Dragon,EX,100
+ex3-3,3,Colhomard,80,Eau,,Niveau 1,Rare,Hisao Nakamura,"normal, reverse, holo",EX Dragon,EX,100
+ex3-4,4,Libegon,120,Incolore,,Niveau 2,Rare,Mitsuhiro Arita,"normal, reverse, holo",EX Dragon,EX,100
+ex3-5,5,Grolem,120,Combat,,Niveau 2,Rare,Hisao Nakamura,"normal, reverse, holo",EX Dragon,EX,100
+ex3-6,6,Groret,80,Psy,,Niveau 1,Rare,Midori Harada,"normal, reverse, holo",EX Dragon,EX,100
+ex3-7,7,Negapi,50,Électrique,,De base,Rare,Atsuko Nishida,"normal, reverse, holo",EX Dragon,EX,100
+ex3-8,8,Posipi,50,Électrique,,De base,Rare,Atsuko Nishida,"normal, reverse, holo",EX Dragon,EX,100
+ex3-9,9,Roselia,60,Plante,,De base,Rare,Atsuko Nishida,"normal, reverse, holo",EX Dragon,EX,100
+ex3-10,10,Drattak,120,Incolore,,Niveau 2,Rare,Mitsuhiro Arita,"normal, reverse, holo",EX Dragon,EX,100
+ex3-11,11,Munja,30,Plante,,Niveau 1,Rare,Kagemaru Himeno,"normal, reverse, holo",EX Dragon,EX,100
+ex3-12,12,Chartor,80,Feu,,De base,Rare,Kagemaru Himeno,"normal, reverse, holo",EX Dragon,EX,100
+ex3-13,13,Colhomard,80,Eau,,Niveau 1,Rare,Kagemaru Himeno,"normal, reverse, holo",EX Dragon,EX,100
+ex3-14,14,Draco,70,Incolore,,Niveau 1,Rare,Aya Kusube,"normal, reverse, holo",EX Dragon,EX,100
+ex3-15,15,Libegon,100,Incolore,,Niveau 2,Rare,Hajime Kusajima,"normal, reverse, holo",EX Dragon,EX,100
+ex3-16,16,Girafarig,70,Psy,,De base,Rare,Midori Harada,"normal, reverse, holo",EX Dragon,EX,100
+ex3-17,17,Magneton,70,Électrique,,Niveau 1,Rare,Midori Harada,"normal, reverse, holo",EX Dragon,EX,100
+ex3-18,18,Ninjask,70,Plante,,Niveau 1,Rare,Hajime Kusajima,"normal, reverse, holo",EX Dragon,EX,100
+ex3-19,19,Drattak,100,Incolore,,Niveau 2,Rare,Kouki Saitou,"normal, reverse, holo",EX Dragon,EX,100
+ex3-20,20,Drackhaus,80,Incolore,,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse, holo",EX Dragon,EX,100
+ex3-21,21,Airmure,70,Métal,,De base,Rare,Hisao Nakamura,"normal, reverse, holo",EX Dragon,EX,100
+ex3-22,22,Vibraninf,80,Incolore,,Niveau 1,Rare,Kagemaru Himeno,"normal, reverse, holo",EX Dragon,EX,100
+ex3-23,23,Draby,50,Incolore,,De base,Peu Commune,Mitsuhiro Arita,"normal, reverse, holo",EX Dragon,EX,100
+ex3-24,24,Camerupt,80,Feu,,Niveau 1,Peu Commune,Naoyo Kimura,"normal, reverse, holo",EX Dragon,EX,100
+ex3-25,25,Galifeu,70,Feu,,Niveau 1,Peu Commune,Atsuko Nishida,"normal, reverse, holo",EX Dragon,EX,100
+ex3-26,26,Minidraco,50,Incolore,,De base,Peu Commune,Aya Kusube,"normal, reverse, holo",EX Dragon,EX,100
+ex3-27,27,Lainergie,80,Électrique,,Niveau 1,Peu Commune,Miki Tanaka,"normal, reverse, holo",EX Dragon,EX,100
+ex3-28,28,Foretress,80,Métal,,Niveau 1,Peu Commune,Mitsuhiro Arita,"normal, reverse, holo",EX Dragon,EX,100
+ex3-29,29,Gravalanch,80,Combat,,Niveau 1,Peu Commune,Hisao Nakamura,"normal, reverse, holo",EX Dragon,EX,100
+ex3-30,30,Gravalanch,80,Combat,,Niveau 1,Peu Commune,Midori Harada,"normal, reverse, holo",EX Dragon,EX,100
+ex3-31,31,Massko,70,Plante,,Niveau 1,Peu Commune,Atsuko Nishida,"normal, reverse, holo",EX Dragon,EX,100
+ex3-32,32,Leviator,100,Eau,,Niveau 1,Peu Commune,Kouki Saitou,"normal, reverse, holo",EX Dragon,EX,100
+ex3-33,33,Hypotrempe,40,Eau,,De base,Peu Commune,Hajime Kusajima,"normal, reverse, holo",EX Dragon,EX,100
+ex3-34,34,Hypotrempe,70,Obscurité,,Niveau 1,Peu Commune,Atsuko Nishida,"normal, reverse, holo",EX Dragon,EX,100
+ex3-35,35,Magneton,80,Électrique,,Niveau 1,Peu Commune,Kyoko Umemoto,"normal, reverse, holo",EX Dragon,EX,100
+ex3-36,36,Flobio,80,Eau,,Niveau 1,Peu Commune,Atsuko Nishida,"normal, reverse, holo",EX Dragon,EX,100
+ex3-37,37,Meditikka,50,Combat,,De base,Peu Commune,Kouki Saitou,"normal, reverse, holo",EX Dragon,EX,100
+ex3-38,38,Ninjask,70,Plante,,Niveau 1,Peu Commune,Toshinao Aoki,"normal, reverse, holo",EX Dragon,EX,100
+ex3-39,39,Hypocéan,70,Eau,,Niveau 1,Peu Commune,Hajime Kusajima,"normal, reverse, holo",EX Dragon,EX,100
+ex3-40,40,Hypocéan,70,Eau,,Niveau 1,Peu Commune,Midori Harada,"normal, reverse, holo",EX Dragon,EX,100
+ex3-41,41,Drackhaus,70,Incolore,,Niveau 1,Peu Commune,Yuka Morii,"normal, reverse, holo",EX Dragon,EX,100
+ex3-42,42,Drackhaus,70,Incolore,,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse, holo",EX Dragon,EX,100
+ex3-43,43,Polichombr,50,Psy,,De base,Peu Commune,Aya Kusube,"normal, reverse, holo",EX Dragon,EX,100
+ex3-44,44,Stalgamin,50,Eau,,De base,Peu Commune,Sumiyoshi Kizuki,"normal, reverse, holo",EX Dragon,EX,100
+ex3-45,45,Heledelle,70,Incolore,,Niveau 1,Peu Commune,Mitsuhiro Arita,"normal, reverse, holo",EX Dragon,EX,100
+ex3-46,46,Vibraninf,70,Incolore,,Niveau 1,Peu Commune,Hajime Kusajima,"normal, reverse, holo",EX Dragon,EX,100
+ex3-47,47,Vibraninf,70,Incolore,,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse, holo",EX Dragon,EX,100
+ex3-48,48,Barbicha,90,Eau,,Niveau 1,Peu Commune,Tomokazu,"normal, reverse, holo",EX Dragon,EX,100
+ex3-49,49,Draby,40,Incolore,,De base,Commune,Ken Sugimori,"normal, reverse, holo",EX Dragon,EX,100
+ex3-50,50,Draby,50,Incolore,,De base,Commune,Kouki Saitou,"normal, reverse, holo",EX Dragon,EX,100
+ex3-51,51,Barloche,50,Eau,,De base,Commune,Tomokazu Komiya,"normal, reverse, holo",EX Dragon,EX,100
+ex3-52,52,Écrapince,40,Eau,,De base,Commune,Ken Sugimori,"normal, reverse, holo",EX Dragon,EX,100
+ex3-53,53,Écrapince,50,Eau,,De base,Commune,Kagemaru Himeno,"normal, reverse, holo",EX Dragon,EX,100
+ex3-54,54,Écrapince,50,Eau,,De base,Commune,Hisao Nakamura,"normal, reverse, holo",EX Dragon,EX,100
+ex3-55,55,Racaillou,50,Combat,,De base,Commune,Hisao Nakamura,"normal, reverse, holo",EX Dragon,EX,100
+ex3-56,56,Racaillou,40,Combat,,De base,Commune,Midori Harada,"normal, reverse, holo",EX Dragon,EX,100
+ex3-57,57,Tadmorv,50,Plante,,De base,Commune,Yuka Morii,"normal, reverse, holo",EX Dragon,EX,100
+ex3-58,58,Hypotrempe,50,Eau,,De base,Commune,Midori Harada,"normal, reverse, holo",EX Dragon,EX,100
+ex3-59,59,Malosse,50,Obscurité,,De base,Commune,Hajime Kusajima,"normal, reverse, holo",EX Dragon,EX,100
+ex3-60,60,Magicarpe,30,Eau,,De base,Commune,Kouki Saitou,"normal, reverse, holo",EX Dragon,EX,100
+ex3-61,61,Magneti,40,Électrique,,De base,Commune,Tomokazu Komiya,"normal, reverse, holo",EX Dragon,EX,100
+ex3-62,62,Magneti,50,Électrique,,De base,Commune,Midori Harada,"normal, reverse, holo",EX Dragon,EX,100
+ex3-63,63,Magneti,50,Électrique,,De base,Commune,Kyoko Umemoto,"normal, reverse, holo",EX Dragon,EX,100
+ex3-64,64,Wattouat,50,Électrique,,De base,Commune,Miki Tanaka,"normal, reverse, holo",EX Dragon,EX,100
+ex3-65,65,Gobou,50,Eau,,De base,Commune,Hironobu Yoshida,"normal, reverse, holo",EX Dragon,EX,100
+ex3-66,66,Ningale,40,Plante,,De base,Commune,Toshinao Aoki,"normal, reverse, holo",EX Dragon,EX,100
+ex3-67,67,Ningale,50,Plante,,De base,Commune,Ken Sugimori,"normal, reverse, holo",EX Dragon,EX,100
+ex3-68,68,Ningale,50,Plante,,De base,Commune,Hajime Kusajima,"normal, reverse, holo",EX Dragon,EX,100
+ex3-69,69,Chamallot,40,Feu,,De base,Commune,Yuka Morii,"normal, reverse, holo",EX Dragon,EX,100
+ex3-70,70,Chamallot,50,Feu,,De base,Commune,Naoyo Kimura,"normal, reverse, holo",EX Dragon,EX,100
+ex3-71,71,Pomdepic,40,Plante,,De base,Commune,Hajime Kusajima,"normal, reverse, holo",EX Dragon,EX,100
+ex3-72,72,Limagma,50,Feu,,De base,Commune,Kyoko Umemoto,"normal, reverse, holo",EX Dragon,EX,100
+ex3-73,73,Spoink,50,Psy,,De base,Commune,Miki Tanaka,"normal, reverse, holo",EX Dragon,EX,100
+ex3-74,74,Spoink,50,Psy,,De base,Commune,Midori Harada,"normal, reverse, holo",EX Dragon,EX,100
+ex3-75,75,Tylton,40,Incolore,,De base,Commune,Atsuko Nishida,"normal, reverse, holo",EX Dragon,EX,100
+ex3-76,76,Nirondelle,50,Incolore,,De base,Commune,Kyoko Umemoto,"normal, reverse, holo",EX Dragon,EX,100
+ex3-77,77,Poussifeu,50,Feu,,De base,Commune,Hironobu Yoshida,"normal, reverse, holo",EX Dragon,EX,100
+ex3-78,78,Kraknoix,50,Combat,,De base,Commune,Yuka Morii,"normal, reverse, holo",EX Dragon,EX,100
+ex3-79,79,Kraknoix,50,Combat,,De base,Commune,Ken Sugimori,"normal, reverse, holo",EX Dragon,EX,100
+ex3-80,80,Arcko,50,Plante,,De base,Commune,Hajime Kusajima,"normal, reverse, holo",EX Dragon,EX,100
+ex3-81,81,Chenipotte,50,Plante,,De base,Commune,Midori Harada,"normal, reverse, holo",EX Dragon,EX,100
+ex3-82,82,Baie Ballon,,,,,Peu Commune,Keiji Kinebuchi,"normal, reverse, holo",EX Dragon,EX,100
+ex3-83,83,Pare-chocs,,,,,Peu Commune,Katsura Tabata,"normal, reverse, holo",EX Dragon,EX,100
+ex3-84,84,Recyclage d'énergie,,,,,Peu Commune,Zu-Ka,"normal, reverse, holo",EX Dragon,EX,100
+ex3-85,85,Système à haute pression,,,,,Peu Commune,Ken Ikuji,"normal, reverse, holo",EX Dragon,EX,100
+ex3-86,86,Système à basse pression,,,,,Peu Commune,Shin-ichi Yoshikawa,"normal, reverse, holo",EX Dragon,EX,100
+ex3-87,87,La compassion de M. Briney,,,,,Peu Commune,Ken Sugimori,"normal, reverse, holo",EX Dragon,EX,100
+ex3-88,88,Journaliste télé,,,,,Peu Commune,Ken Sugimori,"normal, reverse, holo",EX Dragon,EX,100
+ex3-89,89,Pharamp ex,150,Électrique,,,Rare,Ryo Ueda,"normal, reverse, holo",EX Dragon,EX,100
+ex3-90,90,Dracolosse ex,150,Incolore,,,Rare,Ryo Ueda,"normal, reverse, holo",EX Dragon,EX,100
+ex3-91,91,Grolem ex,160,Combat,,,Rare,Hikaru Koike,"normal, reverse, holo",EX Dragon,EX,100
+ex3-92,92,Hyporoi ex,150,Eau,,,Rare,Hikaru Koike,"normal, reverse, holo",EX Dragon,EX,100
+ex3-93,93,Latias ex,90,Incolore,,,Rare,Ryo Ueda,"normal, reverse, holo",EX Dragon,EX,100
+ex3-94,94,Latios ex,100,Incolore,,,Rare,Ryo Ueda,"normal, reverse, holo",EX Dragon,EX,100
+ex3-95,95,Volcaropod ex,100,Feu,,,Rare,Hikaru Koike,"normal, reverse, holo",EX Dragon,EX,100
+ex3-96,96,Grotadmorv ex,100,Plante,,,Rare,Hikaru Koike,"normal, reverse, holo",EX Dragon,EX,100
+ex3-97,97,Rayquaza ex,100,Incolore,,,Rare,Hikaru Koike,"normal, reverse, holo",EX Dragon,EX,100
+ex3-98,98,Salamèche,50,Feu,,De base,Rare,Mitsuhiro Arita,"normal, reverse, holo",EX Dragon,EX,100
+ex3-99,99,Reptincel,70,Feu,,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse, holo",EX Dragon,EX,100
+ex3-100,100,Dracaufeu,120,Feu,,Niveau 2,Rare,Mitsuhiro Arita,"normal, reverse, holo",EX Dragon,EX,100

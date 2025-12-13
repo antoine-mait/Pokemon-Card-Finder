@@ -1,0 +1,99 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+bw2-1,1,Vegimak,70,Pflanze,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-2,2,Vegichita,90,Pflanze,,Rang 1,Selten,match,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-3,3,Strawickl,40,Pflanze,,Basis,Häufig,Kagemaru Himeno,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-4,4,Strawickl,50,Pflanze,,Basis,Häufig,Naoki Saito,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-5,5,Folikon,80,Pflanze,,Rang 1,Ungewöhnlich,Naoki Saito,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-6,6,Folikon,70,Pflanze,,Rang 1,Ungewöhnlich,MAHOU,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-7,7,Matrifol,130,Pflanze,,Rang 2,Selten,Kouki Saitou,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-8,8,Matrifol,130,Pflanze,,Rang 2,Selten,Masakazu Fukuda,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-9,9,Waumboll,40,Pflanze,,Basis,Häufig,Atsuko Nishida,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-10,10,Waumboll,50,Pflanze,,Basis,Häufig,Kagemaru Himeno,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-11,11,Elfun,80,Pflanze,,Rang 1,Ungewöhnlich,sui,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-12,12,Elfun,80,Pflanze,,Rang 1,Selten,Mizue,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-13,13,Lilminip,50,Pflanze,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-14,14,Dressella,90,Pflanze,,Rang 1,Ungewöhnlich,Shin Nagasawa,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-15,15,Sesokitz,60,Pflanze,,Basis,Häufig,sui,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-16,16,Kronjuwild,100,Pflanze,,Rang 1,Selten,Kagemaru Himeno,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-17,17,Viridium,100,Pflanze,,Basis,Selten,5ban Graphics,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-18,18,Grillmak,70,Feuer,,Basis,Häufig,Masakazu Fukuda,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-19,19,Grillchita,90,Feuer,,Rang 1,Selten,Mitsuhiro Arita,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-20,20,Flampion,70,Feuer,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-21,21,Flampivian,100,Feuer,,Rang 1,Selten,Mitsuhiro Arita,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-22,22,Sodamak,70,Wasser,,Basis,Häufig,Kagemaru Himeno,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-23,23,Sodachita,90,Wasser,,Rang 1,Selten,Sumiyoshi Kizuki,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-24,24,Barschuft,80,Wasser,,Basis,Häufig,match,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-25,25,Barschuft,80,Wasser,,Basis,Ungewöhnlich,Akira Komayama,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-26,26,Piccolente,60,Wasser,,Basis,Häufig,MAHOU,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-27,27,Swaroness,90,Wasser,,Rang 1,Selten,Atsuko Nishida,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-28,28,Petznief,70,Wasser,,Basis,Häufig,sui,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-29,29,Petznief,70,Wasser,,Basis,Häufig,Kanako Eo,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-30,30,Siberio,130,Wasser,,Rang 1,Selten,Kouki Saitou,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-31,31,Siberio,130,Wasser,,Rang 1,Selten,Kagemaru Himeno,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-32,32,Emolga,70,Elektro,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-33,33,Wattzapf,40,Elektro,,Basis,Häufig,Kagemaru Himeno,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-34,34,Voltula,80,Elektro,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-35,35,Voltolos,110,Elektro,,Basis,Selten,5ban Graphics,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-36,36,Fleknoil,60,Psycho,,Basis,Häufig,Masakazu Fukuda,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-37,37,Fletiamo,90,Psycho,,Rang 1,Selten,Shigenori Negishi,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-38,38,Toxiped,70,Psycho,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-39,39,Rollum,90,Psycho,,Rang 1,Ungewöhnlich,Shin Nagasawa,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-40,40,Cerapendra,140,Psycho,,Rang 2,Selten,kawayoo,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-41,41,Symvolara,90,Psycho,,Basis,Ungewöhnlich,Midori Harada,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-42,42,Symvolara,90,Psycho,,Basis,Ungewöhnlich,match,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-43,43,Mollimorba,60,Psycho,,Basis,Häufig,MAHOU,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-44,44,Mollimorba,60,Psycho,,Basis,Häufig,sui,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-45,45,Hypnomorba,80,Psycho,,Rang 1,Ungewöhnlich,Atsuko Nishida,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-46,46,Hypnomorba,80,Psycho,,Rang 1,Ungewöhnlich,Naoki Saito,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-47,47,Morbitesse,130,Psycho,,Rang 2,Selten,Kagemaru Himeno,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-48,48,Morbitesse,120,Psycho,,Rang 2,Selten,Kouki Saitou,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-49,49,Kiesling,60,Kampf,,Basis,Häufig,Kagemaru Himeno,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-50,50,Kiesling,60,Kampf,,Basis,Häufig,Masakazu Fukuda,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-51,51,Sedimantur,90,Kampf,,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-52,52,Sedimantur,90,Kampf,,Rang 1,Ungewöhnlich,Masakazu Fukuda,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-53,53,Brockoloss,140,Kampf,,Rang 2,Selten,Naoki Saito,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-54,54,Rotomurf,70,Kampf,,Basis,Ungewöhnlich,match,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-55,55,Rotomurf,60,Kampf,,Basis,Häufig,Midori Harada,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-56,56,Stalobor,110,Kampf,,Rang 1,Selten,5ban Graphics,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-57,57,Stalobor,120,Kampf,,Rang 1,Selten,Shin Nagasawa,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-58,58,Jiutesto,90,Kampf,,Basis,Ungewöhnlich,match,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-59,59,Karadonis,90,Kampf,,Basis,Ungewöhnlich,Kouki Saitou,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-60,60,Ganovil,70,Kampf,,Basis,Häufig,Kagemaru Himeno,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-61,61,Rokkaiman,90,Kampf,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-62,62,Rabigator,140,Kampf,,Rang 2,Selten,Naoki Saito,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-63,63,Terrakium,120,Kampf,,Basis,Selten,5ban Graphics,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-64,64,Felilou,60,Unlicht,,Basis,Häufig,Atsuko Nishida,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-65,65,Kleoparda,80,Unlicht,,Rang 1,Selten,Akira Komayama,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-66,66,Zorua,50,Unlicht,,Basis,Ungewöhnlich,Shin Nagasawa,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-67,67,Zoroark,100,Unlicht,,Rang 1,Selten,Shin Nagasawa,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-68,68,Skallyk,50,Unlicht,,Basis,Häufig,sui,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-69,69,Grypheldis,90,Unlicht,,Rang 1,Selten,Mitsuhiro Arita,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-70,70,Kastadur,60,Metall,,Basis,Häufig,Midori Harada,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-71,71,Kastadur,50,Metall,,Basis,Häufig,MAHOU,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-72,72,Tentantel,90,Metall,,Rang 1,Selten,Shin Nagasawa,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-73,73,Tentantel,90,Metall,,Rang 1,Ungewöhnlich,Masakazu Fukuda,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-74,74,Klikk,60,Metall,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-75,75,Kliklak,80,Metall,,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-76,76,Klikdiklak,150,Metall,,Rang 2,Selten,Akira Komayama,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-77,77,Kobalium,110,Metall,,Basis,Selten,5ban Graphics,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-78,78,Nagelotz,60,Farblos,,Basis,Häufig,Masakazu Fukuda,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-79,79,Kukmarda,90,Farblos,,Rang 1,Ungewöhnlich,MAHOU,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-80,80,Dusselgurr,50,Farblos,,Basis,Häufig,Naoki Saito,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-81,81,Navitaub,70,Farblos,,Rang 1,Ungewöhnlich,Midori Harada,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-82,82,Fasasnob,120,Farblos,,Rang 2,Selten,kawayoo,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-83,83,Ohrdoch,90,Farblos,,Basis,Ungewöhnlich,Kagemaru Himeno,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-84,84,Picochilla,60,Farblos,,Basis,Häufig,Atsuko Nishida,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-85,85,Chillabell,90,Farblos,,Rang 1,Ungewöhnlich,Mizue,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-86,86,Geronimatz,60,Farblos,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-87,87,Geronimatz,60,Farblos,,Basis,Häufig,Naoyo Kimura,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-88,88,Washakwil,100,Farblos,,Rang 1,Selten,Masakazu Fukuda,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-89,89,Boreos,110,Farblos,,Basis,Selten,5ban Graphics,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-90,90,Bell,,,,,Ungewöhnlich,Yusuke Ohmura,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-91,91,Cheren,,,,,Ungewöhnlich,Yusuke Ohmura,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-92,92,Schmetterhammer,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-93,93,Superball,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-94,94,Top-Trank,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-95,95,Pokémon-Fänger,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-96,96,Aufbereitung,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-97,97,Voltolos,110,Elektro,,Basis,Ultra Selten,5ban Graphics,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98
+bw2-98,98,Boreos,110,Farblos,,Basis,Ultra Selten,5ban Graphics,"normal, reverse, holo",Aufstreben der Mächtigen,Schwarz & Weiß,98

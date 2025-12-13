@@ -1,0 +1,18 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+pop7-1,1,Ampharos,130,Lightning,Flaaffy,Stage2,Rare,Kouki Saitou,"normal, holo",POP Series 7,POP,17
+pop7-2,2,Gallade,130,Fighting,Kirlia,Stage2,Rare,Daisuke Ito,holo,POP Series 7,POP,17
+pop7-3,3,Latias,80,Colorless,,Basic,Rare,Daisuke Ito,"normal, holo",POP Series 7,POP,17
+pop7-4,4,Latios,90,Colorless,,Basic,Rare,Daisuke Ito,"normal, holo",POP Series 7,POP,17
+pop7-5,5,Mothim,80,Grass,Burmy,Stage1,Rare,Kazuyuki Kano,"normal, holo",POP Series 7,POP,17
+pop7-6,6,Delibird,70,Water,,Basic,Uncommon,Masakazu Fukuda,normal,POP Series 7,POP,17
+pop7-7,7,Flaaffy,80,Lightning,Mareep,Stage1,Uncommon,Kagemaru Himeno,normal,POP Series 7,POP,17
+pop7-8,8,Kirlia,80,Psychic,Ralts,Stage1,Uncommon,Masakazu Fukuda,"normal, holo",POP Series 7,POP,17
+pop7-9,9,Stantler,70,Colorless,,Basic,Uncommon,Kouki Saitou,normal,POP Series 7,POP,17
+pop7-10,10,Wormadam Sandy Cloak,80,Fighting,Burmy,Stage1,Uncommon,Kagemaru Himeno,normal,POP Series 7,POP,17
+pop7-11,11,Burmy Plant Cloak,40,Grass,,Basic,Common,Kouki Saitou,normal,POP Series 7,POP,17
+pop7-12,12,Burmy Sandy Cloak,40,Grass,,Basic,Common,Midori Harada,normal,POP Series 7,POP,17
+pop7-13,13,Corsola,70,Water,,Basic,Common,Midori Harada,normal,POP Series 7,POP,17
+pop7-14,14,Mareep,50,Lightning,,Basic,Common,Atsuko Nishida,normal,POP Series 7,POP,17
+pop7-15,15,Ralts,60,Psychic,,Basic,Common,Sumiyoshi Kizuki,normal,POP Series 7,POP,17
+pop7-16,16,Sentret,60,Colorless,,Basic,Common,Midori Harada,normal,POP Series 7,POP,17
+pop7-17,17,Spinda,70,Colorless,,Basic,Common,Atsuko Nishida,normal,POP Series 7,POP,17

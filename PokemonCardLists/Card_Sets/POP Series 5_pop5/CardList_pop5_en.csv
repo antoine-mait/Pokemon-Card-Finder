@@ -1,0 +1,18 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+pop5-1,1,Ho-Oh,80,Fire,,Basic,Rare,Mitsuhiro Arita,"normal, holo",POP Series 5,POP,17
+pop5-2,2,Lugia,80,Psychic,,Basic,Rare,Mitsuhiro Arita,"normal, holo",POP Series 5,POP,17
+pop5-3,3,Mew δ,60,Fire,,Basic,Rare,Masakazu Fukuda,normal,POP Series 5,POP,17
+pop5-4,4,Double Rainbow Energy,,,,,Rare,Takumi Akabane,normal,POP Series 5,POP,17
+pop5-5,5,Charmeleon δ,70,Lightning,Charmander,Stage1,Uncommon,Mitsuhiro Arita,,POP Series 5,POP,17
+pop5-6,6,Bill’s Maintenance,,,,,Uncommon,Ken Sugimori,normal,POP Series 5,POP,17
+pop5-7,7,Rare Candy,,,,,Uncommon,Ryo Ueda,normal,POP Series 5,POP,17
+pop5-8,8,Boost Energy,,,,,Uncommon,Shin-ichi Yoshikawa,normal,POP Series 5,POP,17
+pop5-9,9,δ Rainbow Energy,,,,,Uncommon,Takumi Akabane,,POP Series 5,POP,17
+pop5-10,10,Charmander δ,50,Lightning,,Basic,Common,Mitsuhiro Arita,,POP Series 5,POP,17
+pop5-11,11,Meowth δ,40,Darkness,,Basic,Common,Mitsuhiro Arita,normal,POP Series 5,POP,17
+pop5-12,12,Pikachu,50,Lightning,,Basic,Common,Naoyo Kimura,"normal, holo",POP Series 5,POP,17
+pop5-13,13,Pikachu δ,40,Metal,,Basic,Common,Ryo Ueda,normal,POP Series 5,POP,17
+pop5-14,14,Pelipper δ,70,Lightning,Wingull,Stage1,Common,Mitsuhiro Arita,holo,POP Series 5,POP,17
+pop5-15,15,Zangoose δ,70,Metal,,Basic,Common,Kouki Saitou,"normal, holo",POP Series 5,POP,17
+pop5-16,16,Espeon ★,70,Psychic,,Basic,Ultra Rare,Masakazu Fukuda,,POP Series 5,POP,17
+pop5-17,17,Umbreon ★,70,Darkness,,Basic,Ultra Rare,Masakazu Fukuda,,POP Series 5,POP,17

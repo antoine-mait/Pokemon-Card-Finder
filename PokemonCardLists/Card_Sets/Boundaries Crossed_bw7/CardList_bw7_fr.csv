@@ -1,0 +1,154 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+bw7-1,1,Mystherbe,50,Plante,,De base,Commune,Kanako Eo,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-2,2,Ortide,80,Plante,Mystherbe,Niveau 1,Peu Commune,Atsuko Nishida,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-3,3,Rafflesia,140,Plante,Ortide,Niveau 2,Rare,Shin Nagasawa,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-4,4,Joliflor,110,Plante,Ortide,Niveau 2,Rare,Mizue,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-5,5,Saquedeneu,80,Plante,,De base,Commune,MAHOU,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-6,6,Bouldeneu,130,Plante,Saquedeneu,Niveau 1,Rare,TOKIYA,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-7,7,Insécateur,70,Plante,,De base,Commune,kawayoo,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-8,8,Scarhino,100,Plante,,De base,Peu Commune,Naoki Saito,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-9,9,Celebi-EX,110,Plante,,,Rare,Toyste Beach,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-10,10,Shaymin,70,Plante,,De base,Rare,Kagemaru Himeno,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-11,11,Vipélierre,60,Plante,,De base,Commune,Mizue,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-12,12,Lianaja,80,Plante,Vipélierre,Niveau 1,Peu Commune,Mizue,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-13,13,Majaspic,140,Plante,Lianaja,Niveau 2,Rare,Mizue,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-14,14,Doudouvet,50,Plante,,De base,Commune,sui,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-15,15,Farfaduvet,80,Plante,Doudouvet,Niveau 1,Rare,Kagemaru Himeno,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-16,16,Chlorobule,50,Plante,,De base,Peu Commune,sui,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-17,17,Fragilady,80,Plante,Chlorobule,Niveau 1,Rare,Kanako Eo,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-18,18,Salamèche,70,Feu,,De base,Commune,Akira Komayama,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-19,19,Reptincel,90,Feu,Salamèche,Niveau 1,Peu Commune,Masakazu Fukuda,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-20,20,Dracaufeu,160,Feu,Reptincel,Niveau 2,Rare,hatachu,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-21,21,Chamallot,90,Feu,,De base,Commune,match,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-22,22,Camérupt,130,Feu,Chamallot,Niveau 1,Rare,Akira Komayama,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-23,23,Victini,70,Feu,,De base,Rare,Masakazu Fukuda,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-24,24,Gruikui,60,Feu,,De base,Commune,Shin Nagasawa,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-25,25,Grotichon,90,Feu,Gruikui,Niveau 1,Peu Commune,Shin Nagasawa,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-26,26,Roitiflam,150,Feu,Grotichon,Niveau 2,Rare,Shin Nagasawa,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-27,27,Darumarond,70,Feu,,De base,Commune,Aya Kusube,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-28,28,Darumacho,110,Feu,Darumarond,Niveau 1,Peu Commune,kawayoo,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-29,29,Carapuce,60,Eau,,De base,Commune,Kanako Eo,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-30,30,Carabaffe,80,Eau,Carapuce,Niveau 1,Peu Commune,Mizue,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-31,31,Tortank,140,Eau,Carabaffe,Niveau 2,Rare,Satoshi Shirai,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-32,32,Psykokwak,60,Eau,,De base,Commune,match,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-33,33,Psykokwak,70,Eau,,De base,Commune,Masakazu Fukuda,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-34,34,Akwakwak,80,Eau,Psykokwak,Niveau 1,Peu Commune,match,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-35,35,Akwakwak,90,Eau,Psykokwak,Niveau 1,Rare,Kagemaru Himeno,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-36,36,Marill,70,Eau,,De base,Commune,Mizue,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-37,37,Azumarill,90,Eau,Marill,Niveau 1,Peu Commune,Masakazu Fukuda,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-38,38,Cadoizo,80,Eau,,De base,Peu Commune,Sumiyoshi Kizuki,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-39,39,Moustillon,60,Eau,,De base,Commune,match,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-40,40,Mateloutre,90,Eau,Moustillon,Niveau 1,Peu Commune,match,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-41,41,Clamiral,140,Eau,Mateloutre,Niveau 2,Rare,match,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-42,42,Couaneton,70,Eau,,De base,Commune,Kouki Saitou,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-43,43,Lakmécygne,90,Eau,Couaneton,Niveau 1,Peu Commune,Suwama Chiaki,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-44,44,Viskuse,80,Eau,,De base,Commune,Miki Tanaka,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-45,45,Moyade,100,Eau,Viskuse,Niveau 1,Rare,Kouki Saitou,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-46,46,Hexagel,90,Eau,,De base,Peu Commune,Kouki Saitou,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-47,47,Keldeo,110,Eau,,De base,Rare,Ryo Ueda,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-48,48,Keldeo,90,Eau,,De base,Rare,Naoki Saito,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-49,49,Keldeo EX,170,Eau,,,Rare,Toyste Beach,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-50,50,Pikachu,60,Électrique,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-51,51,Voltorbe,50,Électrique,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-52,52,Électrode,80,Électrique,Voltorbe,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-53,53,Élektek,80,Électrique,,De base,Commune,Shigenori Negishi,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-54,54,Élekable,120,Électrique,Élektek,Niveau 1,Rare,BERUBURI,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-55,55,Loupio,60,Électrique,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-56,56,Zébibron,70,Électrique,,De base,Commune,Midori Harada,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-57,57,Zéblitz,100,Électrique,Zébibron,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-58,58,Qulbutoké,90,Psy,,De base,Peu Commune,Ken Sugimori,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-59,59,Spoink,50,Psy,,De base,Commune,Sumiyoshi Kizuki,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-60,60,Groret,110,Psy,Spoink,Niveau 1,Rare,Kouki Saitou,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-61,61,Skelénox,50,Psy,,De base,Commune,Naoki Saito,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-62,62,Téraclope,80,Psy,Skelénox,Niveau 1,Peu Commune,Akira Komayama,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-63,63,Noctunoir,130,Psy,Téraclope,Niveau 2,Rare,kawayoo,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-64,64,Cradopaud,60,Psy,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-65,65,Cradopaud,70,Psy,,De base,Peu Commune,MAHOU,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-66,66,Coatox,90,Psy,Cradopaud,Niveau 1,Rare,Kouki Saitou,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-67,67,Cresselia-EX,170,Psy,,,Rare,Hideaki Hakozaki,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-68,68,Munna,60,Psy,,De base,Peu Commune,sui,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-69,69,Mushana,100,Psy,Munna,Niveau 1,Rare,Satoshi Shirai,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-70,70,Chovsourir,60,Psy,,De base,Commune,Miki Tanaka,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-71,71,Rhinolove,80,Psy,Chovsourir,Niveau 1,Rare,Sumiyoshi Kizuki,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-72,72,Venipatte,70,Psy,,De base,Commune,Shigenori Negishi,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-73,73,Scobolide,100,Psy,Venipatte,Niveau 1,Peu Commune,match,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-74,74,Brutapode,150,Psy,Scobolide,Niveau 2,Rare,5ban Graphics,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-75,75,Scrutella,60,Psy,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-76,76,Mesmérella,80,Psy,Scrutella,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-77,77,Meloetta,80,Psy,,De base,Rare,5ban Graphics,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-78,78,Sabelette,70,Combat,,De base,Commune,Naoki Saito,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-79,79,Sablaireau,90,Combat,Sabelette,Niveau 1,Peu Commune,BERUBURI,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-80,80,Scorplane,70,Combat,,De base,Commune,Atsuko Nishida,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-81,81,Scorvol,100,Combat,Scorplane,Niveau 1,Rare,Kouki Saitou,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-82,82,Makuhita,70,Combat,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-83,83,Kraknoix,60,Combat,,De base,Commune,Kyoko Umemoto,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-84,84,Crabicoque,70,Combat,,De base,Commune,Midori Harada,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-85,85,Crabaraque,100,Combat,Crabicoque,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-86,86,Kungfouine,50,Combat,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-87,87,Kungfouine,50,Combat,,De base,Peu Commune,Masakazu Fukuda,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-88,88,Shaofouine,90,Combat,Kungfouine,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-89,89,Démétéros-EX,180,Combat,,,Rare,Eske Yoshinob,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-90,90,Chacripan,50,Obscurité,,De base,Commune,Akira Komayama,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-91,91,Léopardus,80,Obscurité,Chacripan,Niveau 1,Rare,kawayoo,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-92,92,Vostourno,50,Obscurité,,De base,Commune,Naoki Saito,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-93,93,Vaututrice,90,Obscurité,Vostourno,Niveau 1,Peu Commune,Naoki Saito,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-94,94,Cizayox,120,Métal,Insécateur,Niveau 1,Rare,Hiroki Asanuma,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-95,95,Airmure,80,Métal,,De base,Peu Commune,Masakazu Fukuda,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-96,96,Airmure,100,Métal,,De base,Peu Commune,Hajime Kusajima,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-97,97,Tic,40,Métal,,De base,Peu Commune,MAHOU,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-98,98,Vibraninf,80,Dragon,Kraknoix,Niveau 1,Peu Commune,Naoki Saito,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-99,99,Libégon,140,Dragon,Vibraninf,Niveau 2,Rare,BERUBURI,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-100,100,Kyurem Noir,130,Dragon,,De base,Rare,5ban Graphics,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-101,101,Kyurem Noir-EX,180,Dragon,,,Rare,Eske Yoshinob,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-102,102,Kyurem Blanc,130,Dragon,,De base,Rare,5ban Graphics,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-103,103,Kyurem Blanc EX,180,Dragon,,,Rare,Eske Yoshinob,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-104,104,Rattata,30,Incolore,,De base,Commune,Yukiko Baba,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-105,105,Rattatac,60,Incolore,Rattata,Niveau 1,Peu Commune,Naoki Saito,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-106,106,Miaouss,60,Incolore,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-107,107,Canarticho,60,Incolore,,De base,Peu Commune,Ken Sugimori,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-108,108,Métamorph,70,Incolore,,De base,Rare,HiRON,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-109,109,Ronflex,100,Incolore,,De base,Peu Commune,Ken Sugimori,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-110,110,Togepi,40,Incolore,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-111,111,Insolourdo,60,Incolore,,De base,Commune,Kagemaru Himeno,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-112,112,Nirondelle,50,Incolore,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-113,113,Skitty,60,Incolore,,De base,Commune,sui,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-114,114,Delcatty,90,Incolore,Skitty,Niveau 1,Peu Commune,Shin Nagasawa,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-115,115,Spinda,70,Incolore,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-116,116,Laporeille,60,Incolore,,De base,Commune,MAHOU,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-117,117,Lockpin,90,Incolore,Laporeille,Niveau 1,Peu Commune,TOKIYA,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-118,118,Ratentif,60,Incolore,,De base,Commune,Atsuko Nishida,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-119,119,Miradar,90,Incolore,Ratentif,Niveau 1,Peu Commune,Naoki Saito,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-120,120,Ponchiot,60,Incolore,,De base,Commune,Kagemaru Himeno,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-121,121,Ponchien,80,Incolore,Ponchiot,Niveau 1,Peu Commune,Masakazu Fukuda,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-122,122,Mastouffe,140,Incolore,Ponchien,Niveau 2,Rare,Shin Nagasawa,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-123,123,Poichigeon,60,Incolore,,De base,Commune,Tomokazu Komiya,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-124,124,Colombeau,80,Incolore,Poichigeon,Niveau 1,Peu Commune,Kanako Eo,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-125,125,Déflaisan,130,Incolore,Colombeau,Niveau 2,Rare,Hajime Kusajima,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-126,126,Nanméouïe,80,Incolore,,De base,Rare,Mitsuhiro Arita,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-127,127,Arène de Pavonnay,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-128,128,Recherche d’Énergie,,,,,Commune,Ryo Ueda,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-129,129,Super Ball,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-130,130,Matis,,,,,Peu Commune,Yusuke Ohmura,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-131,131,Poké Ball,,,,,Commune,Yuri Umemura,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-132,132,Potion,,,,,Commune,Ayaka Yoshida,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-133,133,Casque Brut,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-134,134,Carolina,,,,,Peu Commune,Yusuke Ohmura,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-135,135,Échange,,,,,Commune,Ayaka Yoshida,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-136,136,Carte,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-137,137,Recherche Informatique,,,,,Rare,Ryo Ueda,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-138,138,Dague de Cristal,,,,,Rare,5ban Graphics,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-139,139,Mur de Cristal,,,,,Rare,5ban Graphics,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-140,140,Potion d’Or,,,,,Rare,Ryo Ueda,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-141,141,Celebi-EX,110,Plante,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-142,142,Keldeo EX,170,Eau,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-143,143,Cresselia-EX,170,Psy,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-144,144,Démétéros-EX,180,Combat,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-145,145,Kyurem Noir-EX,180,Dragon,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-146,146,Kyurem Blanc EX,180,Dragon,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-147,147,Bianca,,,,,Ultra Rare,Megumi Mizutani,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-148,148,Tcheren,,,,,Ultra Rare,Megumi Mizutani,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-149,149,Carolina,,,,,Ultra Rare,Kanako Eo,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-150,150,Golemastoc,130,Psy,Gringolem,Niveau 1,Magnifique rare,5ban Graphics,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-151,151,Terrakium,130,Combat,,De base,Magnifique rare,5ban Graphics,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-152,152,Altaria,70,Dragon,Tylton,Niveau 1,Magnifique rare,5ban Graphics,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153
+bw7-153,153,Casque Brut,,,,,Magnifique rare,Ryo Ueda,"normal, reverse, holo",Frontières Franchies,Noir & Blanc,153

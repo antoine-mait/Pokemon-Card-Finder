@@ -1,0 +1,130 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+xy10-1,1,Pottrott,80,Pflanze,,Basis,Ungewöhnlich,sui,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-2,2,Burmy,60,Pflanze,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-3,3,Burmadame,120,Pflanze,Burmy,Rang 1,Ungewöhnlich,kawayoo,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-4,4,Moterpel,90,Pflanze,Burmy,Rang 1,Selten,MAHOU,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-5,5,Serpifeu,60,Pflanze,,Basis,Häufig,Atsuko Nishida,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-6,6,Efoserp,70,Pflanze,Serpifeu,Rang 1,Ungewöhnlich,Sumiyoshi Kizuki,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-7,7,Serpiroyal,140,Pflanze,Efoserp,Rang 2,Selten,You Iribi,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-8,8,Sesokitz,60,Pflanze,,Basis,Häufig,Kanako Eo,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-9,9,Lavados,120,Feuer,,Basis,Selten,OOYAMA,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-10,10,Fynx,60,Feuer,,Basis,Häufig,Akira Komayama,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-11,11,Fynx,50,Feuer,,Basis,Häufig,kirisAki,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-12,12,Rutena,80,Feuer,Fynx,Rang 1,Ungewöhnlich,kirisAki,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-13,13,Fennexis,140,Feuer,Rutena,Rang 2,Selten,Kagemaru Himeno,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-14,14,Fennexis-TURBO,180,Feuer,Fennexis,TURBO,Ultra Selten,5ban Graphics,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-15,15,Jurob,80,Wasser,,Basis,Häufig,Hasuno,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-16,16,Jugong,120,Wasser,Jurob,Rang 1,Ungewöhnlich,Naoyo Kimura,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-17,17,Amonitas,80,Wasser,Helixfossil Amonitas,Erweckt,Ungewöhnlich,Shigenori Negishi,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-18,18,Amoroso,120,Wasser,Amonitas,Rang 1,Selten,Hasuno,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-19,19,Amoroso-TURBO,140,Wasser,Amoroso,TURBO,Ultra Selten,5ban Graphics,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-20,20,Glaziola EX,170,Wasser,,Basis,Ultra Selten,Ayaka Yoshida,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-21,21,Weißes Kyurem,130,Wasser,,Basis,Selten,kawayoo,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-22,22,Bithora,60,Wasser,,Basis,Häufig,Tomokazu Komiya,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-23,23,Thanathora,100,Wasser,Bithora,Rang 1,Selten,Shin Nagasawa,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-24,24,Rotom,70,Elektro,,Basis,Selten,Tomokazu Komiya,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-25,25,Simsala EX,160,Psycho,,Basis,Ultra Selten,PLANETA,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-26,26,M-Simsala EX,210,Psycho,Simsala-EX,MEGA,Ultra Selten,5ban Graphics,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-27,27,Smogon,60,Psycho,,Basis,Häufig,sui,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-28,28,Smogmog,110,Psycho,Smogon,Rang 1,Ungewöhnlich,Shin Nagasawa,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-29,29,Mew,50,Psycho,,Basis,Selten,Mitsuhiro Arita,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-30,30,Spoink,60,Psycho,,Basis,Häufig,TOKIYA,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-31,31,Groink,100,Psycho,Spoink,Rang 1,Selten,Sanosuke Sakuma,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-32,32,Mollimorba,60,Psycho,,Basis,Häufig,Kagemaru Himeno,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-33,33,Monozyto,30,Psycho,,Basis,Häufig,match,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-34,34,Mitodos,60,Psycho,Monozyto,Rang 1,Ungewöhnlich,Sumiyoshi Kizuki,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-35,35,Zytomega,90,Psycho,Mitodos,Rang 2,Selten,Yukiko Baba,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-36,36,Digda,40,Kampf,,Basis,Häufig,TOKIYA,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-37,37,Knogga,100,Kampf,Tragosso,Rang 1,Selten,Shin Nagasawa,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-38,38,Kabuto,80,Kampf,Domfossil Kabuto,Erweckt,Ungewöhnlich,MAHOU,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-39,39,Kabutops,150,Kampf,Kabuto,Rang 1,Selten,Kyoko Umemoto,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-40,40,Larvitar,60,Kampf,,Basis,Häufig,Suwama Chiaki,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-41,41,Larvitar,50,Kampf,,Basis,Häufig,Masakazu Fukuda,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-42,42,Pupitar,80,Kampf,Larvitar,Rang 1,Ungewöhnlich,match,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-43,43,Regirock EX,180,Kampf,,Basis,Ultra Selten,PLANETA,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-43a,43a,Regirock EX,180,Kampf,,Basis,Selten,PLANETA,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-44,44,Burmadame,110,Kampf,Burmy,Rang 1,Ungewöhnlich,Hajime Kusajima,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-45,45,Riolu,70,Kampf,,Basis,Häufig,You Iribi,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-46,46,Riolu,60,Kampf,,Basis,Häufig,match,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-47,47,Lucario,110,Kampf,Riolu,Rang 1,Selten,Shin Nagasawa,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-48,48,Resladero,70,Kampf,,Basis,Ungewöhnlich,Kouki Saitou,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-49,49,Rocara,80,Kampf,,Basis,Selten,Yuka Morii,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-50,50,Rocara,90,Kampf,,Basis,Häufig,kawayoo,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-51,51,Rocara-TURBO,110,Kampf,Rocara,TURBO,Ultra Selten,5ban Graphics,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-52,52,Zygarde,90,Kampf,,Basis,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-53,53,Zygarde,120,Kampf,,Basis,Selten,5ban Graphics,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-54,54,Zygarde EX,190,Kampf,,Basis,Ultra Selten,5ban Graphics,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-54a,54a,Zygarde EX,190,Kampf,,Basis,Selten,5ban Graphics,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-55,55,Nachtara EX,170,Unlicht,,Basis,Ultra Selten,Ayaka Yoshida,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-56,56,Despotar,160,Unlicht,Pupitar,Rang 2,Selten,Satoshi Shirai,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-57,57,Skallyk,60,Unlicht,,Basis,Häufig,Midori Harada,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-58,58,Grypheldis,110,Unlicht,Skallyk,Rang 1,Selten,Masakazu Fukuda,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-59,59,Burmadame,100,Metall,Burmy,Rang 1,Ungewöhnlich,Kyoko Umemoto,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-60,60,Bronzel,60,Metall,,Basis,Häufig,Hajime Kusajima,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-61,61,Bronzong,100,Metall,Bronzel,Rang 1,Selten,Naoki Saito,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-62,62,Bronzong-TURBO,130,Metall,Bronzong,TURBO,Ultra Selten,5ban Graphics,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-63,63,Lucario,110,Metall,Riolu,Rang 1,Selten,Hitoshi Ariga,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-64,64,Genesect EX,180,Metall,,Basis,Ultra Selten,Eske Yoshinob,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-65,65,Pummeluff,70,Fee,,Basis,Häufig,Midori Harada,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-66,66,Knuddeluff,100,Fee,Pummeluff,Rang 1,Ungewöhnlich,Mizue,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-67,67,Pantimos,80,Fee,,Basis,Selten,Sumiyoshi Kizuki,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-68,68,Snubbull,70,Fee,,Basis,Häufig,Aya Kusube,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-69,69,M-Altaria EX,220,Fee,Altaria-EX,MEGA,Ultra Selten,5ban Graphics,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-70,70,Waumboll,50,Fee,,Basis,Häufig,MAHOU,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-71,71,Elfun,90,Fee,Waumboll,Rang 1,Ungewöhnlich,sui,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-72,72,Diancie EX,150,Fee,,Basis,Ultra Selten,Eske Yoshinob,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-73,73,Seedraking EX,170,Drache,,Basis,Ultra Selten,hatachu,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-74,74,Mauzi,70,Farblos,,Basis,Häufig,Shigenori Negishi,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-75,75,Kangama,120,Farblos,,Basis,Ungewöhnlich,Masakazu Fukuda,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-76,76,Aerodactyl,120,Farblos,Altbernstein Aerodactyl,Erweckt,Selten,kawayoo,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-77,77,Relaxo,140,Farblos,,Basis,Selten,Tomokazu Komiya,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-78,78,Lugia,120,Farblos,,Basis,Selten,TOKIYA,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-79,79,Lugia-TURBO,150,Farblos,Lugia,TURBO,Ultra Selten,5ban Graphics,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-80,80,Flurmel,60,Farblos,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-81,81,Krakeelo,90,Farblos,Flurmel,Rang 1,Ungewöhnlich,TOKIYA,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-82,82,Krawumms,140,Farblos,Krakeelo,Rang 2,Selten,Masakazu Fukuda,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-83,83,Altaria EX,170,Farblos,,Basis,Ultra Selten,Eske Yoshinob,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-84,84,Ohrdoch EX,180,Farblos,,Basis,Ultra Selten,Ayaka Yoshida,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-85,85,M-Ohrdoch EX,220,Farblos,Ohrdoch-EX,MEGA,Ultra Selten,5ban Graphics,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-86,86,Picochilla,60,Farblos,,Basis,Häufig,kirisAki,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-87,87,Picochilla,50,Farblos,,Basis,Häufig,Mizue,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-88,88,Chillabell,90,Farblos,Picochilla,Rang 1,Ungewöhnlich,MAHOU,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-89,89,Chillabell,90,Farblos,Picochilla,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-90,90,Simsalas Geistesbund,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-91,91,Altarias Geistesbund,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-92,92,Ohrdochs Geistesbund,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-93,93,Verbogener Löffel,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-94,94,Chaosturm,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-95,95,Rückentwicklungsspray,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-96,96,Kabutos Domfossil,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-97,97,Energietasche,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-98,98,Energierückstellung,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-99,99,Feentropfen,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-100,100,Feenbeet,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-101,101,Fossilausgrabungsset,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-102,102,Amonitas Helixfossil,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-103,103,Görentalent,,,,,Ungewöhnlich,Yusuke Ohmura,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-104,104,Mega-Fänger,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-105a,105a,N,,,,,Ultra Selten,Megumi Mizutani,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-105,105,N,,,,,Ungewöhnlich,Megumi Mizutani,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-106,106,Aerodactyls Altbernstein,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-107,107,Pokémon Fan Club,,,,,Ungewöhnlich,Yusuke Ohmura,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-108,108,Langzeitgedächtnis,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-109,109,Zufallsempfänger,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-110,110,Verbrannte Erde,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-111,111,Sannah,,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-111a,111a,Sannah,,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-112,112,Team Rockets Machenschaften,,,,,Ungewöhnlich,Hitoshi Ariga,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-113,113,Hyperball,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-114,114,Doppel-Farblos-Energie,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-115,115,Stärke-Energie,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-116,116,Glaziola EX,170,Wasser,,Basis,Ultra Selten,Ryo Ueda,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-117,117,Simsala EX,160,Psycho,,Basis,Ultra Selten,Ryo Ueda,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-118,118,M-Simsala EX,210,Psycho,Simsala-EX,MEGA,Ultra Selten,5ban Graphics,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-119,119,Nachtara EX,170,Unlicht,,Basis,Ultra Selten,Ryo Ueda,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-120,120,Genesect EX,180,Metall,,Basis,Ultra Selten,Ryo Ueda,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-121,121,M-Altaria EX,220,Fee,Altaria-EX,MEGA,Ultra Selten,5ban Graphics,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-122,122,Seedraking EX,170,Drache,,Basis,Ultra Selten,Ryo Ueda,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-123,123,Altaria EX,170,Farblos,,Basis,Ultra Selten,Ryo Ueda,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-124,124,Team Rockets Machenschaften,,,,,Ultra Selten,Hitoshi Ariga,"normal, reverse, holo",Schicksalsschmiede,XY,129
+xy10-125,125,Simsala EX,160,Psycho,,Basis,Versteckt Selten,Ryo Ueda,"normal, reverse, holo",Schicksalsschmiede,XY,129

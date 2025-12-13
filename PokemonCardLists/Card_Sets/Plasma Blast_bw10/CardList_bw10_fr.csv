@@ -1,0 +1,106 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+bw10-1,1,Arakdo,50,Plante,,De base,Commune,Naoyo Kimura,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-2,2,Maskadra,80,Plante,Arakdo,Niveau 1,Rare,5ban Graphics,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-3,3,Lilia,80,Plante,,Restauré,Peu Commune,Suwama Chiaki,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-4,4,Vacilys,120,Plante,Lilia,Niveau 1,Rare,kawayoo,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-5,5,Tropius,100,Plante,,De base,Peu Commune,Shigenori Negishi,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-6,6,Carabing,60,Plante,,De base,Commune,match,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-7,7,Escargaume,60,Plante,,De base,Commune,Sumiyoshi Kizuki,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-8,8,Limaspeed,80,Plante,Escargaume,Niveau 1,Rare,5ban Graphics,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-9,9,Viridium EX,170,Plante,,,Rare,Ryo Ueda,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-10,10,Genesect,100,Plante,,De base,Rare,Masakazu Fukuda,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-11,11,Genesect EX,170,Plante,,,Rare,Eske Yoshinob,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-12,12,Pyronille,70,Feu,,De base,Commune,Masakazu Fukuda,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-13,13,Pyrax,100,Feu,Pyronille,Niveau 1,Rare,5ban Graphics,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-14,14,Carapuce,50,Eau,,De base,Commune,Akira Komayama,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-15,15,Carabaffe,80,Eau,Carapuce,Niveau 1,Peu Commune,Akira Komayama,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-16,16,Tortank,140,Eau,Carabaffe,Niveau 2,Rare,Satoshi Shirai,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-17,17,Lokhlass,100,Eau,,De base,Commune,Kouki Saitou,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-18,18,Rémoraid,60,Eau,,De base,Commune,Masakazu Fukuda,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-19,19,Octillery,90,Eau,Rémoraid,Niveau 1,Peu Commune,5ban Graphics,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-20,20,Suicune,100,Eau,,De base,Rare,kawayoo,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-21,21,Stalgamin,60,Eau,,De base,Commune,Kyoko Umemoto,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-22,22,Oniglali,100,Eau,Stalgamin,Niveau 1,Peu Commune,5ban Graphics,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-23,23,Momartik,90,Eau,Stalgamin,Niveau 1,Rare,5ban Graphics,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-24,24,Relicanth,90,Eau,,De base,Peu Commune,5ban Graphics,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-25,25,Blizzi,70,Eau,,De base,Commune,Shigenori Negishi,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-26,26,Blizzaroi,120,Eau,Blizzi,Niveau 1,Peu Commune,kawayoo,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-27,27,Carapagos,90,Eau,,Restauré,Peu Commune,Midori Harada,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-28,28,Mégapagos,140,Eau,Carapagos,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-29,29,Couaneton,60,Eau,,De base,Commune,Naoki Saito,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-30,30,Kyurem EX,180,Eau,,,Rare,Eske Yoshinob,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-31,31,Anchwatt,30,Électrique,,De base,Commune,Shigenori Negishi,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-32,32,Lampéroie,80,Électrique,Anchwatt,Niveau 1,Peu Commune,Suwama Chiaki,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-33,33,Ohmassacre,140,Électrique,Lampéroie,Niveau 2,Rare,5ban Graphics,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-34,34,Baudrive,70,Psy,,De base,Commune,Kyoko Umemoto,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-35,35,Grodrive,100,Psy,Baudrive,Niveau 1,Rare,Akira Komayama,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-36,36,Créhelf,60,Psy,,De base,Rare,Sumiyoshi Kizuki,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-37,37,Créfollet,60,Psy,,De base,Rare,Ryo Ueda,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-38,38,Créfadet,60,Psy,,De base,Rare,Naoyo Kimura,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-39,39,Munna,60,Psy,,De base,Commune,Mizue,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-40,40,Mushana,100,Psy,Munna,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-41,41,Cryptéro,90,Psy,,De base,Rare,Kagemaru Himeno,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-42,42,Nucléos,30,Psy,,De base,Commune,Midori Harada,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-43,43,Méios,60,Psy,Nucléos,Niveau 1,Peu Commune,match,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-44,44,Symbios,100,Psy,Méios,Niveau 2,Rare,Kagemaru Himeno,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-45,45,Gringolem,80,Psy,,De base,Commune,Midori Harada,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-46,46,Golemastoc,130,Psy,Gringolem,Niveau 1,Rare,Akira Komayama,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-47,47,Machoc,60,Combat,,De base,Commune,sui,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-48,48,Machopeur,90,Combat,Machoc,Niveau 1,Peu Commune,match,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-49,49,Mackogneur,150,Combat,Machopeur,Niveau 2,Rare,Naoki Saito,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-50,50,Mackogneur,140,Combat,Machopeur,Niveau 2,Rare,Kouki Saitou,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-51,51,Judokrak,100,Combat,,De base,Commune,Naoki Saito,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-52,52,Karaclée,90,Combat,,De base,Commune,Naoki Saito,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-53,53,Arkéapti,70,Combat,,Restauré,Peu Commune,Mizue,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-54,54,Aéroptéryx,120,Combat,Arkéapti,Niveau 1,Rare,Kouki Saitou,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-55,55,Malosse,60,Obscurité,,De base,Commune,Sumiyoshi Kizuki,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-56,56,Démolosse,100,Obscurité,Malosse,Niveau 1,Rare,Shin Nagasawa,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-57,57,Galekid,60,Métal,,De base,Commune,Shigenori Negishi,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-58,58,Galegon,90,Métal,Galekid,Niveau 1,Peu Commune,Masakazu Fukuda,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-59,59,Galeking,140,Métal,Galegon,Niveau 2,Rare,Kouki Saitou,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-60,60,Jirachi EX,90,Métal,,,Rare,Ryo Ueda,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-61,61,Lançargot,100,Métal,Carabing,Niveau 1,Rare,5ban Graphics,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-62,62,Draby,50,Dragon,,De base,Commune,Kouki Saitou,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-63,63,Drackhaus,80,Dragon,Draby,Niveau 1,Peu Commune,Akira Komayama,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-64,64,Drattak,150,Dragon,Drackhaus,Niveau 2,Rare,Naoki Saito,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-65,65,Dialga EX,180,Dragon,,,Rare,Eske Yoshinob,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-66,66,Palkia EX,180,Dragon,,,Rare,Eske Yoshinob,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-67,67,Coupenotte,50,Dragon,,De base,Commune,sui,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-68,68,Incisache,80,Dragon,Coupenotte,Niveau 1,Peu Commune,Masakazu Fukuda,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-69,69,Tranchodon,140,Dragon,Incisache,Niveau 2,Rare,Kouki Saitou,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-70,70,Drakkarmin,100,Dragon,,De base,Commune,Kouki Saitou,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-71,71,Kangourex,100,Incolore,,De base,Commune,Kouki Saitou,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-72,72,Porygon,60,Incolore,,De base,Commune,Mitsuhiro Arita,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-73,73,Porygon2,80,Incolore,Porygon,Niveau 1,Peu Commune,HiRON,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-74,74,Porygon-Z,130,Incolore,Porygon2,Niveau 2,Rare,5ban Graphics,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-75,75,Teddiursa,70,Incolore,,De base,Commune,Naoyo Kimura,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-76,76,Ursaring,130,Incolore,Teddiursa,Niveau 1,Peu Commune,5ban Graphics,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-77,77,Pijako,60,Incolore,,De base,Peu Commune,5ban Graphics,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-78,78,Percila,,,,,Peu Commune,Yusuke Ohmura,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-79,79,Fossile Plaque,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-80,80,Récupération d’Énergie,,,,,Peu Commune,Kent Kanetsuna,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-81,81,Iris,,,,,Peu Commune,Yusuke Ohmura,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-82,82,Fossile Plume,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-83,83,Attrape-Pokémon,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-84,84,Professeur Keteleeria,,,,,Peu Commune,Ken Sugimori,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-85,85,Super Bonbon,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-86,86,Déclencheur Inversé,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-87,87,Fossile Racine Lilia,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-88,88,Bracelet d’Argent,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-89,89,Miroir d’Argent,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-90,90,Hyper Ball,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-91,91,Énergie Plasma,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-92,92,Impulsion G,,,,,Rare,5ban Graphics,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-93,93,Impact G,,,,,Rare,5ban Graphics,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-94,94,Master Ball,,,,,Rare,5ban Graphics,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-95,95,Rappel Cyclone,,,,,Rare,5ban Graphics,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-96,96,Viridium EX,170,Plante,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-97,97,Genesect EX,170,Plante,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-98,98,Jirachi EX,90,Métal,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-99,99,Dialga EX,180,Dragon,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-100,100,Palkia EX,180,Dragon,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-101,101,Iris,,,,,Ultra Rare,Kagemaru Himeno,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-102,102,Noeunoeuf,30,Plante,,De base,Magnifique rare,5ban Graphics,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-103,103,Viridium,110,Plante,,De base,Magnifique rare,Ayaka Yoshida,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-104,104,Noctunoir,130,Psy,Téraclope,Niveau 2,Magnifique rare,Ayaka Yoshida,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105
+bw10-105,105,Super Bonbon,,,,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Explosion Plasma,Noir & Blanc,105

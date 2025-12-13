@@ -1,0 +1,259 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sv01-001,001,Pineco,60,Grass,,Basic,Common,Shigenori Negishi,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-002,002,Heracross,120,Grass,,Basic,Uncommon,Taira Akitsu,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-003,003,Shroomish,60,Grass,,Basic,Common,kurumitsu,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-004,004,Breloom,110,Grass,Shroomish,Stage1,Uncommon,Ryuta Fuse,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-005,005,Cacnea,60,Grass,,Basic,Common,Tika Matsuno,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-006,006,Cacturne,130,Grass,Cacnea,Stage1,Uncommon,DOM,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-007,007,Tropius,100,Grass,,Basic,Common,aoki,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-008,008,Scatterbug,30,Grass,,Basic,Common,sowsow,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-009,009,Spewpa,70,Grass,Scatterbug,Stage1,Common,Kagemaru Himeno,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-010,010,Vivillon,120,Grass,Spewpa,Stage2,Uncommon,Atsuko Nishida,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-011,011,Skiddo,60,Grass,,Basic,Common,Tika Matsuno,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-012,012,Gogoat,130,Grass,Skiddo,Stage1,Common,Gemi,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-013,013,Sprigatito,70,Grass,,Basic,Common,Saya Tsuruta,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-014,014,Floragato,90,Grass,Sprigatito,Stage1,Uncommon,Kouki Saitou,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-015,015,Meowscarada,160,Grass,Floragato,Stage2,Rare,Ryota Murayama,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-016,016,Tarountula,40,Grass,,Basic,Common,Tika Matsuno,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-017,017,Tarountula,40,Grass,,Basic,Common,Pani Kobayashi,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-018,018,Tarountula,60,Grass,,Basic,Common,Kouki Saitou,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-019,019,Spidops ex,260,Grass,Tarountula,Stage1,Double rare,takuyoa,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-020,020,Smoliv,50,Grass,,Basic,Common,yuu,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-021,021,Smoliv,60,Grass,,Basic,Common,Shibuzoh.,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-022,022,Dolliv,90,Grass,Smoliv,Stage1,Common,Mina Nakai,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-023,023,Arboliva,150,Grass,Dolliv,Stage2,Rare,Kouki Saitou,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-024,024,Toedscool,50,Grass,,Basic,Common,Shin Nagasawa,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-025,025,Toedscool,60,Grass,,Basic,Common,Tika Matsuno,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-026,026,Toedscruel,120,Grass,Toedscool,Stage1,Uncommon,nagimiso,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-027,027,Capsakid,60,Grass,,Basic,Common,Kouki Saitou,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-028,028,Capsakid,70,Grass,,Basic,Common,GIDORA,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-029,029,Scovillain,110,Grass,Capsakid,Stage1,Uncommon,KEIICHIRO ITO,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-030,030,Growlithe,70,Fire,,Basic,Common,kawayoo,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-031,031,Growlithe,90,Fire,,Basic,Common,Tika Matsuno,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-032,032,Arcanine ex,280,Fire,Growlithe,Stage1,Double rare,5ban Graphics,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-033,033,Houndour,70,Fire,,Basic,Common,nagimiso,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-034,034,Houndoom,120,Fire,Houndour,Stage1,Common,hncl,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-035,035,Torkoal,130,Fire,,Basic,Uncommon,Kurata So,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-036,036,Fuecoco,80,Fire,,Basic,Common,Akira Komayama,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-037,037,Crocalor,100,Fire,Fuecoco,Stage1,Uncommon,kantaro,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-038,038,Skeledirge,180,Fire,Crocalor,Stage2,Rare,nagimiso,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-039,039,Charcadet,60,Fire,,Basic,Common,Souichirou Gunjima,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-040,040,Charcadet,70,Fire,,Basic,Common,nagimiso,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-041,041,Armarouge,130,Fire,Charcadet,Stage1,Rare,AKIRA EGAWA,"reverse, holo",Scarlet & Violet,Scarlet & Violet,258
+sv01-042,042,Slowpoke,70,Water,,Basic,Common,Narumi Sato,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-043,043,Slowbro,100,Water,Slowpoke,Stage1,Rare,Shinji Kanda,"reverse, holo",Scarlet & Violet,Scarlet & Violet,258
+sv01-044,044,Magikarp,30,Water,,Basic,Common,KIYOTAKA OSHIYAMA,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-045,045,Gyarados ex,300,Water,Magikarp,Stage1,Double rare,5ban Graphics,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-046,046,Buizel,70,Water,,Basic,Common,Mizue,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-047,047,Floatzel,120,Water,Buizel,Stage1,Uncommon,Gemi,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-048,048,Alomomola,120,Water,,Basic,Common,Shinji Kanda,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-049,049,Clauncher,70,Water,,Basic,Common,miki kudo,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-050,050,Clawitzer,120,Water,Clauncher,Stage1,Common,Souichirou Gunjima,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-051,051,Bruxish,100,Water,,Basic,Common,kurumitsu,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-052,052,Quaxly,70,Water,,Basic,Common,Mizue,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-053,053,Quaxwell,100,Water,Quaxly,Stage1,Uncommon,kirisAki,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-054,054,Quaquaval,170,Water,Quaxwell,Stage2,Rare,Kouki Saitou,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-055,055,Wiglett,50,Water,,Basic,Common,Shin Nagasawa,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-056,056,Wiglett,60,Water,,Basic,Common,Tika Matsuno,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-057,057,Wugtrio,90,Water,Wiglett,Stage1,Uncommon,KIYOTAKA OSHIYAMA,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-058,058,Cetoddle,80,Water,,Basic,Common,Shin Nagasawa,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-059,059,Cetoddle,100,Water,,Basic,Common,Kouki Saitou,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-060,060,Cetitan,180,Water,Cetoddle,Stage1,Uncommon,Anesaki Dynamic,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-061,061,Dondozo,160,Water,,Basic,Rare,Souichirou Gunjima,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-062,062,Tatsugiri,70,Water,,Basic,Uncommon,OKACHEKE,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-063,063,Magnemite,60,Lightning,,Basic,Common,KIYOTAKA OSHIYAMA,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-064,064,Magneton,90,Lightning,Magnemite,Stage1,Common,Shiburingaru,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-065,065,Magnezone ex,330,Lightning,Magneton,Stage2,Double rare,hncl,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-066,066,Mareep,60,Lightning,,Basic,Common,Narumi Sato,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-067,067,Flaaffy,90,Lightning,Mareep,Stage1,Uncommon,Kurata So,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-068,068,Pachirisu,70,Lightning,,Basic,Uncommon,Naoki Saito,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-069,069,Rotom,60,Lightning,,Basic,Common,Nisota Niso,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-070,070,Rotom,80,Lightning,,Basic,Common,Kouki Saitou,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-071,071,Toxel,70,Lightning,,Basic,Common,Yuu Nishida,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-072,072,Toxtricity,130,Lightning,Toxel,Stage1,Uncommon,Atsushi Furusawa,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-073,073,Pawmi,50,Lightning,,Basic,Common,Tika Matsuno,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-074,074,Pawmi,60,Lightning,,Basic,Common,kantaro,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-075,075,Pawmo,90,Lightning,Pawmi,Stage1,Common,Saya Tsuruta,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-076,076,Pawmot,130,Lightning,Pawmo,Stage2,Rare,Mizue,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-077,077,Wattrel,50,Lightning,,Basic,Common,Saya Tsuruta,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-078,078,Wattrel,60,Lightning,,Basic,Common,Shin Nagasawa,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-079,079,Kilowattrel,120,Lightning,Wattrel,Stage1,Uncommon,Kouki Saitou,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-080,080,Miraidon,120,Lightning,,Basic,Rare,Kouki Saitou,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-081,081,Miraidon ex,220,Lightning,,Basic,Double rare,5ban Graphics,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-082,082,Drowzee,70,Psychic,,Basic,Common,OKACHEKE,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-083,083,Hypno,110,Psychic,Drowzee,Stage1,Uncommon,Toshinao Aoki,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-084,084,Ralts,70,Psychic,,Basic,Common,Tika Matsuno,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-085,085,Kirlia,90,Psychic,Ralts,Stage1,Common,kawayoo,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-086,086,Gardevoir ex,310,Psychic,Kirlia,Stage2,Double rare,N-DESIGN Inc.,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-087,087,Shuppet,60,Psychic,,Basic,Common,Jerky,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-088,088,Banette ex,250,Psychic,Shuppet,Stage1,Double rare,PLANETA Mochizuki,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-089,089,Drifloon,70,Psychic,,Basic,Common,Taira Akitsu,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-090,090,Drifblim,110,Psychic,Drifloon,Stage1,Uncommon,Yuu Nishida,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-091,091,Flabébé,40,Psychic,,Basic,Common,Mizue,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-092,092,Floette,70,Psychic,Flabébé,Stage1,Common,saino misaki,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-093,093,Florges,140,Psychic,Floette,Stage2,Uncommon,Haru Akasaka,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-094,094,Dedenne,70,Psychic,,Basic,Common,zig,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-095,095,Dedenne,70,Psychic,,Basic,Common,Nelnal,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-096,096,Klefki,70,Psychic,,Basic,Rare,GOSSAN,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-097,097,Fidough,50,Psychic,,Basic,Common,Mizue,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-098,098,Fidough,60,Psychic,,Basic,Common,Saya Tsuruta,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-099,099,Dachsbun,90,Psychic,Fidough,Stage1,Uncommon,You Iribi,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-100,100,Flittle,30,Psychic,,Basic,Common,Hitoshi Ariga,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-101,101,Flittle,40,Psychic,,Basic,Common,Tika Matsuno,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-102,102,Flittle,40,Psychic,,Basic,Common,Pani Kobayashi,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-103,103,Espathra,110,Psychic,Flittle,Stage1,Uncommon,Hitoshi Ariga,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-104,104,Greavard,70,Psychic,,Basic,Common,yuu,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-105,105,Greavard,80,Psychic,,Basic,Common,Shin Nagasawa,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-106,106,Houndstone,140,Psychic,Greavard,Stage1,Rare,Kouki Saitou,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-107,107,Mankey,60,Fighting,,Basic,Common,nagimiso,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-108,108,Primeape,90,Fighting,Mankey,Stage1,Common,Ryuta Fuse,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-109,109,Annihilape,140,Fighting,Primeape,Stage2,Rare,Anesaki Dynamic,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-110,110,Meditite,60,Fighting,,Basic,Common,miki kudo,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-111,111,Medicham,90,Fighting,Meditite,Stage1,Uncommon,Jerky,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-112,112,Riolu,70,Fighting,,Basic,Common,Naoyo Kimura,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-113,113,Riolu,70,Fighting,,Basic,Common,chibi,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-114,114,Lucario,130,Fighting,Riolu,Stage1,Uncommon,Nurikabe,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-115,115,Sandile,70,Fighting,,Basic,Common,Tomokazu Komiya,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-116,116,Krokorok,100,Fighting,Sandile,Stage1,Common,kantaro,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-117,117,Krookodile,170,Fighting,Krokorok,Stage2,Uncommon,Misa Tsutsui,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-118,118,Hawlucha,70,Fighting,,Basic,Rare,GOSSAN,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-119,119,Silicobra,80,Fighting,,Basic,Common,Kouki Saitou,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-120,120,Sandaconda,140,Fighting,Silicobra,Stage1,Uncommon,Yuya Oka,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-121,121,Stonjourner,130,Fighting,,Basic,Uncommon,Yuka Morii,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-122,122,Klawf,130,Fighting,,Basic,Rare,nagimiso,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-123,123,Great Tusk ex,250,Fighting,,Basic,Double rare,5ban Graphics,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-124,124,Koraidon,130,Fighting,,Basic,Rare,Kouki Saitou,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-125,125,Koraidon ex,230,Fighting,,Basic,Double rare,aky CG Works,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-126,126,Grimer,80,Darkness,,Basic,Common,Kouki Saitou,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-127,127,Muk,140,Darkness,Grimer,Stage1,Uncommon,Haru Akasaka,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-128,128,Seviper,120,Darkness,,Basic,Common,sui,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-129,129,Spiritomb,70,Darkness,,Basic,Uncommon,Naoyo Kimura,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-130,130,Croagunk,70,Darkness,,Basic,Common,Shiburingaru,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-131,131,Toxicroak ex,250,Darkness,Croagunk,Stage1,Double rare,Nisota Niso,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-132,132,Pawniard,70,Darkness,,Basic,Common,sowsow,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-133,133,Bisharp,120,Darkness,Pawniard,Stage1,Common,Hideki Ishikawa,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-134,134,Kingambit,170,Darkness,Bisharp,Stage2,Rare,Anesaki Dynamic,"reverse, holo",Scarlet & Violet,Scarlet & Violet,258
+sv01-135,135,Maschiff,70,Darkness,,Basic,Common,kantaro,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-136,136,Maschiff,80,Darkness,,Basic,Common,KEIICHIRO ITO,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-137,137,Mabosstiff,130,Darkness,Maschiff,Stage1,Uncommon,KIYOTAKA OSHIYAMA,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-138,138,Bombirdier,110,Darkness,,Basic,Uncommon,nagimiso,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-139,139,Forretress,120,Metal,Pineco,Stage1,Uncommon,Lee HyunJung,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-140,140,Varoom,60,Metal,,Basic,Common,Shin Nagasawa,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-141,141,Varoom,80,Metal,,Basic,Common,nagimiso,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-142,142,Revavroom,140,Metal,Varoom,Stage1,Rare,Anesaki Dynamic,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-143,143,Iron Treads ex,220,Metal,,Basic,Double rare,5ban Graphics,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-144,144,Chansey,110,Colorless,,Basic,Common,sui,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-145,145,Blissey,150,Colorless,Chansey,Stage1,Uncommon,chibi,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-146,146,Zangoose,90,Colorless,,Basic,Common,Yuya Oka,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-147,147,Zangoose,110,Colorless,,Basic,Uncommon,aoki,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-148,148,Starly,60,Colorless,,Basic,Common,Yuka Morii,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-149,149,Staravia,80,Colorless,Starly,Stage1,Common,kantaro,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-150,150,Staraptor,150,Colorless,Staravia,Stage2,Uncommon,Atsushi Furusawa,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-151,151,Skwovet,60,Colorless,,Basic,Common,HYOGONOSUKE,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-152,152,Greedent,120,Colorless,Skwovet,Stage1,Uncommon,kantaro,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-153,153,Indeedee,90,Colorless,,Basic,Rare,Kagemaru Himeno,"normal, holo",Scarlet & Violet,Scarlet & Violet,258
+sv01-154,154,Lechonk,60,Colorless,,Basic,Common,Teeziro,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-155,155,Lechonk,60,Colorless,,Basic,Common,kodama,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-156,156,Lechonk,70,Colorless,,Basic,Common,Mina Nakai,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-157,157,Oinkologne,120,Colorless,Lechonk,Stage1,Uncommon,kirisAki,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-158,158,Oinkologne ex,260,Colorless,Lechonk,Stage1,Double rare,aky CG Works,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-159,159,Tandemaus,30,Colorless,,Basic,Common,Pani Kobayashi,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-160,160,Tandemaus,40,Colorless,,Basic,Common,yuu,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-161,161,Maushold,70,Colorless,Tandemaus,Stage1,Uncommon,KIYOTAKA OSHIYAMA,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-162,162,Squawkabilly,70,Colorless,,Basic,Common,Oswaldo KATO,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-163,163,Cyclizar,110,Colorless,,Basic,Uncommon,AKIRA EGAWA,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-164,164,Cyclizar,110,Colorless,,Basic,Rare,Ryota Murayama,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-165,165,Flamigo,110,Colorless,,Basic,Uncommon,kantaro,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-166,166,Arven,,,,,Uncommon,GIDORA,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-167,167,Beach Court,,,,,Uncommon,Oswaldo KATO,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-168,168,Crushing Hammer,,,,,Common,Ayaka Yoshida,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-169,169,Defiance Band,,,,,Uncommon,inose yukie,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-170,170,Electric Generator,,,,,Uncommon,Toyste Beach,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-171,171,Energy Retrieval,,,,,Common,Studio Bora Inc.,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-172,172,Energy Search,,,,,Common,Toyste Beach,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-173,173,Energy Switch,,,,,Common,Studio Bora Inc.,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-174,174,Exp. Share,,,,,Uncommon,Toyste Beach,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-175,175,Jacq,,,,,Uncommon,GIDORA,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-176,176,Judge,,,,,Uncommon,Hideki Ishikawa,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-177,177,Katy,,,,,Uncommon,Akira Komayama,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-178,178,Mesagoza,,,,,Uncommon,Oswaldo KATO,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-179,179,Miriam,,,,,Uncommon,Sanosuke Sakuma,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-180,180,Nemona,,,,,Common,Sanosuke Sakuma,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-181,181,Nest Ball,,,,,Uncommon,Toyste Beach,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-182,182,Pal Pad,,,,,Common,Studio Bora Inc.,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-183,183,Penny,,,,,Uncommon,yuu,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-184,184,Picnic Basket,,,,,Uncommon,OKACHEKE,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-185,185,Poké Ball,,,,,Common,Studio Bora Inc.,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-186,186,Pokégear 3.0,,,,,Common,Toyste Beach,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-187,187,Pokémon Catcher,,,,,Common,Studio Bora Inc.,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-188,188,Potion,,,,,Common,Ayaka Yoshida,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-189,189,Professor's Research,,,,,Rare,kirisAki,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-190,190,Professor's Research,,,,,Rare,kirisAki,"normal, holo",Scarlet & Violet,Scarlet & Violet,258
+sv01-191,191,Rare Candy,,,,,Common,Studio Bora Inc.,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-192,192,Rock Chestplate,,,,,Uncommon,Toyste Beach,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-193,193,Rocky Helmet,,,,,Uncommon,Ayaka Yoshida,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-194,194,Switch,,,,,Common,Studio Bora Inc.,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-195,195,Team Star Grunt,,,,,Uncommon,nagimiso,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-196,196,Ultra Ball,,,,,Uncommon,Ayaka Yoshida,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-197,197,Vitality Band,,,,,Uncommon,Studio Bora Inc.,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-198,198,Youngster,,,,,Uncommon,Hitoshi Ariga,"normal, reverse",Scarlet & Violet,Scarlet & Violet,258
+sv01-199,199,Tarountula,40,Grass,,Basic,Illustration rare,Miki Tanaka,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-200,200,Dolliv,90,Grass,Smoliv,Stage1,Illustration rare,Oswaldo KATO,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-201,201,Toedscool,50,Grass,,Basic,Illustration rare,Akira Komayama,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-202,202,Scovillain,110,Grass,Capsakid,Stage1,Illustration rare,KIYOTAKA OSHIYAMA,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-203,203,Armarouge,130,Fire,Charcadet,Stage1,Illustration rare,nagimiso,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-204,204,Slowpoke,70,Water,,Basic,Illustration rare,Toshinao Aoki,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-205,205,Clauncher,70,Water,,Basic,Illustration rare,Shinya Komatsu,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-206,206,Wiglett,50,Water,,Basic,Illustration rare,You Iribi,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-207,207,Dondozo,160,Water,,Basic,Illustration rare,AKIRA EGAWA,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-208,208,Pachirisu,70,Lightning,,Basic,Illustration rare,zig,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-209,209,Pawmot,130,Lightning,Pawmo,Stage2,Illustration rare,Kouki Saitou,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-210,210,Drowzee,70,Psychic,,Basic,Illustration rare,Tomokazu Komiya,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-211,211,Ralts,70,Psychic,,Basic,Illustration rare,Jiro Sasumo,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-212,212,Kirlia,90,Psychic,Ralts,Stage1,Illustration rare,Jiro Sasumo,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-213,213,Fidough,60,Psychic,,Basic,Illustration rare,Tika Matsuno,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-214,214,Greavard,70,Psychic,,Basic,Illustration rare,sowsow,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-215,215,Riolu,70,Fighting,,Basic,Illustration rare,Nelnal,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-216,216,Sandile,70,Fighting,,Basic,Illustration rare,Nurikabe,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-217,217,Klawf,130,Fighting,,Basic,Illustration rare,Mina Nakai,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-218,218,Mabosstiff,130,Darkness,Maschiff,Stage1,Illustration rare,OKACHEKE,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-219,219,Bombirdier,110,Darkness,,Basic,Illustration rare,Shibuzoh.,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-220,220,Kingambit,170,Darkness,Bisharp,Stage2,Illustration rare,Shin Nagasawa,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-221,221,Starly,60,Colorless,,Basic,Illustration rare,saino misaki,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-222,222,Skwovet,60,Colorless,,Basic,Illustration rare,Teeziro,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-223,223,Spidops ex,260,Grass,Tarountula,Stage1,Ultra Rare,takuyoa,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-224,224,Arcanine ex,280,Fire,Growlithe,Stage1,Ultra Rare,5ban Graphics,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-225,225,Gyarados ex,300,Water,Magikarp,Stage1,Ultra Rare,5ban Graphics,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-226,226,Magnezone ex,330,Lightning,Magneton,Stage2,Ultra Rare,PLANETA Tsuji,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-227,227,Miraidon ex,220,Lightning,,Basic,Ultra Rare,5ban Graphics,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-228,228,Gardevoir ex,310,Psychic,Kirlia,Stage2,Ultra Rare,N-DESIGN Inc.,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-229,229,Banette ex,250,Psychic,Shuppet,Stage1,Ultra Rare,PLANETA Mochizuki,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-230,230,Great Tusk ex,250,Fighting,,Basic,Ultra Rare,5ban Graphics,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-231,231,Koraidon ex,230,Fighting,,Basic,Ultra Rare,aky CG Works,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-232,232,Toxicroak ex,250,Darkness,Croagunk,Stage1,Ultra Rare,PLANETA Hiiragi,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-233,233,Iron Treads ex,220,Metal,,Basic,Ultra Rare,5ban Graphics,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-234,234,Oinkologne ex,260,Colorless,Lechonk,Stage1,Ultra Rare,aky CG Works,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-235,235,Arven,,,,,Ultra Rare,GIDORA,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-236,236,Jacq,,,,,Ultra Rare,GIDORA,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-237,237,Katy,,,,,Ultra Rare,Akira Komayama,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-238,238,Miriam,,,,,Ultra Rare,Sanosuke Sakuma,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-239,239,Penny,,,,,Ultra Rare,yuu,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-240,240,Professor's Research,,,,,Ultra Rare,kirisAki,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-241,241,Professor's Research,,,,,Ultra Rare,kirisAki,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-242,242,Team Star Grunt,,,,,Ultra Rare,nagimiso,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-243,243,Spidops ex,260,Grass,Tarountula,Stage1,Special illustration rare,Miki Tanaka,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-244,244,Miraidon ex,220,Lightning,,Basic,Special illustration rare,kantaro,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-245,245,Gardevoir ex,310,Psychic,Kirlia,Stage2,Special illustration rare,Jiro Sasumo,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-246,246,Great Tusk ex,250,Fighting,,Basic,Special illustration rare,Pani Kobayashi,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-247,247,Koraidon ex,230,Fighting,,Basic,Special illustration rare,Ryota Murayama,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-248,248,Iron Treads ex,220,Metal,,Basic,Special illustration rare,KEIICHIRO ITO,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-249,249,Arven,,,,,Special illustration rare,kantaro,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-250,250,Jacq,,,,,Special illustration rare,Oswaldo KATO,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-251,251,Miriam,,,,,Special illustration rare,Akira Komayama,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-252,252,Penny,,,,,Special illustration rare,OKACHEKE,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-253,253,Miraidon ex,220,Lightning,,Basic,Hyper rare,5ban Graphics,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-254,254,Koraidon ex,230,Fighting,,Basic,Hyper rare,aky CG Works,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-255,255,Nest Ball,,,,,Hyper rare,Toyste Beach,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-256,256,Rare Candy,,,,,Hyper rare,Studio Bora Inc.,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-257,257,Basic Lightning Energy,,Lightning,,,Hyper rare,,holo,Scarlet & Violet,Scarlet & Violet,258
+sv01-258,258,Basic Fighting Energy,,Fighting,,,Hyper rare,,holo,Scarlet & Violet,Scarlet & Violet,258

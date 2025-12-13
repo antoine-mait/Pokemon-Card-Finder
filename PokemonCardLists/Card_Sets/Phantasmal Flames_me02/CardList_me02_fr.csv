@@ -1,0 +1,131 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+me02-001,001,Mystherbe,50,Plante,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-002,002,Ortide,70,Plante,,Niveau 1,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-003,003,Rafflesia,150,Plante,,Niveau 2,Rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-004,004,Méga-Scarhino-ex,280,Plante,,De base,Double rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-005,005,Nénupiot,70,Plante,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-006,006,Lombre,90,Plante,,Niveau 1,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-007,007,Ludicolo,160,Plante,,Niveau 2,Peu Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-008,008,Genesect,120,Plante,,De base,Rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-009,009,Lilliterelle,50,Plante,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-010,010,Gambex,120,Plante,,Niveau 1,Peu Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-011,011,Salamèche,80,Feu,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-012,012,Reptincel,110,Feu,,Niveau 1,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-013,013,Méga-Dracaufeu X-ex,360,Feu,,Niveau 2,Double rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-014,014,Sulfura,120,Feu,,De base,Rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-015,015,Darumarond,80,Feu,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-016,016,Darumacho,150,Feu,,Niveau 1,Peu Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-017,017,Reshiram,130,Feu,,De base,Rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-018,018,Plumeline-ex,190,Feu,,De base,Double rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-019,019,Charbambin,70,Feu,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-020,020,Malvalame,140,Feu,,Niveau 1,Peu Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-021,021,Otaria,80,Eau,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-022,022,Lamantine,130,Eau,,Niveau 1,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-023,023,Marcacrin,70,Eau,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-024,024,Cochignon,100,Eau,,Niveau 1,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-025,025,Mammochon,180,Eau,,Niveau 2,Peu Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-026,026,Suicune,130,Eau,,De base,Rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-027,027,Tiplouf,70,Eau,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-028,028,Prinplouf,100,Eau,,Niveau 1,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-029,029,Motisma-ex,190,Électrique,,De base,Double rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-030,030,Voltoutou,70,Électrique,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-031,031,Fulgudog,130,Électrique,,Niveau 1,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-032,032,Pohm,60,Électrique,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-033,033,Pohmotte,90,Électrique,,Niveau 1,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-034,034,Pohmarmotte,140,Électrique,,Niveau 2,Rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-035,035,Feuforêve,70,Psy,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-036,036,Magirêve-ex,260,Psy,,Niveau 1,Double rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-037,037,Snubbull,70,Psy,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-038,038,Granbull,130,Psy,,Niveau 1,Peu Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-039,039,Cresselia,120,Psy,,De base,Peu Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-040,040,Meloetta,90,Psy,,De base,Peu Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-041,041,Méga-Diancie-ex,270,Psy,,De base,Double rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-042,042,Mimiqui,70,Psy,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-043,043,Crèmy,50,Psy,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-044,044,Charmilly,90,Psy,,Niveau 1,Peu Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-045,045,Zacian,130,Psy,,De base,Rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-046,046,Virovent,50,Psy,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-047,047,Virevorreur,100,Psy,,Niveau 1,Peu Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-048,048,Tauros de Paldea,130,Combat,,De base,Peu Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-049,049,Scorplane,70,Combat,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-050,050,Scorvol,120,Combat,,Niveau 1,Peu Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-051,051,Kraknoix,70,Combat,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-052,052,Vibraninf,90,Combat,,Niveau 1,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-053,053,Libégon,150,Combat,,Niveau 2,Rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-054,054,Fantominus,70,Obscurité,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-055,055,Spectrum,100,Obscurité,,Niveau 1,Peu Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-056,056,Méga-Ectoplasma-ex,350,Obscurité,,Niveau 2,Double rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-057,057,Cornèbre,60,Obscurité,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-058,058,Corboss,130,Obscurité,,Niveau 1,Peu Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-059,059,Ténéfix,80,Obscurité,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-060,060,Carvanha,70,Obscurité,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-061,061,Méga-Sharpedo-ex,330,Obscurité,,Niveau 1,Double rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-062,062,Séviper,120,Obscurité,,De base,Peu Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-063,063,Absol,110,Obscurité,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-064,064,Mascaïman,70,Obscurité,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-065,065,Escroco,100,Obscurité,,Niveau 1,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-066,066,Crocorible,170,Obscurité,,Niveau 2,Peu Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-067,067,Toxizap,70,Obscurité,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-068,068,Salarsen,140,Obscurité,,Niveau 1,Rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-069,069,Éthernatos,150,Obscurité,,De base,Peu Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-070,070,Pingoléon-ex,320,Métal,,Niveau 2,Double rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-071,071,Archéomire,80,Métal,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-072,072,Archéodong,140,Métal,,Niveau 1,Peu Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-073,073,Togedemaru,80,Métal,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-074,074,Duralugon,130,Métal,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-075,075,Pondralugon,180,Métal,,Niveau 1,Peu Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-076,076,Rondoudou,70,Incolore,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-077,077,Grodoudou,120,Incolore,,Niveau 1,Peu Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-078,078,Capumain,70,Incolore,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-079,079,Capidextre,110,Incolore,,Niveau 1,Rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-080,080,Queulorior,80,Incolore,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-081,081,Zigzaton,70,Incolore,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-082,082,Linéon,100,Incolore,,Niveau 1,Peu Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-083,083,Laporeille,70,Incolore,,De base,Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-084,084,Méga-Lockpin-ex,330,Incolore,,Niveau 1,Double rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-085,085,Cage de Combat,,,,,Peu Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-086,086,Chalumeau,,,,,Peu Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-087,087,Aurore,,,,,Peu Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-088,088,Vallée Étourdissante,,,,,Peu Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-089,089,Crache-Feu,,,,,Peu Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-090,090,Action de Pieris,,,,,Peu Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-091,091,Glace Géante,,,,,Peu Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-092,092,Casque Punk,,,,,Peu Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-093,093,Amulette Sacrée,,,,,Peu Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-094,094,Fortifiant Merveilleux,,,,,Peu Commune,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-095,095,Ludicolo,160,Plante,,Niveau 2,Illustration rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-096,096,Lilliterelle,50,Plante,,De base,Illustration rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-097,097,Lamantine,130,Eau,,Niveau 1,Illustration rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-098,098,Tiplouf,70,Eau,,De base,Illustration rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-099,099,Voltoutou,70,Électrique,,De base,Illustration rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-100,100,Zacian,130,Psy,,De base,Illustration rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-101,101,Libégon,150,Combat,,Niveau 2,Illustration rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-102,102,Axoloto de Paldea,60,Obscurité,,De base,Illustration rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-103,103,Salarsen,140,Obscurité,,Niveau 1,Illustration rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-104,104,Togedemaru,80,Métal,,De base,Illustration rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-105,105,Grodoudou,120,Incolore,,Niveau 1,Illustration rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-106,106,Miaouss,70,Incolore,,De base,Illustration rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-107,107,Capidextre,110,Incolore,,Niveau 1,Illustration rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-108,108,Méga-Scarhino-ex,280,Plante,,De base,Ultra Rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-109,109,Méga-Dracaufeu X-ex,360,Feu,,Niveau 2,Ultra Rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-110,110,Plumeline-ex,190,Feu,,De base,Ultra Rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-111,111,Motisma-ex,190,Électrique,,De base,Ultra Rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-112,112,Magirêve-ex,260,Psy,,Niveau 1,Ultra Rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-113,113,Méga-Sharpedo-ex,330,Obscurité,,Niveau 1,Ultra Rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-114,114,Pingoléon-ex,320,Métal,,Niveau 2,Ultra Rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-115,115,Méga-Lockpin-ex,330,Incolore,,Niveau 1,Ultra Rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-116,116,Cage de Combat,,,,,Ultra Rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-117,117,Chalumeau,,,,,Ultra Rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-118,118,Aurore,,,,,Ultra Rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-119,119,Crache-Feu,,,,,Ultra Rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-120,120,Action de Pieris,,,,,Ultra Rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-121,121,Casque Punk,,,,,Ultra Rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-122,122,Amulette Sacrée,,,,,Ultra Rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-123,123,Échange,,,,,Ultra Rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-124,124,Énergie Amorce,,,,,Ultra Rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-125,125,Méga-Dracaufeu X-ex,360,Feu,,Niveau 2,Illustration spéciale rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-126,126,Motisma-ex,190,Électrique,,De base,Illustration spéciale rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-127,127,Méga-Sharpedo-ex,330,Obscurité,,Niveau 1,Illustration spéciale rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-128,128,Méga-Lockpin-ex,330,Incolore,,Niveau 1,Illustration spéciale rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-129,129,Aurore,,,,,Illustration spéciale rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130
+me02-130,130,Méga-Dracaufeu X-ex,360,Feu,,Niveau 2,Méga Hyper Rare,,"normal, reverse, holo",Flammes Fantasmagoriques,Méga-Évolution,130

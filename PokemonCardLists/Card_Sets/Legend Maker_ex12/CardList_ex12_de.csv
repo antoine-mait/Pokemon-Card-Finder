@@ -1,0 +1,94 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+ex12-1,1,Aerodactyl,70,Farblos,,Rang 1,Selten,Hajime Kusajima,holo,EX Legend Maker,EX,93
+ex12-2,2,Stolloss,110,Metall,,Rang 2,Selten,Hisao Nakamura,holo,EX Legend Maker,EX,93
+ex12-3,3,Wielie,100,Pflanze,,Rang 2,Selten,Hajime Kusajima,holo,EX Legend Maker,EX,93
+ex12-4,4,Enekoro,80,Farblos,,Rang 1,Selten,Naoyo Kimura,holo,EX Legend Maker,EX,93
+ex12-5,5,Gengar,100,Psycho,,Rang 2,Selten,Kouki Saitou,holo,EX Legend Maker,EX,93
+ex12-6,6,Geowaz,120,Kampf,,Rang 2,Selten,Hajime Kusajima,holo,EX Legend Maker,EX,93
+ex12-7,7,Kabutops,110,Kampf,,Rang 2,Selten,Mitsuhiro Arita,holo,EX Legend Maker,EX,93
+ex12-8,8,Lapras,80,Wasser,,Basis,Selten,Kagemaru Himeno,holo,EX Legend Maker,EX,93
+ex12-9,9,Machomei,120,Kampf,,Rang 2,Selten,Kouki Saitou,holo,EX Legend Maker,EX,93
+ex12-10,10,Mew,70,Psycho,,Basis,Selten,Kouki Saitou,holo,EX Legend Maker,EX,93
+ex12-11,11,Sleimok,70,Pflanze,,Rang 1,Selten,Midori Harada,holo,EX Legend Maker,EX,93
+ex12-12,12,Tengulist,110,Unlicht,,Rang 2,Selten,Mitsuhiro Arita,holo,EX Legend Maker,EX,93
+ex12-13,13,Sarzenia,100,Pflanze,,Rang 2,Selten,Sumiyoshi Kizuki,holo,EX Legend Maker,EX,93
+ex12-14,14,Wailord,120,Wasser,,Rang 1,Selten,Kouki Saitou,holo,EX Legend Maker,EX,93
+ex12-15,15,Absol,70,Unlicht,,Basis,Selten,Midori Harada,normal,EX Legend Maker,EX,93
+ex12-16,16,Girafarig,70,Psycho,,Basis,Selten,Aya Kusube,normal,EX Legend Maker,EX,93
+ex12-17,17,Saganabyss,70,Wasser,,Rang 1,Selten,Atsuko Nishida,normal,EX Legend Maker,EX,93
+ex12-18,18,Aalabyss,80,Wasser,,Rang 1,Selten,Midori Harada,normal,EX Legend Maker,EX,93
+ex12-19,19,Lanturn,80,Elektro,,Rang 1,Selten,Kagemaru Himeno,normal,EX Legend Maker,EX,93
+ex12-20,20,Lunastein,60,Psycho,,Basis,Selten,Hisao Nakamura,normal,EX Legend Maker,EX,93
+ex12-21,21,Magmar,70,Feuer,,Basis,Selten,Sumiyoshi Kizuki,normal,EX Legend Maker,EX,93
+ex12-22,22,Magneton,70,Elektro,,Rang 1,Selten,Hisao Nakamura,normal,EX Legend Maker,EX,93
+ex12-23,23,Amoroso,100,Wasser,,Rang 2,Selten,Mitsuhiro Arita,normal,EX Legend Maker,EX,93
+ex12-24,24,Pinsir,70,Pflanze,,Basis,Selten,Mitsuhiro Arita,normal,EX Legend Maker,EX,93
+ex12-25,25,Sonnfel,70,Kampf,,Basis,Selten,Hisao Nakamura,normal,EX Legend Maker,EX,93
+ex12-26,26,Pandir,60,Farblos,,Basis,Selten,Motofumi Fujiwara,normal,EX Legend Maker,EX,93
+ex12-27,27,Qurtel,80,Feuer,,Basis,Selten,Atsuko Nishida,normal,EX Legend Maker,EX,93
+ex12-28,28,Woingenau,80,Psycho,,Basis,Selten,Kouki Saitou,normal,EX Legend Maker,EX,93
+ex12-29,29,Anorith,70,Kampf,,Rang 1,Ungewöhnlich,Atsuko Nishida,normal,EX Legend Maker,EX,93
+ex12-30,30,Panekon,70,Pflanze,,Rang 1,Ungewöhnlich,Sachiko Adachi,normal,EX Legend Maker,EX,93
+ex12-31,31,Dummisel,50,Farblos,,Basis,Ungewöhnlich,Hajime Kusajima,normal,EX Legend Maker,EX,93
+ex12-32,32,Lektrobal,70,Elektro,,Rang 1,Ungewöhnlich,Midori Harada,normal,EX Legend Maker,EX,93
+ex12-33,33,Wiesenior,80,Farblos,,Rang 1,Ungewöhnlich,Tomokazu Komiya,normal,EX Legend Maker,EX,93
+ex12-34,34,Georok,70,Kampf,,Rang 1,Ungewöhnlich,Sumiyoshi Kizuki,normal,EX Legend Maker,EX,93
+ex12-35,35,Alpollo,70,Psycho,,Rang 1,Ungewöhnlich,Aya Kusube,normal,EX Legend Maker,EX,93
+ex12-36,36,Kabuto,60,Kampf,,Rang 1,Ungewöhnlich,Takao Unno,normal,EX Legend Maker,EX,93
+ex12-37,37,Kecleon,60,Farblos,,Basis,Ungewöhnlich,Tomokazu Komiya,normal,EX Legend Maker,EX,93
+ex12-38,38,Stollrak,70,Metall,,Rang 1,Ungewöhnlich,Naoyo Kimura,normal,EX Legend Maker,EX,93
+ex12-39,39,Maschock,80,Kampf,,Rang 1,Ungewöhnlich,Kagemaru Himeno,normal,EX Legend Maker,EX,93
+ex12-40,40,Traunfugil,50,Psycho,,Basis,Ungewöhnlich,Yukiko Baba,normal,EX Legend Maker,EX,93
+ex12-41,41,Blanas,70,Unlicht,,Rang 1,Ungewöhnlich,Katsura Tabata,normal,EX Legend Maker,EX,93
+ex12-42,42,Roselia,60,Pflanze,,Basis,Ungewöhnlich,Kagemaru Himeno,normal,EX Legend Maker,EX,93
+ex12-43,43,Seejong,70,Wasser,,Rang 1,Ungewöhnlich,Midori Harada,normal,EX Legend Maker,EX,93
+ex12-44,44,Tangela,60,Pflanze,,Basis,Ungewöhnlich,Aya Kusube,normal,EX Legend Maker,EX,93
+ex12-45,45,Tentoxa,70,Wasser,,Rang 1,Ungewöhnlich,Kagemaru Himeno,normal,EX Legend Maker,EX,93
+ex12-46,46,Vibrava,80,Farblos,,Rang 1,Ungewöhnlich,Atsuko Nishida,normal,EX Legend Maker,EX,93
+ex12-47,47,Ultrigaria,70,Pflanze,,Rang 1,Ungewöhnlich,Katsura Tabata,normal,EX Legend Maker,EX,93
+ex12-48,48,Stollunior,50,Metall,,Basis,Häufig,Miki Tanaka,normal,EX Legend Maker,EX,93
+ex12-49,49,Knofensa,50,Pflanze,,Basis,Häufig,Midori Harada,normal,EX Legend Maker,EX,93
+ex12-50,50,Lampi,50,Elektro,,Basis,Häufig,Sachiko Adachi,normal,EX Legend Maker,EX,93
+ex12-51,51,Perlu,50,Wasser,,Basis,Häufig,Sachiko Adachi,normal,EX Legend Maker,EX,93
+ex12-52,52,Nebulak,40,Psycho,,Basis,Häufig,Hajime Kusajima,normal,EX Legend Maker,EX,93
+ex12-53,53,Kleinstein,50,Kampf,,Basis,Häufig,Miki Tanaka,normal,EX Legend Maker,EX,93
+ex12-54,54,Sleima,40,Pflanze,,Basis,Häufig,Tomokazu Komiya,normal,EX Legend Maker,EX,93
+ex12-55,55,Fukano,50,Feuer,,Basis,Häufig,Kanako Eo,normal,EX Legend Maker,EX,93
+ex12-56,56,Liliep,80,Pflanze,,Rang 1,Häufig,Atsuko Nishida,normal,EX Legend Maker,EX,93
+ex12-57,57,Machollo,50,Kampf,,Basis,Häufig,Yukiko Baba,normal,EX Legend Maker,EX,93
+ex12-58,58,Magby,40,Feuer,,Basis,Häufig,Yuka Morii,normal,EX Legend Maker,EX,93
+ex12-59,59,Magnetilo,50,Elektro,,Basis,Häufig,Hiroki Fuchino,normal,EX Legend Maker,EX,93
+ex12-60,60,Amonitas,70,Wasser,,Rang 1,Häufig,Kenkichi Toyama,normal,EX Legend Maker,EX,93
+ex12-61,61,Samurzel,40,Pflanze,,Basis,Häufig,Yuka Morii,normal,EX Legend Maker,EX,93
+ex12-62,62,Wiesor,50,Farblos,,Basis,Häufig,Tomokazu Komiya,normal,EX Legend Maker,EX,93
+ex12-63,63,Shuppet,50,Psycho,,Basis,Häufig,Mitsuhiro Arita,normal,EX Legend Maker,EX,93
+ex12-64,64,Eneco,50,Farblos,,Basis,Häufig,Satoshi Ohta,normal,EX Legend Maker,EX,93
+ex12-65,65,Seemops,50,Wasser,,Basis,Häufig,Miki Tanaka,normal,EX Legend Maker,EX,93
+ex12-66,66,Tentacha,50,Wasser,,Basis,Häufig,Tomoaki Imakuni,normal,EX Legend Maker,EX,93
+ex12-67,67,Knacklion,50,Kampf,,Basis,Häufig,Tomokazu Komiya,normal,EX Legend Maker,EX,93
+ex12-68,68,Voltobal,50,Elektro,,Basis,Häufig,Midori Harada,normal,EX Legend Maker,EX,93
+ex12-69,69,Wailmer,80,Wasser,,Basis,Häufig,Sumiyoshi Kizuki,normal,EX Legend Maker,EX,93
+ex12-70,70,Waumpel,50,Pflanze,,Basis,Häufig,Yukiko Baba,normal,EX Legend Maker,EX,93
+ex12-71,71,Isso,50,Psycho,,Basis,Häufig,Yuka Morii,normal,EX Legend Maker,EX,93
+ex12-72,72,Verfluchter Stein,,,,,Ungewöhnlich,Ryo Ueda,normal,EX Legend Maker,EX,93
+ex12-73,73,Feldarbeiter,,,,,Ungewöhnlich,Ken Sugimori,normal,EX Legend Maker,EX,93
+ex12-74,74,Volle Flamme,,,,,Ungewöhnlich,Ryo Ueda,normal,EX Legend Maker,EX,93
+ex12-75,75,Riesiger Baumstumpf,,,,,Ungewöhnlich,Ryo Ueda,normal,EX Legend Maker,EX,93
+ex12-76,76,Energiebaum,,,,,Ungewöhnlich,Ryo Ueda,normal,EX Legend Maker,EX,93
+ex12-77,77,Seltsame Höhle,,,,,Ungewöhnlich,Ryo Ueda,normal,EX Legend Maker,EX,93
+ex12-78,78,Klauenfossil,40,,,,Häufig,Ryo Ueda,normal,EX Legend Maker,EX,93
+ex12-79,79,Geheimnis-Fossil,50,,,,Häufig,Ryo Ueda,normal,EX Legend Maker,EX,93
+ex12-80,80,Wurzelfossil,40,,,,Häufig,Ryo Ueda,normal,EX Legend Maker,EX,93
+ex12-81,81,Regenbogen Energie,,,,,Selten,Takumi Akabane,normal,EX Legend Maker,EX,93
+ex12-82,82,Reaktions-Energie,,,,,Ungewöhnlich,Takumi Akabane,normal,EX Legend Maker,EX,93
+ex12-83,83,Arkani ex,120,Feuer,,,Selten,Hikaru Koike,holo,EX Legend Maker,EX,93
+ex12-84,84,Armaldo ex,160,Kampf,,,Selten,Kimiya Masago,holo,EX Legend Maker,EX,93
+ex12-85,85,Banette ex,90,Psycho,,,Selten,Mitsuhiro Arita,holo,EX Legend Maker,EX,93
+ex12-86,86,Pudox ex,140,Pflanze,,,Selten,Mitsuhiro Arita,holo,EX Legend Maker,EX,93
+ex12-87,87,Libelldra ex,150,Farblos,,,Selten,Ryo Ueda,holo,EX Legend Maker,EX,93
+ex12-88,88,Mew ex,90,Psycho,,,Selten,Ryo Ueda,holo,EX Legend Maker,EX,93
+ex12-89,89,Walraisa ex,150,Wasser,,,Selten,Kimiya Masago,holo,EX Legend Maker,EX,93
+ex12-90,90,Regice *,90,Wasser,,Basis,Selten,Masakazu Fukuda,holo,EX Legend Maker,EX,93
+ex12-91,91,Regirock *,90,Kampf,,Basis,Selten,Masakazu Fukuda,holo,EX Legend Maker,EX,93
+ex12-92,92,Registeel *,90,Metall,,Basis,Selten,Masakazu Fukuda,holo,EX Legend Maker,EX,93
+ex12-93,93,Pikachu,40,Metall,,Basis,Selten,Ryo Ueda,holo,EX Legend Maker,EX,93

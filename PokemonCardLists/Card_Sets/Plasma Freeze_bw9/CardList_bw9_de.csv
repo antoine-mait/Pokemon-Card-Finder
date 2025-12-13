@@ -1,0 +1,123 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+bw9-1,1,Hornliu,50,Pflanze,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-2,2,Kokuna,80,Pflanze,,Rang 1,Ungewöhnlich,match,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-3,3,Bibor,120,Pflanze,,Rang 2,Selten,kawayoo,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-4,4,Owei,30,Pflanze,,Basis,Ungewöhnlich,Shigenori Negishi,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-5,5,Kokowei,100,Pflanze,,Rang 1,Selten,match,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-6,6,Geckarbor,60,Pflanze,,Basis,Häufig,Naoki Saito,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-7,7,Reptain,80,Pflanze,,Rang 1,Ungewöhnlich,Suwama Chiaki,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-8,8,Gewaldro,130,Pflanze,,Rang 2,Selten,kawayoo,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-9,9,Tuska,70,Pflanze,,Basis,Häufig,Midori Harada,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-10,10,Noktuska,90,Pflanze,,Rang 1,Selten,Suwama Chiaki,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-11,11,Folipurba,100,Pflanze,,Rang 1,Selten,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-12,12,Flamara,100,Feuer,,Rang 1,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-13,13,Heatran-EX,180,Feuer,,,Selten,Eske Yoshinob,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-14,14,Lichtel,60,Feuer,,Basis,Häufig,Naoyo Kimura,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-15,15,Laternecto,80,Feuer,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-16,16,Skelabra,130,Feuer,,Rang 2,Selten,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-17,17,Reshiram,130,Feuer,,Basis,Selten,Shin Nagasawa,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-18,18,Seeper,60,Wasser,,Basis,Häufig,Midori Harada,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-19,19,Seemon,80,Wasser,,Rang 1,Ungewöhnlich,Kyoko Umemoto,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-20,20,Aquana,110,Wasser,,Rang 1,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-21,21,Felino,70,Wasser,,Basis,Häufig,sui,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-22,22,Morlord,100,Wasser,,Rang 1,Selten,Atsuko Nishida,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-23,23,Glaziola,90,Wasser,,Rang 1,Selten,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-24,24,Schallquap,60,Wasser,,Basis,Häufig,MAHOU,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-25,25,Mebrana,90,Wasser,,Rang 1,Ungewöhnlich,Masakazu Fukuda,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-26,26,Branawarz,140,Wasser,,Rang 2,Selten,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-27,27,Gelatini,60,Wasser,,Basis,Häufig,Akira Komayama,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-28,28,Gelatroppo,80,Wasser,,Rang 1,Ungewöhnlich,Kyoko Umemoto,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-29,29,Gelatwino,130,Wasser,,Rang 2,Selten,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-30,30,Frigometri,80,Wasser,,Basis,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-31,31,Kyurem,130,Wasser,,Basis,Selten,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-32,32,Voltobal,60,Elektro,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-33,33,Lektrobal,90,Elektro,,Rang 1,Selten,HiRON,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-34,34,Blitza,90,Elektro,,Rang 1,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-35,35,Lampi,70,Elektro,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-36,36,Lanturn,90,Elektro,,Rang 1,Ungewöhnlich,Mizue,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-37,37,Pachirisu,70,Elektro,,Basis,Häufig,Akira Komayama,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-38,38,Voltolos-EX,170,Elektro,,,Selten,Eske Yoshinob,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-39,39,Zekrom,130,Elektro,,Basis,Selten,Mitsuhiro Arita,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-40,40,Nidoran♀,60,Psycho,,Basis,Häufig,Aya Kusube,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-41,41,Nidorina,90,Psycho,,Rang 1,Ungewöhnlich,Atsuko Nishida,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-42,42,Nidoqueen,130,Psycho,,Rang 2,Selten,Mizue,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-43,43,Nidoran♂,60,Psycho,,Basis,Häufig,Masakazu Fukuda,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-44,44,Nidorino,90,Psycho,,Rang 1,Ungewöhnlich,Shigenori Negishi,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-45,45,Sleima,70,Psycho,,Basis,Häufig,Hajime Kusajima,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-46,46,Sleimok,100,Psycho,,Rang 1,Selten,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-47,47,Pantimos,70,Psycho,,Basis,Selten,Hiroki Asanuma,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-48,48,Psiana,90,Psycho,,Rang 1,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-49,49,Zobiris,70,Psycho,,Basis,Selten,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-50,50,Tanhel,60,Psycho,,Basis,Häufig,Shigenori Negishi,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-51,51,Metang,90,Psycho,,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-52,52,Metagross,140,Psycho,,Rang 2,Selten,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-53,53,Deoxys-EX,170,Psycho,,,Selten,Eske Yoshinob,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-54,54,Makabaja,50,Psycho,,Basis,Häufig,Masakazu Fukuda,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-55,55,Makabaja,60,Psycho,,Basis,Häufig,Kagemaru Himeno,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-56,56,Echnatoll,100,Psycho,,Rang 1,Selten,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-57,57,Echnatoll,100,Psycho,,Rang 1,Selten,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-58,58,Nidoking,140,Kampf,,Rang 2,Selten,Shin Nagasawa,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-59,59,Menki,50,Kampf,,Basis,Häufig,Kagemaru Himeno,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-60,60,Rasaff,90,Kampf,,Rang 1,Häufig,Mitsuhiro Arita,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-61,61,Onix,100,Kampf,,Basis,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-62,62,Makuhita,80,Kampf,,Basis,Häufig,Kagemaru Himeno,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-63,63,Hariyama,120,Kampf,,Rang 1,Selten,Kouki Saitou,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-64,64,Nachtara,100,Unlicht,,Rang 1,Selten,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-65,65,Sniebel,70,Unlicht,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-66,66,Snibunna,90,Unlicht,,Rang 1,Selten,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-67,67,Absol,100,Unlicht,,Basis,Selten,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-68,68,Ganovil,70,Unlicht,,Basis,Häufig,sui,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-69,69,Rokkaiman,90,Unlicht,,Rang 1,Ungewöhnlich,Midori Harada,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-70,70,Rabigator,140,Unlicht,,Rang 2,Selten,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-71,71,Gladiantri,60,Unlicht,,Basis,Häufig,Kagemaru Himeno,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-72,72,Gladiantri,50,Unlicht,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-73,73,Caesurio,100,Unlicht,,Rang 1,Selten,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-74,74,Caesurio,90,Unlicht,,Rang 1,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-75,75,Kapuno,60,Unlicht,,Basis,Häufig,Midori Harada,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-76,76,Kapuno,60,Unlicht,,Basis,Häufig,Naoki Saito,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-77,77,Duodino,90,Unlicht,,Rang 1,Ungewöhnlich,match,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-78,78,Trikephalo,150,Unlicht,,Rang 2,Selten,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-79,79,Stahlos,150,Metall,,Rang 1,Selten,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-80,80,Flunkifer,70,Metall,,Basis,Ungewöhnlich,Mitsuhiro Arita,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-81,81,Dratini,50,Drache,,Basis,Häufig,Atsuko Nishida,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-82,82,Dragonir,70,Drache,,Rang 1,Ungewöhnlich,TOKIYA,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-83,83,Dragoran,150,Drache,,Rang 2,Selten,Akira Komayama,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-84,84,Seedraking,140,Drache,,Rang 2,Selten,Naoyo Kimura,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-85,85,Latias-EX,160,Drache,,,Selten,Ryo Ueda,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-86,86,Latios-EX,170,Drache,,,Selten,Ryo Ueda,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-87,87,Rattfratz,40,Farblos,,Basis,Häufig,Masakazu Fukuda,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-88,88,Rattikarl,70,Farblos,,Rang 1,Selten,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-89,89,Evoli,60,Farblos,,Basis,Häufig,Naoki Saito,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-90,90,Evoli,60,Farblos,,Basis,Häufig,Toyste Beach,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-91,91,Hoothoot,60,Farblos,,Basis,Häufig,match,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-92,92,Noctuh,90,Farblos,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-93,93,Miltank,100,Farblos,,Basis,Ungewöhnlich,MAHOU,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-94,94,Kecleon,70,Farblos,,Basis,Selten,Toyste Beach,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-95,95,Staralili,60,Farblos,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-96,96,Staravia,80,Farblos,,Rang 1,Ungewöhnlich,sui,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-97,97,Staraptor,130,Farblos,,Rang 2,Selten,Hajime Kusajima,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-98,98,Boreos-EX,180,Farblos,,,Selten,Eske Yoshinob,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-99,99,Leichtstein,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-100,100,Starrstadt,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-101,101,G-Cis,,,,,Selten,Yusuke Ohmura,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-102,102,Finstrio,,,,,Ungewöhnlich,Yusuke Ohmura,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-103,103,Überragender Energie-Zugewinn,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-104,104,Team-Plasma-Orden,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-105,105,Team-Plasma-Ball,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-106,106,Plasma-Energie,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-107,107,Lebenstau,,,,,Selten,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-108,108,Schutzfels,,,,,Selten,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-109,109,Heatran-EX,180,Feuer,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-110,110,Voltolos-EX,170,Elektro,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-111,111,Deoxys-EX,170,Psycho,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-112,112,Latias-EX,160,Drache,,,Ultra Selten,Ryo Ueda,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-113,113,Latios-EX,170,Drache,,,Ultra Selten,Ryo Ueda,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-114,114,Boreos-EX,180,Farblos,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-115,115,G-Cis,,,,,Ultra Selten,Kanako Eo,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-116,116,Prof. Esche,,,,,Ultra Selten,Kanako Eo,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-117,117,Impoleon,140,Wasser,,Rang 2,Versteckt Selten,Ayaka Yoshida,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-118,118,Symvolara,90,Psycho,,Basis,Versteckt Selten,Ayaka Yoshida,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-119,119,Deponitox,100,Psycho,,Rang 1,Versteckt Selten,Ayaka Yoshida,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-120,120,Knakrack,140,Drache,,Rang 2,Versteckt Selten,Ayaka Yoshida,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-121,121,Top-Trank,,,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122
+bw9-122,122,Hyperball,,,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Plasma-Frost,Schwarz & Weiß,122

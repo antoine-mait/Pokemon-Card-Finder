@@ -1,0 +1,191 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sv09-001,001,Caterpie,50,Grass,,Basic,Common,Shimaris Yukichi,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-002,002,Metapod,90,Grass,Caterpie,Stage1,Common,OKUBO,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-003,003,Butterfree,120,Grass,Metapod,Stage2,Rare,satoma,"reverse, holo",Journey Together,Scarlet & Violet,190
+sv09-004,004,Paras,70,Grass,,Basic,Common,Ayako Ozaki,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-005,005,Parasect,120,Grass,Paras,Stage1,Common,Tetsu Kayama,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-006,006,Petilil,50,Grass,,Basic,Common,Shibuzoh.,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-007,007,Lilligant,110,Grass,Petilil,Stage1,Common,Jiro Sasumo,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-008,008,Maractus,110,Grass,,Basic,Uncommon,Dsuke,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-009,009,Karrablast,60,Grass,,Basic,Common,Yuka Morii,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-010,010,Foongus,50,Grass,,Basic,Common,Saboteri,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-011,011,Amoonguss ex,260,Grass,Foongus,Stage1,Double rare,PLANETA Mochizuki,holo,Journey Together,Scarlet & Violet,190
+sv09-012,012,Shelmet,70,Grass,,Basic,Common,Toshinao Aoki,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-013,013,Accelgor,100,Grass,Shelmet,Stage1,Uncommon,Kazumasa Yasukuni,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-014,014,Durant,90,Grass,,Basic,Common,KEIICHIRO ITO,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-015,015,Virizion,120,Grass,,Basic,Uncommon,Anesaki Dynamic,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-016,016,Sprigatito,60,Grass,,Basic,Common,Mina Nakai,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-017,017,Floragato,90,Grass,Sprigatito,Stage1,Common,Felicia Chen,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-018,018,Meowscarada,160,Grass,Floragato,Stage2,Rare,kodama,"reverse, holo",Journey Together,Scarlet & Violet,190
+sv09-019,019,Nymble,50,Grass,,Basic,Common,Ayako Ozaki,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-020,020,Magmar,80,Fire,,Basic,Common,Naoyo Kimura,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-021,021,Magmortar,130,Fire,Magmar,Stage1,Rare,Tonji Matsuno,"reverse, holo",Journey Together,Scarlet & Violet,190
+sv09-022,022,Torchic,60,Fire,,Basic,Common,OKACHEKE,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-023,023,Combusken,90,Fire,Torchic,Stage1,Uncommon,Fujimoto Gold,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-024,024,Blaziken ex,320,Fire,Combusken,Stage2,Double rare,takuyoa,holo,Journey Together,Scarlet & Violet,190
+sv09-025,025,Torkoal,130,Fire,,Basic,Common,kodama,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-026,026,N's Darumaka,80,Fire,,Basic,Common,Gemi,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-027,027,N's Darmanitan,140,Fire,N's Darumaka,Stage1,Uncommon,nagimiso,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-028,028,Larvesta,80,Fire,,Basic,Common,Kyoko Umemoto,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-029,029,Volcarona,140,Fire,Larvesta,Stage1,Uncommon,Mitsuhiro Arita,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-030,030,Reshiram ex,220,Fire,,Basic,Double rare,PLANETA Mochizuki,holo,Journey Together,Scarlet & Violet,190
+sv09-031,031,Volcanion ex,220,Fire,,Basic,Double rare,5ban Graphics,holo,Journey Together,Scarlet & Violet,190
+sv09-032,032,Articuno,110,Water,,Basic,Uncommon,Takumi Wada,"normal, reverse, holo",Journey Together,Scarlet & Violet,190
+sv09-033,033,Remoraid,60,Water,,Basic,Common,Minahamu,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-034,034,Octillery,110,Water,Remoraid,Stage1,Uncommon,Toshinao Aoki,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-035,035,Lotad,60,Water,,Basic,Common,Ayako Ozaki,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-036,036,Lombre,90,Water,Lotad,Stage1,Common,Mousho,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-037,037,Ludicolo,140,Water,Lombre,Stage2,Rare,Jerky,"reverse, holo",Journey Together,Scarlet & Violet,190
+sv09-038,038,Wingull,60,Water,,Basic,Common,Mékayu,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-039,039,Pelipper,120,Water,Wingull,Stage1,Uncommon,Nelnal,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-040,040,Wailmer,130,Water,,Basic,Common,Shinya Mizuno,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-041,041,Wailord,240,Water,Wailmer,Stage1,Rare,Takeshi Nakamura,"reverse, holo",Journey Together,Scarlet & Violet,190
+sv09-042,042,Regice,120,Water,,Basic,Uncommon,Takumi Wada,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-043,043,Veluza ex,210,Water,,Basic,Double rare,5ban Graphics,holo,Journey Together,Scarlet & Violet,190
+sv09-044,044,Alolan Geodude,60,Lightning,,Basic,Common,svlt,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-045,045,Alolan Graveler,100,Lightning,Alolan Geodude,Stage1,Common,HYOGONOSUKE,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-046,046,Alolan Golem,180,Lightning,Alolan Graveler,Stage2,Uncommon,Takeshi Nakamura,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-047,047,Iono's Voltorb,70,Lightning,,Basic,Common,Kazumasa Yasukuni,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-048,048,Iono's Electrode,100,Lightning,Iono's Voltorb,Stage1,Uncommon,GOTO minori,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-049,049,N's Joltik,40,Lightning,,Basic,Common,Iori Suzuki,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-050,050,Togedemaru,80,Lightning,,Basic,Common,Susumu Maeya,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-051,051,Tapu Koko ex,200,Lightning,,Basic,Double rare,PLANETA Igarashi,holo,Journey Together,Scarlet & Violet,190
+sv09-052,052,Iono's Tadbulb,60,Lightning,,Basic,Common,kurumitsu,"normal, reverse, holo",Journey Together,Scarlet & Violet,190
+sv09-053,053,Iono's Bellibolt ex,280,Lightning,Iono's Tadbulb,Stage1,Double rare,5ban Graphics,holo,Journey Together,Scarlet & Violet,190
+sv09-054,054,Iono's Wattrel,60,Lightning,,Basic,Common,Akira Komayama,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-055,055,Iono's Kilowattrel,120,Lightning,Iono's Wattrel,Stage1,Rare,chibi,"normal, reverse, holo",Journey Together,Scarlet & Violet,190
+sv09-056,056,Lillie's Clefairy ex,190,Psychic,,Basic,Double rare,5ban Graphics,holo,Journey Together,Scarlet & Violet,190
+sv09-057,057,Alolan Marowak,120,Psychic,Cubone,Stage1,Uncommon,Uta,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-058,058,Mr. Mime,90,Psychic,,Basic,Common,GOTO minori,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-059,059,Shuppet,60,Psychic,,Basic,Common,miki kudo,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-060,060,Banette,90,Psychic,Shuppet,Stage1,Uncommon,Anesaki Dynamic,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-061,061,Beldum,60,Psychic,,Basic,Common,Izucch,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-062,062,Metang,100,Psychic,Beldum,Stage1,Common,Oswaldo KATO,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-063,063,Metagross,170,Psychic,Metang,Stage2,Rare,Mitsuhiro Arita,"reverse, holo",Journey Together,Scarlet & Violet,190
+sv09-064,064,N's Sigilyph,110,Psychic,,Basic,Common,Shiburingaru,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-065,065,Oricorio,80,Psychic,,Basic,Common,aspara,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-066,066,Lillie's Cutiefly,30,Psychic,,Basic,Common,Saya Tsuruta,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-067,067,Lillie's Ribombee,70,Psychic,Lillie's Cutiefly,Stage1,Rare,mashu,"reverse, holo",Journey Together,Scarlet & Violet,190
+sv09-068,068,Lillie's Comfey,70,Psychic,,Basic,Common,Narumi Sato,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-069,069,Mimikyu ex,190,Psychic,,Basic,Double rare,PLANETA Igarashi,holo,Journey Together,Scarlet & Violet,190
+sv09-070,070,Dhelmise,130,Psychic,,Basic,Common,Sanosuke Sakuma,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-071,071,Impidimp,70,Psychic,,Basic,Common,Haru Akasaka,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-072,072,Morgrem,90,Psychic,Impidimp,Stage1,Common,Lee HyunJung,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-073,073,Grimmsnarl,170,Psychic,Morgrem,Stage2,Uncommon,Nisota Niso,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-074,074,Milcery,50,Psychic,,Basic,Common,Shibuzoh.,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-075,075,Alcremie ex,250,Psychic,Milcery,Stage1,Double rare,PLANETA Mochizuki,holo,Journey Together,Scarlet & Violet,190
+sv09-076,076,Cubone,70,Fighting,,Basic,Common,Mugi Hamada,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-077,077,Swinub,70,Fighting,,Basic,Common,REND,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-078,078,Piloswine,100,Fighting,Swinub,Stage1,Common,Aliya Chen,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-079,079,Mamoswine ex,340,Fighting,Piloswine,Stage2,Double rare,Nisota Niso,holo,Journey Together,Scarlet & Violet,190
+sv09-080,080,Larvitar,70,Fighting,,Basic,Common,Dsuke,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-081,081,Pupitar,90,Fighting,Larvitar,Stage1,Common,Scav,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-082,082,Regirock,130,Fighting,,Basic,Rare,Uta,"reverse, holo",Journey Together,Scarlet & Violet,190
+sv09-083,083,Pancham,60,Fighting,,Basic,Common,Yuriko Akase,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-084,084,Rockruff,70,Fighting,,Basic,Common,Yoshimi Miyoshi,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-085,085,Lycanroc,120,Fighting,Rockruff,Stage1,Rare,Shiburingaru,"reverse, holo",Journey Together,Scarlet & Violet,190
+sv09-086,086,Hop's Silicobra,80,Fighting,,Basic,Common,aspara,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-087,087,Hop's Sandaconda,140,Fighting,Hop's Silicobra,Stage1,Uncommon,Sanosuke Sakuma,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-088,088,Toedscool,60,Fighting,,Basic,Common,osare,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-089,089,Toedscruel,130,Fighting,Toedscool,Stage1,Uncommon,Masako Tomii,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-090,090,Klawf,120,Fighting,,Basic,Uncommon,Shinya Komatsu,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-091,091,Koffing,60,Darkness,,Basic,Common,Rond,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-092,092,Weezing,130,Darkness,Koffing,Stage1,Uncommon,KEIICHIRO ITO,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-093,093,Paldean Wooper,60,Darkness,,Basic,Common,Lee HyunJung,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-094,094,Paldean Clodsire ex,280,Darkness,Paldean Wooper,Stage1,Double rare,PLANETA Tsuji,holo,Journey Together,Scarlet & Violet,190
+sv09-095,095,Tyranitar,190,Darkness,Pupitar,Stage2,Rare,AKIRA EGAWA,"reverse, holo",Journey Together,Scarlet & Violet,190
+sv09-096,096,N's Purrloin,70,Darkness,,Basic,Common,Keisin,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-097,097,N's Zorua,70,Darkness,,Basic,Common,Jiro Sasumo,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-098,098,N's Zoroark ex,280,Darkness,N's Zorua,Stage1,Double rare,takuyoa,holo,Journey Together,Scarlet & Violet,190
+sv09-099,099,Pangoro,140,Darkness,Pancham,Stage1,Uncommon,nagimiso,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-100,100,Lokix,120,Darkness,Nymble,Stage1,Uncommon,AKIRA EGAWA,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-101,101,Bombirdier,120,Darkness,,Basic,Common,Gemi,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-102,102,Escavalier,120,Metal,Karrablast,Stage1,Uncommon,Takumi Wada,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-103,103,N's Klink,60,Metal,,Basic,Common,Saboteri,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-104,104,N's Klang,90,Metal,N's Klink,Stage1,Common,KEIICHIRO ITO,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-105,105,N's Klinklang,160,Metal,N's Klang,Stage2,Uncommon,matazo,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-106,106,Galarian Stunfisk,100,Metal,,Basic,Common,Aya Kusube,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-107,107,Magearna,90,Metal,,Basic,Rare,rika,"reverse, holo",Journey Together,Scarlet & Violet,190
+sv09-108,108,Hop's Corviknight,170,Metal,Hop's Corvisquire,Stage2,Uncommon,GIDORA,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-109,109,Cufant,100,Metal,,Basic,Common,kodama,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-110,110,Copperajah,190,Metal,Cufant,Stage1,Uncommon,Ryuta Fuse,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-111,111,Hop's Zacian ex,230,Metal,,Basic,Double rare,aky CG Works,holo,Journey Together,Scarlet & Violet,190
+sv09-112,112,Bagon,70,Dragon,,Basic,Common,Miki Tanaka,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-113,113,Shelgon,100,Dragon,Bagon,Stage1,Common,Julie Hang,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-114,114,Salamence ex,320,Dragon,Shelgon,Stage2,Double rare,toriyufu,holo,Journey Together,Scarlet & Violet,190
+sv09-115,115,Druddigon,120,Dragon,,Basic,Common,kawayoo,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-116,116,N's Reshiram,130,Dragon,,Basic,Rare,rika,"reverse, holo",Journey Together,Scarlet & Violet,190
+sv09-117,117,Hop's Snorlax,150,Colorless,,Basic,Rare,GOSSAN,"reverse, holo",Journey Together,Scarlet & Violet,190
+sv09-118,118,Sentret,60,Colorless,,Basic,Common,Taiga Kayama,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-119,119,Furret,120,Colorless,Sentret,Stage1,Common,Tomomi Ozaki,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-120,120,Dunsparce,70,Colorless,,Basic,Common,Asako Ito,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-121,121,Dudunsparce ex,270,Colorless,Dunsparce,Stage1,Double rare,5ban Graphics,holo,Journey Together,Scarlet & Violet,190
+sv09-122,122,Kecleon,80,Colorless,,Basic,Common,0313,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-123,123,Tropius,110,Colorless,,Basic,Common,Atsuya Uki,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-124,124,Audino,110,Colorless,,Basic,Common,Minahamu,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-125,125,Minccino,70,Colorless,,Basic,Common,Oswaldo KATO,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-126,126,Cinccino,100,Colorless,Minccino,Stage1,Uncommon,En Morikura,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-127,127,Noibat,60,Colorless,,Basic,Common,Tomokazu Komiya,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-128,128,Noivern,110,Colorless,Noibat,Stage1,Rare,Anesaki Dynamic,"normal, reverse, holo",Journey Together,Scarlet & Violet,190
+sv09-129,129,Komala,100,Colorless,,Basic,Common,Natsumi Yoshida,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-130,130,Drampa,120,Colorless,,Basic,Common,Tetsu Kayama,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-131,131,Skwovet,60,Colorless,,Basic,Common,sowsow,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-132,132,Greedent,120,Colorless,Skwovet,Stage1,Uncommon,Jerky,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-133,133,Hop's Rookidee,60,Colorless,,Basic,Common,Shinya Mizuno,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-134,134,Hop's Corvisquire,90,Colorless,Hop's Rookidee,Stage1,Common,Souichirou Gunjima,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-135,135,Hop's Wooloo,70,Colorless,,Basic,Common,Tomomi Ozaki,"normal, reverse, holo",Journey Together,Scarlet & Violet,190
+sv09-136,136,Hop's Dubwool,120,Colorless,Hop's Wooloo,Stage1,Rare,Ryota Murayama,"reverse, holo",Journey Together,Scarlet & Violet,190
+sv09-137,137,Cramorant,110,Colorless,,Basic,Common,Tomomi Ozaki,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-138,138,Hop's Cramorant,110,Colorless,,Basic,Uncommon,Saboteri,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-139,139,Lechonk,70,Colorless,,Basic,Common,OKACHEKE,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-140,140,Oinkologne,120,Colorless,Lechonk,Stage1,Uncommon,Mina Nakai,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-141,141,Squawkabilly,70,Colorless,,Basic,Common,sowsow,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-142,142,Billy & O'Nare,,,,,Common,Sanosuke Sakuma,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-143,143,Black Belt's Training,,,,,Common,GOSSAN,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-144,144,Black Belt's Training,,,,,Common,GOSSAN,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-145,145,Black Belt's Training,,,,,Common,GOSSAN,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-146,146,Brock's Scouting,,,,,Uncommon,Teeziro,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-147,147,Hop's Bag,,,,,Uncommon,AYUMI ODASHIMA,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-148,148,Hop's Choice Band,,,,,Uncommon,Toyste Beach,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-149,149,Iris's Fighting Spirit,,,,,Uncommon,yuu,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-150,150,Levincia,,,,,Uncommon,MARINA Chikazawa,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-151,151,Lillie's Pearl,,,,,Uncommon,AYUMI ODASHIMA,"normal, reverse, holo",Journey Together,Scarlet & Violet,190
+sv09-152,152,N's Castle,,,,,Uncommon,AYUMI ODASHIMA,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-153,153,N's PP Up,,,,,Uncommon,Toyste Beach,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-154,154,Postwick,,,,,Uncommon,AYUMI ODASHIMA,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-155,155,Professor's Research,,,,,Common,Taira Akitsu,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-156,156,Redeemable Ticket,,,,,Uncommon,Studio Bora Inc.,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-157,157,Ruffian,,,,,Uncommon,Hideki Ishikawa,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-158,158,Super Potion,,,,,Uncommon,Studio Bora Inc.,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-159,159,Spiky Energy,,,,,Uncommon,,"normal, reverse",Journey Together,Scarlet & Violet,190
+sv09-160,160,Maractus,110,Grass,,Basic,Illustration rare,Ounishi,holo,Journey Together,Scarlet & Violet,190
+sv09-161,161,Articuno,110,Water,,Basic,Illustration rare,Kuroimori,holo,Journey Together,Scarlet & Violet,190
+sv09-162,162,Wailord,240,Water,Wailmer,Stage1,Illustration rare,Katsunori Sato,holo,Journey Together,Scarlet & Violet,190
+sv09-163,163,Iono's Kilowattrel,120,Lightning,Iono's Wattrel,Stage1,Illustration rare,Terada Tera,holo,Journey Together,Scarlet & Violet,190
+sv09-164,164,Lillie's Ribombee,70,Psychic,Lillie's Cutiefly,Stage1,Illustration rare,saino misaki,holo,Journey Together,Scarlet & Violet,190
+sv09-165,165,Swinub,70,Fighting,,Basic,Illustration rare,Nakamura Ippan,holo,Journey Together,Scarlet & Violet,190
+sv09-166,166,Lycanroc,120,Fighting,Rockruff,Stage1,Illustration rare,GIDORA,holo,Journey Together,Scarlet & Violet,190
+sv09-167,167,N's Reshiram,130,Dragon,,Basic,Illustration rare,Bun Toujo,holo,Journey Together,Scarlet & Violet,190
+sv09-168,168,Furret,120,Colorless,Sentret,Stage1,Illustration rare,REND,holo,Journey Together,Scarlet & Violet,190
+sv09-169,169,Noibat,60,Colorless,,Basic,Illustration rare,sowsow,holo,Journey Together,Scarlet & Violet,190
+sv09-170,170,Hop's Wooloo,70,Colorless,,Basic,Illustration rare,MINAMINAMI Take,holo,Journey Together,Scarlet & Violet,190
+sv09-171,171,Volcanion ex,220,Fire,,Basic,Ultra Rare,5ban Graphics,holo,Journey Together,Scarlet & Violet,190
+sv09-172,172,Iono's Bellibolt ex,280,Lightning,Iono's Tadbulb,Stage1,Ultra Rare,5ban Graphics,holo,Journey Together,Scarlet & Violet,190
+sv09-173,173,Lillie's Clefairy ex,190,Psychic,,Basic,Ultra Rare,5ban Graphics,holo,Journey Together,Scarlet & Violet,190
+sv09-174,174,Mamoswine ex,340,Fighting,Piloswine,Stage2,Ultra Rare,N-DESIGN Inc.,holo,Journey Together,Scarlet & Violet,190
+sv09-175,175,N's Zoroark ex,280,Darkness,N's Zorua,Stage1,Ultra Rare,takuyoa,holo,Journey Together,Scarlet & Violet,190
+sv09-176,176,Hop's Zacian ex,230,Metal,,Basic,Ultra Rare,aky CG Works,holo,Journey Together,Scarlet & Violet,190
+sv09-177,177,Salamence ex,320,Dragon,Shelgon,Stage2,Ultra Rare,5ban Graphics,holo,Journey Together,Scarlet & Violet,190
+sv09-178,178,Dudunsparce ex,270,Colorless,Dunsparce,Stage1,Ultra Rare,5ban Graphics,holo,Journey Together,Scarlet & Violet,190
+sv09-179,179,Brock's Scouting,,,,,Ultra Rare,Teeziro,holo,Journey Together,Scarlet & Violet,190
+sv09-180,180,Iris's Fighting Spirit,,,,,Ultra Rare,yuu,holo,Journey Together,Scarlet & Violet,190
+sv09-181,181,Ruffian,,,,,Ultra Rare,Hideki Ishikawa,holo,Journey Together,Scarlet & Violet,190
+sv09-182,182,Volcanion ex,220,Fire,,Basic,Special illustration rare,akagi,holo,Journey Together,Scarlet & Violet,190
+sv09-183,183,Iono's Bellibolt ex,280,Lightning,Iono's Tadbulb,Stage1,Special illustration rare,Yuu Nishida,holo,Journey Together,Scarlet & Violet,190
+sv09-184,184,Lillie's Clefairy ex,190,Psychic,,Basic,Special illustration rare,Susumu Maeya,holo,Journey Together,Scarlet & Violet,190
+sv09-185,185,N's Zoroark ex,280,Darkness,N's Zorua,Stage1,Special illustration rare,Megumi Mizutani,holo,Journey Together,Scarlet & Violet,190
+sv09-186,186,Hop's Zacian ex,230,Metal,,Basic,Special illustration rare,DOM,holo,Journey Together,Scarlet & Violet,190
+sv09-187,187,Salamence ex,320,Dragon,Shelgon,Stage2,Special illustration rare,Tsuyoshi Nagano,holo,Journey Together,Scarlet & Violet,190
+sv09-188,188,Iono's Bellibolt ex,280,Lightning,Iono's Tadbulb,Stage1,Hyper rare,5ban Graphics,holo,Journey Together,Scarlet & Violet,190
+sv09-189,189,N's Zoroark ex,280,Darkness,N's Zorua,Stage1,Hyper rare,takuyoa,holo,Journey Together,Scarlet & Violet,190
+sv09-190,190,Spiky Energy,,,,,Hyper rare,,holo,Journey Together,Scarlet & Violet,190

@@ -1,0 +1,18 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+pop4-1,1,Chimecho δ,60,Metal,,Basic,Rare,Masakazu Fukuda,,POP Series 4,POP,17
+pop4-2,2,Deoxys δ,70,Colorless,,Basic,Rare,Kouki Saitou,"normal, holo",POP Series 4,POP,17
+pop4-3,3,Flygon,120,Fighting,Vibrava,Stage2,Rare,Hisao Nakamura,,POP Series 4,POP,17
+pop4-4,4,Mew,70,Psychic,,Basic,Rare,Nakaoka,"normal, holo",POP Series 4,POP,17
+pop4-5,5,Sceptile,100,Grass,Grovyle,Stage2,Rare,Atsuko Nishida,normal,POP Series 4,POP,17
+pop4-6,6,Combusken,70,Fire,Torchic,Stage1,Uncommon,Mitsuhiro Arita,holo,POP Series 4,POP,17
+pop4-7,7,Grovyle,70,Grass,Treecko,Stage1,Uncommon,Mitsuhiro Arita,normal,POP Series 4,POP,17
+pop4-8,8,Heal Energy,,,,,Uncommon,Takumi Akabane,normal,POP Series 4,POP,17
+pop4-9,9,Pokémon Fan Club,,,,,Uncommon,Ken Sugimori,,POP Series 4,POP,17
+pop4-10,10,Scramble Energy,,,,,Uncommon,Takumi Akabane,,POP Series 4,POP,17
+pop4-11,11,Mudkip,50,Water,,Basic,Common,Masakazu Fukuda,"normal, holo",POP Series 4,POP,17
+pop4-12,12,Pidgey,40,Colorless,,Basic,Common,Hisao Nakamura,,POP Series 4,POP,17
+pop4-13,13,Pikachu,50,Lightning,,Basic,Common,Kouki Saitou,"normal, holo",POP Series 4,POP,17
+pop4-14,14,Squirtle,50,Water,,Basic,Common,Atsuko Nishida,normal,POP Series 4,POP,17
+pop4-15,15,Treecko δ,40,Psychic,,Basic,Common,Masakazu Fukuda,,POP Series 4,POP,17
+pop4-16,16,Wobbuffet,80,Psychic,,Basic,Common,Kagemaru Himeno,holo,POP Series 4,POP,17
+pop4-17,17,Deoxys ex,110,Psychic,,Basic,Ultra Rare,Hiromichi Sugiyama,,POP Series 4,POP,17

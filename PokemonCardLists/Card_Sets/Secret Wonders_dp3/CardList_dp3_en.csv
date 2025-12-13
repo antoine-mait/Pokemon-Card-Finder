@@ -1,0 +1,133 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+dp3-1,1,Ampharos,130,Lightning,Flaaffy,Stage2,Rare Holo,Kouki Saitou,"normal, reverse, holo",Secret Wonders,Diamond & Pearl,132
+dp3-2,2,Blastoise,120,Water,Wartortle,Stage2,Rare Holo,Daisuke Ito,"reverse, holo",Secret Wonders,Diamond & Pearl,132
+dp3-3,3,Charizard,130,Fire,Charmeleon,Stage2,Rare Holo,Daisuke Ito,"reverse, holo",Secret Wonders,Diamond & Pearl,132
+dp3-4,4,Entei,80,Fire,,Basic,Rare Holo,Ryo Ueda,"reverse, holo",Secret Wonders,Diamond & Pearl,132
+dp3-5,5,Flygon,120,Fighting,Vibrava,Stage2,Rare Holo,Daisuke Ito,"reverse, holo",Secret Wonders,Diamond & Pearl,132
+dp3-6,6,Gallade,130,Fighting,Kirlia,Stage2,Rare Holo,Daisuke Ito,"reverse, holo",Secret Wonders,Diamond & Pearl,132
+dp3-7,7,Gardevoir,110,Psychic,Kirlia,Stage2,Rare Holo,Atsuko Nishida,"reverse, holo",Secret Wonders,Diamond & Pearl,132
+dp3-8,8,Gastrodon East Sea,100,Water,Shellos East Sea,Stage1,Rare Holo,Kazuyuki Kano,"reverse, holo",Secret Wonders,Diamond & Pearl,132
+dp3-9,9,Gastrodon West Sea,100,Fighting,Shellos West Sea,Stage1,Rare Holo,Kazuyuki Kano,"reverse, holo",Secret Wonders,Diamond & Pearl,132
+dp3-10,10,Ho-Oh,90,Fire,,Basic,Rare Holo,Kazuyuki Kano,"reverse, holo",Secret Wonders,Diamond & Pearl,132
+dp3-11,11,Jumpluff,90,Grass,Skiploom,Stage2,Rare Holo,Kagemaru Himeno,"reverse, holo",Secret Wonders,Diamond & Pearl,132
+dp3-12,12,Lickilicky,110,Colorless,Lickitung,Stage1,Rare Holo,Kazuyuki Kano,"reverse, holo",Secret Wonders,Diamond & Pearl,132
+dp3-13,13,Ludicolo,100,Water,Lombre,Stage2,Rare Holo,Mitsuhiro Arita,"reverse, holo",Secret Wonders,Diamond & Pearl,132
+dp3-14,14,Lugia,90,Colorless,,Basic,Rare Holo,Kazuyuki Kano,"reverse, holo",Secret Wonders,Diamond & Pearl,132
+dp3-15,15,Mew,60,Psychic,,Basic,Rare Holo,Kagemaru Himeno,"reverse, holo",Secret Wonders,Diamond & Pearl,132
+dp3-16,16,Raikou,80,Lightning,,Basic,Rare Holo,Ryo Ueda,"reverse, holo",Secret Wonders,Diamond & Pearl,132
+dp3-17,17,Roserade,90,Grass,Roselia,Stage1,Rare Holo,Ken Sugimori,"reverse, holo",Secret Wonders,Diamond & Pearl,132
+dp3-18,18,Salamence,140,Colorless,Shelgon,Stage2,Rare Holo,Kazuyuki Kano,"reverse, holo",Secret Wonders,Diamond & Pearl,132
+dp3-19,19,Suicune,70,Water,,Basic,Rare Holo,Ryo Ueda,"reverse, holo",Secret Wonders,Diamond & Pearl,132
+dp3-20,20,Venusaur,130,Grass,Ivysaur,Stage2,Rare Holo,Kazuyuki Kano,"normal, reverse, holo",Secret Wonders,Diamond & Pearl,132
+dp3-21,21,Absol,70,Darkness,,Basic,Rare,Ken Sugimori,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-22,22,Arcanine,100,Fire,Growlithe,Stage1,Rare,Kouki Saitou,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-23,23,Banette,80,Psychic,Shuppet,Stage1,Rare,Kouki Saitou,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-24,24,Dugtrio,90,Fighting,Diglett,Stage1,Rare,Ken Sugimori,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-25,25,Electivire,100,Lightning,Electabuzz,Stage1,Rare,Kouki Saitou,"normal, reverse, holo",Secret Wonders,Diamond & Pearl,132
+dp3-26,26,Electrode,80,Lightning,Voltorb,Stage1,Rare,Ken Sugimori,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-27,27,Furret,90,Colorless,Sentret,Stage1,Rare,Kagemaru Himeno,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-28,28,Golduck,90,Water,Psyduck,Stage1,Rare,Ken Sugimori,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-29,29,Golem,130,Fighting,Graveler,Stage2,Rare,Naoyo Kimura,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-30,30,Jynx,70,Psychic,,Basic,Rare,Kagemaru Himeno,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-31,31,Magmortar,110,Fire,Magmar,Stage1,Rare,Kouki Saitou,"normal, reverse, holo",Secret Wonders,Diamond & Pearl,132
+dp3-32,32,Minun,60,Lightning,,Basic,Rare,Masakazu Fukuda,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-33,33,Mothim,80,Grass,Burmy,Stage1,Rare,Kazuyuki Kano,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-34,34,Nidoking,130,Psychic,Nidorino,Stage2,Rare,Kouki Saitou,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-35,35,Pidgeot,120,Colorless,Pidgeotto,Stage2,Rare,Masakazu Fukuda,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-36,36,Plusle,60,Lightning,,Basic,Rare,Masakazu Fukuda,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-37,37,Sharpedo,80,Darkness,Carvanha,Stage1,Rare,Ken Sugimori,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-38,38,Sunflora,80,Grass,Sunkern,Stage1,Rare,Mitsuhiro Arita,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-39,39,Unown S,50,Psychic,,Basic,Rare,Kazuyuki Kano,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-40,40,Weavile,80,Water,Sneasel,Stage1,Rare,Kagemaru Himeno,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-41,41,Wormadam Plant Cloak,80,Grass,Burmy Plant Cloak,Stage1,Rare,Mitsuhiro Arita,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-42,42,Wormadam Sandy Cloak,80,Fighting,Burmy Sandy Cloak,Stage1,Rare,Kagemaru Himeno,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-43,43,Wormadam Trash Cloak,70,Metal,Burmy Trash Cloak,Stage1,Rare,Kazuyuki Kano,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-44,44,Xatu,80,Psychic,Natu,Stage1,Rare,Sumiyoshi Kizuki,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-45,45,Breloom,100,Grass,Shroomish,Stage1,Uncommon,Kouki Saitou,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-46,46,Charmeleon,80,Fire,Charmander,Stage1,Uncommon,Atsuko Nishida,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-47,47,Cloyster,80,Water,Shellder,Stage1,Uncommon,Ken Sugimori,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-48,48,Donphan,100,Fighting,Phanpy,Stage1,Uncommon,Ken Sugimori,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-49,49,Farfetch'd,60,Colorless,,Basic,Uncommon,Ken Sugimori,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-50,50,Flaaffy,80,Lightning,Mareep,Stage1,Uncommon,Kagemaru Himeno,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-51,51,Ivysaur,80,Grass,Bulbasaur,Stage1,Uncommon,Kagemaru Himeno,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-52,52,Kecleon,70,Colorless,,Basic,Uncommon,Mitsuhiro Arita,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-53,53,Kirlia,80,Psychic,Ralts,Stage1,Uncommon,Masakazu Fukuda,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-54,54,Lombre,70,Water,Lotad,Stage1,Uncommon,Kouki Saitou,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-55,55,Miltank,90,Colorless,,Basic,Uncommon,Mitsuhiro Arita,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-56,56,Muk,80,Psychic,Grimer,Stage1,Uncommon,Daisuke Ito,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-57,57,Nidorino,80,Psychic,Nidoran?,Stage1,Uncommon,Naoyo Kimura,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-58,58,Pidgeotto,70,Colorless,Pidgey,Stage1,Uncommon,Ken Sugimori,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-59,59,Pinsir,80,Grass,,Basic,Uncommon,Ken Sugimori,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-60,60,Quagsire,90,Water,Wooper,Stage1,Uncommon,Sumiyoshi Kizuki,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-61,61,Raticate,70,Colorless,Rattata,Stage1,Uncommon,Ken Sugimori,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-62,62,Roselia,70,Grass,,Basic,Uncommon,Kouki Saitou,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-63,63,Sableye,60,Darkness,,Basic,Uncommon,Sumiyoshi Kizuki,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-64,64,Shelgon,80,Colorless,Bagon,Stage1,Uncommon,Kouki Saitou,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-65,65,Skiploom,60,Grass,Hoppip,Stage1,Uncommon,Masakazu Fukuda,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-66,66,Smeargle,70,Colorless,,Basic,Uncommon,Masakazu Fukuda,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-67,67,Smoochum,50,Psychic,,Basic,Uncommon,Atsuko Nishida,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-68,68,Unown K,60,Psychic,,Basic,Uncommon,Daisuke Ito,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-69,69,Unown N,50,Psychic,,Basic,Uncommon,Daisuke Ito,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-70,70,Unown O,50,Psychic,,Basic,Uncommon,Daisuke Ito,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-71,71,Unown X,50,Psychic,,Basic,Uncommon,Kazuyuki Kano,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-72,72,Unown Z,50,Psychic,,Basic,Uncommon,Kazuyuki Kano,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-73,73,Venomoth,80,Grass,Venonat,Stage1,Uncommon,Mitsuhiro Arita,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-74,74,Vibrava,80,Fighting,Trapinch,Stage1,Uncommon,Kouki Saitou,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-75,75,Wartortle,80,Water,Squirtle,Stage1,Uncommon,Ken Sugimori,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-76,76,Bagon,50,Colorless,,Basic,Common,Atsuko Nishida,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-77,77,Bulbasaur,60,Grass,,Basic,Common,Kouki Saitou,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-78,78,Burmy Plant Cloak,40,Grass,,Basic,Common,Kouki Saitou,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-79,79,Burmy Sandy Cloak,40,Grass,,Basic,Common,Midori Harada,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-80,80,Burmy Trash Cloak,40,Grass,,Basic,Common,Ken Sugimori,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-81,81,Carvanha,50,Darkness,,Basic,Common,Masakazu Fukuda,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-82,82,Charmander,50,Fire,,Basic,Common,Masakazu Fukuda,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-83,83,Clefairy,60,Colorless,,Basic,Common,Lee HyunJung,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-84,84,Corsola,70,Water,,Basic,Common,Midori Harada,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-85,85,Diglett,50,Fighting,,Basic,Common,Takao Unno,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-86,86,Duskull,50,Psychic,,Basic,Common,Hiroki Fuchino,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-87,87,Electabuzz,70,Lightning,,Basic,Common,Masakazu Fukuda,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-88,88,Grimer,60,Psychic,,Basic,Common,Ken Sugimori,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-89,89,Growlithe,70,Fire,,Basic,Common,Kagemaru Himeno,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-90,90,Hoppip,30,Grass,,Basic,Common,Motofumi Fujiwara,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-91,91,Lickitung,80,Colorless,,Basic,Common,Ken Sugimori,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-92,92,Lotad,50,Water,,Basic,Common,Saya Tsuruta,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-93,93,Magmar,70,Fire,,Basic,Common,Ken Sugimori,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-94,94,Mareep,50,Lightning,,Basic,Common,Atsuko Nishida,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-95,95,Murkrow,50,Darkness,,Basic,Common,Yusuke Ohmura,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-96,96,Natu,40,Psychic,,Basic,Common,Midori Harada,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-97,97,Nidoran♂,60,Psychic,,Basic,Common,Mitsuhiro Arita,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-98,98,Phanpy,60,Fighting,,Basic,Common,Kouki Saitou,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-99,99,Pidgey,50,Colorless,,Basic,Common,Hironobu Yoshida,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-100,100,Psyduck,60,Water,,Basic,Common,Kagemaru Himeno,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-101,101,Qwilfish,70,Water,,Basic,Common,Kenkichi Toyama,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-102,102,Ralts,60,Psychic,,Basic,Common,Sumiyoshi Kizuki,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-103,103,Rattata,30,Colorless,,Basic,Common,Mitsuhiro Arita,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-104,104,Sentret,60,Colorless,,Basic,Common,Midori Harada,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-105,105,Shellder,50,Water,,Basic,Common,Ken Sugimori,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-106,106,Shellos East Sea,60,Water,,Basic,Common,Ken Sugimori,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-107,107,Shellos West Sea,60,Water,,Basic,Common,Ken Sugimori,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-108,108,Shroomish,50,Grass,,Basic,Common,Midori Harada,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-109,109,Shuckle,60,Grass,,Basic,Common,Emi Yoshida,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-110,110,Shuppet,50,Psychic,,Basic,Common,Kagemaru Himeno,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-111,111,Spinda,70,Colorless,,Basic,Common,Atsuko Nishida,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-112,112,Squirtle,50,Water,,Basic,Common,Kagemaru Himeno,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-113,113,Stantler,70,Colorless,,Basic,Common,Kouki Saitou,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-114,114,Sunkern,40,Grass,,Basic,Common,Midori Harada,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-115,115,Trapinch,50,Fighting,,Basic,Common,Sumiyoshi Kizuki,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-116,116,Venonat,50,Grass,,Basic,Common,Ken Sugimori,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-117,117,Voltorb,50,Lightning,,Basic,Common,Satoshi Ohta,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-118,118,Wooper,60,Water,,Basic,Common,Masakazu Fukuda,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-119,119,Bebe's Search,,,,,Uncommon,Ken Sugimori,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-120,120,Night Maintenance,,,,,Uncommon,Ryo Ueda,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-121,121,PlusPower,,,,,Uncommon,Ryo Ueda,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-122,122,Professor Oak's Visit,,,,,Uncommon,Ken Sugimori,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-123,123,Professor Rowan,,,,,Uncommon,Ken Sugimori,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-124,124,Rival,,,,,Uncommon,Ken Sugimori,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-125,125,Roseanne's Research,,,,,Uncommon,Kanako Eo,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-126,126,Team Galactic's Mars,,,,,Uncommon,Ken Sugimori,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-127,127,Potion,,,,,Common,Shin-ichi Yoshikawa,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-128,128,Switch,,,,,Common,Ryo Ueda,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-129,129,Darkness Energy,,,,,Uncommon,Takumi Akabane,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-130,130,Metal Energy,,,,,Uncommon,Takumi Akabane,"normal, reverse",Secret Wonders,Diamond & Pearl,132
+dp3-131,131,Gardevoir,130,Psychic,,LEVEL-UP,Rare Holo LV.X,Ryo Ueda,"normal, holo",Secret Wonders,Diamond & Pearl,132
+dp3-132,132,Honchkrow,110,Darkness,,LEVEL-UP,Rare Holo LV.X,Ryo Ueda,holo,Secret Wonders,Diamond & Pearl,132

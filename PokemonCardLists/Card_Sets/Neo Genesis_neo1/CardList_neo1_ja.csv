@@ -1,0 +1,97 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+neo1-001,001,奇妙な,40,Grass,,Basic,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-002,002,チコリータ,40,Grass,,Basic,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-003,003,レディバ,40,Grass,,Basic,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-004,004,スパラク,40,Grass,,Basic,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-005,005,ホッピップ,50,Grass,,Basic,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-006,006,サンカーン,40,Grass,,Basic,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-007,007,シャックル,50,Grass,,Basic,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-008,008,暗闇,60,Grass,,Stage1,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-009,009,Bayleef,80,Grass,,Stage1,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-010,010,レディアン,60,Grass,,Stage1,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-011,011,アリアドス,60,Grass,,Stage1,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-012,012,スキプルーム,60,Grass,,Stage1,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-013,013,サンフロラ,70,Grass,,Stage1,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-014,014,ミーガニウム,100,Grass,,Stage2,Holo Rare,,holo,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-015,015,Bellossom,70,Grass,,Stage2,Holo Rare,,holo,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-016,016,ジャンプラフ,70,Grass,,Stage2,Holo Rare,,holo,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-017,017,ヘラクロス,60,Grass,,Basic,Holo Rare,,holo,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-018,018,シンダキル,50,Fire,,Basic,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-019,019,マグマー,70,Fire,,Basic,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-020,020,キラバ,70,Fire,,Stage1,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-021,021,染色,100,Fire,,Stage2,Holo Rare,,holo,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-022,022,マグビー,30,Fire,,Baby,Rare,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-023,023,馬,50,Water,,Basic,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-024,024,totodile,50,Water,,Basic,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-025,025,マリル,40,Water,,Basic,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-026,026,ウーパー,50,Water,,Basic,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-027,027,swinub,40,Water,,Basic,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-028,028,マンティン,60,Water,,Basic,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-029,029,シードラ,70,Water,,Stage1,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-030,030,クロコノー,70,Water,,Stage1,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-031,031,quagsire,70,Water,,Stage1,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-032,032,ピロスワイン,80,Water,,Stage1,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-033,033,feraligatr,100,Water,,Stage2,Holo Rare,,holo,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-034,034,アズマリル,70,Water,,Stage1,Holo Rare,,holo,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-035,035,キングドラ,90,Water,,Stage2,Holo Rare,,holo,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-036,036,ピカチュウ,50,Lightning,,Basic,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-037,037,チンチョウ,50,Lightning,,Basic,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-038,038,Mareep,40,Lightning,,Basic,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-039,039,Electabuzz,70,Lightning,,Basic,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-040,040,ラントン,70,Lightning,,Stage1,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-041,041,フラフィー,60,Lightning,,Stage1,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-042,042,ピチュ,30,Lightning,,Baby,Holo Rare,,holo,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-043,043,アンファロス,80,Lightning,,Stage2,Holo Rare,,holo,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-044,044,Elekid,30,Lightning,,Baby,Rare,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-045,045,slowpoke,40,Psychic,,Basic,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-046,046,natu,30,Psychic,,Basic,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-047,047,Girafarig,60,Psychic,,Basic,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-048,048,xatu,80,Psychic,,Stage1,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-049,049,スローキング,80,Psychic,,Stage1,Holo Rare,,holo,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-050,050,onix,60,Fighting,,Basic,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-051,051,sudowoodo,60,Fighting,,Basic,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-052,052,グリガー,60,Fighting,,Basic,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-053,053,ファンピー,40,Fighting,,Basic,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-054,054,ドンファン,70,Fighting,,Stage1,Rare,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-055,055,マークロウ,50,Darkness,,Basic,Rare,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-056,056,スニーエル,60,Darkness,,Basic,Rare,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-057,057,Steelix,110,Metal,,Stage1,Holo Rare,,holo,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-058,058,スカルモリー,60,Metal,,Basic,Holo Rare,,holo,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-059,059,セントレット,40,Colorless,,Basic,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-060,060,hoothoot,50,Colorless,,Basic,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-061,061,Snubbull,50,Colorless,,Basic,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-062,062,スタントラー,60,Colorless,,Basic,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-063,063,クリーフ,50,Colorless,,Basic,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-064,064,Furret,60,Colorless,,Stage1,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-065,065,ノクトウル,60,Colorless,,Stage1,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-066,066,togepi,40,Colorless,,Basic,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-067,067,aipom,40,Colorless,,Basic,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-068,068,グランブル,70,Colorless,,Stage1,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-069,069,ミルタンク,70,Colorless,,Basic,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-070,070,クレファ,30,Colorless,,Baby,Rare,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-071,071,togetic,60,Colorless,,Stage1,Holo Rare,,holo,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-072,072,ルギア,90,Colorless,,Basic,Holo Rare,,holo,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-073,073,ベリー,,,,,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-074,074,スーパーロッド,,,,,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-075,075,二重突風,,,,,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-076,076,ポケモンマーチ,,,,,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-077,077,Moomooミルク,,,,,Common,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-078,078,エルム教授,,,,,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-079,079,ゴールドベリー,,,,,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-080,080,カードフリップゲーム,,,,,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-081,081,ミラクルベリー,,,,,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-082,082,新しいpokedex,,,,,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-083,083,スーパースクープアップ,,,,,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-084,084,ビルのテレポーター,,,,,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-085,085,スプラウトタワー,,,,,Uncommon,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-086,086,ecogym,,,,,Rare,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-087,087,エネルギー電荷,,,,,Rare,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-088,088,フォーカスバンド,,,,,Rare,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-089,089,メアリー,,,,,Rare,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-090,090,アーケードゲーム,,,,,Rare,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-091,091,タイムカプセル,,,,,Rare,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-092,092,スーパーエネルギー検索,,,,,Rare,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-093,093,ポクギア,,,,,Rare,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-094,094,闇のエネルギー,,,,,Rare,,normal,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-095,095,金属エネルギー,,,,,Holo Rare,,holo,金、銀、新世界へ...,ポケモンカード★neo,96
+neo1-096,096,エネルギーをリサイクルします,,,,,Rare,,normal,金、銀、新世界へ...,ポケモンカード★neo,96

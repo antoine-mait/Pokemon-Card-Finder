@@ -1,0 +1,272 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sm12-1,1,Venusaur & Snivy GX,270,Grass,,,Ultra Rare,Mitsuhiro Arita,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-2,2,Oddish,60,Grass,,Basic,Common,Yumi,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-3,3,Gloom,80,Grass,Oddish,Stage1,Uncommon,sui,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-4,4,Vileplume GX,240,Grass,Gloom,,Ultra Rare,Kagemaru Himeno,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-5,5,Tangela,70,Grass,,Basic,Common,otumami,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-6,6,Tangrowth,140,Grass,Tangela,Stage1,Uncommon,nagimiso,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-7,7,Sunkern,50,Grass,,Basic,Common,0313,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-8,8,Sunflora,90,Grass,Sunkern,Stage1,Rare,Yumi,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-9,9,Heracross,130,Grass,,Basic,Uncommon,Satoshi Shirai,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-10,10,Lileep,90,Grass,Unidentified Fossil,Stage1,Uncommon,Misa Tsutsui,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-11,11,Cradily,150,Grass,Lileep,Stage2,Rare,otumami,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-12,12,Tropius,120,Grass,,Basic,Uncommon,sowsow,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-13,13,Kricketot,60,Grass,,Basic,Common,Ken Sugimori,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-14,14,Kricketune,100,Grass,Kricketot,Stage1,Uncommon,Anesaki Dynamic,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-15,15,Deerling,60,Grass,,Basic,Common,Shibuzoh.,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-16,16,Sawsbuck,100,Grass,Deerling,Stage1,Rare,sui,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-17,17,Rowlet,50,Grass,,Basic,Common,Yuka Morii,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-18,18,Rowlet,60,Grass,,Basic,Common,Saya Tsuruta,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-19,19,Dartrix,80,Grass,Rowlet,Stage1,Uncommon,Akira Komayama,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-20,20,Decidueye,140,Grass,Dartrix,Stage2,Rare,kawayoo,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-21,21,Buzzwole,130,Grass,,Basic,Rare,Anesaki Dynamic,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-22,22,Charizard & Braixen GX,270,Fire,,,Ultra Rare,Mitsuhiro Arita,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-23,23,Ponyta,70,Fire,,Basic,Common,Uta,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-24,24,Rapidash,100,Fire,Ponyta,Stage1,Uncommon,Misa Tsutsui,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-25,25,Flareon,110,Fire,Eevee,Stage1,Uncommon,AKIRA EGAWA,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-26,26,Slugma,80,Fire,,Basic,Common,Ken Sugimori,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-27,27,Magcargo,120,Fire,Slugma,Stage1,Rare,Miki Tanaka,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-28,28,Entei,130,Fire,,Basic,Rare,Shin Nagasawa,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-29,29,Torkoal,110,Fire,,Basic,Uncommon,0313,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-30,30,Victini,70,Fire,,Basic,Rare,Saya Tsuruta,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-31,31,Tepig,80,Fire,,Basic,Common,Mina Nakai,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-32,32,Pignite,110,Fire,Tepig,Stage1,Uncommon,Naoyo Kimura,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-33,33,Emboar,170,Fire,Pignite,Stage2,Rare,kawayoo,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-34,34,Larvesta,80,Fire,,Basic,Uncommon,Midori Harada,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-35,35,Volcarona GX,210,Fire,Larvesta,,Ultra Rare,Hiroyuki Yamamoto,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-36,36,Litleo,70,Fire,,Basic,Common,HYOGONOSUKE,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-37,37,Pyroar,130,Fire,Litleo,Stage1,Uncommon,KEIICHIRO ITO,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-38,38,Blastoise & Piplup GX,270,Water,,,Ultra Rare,Mitsuhiro Arita,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-39,39,Alolan Vulpix,60,Water,,Basic,Common,nagimiso,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-40,40,Psyduck,60,Water,,Basic,Common,sui,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-41,41,Golduck,110,Water,Psyduck,Stage1,Uncommon,Shigenori Negishi,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-42,42,Vaporeon,110,Water,Eevee,Stage1,Uncommon,sui,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-43,43,Sneasel,70,Water,,Basic,Common,ryoma uratsuka,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-44,44,Weavile,90,Water,Sneasel,Stage1,Rare,MAHOU,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-45,45,Wailmer,120,Water,,Basic,Common,Tomokazu Komiya,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-46,46,Wailord,200,Water,Wailmer,Stage1,Rare,Kyoko Umemoto,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-47,47,Snorunt,60,Water,,Basic,Common,sowsow,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-48,48,Glalie,120,Water,Snorunt,Stage1,Rare,Uta,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-49,49,Spheal,60,Water,,Basic,Common,sui,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-50,50,Spheal,70,Water,,Basic,Common,SATOSHI NAKAI,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-51,51,Sealeo,100,Water,Spheal,Stage1,Uncommon,miki kudo,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-52,52,Walrein,160,Water,Sealeo,Stage2,Rare,Ayaka Yoshida,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-53,53,Kyogre,130,Water,,Basic,Rare,kawayoo,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-54,54,Piplup,60,Water,,Basic,Common,Suwama Chiaki,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-55,55,Prinplup,80,Water,Piplup,Stage1,Uncommon,Hasuno,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-56,56,Empoleon,160,Water,Prinplup,Stage2,Rare,Masakazu Fukuda,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-57,57,Phione,70,Water,,Basic,Rare,AKIRA EGAWA,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-58,58,Tympole,60,Water,,Basic,Common,Asako Ito,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-59,59,Ducklett,60,Water,,Basic,Common,Yumi,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-60,60,Swanna,110,Water,Ducklett,Stage1,Rare,Yukiko Baba,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-61,61,Black Kyurem,130,Water,,Basic,Rare,Kouki Saitou,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-62,62,Wishiwashi,180,Water,,Basic,Rare,kawayoo,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-63,63,Wishiwashi GX,130,Water,,,Ultra Rare,sadaji,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-64,64,Dewpider,60,Water,,Basic,Common,Shibuzoh.,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-65,65,Araquanid,100,Water,Dewpider,Stage1,Uncommon,Tomokazu Komiya,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-66,66,Pikachu,70,Lightning,,Basic,Common,Naoyo Kimura,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-67,67,Raichu,120,Lightning,Pikachu,Stage1,Rare,AKIRA EGAWA,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-68,68,Magnemite,60,Lightning,,Basic,Common,Suwama Chiaki,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-69,69,Magneton,80,Lightning,Magnemite,Stage1,Rare,Eske Yoshinob,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-70,70,Jolteon,100,Lightning,Eevee,Stage1,Uncommon,Uta,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-71,71,Chinchou,60,Lightning,,Basic,Common,Sekio,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-72,72,Lanturn,110,Lightning,Chinchou,Stage1,Rare,otumami,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-73,73,Togedemaru,80,Lightning,,Basic,Uncommon,sowsow,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-74,74,Togedemaru,70,Lightning,,Basic,Common,Misa Tsutsui,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-75,75,Solgaleo & Lunala GX,270,Psychic,,,Ultra Rare,Hideki Ishikawa,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-76,76,Koffing,60,Psychic,,Basic,Common,Naoyo Kimura,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-77,77,Weezing,100,Psychic,Koffing,Stage1,Rare,Motofumi Fujiwara,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-78,78,Natu,60,Psychic,,Basic,Common,tetsuya koizumi,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-79,79,Xatu,80,Psychic,Natu,Stage1,Rare,Anesaki Dynamic,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-80,80,Ralts,60,Psychic,,Basic,Common,Atsuko Nishida,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-81,81,Kirlia,80,Psychic,Ralts,Stage1,Uncommon,sowsow,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-82,82,Gallade,160,Psychic,Kirlia,Stage2,Rare,Misa Tsutsui,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-83,83,Duskull,40,Psychic,,Basic,Common,ryoma uratsuka,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-84,84,Dusclops,90,Psychic,Duskull,Stage1,Uncommon,Suwama Chiaki,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-85,85,Dusknoir,160,Psychic,Dusclops,Stage2,Rare,Eske Yoshinob,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-86,86,Rotom,70,Psychic,,Basic,Uncommon,Mina Nakai,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-87,87,Woobat,60,Psychic,,Basic,Common,Shibuzoh.,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-88,88,Swoobat,90,Psychic,Woobat,Stage1,Rare,Tomokazu Komiya,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-89,89,Golett,90,Psychic,,Basic,Common,Shigenori Negishi,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-90,90,Golurk,140,Psychic,Golett,Stage1,Rare,Ayaka Yoshida,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-91,91,Skrelp,60,Psychic,,Basic,Common,sui,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-92,92,Dragalge,120,Psychic,Skrelp,Stage1,Rare,Midori Harada,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-93,93,Phantump,60,Psychic,,Basic,Common,miki kudo,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-94,94,Trevenant,120,Psychic,Phantump,Stage1,Rare,Shin Nagasawa,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-95,95,Oricorio GX,170,Psychic,,,Ultra Rare,aky CG Works,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-96,96,Mimikyu,70,Psychic,,Basic,Uncommon,HYOGONOSUKE,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-97,97,Mimikyu,70,Psychic,,Basic,Rare,Yuka Morii,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-98,98,Dhelmise,130,Psychic,,Basic,Uncommon,Midori Harada,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-99,99,Cosmog,50,Psychic,,Basic,Common,Mizue,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-100,100,Cosmog,60,Psychic,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-101,101,Cosmoem,90,Psychic,Cosmog,Stage1,Uncommon,Aya Kusube,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-102,102,Lunala,160,Psychic,Cosmoem,Stage2,Rare,Shin Nagasawa,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-103,103,Marshadow,60,Psychic,,Basic,Rare,0313,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-104,104,Blacephalon,110,Psychic,,Basic,Rare,Hasuno,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-105,105,Onix,110,Fighting,,Basic,Common,otumami,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-106,106,Nosepass,80,Fighting,,Basic,Common,Anesaki Dynamic,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-107,107,Trapinch,50,Fighting,,Basic,Common,sowsow,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-108,108,Trapinch,60,Fighting,,Basic,Common,Midori Harada,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-109,109,Vibrava,80,Fighting,Trapinch,Stage1,Uncommon,SATOSHI NAKAI,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-110,110,Flygon GX,240,Fighting,Vibrava,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-111,111,Anorith,90,Fighting,Unidentified Fossil,Stage1,Uncommon,Sumiyoshi Kizuki,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-112,112,Armaldo,150,Fighting,Anorith,Stage2,Rare,Ayaka Yoshida,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-113,113,Groudon,130,Fighting,,Basic,Rare,Shin Nagasawa,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-114,114,Drilbur,70,Fighting,,Basic,Common,Suwama Chiaki,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-115,115,Excadrill,140,Fighting,Drilbur,Stage1,Rare,SATOSHI NAKAI,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-116,116,Palpitoad,90,Fighting,Tympole,Stage1,Common,Ken Sugimori,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-117,117,Seismitoad,160,Fighting,Palpitoad,Stage2,Rare,Shigenori Negishi,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-118,118,Throh,120,Fighting,,Basic,Uncommon,Ken Sugimori,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-119,119,Pancham,70,Fighting,,Basic,Common,Motofumi Fujiwara,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-120,120,Pangoro,130,Fighting,Pancham,Stage1,Uncommon,Shin Nagasawa,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-121,121,Crabrawler,80,Fighting,,Basic,Common,Miki Tanaka,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-122,122,Crabominable,140,Fighting,Crabrawler,Stage1,Rare,tetsuya koizumi,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-123,123,Rockruff,60,Fighting,,Basic,Common,Saya Tsuruta,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-124,124,Lycanroc,120,Fighting,Rockruff,Stage1,Rare,so-taro,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-125,125,Passimian,110,Fighting,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-126,126,Sandygast,80,Fighting,,Basic,Common,Yukiko Baba,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-127,127,Palossand,140,Fighting,Sandygast,Stage1,Rare,OOYAMA,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-128,128,Alolan Meowth,70,Darkness,,Basic,Common,Sekio,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-129,129,Alolan Persian GX,200,Darkness,Alolan Meowth,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-130,130,Alolan Grimer,80,Darkness,,Basic,Common,Sekio,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-131,131,Alolan Muk,140,Darkness,Alolan Grimer,Stage1,Rare,MAHOU,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-132,132,Carvanha,50,Darkness,,Basic,Common,Hasuno,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-133,133,Absol,100,Darkness,,Basic,Uncommon,Mizue,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-134,134,Pawniard,60,Darkness,,Basic,Common,Ken Sugimori,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-135,135,Bisharp,120,Darkness,Pawniard,Stage1,Uncommon,SATOSHI NAKAI,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-136,136,Guzzlord,150,Darkness,,Basic,Rare,Kouki Saitou,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-137,137,Alolan Sandshrew,60,Metal,,Basic,Common,ryoma uratsuka,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-138,138,Alolan Sandslash,120,Metal,Alolan Sandshrew,Stage1,Rare,Hasuno,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-139,139,Steelix,170,Metal,Onix,Stage1,Rare,KEIICHIRO ITO,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-140,140,Mawile,70,Metal,,Basic,Uncommon,kodama,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-141,141,Probopass,130,Metal,Nosepass,Stage1,Uncommon,Masakazu Fukuda,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-142,142,Solgaleo,170,Metal,Cosmoem,Stage2,Rare,Misa Tsutsui,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-143,143,Togepi & Cleffa & Igglybuff GX,240,Fairy,,,Ultra Rare,Mitsuhiro Arita,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-144,144,Clefairy,50,Fairy,,Basic,Uncommon,Mina Nakai,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-145,145,Alolan Ninetales,110,Fairy,Alolan Vulpix,Stage1,Rare,Eri Yamaki,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-146,146,Azurill,60,Fairy,,Basic,Common,Asako Ito,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-147,147,Cottonee,40,Fairy,,Basic,Common,Pani Kobayashi,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-148,148,Whimsicott,70,Fairy,Cottonee,Stage1,Rare,Yumi,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-149,149,Flabébé,30,Fairy,,Basic,Common,tetsuya koizumi,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-150,150,Flabébé,40,Fairy,,Basic,Common,Atsuko Nishida,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-151,151,Floette,70,Fairy,Flabébé,Stage1,Uncommon,miki kudo,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-152,152,Florges,130,Fairy,Floette,Stage2,Rare,Akira Komayama,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-153,153,Swirlix,60,Fairy,,Basic,Common,MAHOU,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-154,154,Slurpuff,110,Fairy,Swirlix,Stage1,Rare,Kyoko Umemoto,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-155,155,Sylveon,110,Fairy,Eevee,Stage1,Rare,Naoyo Kimura,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-156,156,Arceus & Dialga & Palkia GX,280,Dragon,,,Ultra Rare,Mitsuhiro Arita,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-157,157,Reshiram & Zekrom GX,270,Dragon,,,Ultra Rare,Naoki Saito,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-158,158,Naganadel & Guzzlord GX,280,Dragon,,,Ultra Rare,Mitsuhiro Arita,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-159,159,Drampa,120,Dragon,,Basic,Rare,Naoki Saito,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-160,160,Jangmo-o,60,Dragon,,Basic,Common,AKIRA EGAWA,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-161,161,Jangmo-o,70,Dragon,,Basic,Common,Tomokazu Komiya,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-162,162,Hakamo-o,80,Dragon,Jangmo-o,Stage1,Uncommon,Ryuta Fuse,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-163,163,Kommo-o,160,Dragon,Hakamo-o,Stage2,Rare,hatachu,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-164,164,Ultra Necrozma,110,Dragon,,Basic,Rare,Hasuno,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-165,165,Mega Lopunny & Jigglypuff GX,240,Colorless,,,Ultra Rare,Mitsuhiro Arita,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-166,166,Eevee,60,Colorless,,Basic,Common,Motofumi Fujiwara,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-167,167,Eevee,60,Colorless,,Basic,Common,Hasuno,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-168,168,Igglybuff,60,Colorless,,Basic,Uncommon,Kagemaru Himeno,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-169,169,Aipom,60,Colorless,,Basic,Common,Miki Tanaka,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-170,170,Ambipom,100,Colorless,Aipom,Stage1,Uncommon,Sumiyoshi Kizuki,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-171,171,Teddiursa,60,Colorless,,Basic,Common,kodama,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-172,172,Ursaring,140,Colorless,Teddiursa,Stage1,Rare,Hiroki Asanuma,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-173,173,Zangoose,100,Colorless,,Basic,Uncommon,tetsuya koizumi,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-174,174,Lillipup,60,Colorless,,Basic,Common,Sekio,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-175,175,Herdier,100,Colorless,Lillipup,Stage1,Uncommon,Shigenori Negishi,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-176,176,Stoutland,150,Colorless,Herdier,Stage2,Rare,Masakazu Fukuda,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-177,177,Rufflet,60,Colorless,,Basic,Common,Ken Sugimori,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-178,178,Braviary,130,Colorless,Rufflet,Stage1,Rare,chibi,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-179,179,Helioptile,60,Colorless,,Basic,Common,Sekio,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-180,180,Heliolisk,100,Colorless,Helioptile,Stage1,Rare,Kyoko Umemoto,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-181,181,Stufful,80,Colorless,,Basic,Common,Shigenori Negishi,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-182,182,Bewear,120,Colorless,Stufful,Stage1,Rare,Akira Komayama,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-183,183,Type: Null,110,Colorless,,Basic,Uncommon,KEIICHIRO ITO,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-184,184,Silvally GX,210,Colorless,Type: Null,,Ultra Rare,Megumi Mizutani,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-185,185,Beastite,,,,,Uncommon,inose yukie,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-186,186,Bellelba & Brycen-Man,,,,,Uncommon,Hideki Ishikawa,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-187,187,Chaotic Swell,,,,,Uncommon,Ryo Ueda,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-188,188,Clay,,,,,Uncommon,Yusuke Ohmura,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-189,189,Cynthia & Caitlin,,,,,Uncommon,Ken Sugimori Yusuke Ohmura,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-190,190,Dragonium Z: Dragon Claw,,,,,Uncommon,aky CG Works,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-191,191,Erika,,,,,Uncommon,Megumi Mizutani,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-192,192,Great Catcher,,,,,Uncommon,Studio Bora Inc.,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-193,193,Guzma & Hala,,,,,Uncommon,Ken Sugimori,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-194,194,Island Challenge Amulet,,,,,Uncommon,sadaji,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-195,195,Lana’s Fishing Rod,,,,,Uncommon,Eske Yoshinob,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-196,196,Lillie’s Full Force,,,,,Uncommon,kodama,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-197,197,Lillie’s Poké Doll,,,,,Uncommon,Studio Bora Inc.,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-198,198,Mallow & Lana,,,,,Uncommon,Ken Sugimori,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-199,199,Misty & Lorelei,,,,,Uncommon,Megumi Mizutani,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-200,200,N’s Resolve,,,,,Uncommon,Ryuta Fuse,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-201,201,Professor Oak’s Setup,,,,,Uncommon,Megumi Mizutani,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-202,202,Red & Blue,,,,,Uncommon,Megumi Mizutani,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-203,203,Roller Skater,,,,,Uncommon,Yusuke Ohmura,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-204,204,Rosa,,,,,Rare,Yusuke Ohmura,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-205,205,Roxie,,,,,Uncommon,Yusuke Ohmura,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-206,206,Tag Call,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-207,207,Unidentified Fossil,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-208,208,Will,,,,,Uncommon,Ken Sugimori,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-209,209,Draw Energy,,,,,Uncommon,,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-210,210,Venusaur & Snivy GX,270,Grass,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-211,211,Vileplume GX,240,Grass,Gloom,,Ultra Rare,Kagemaru Himeno,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-212,212,Charizard & Braixen GX,270,Fire,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-213,213,Volcarona GX,210,Fire,Larvesta,,Ultra Rare,PLANETA Tsuji,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-214,214,Blastoise & Piplup GX,270,Water,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-215,215,Blastoise & Piplup GX,270,Water,,,Ultra Rare,Akira Komayama,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-216,216,Solgaleo & Lunala GX,270,Psychic,,,Ultra Rare,Hideki Ishikawa,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-217,217,Oricorio GX,170,Psychic,,,Ultra Rare,PLANETA Tsuji,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-218,218,Flygon GX,240,Fighting,Vibrava,,Ultra Rare,PLANETA Tsuji,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-219,219,Alolan Persian GX,200,Darkness,Alolan Meowth,,Ultra Rare,PLANETA Tsuji,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-220,220,Arceus & Dialga & Palkia GX,280,Dragon,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-221,221,Arceus & Dialga & Palkia GX,280,Dragon,,,Ultra Rare,Kouki Saitou,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-222,222,Reshiram & Zekrom GX,270,Dragon,,,Ultra Rare,Naoki Saito,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-223,223,Naganadel & Guzzlord GX,280,Dragon,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-224,224,Naganadel & Guzzlord GX,280,Dragon,,,Ultra Rare,Aya Kusube,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-225,225,Mega Lopunny & Jigglypuff GX,240,Colorless,,,Ultra Rare,aky CG Works,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-226,226,Mega Lopunny & Jigglypuff GX,240,Colorless,,,Ultra Rare,Shibuzoh.,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-227,227,Silvally GX,210,Colorless,Type: Null,,Ultra Rare,Megumi Mizutani,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-228,228,Cynthia & Caitlin,,,,,Ultra Rare,Sakiko Maeda,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-229,229,Guzma & Hala,,,,,Ultra Rare,Junsei Kuninobu,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-230,230,Lillie’s Full Force,,,,,Ultra Rare,Noriko Uono,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-231,231,Mallow & Lana,,,,,Ultra Rare,kirisAki,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-232,232,N’s Resolve,,,,,Ultra Rare,Mana Ibe,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-233,233,Professor Oak’s Setup,,,,,Ultra Rare,Nabana Kensaku,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-234,234,Red & Blue,,,,,Ultra Rare,Hitoshi Ariga,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-235,235,Roller Skater,,,,,Ultra Rare,nagimiso,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-236,236,Rosa,,,,,Ultra Rare,kirisAki,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-237,237,Torkoal,110,Fire,,Basic,Secret Rare,Ryota Murayama,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-238,238,Weavile,90,Water,Sneasel,Stage1,Secret Rare,nagimiso,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-239,239,Piplup,60,Water,,Basic,Secret Rare,Tomomi Kaneko,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-240,240,Wishiwashi,180,Water,,Basic,Secret Rare,Misaki Hashimoto,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-241,241,Pikachu,70,Lightning,,Basic,Secret Rare,Hitoshi Ariga,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-242,242,Magnemite,60,Lightning,,Basic,Secret Rare,Fumie Kittaka,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-243,243,Koffing,60,Psychic,,Basic,Secret Rare,HYOGONOSUKE,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-244,244,Gallade,160,Psychic,Kirlia,Stage2,Secret Rare,Huang Tzu En,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-245,245,Mimikyu,70,Psychic,,Basic,Secret Rare,You Iribi,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-246,246,Excadrill,140,Fighting,Drilbur,Stage1,Secret Rare,Mitsuhiro Arita,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-247,247,Steelix,170,Metal,Onix,Stage1,Secret Rare,Avec Yoko,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-248,248,Stoutland,150,Colorless,Herdier,Stage2,Secret Rare,Mizue,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-249,249,Venusaur & Snivy GX,270,Grass,,Basic,Secret Rare,5ban Graphics,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-250,250,Vileplume GX,240,Grass,Gloom,Stage2,Secret Rare,Kagemaru Himeno,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-251,251,Charizard & Braixen GX,270,Fire,,Basic,Secret Rare,5ban Graphics,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-252,252,Volcarona GX,210,Fire,Larvesta,Stage1,Secret Rare,PLANETA Tsuji,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-253,253,Blastoise & Piplup GX,270,Water,,Basic,Secret Rare,5ban Graphics,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-254,254,Solgaleo & Lunala GX,270,Psychic,,Basic,Secret Rare,Hideki Ishikawa,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-255,255,Oricorio GX,170,Psychic,,Basic,Secret Rare,PLANETA Tsuji,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-256,256,Flygon GX,240,Fighting,Vibrava,Stage2,Secret Rare,PLANETA Tsuji,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-257,257,Alolan Persian GX,200,Darkness,Alolan Meowth,Stage1,Secret Rare,PLANETA Tsuji,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-258,258,Arceus & Dialga & Palkia GX,280,Dragon,,Basic,Secret Rare,5ban Graphics,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-259,259,Reshiram & Zekrom GX,270,Dragon,,Basic,Secret Rare,Naoki Saito,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-260,260,Naganadel & Guzzlord GX,280,Dragon,,Basic,Secret Rare,5ban Graphics,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-261,261,Mega Lopunny & Jigglypuff GX,240,Colorless,,Basic,Secret Rare,aky CG Works,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-262,262,Silvally GX,210,Colorless,Type: Null,Stage1,Secret Rare,Megumi Mizutani,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-263,263,Giant Hearth,,,,,Secret Rare,5ban Graphics,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-264,264,Great Catcher,,,,,Secret Rare,Studio Bora Inc.,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-265,265,Island Challenge Amulet,,,,,Secret Rare,sadaji,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-266,266,Lana’s Fishing Rod,,,,,Secret Rare,Eske Yoshinob,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-267,267,Lillie’s Poké Doll,,,,,Secret Rare,Studio Bora Inc.,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-268,268,Martial Arts Dojo,,,,,Secret Rare,5ban Graphics,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-269,269,Power Plant,,,,,Secret Rare,aky CG Works,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-270,270,Tag Call,,,,,Secret Rare,Toyste Beach,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271
+sm12-271,271,Draw Energy,,,,,Secret Rare,,"normal, reverse, holo",Cosmic Eclipse,Sun & Moon,271

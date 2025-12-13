@@ -1,0 +1,101 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+ex2-1,1,Armaldo,120,Combat,,Niveau 2,Rare,Mitsuhiro Arita,"reverse, holo",EX Tempête de sable,EX,100
+ex2-2,2,Cacturne,80,Plante,,Niveau 1,Rare,Atsuko Nishida,"reverse, holo",EX Tempête de sable,EX,100
+ex2-3,3,Vacilys,100,Plante,,Niveau 2,Rare,Midori Harada,"reverse, holo",EX Tempête de sable,EX,100
+ex2-4,4,Teraclope,70,Psy,,Niveau 1,Rare,Midori Harada,"reverse, holo",EX Tempête de sable,EX,100
+ex2-5,5,Pyroli,80,Feu,,Niveau 1,Rare,Midori Harada,"reverse, holo",EX Tempête de sable,EX,100
+ex2-6,6,Voltali,70,Électrique,,Niveau 1,Rare,Atsuko Nishida,"reverse, holo",EX Tempête de sable,EX,100
+ex2-7,7,Ludicolo,90,Eau,,Niveau 2,Rare,Tomokazu Komiya,"reverse, holo",EX Tempête de sable,EX,100
+ex2-8,8,Seleroc,60,Psy,,De base,Rare,Hajime Kusajima,"reverse, holo",EX Tempête de sable,EX,100
+ex2-9,9,Mysdibule,60,Métal,,De base,Rare,Mitsuhiro Arita,"reverse, holo",EX Tempête de sable,EX,100
+ex2-10,10,Tenefix,60,Obscurité,,De base,Rare,Hajime Kusajima,"reverse, holo",EX Tempête de sable,EX,100
+ex2-11,11,Seviper,80,Plante,,De base,Rare,Hajime Kusajima,"reverse, holo",EX Tempête de sable,EX,100
+ex2-12,12,Tengalice,120,Plante,,Niveau 2,Rare,Atsuko Nishida,"reverse, holo",EX Tempête de sable,EX,100
+ex2-13,13,Solaroc,70,Combat,,De base,Rare,Hajime Kusajima,"reverse, holo",EX Tempête de sable,EX,100
+ex2-14,14,Mangriff,70,Incolore,,De base,Rare,Kagemaru Himeno,"reverse, holo",EX Tempête de sable,EX,100
+ex2-15,15,Arcanin,80,Feu,,Niveau 1,Rare,Hajime Kusajima,"normal, reverse",EX Tempête de sable,EX,100
+ex2-16,16,Mentali,80,Psy,,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse",EX Tempête de sable,EX,100
+ex2-17,17,Akwakwak,70,Eau,,Niveau 1,Rare,Hajime Kusajima,"normal, reverse",EX Tempête de sable,EX,100
+ex2-18,18,Kecleon,60,Incolore,,De base,Rare,Kagemaru Himeno,"normal, reverse",EX Tempête de sable,EX,100
+ex2-19,19,Amonistar,110,Eau,,Niveau 2,Rare,Kouki Saitou,"normal, reverse",EX Tempête de sable,EX,100
+ex2-20,20,Pichu,40,Électrique,,De base,Rare,Naoyo Kimura,"normal, reverse",EX Tempête de sable,EX,100
+ex2-21,21,Sablaireau,70,Combat,,Niveau 1,Rare,Kouki Saitou,"normal, reverse",EX Tempête de sable,EX,100
+ex2-22,22,Tengalice,120,Plante,,Niveau 2,Rare,Ken Sugimori,"normal, reverse",EX Tempête de sable,EX,100
+ex2-23,23,Steelix,100,Métal,,Niveau 1,Rare,Midori Harada,"normal, reverse",EX Tempête de sable,EX,100
+ex2-24,24,Noctali,80,Obscurité,,Niveau 1,Rare,Kagemaru Himeno,"normal, reverse",EX Tempête de sable,EX,100
+ex2-25,25,Aquali,70,Eau,,Niveau 1,Rare,Hajime Kusajima,"normal, reverse",EX Tempête de sable,EX,100
+ex2-26,26,Qulbutoké,80,Psy,,De base,Rare,Atsuko Nishida,"normal, reverse",EX Tempête de sable,EX,100
+ex2-27,27,Anorith,80,Combat,,Niveau 1,Peu Commune,Mitsuhiro Arita,"normal, reverse",EX Tempête de sable,EX,100
+ex2-28,28,Anorith,80,Combat,,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse",EX Tempête de sable,EX,100
+ex2-29,29,Arbok,70,Plante,,Niveau 1,Peu Commune,Midori Harada,"normal, reverse",EX Tempête de sable,EX,100
+ex2-30,30,Azumarill,70,Eau,,Niveau 1,Peu Commune,Mitsuhiro Arita,"normal, reverse",EX Tempête de sable,EX,100
+ex2-31,31,Azurill,40,Incolore,,De base,Peu Commune,Kagemaru Himeno,"normal, reverse",EX Tempête de sable,EX,100
+ex2-32,32,Balbuto,50,Combat,,De base,Peu Commune,Midori Harada,"normal, reverse",EX Tempête de sable,EX,100
+ex2-33,33,Chapignon,70,Plante,,Niveau 1,Peu Commune,Atsuko Nishida,"normal, reverse",EX Tempête de sable,EX,100
+ex2-34,34,Delcatty,80,Incolore,,Niveau 1,Peu Commune,Midori Harada,"normal, reverse",EX Tempête de sable,EX,100
+ex2-35,35,Elektek,60,Électrique,,De base,Peu Commune,Kouki Saitou,"normal, reverse",EX Tempête de sable,EX,100
+ex2-36,36,Elekid,40,Électrique,,De base,Peu Commune,Kouki Saitou,"normal, reverse",EX Tempête de sable,EX,100
+ex2-37,37,Rapasdepic,70,Incolore,,Niveau 1,Peu Commune,Aya Kusube,"normal, reverse",EX Tempête de sable,EX,100
+ex2-38,38,Lumivole,60,Plante,,De base,Peu Commune,Kyoko Umemoto,"normal, reverse",EX Tempête de sable,EX,100
+ex2-39,39,Kabuto,60,Eau,,Niveau 1,Peu Commune,Atsuko Nishida,"normal, reverse",EX Tempête de sable,EX,100
+ex2-40,40,Kirlia,70,Psy,,Niveau 1,Peu Commune,Hajime Kusajima,"normal, reverse",EX Tempête de sable,EX,100
+ex2-41,41,Galegon,70,Métal,,Niveau 1,Peu Commune,Atsuko Nishida,"normal, reverse",EX Tempête de sable,EX,100
+ex2-42,42,Lilia,80,Plante,,Niveau 1,Peu Commune,Midori Harada,"normal, reverse",EX Tempête de sable,EX,100
+ex2-43,43,Lilia,80,Plante,,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse",EX Tempête de sable,EX,100
+ex2-44,44,Lineon,70,Incolore,,Niveau 1,Peu Commune,Mitsuhiro Arita,"normal, reverse",EX Tempête de sable,EX,100
+ex2-45,45,Lombre,60,Eau,,Niveau 1,Peu Commune,Tomokazu Komiya,"normal, reverse",EX Tempête de sable,EX,100
+ex2-46,46,Lombre,70,Eau,,Niveau 1,Peu Commune,Mitsuhiro Arita,"normal, reverse",EX Tempête de sable,EX,100
+ex2-47,47,Cornèbre,60,Obscurité,,De base,Peu Commune,Mitsuhiro Arita,"normal, reverse",EX Tempête de sable,EX,100
+ex2-48,48,Pifeuil,80,Plante,,Niveau 1,Peu Commune,Atsuko Nishida,"normal, reverse",EX Tempête de sable,EX,100
+ex2-49,49,Pifeuil,80,Plante,,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse",EX Tempête de sable,EX,100
+ex2-50,50,Bekipan,70,Eau,,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, reverse",EX Tempête de sable,EX,100
+ex2-51,51,Feurisson,80,Feu,,Niveau 1,Peu Commune,Naoyo Kimura,"normal, reverse",EX Tempête de sable,EX,100
+ex2-52,52,Vigoroth,70,Incolore,,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse",EX Tempête de sable,EX,100
+ex2-53,53,Muciole,60,Plante,,De base,Peu Commune,Kyoko Umemoto,"normal, reverse",EX Tempête de sable,EX,100
+ex2-54,54,Okeoke,50,Psy,,De base,Peu Commune,Kagemaru Himeno,"normal, reverse",EX Tempête de sable,EX,100
+ex2-55,55,Xatu,70,Psy,,Niveau 1,Peu Commune,Midori Harada,"normal, reverse",EX Tempête de sable,EX,100
+ex2-56,56,Galekid,50,Métal,,De base,Commune,Atsuko Nishida,"normal, reverse",EX Tempête de sable,EX,100
+ex2-57,57,Cacnea,50,Plante,,De base,Commune,Atsuko Nishida,"normal, reverse",EX Tempête de sable,EX,100
+ex2-58,58,Cacnea,50,Plante,,De base,Commune,Midori Harada,"normal, reverse",EX Tempête de sable,EX,100
+ex2-59,59,Héricendre,50,Feu,,De base,Commune,Naoyo Kimura,"normal, reverse",EX Tempête de sable,EX,100
+ex2-60,60,Insolourdo,50,Incolore,,De base,Commune,Mitsuhiro Arita,"normal, reverse",EX Tempête de sable,EX,100
+ex2-61,61,Skelenox,40,Psy,,De base,Commune,Midori Harada,"normal, reverse",EX Tempête de sable,EX,100
+ex2-62,62,Skelenox,40,Psy,,De base,Commune,Aya Kusube,"normal, reverse",EX Tempête de sable,EX,100
+ex2-63,63,Evoli,50,Incolore,,De base,Commune,Kouki Saitou,"normal, reverse",EX Tempête de sable,EX,100
+ex2-64,64,Abo,50,Plante,,De base,Commune,Midori Harada,"normal, reverse",EX Tempête de sable,EX,100
+ex2-65,65,Caninos,50,Feu,,De base,Commune,Hajime Kusajima,"normal, reverse",EX Tempête de sable,EX,100
+ex2-66,66,Nenupiot,40,Eau,,De base,Commune,Tomokazu Komiya,"normal, reverse",EX Tempête de sable,EX,100
+ex2-67,67,Nenupiot,50,Eau,,De base,Commune,Mitsuhiro Arita,"normal, reverse",EX Tempête de sable,EX,100
+ex2-68,68,Marill,50,Eau,,De base,Commune,Mitsuhiro Arita,"normal, reverse",EX Tempête de sable,EX,100
+ex2-69,69,Natu,50,Psy,,De base,Commune,Kouki Saitou,"normal, reverse",EX Tempête de sable,EX,100
+ex2-70,70,Amonita,70,Eau,,Niveau 1,Commune,Kouki Saitou,"normal, reverse",EX Tempête de sable,EX,100
+ex2-71,71,Onix,80,Combat,,De base,Commune,Midori Harada,"normal, reverse",EX Tempête de sable,EX,100
+ex2-72,72,Pikachu,50,Électrique,,De base,Commune,Mitsuhiro Arita,"normal, reverse",EX Tempête de sable,EX,100
+ex2-73,73,Psykokwak,50,Eau,,De base,Commune,Kouki Saitou,"normal, reverse",EX Tempête de sable,EX,100
+ex2-74,74,Tarsal,50,Psy,,De base,Commune,Hajime Kusajima,"normal, reverse",EX Tempête de sable,EX,100
+ex2-75,75,Sabelette,50,Combat,,De base,Commune,Kouki Saitou,"normal, reverse",EX Tempête de sable,EX,100
+ex2-76,76,Grainipiot,40,Plante,,De base,Commune,Atsuko Nishida,"normal, reverse",EX Tempête de sable,EX,100
+ex2-77,77,Grainipiot,40,Plante,,De base,Commune,Ken Sugimori,"normal, reverse",EX Tempête de sable,EX,100
+ex2-78,78,Balignon,40,Plante,,De base,Commune,Ken Sugimori,"normal, reverse",EX Tempête de sable,EX,100
+ex2-79,79,Skitty,50,Incolore,,De base,Commune,Kagemaru Himeno,"normal, reverse",EX Tempête de sable,EX,100
+ex2-80,80,Parecool,40,Incolore,,De base,Commune,Ken Sugimori,"normal, reverse",EX Tempête de sable,EX,100
+ex2-81,81,Piafabec,40,Incolore,,De base,Commune,Aya Kusube,"normal, reverse",EX Tempête de sable,EX,100
+ex2-82,82,Kraknoix,40,Combat,,De base,Commune,Mitsuhiro Arita,"normal, reverse",EX Tempête de sable,EX,100
+ex2-83,83,Wailmer,80,Eau,,De base,Commune,Ken Sugimori,"normal, reverse",EX Tempête de sable,EX,100
+ex2-84,84,Goelise,40,Eau,,De base,Commune,Kagemaru Himeno,"normal, reverse",EX Tempête de sable,EX,100
+ex2-85,85,Zigzaton,40,Incolore,,De base,Commune,Mitsuhiro Arita,"normal, reverse",EX Tempête de sable,EX,100
+ex2-86,86,Double guérison totale,,,,,Peu Commune,Ryo Ueda,"normal, reverse",EX Tempête de sable,EX,100
+ex2-87,87,Annette surfe sur le net,,,,,Peu Commune,Ken Sugimori,"normal, reverse",EX Tempête de sable,EX,100
+ex2-88,88,Super bonbon,,,,,Peu Commune,Ryo Ueda,"normal, reverse",EX Tempête de sable,EX,100
+ex2-89,89,Timmy au dressage,,,,,Peu Commune,Ken Sugimori,"normal, reverse",EX Tempête de sable,EX,100
+ex2-90,90,Fossile griffe,40,,,,Commune,Ryo Ueda,"normal, reverse",EX Tempête de sable,EX,100
+ex2-91,91,Mystérieux fossile,10,,,,Commune,Keiji Kinebuchi,"normal, reverse",EX Tempête de sable,EX,100
+ex2-92,92,Fossile racine,40,,,,Commune,Ryo Ueda,"normal, reverse",EX Tempête de sable,EX,100
+ex2-93,93,Énergies multiples,,,,,Rare,Takumi Akabane,"normal, reverse, holo",EX Tempête de sable,EX,100
+ex2-94,94,Ptera ex,100,Incolore,,,Rare,Hikaru Koike,holo,EX Tempête de sable,EX,100
+ex2-95,95,Galeking ex,150,Métal,,,Rare,Hikaru Koike,holo,EX Tempête de sable,EX,100
+ex2-96,96,Gardevoir ex,150,Psy,,,Rare,Hikaru Koike,holo,EX Tempête de sable,EX,100
+ex2-97,97,Kabutops ex,150,Eau,,,Rare,Ryo Ueda,holo,EX Tempête de sable,EX,100
+ex2-98,98,Raichu ex,100,Électrique,,,Rare,Ryo Ueda,holo,EX Tempête de sable,EX,100
+ex2-99,99,Typhlosion ex,160,Feu,,,Rare,Hikaru Koike,holo,EX Tempête de sable,EX,100
+ex2-100,100,Wailord ex,200,Eau,,,Rare,Ryo Ueda,holo,EX Tempête de sable,EX,100

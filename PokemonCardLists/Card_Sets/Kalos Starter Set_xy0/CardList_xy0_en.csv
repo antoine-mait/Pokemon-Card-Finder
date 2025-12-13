@@ -1,0 +1,40 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+xy0-1,1,Weedle,40,Grass,,Basic,None,Akira Komayama,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-2,2,Pansage,70,Grass,,Basic,None,Masakazu Fukuda,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-3,3,Chespin,60,Grass,,Basic,None,5ban Graphics,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-4,4,Quilladin,90,Grass,Chespin,Stage1,None,5ban Graphics,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-5,5,Chesnaught,150,Grass,Quilladin,Stage2,None,5ban Graphics,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-6,6,Slugma,80,Fire,,Basic,None,Mitsuhiro Arita,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-7,7,Pansear,70,Fire,,Basic,None,Naoyo Kimura,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-8,8,Fennekin,60,Fire,,Basic,None,5ban Graphics,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-9,9,Braixen,80,Fire,Fennekin,Stage1,None,5ban Graphics,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-10,10,Delphox,140,Fire,Braixen,Stage2,None,5ban Graphics,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-11,11,Panpour,70,Water,,Basic,None,Shin Nagasawa,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-12,12,Froakie,60,Water,,Basic,None,5ban Graphics,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-13,13,Frogadier,80,Water,Froakie,Stage1,None,5ban Graphics,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-14,14,Greninja,140,Water,Frogadier,Stage2,None,5ban Graphics,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-15,15,Clauncher,70,Water,,Basic,None,5ban Graphics,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-16,16,Poochyena,60,Darkness,,Basic,None,Mizue,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-17,17,Mightyena,90,Darkness,Poochyena,Stage1,None,Mitsuhiro Arita,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-18,18,Inkay,60,Darkness,,Basic,None,5ban Graphics,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-19,19,Pawniard,60,Metal,,Basic,None,Kouki Saitou,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-20,20,Bisharp,90,Metal,Pawniard,Stage1,None,Kagemaru Himeno,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-21,21,Honedge,60,Metal,,Basic,None,5ban Graphics,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-22,22,Snubbull,70,Fairy,,Basic,None,Naoki Saito,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-23,23,Granbull,100,Fairy,Snubbull,Stage1,None,Masakazu Fukuda,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-24,24,Swirlix,60,Fairy,,Basic,None,5ban Graphics,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-25,25,Farfetch'd,70,Colorless,,Basic,None,Kagemaru Himeno,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-26,26,Snorlax,120,Colorless,,Basic,None,Naoki Saito,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-27,27,Miltank,100,Colorless,,Basic,None,Akira Komayama,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-28,28,Skitty,60,Colorless,,Basic,None,Shin Nagasawa,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-29,29,Bidoof,70,Colorless,,Basic,None,Kouki Saitou,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-30,30,Bunnelby,60,Colorless,,Basic,None,5ban Graphics,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-31,31,Fletchling,50,Colorless,,Basic,None,5ban Graphics,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-32,32,Furfrou,90,Colorless,,Basic,None,5ban Graphics,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-33,33,Furfrou,90,Colorless,,Basic,None,5ban Graphics,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-34,34,Crushing Hammer,,,,,None,5ban Graphics,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-35,35,Poké Ball,,,,,None,5ban Graphics,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-36,36,Pokémon Catcher,,,,,None,5ban Graphics,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-37,37,Potion,,,,,None,5ban Graphics,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-38,38,Switch,,,,,None,5ban Graphics,"normal, reverse, holo",Kalos Starter Set,XY,39
+xy0-39,39,Tierno,,,,,None,Ken Sugimori,"normal, reverse, holo",Kalos Starter Set,XY,39

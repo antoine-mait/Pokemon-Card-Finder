@@ -1,0 +1,117 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+xy11-1,1,Tangela,80,Pflanze,,Basis,Häufig,OOYAMA,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-2,2,Tangoloss,130,Pflanze,Tangela,Rang 1,Ungewöhnlich,kirisAki,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-3,3,Hoppspross,40,Pflanze,,Basis,Häufig,Mina Nakai,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-4,4,Hubelupf,70,Pflanze,Hoppspross,Rang 1,Ungewöhnlich,Eri Yamaki,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-5,5,Papungha,90,Pflanze,Hubelupf,Rang 2,Selten,Suwama Chiaki,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-6,6,Yanma,70,Pflanze,,Basis,Häufig,match,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-7,7,Yanmega,110,Pflanze,Yanma,Rang 1,Selten,Midori Harada,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-8,8,Yanmega-TURBO,140,Pflanze,Yanmega,TURBO,Ultra Selten,5ban Graphics,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-9,9,Samurzel,50,Pflanze,,Basis,Häufig,sui,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-10,10,Blanas,70,Pflanze,Samurzel,Rang 1,Ungewöhnlich,Ayaka Yoshida,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-11,11,Tengulist,140,"Pflanze, Unlicht",Blanas,Rang 2,Selten,Kagemaru Himeno,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-12,12,Tarnpignon,40,Pflanze,,Basis,Häufig,Yuka Morii,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-13,13,Hutsassa,90,Pflanze,Tarnpignon,Rang 1,Selten,Ken Sugimori,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-14,14,Ignivor,70,Pflanze,,Basis,Häufig,Tomokazu Komiya,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-15,15,Ramoth,110,"Feuer, Pflanze",Ignivor,Rang 1,Selten,Kouki Saitou,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-16,16,Ponita,60,Feuer,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-17,17,Gallopa,90,Feuer,Ponita,Rang 1,Ungewöhnlich,Yukiko Baba,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-18,18,Panflam,60,Feuer,,Basis,Häufig,Shibuzoh.,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-19,19,Panpyro,80,Feuer,Panflam,Rang 1,Ungewöhnlich,Mizue,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-20,20,Panferno,130,Feuer,Panpyro,Rang 2,Selten,Naoki Saito,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-21,21,Fiaro-TURBO,170,Feuer,Fiaro,TURBO,Ultra Selten,5ban Graphics,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-22,22,Leufeo,60,Feuer,,Basis,Häufig,Kyoko Umemoto,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-23,23,Pyroleo,120,Feuer,Leufeo,Rang 1,Selten,Yumi,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-24,24,Pyroleo-TURBO,160,Feuer,Pyroleo,TURBO,Ultra Selten,5ban Graphics,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-25,25,Volcanion,130,Feuer,,Basis,Selten,5ban Graphics,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-26,26,Volcanion EX,180,"Feuer, Wasser",,Basis,Ultra Selten,5ban Graphics,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-27,27,Mantax,100,Wasser,,Basis,Häufig,DemizuPosuka,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-28,28,Schalellos,70,Wasser,,Basis,Häufig,Sanosuke Sakuma,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-29,29,Gastrodon,110,Wasser,Schalellos,Rang 1,Selten,Aya Kusube,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-30,30,Ottaro,60,Wasser,,Basis,Häufig,sui,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-31,31,Zwottronin,90,Wasser,Ottaro,Rang 1,Ungewöhnlich,Shin Nagasawa,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-32,32,Admurai,140,Wasser,Zwottronin,Rang 2,Selten,Naoyo Kimura,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-33,33,Scampisto,60,Wasser,,Basis,Häufig,Kanako Eo,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-34,34,Wummer,100,Wasser,Scampisto,Rang 1,Selten,Mitsuhiro Arita,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-35,35,Wummer-TURBO,130,Wasser,Wummer,TURBO,Ultra Selten,5ban Graphics,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-36,36,Arktip,70,Wasser,,Basis,Häufig,Midori Harada,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-37,37,Arktilas,120,Wasser,Arktip,Rang 1,Selten,Saya Tsuruta,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-38,38,Voltilamm,60,Elektro,,Basis,Häufig,Eri Yamaki,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-39,39,Waaty,90,Elektro,Voltilamm,Rang 1,Ungewöhnlich,MAHOU,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-40,40,Ampharos,140,Elektro,Waaty,Rang 2,Selten,Kanako Eo,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-41,41,Wattzapf,30,Elektro,,Basis,Häufig,Ayaka Yoshida,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-42,42,Voltula,90,"Elektro, Pflanze",Wattzapf,Rang 1,Selten,match,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-43,43,Nidoran♂,60,Psycho,,Basis,Häufig,Hasuno,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-44,44,Nidorino,80,Psycho,Nidoran♂,Rang 1,Ungewöhnlich,TOKIYA,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-45,45,Nidoking,150,Psycho,Nidorino,Rang 2,Selten,Mina Nakai,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-46,46,Driftlon,60,Psycho,,Basis,Häufig,kodama,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-47,47,Drifzepeli,100,Psycho,Driftlon,Rang 1,Ungewöhnlich,Miki Tanaka,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-48,48,Lichtel,50,Psycho,,Basis,Häufig,Ken Sugimori,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-49,49,Laternecto,80,Psycho,Lichtel,Rang 1,Ungewöhnlich,miki kudo,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-50,50,Skelabra,130,Psycho,Laternecto,Rang 2,Selten,Tomokazu Komiya,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-51,51,Hoopa,130,Psycho,,Basis,Selten,Yoshinobu Saito,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-52,52,Menki,60,Kampf,,Basis,Häufig,Hitoshi Ariga,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-53,53,Rasaff,90,Kampf,Menki,Rang 1,Selten,Masakazu Fukuda,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-54,54,Nasgnet,70,Kampf,,Basis,Häufig,You Iribi,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-55,55,Voluminas,120,Kampf,Nasgnet,Rang 1,Selten,MAHOU,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-56,56,Anorith,80,Kampf,Klauenfossil,Erweckt,Ungewöhnlich,Shigenori Negishi,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-57,57,Armaldo,150,Kampf,Anorith,Rang 1,Selten,Satoshi Shirai,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-58,58,Glibunkel,60,Kampf,,Basis,Häufig,Masakazu Fukuda,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-59,59,Toxiquak,90,Kampf,Glibunkel,Rang 1,Selten,Hajime Kusajima,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-60,60,Sniebel,60,Unlicht,,Basis,Häufig,Hajime Kusajima,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-61,61,Snibunna,90,Unlicht,Sniebel,Rang 1,Selten,kawayoo,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-62,62,Kryppuk,70,Unlicht,,Basis,Selten,Ken Sugimori,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-63,63,Gladiantri,60,Unlicht,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-64,64,Caesurio,100,"Unlicht, Metall",Gladiantri,Rang 1,Selten,Shin Nagasawa,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-65,65,Yveltal,130,Unlicht,,Basis,Selten,Hajime Kusajima,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-66,66,Yveltal-TURBO,150,Unlicht,Yveltal,TURBO,Ultra Selten,5ban Graphics,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-67,67,Stahlos EX,180,Metall,,Basis,Ultra Selten,Eske Yoshinob,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-68,68,M-Stahlos EX,240,"Metall, Kampf",Stahlos-EX,MEGA,Ultra Selten,5ban Graphics,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-69,69,Schilterus,90,Metall,Schilterus' Panzerfossil,Erweckt,Ungewöhnlich,Mizue,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-70,70,Bollterus,150,Metall,Schilterus,Rang 1,Selten,match,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-71,71,Klikk,50,Metall,,Basis,Häufig,Miki Tanaka,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-72,72,Kliklak,80,Metall,Klikk,Rang 1,Ungewöhnlich,Shigenori Negishi,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-73,73,Klikdiklak,140,Metall,Kliklak,Rang 2,Selten,Midori Harada,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-74,74,Kobalium,120,Metall,,Basis,Selten,kirisAki,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-75,75,Magearna EX,160,Metall,,Basis,Ultra Selten,5ban Graphics,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-76,76,Marill,60,Fee,,Basis,Häufig,Shibuzoh.,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-77,77,Azumarill,100,"Fee, Wasser",Marill,Rang 1,Ungewöhnlich,Sanosuke Sakuma,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-78,78,Guardevoir EX,170,Fee,,Basis,Ultra Selten,Eske Yoshinob,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-79,79,M-Guardevoir EX,210,"Fee, Psycho",Guardevoir-EX,MEGA,Ultra Selten,5ban Graphics,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-80,80,Clavion,70,Fee,,Basis,Ungewöhnlich,Saya Tsuruta,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-81,81,Xerneas,130,Fee,,Basis,Selten,Megumi Mizutani,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-82,82,Xerneas-TURBO,150,Fee,Xerneas,TURBO,Ultra Selten,5ban Graphics,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-83,83,Shardrago,120,Drache,,Basis,Selten,kawayoo,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-84,84,Kapuno,60,Drache,,Basis,Häufig,Suwama Chiaki,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-85,85,Duodino,90,Drache,Kapuno,Rang 1,Ungewöhnlich,Ken Sugimori,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-86,86,Trikephalo,150,Drache,Duodino,Rang 2,Selten,Hideki Ishikawa,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-87,87,Trikephalo-TURBO,190,Drache,Trikephalo,TURBO,Ultra Selten,5ban Graphics,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-88,88,Mauzi,60,Farblos,,Basis,Häufig,Masakazu Fukuda,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-89,89,Snobilikat,90,Farblos,Mauzi,Rang 1,Ungewöhnlich,Anesaki Dynamic,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-90,90,Griffel,60,Farblos,,Basis,Häufig,Naoki Saito,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-91,91,Ambidiffel,90,Farblos,Griffel,Rang 1,Ungewöhnlich,Atsuko Nishida,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-92,92,Geronimatz,60,Farblos,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-93,93,Washakwil,120,Farblos,Geronimatz,Rang 1,Ungewöhnlich,Kyoko Umemoto,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-94,94,Dartiri,40,Farblos,,Basis,Häufig,TOKIYA,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-95,95,Dartignis,70,Farblos,Dartiri,Rang 1,Ungewöhnlich,Shigenori Negishi,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-96,96,Fiaro,130,Farblos,Dartignis,Rang 2,Selten,Kouki Saitou,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-97,97,Resladero,80,Farblos,,Basis,Ungewöhnlich,miki kudo,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-98,98,Schilterus' Panzerfossil,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-99,99,Bezauberndes Pofflé,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-100,100,Anoriths Klauenfossil,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-101,101,Guardevoirs Geistesbund,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-102,102,Gierige Würfel,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-103,103,Ninjajunge,,,,,Ungewöhnlich,Megumi Mizutani,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-104,104,Pokémon Ranger,,,,,Ungewöhnlich,Yusuke Ohmura,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-105,105,Spezial-Aufladung,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-106,106,Stahlos' Geistesbund,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-107,107,Volcanion EX,180,"Feuer, Wasser",,Basis,Ultra Selten,5ban Graphics,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-108,108,Stahlos EX,180,Metall,,Basis,Ultra Selten,Ryo Ueda,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-109,109,M-Stahlos EX,240,"Metall, Kampf",Stahlos-EX,MEGA,Ultra Selten,5ban Graphics,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-110,110,Magearna EX,160,Metall,,Basis,Ultra Selten,5ban Graphics,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-111,111,Guardevoir EX,170,Fee,,Basis,Ultra Selten,Ryo Ueda,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-112,112,M-Guardevoir EX,210,"Fee, Psycho",Guardevoir-EX,MEGA,Ultra Selten,5ban Graphics,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-113,113,Pokémon Ranger,,,,,Ultra Selten,Megumi Mizutani,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-114,114,Prof. Platan,,,,,Ultra Selten,Yusuke Ohmura,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-115,115,Volcanion EX,180,"Feuer, Wasser",,Basis,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Dampfkessel,XY,116
+xy11-116,116,Guardevoir EX,170,Fee,,Basis,Versteckt Selten,Eske Yoshinob,"normal, reverse, holo",Dampfkessel,XY,116

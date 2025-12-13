@@ -1,0 +1,112 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+bw5-1,1,Bulbasaur,60,Grass,,Basic,Common,Mitsuhiro Arita,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-2,2,Ivysaur,90,Grass,Bulbasaur,Stage1,Uncommon,sui,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-3,3,Venusaur,140,Grass,Ivysaur,Stage2,Rare,Masakazu Fukuda,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-4,4,Scyther,80,Grass,,Basic,Uncommon,Naoki Saito,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-5,5,Carnivine,90,Grass,,Basic,Rare,Yukiko Baba,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-6,6,Leafeon,90,Grass,Eevee,Stage1,Rare,Ryo Ueda,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-7,7,Dwebble,60,Grass,,Basic,Common,Akira Komayama,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-8,8,Crustle,110,Grass,Dwebble,Stage1,Uncommon,Ryo Ueda,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-9,9,Karrablast,60,Grass,,Basic,Common,Kagemaru Himeno,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-10,10,Shelmet,60,Grass,,Basic,Common,Shigenori Negishi,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-11,11,Accelgor,90,Grass,Shelmet,Stage1,Rare,Kouki Saitou,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-12,12,Flareon,90,Fire,Eevee,Stage1,Uncommon,Suwama Chiaki,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-13,13,Entei-EX,180,Fire,,,Rare,Shizurow,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-14,14,Torchic,50,Fire,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-15,15,Torchic,60,Fire,,Basic,Common,Atsuko Nishida,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-16,16,Combusken,80,Fire,Torchic,Stage1,Uncommon,Sumiyoshi Kizuki,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-17,17,Blaziken,140,Fire,Combusken,Stage2,Rare,TOKIYA,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-18,18,Torkoal,90,Fire,,Basic,Uncommon,Masakazu Fukuda,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-19,19,Heatmor,90,Fire,,Basic,Rare,Mitsuhiro Arita,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-20,20,Larvesta,80,Fire,,Basic,Common,match,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-21,21,Larvesta,60,Fire,,Basic,Common,Kouki Saitou,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-22,22,Volcarona,110,Fire,Larvesta,Stage1,Rare,Shin Nagasawa,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-23,23,Slowpoke,70,Water,,Basic,Common,MAHOU,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-24,24,Slowbro,100,Water,Slowpoke,Stage1,Uncommon,Kouki Saitou,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-25,25,Vaporeon,110,Water,Eevee,Stage1,Uncommon,Akira Komayama,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-26,26,Kyogre-EX,170,Water,,,Rare,Shizurow,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-27,27,Piplup,60,Water,,Basic,Common,Kouki Saitou,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-28,28,Prinplup,80,Water,Piplup,Stage1,Uncommon,Suwama Chiaki,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-29,29,Empoleon,140,Water,Prinplup,Stage2,Rare,Naoki Saito,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-30,30,Glaceon,90,Water,Eevee,Stage1,Rare,Ryo Ueda,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-31,31,Tympole,60,Water,,Basic,Common,Kouki Saitou,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-32,32,Palpitoad,80,Water,Tympole,Stage1,Uncommon,Kouki Saitou,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-33,33,Vanillite,50,Water,,Basic,Common,Kouki Saitou,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-34,34,Vanillish,70,Water,Vanillite,Stage1,Uncommon,Kouki Saitou,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-35,35,Ducklett,60,Water,,Basic,Common,sui,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-36,36,Swanna,90,Water,Ducklett,Stage1,Rare,Mizue,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-37,37,Jolteon,90,Lightning,Eevee,Stage1,Uncommon,Sumiyoshi Kizuki,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-38,38,Raikou-EX,170,Lightning,,,Rare,Shizurow,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-39,39,Plusle,60,Lightning,,Basic,Common,Naoki Saito,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-40,40,Minun,60,Lightning,,Basic,Common,Naoki Saito,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-41,41,Joltik,30,Lightning,,Basic,Common,MAHOU,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-42,42,Joltik,30,Lightning,,Basic,Common,Miki Tanaka,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-43,43,Galvantula,80,Lightning,Joltik,Stage1,Rare,Akira Komayama,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-44,44,Tynamo,40,Lightning,,Basic,Common,Midori Harada,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-45,45,Tynamo,40,Lightning,,Basic,Common,Akira Komayama,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-46,46,Eelektrik,90,Lightning,Tynamo,Stage1,Uncommon,Kagemaru Himeno,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-47,47,Eelektross,140,Lightning,Eelektrik,Stage2,Rare,kawayoo,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-48,48,Espeon,90,Psychic,Eevee,Stage1,Rare,Mizue,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-49,49,Slowking,90,Psychic,Slowpoke,Stage1,Rare,Shin Nagasawa,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-50,50,Woobat,50,Psychic,,Basic,Common,Kagemaru Himeno,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-51,51,Yamask,60,Psychic,,Basic,Uncommon,Aya Kusube,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-52,52,Cofagrigus,100,Psychic,Yamask,Stage1,Rare,kawayoo,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-53,53,Aerodactyl,90,Fighting,,RESTORED,Rare,Naoyo Kimura,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-54,54,Groudon-EX,180,Fighting,,,Rare,Shizurow,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-55,55,Drilbur,70,Fighting,,Basic,Common,Tomokazu Komiya,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-56,56,Excadrill,120,Fighting,Drilbur,Stage1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-57,57,Excadrill,120,Fighting,Drilbur,Stage1,Rare,Masakazu Fukuda,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-58,58,Timburr,60,Fighting,,Basic,Common,Mizue,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-59,59,Gurdurr,80,Fighting,Timburr,Stage1,Uncommon,Mizue,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-60,60,Umbreon,100,Darkness,Eevee,Stage1,Uncommon,TOKIYA,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-61,61,Umbreon,100,Darkness,Eevee,Stage1,Uncommon,Kouki Saitou,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-62,62,Sableye,70,Darkness,,Basic,Uncommon,kawayoo,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-63,63,Darkrai-EX,180,Darkness,,,Rare,Shizurow,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-64,64,Sandile,70,Darkness,,Basic,Common,Hajime Kusajima,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-65,65,Krokorok,90,Darkness,Sandile,Stage1,Uncommon,Mitsuhiro Arita,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-66,66,Krookodile,150,Darkness,Krokorok,Stage2,Rare,5ban Graphics,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-67,67,Scraggy,60,Darkness,,Basic,Common,Kagemaru Himeno,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-68,68,Scrafty,100,Darkness,Scraggy,Stage1,Rare,Kagemaru Himeno,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-69,69,Zorua,50,Darkness,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-70,70,Zorua,60,Darkness,,Basic,Common,Akira Komayama,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-71,71,Zoroark,100,Darkness,Zorua,Stage1,Rare,5ban Graphics,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-72,72,Bisharp,90,Darkness,Pawniard,Stage1,Rare,Masakazu Fukuda,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-73,73,Vullaby,60,Darkness,,Basic,Uncommon,match,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-74,74,Escavalier,90,Metal,Karrablast,Stage1,Rare,Masakazu Fukuda,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-75,75,Klink,60,Metal,,Basic,Common,Midori Harada,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-76,76,Klang,80,Metal,Klink,Stage1,Uncommon,Shin Nagasawa,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-77,77,Klinklang,140,Metal,Klang,Stage2,Rare,Hajime Kusajima,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-78,78,Pawniard,60,Metal,,Basic,Common,Naoki Saito,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-79,79,Bisharp,100,Metal,Pawniard,Stage1,Rare,Naoki Saito,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-80,80,Chansey,100,Colorless,,Basic,Common,Kagemaru Himeno,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-81,81,Chansey,100,Colorless,,Basic,Common,Mizue,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-82,82,Blissey,130,Colorless,Chansey,Stage1,Rare,Kouki Saitou,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-83,83,Eevee,60,Colorless,,Basic,Common,MAHOU,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-84,84,Eevee,50,Colorless,,Basic,Common,Sumiyoshi Kizuki,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-85,85,Chatot,70,Colorless,,Basic,Uncommon,MAHOU,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-86,86,Lillipup,50,Colorless,,Basic,Common,Kyoko Umemoto,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-87,87,Herdier,80,Colorless,Lillipup,Stage1,Uncommon,Naoyo Kimura,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-88,88,Stoutland,130,Colorless,Herdier,Stage2,Rare,Atsuko Nishida,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-89,89,Haxorus,140,Colorless,Fraxure,Stage2,Rare,Akira Komayama,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-90,90,Tornadus-EX,170,Colorless,,,Rare,Shizurow,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-91,91,Cheren,,,,,Uncommon,Kanako Eo,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-92,92,Dark Claw,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-93,93,Dark Patch,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-94,94,Enhanced Hammer,,,,,Uncommon,Ryo Ueda,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-95,95,Hooligans Jim & Cas,,,,,Uncommon,Masakazu Fukuda,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-96,96,N,,,,,Uncommon,Megumi Mizutani,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-97,97,Old Amber Aerodactyl,,,,,Uncommon,Ryo Ueda,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-98,98,Professor Juniper,,,,,Uncommon,Kanako Eo,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-99,99,Random Receiver,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-100,100,Rare Candy,,,,,Uncommon,Ryo Ueda,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-101,101,Twist Mountain,,,,,Uncommon,Ryo Ueda,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-102,102,Ultra Ball,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-103,103,Entei-EX,180,Fire,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-104,104,Kyogre-EX,170,Water,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-105,105,Raikou-EX,170,Lightning,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-106,106,Groudon-EX,180,Fighting,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-107,107,Darkrai-EX,180,Darkness,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-108,108,Tornadus-EX,170,Colorless,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-109,109,Gardevoir,110,Psychic,Kirlia,Stage2,Secret Rare,5ban Graphics,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-110,110,Archeops,130,Fighting,Archen,Stage1,Secret Rare,5ban Graphics,"normal, reverse, holo",Dark Explorers,Black & White,111
+bw5-111,111,Pokémon Catcher,,,,,Secret Rare,5ban Graphics,"normal, reverse, holo",Dark Explorers,Black & White,111

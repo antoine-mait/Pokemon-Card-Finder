@@ -1,0 +1,11 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+mep-001,001,Meganium,160,Grass,,Stage2,None,Uninori,holo,MEP Black Star Promos,Mega Evolution,10
+mep-002,002,Inteleon,150,Water,,Stage2,None,Kazumasa Yasukuni,holo,MEP Black Star Promos,Mega Evolution,10
+mep-003,003,Alakazam,140,Psychic,,Stage2,None,cochi8i,holo,MEP Black Star Promos,Mega Evolution,10
+mep-004,004,Lunatone,110,Fighting,,Basic,None,Ounishi,holo,MEP Black Star Promos,Mega Evolution,10
+mep-005,005,Drifloon,70,Psychic,,Basic,None,Shimaris Yukichi,holo,MEP Black Star Promos,Mega Evolution,10
+mep-006,006,Drifblim,110,Psychic,,Stage1,None,Shimaris Yukichi,holo,MEP Black Star Promos,Mega Evolution,10
+mep-007,007,Psyduck,70,Water,,Basic,None,Jiro Sasumo,holo,MEP Black Star Promos,Mega Evolution,10
+mep-008,008,Golduck,120,Water,,Stage1,None,Jiro Sasumo,holo,MEP Black Star Promos,Mega Evolution,10
+mep-009,009,Alakazam,140,Psychic,,Stage2,None,Aya Kusube,holo,MEP Black Star Promos,Mega Evolution,10
+mep-010,010,Riolu,80,Fighting,,Basic,None,GOSSAN,holo,MEP Black Star Promos,Mega Evolution,10

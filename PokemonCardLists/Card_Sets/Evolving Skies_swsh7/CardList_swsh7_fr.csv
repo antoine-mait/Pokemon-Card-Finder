@@ -1,0 +1,238 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+swsh7-1,1,Scarabrute,120,Plante,,De base,Rare,Shin Nagasawa,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-2,2,Granivol,40,Plante,,De base,Commune,Kagemaru Himeno,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-3,3,Floravol,60,Plante,Granivol,Niveau 1,Peu Commune,kirisAki,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-4,4,Cotovol,90,Plante,Floravol,Niveau 2,Holo Rare,Tika Matsuno,"reverse, holo",Évolution Céleste,Épée et Bouclier,237
+swsh7-5,5,Grainipiot,50,Plante,,De base,Commune,otumami,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-6,6,Tropius,110,Plante,,De base,Rare,Oswaldo KATO,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-7,7,Phyllali V,200,Plante,,De base,Holo Rare V,5ban Graphics,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-8,8,Phyllali VMAX,310,Plante,Phyllali-V,ESCOUADE,Holo Rare VMAX,PLANETA Tsuji,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-9,9,Chlorobule,60,Plante,,De base,Commune,Mika Pikazo,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-10,10,Fragilady,100,Plante,Chlorobule,Niveau 1,Rare,Kagemaru Himeno,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-11,11,Crabicoque,60,Plante,,De base,Commune,Shigenori Negishi,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-12,12,Crabaraque,130,Plante,Crabicoque,Niveau 1,Peu Commune,sowsow,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-13,13,Desséliande V,210,Plante,,De base,Holo Rare V,MUGENUP,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-14,14,Desséliande VMAX,320,Plante,Desséliande-V,ESCOUADE,Holo Rare VMAX,MUGENUP,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-15,15,Tournicoton,50,Plante,,De base,Commune,Mizue,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-16,16,Blancoton,80,Plante,Tournicoton,Niveau 1,Holo Rare,Kouki Saitou,"reverse, holo",Évolution Céleste,Épée et Bouclier,237
+swsh7-17,17,Verpom,40,Plante,,De base,Commune,Miki Tanaka,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-18,18,Pyroli VMAX,320,Feu,Pyroli-V,ESCOUADE,Holo Rare VMAX,5ban Graphics,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-19,19,Entei,120,Feu,,De base,Holo Rare,NC Empire,"reverse, holo",Évolution Céleste,Épée et Bouclier,237
+swsh7-20,20,Victini,60,Feu,,De base,Holo Rare,Teeziro,"reverse, holo",Évolution Céleste,Épée et Bouclier,237
+swsh7-21,21,Pyrax V,210,Feu,,De base,Holo Rare V,kawayoo,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-22,22,Hélionceau,60,Feu,,De base,Commune,Misa Tsutsui,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-23,23,Némélios,130,Feu,Hélionceau,Niveau 1,Peu Commune,Hitoshi Ariga,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-24,24,Psykokwak,70,Eau,,De base,Commune,OKACHEKE,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-25,25,Akwakwak,120,Eau,Psykokwak,Niveau 1,Peu Commune,Kyoko Umemoto,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-26,26,Tentacool,60,Eau,,De base,Commune,SATOSHI NAKAI,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-27,27,Tentacruel,120,Eau,Tentacool,Niveau 1,Peu Commune,Mina Nakai,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-28,28,Léviator V,220,Eau,,De base,Holo Rare V,PLANETA Tsuji,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-29,29,Léviator VMAX,330,Eau,Léviator-V,ESCOUADE,Holo Rare VMAX,Shin Nagasawa,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-30,30,Aquali VMAX,320,Eau,Aquali-V,ESCOUADE,Holo Rare VMAX,5ban Graphics,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-31,31,Suicune V,210,Eau,,De base,Holo Rare V,Ayaka Yoshida,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-32,32,Nénupiot,60,Eau,,De base,Commune,Teeziro,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-33,33,Lombre,90,Eau,Nénupiot,Niveau 1,Peu Commune,miki kudo,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-34,34,Ludicolo,140,Eau,Lombre,Niveau 2,Holo Rare,sowsow,"reverse, holo",Évolution Céleste,Épée et Bouclier,237
+swsh7-35,35,Carvanha,50,Eau,,De base,Commune,Kyoko Umemoto,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-36,36,Sharpedo,120,Eau,Carvanha,Niveau 1,Rare,Kazuma Koda,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-37,37,Barpau,30,Eau,,De base,Commune,tetsuya koizumi,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-38,38,Milobellus,120,Eau,Barpau,Niveau 1,Rare,sui,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-39,39,Lovdisc,70,Eau,,De base,Commune,Mizue,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-40,40,Givrali V,210,Eau,,De base,Holo Rare V,5ban Graphics,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-41,41,Givrali VMAX,310,Eau,Givrali-V,ESCOUADE,Holo Rare VMAX,PLANETA Tsuji,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-42,42,Tritonde,70,Eau,,De base,Commune,Mina Nakai,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-43,43,Hexagel,90,Eau,,De base,Commune,Kagemaru Himeno,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-44,44,Grelaçon,70,Eau,,De base,Commune,kirisAki,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-45,45,Séracrawl,150,Eau,Grelaçon,Niveau 1,Peu Commune,Kouki Saitou,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-46,46,Froussardine,30,Eau,,De base,Rare,Teeziro,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-47,47,Bekaglaçon,120,Eau,,De base,Peu Commune,Mizue,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-48,48,Hydragla V,220,Eau,,De base,Holo Rare V,Eske Yoshinob,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-49,49,Pikachu,60,Électrique,,De base,Commune,chibi,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-50,50,Raichu,130,Électrique,Pikachu,Niveau 1,Holo Rare,Mitsuhiro Arita,"reverse, holo",Évolution Céleste,Épée et Bouclier,237
+swsh7-51,51,Voltali VMAX,300,Électrique,Voltali-V,ESCOUADE,Holo Rare VMAX,5ban Graphics,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-52,52,Loupio,70,Électrique,,De base,Commune,sowsow,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-53,53,Lanturn,120,Électrique,Loupio,Niveau 1,Peu Commune,ryoma uratsuka,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-54,54,Wattouat,60,Électrique,,De base,Commune,Yukiko Baba,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-55,55,Lainergie,90,Électrique,Wattouat,Niveau 1,Peu Commune,OKACHEKE,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-56,56,Pharamp,150,Électrique,Lainergie,Niveau 2,Rare,Saya Tsuruta,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-57,57,Emolga,70,Électrique,,De base,Commune,Nagomi Nijo,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-58,58,Galvagon V,220,Électrique,,De base,Holo Rare V,Ryota Murayama,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-59,59,Galvagon VMAX,330,Électrique,Galvagon-V,ESCOUADE,Holo Rare VMAX,5ban Graphics,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-60,60,Regieleki,120,Électrique,,De base,Holo Rare,Shin Nagasawa,"reverse, holo",Évolution Céleste,Épée et Bouclier,237
+swsh7-61,61,Soporifik,70,Psy,,De base,Commune,nagimiso,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-62,62,Hypnomade,110,Psy,Soporifik,Niveau 1,Peu Commune,Miki Tanaka,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-63,63,Artikodin de Galar,120,Psy,,De base,Holo Rare,Kagemaru Himeno,"reverse, holo",Évolution Céleste,Épée et Bouclier,237
+swsh7-64,64,Mentali V,200,Psy,,De base,Holo Rare V,5ban Graphics,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-65,65,Mentali VMAX,310,Psy,Mentali-V,ESCOUADE,Holo Rare VMAX,5ban Graphics,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-66,66,Qulbutoké,120,Psy,,De base,Commune,Anesaki Dynamic,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-67,67,Ténéfix,70,Psy,,De base,Commune,Eri Yamaki,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-68,68,Chovsourir,60,Psy,,De base,Commune,Yuka Morii,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-69,69,Rhinolove,90,Psy,Chovsourir,Niveau 1,Peu Commune,nagimiso,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-70,70,Golemastoc V,220,Psy,,De base,Holo Rare V,Eske Yoshinob,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-71,71,Flabébé,40,Psy,,De base,Commune,OKACHEKE,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-72,72,Floette,70,Psy,Flabébé,Niveau 1,Peu Commune,chibi,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-73,73,Florges,130,Psy,Floette,Niveau 2,Holo Rare,Kagemaru Himeno,"reverse, holo",Évolution Céleste,Épée et Bouclier,237
+swsh7-74,74,Nymphali V,200,Psy,,De base,Holo Rare V,aky CG Works,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-75,75,Nymphali VMAX,310,Psy,Nymphali-V,ESCOUADE,Holo Rare VMAX,Ryota Murayama,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-76,76,Pitrouille,60,Psy,,De base,Commune,Yuka Morii,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-77,77,Banshitrouye,120,Psy,Pitrouille,Niveau 1,Rare,Megumi Higuchi,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-78,78,Bombydou,30,Psy,,De base,Commune,Yukiko Baba,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-79,79,Rubombelle,70,Psy,Bombydou,Niveau 1,Peu Commune,Saya Tsuruta,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-80,80,Marshadow,80,Psy,,De base,Holo Rare,Yuya Oka,"reverse, holo",Évolution Céleste,Épée et Bouclier,237
+swsh7-81,81,Tygnon,110,Combat,,De base,Commune,Uta,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-82,82,Électhor de Galar,110,Combat,,De base,Holo Rare,kodama,"reverse, holo",Évolution Céleste,Épée et Bouclier,237
+swsh7-83,83,Charmina V,210,Combat,,De base,Holo Rare V,Satoshi Shirai,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-84,84,Hippopotas,100,Combat,,De base,Commune,Yuya Oka,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-85,85,Hippodocus,150,Combat,Hippopotas,Niveau 1,Peu Commune,Eri Yamaki,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-86,86,Nodulithe,70,Combat,,De base,Commune,Tomokazu Komiya,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-87,87,Géolithe,110,Combat,Nodulithe,Niveau 1,Peu Commune,otumami,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-88,88,Gigalithe,180,Combat,Géolithe,Niveau 2,Rare,Masakazu Fukuda,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-89,89,Batracné,100,Combat,Tritonde,Niveau 1,Peu Commune,tetsuya koizumi,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-90,90,Crapustule,170,Combat,Batracné,Niveau 2,Rare,Pani Kobayashi,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-91,91,Lougaroc V,200,Combat,,De base,Holo Rare V,PLANETA Tsuji,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-92,92,Lougaroc VMAX,320,Combat,Lougaroc-V,ESCOUADE,Holo Rare VMAX,Mitsuhiro Arita,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-93,93,Sulfura de Galar,120,Obscurité,,De base,Holo Rare,Kazuma Koda,"reverse, holo",Évolution Céleste,Épée et Bouclier,237
+swsh7-94,94,Noctali V,200,Obscurité,,De base,Holo Rare V,5ban Graphics,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-95,95,Noctali VMAX,310,Obscurité,Noctali-V,ESCOUADE,Holo Rare VMAX,AKIRA EGAWA,,Évolution Céleste,Épée et Bouclier,237
+swsh7-96,96,Pifeuil,80,Obscurité,Grainipiot,Niveau 1,Peu Commune,Atsuko Nishida,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-97,97,Tengalice,150,Obscurité,Pifeuil,Niveau 2,Rare,Masakazu Fukuda,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-98,98,Baggiguane,70,Obscurité,,De base,Commune,Shin Nagasawa,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-99,99,Baggaïd,120,Obscurité,Baggiguane,Niveau 1,Peu Commune,Yukiko Baba,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-100,100,Miasmax V,210,Obscurité,,De base,Holo Rare V,Uta,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-101,101,Miasmax VMAX,330,Obscurité,Miasmax-V,ESCOUADE,Holo Rare VMAX,5ban Graphics,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-102,102,Zorua,70,Obscurité,,De base,Commune,ryoma uratsuka,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-103,103,Zoroark,120,Obscurité,Zorua,Niveau 1,Holo Rare,Souichirou Gunjima,"reverse, holo",Évolution Céleste,Épée et Bouclier,237
+swsh7-104,104,Goupilou,70,Obscurité,,De base,Commune,Hasegawa Saki,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-105,105,Roublenard,100,Obscurité,Goupilou,Niveau 1,Rare,Kyoko Umemoto,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-106,106,Altaria,90,Dragon,Tylton,Niveau 1,Rare,sui,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-107,107,Draby,70,Dragon,,De base,Commune,ryoma uratsuka,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-108,108,Drackhaus,90,Dragon,Draby,Niveau 1,Peu Commune,tetsuya koizumi,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-109,109,Drattak,170,Dragon,Drackhaus,Niveau 2,Holo Rare,kodama,"reverse, holo",Évolution Céleste,Épée et Bouclier,237
+swsh7-110,110,Rayquaza V,210,Dragon,,De base,Holo Rare V,PLANETA Mochizuki,,Évolution Céleste,Épée et Bouclier,237
+swsh7-111,111,Rayquaza VMAX,320,Dragon,Rayquaza-V,ESCOUADE,Holo Rare VMAX,PLANETA Mochizuki,,Évolution Céleste,Épée et Bouclier,237
+swsh7-112,112,Dialga,130,Dragon,,De base,Holo Rare,Ryuta Fuse,"reverse, holo",Évolution Céleste,Épée et Bouclier,237
+swsh7-113,113,Solochi,60,Dragon,,De base,Commune,HYOGONOSUKE,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-114,114,Diamat,100,Dragon,Solochi,Niveau 1,Peu Commune,Akira Komayama,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-115,115,Trioxhydre,170,Dragon,Diamat,Niveau 2,Holo Rare,hatachu,"reverse, holo",Évolution Céleste,Épée et Bouclier,237
+swsh7-116,116,Kyurem,120,Dragon,,De base,Holo Rare,Souichirou Gunjima,"reverse, holo",Évolution Céleste,Épée et Bouclier,237
+swsh7-117,117,Bruyverne V,200,Dragon,,De base,Holo Rare V,Ayaka Yoshida,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-118,118,Zygarde,130,Dragon,,De base,Holo Rare,otumami,"reverse, holo",Évolution Céleste,Épée et Bouclier,237
+swsh7-119,119,Draïeul,120,Dragon,,De base,Rare,Tomokazu Komiya,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-120,120,Pomdrapi,80,Dragon,Verpom,Niveau 1,Rare,Anesaki Dynamic,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-121,121,Dratatin,90,Dragon,Verpom,Niveau 1,Rare,Yuya Oka,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-122,122,Duralugon V,220,Dragon,,De base,Holo Rare V,PLANETA Mochizuki,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-123,123,Duralugon VMAX,330,Dragon,Duralugon-V,ESCOUADE,Holo Rare VMAX,PLANETA Mochizuki,,Évolution Céleste,Épée et Bouclier,237
+swsh7-124,124,Regidrago,130,Dragon,,De base,Holo Rare,Kouki Saitou,"reverse, holo",Évolution Céleste,Épée et Bouclier,237
+swsh7-125,125,Évoli,70,Incolore,,De base,Commune,Atsushi Furusawa,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-126,126,Teddiursa,70,Incolore,,De base,Commune,Mizue,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-127,127,Ursaring,140,Incolore,Teddiursa,Niveau 1,Peu Commune,Hasegawa Saki,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-128,128,Queulorior,80,Incolore,,De base,Rare,Kouki Saitou,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-129,129,Parecool,70,Incolore,,De base,Commune,OKACHEKE,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-130,130,Vigoroth,90,Incolore,Parecool,Niveau 1,Peu Commune,nagimiso,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-131,131,Monaflèmit,180,Incolore,Vigoroth,Niveau 2,Holo Rare,Mitsuhiro Arita,"reverse, holo",Évolution Céleste,Épée et Bouclier,237
+swsh7-132,132,Tylton,50,Incolore,,De base,Commune,Lee HyunJung,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-133,133,Ponchiot,60,Incolore,,De base,Commune,Naoyo Kimura,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-134,134,Ponchien,100,Incolore,Ponchiot,Niveau 1,Peu Commune,kirisAki,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-135,135,Mastouffe,160,Incolore,Ponchien,Niveau 2,Rare,Naoki Saito,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-136,136,Furaiglon,60,Incolore,,De base,Commune,0313,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-137,137,Gueriaigle,130,Incolore,Furaiglon,Niveau 1,Peu Commune,SATOSHI NAKAI,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-138,138,Passerouge,40,Incolore,,De base,Commune,Sumiyoshi Kizuki,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-139,139,Braisillon,80,Incolore,Passerouge,Niveau 1,Peu Commune,Yuya Oka,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-140,140,Flambusard,140,Incolore,Braisillon,Niveau 2,Rare,Tika Matsuno,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-141,141,Aromathérapeute,,,,,Peu Commune,Megumi Mizutani,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-142,142,Mélange Multivitaminé,,,,,Peu Commune,sadaji,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-143,143,Copieuse,,,,,Peu Commune,Sanosuke Sakuma,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-144,144,Caverne de Cristal,,,,,Peu Commune,Toyste Beach,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-145,145,Gants Excavateurs,,,,,Peu Commune,Toyste Beach,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-146,146,Rêve Ball,,,,,Peu Commune,Ryo Ueda,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-147,147,Badge Élémentaire,,,,,Peu Commune,Studio Bora Inc.,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-148,148,Casque Intégral,,,,,Peu Commune,AYUMI ODASHIMA,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-149,149,Chaz,,,,,Peu Commune,take,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-150,150,Glace Chanceuse,,,,,Peu Commune,inose yukie,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-151,151,Badge Lune et Soleil,,,,,Peu Commune,Studio Bora Inc.,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-152,152,Roy,,,,,Peu Commune,take,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-153,153,Rouleau du Dragon Volant Mille Poings,,,,,Peu Commune,5ban Graphics,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-154,154,Valise de Secours,,,,,Peu Commune,Ryo Ueda,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-155,155,Badge Ruban,,,,,Peu Commune,Studio Bora Inc.,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-156,156,Gants de Caoutchouc,,,,,Peu Commune,Toyste Beach,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-157,157,Galerie Marchande,,,,,Peu Commune,Oswaldo KATO,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-158,158,Rouleau du Dragon à Crocs Poing Final,,,,,Peu Commune,5ban Graphics,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-159,159,Badge Feuille Neige,,,,,Peu Commune,Studio Bora Inc.,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-160,160,Masque Spirituel,,,,,Peu Commune,AYUMI ODASHIMA,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-161,161,Montagnes Orageuses,,,,,Peu Commune,Toyste Beach,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-162,162,Gobelets d'Échange,,,,,Peu Commune,Ryo Ueda,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-163,163,Jouet Attrapeur,,,,,Peu Commune,sadaji,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-164,164,Résolution d'Amaryllis,,,,,Peu Commune,Taira Akitsu,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-165,165,Énergie Trésor,,,,,Peu Commune,,"normal, reverse",Évolution Céleste,Épée et Bouclier,237
+swsh7-166,166,Phyllali V,200,Plante,,De base,Ultra Rare,5ban Graphics,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-167,167,Phyllali V,200,Plante,,De base,Ultra Rare,You Iribi,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-168,168,Desséliande V,210,Plante,,De base,Ultra Rare,MUGENUP,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-169,169,Pyroli V,210,Feu,,De base,Ultra Rare,5ban Graphics,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-170,170,Pyrax V,210,Feu,,De base,Ultra Rare,Eske Yoshinob,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-171,171,Léviator V,220,Eau,,De base,Ultra Rare,PLANETA Tsuji,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-172,172,Aquali V,210,Eau,,De base,Ultra Rare,5ban Graphics,,Évolution Céleste,Épée et Bouclier,237
+swsh7-173,173,Suicune V,210,Eau,,De base,Ultra Rare,Ayaka Yoshida,,Évolution Céleste,Épée et Bouclier,237
+swsh7-174,174,Givrali V,210,Eau,,De base,Ultra Rare,5ban Graphics,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-175,175,Givrali V,210,Eau,,De base,Ultra Rare,Narumi Sato,,Évolution Céleste,Épée et Bouclier,237
+swsh7-176,176,Hydragla V,220,Eau,,De base,Ultra Rare,Eske Yoshinob,,Évolution Céleste,Épée et Bouclier,237
+swsh7-177,177,Voltali V,190,Électrique,,De base,Ultra Rare,5ban Graphics,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-178,178,Galvagon V,220,Électrique,,De base,Ultra Rare,PLANETA Mochizuki,,Évolution Céleste,Épée et Bouclier,237
+swsh7-179,179,Mentali V,200,Psy,,De base,Ultra Rare,5ban Graphics,,Évolution Céleste,Épée et Bouclier,237
+swsh7-180,180,Mentali V,200,Psy,,De base,Ultra Rare,sowsow,,Évolution Céleste,Épée et Bouclier,237
+swsh7-181,181,Golemastoc V,220,Psy,,De base,Ultra Rare,Eske Yoshinob,,Évolution Céleste,Épée et Bouclier,237
+swsh7-182,182,Golemastoc V,220,Psy,,De base,Ultra Rare,Oswaldo KATO,,Évolution Céleste,Épée et Bouclier,237
+swsh7-183,183,Nymphali V,200,Psy,,De base,Ultra Rare,aky CG Works,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-184,184,Nymphali V,200,Psy,,De base,Ultra Rare,Yuu Nishida,"normal, reverse, holo",Évolution Céleste,Épée et Bouclier,237
+swsh7-185,185,Charmina V,210,Combat,,De base,Ultra Rare,Satoshi Shirai,,Évolution Céleste,Épée et Bouclier,237
+swsh7-186,186,Charmina V,210,Combat,,De base,Ultra Rare,KIYOTAKA OSHIYAMA,,Évolution Céleste,Épée et Bouclier,237
+swsh7-187,187,Lougaroc V,200,Combat,,De base,Ultra Rare,PLANETA Tsuji,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-188,188,Noctali V,200,Obscurité,,De base,Ultra Rare,5ban Graphics,,Évolution Céleste,Épée et Bouclier,237
+swsh7-189,189,Noctali V,200,Obscurité,,De base,Ultra Rare,Teeziro,,Évolution Céleste,Épée et Bouclier,237
+swsh7-190,190,Miasmax V,210,Obscurité,,De base,Ultra Rare,aky CG Works,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-191,191,Dracolosse V,230,Dragon,,De base,Ultra Rare,Saki Hayashiro,,Évolution Céleste,Épée et Bouclier,237
+swsh7-192,192,Dracolosse V,230,Dragon,,De base,Ultra Rare,Atsushi Furusawa,,Évolution Céleste,Épée et Bouclier,237
+swsh7-193,193,Rayquaza V,210,Dragon,,De base,Ultra Rare,PLANETA Mochizuki,,Évolution Céleste,Épée et Bouclier,237
+swsh7-194,194,Rayquaza V,210,Dragon,,De base,Ultra Rare,Ryuta Fuse,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-195,195,Bruyverne V,200,Dragon,,De base,Ultra Rare,Ayaka Yoshida,,Évolution Céleste,Épée et Bouclier,237
+swsh7-196,196,Bruyverne V,200,Dragon,,De base,Ultra Rare,Mitsuhiro Arita,,Évolution Céleste,Épée et Bouclier,237
+swsh7-197,197,Duralugon V,220,Dragon,,De base,Ultra Rare,PLANETA Mochizuki,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-198,198,Duralugon V,220,Dragon,,De base,Ultra Rare,Naoki Saito,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-199,199,Aromathérapeute,,,,,Ultra Rare,En Morikura,,Évolution Céleste,Épée et Bouclier,237
+swsh7-200,200,Copieuse,,,,,Ultra Rare,Sanosuke Sakuma,,Évolution Céleste,Épée et Bouclier,237
+swsh7-201,201,Chaz,,,,,Ultra Rare,Hitoshi Ariga,,Évolution Céleste,Épée et Bouclier,237
+swsh7-202,202,Roy,,,,,Ultra Rare,kirisAki,,Évolution Céleste,Épée et Bouclier,237
+swsh7-203,203,Résolution d'Amaryllis,,,,,Ultra Rare,Taira Akitsu,,Évolution Céleste,Épée et Bouclier,237
+swsh7-204,204,Phyllali VMAX,310,Plante,Phyllali-V,ESCOUADE,Magnifique rare,PLANETA Tsuji,,Évolution Céleste,Épée et Bouclier,237
+swsh7-205,205,Phyllali VMAX,310,Plante,Phyllali-V,ESCOUADE,Magnifique rare,HYOGONOSUKE,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-206,206,Desséliande VMAX,320,Plante,Desséliande-V,ESCOUADE,Magnifique rare,MUGENUP,,Évolution Céleste,Épée et Bouclier,237
+swsh7-207,207,Léviator VMAX,330,Eau,Léviator-V,ESCOUADE,Magnifique rare,Shin Nagasawa,,Évolution Céleste,Épée et Bouclier,237
+swsh7-208,208,Givrali VMAX,310,Eau,Givrali-V,ESCOUADE,Magnifique rare,PLANETA Tsuji,,Évolution Céleste,Épée et Bouclier,237
+swsh7-209,209,Givrali VMAX,310,Eau,Givrali-V,ESCOUADE,Magnifique rare,kirisAki,,Évolution Céleste,Épée et Bouclier,237
+swsh7-210,210,Galvagon VMAX,330,Électrique,Galvagon-V,ESCOUADE,Magnifique rare,5ban Graphics,,Évolution Céleste,Épée et Bouclier,237
+swsh7-211,211,Nymphali VMAX,310,Psy,Nymphali-V,ESCOUADE,Magnifique rare,Ryota Murayama,,Évolution Céleste,Épée et Bouclier,237
+swsh7-212,212,Nymphali VMAX,310,Psy,Nymphali-V,ESCOUADE,Magnifique rare,Taira Akitsu,,Évolution Céleste,Épée et Bouclier,237
+swsh7-213,213,Lougaroc VMAX,320,Combat,Lougaroc-V,ESCOUADE,Magnifique rare,Mitsuhiro Arita,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-214,214,Noctali VMAX,310,Obscurité,Noctali-V,ESCOUADE,Magnifique rare,AKIRA EGAWA,,Évolution Céleste,Épée et Bouclier,237
+swsh7-215,215,Noctali VMAX,310,Obscurité,Noctali-V,ESCOUADE,Magnifique rare,KEIICHIRO ITO,,Évolution Céleste,Épée et Bouclier,237
+swsh7-216,216,Miasmax VMAX,330,Obscurité,Miasmax-V,ESCOUADE,Magnifique rare,5ban Graphics,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-217,217,Rayquaza VMAX,320,Dragon,Rayquaza-V,ESCOUADE,Magnifique rare,PLANETA Mochizuki,,Évolution Céleste,Épée et Bouclier,237
+swsh7-218,218,Rayquaza VMAX,320,Dragon,Rayquaza-V,ESCOUADE,Magnifique rare,Anesaki Dynamic,,Évolution Céleste,Épée et Bouclier,237
+swsh7-219,219,Duralugon VMAX,330,Dragon,Duralugon-V,ESCOUADE,Magnifique rare,PLANETA Mochizuki,,Évolution Céleste,Épée et Bouclier,237
+swsh7-220,220,Duralugon VMAX,330,Dragon,Duralugon-V,ESCOUADE,Magnifique rare,Saki Hayashiro,,Évolution Céleste,Épée et Bouclier,237
+swsh7-221,221,Aromathérapeute,,,,,Magnifique rare,En Morikura,,Évolution Céleste,Épée et Bouclier,237
+swsh7-222,222,Copieuse,,,,,Magnifique rare,Sanosuke Sakuma,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-223,223,Chaz,,,,,Magnifique rare,Hitoshi Ariga,,Évolution Céleste,Épée et Bouclier,237
+swsh7-224,224,Roy,,,,,Magnifique rare,kirisAki,,Évolution Céleste,Épée et Bouclier,237
+swsh7-225,225,Résolution d'Amaryllis,,,,,Magnifique rare,Taira Akitsu,,Évolution Céleste,Épée et Bouclier,237
+swsh7-226,226,Momartik,90,Eau,Stalgamin,Niveau 1,Magnifique rare,Studio Bora Inc.,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-227,227,Lézargus,150,Eau,Arrozard,Niveau 2,Magnifique rare,Saki Hayashiro,,Évolution Céleste,Épée et Bouclier,237
+swsh7-228,228,Cresselia,120,Psy,,De base,Magnifique rare,Toyste Beach,,Évolution Céleste,Épée et Bouclier,237
+swsh7-229,229,Mélange Multivitaminé,,,,,Magnifique rare,sadaji,,Évolution Céleste,Épée et Bouclier,237
+swsh7-230,230,Caverne de Cristal,,,,,Magnifique rare,Toyste Beach,,Évolution Céleste,Épée et Bouclier,237
+swsh7-231,231,Casque Intégral,,,,,Magnifique rare,AYUMI ODASHIMA,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-232,232,Montagnes Orageuses,,,,,Magnifique rare,Toyste Beach,holo,Évolution Céleste,Épée et Bouclier,237
+swsh7-233,233,Jouet Attrapeur,,,,,Magnifique rare,sadaji,,Évolution Céleste,Épée et Bouclier,237
+swsh7-234,234,Stade de Greenbury,,,,,Magnifique rare,aky CG Works,,Évolution Céleste,Épée et Bouclier,237
+swsh7-235,235,Énergie Electrik,,,,,Magnifique rare,,,Évolution Céleste,Épée et Bouclier,237
+swsh7-236,236,Énergie Obscurité,,,,,Magnifique rare,,,Évolution Céleste,Épée et Bouclier,237
+swsh7-237,237,Énergie Métal,,,,,Magnifique rare,,holo,Évolution Céleste,Épée et Bouclier,237

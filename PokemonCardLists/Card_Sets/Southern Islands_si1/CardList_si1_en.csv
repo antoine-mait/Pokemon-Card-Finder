@@ -1,0 +1,19 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+si1-1,1,Mew,30,Psychic,,Basic,Common,Keiko Fukuyama,reverse,Southern Islands,Neo,18
+si1-2,2,Pidgeot,70,Colorless,Pidgeotto,Stage2,Common,Keiko Fukuyama,normal,Southern Islands,Neo,18
+si1-3,3,Onix,90,Fighting,,Basic,Common,Keiko Fukuyama,normal,Southern Islands,Neo,18
+si1-4,4,Togepi,40,Colorless,,Basic,Common,Keiko Fukuyama,reverse,Southern Islands,Neo,18
+si1-5,5,Ivysaur,60,Grass,Bulbasaur,Stage1,Common,Keiko Fukuyama,normal,Southern Islands,Neo,18
+si1-6,6,Raticate,60,Colorless,Rattata,Stage1,Common,Keiko Fukuyama,normal,Southern Islands,Neo,18
+si1-7,7,Ledyba,40,Grass,,Basic,Common,Keiko Fukuyama,reverse,Southern Islands,Neo,18
+si1-8,8,Jigglypuff,50,Colorless,,Basic,Common,Keiko Fukuyama,normal,Southern Islands,Neo,18
+si1-9,9,Butterfree,80,Grass,Metapod,Stage2,Common,Keiko Fukuyama,normal,Southern Islands,Neo,18
+si1-10,10,Tentacruel,60,Water,Tentacool,Stage1,Common,Naoyo Kimura,normal,Southern Islands,Neo,18
+si1-11,11,Marill,40,Water,,Basic,Common,Naoyo Kimura,reverse,Southern Islands,Neo,18
+si1-12,12,Lapras,70,Water,,Basic,Common,Naoyo Kimura,normal,Southern Islands,Neo,18
+si1-13,13,Exeggutor,70,Grass,Exeggcute,Stage1,Common,Naoyo Kimura,normal,Southern Islands,Neo,18
+si1-14,14,Slowking,70,Psychic,Slowpoke,Stage1,Common,Naoyo Kimura,reverse,Southern Islands,Neo,18
+si1-15,15,Wartortle,60,Water,Squirtle,Stage1,Common,Naoyo Kimura,normal,Southern Islands,Neo,18
+si1-16,16,Lickitung,70,Colorless,,Basic,Common,Naoyo Kimura,normal,Southern Islands,Neo,18
+si1-17,17,Vileplume,70,Grass,Gloom,Stage2,Common,Naoyo Kimura,reverse,Southern Islands,Neo,18
+si1-18,18,Primeape,60,Fighting,Mankey,Stage1,Common,Naoyo Kimura,normal,Southern Islands,Neo,18

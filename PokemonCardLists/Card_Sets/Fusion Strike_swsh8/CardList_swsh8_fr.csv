@@ -1,0 +1,285 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+swsh8-1,1,Chenipan,50,Plante,,De base,Commune,Mitsuhiro Arita,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-2,2,Chrysacier,80,Plante,Chenipan,Niveau 1,Peu Commune,Saya Tsuruta,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-3,3,Papilusion,120,Plante,Chrysacier,Niveau 2,Holo Rare,ryoma uratsuka,"reverse, holo",Poing de Fusion,Épée et Bouclier,284
+swsh8-4,4,Balignon,60,Plante,,De base,Commune,Naoyo Kimura,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-5,5,Chapignon,120,Plante,Balignon,Niveau 1,Peu Commune,Yukiko Baba,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-6,6,Chapignon V,210,Plante,,De base,Holo Rare V,PLANETA Mochizuki,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-7,7,Feuillajou,60,Plante,,De base,Commune,Nagomi Nijo,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-8,8,Feuiloutan,100,Plante,Feuillajou,Niveau 1,Peu Commune,Akira Komayama,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-9,9,Larveyette,50,Plante,,De base,Commune,Akira Komayama,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-10,10,Couverdure,80,Plante,Larveyette,Niveau 1,Peu Commune,0313,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-11,11,Manternel,130,Plante,Couverdure,Niveau 2,Rare,kodama,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-12,12,Maracachi,110,Plante,,De base,Rare,0313,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-13,13,Escargaume,70,Plante,,De base,Commune,Shibuzoh.,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-14,14,Limaspeed,90,Plante,Escargaume,Niveau 1,Rare,nagimiso,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-15,15,Viridium,110,Plante,,De base,Rare,Kagemaru Himeno,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-16,16,Brocélôme,60,Plante,,De base,Commune,OKACHEKE,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-17,17,Desséliande,120,Plante,Brocélôme,Niveau 1,Peu Commune,Narumi Sato,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-18,18,Larvibule,70,Plante,,De base,Commune,Asako Ito,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-19,19,Araqua,50,Plante,,De base,Commune,Miki Tanaka,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-20,20,Tarenbulle,120,Plante,Araqua,Niveau 1,Rare,KIYOTAKA OSHIYAMA,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-21,21,Sucreine V,200,Plante,,De base,Holo Rare V,PLANETA Mochizuki,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-22,22,Gorythmic V,220,Plante,,De base,Holo Rare V,5ban Graphics,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-23,23,Gorythmic VMAX,330,Plante,Gorythmic-V,ESCOUADE,Holo Rare VMAX,5ban Graphics,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-24,24,Tournicoton,50,Plante,,De base,Commune,Kagemaru Himeno,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-25,25,Blancoton,90,Plante,Tournicoton,Niveau 1,Peu Commune,Akira Komayama,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-26,26,Dratatin V,210,Plante,,De base,Holo Rare V,aky CG Works,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-27,27,Zarude,110,Plante,,De base,Peu Commune,Anesaki Dynamic,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-28,28,Goupix,70,Feu,,De base,Commune,Sekio,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-29,29,Goupix,70,Feu,,De base,Commune,Megumi Mizutani,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-30,30,Feunard,110,Feu,Goupix,Niveau 1,Peu Commune,kirisAki,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-31,31,Feunard,120,Feu,Goupix,Niveau 1,Peu Commune,Tika Matsuno,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-32,32,Caninos,80,Feu,,De base,Commune,Narumi Sato,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-33,33,Arcanin,130,Feu,Caninos,Niveau 1,Rare,Yuu Nishida,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-34,34,Limagma,80,Feu,,De base,Commune,otumami,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-35,35,Volcaropod,130,Feu,Limagma,Niveau 1,Peu Commune,Eri Yamaki,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-36,36,Victini,80,Feu,,De base,Peu Commune,Mitsuhiro Arita,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-37,37,Flamajou,60,Feu,,De base,Commune,Misa Tsutsui,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-38,38,Flamoutan,100,Feu,Flamajou,Niveau 1,Peu Commune,Tomokazu Komiya,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-39,39,Lugulabre V,200,Feu,,De base,Holo Rare V,Saki Hayashiro,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-40,40,Lugulabre VMAX,320,Feu,Lugulabre-V,ESCOUADE,Holo Rare VMAX,AKIRA EGAWA,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-41,41,Aflamanoir,110,Feu,,De base,Peu Commune,Oswaldo KATO,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-42,42,Plumeline,90,Feu,,De base,Rare,Oswaldo KATO,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-43,43,Pyrobut V,220,Feu,,De base,Holo Rare V,5ban Graphics,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-44,44,Pyrobut V,210,Feu,,De base,Holo Rare V,aky CG Works,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-45,45,Pyrobut VMAX,320,Feu,Pyrobut-V,ESCOUADE,Holo Rare VMAX,5ban Graphics,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-46,46,Grillepattes,80,Feu,,De base,Commune,miki kudo,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-47,47,Grillepattes,70,Feu,,De base,Commune,Narumi Sato,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-48,48,Scolocendre,130,Feu,Grillepattes,Niveau 1,Rare,Hasuno,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-49,49,Scolocendre,130,Feu,Grillepattes,Niveau 1,Peu Commune,Misa Tsutsui,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-50,50,Kokiyas,70,Eau,,De base,Commune,kawayoo,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-51,51,Crustabri,130,Eau,Kokiyas,Niveau 1,Rare,nagimiso,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-52,52,Stari,60,Eau,,De base,Commune,tetsuya koizumi,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-53,53,Staross,90,Eau,Stari,Niveau 1,Holo Rare,Megumi Mizutani,"reverse, holo",Poing de Fusion,Épée et Bouclier,284
+swsh8-54,54,Lokhlass,120,Eau,,De base,Peu Commune,Naoki Saito,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-55,55,Kaiminus,70,Eau,,De base,Commune,Mizue,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-56,56,Crocrodil,100,Eau,Kaiminus,Niveau 1,Peu Commune,Tomokazu Komiya,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-57,57,Aligatueur,170,Eau,Crocrodil,Niveau 2,Holo Rare,Anesaki Dynamic,"reverse, holo",Poing de Fusion,Épée et Bouclier,284
+swsh8-58,58,Marill,50,Eau,,De base,Commune,sowsow,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-59,59,Azumarill,120,Eau,Marill,Niveau 1,Rare,Sanosuke Sakuma,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-60,60,Qwilfish,80,Eau,,De base,Commune,HYOGONOSUKE,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-61,61,Démanta,110,Eau,,De base,Commune,Saya Tsuruta,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-62,62,Gobou,70,Eau,,De base,Commune,KIYOTAKA OSHIYAMA,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-63,63,Flobio,90,Eau,Gobou,Niveau 1,Peu Commune,tetsuya koizumi,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-64,64,Laggron,170,Eau,Flobio,Niveau 2,Holo Rare,Masakazu Fukuda,"reverse, holo",Poing de Fusion,Épée et Bouclier,284
+swsh8-65,65,Coquiperl,60,Eau,,De base,Commune,Anesaki Dynamic,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-66,66,Serpang,110,Eau,Coquiperl,Niveau 1,Rare,otumami,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-67,67,Rosabyss,110,Eau,Coquiperl,Niveau 1,Rare,Misa Tsutsui,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-68,68,Flotajou,60,Eau,,De base,Commune,Sekio,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-69,69,Flotoutan,100,Eau,Flotajou,Niveau 1,Peu Commune,Shin Nagasawa,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-70,70,Bargantua,80,Eau,,De base,Commune,Souichirou Gunjima,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-71,71,Darumarond de Galar,80,Eau,,De base,Commune,Atsuko Nishida,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-72,72,Darumacho de Galar,130,Eau,Darumarond de Galar,Niveau 1,Peu Commune,SATOSHI NAKAI,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-73,73,Amphinobi V,210,Eau,,De base,Holo Rare V,5ban Graphics,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-74,74,Flingouste,70,Eau,,De base,Commune,Pani Kobayashi,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-75,75,Gamblast,110,Eau,Flingouste,Niveau 1,Peu Commune,tetsuya koizumi,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-76,76,Crabominable V,220,Eau,,De base,Holo Rare V,MUGENUP,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-77,77,Concombaffe,80,Eau,,De base,Peu Commune,Tomokazu Komiya,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-78,78,Lézargus V,200,Eau,,De base,Holo Rare V,5ban Graphics,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-79,79,Lézargus VMAX,320,Eau,Lézargus-V,ESCOUADE,Holo Rare VMAX,5ban Graphics,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-80,80,Khélocrok,80,Eau,,De base,Commune,Saya Tsuruta,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-81,81,Torgamord,140,Eau,Khélocrok,Niveau 1,Peu Commune,kodama,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-82,82,Embrochet,60,Eau,,De base,Commune,Miki Tanaka,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-83,83,Hastacuda,120,Eau,Embrochet,Niveau 1,Peu Commune,Hideki Ishikawa,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-84,84,Frissonille,40,Eau,,De base,Commune,Yuka Morii,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-85,85,Beldeneige,90,Eau,Frissonille,Niveau 1,Peu Commune,chibi,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-86,86,Pikachu V,200,Électrique,,De base,Holo Rare V,5ban Graphics,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-87,87,Voltorbe,60,Électrique,,De base,Commune,Tomokazu Komiya,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-88,88,Électrode,90,Électrique,Voltorbe,Niveau 1,Rare,Kouki Saitou,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-89,89,Posipi,70,Électrique,,De base,Commune,Megumi Higuchi,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-90,90,Négapi,70,Électrique,,De base,Commune,HYOGONOSUKE,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-91,91,Lixy,50,Électrique,,De base,Commune,Naoyo Kimura,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-92,92,Luxio,90,Électrique,Lixy,Niveau 1,Peu Commune,Tika Matsuno,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-93,93,Luxray,160,Électrique,Luxio,Niveau 2,Rare,Atsushi Furusawa,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-94,94,Motisma,80,Électrique,,De base,Commune,Sekio,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-95,95,Anchwatt,40,Électrique,,De base,Commune,Yuka Morii,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-96,96,Lampéroie,90,Électrique,Anchwatt,Niveau 1,Peu Commune,Shigenori Negishi,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-97,97,Ohmassacre,160,Électrique,Lampéroie,Niveau 2,Rare,OKACHEKE,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-98,98,Galvaran,70,Électrique,,De base,Commune,Mina Nakai,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-99,99,Iguolta,110,Électrique,Galvaran,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-100,100,Chrysapile,100,Électrique,Larvibule,Niveau 1,Peu Commune,sowsow,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-101,101,Lucanon,150,Électrique,Chrysapile,Niveau 2,Rare,nagimiso,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-102,102,Zeraora,120,Électrique,,De base,Rare,Teeziro,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-103,103,Fulgudog V,200,Électrique,,De base,Holo Rare V,Shin Nagasawa,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-104,104,Fulgudog VMAX,320,Électrique,Fulgudog-V,ESCOUADE,Holo Rare VMAX,PLANETA Tsuji,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-105,105,Toxizap,70,Électrique,,De base,Commune,Mina Nakai,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-106,106,Toxizap,60,Électrique,,De base,Commune,kodama,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-107,107,Salarsen,130,Électrique,Toxizap,Niveau 1,Holo Rare,Ryuta Fuse,"reverse, holo",Poing de Fusion,Épée et Bouclier,284
+swsh8-108,108,Salarsen,120,Électrique,Toxizap,Niveau 1,Holo Rare,nagimiso,"reverse, holo",Poing de Fusion,Épée et Bouclier,284
+swsh8-109,109,Morpeko,80,Électrique,,De base,Commune,Sanosuke Sakuma,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-110,110,Rondoudou,60,Psy,,De base,Commune,Saya Tsuruta,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-111,111,Grodoudou,120,Psy,Rondoudou,Niveau 1,Peu Commune,Asako Ito,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-112,112,Lippoutou,100,Psy,,De base,Commune,Shigenori Negishi,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-113,113,Mew V,180,Psy,,De base,Holo Rare V,Mitsuhiro Arita,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-114,114,Mew VMAX,310,Psy,Mew-V,ESCOUADE,Holo Rare VMAX,5ban Graphics,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-115,115,Snubbull,70,Psy,,De base,Commune,Kyoko Umemoto,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-116,116,Granbull,120,Psy,Snubbull,Niveau 1,Rare,Akira Komayama,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-117,117,Corayon de Galar,70,Psy,,De base,Commune,Kouki Saitou,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-118,118,Corayôme de Galar,100,Psy,Corayon de Galar,Niveau 1,Rare,Misa Tsutsui,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-119,119,Mysdibule,90,Psy,,De base,Commune,Kouki Saitou,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-120,120,Deoxys,120,Psy,,De base,Holo Rare,Kouki Saitou,"reverse, holo",Poing de Fusion,Épée et Bouclier,284
+swsh8-121,121,Munna,80,Psy,,De base,Commune,miki kudo,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-122,122,Mushana,120,Psy,Munna,Niveau 1,Peu Commune,Tika Matsuno,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-123,123,Cryptéro,100,Psy,,De base,Commune,Yukiko Baba,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-124,124,Meloetta,90,Psy,,De base,Rare,kirisAki,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-125,125,Bacabouh,80,Psy,,De base,Commune,KIYOTAKA OSHIYAMA,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-126,126,Trépassable,140,Psy,Bacabouh,Niveau 1,Rare,Shibuzoh.,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-127,127,Wimessir,100,Psy,,De base,Commune,Misa Tsutsui,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-128,128,Fantyrm,60,Psy,,De base,Commune,Teeziro,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-129,129,Dispareptil,90,Psy,Fantyrm,Niveau 1,Peu Commune,HYOGONOSUKE,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-130,130,Lanssorien,150,Psy,Dispareptil,Niveau 2,Holo Rare,Souichirou Gunjima,"reverse, holo",Poing de Fusion,Épée et Bouclier,284
+swsh8-131,131,Sabelette,60,Combat,,De base,Commune,Yuka Morii,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-132,132,Sablaireau,120,Combat,Sabelette,Niveau 1,Peu Commune,Kyoko Umemoto,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-133,133,Férosinge,60,Combat,,De base,Commune,sowsow,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-134,134,Colossinge,100,Combat,Férosinge,Niveau 1,Peu Commune,Yuya Oka,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-135,135,Racaillou,80,Combat,,De base,Commune,OKACHEKE,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-136,136,Gravalanch,110,Combat,Racaillou,Niveau 1,Peu Commune,Masakazu Fukuda,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-137,137,Grolem,180,Combat,Gravalanch,Niveau 2,Rare,KEIICHIRO ITO,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-138,138,Onix,110,Combat,,De base,Commune,KEIICHIRO ITO,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-139,139,Steelix,190,Combat,Onix,Niveau 1,Holo Rare,Ryuta Fuse,"reverse, holo",Poing de Fusion,Épée et Bouclier,284
+swsh8-140,140,Scorplane,70,Combat,,De base,Commune,Misa Tsutsui,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-141,141,Scorvol,110,Combat,Scorplane,Niveau 1,Peu Commune,SATOSHI NAKAI,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-142,142,Makuhita,90,Combat,,De base,Commune,Oswaldo KATO,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-143,143,Hariyama,140,Combat,Makuhita,Niveau 1,Peu Commune,Hitoshi Ariga,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-144,144,Balbuto,60,Combat,,De base,Commune,Sumiyoshi Kizuki,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-145,145,Kaorine,120,Combat,Balbuto,Niveau 1,Rare,Akira Komayama,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-146,146,Lucario V,210,Combat,,De base,Holo Rare V,aky CG Works,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-147,147,Rototaupe,60,Combat,,De base,Commune,tetsuya koizumi,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-148,148,Démétéros,120,Combat,,De base,Holo Rare,NC Empire,"reverse, holo",Poing de Fusion,Épée et Bouclier,284
+swsh8-149,149,Pandespiègle,60,Combat,,De base,Commune,Mina Nakai,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-150,150,Nounourson,70,Combat,,De base,Commune,OKACHEKE,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-151,151,Chelours,130,Combat,Nounourson,Niveau 1,Peu Commune,Shigenori Negishi,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-152,152,Poulpaf,80,Combat,,De base,Commune,Mizue,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-153,153,Krakos,130,Combat,Poulpaf,Niveau 1,Peu Commune,Souichirou Gunjima,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-154,154,Hexadron,90,Combat,,De base,Peu Commune,Akira Komayama,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-155,155,Hexadron,90,Combat,,De base,Commune,Yuu Nishida,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-156,156,Ectoplasma V,210,Obscurité,,De base,Holo Rare V,5ban Graphics,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-157,157,Ectoplasma VMAX,320,Obscurité,Ectoplasma-V,ESCOUADE,Holo Rare VMAX,5ban Graphics,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-158,158,Tyranocif V,230,Obscurité,,De base,Holo Rare V,5ban Graphics,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-159,159,Zigzaton de Galar,60,Obscurité,,De base,Commune,Eri Yamaki,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-160,160,Linéon de Galar,90,Obscurité,Zigzaton de Galar,Niveau 1,Peu Commune,sowsow,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-161,161,Ixon de Galar,170,Obscurité,Linéon de Galar,Niveau 2,Holo Rare,kodama,"reverse, holo",Poing de Fusion,Épée et Bouclier,284
+swsh8-162,162,Carvanha,50,Obscurité,,De base,Commune,NC Empire,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-163,163,Sharpedo,100,Obscurité,Carvanha,Niveau 1,Peu Commune,Hasuno,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-164,164,Absol,100,Obscurité,,De base,Rare,Eri Yamaki,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-165,165,Cradopaud,60,Obscurité,,De base,Commune,Nagomi Nijo,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-166,166,Coatox,110,Obscurité,Cradopaud,Niveau 1,Rare,Masakazu Fukuda,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-167,167,Darkrai,110,Obscurité,,De base,Peu Commune,Megumi Mizutani,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-168,168,Miamiasme,70,Obscurité,,De base,Commune,Shibuzoh.,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-169,169,Miasmax,120,Obscurité,Miamiasme,Niveau 1,Peu Commune,Misa Tsutsui,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-170,170,Zorua,60,Obscurité,,De base,Commune,nagimiso,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-171,171,Zoroark,120,Obscurité,Zorua,Niveau 1,Peu Commune,Kouki Saitou,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-172,172,Vostourno,60,Obscurité,,De base,Commune,Shigenori Negishi,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-173,173,Vaututrice,120,Obscurité,Vostourno,Niveau 1,Peu Commune,Narumi Sato,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-174,174,Pandarbare,140,Obscurité,Pandespiègle,Niveau 1,Peu Commune,HYOGONOSUKE,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-175,175,Yveltal,130,Obscurité,,De base,Rare,kawayoo,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-176,176,Grimalin,70,Obscurité,,De base,Commune,sowsow,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-177,177,Fourbelin,90,Obscurité,Grimalin,Niveau 1,Peu Commune,tetsuya koizumi,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-178,178,Angoliath,170,Obscurité,Fourbelin,Niveau 2,Holo Rare,kawayoo,"reverse, holo",Poing de Fusion,Épée et Bouclier,284
+swsh8-179,179,Morpeko,50,Obscurité,,De base,Commune,Teeziro,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-180,180,Miaouss de Galar,70,Métal,,De base,Commune,0313,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-181,181,Berserkatt de Galar,120,Métal,Miaouss de Galar,Niveau 1,Peu Commune,Shigenori Negishi,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-182,182,Airmure,120,Métal,,De base,Commune,Megumi Higuchi,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-183,183,Minotaupe,130,Métal,Rototaupe,Niveau 1,Peu Commune,Lee HyunJung,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-184,184,Fermite,70,Métal,,De base,Commune,Shin Nagasawa,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-185,185,Genesect V,190,Métal,,De base,Holo Rare V,PLANETA Tsuji,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-186,186,Trousselin,70,Métal,,De base,Commune,MAHOU,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-187,187,Togedemaru,80,Métal,,De base,Peu Commune,Oswaldo KATO,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-188,188,Meltan,70,Métal,,De base,Commune,Teeziro,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-189,189,Melmetal,150,Métal,Meltan,Niveau 1,Holo Rare,Hasuno,"reverse, holo",Poing de Fusion,Épée et Bouclier,284
+swsh8-190,190,Corvaillus,170,Métal,Bleuseille,Niveau 2,Rare,Ryuta Fuse,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-191,191,Charibari,100,Métal,,De base,Commune,Oswaldo KATO,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-192,192,Pachyradjah,190,Métal,Charibari,Niveau 1,Peu Commune,KEIICHIRO ITO,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-193,193,Latias,120,Dragon,,De base,Rare,Yuu Nishida,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-194,194,Latios,130,Dragon,,De base,Rare,hatachu,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-195,195,Mucuscule,50,Dragon,,De base,Commune,Miki Tanaka,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-196,196,Colimucus,80,Dragon,Mucuscule,Niveau 1,Peu Commune,Saya Tsuruta,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-197,197,Muplodocus,160,Dragon,Colimucus,Niveau 2,Rare,Nagomi Nijo,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-198,198,Boumata,130,Dragon,,De base,Peu Commune,Ryuta Fuse,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-199,199,Miaouss,70,Incolore,,De base,Commune,Kouki Saitou,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-200,200,Persian,110,Incolore,Miaouss,Niveau 1,Peu Commune,Lee HyunJung,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-201,201,Dodrio V,200,Incolore,,De base,Holo Rare V,5ban Graphics,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-202,202,Leveinard,110,Incolore,,De base,Commune,miki kudo,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-203,203,Leuphorie,130,Incolore,Leveinard,Niveau 1,Rare,Mizue,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-204,204,Kangourex,120,Incolore,,De base,Rare,Souichirou Gunjima,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-205,205,Évoli,50,Incolore,,De base,Commune,0313,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-206,206,Ronflex,160,Incolore,,De base,Commune,Oswaldo KATO,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-207,207,Insolourdo,60,Incolore,,De base,Peu Commune,ryoma uratsuka,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-208,208,Cerfrousse,110,Incolore,,De base,Peu Commune,Shibuzoh.,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-209,209,Queulorior,70,Incolore,,De base,Commune,Mitsuhiro Arita,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-210,210,Skitty,60,Incolore,,De base,Commune,Yukiko Baba,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-211,211,Delcatty,100,Incolore,Skitty,Niveau 1,Peu Commune,kirisAki,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-212,212,Laporeille,50,Incolore,,De base,Commune,Yuu Nishida,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-213,213,Lockpin,110,Incolore,Laporeille,Niveau 1,Peu Commune,AKIRA EGAWA,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-214,214,Sapereau,60,Incolore,,De base,Commune,Misa Tsutsui,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-215,215,Excavarenne,140,Incolore,Sapereau,Niveau 1,Peu Commune,MAHOU,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-216,216,Brutalibré,90,Incolore,,De base,Peu Commune,Taira Akitsu,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-217,217,Rongrigou V,210,Incolore,,De base,Holo Rare V,PLANETA Yamashita,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-218,218,Rongrigou VMAX,320,Incolore,Rongrigou-V,ESCOUADE,Holo Rare VMAX,PLANETA Mochizuki,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-219,219,Minisange,60,Incolore,,De base,Commune,OKACHEKE,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-220,220,Bleuseille,80,Incolore,Minisange,Niveau 1,Peu Commune,Naoyo Kimura,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-221,221,Moumouton,60,Incolore,,De base,Commune,Miki Tanaka,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-222,222,Moumouton,70,Incolore,,De base,Commune,Yukiko Baba,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-223,223,Moumouflon,130,Incolore,Moumouton,Niveau 1,Peu Commune,Shibuzoh.,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-224,224,Découverte de l'Aventurière,,,,,Peu Commune,Taira Akitsu,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-225,225,Passe de Combat VIP,,,,,Peu Commune,Ryo Ueda,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-226,226,Scout,,,,,Peu Commune,Yuu Nishida,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-227,227,"Armando, Rachid et Noa",,,,,Peu Commune,Yusuke Ohmura,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-228,228,Cuisinier,,,,,Peu Commune,Sanosuke Sakuma,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-229,229,NigoMix 3000,,,,,Peu Commune,Ryo Ueda,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-230,230,Échange Croisé,,,,,Peu Commune,inose yukie,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-231,231,Récepteur Croisé,,,,,Peu Commune,Studio Bora Inc.,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-232,232,Danseuse,,,,,Peu Commune,Sanosuke Sakuma,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-233,233,Éclat d'Inezia,,,,,Peu Commune,Yusuke Ohmura,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-234,234,Grelot d'Adieu,,,,,Peu Commune,AYUMI ODASHIMA,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-235,235,Juge,,,,,Peu Commune,Ryuta Fuse,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-236,236,Pastille Puissance,,,,,Peu Commune,Toyste Beach,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-237,237,Rapide Ball,,,,,Peu Commune,Ryo Ueda,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-238,238,Écolier,,,,,Peu Commune,kirisAki,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-239,239,Écolière,,,,,Peu Commune,kirisAki,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-240,240,Sannah,,,,,Peu Commune,Yuu Nishida,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-241,241,Damien,,,,,Peu Commune,Hideki Ishikawa,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-242,242,Skatepark,,,,,Peu Commune,Oswaldo KATO,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-243,243,Gants Spongieux,,,,,Peu Commune,Toyste Beach,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-244,244,Énergie Poing de Fusion,,,,,Peu Commune,,"normal, reverse",Poing de Fusion,Épée et Bouclier,284
+swsh8-245,245,Celebi V,190,Plante,,De base,Ultra Rare,Teeziro,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-246,246,Sucreine V,200,Plante,,De base,Ultra Rare,PLANETA Mochizuki,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-247,247,Lugulabre V,200,Feu,,De base,Ultra Rare,Saki Hayashiro,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-248,248,Crabominable V,220,Eau,,De base,Ultra Rare,MUGENUP,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-249,249,Fulgudog V,200,Électrique,,De base,Ultra Rare,Eske Yoshinob,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-250,250,Mew V,180,Psy,,De base,Ultra Rare,aky CG Works,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-251,251,Mew V,180,Psy,,De base,Ultra Rare,Naoki Saito,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-252,252,Dunaconda V,220,Combat,,De base,Ultra Rare,Narumi Sato,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-253,253,Hoopa V,220,Obscurité,,De base,Ultra Rare,takuyoa,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-254,254,Genesect V,190,Métal,,De base,Ultra Rare,PLANETA Tsuji,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-255,255,Genesect V,190,Métal,,De base,Ultra Rare,Akira Komayama,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-256,256,Rongrigou V,210,Incolore,,De base,Ultra Rare,PLANETA Mochizuki,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-257,257,Rongrigou V,210,Incolore,,De base,Ultra Rare,Saya Tsuruta,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-258,258,"Armando, Rachid et Noa",,,,,Ultra Rare,Sanosuke Sakuma,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-259,259,Danseuse,,,,,Ultra Rare,Yuu Nishida,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-260,260,Éclat d'Inezia,,,,,Ultra Rare,Ryuta Fuse,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-261,261,Écolier,,,,,Ultra Rare,Hideki Ishikawa,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-262,262,Écolière,,,,,Ultra Rare,Hideki Ishikawa,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-263,263,Sannah,,,,,Ultra Rare,Yuu Nishida,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-264,264,Damien,,,,,Ultra Rare,Hideki Ishikawa,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-265,265,Lugulabre VMAX,320,Feu,Lugulabre-V,ESCOUADE,Magnifique rare,AKIRA EGAWA,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-266,266,Lézargus VMAX,320,Eau,Lézargus-V,ESCOUADE,Magnifique rare,Kazuma Koda,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-267,267,Fulgudog VMAX,320,Électrique,Fulgudog-V,ESCOUADE,Magnifique rare,PLANETA Tsuji,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-268,268,Mew VMAX,310,Psy,Mew-V,ESCOUADE,Magnifique rare,5ban Graphics,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-269,269,Mew VMAX,310,Psy,Mew-V,ESCOUADE,Magnifique rare,AKIRA EGAWA,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-270,270,Mentali VMAX,310,Psy,Mentali-V,ESCOUADE,Magnifique rare,Kouki Saitou,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-271,271,Ectoplasma VMAX,320,Obscurité,Ectoplasma-V,ESCOUADE,Magnifique rare,sowsow,holo,Poing de Fusion,Épée et Bouclier,284
+swsh8-272,272,Rongrigou VMAX,320,Incolore,Rongrigou-V,ESCOUADE,Magnifique rare,PLANETA Mochizuki,"normal, reverse, holo",Poing de Fusion,Épée et Bouclier,284
+swsh8-273,273,"Armando, Rachid et Noa",,,,,Magnifique rare,Sanosuke Sakuma,"normal, reverse, holo",Poing de Fusion,Épée et Bouclier,284
+swsh8-274,274,Danseuse,,,,,Magnifique rare,Yuu Nishida,"normal, reverse, holo",Poing de Fusion,Épée et Bouclier,284
+swsh8-275,275,Éclat d'Inezia,,,,,Magnifique rare,Ryuta Fuse,"normal, reverse, holo",Poing de Fusion,Épée et Bouclier,284
+swsh8-276,276,Écolier,,,,,Magnifique rare,Hideki Ishikawa,"normal, reverse, holo",Poing de Fusion,Épée et Bouclier,284
+swsh8-277,277,Écolière,,,,,Magnifique rare,Hideki Ishikawa,"normal, reverse, holo",Poing de Fusion,Épée et Bouclier,284
+swsh8-278,278,Sannah,,,,,Magnifique rare,Yuu Nishida,"normal, reverse, holo",Poing de Fusion,Épée et Bouclier,284
+swsh8-279,279,Damien,,,,,Magnifique rare,Hideki Ishikawa,"normal, reverse, holo",Poing de Fusion,Épée et Bouclier,284
+swsh8-280,280,Lainergie,90,Électrique,Wattouat,Niveau 1,Magnifique rare,Studio Bora Inc.,"normal, reverse, holo",Poing de Fusion,Épée et Bouclier,284
+swsh8-281,281,Pastille Puissance,,,,,Magnifique rare,Toyste Beach,"normal, reverse, holo",Poing de Fusion,Épée et Bouclier,284
+swsh8-282,282,Court d'Entraînement,,,,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Poing de Fusion,Épée et Bouclier,284
+swsh8-283,283,Énergie Plante,,,,,Magnifique rare,,"normal, reverse, holo",Poing de Fusion,Épée et Bouclier,284
+swsh8-284,284,Énergie Feu,,,,,Magnifique rare,,"normal, reverse, holo",Poing de Fusion,Épée et Bouclier,284

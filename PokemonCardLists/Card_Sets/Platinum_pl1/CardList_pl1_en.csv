@@ -1,0 +1,134 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+pl1-1,1,Ampharos,130,Lightning,Flaaffy,Stage2,Rare Holo,Atsuko Nishida,"reverse, holo",Platinum,Platinum,133
+pl1-2,2,Blastoise,130,Water,Wartortle,Stage2,Rare Holo,Kagemaru Himeno,"reverse, holo",Platinum,Platinum,133
+pl1-3,3,Blaziken,130,Fire,Combusken,Stage2,Rare Holo,Hajime Kusajima,"reverse, holo",Platinum,Platinum,133
+pl1-4,4,Delcatty,90,Colorless,Skitty,Stage1,Rare Holo,Mitsuhiro Arita,"reverse, holo",Platinum,Platinum,133
+pl1-5,5,Dialga,100,Metal,,Basic,Rare Holo,Mitsuhiro Arita,"reverse, holo",Platinum,Platinum,133
+pl1-6,6,Dialga,100,Metal,,Basic,Rare Holo,Kouki Saitou,"reverse, holo",Platinum,Platinum,133
+pl1-7,7,Dialga G,100,Metal,,Basic,Rare Holo,Yusuke Ishikawa,"reverse, holo",Platinum,Platinum,133
+pl1-8,8,Gardevoir,120,Psychic,Kirlia,Stage2,Rare Holo,Kouki Saitou,"normal, reverse, holo",Platinum,Platinum,133
+pl1-9,9,Giratina,100,Psychic,,Basic,Rare Holo,Kouki Saitou,"reverse, holo",Platinum,Platinum,133
+pl1-10,10,Giratina,100,Psychic,,Basic,Rare Holo,Hajime Kusajima,"reverse, holo",Platinum,Platinum,133
+pl1-11,11,Manectric,90,Lightning,Electrike,Stage1,Rare Holo,Kouki Saitou,"reverse, holo",Platinum,Platinum,133
+pl1-12,12,Palkia G,100,Water,,Basic,Rare Holo,Yusuke Ishikawa,"reverse, holo",Platinum,Platinum,133
+pl1-13,13,Rampardos,130,Fighting,Cranidos,Stage2,Rare Holo,Masakazu Fukuda,"reverse, holo",Platinum,Platinum,133
+pl1-14,14,Shaymin,70,Grass,,Basic,Rare Holo,Kagemaru Himeno,"reverse, holo",Platinum,Platinum,133
+pl1-15,15,Shaymin,80,Grass,,Basic,Rare Holo,Atsuko Nishida,"reverse, holo",Platinum,Platinum,133
+pl1-16,16,Slaking,150,Colorless,Vigoroth,Stage2,Rare Holo,Masakazu Fukuda,"reverse, holo",Platinum,Platinum,133
+pl1-17,17,Weavile G,80,Darkness,,Basic,Rare Holo,Makoto Imai,"reverse, holo",Platinum,Platinum,133
+pl1-18,18,Altaria,90,Colorless,Swablu,Stage1,Rare,Naoyo Kimura,"normal, reverse",Platinum,Platinum,133
+pl1-19,19,Banette,90,Psychic,Shuppet,Stage1,Rare,Tomokazu Komiya,"normal, reverse",Platinum,Platinum,133
+pl1-20,20,Bastiodon,130,Metal,Shieldon,Stage2,Rare,Kagemaru Himeno,"normal, reverse",Platinum,Platinum,133
+pl1-21,21,Beautifly,120,Grass,Silcoon,Stage2,Rare,Suwama Chiaki,"normal, reverse",Platinum,Platinum,133
+pl1-22,22,Blissey,120,Colorless,Chansey,Stage1,Rare,Atsuko Nishida,"normal, reverse",Platinum,Platinum,133
+pl1-23,23,Dialga,100,Metal,,Basic,Rare,Kent Kanetsuna,"normal, reverse",Platinum,Platinum,133
+pl1-24,24,Dugtrio,90,Fighting,Diglett,Stage1,Rare,Sumiyoshi Kizuki,"normal, reverse",Platinum,Platinum,133
+pl1-25,25,Dustox,130,Psychic,Cascoon,Stage2,Rare,Yukiko Baba,"normal, reverse",Platinum,Platinum,133
+pl1-26,26,Empoleon,130,Water,Prinplup,Stage2,Rare,Mitsuhiro Arita,"normal, reverse",Platinum,Platinum,133
+pl1-27,27,Giratina,100,Psychic,,Basic,Rare,Mitsuhiro Arita,"normal, reverse",Platinum,Platinum,133
+pl1-28,28,Giratina,110,Psychic,,Basic,Rare,Yusuke Ishikawa,"normal, reverse, holo",Platinum,Platinum,133
+pl1-29,29,Golduck,90,Water,Psyduck,Stage1,Rare,Kouki Saitou,"normal, reverse",Platinum,Platinum,133
+pl1-30,30,Gyarados G,110,Water,,Basic,Rare,Kent Kanetsuna,"normal, reverse",Platinum,Platinum,133
+pl1-31,31,Infernape,110,Fire,Monferno,Stage2,Rare,Kouki Saitou,"normal, reverse",Platinum,Platinum,133
+pl1-32,32,Kricketune,90,Grass,Kricketot,Stage1,Rare,Atsuko Nishida,"normal, reverse",Platinum,Platinum,133
+pl1-33,33,Lickilicky,120,Colorless,Lickitung,Stage1,Rare,Mitsuhiro Arita,"normal, reverse",Platinum,Platinum,133
+pl1-34,34,Ludicolo,120,Grass,Lombre,Stage2,Rare,Kagemaru Himeno,"normal, reverse",Platinum,Platinum,133
+pl1-35,35,Luvdisc,70,Water,,Basic,Rare,Kagemaru Himeno,"normal, reverse",Platinum,Platinum,133
+pl1-36,36,Ninetales,90,Fire,Vulpix,Stage1,Rare,Suwama Chiaki,"normal, reverse",Platinum,Platinum,133
+pl1-37,37,Palkia,100,Water,,Basic,Rare,Kent Kanetsuna,"normal, reverse",Platinum,Platinum,133
+pl1-38,38,Shaymin,80,Grass,,Basic,Rare,Kouki Saitou,"normal, reverse, holo",Platinum,Platinum,133
+pl1-39,39,Torterra,140,Grass,Grotle,Stage2,Rare,Kagemaru Himeno,"normal, reverse",Platinum,Platinum,133
+pl1-40,40,Toxicroak G,90,Psychic,,Basic,Rare,Ryota Saito,"normal, reverse",Platinum,Platinum,133
+pl1-41,41,Bronzong G,90,Metal,,Basic,Uncommon,Makoto Imai,"normal, reverse",Platinum,Platinum,133
+pl1-42,42,Cacturne,90,Grass,Cacnea,Stage1,Uncommon,Mitsuhiro Arita,"normal, reverse",Platinum,Platinum,133
+pl1-43,43,Carnivine,80,Grass,,Basic,Uncommon,Mitsuhiro Arita,"normal, reverse",Platinum,Platinum,133
+pl1-44,44,Cascoon,80,Grass,Wurmple,Stage1,Uncommon,Yukiko Baba,"normal, reverse",Platinum,Platinum,133
+pl1-45,45,Combusken,80,Fire,Torchic,Stage1,Uncommon,Masakazu Fukuda,"normal, reverse",Platinum,Platinum,133
+pl1-46,46,Cranidos,80,Fighting,Skull Fossil,Stage1,Uncommon,Kouki Saitou,"normal, reverse",Platinum,Platinum,133
+pl1-47,47,Crobat G,80,Psychic,,Basic,Uncommon,Makoto Imai,"normal, reverse",Platinum,Platinum,133
+pl1-48,48,Flaaffy,80,Lightning,Mareep,Stage1,Uncommon,Sumiyoshi Kizuki,"normal, reverse",Platinum,Platinum,133
+pl1-49,49,Grotle,90,Grass,Turtwig,Stage1,Uncommon,Kagemaru Himeno,"normal, reverse",Platinum,Platinum,133
+pl1-50,50,Houndoom G,90,Fire,,Basic,Uncommon,Kent Kanetsuna,"normal, reverse",Platinum,Platinum,133
+pl1-51,51,Kirlia,80,Psychic,Ralts,Stage1,Uncommon,Naoyo Kimura,"normal, reverse",Platinum,Platinum,133
+pl1-52,52,Lombre,80,Grass,Lotad,Stage1,Uncommon,Midori Harada,"normal, reverse",Platinum,Platinum,133
+pl1-53,53,Lucario,90,Metal,Riolu,Stage1,Uncommon,Kouki Saitou,"normal, reverse",Platinum,Platinum,133
+pl1-54,54,Mightyena,90,Darkness,Poochyena,Stage1,Uncommon,Kouki Saitou,"normal, reverse",Platinum,Platinum,133
+pl1-55,55,Mismagius,90,Psychic,Misdreavus,Stage1,Uncommon,Kagemaru Himeno,"normal, reverse",Platinum,Platinum,133
+pl1-56,56,Monferno,80,Fire,Chimchar,Stage1,Uncommon,Kouki Saitou,"normal, reverse",Platinum,Platinum,133
+pl1-57,57,Muk,100,Psychic,Grimer,Stage1,Uncommon,Hajime Kusajima,"normal, reverse",Platinum,Platinum,133
+pl1-58,58,Octillery,90,Water,Remoraid,Stage1,Uncommon,Midori Harada,"normal, reverse",Platinum,Platinum,133
+pl1-59,59,Prinplup,80,Water,Piplup,Stage1,Uncommon,Mitsuhiro Arita,"normal, reverse",Platinum,Platinum,133
+pl1-60,60,Probopass,90,Fighting,Nosepass,Stage1,Uncommon,Mitsuhiro Arita,"normal, reverse",Platinum,Platinum,133
+pl1-61,61,Seviper,80,Psychic,,Basic,Uncommon,Sumiyoshi Kizuki,"normal, reverse",Platinum,Platinum,133
+pl1-62,62,Shieldon,80,Metal,Armor Fossil,Stage1,Uncommon,Mitsuhiro Arita,"normal, reverse",Platinum,Platinum,133
+pl1-63,63,Silcoon,80,Grass,Wurmple,Stage1,Uncommon,Kyoko Umemoto,"normal, reverse",Platinum,Platinum,133
+pl1-64,64,Vigoroth,80,Colorless,Slakoth,Stage1,Uncommon,Kouki Saitou,"normal, reverse",Platinum,Platinum,133
+pl1-65,65,Wartortle,80,Water,Squirtle,Stage1,Uncommon,Midori Harada,"normal, reverse",Platinum,Platinum,133
+pl1-66,66,Zangoose,80,Colorless,,Basic,Uncommon,Hajime Kusajima,"normal, reverse",Platinum,Platinum,133
+pl1-67,67,Cacnea,50,Grass,,Basic,Common,Sumiyoshi Kizuki,"normal, reverse",Platinum,Platinum,133
+pl1-68,68,Carnivine,80,Grass,,Basic,Common,Kagemaru Himeno,"normal, reverse",Platinum,Platinum,133
+pl1-69,69,Chansey,90,Colorless,,Basic,Common,Kouki Saitou,"normal, reverse",Platinum,Platinum,133
+pl1-70,70,Chimchar,50,Fire,,Basic,Common,Kouki Saitou,"normal, reverse",Platinum,Platinum,133
+pl1-71,71,Combee,60,Grass,,Basic,Common,Kagemaru Himeno,"normal, reverse",Platinum,Platinum,133
+pl1-72,72,Diglett,50,Fighting,,Basic,Common,Midori Harada,"normal, reverse",Platinum,Platinum,133
+pl1-73,73,Dunsparce,60,Colorless,,Basic,Common,Kouki Saitou,"normal, reverse",Platinum,Platinum,133
+pl1-74,74,Electrike,50,Lightning,,Basic,Common,Miki Tanaka,"normal, reverse",Platinum,Platinum,133
+pl1-75,75,Grimer,60,Psychic,,Basic,Common,Yukiko Baba,"normal, reverse",Platinum,Platinum,133
+pl1-76,76,Happiny,60,Colorless,,Basic,Common,Kagemaru Himeno,"normal, reverse",Platinum,Platinum,133
+pl1-77,77,Honchkrow G,80,Darkness,,Basic,Common,Yusuke Ishikawa,"normal, reverse",Platinum,Platinum,133
+pl1-78,78,Kricketot,60,Grass,,Basic,Common,Kyoko Umemoto,"normal, reverse",Platinum,Platinum,133
+pl1-79,79,Lapras,80,Water,,Basic,Common,Mitsuhiro Arita,"normal, reverse",Platinum,Platinum,133
+pl1-80,80,Lickitung,90,Colorless,,Basic,Common,Yuka Morii,"normal, reverse",Platinum,Platinum,133
+pl1-81,81,Lotad,50,Grass,,Basic,Common,Masakazu Fukuda,"normal, reverse",Platinum,Platinum,133
+pl1-82,82,Mareep,60,Lightning,,Basic,Common,Yuka Morii,"normal, reverse",Platinum,Platinum,133
+pl1-83,83,Misdreavus,50,Psychic,,Basic,Common,Kagemaru Himeno,"normal, reverse",Platinum,Platinum,133
+pl1-84,84,Nosepass,60,Fighting,,Basic,Common,Mitsuhiro Arita,"normal, reverse",Platinum,Platinum,133
+pl1-85,85,Piplup,60,Water,,Basic,Common,Mitsuhiro Arita,"normal, reverse",Platinum,Platinum,133
+pl1-86,86,Poochyena,50,Darkness,,Basic,Common,Tomokazu Komiya,"normal, reverse",Platinum,Platinum,133
+pl1-87,87,Psyduck,60,Water,,Basic,Common,Tomokazu Komiya,"normal, reverse",Platinum,Platinum,133
+pl1-88,88,Purugly G,90,Colorless,,Basic,Common,Ryota Saito,"normal, reverse",Platinum,Platinum,133
+pl1-89,89,Ralts,60,Psychic,,Basic,Common,Miki Tanaka,"normal, reverse",Platinum,Platinum,133
+pl1-90,90,Remoraid,60,Water,,Basic,Common,Miki Tanaka,"normal, reverse",Platinum,Platinum,133
+pl1-91,91,Riolu,60,Fighting,,Basic,Common,Kouki Saitou,"normal, reverse",Platinum,Platinum,133
+pl1-92,92,Shuppet,50,Psychic,,Basic,Common,Kyoko Umemoto,"normal, reverse",Platinum,Platinum,133
+pl1-93,93,Skitty,60,Colorless,,Basic,Common,Masakazu Fukuda,"normal, reverse",Platinum,Platinum,133
+pl1-94,94,Skuntank G,80,Psychic,,Basic,Common,Makoto Imai,"normal, reverse",Platinum,Platinum,133
+pl1-95,95,Slakoth,50,Colorless,,Basic,Common,Atsuko Nishida,"normal, reverse",Platinum,Platinum,133
+pl1-96,96,Squirtle,60,Water,,Basic,Common,Masakazu Fukuda,"normal, reverse",Platinum,Platinum,133
+pl1-97,97,Swablu,40,Colorless,,Basic,Common,Kagemaru Himeno,"normal, reverse",Platinum,Platinum,133
+pl1-98,98,Tauros,70,Colorless,,Basic,Common,Mitsuhiro Arita,"normal, reverse",Platinum,Platinum,133
+pl1-99,99,Torchic,60,Fire,,Basic,Common,Naoyo Kimura,"normal, reverse",Platinum,Platinum,133
+pl1-100,100,Torkoal,80,Fire,,Basic,Common,Kouki Saitou,"normal, reverse",Platinum,Platinum,133
+pl1-101,101,Turtwig,60,Grass,,Basic,Common,Kagemaru Himeno,"normal, reverse",Platinum,Platinum,133
+pl1-102,102,Vulpix,50,Fire,,Basic,Common,Mitsuhiro Arita,"normal, reverse",Platinum,Platinum,133
+pl1-103,103,Wurmple,50,Grass,,Basic,Common,Yuka Morii,"normal, reverse",Platinum,Platinum,133
+pl1-104,104,Broken Time-Space,,,,,Uncommon,Kent Kanetsuna,"normal, reverse",Platinum,Platinum,133
+pl1-105,105,Cyrus's Conspiracy,,,,,Uncommon,Ken Sugimori,"normal, reverse",Platinum,Platinum,133
+pl1-106,106,Galactic HQ,,,,,Uncommon,Ryota Saito,"normal, reverse",Platinum,Platinum,133
+pl1-107,107,Level Max,,,,,Uncommon,Ryo Ueda,"normal, reverse",Platinum,Platinum,133
+pl1-108,108,Life Herb,,,,,Uncommon,Ryo Ueda,"normal, reverse",Platinum,Platinum,133
+pl1-109,109,Looker's Investigation,,,,,Uncommon,Ken Sugimori,"normal, reverse",Platinum,Platinum,133
+pl1-110,110,Memory Berry,,,,,Uncommon,Shizurow,"normal, reverse",Platinum,Platinum,133
+pl1-111,111,Miasma Valley,,,,,Uncommon,Ryo Ueda,"normal, reverse",Platinum,Platinum,133
+pl1-112,112,PlusPower,,,,,Uncommon,Ryo Ueda,"normal, reverse",Platinum,Platinum,133
+pl1-113,113,Poké Ball,,,,,Uncommon,Ryo Ueda,"normal, reverse",Platinum,Platinum,133
+pl1-114,114,Pokédex HANDY910is,,,,,Uncommon,Ryo Ueda,"normal, reverse",Platinum,Platinum,133
+pl1-115,115,Pokémon Rescue,,,,,Uncommon,Ryo Ueda,"normal, reverse",Platinum,Platinum,133
+pl1-116,116,Team Galactic's Invention G-101 Energy Gain,,,,,Uncommon,Makoto Imai,"normal, reverse",Platinum,Platinum,133
+pl1-117,117,Team Galactic's Invention G-103 Power Spray,,,,,Uncommon,Yusuke Ishikawa,"normal, reverse",Platinum,Platinum,133
+pl1-118,118,Team Galactic's Invention G-105 Poké Turn,,,,,Uncommon,Makoto Imai,"normal, reverse",Platinum,Platinum,133
+pl1-119,119,Armor Fossil,50,,,,Common,Ryo Ueda,"normal, reverse",Platinum,Platinum,133
+pl1-120,120,Skull Fossil,50,,,,Common,Ryo Ueda,"normal, reverse",Platinum,Platinum,133
+pl1-121,121,Rainbow Energy,,,,,Uncommon,Takumi Akabane,"normal, reverse",Platinum,Platinum,133
+pl1-122,122,Dialga G,120,Metal,,LEVEL-UP,Rare Holo LV.X,Mitsuhiro Arita,holo,Platinum,Platinum,133
+pl1-123,123,Drapion,130,Darkness,,LEVEL-UP,Rare Holo LV.X,Ryo Ueda,holo,Platinum,Platinum,133
+pl1-124,124,Giratina,130,Psychic,,LEVEL-UP,Rare Holo LV.X,Shizurow,holo,Platinum,Platinum,133
+pl1-125,125,Palkia G,120,Water,,LEVEL-UP,Rare Holo LV.X,Mitsuhiro Arita,holo,Platinum,Platinum,133
+pl1-126,126,Shaymin,100,Grass,,LEVEL-UP,Rare Holo LV.X,Shizurow,holo,Platinum,Platinum,133
+pl1-127,127,Shaymin,110,Grass,,LEVEL-UP,Rare Holo LV.X,Shizurow,holo,Platinum,Platinum,133
+pl1-128,128,Electabuzz,70,Lightning,,Basic,Rare,Ken Sugimori,holo,Platinum,Platinum,133
+pl1-129,129,Hitmonchan,70,Fighting,,Basic,Rare,Ken Sugimori,holo,Platinum,Platinum,133
+pl1-130,130,Scyther,70,Grass,,Basic,Rare,Ken Sugimori,holo,Platinum,Platinum,133
+pl1-SH4,SH4,Lotad,50,Grass,,Basic,Rare,Masakazu Fukuda,reverse,Platinum,Platinum,133
+pl1-SH5,SH5,Swablu,50,Colorless,,Basic,Rare,Kagemaru Himeno,reverse,Platinum,Platinum,133
+pl1-SH6,SH6,Vulpix,60,Fire,,Basic,Rare,Mitsuhiro Arita,reverse,Platinum,Platinum,133

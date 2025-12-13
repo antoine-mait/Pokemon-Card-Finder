@@ -1,0 +1,133 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+dp3-1,1,Pharamp,130,Électrique,Lainergie,Niveau 2,Rare Holo,Kouki Saitou,"normal, reverse, holo",Merveilles Secrètes,Diamant & Perle,132
+dp3-2,2,Tortank,120,Eau,Carabaffe,Niveau 2,Rare Holo,Daisuke Ito,"reverse, holo",Merveilles Secrètes,Diamant & Perle,132
+dp3-3,3,Dracaufeu,130,Feu,Reptincel,Niveau 2,Rare Holo,Daisuke Ito,"reverse, holo",Merveilles Secrètes,Diamant & Perle,132
+dp3-4,4,Entei,80,Feu,,De base,Rare Holo,Ryo Ueda,"reverse, holo",Merveilles Secrètes,Diamant & Perle,132
+dp3-5,5,Libegon,120,Combat,Vibraninf,Niveau 2,Rare Holo,Daisuke Ito,"reverse, holo",Merveilles Secrètes,Diamant & Perle,132
+dp3-6,6,Gallame,130,Combat,Kirlia,Niveau 2,Rare Holo,Daisuke Ito,"reverse, holo",Merveilles Secrètes,Diamant & Perle,132
+dp3-7,7,Gardevoir,110,Psy,Kirlia,Niveau 2,Rare Holo,Atsuko Nishida,"reverse, holo",Merveilles Secrètes,Diamant & Perle,132
+dp3-8,8,Tritosor Mer Orient,100,Eau,Sancoki Mer Orient,Niveau 1,Rare Holo,Kazuyuki Kano,"reverse, holo",Merveilles Secrètes,Diamant & Perle,132
+dp3-9,9,Tritosor Mer Occident,100,Combat,Sancoki Mer Occident,Niveau 1,Rare Holo,Kazuyuki Kano,"reverse, holo",Merveilles Secrètes,Diamant & Perle,132
+dp3-10,10,Ho-Oh,90,Feu,,De base,Rare Holo,Kazuyuki Kano,"reverse, holo",Merveilles Secrètes,Diamant & Perle,132
+dp3-11,11,Cotovol,90,Plante,Floravol,Niveau 2,Rare Holo,Kagemaru Himeno,"reverse, holo",Merveilles Secrètes,Diamant & Perle,132
+dp3-12,12,Coudlangue,110,Incolore,Excelangue,Niveau 1,Rare Holo,Kazuyuki Kano,"reverse, holo",Merveilles Secrètes,Diamant & Perle,132
+dp3-13,13,Ludicolo,100,Eau,Lombre,Niveau 2,Rare Holo,Mitsuhiro Arita,"reverse, holo",Merveilles Secrètes,Diamant & Perle,132
+dp3-14,14,Lugia,90,Incolore,,De base,Rare Holo,Kazuyuki Kano,"reverse, holo",Merveilles Secrètes,Diamant & Perle,132
+dp3-15,15,Mew,60,Psy,,De base,Rare Holo,Kagemaru Himeno,"reverse, holo",Merveilles Secrètes,Diamant & Perle,132
+dp3-16,16,Raikou,80,Électrique,,De base,Rare Holo,Ryo Ueda,"reverse, holo",Merveilles Secrètes,Diamant & Perle,132
+dp3-17,17,Roserade,90,Plante,Roselia,Niveau 1,Rare Holo,Ken Sugimori,"reverse, holo",Merveilles Secrètes,Diamant & Perle,132
+dp3-18,18,Drattak,140,Incolore,Drackhaus,Niveau 2,Rare Holo,Kazuyuki Kano,"reverse, holo",Merveilles Secrètes,Diamant & Perle,132
+dp3-19,19,Suicune,70,Eau,Suicune,De base,Rare Holo,Ryo Ueda,"reverse, holo",Merveilles Secrètes,Diamant & Perle,132
+dp3-20,20,Florizarre,130,Plante,Herbizarre,Niveau 2,Rare Holo,Kazuyuki Kano,"normal, reverse, holo",Merveilles Secrètes,Diamant & Perle,132
+dp3-21,21,Absol,70,Obscurité,,De base,Rare,Ken Sugimori,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-22,22,Arcanin,100,Feu,Caninos,Niveau 1,Rare,Kouki Saitou,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-23,23,Branette,80,Psy,Polichombr,Niveau 1,Rare,Kouki Saitou,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-24,24,Triopikeur,90,Combat,Taupiqueur,Niveau 1,Rare,Ken Sugimori,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-25,25,Elekable,100,Électrique,Elektek,Niveau 1,Rare,Kouki Saitou,"normal, reverse, holo",Merveilles Secrètes,Diamant & Perle,132
+dp3-26,26,Electrode,80,Électrique,Voltorbe,Niveau 1,Rare,Ken Sugimori,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-27,27,Fouinar,90,Incolore,Fouinette,Niveau 1,Rare,Kagemaru Himeno,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-28,28,Akwakwak,90,Eau,Psykokwak,Niveau 1,Rare,Ken Sugimori,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-29,29,Grolem,130,Combat,Gravalanch,Niveau 2,Rare,Naoyo Kimura,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-30,30,Lippoutou,70,Psy,,De base,Rare,Kagemaru Himeno,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-31,31,Maganon,110,Feu,Magmar,Niveau 1,Rare,Kouki Saitou,"normal, reverse, holo",Merveilles Secrètes,Diamant & Perle,132
+dp3-32,32,Negapi,60,Électrique,,De base,Rare,Masakazu Fukuda,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-33,33,Papilord,80,Plante,Cheniti,Niveau 1,Rare,Kazuyuki Kano,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-34,34,Nidoking,130,Psy,Nidorino,Niveau 2,Rare,Kouki Saitou,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-35,35,Roucarnage,120,Incolore,Roucoups,Niveau 2,Rare,Masakazu Fukuda,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-36,36,Posipi,60,Électrique,,De base,Rare,Masakazu Fukuda,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-37,37,Sharpedo,80,Obscurité,Carvanha,Niveau 1,Rare,Ken Sugimori,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-38,38,Heliatronc,80,Plante,Tournegrin,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-39,39,Zarbi S,50,Psy,,De base,Rare,Kazuyuki Kano,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-40,40,Dimoret,80,Eau,Farfuret,Niveau 1,Rare,Kagemaru Himeno,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-41,41,Cheniselle Cape Plante,80,Plante,Cheniti Cape Plante,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-42,42,Cheniselle Cape Sable,80,Combat,Cheniti Cape Sable,Niveau 1,Rare,Kagemaru Himeno,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-43,43,Cheniselle Cape Déchet,70,Métal,Cheniti Cape Déchet,Niveau 1,Rare,Kazuyuki Kano,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-44,44,Xatu,80,Psy,Natu,Niveau 1,Rare,Sumiyoshi Kizuki,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-45,45,Chapignon,100,Plante,Balignon,Niveau 1,Peu Commune,Kouki Saitou,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-46,46,Reptincel,80,Feu,Salamèche,Niveau 1,Peu Commune,Atsuko Nishida,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-47,47,Crustabri,80,Eau,Kokiyas,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-48,48,Donphan,100,Combat,Phanpy,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-49,49,Canarticho,60,Incolore,,De base,Peu Commune,Ken Sugimori,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-50,50,Lainergie,80,Électrique,Wattouat,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-51,51,Herbizarre,80,Plante,Bulbizarre,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-52,52,Kecleon,70,Incolore,,De base,Peu Commune,Mitsuhiro Arita,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-53,53,Kirlia,80,Psy,Tarsal,Niveau 1,Peu Commune,Masakazu Fukuda,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-54,54,Lombre,70,Eau,Nénupiot,Niveau 1,Peu Commune,Kouki Saitou,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-55,55,Écrémeuh,90,Incolore,,De base,Peu Commune,Mitsuhiro Arita,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-56,56,Grotadmorv,80,Psy,Tadmorv,Niveau 1,Peu Commune,Daisuke Ito,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-57,57,Nidorino,80,Psy,Nidoran♂,Niveau 1,Peu Commune,Naoyo Kimura,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-58,58,Roucoups,70,Incolore,Roucool,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-59,59,Scarabrute,80,Plante,,De base,Peu Commune,Ken Sugimori,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-60,60,Maraiste,90,Eau,Axoloto,Niveau 1,Peu Commune,Sumiyoshi Kizuki,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-61,61,Rattatac,70,Incolore,Rattata,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-62,62,Roselia,70,Plante,,De base,Peu Commune,Kouki Saitou,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-63,63,Ténéfix,60,Obscurité,,De base,Peu Commune,Sumiyoshi Kizuki,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-64,64,Drackhaus,80,Incolore,Draby,Niveau 1,Peu Commune,Kouki Saitou,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-65,65,Floravol,60,Plante,Granivol,Niveau 1,Peu Commune,Masakazu Fukuda,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-66,66,Queulorior,70,Incolore,,De base,Peu Commune,Masakazu Fukuda,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-67,67,Lippouti,50,Psy,,De base,Peu Commune,Atsuko Nishida,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-68,68,Zarbi K,60,Psy,,De base,Peu Commune,Daisuke Ito,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-69,69,Zarbi N,50,Psy,,De base,Peu Commune,Daisuke Ito,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-70,70,Zarbi O,50,Psy,,De base,Peu Commune,Daisuke Ito,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-71,71,Zarbi X,50,Psy,,De base,Peu Commune,Kazuyuki Kano,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-72,72,Zarbi Z,50,Psy,,De base,Peu Commune,Kazuyuki Kano,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-73,73,Aéromite,80,Plante,Mimitoss,Niveau 1,Peu Commune,Mitsuhiro Arita,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-74,74,Vibraninf,80,Combat,Kraknoix,Niveau 1,Peu Commune,Kouki Saitou,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-75,75,Carabaffe,80,Eau,Carapuce,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-76,76,Draby,50,Incolore,,De base,Commune,Atsuko Nishida,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-77,77,Bulbizarre,60,Plante,,De base,Commune,Kouki Saitou,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-78,78,Cheniti Cape Plante,40,Plante,,De base,Commune,Kouki Saitou,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-79,79,Cheniti Cape Sable,40,Plante,,De base,Commune,Midori Harada,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-80,80,Cheniti Cape Déchet,40,Plante,,De base,Commune,Ken Sugimori,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-81,81,Carvanha,50,Obscurité,,De base,Commune,Masakazu Fukuda,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-82,82,Salamèche,50,Feu,,De base,Commune,Masakazu Fukuda,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-83,83,Mélofée,60,Incolore,,De base,Commune,Lee HyunJung,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-84,84,Corayon,70,Eau,,De base,Commune,Midori Harada,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-85,85,Taupiqueur,50,Combat,,De base,Commune,Takao Unno,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-86,86,Skélénox,50,Psy,,De base,Commune,Hiroki Fuchino,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-87,87,Elektek,70,Électrique,,De base,Commune,Masakazu Fukuda,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-88,88,Tadmorv,60,Psy,,De base,Commune,Ken Sugimori,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-89,89,Caninos,70,Feu,,De base,Commune,Kagemaru Himeno,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-90,90,Granivol,30,Plante,,De base,Commune,Motofumi Fujiwara,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-91,91,Excelangue,80,Incolore,,De base,Commune,Ken Sugimori,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-92,92,Nénupiot,50,Eau,,De base,Commune,Saya Tsuruta,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-93,93,Magmar,70,Feu,,De base,Commune,Ken Sugimori,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-94,94,Wattouat,50,Électrique,,De base,Commune,Atsuko Nishida,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-95,95,Cornèbre,50,Obscurité,,De base,Commune,Yusuke Ohmura,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-96,96,Natu,40,Psy,,De base,Commune,Midori Harada,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-97,97,Nidoran♂,60,Psy,,De base,Commune,Mitsuhiro Arita,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-98,98,Phanpy,60,Combat,,De base,Commune,Kouki Saitou,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-99,99,Roucool,50,Incolore,,De base,Commune,Hironobu Yoshida,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-100,100,Psykokwak,60,Eau,,De base,Commune,Kagemaru Himeno,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-101,101,Qwilfish,70,Eau,,De base,Commune,Kenkichi Toyama,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-102,102,Tarsal,60,Psy,,De base,Commune,Sumiyoshi Kizuki,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-103,103,Rattata,30,Incolore,,De base,Commune,Mitsuhiro Arita,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-104,104,Fouinette,60,Incolore,,De base,Commune,Midori Harada,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-105,105,Kokiyas,50,Eau,,De base,Commune,Ken Sugimori,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-106,106,Sancoki Mer Orient,60,Eau,,De base,Commune,Ken Sugimori,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-107,107,Sancoki Mer Occident,60,Eau,,De base,Commune,Ken Sugimori,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-108,108,Balignon,50,Plante,,De base,Commune,Midori Harada,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-109,109,Caratroc,60,Plante,,De base,Commune,Emi Yoshida,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-110,110,Polichombr,50,Psy,,De base,Commune,Kagemaru Himeno,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-111,111,Spinda,70,Incolore,,De base,Commune,Atsuko Nishida,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-112,112,Carapuce,50,Eau,,De base,Commune,Kagemaru Himeno,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-113,113,Cerfrousse,70,Incolore,,De base,Commune,Kouki Saitou,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-114,114,Tournegrin,40,Plante,,De base,Commune,Midori Harada,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-115,115,Kraknoix,50,Combat,,De base,Commune,Sumiyoshi Kizuki,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-116,116,Mimitoss,50,Plante,,De base,Commune,Ken Sugimori,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-117,117,Voltorbe,50,Électrique,,De base,Commune,Satoshi Ohta,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-118,118,Axoloto,60,Eau,,De base,Commune,Masakazu Fukuda,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-119,119,La recherche d'Amelle,,,,,Peu Commune,Ken Sugimori,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-120,120,Maintenance nocturne,,,,,Peu Commune,Ryo Ueda,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-121,121,PlusPower,,,,,Peu Commune,Ryo Ueda,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-122,122,La visite du Prof. Chen,,,,,Peu Commune,Ken Sugimori,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-123,123,Prof. Sorbier,,,,,Peu Commune,Ken Sugimori,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-124,124,Rival,,,,,Peu Commune,Ken Sugimori,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-125,125,La recherche de Rose,,,,,Peu Commune,Kanako Eo,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-126,126,Mars de la Team Galaxie,,,,,Peu Commune,Ken Sugimori,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-127,127,Potion,,,,,Commune,Shin-ichi Yoshikawa,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-128,128,Échange,,,,,Commune,Ryo Ueda,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-129,129,Énergie Obscurité,,,,,Peu Commune,Takumi Akabane,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-130,130,Énergie Métal,,,,,Peu Commune,Takumi Akabane,"normal, reverse",Merveilles Secrètes,Diamant & Perle,132
+dp3-131,131,Gardevoir,130,Psy,,Niveau Sup,Rare Holo LV.X,Ryo Ueda,"normal, holo",Merveilles Secrètes,Diamant & Perle,132
+dp3-132,132,Corboss,110,Obscurité,,Niveau Sup,Rare Holo LV.X,Ryo Ueda,holo,Merveilles Secrètes,Diamant & Perle,132

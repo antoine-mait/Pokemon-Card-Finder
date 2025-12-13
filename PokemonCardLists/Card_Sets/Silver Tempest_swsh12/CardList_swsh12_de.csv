@@ -1,0 +1,246 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+swsh12-001,001,Bluzuk,60,Pflanze,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-002,002,Omot,90,Pflanze,Bluzuk,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-003,003,Webarak,60,Pflanze,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-004,004,Ariados,90,Pflanze,Webarak,Rang 1,Holografisch Selten,,"reverse, holo",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-005,005,Sonnkern,40,Pflanze,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-006,006,Sonnflora,90,Pflanze,Sonnkern,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-007,007,Serpiroyal V,210,Pflanze,,Basis,Holografisch Selten V,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-008,008,Serpiroyal VSTAR,270,Pflanze,Serpiroyal-V,VSTAR,Holografisch Selten VSTAR,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-009,009,Lilminip,50,Pflanze,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-010,010,Hisui-Dressella,120,Pflanze,Lilminip,Rang 1,Selten,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-011,011,Tarnpignon,50,Pflanze,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-012,012,Hutsassa,90,Pflanze,Tarnpignon,Rang 1,Selten,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-013,013,Fermicula,110,Pflanze,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-014,014,Viridium,110,Pflanze,,Basis,Selten,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-015,015,Brigaron V,230,Pflanze,,Basis,Holografisch Selten V,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-016,016,Strahlendes Fruyal,140,Pflanze,,Basis,"Selten, Strahlend",,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-017,017,Vulpix,70,Feuer,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-018,018,Vulnona,110,Feuer,Vulpix,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-019,019,Fukano,90,Feuer,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-020,020,Arkani,140,Feuer,Fukano,Rang 1,Selten,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-021,021,Ponita,70,Feuer,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-022,022,Gallopa,100,Feuer,Ponita,Rang 1,Holografisch Selten,,"reverse, holo",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-023,023,Victini,70,Feuer,,Basis,Selten,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-024,024,Reshiram V,220,Feuer,,Basis,Holografisch Selten V,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-025,025,Fynx,60,Feuer,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-026,026,Rutena,90,Feuer,Fynx,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-027,027,Fennexis,150,Feuer,Rutena,Rang 2,Selten,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-028,028,Dartignis,80,Feuer,Dartiri,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-029,029,Fiaro,140,Feuer,Dartignis,Rang 2,Selten,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-030,030,Flamiau,70,Feuer,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-031,031,Miezunder,80,Feuer,Flamiau,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-032,032,Fuegro,170,Feuer,Miezunder,Rang 2,Selten,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-033,033,Alola Vulpix-V,190,Wasser,,Basis,Holografisch Selten V,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-034,034,Alola Vulpix-VSTAR,240,Wasser,Alola-Vulpix-V,VSTAR,Holografisch Selten VSTAR,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-035,035,Amoroso V,190,Wasser,,Basis,Holografisch Selten V,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-036,036,Arktos,110,Wasser,,Basis,Holografisch Selten,,"reverse, holo",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-037,037,Wailmer,110,Wasser,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-038,038,Wailord,200,Wasser,Wailmer,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-039,039,Barschwa,30,Wasser,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-040,040,Milotic,130,Wasser,Barschwa,Rang 1,Selten,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-041,041,Schneppke,60,Wasser,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-042,042,Firnontor,130,Wasser,Schneppke,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-043,043,Frosdedje,90,Wasser,Schneppke,Rang 1,Selten,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-044,044,Relicanth,90,Wasser,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-045,045,Phione,70,Wasser,,Basis,Selten,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-046,046,Keldeo,120,Wasser,,Basis,Selten,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-047,047,Araqua,60,Wasser,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-048,048,Aranestro,120,Wasser,Araqua,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-049,049,Pikachu,70,Elektro,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-050,050,Raichu,120,Elektro,Pikachu,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-051,051,Lampi,60,Elektro,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-052,052,Lanturn,120,Elektro,Lampi,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-053,053,Rotom,80,Elektro,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-054,054,Emolga,70,Elektro,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-055,055,Flunschlik,110,Elektro,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-056,056,Zeraora,110,Elektro,,Basis,Selten,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-057,057,Regieleki V,200,Elektro,,Basis,Holografisch Selten V,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-058,058,Regieleki VMAX,310,Elektro,Regieleki-V,VMAX,Holografisch Selten VMAX,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-059,059,Strahlendes Simsala,130,Psycho,,Basis,"Selten, Strahlend",,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-060,060,Traumato,70,Psycho,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-061,061,Hypno,110,Psycho,Traumato,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-062,062,Rossana,100,Psycho,,Basis,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-063,063,Traunfugil,60,Psycho,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-064,064,Traunmagil,90,Psycho,Traunfugil,Rang 1,Selten,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-065,065,Icognito V,180,Psycho,,Basis,Holografisch Selten V,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-066,066,Icognito VSTAR,250,Psycho,Icognito-V,VSTAR,Holografisch Selten VSTAR,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-067,067,Trasla,60,Psycho,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-068,068,Kirlia,80,Psycho,Trasla,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-069,069,Guardevoir,150,Psycho,Kirlia,Rang 2,Selten,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-070,070,Flunkifer V,200,Psycho,,Basis,Holografisch Selten V,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-071,071,Flunkifer VSTAR,260,Psycho,Flunkifer-V,VSTAR,Holografisch Selten VSTAR,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-072,072,Meditie,60,Psycho,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-073,073,Meditalis,120,Psycho,Meditie,Rang 1,Holografisch Selten,,"reverse, holo",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-074,074,Palimpalim,70,Psycho,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-075,075,Symvolara,100,Psycho,,Basis,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-076,076,Monozyto,40,Psycho,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-077,077,Mitodos,70,Psycho,Monozyto,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-078,078,Zytomega,120,Psycho,Mitodos,Rang 2,Holografisch Selten,,"reverse, holo",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-079,079,Pygraulon,60,Psycho,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-080,080,Megalon,90,Psycho,Pygraulon,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-081,081,Psiau,60,Psycho,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-082,082,Psiaugon,90,Psycho,Psiau,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-083,083,Flauschling,60,Psycho,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-084,084,Sabbaione,120,Psycho,Flauschling,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-085,085,Dedenne,60,Psycho,,Basis,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-086,086,Servol,90,Psycho,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-087,087,Grolldra,60,Psycho,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-088,088,Phandra,90,Psycho,Grolldra,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-089,089,Katapuldra,150,Psycho,Phandra,Rang 2,Holografisch Selten,,"reverse, holo",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-090,090,Hisui-Arkani V,230,Kampf,,Basis,Holografisch Selten V,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-091,091,Phanpy,80,Kampf,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-092,092,Donphan,150,Kampf,Phanpy,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-093,093,Puppance,50,Kampf,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-094,094,Lepumentas,110,Kampf,Puppance,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-095,095,Anorith,90,Kampf,Unbekanntes Fossil,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-096,096,Armaldo,150,Kampf,Anorith,Rang 2,Selten,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-097,097,Terrakium,130,Kampf,,Basis,Holografisch Selten,,"reverse, holo",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-098,098,Resladero,80,Kampf,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-099,099,Sankabuh,80,Kampf,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-100,100,Colossand,140,Kampf,Sankabuh,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-101,101,Humanolith,130,Kampf,,Basis,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-102,102,Ursaluna V,230,Kampf,,Basis,Holografisch Selten V,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-103,103,Zubat,40,Unlicht,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-104,104,Golbat,70,Unlicht,Zubat,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-105,105,Iksbat,130,Unlicht,Golbat,Rang 2,Holografisch Selten,,"reverse, holo",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-106,106,Kramurx,60,Unlicht,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-107,107,Kramshef,120,Unlicht,Kramurx,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-108,108,Skuntank V,210,Unlicht,,Basis,Holografisch Selten V,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-109,109,Glibunkel,80,Unlicht,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-110,110,Toxiquak,120,Unlicht,Glibunkel,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-111,111,Ganovil,70,Unlicht,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-112,112,Rokkaiman,100,Unlicht,Ganovil,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-113,113,Rabigator,160,Unlicht,Rokkaiman,Rang 2,Holografisch Selten,,"reverse, holo",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-114,114,Garstella,60,Unlicht,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-115,115,Aggrostella,120,Unlicht,Garstella,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-116,116,Morpeko,60,Unlicht,,Basis,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-117,117,Tanhel,60,Metall,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-118,118,Metang,100,Metall,Tanhel,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-119,119,Metagross,170,Metall,Metang,Rang 2,Holografisch Selten,,"reverse, holo",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-120,120,Strahlendes Jirachi,90,Metall,,Basis,"Selten, Strahlend",,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-121,121,Kastadur,60,Metall,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-122,122,Tentantel,130,Metall,Kastadur,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-123,123,Klikk,50,Metall,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-124,124,Kliklak,90,Metall,Klikk,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-125,125,Klikdiklak,160,Metall,Kliklak,Rang 2,Selten,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-126,126,Kobalium,120,Metall,,Basis,Selten,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-127,127,Togedemaru,80,Metall,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-128,128,Magearna V,210,Metall,,Basis,Holografisch Selten V,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-129,129,Dratini,70,Drache,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-130,130,Dragonir,100,Drache,Dratini,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-131,131,Dragoran,160,Drache,Dragonir,Rang 2,Holografisch Selten,,"reverse, holo",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-132,132,eF-eM,60,Drache,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-133,133,UHaFnir,110,Drache,eF-eM,Rang 1,Selten,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-134,134,Zygarde,90,Drache,,Basis,Selten,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-135,135,Regidrago V,220,Drache,,Basis,Holografisch Selten V,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-136,136,Regidrago VSTAR,280,Drache,Regidrago-V,VSTAR,Holografisch Selten VSTAR,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-137,137,Farbeagle,70,Farblos,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-138,138,Lugia V,220,Farblos,,Basis,Holografisch Selten V,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-139,139,Lugia VSTAR,280,Farblos,Lugia-V,VSTAR,Holografisch Selten VSTAR,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-140,140,Ho-Oh V,230,Farblos,,Basis,Holografisch Selten V,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-141,141,Pandir,90,Farblos,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-142,142,Wablu,50,Farblos,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-143,143,Altaria,110,Farblos,Wablu,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-144,144,Haspiror,60,Farblos,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-145,145,Schlapor,110,Farblos,Haspiror,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-146,146,Flapteryx,80,Farblos,Unbekanntes Fossil,Rang 1,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-147,147,Aeropteryx,150,Farblos,Flapteryx,Rang 2,Holografisch Selten,,"reverse, holo",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-148,148,Geronimatz,70,Farblos,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-149,149,Hisui-Washakwil,120,Farblos,Geronimatz,Rang 1,Selten,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-150,150,Dartiri,40,Farblos,,Basis,Häufig,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-151,151,Brian,,,,,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-152,152,Frida,,,,,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-153,153,Ergreifendes Aroma,,,,,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-154,154,Erd-Siegelstein,,,,,Holografisch Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-155,155,Notfall-Gelee,,,,,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-156,156,Wald-Siegelstein,,,,,Holografisch Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-157,157,Kimono-Trägerin,,,,,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-158,158,Arenatrainer,,,,,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-159,159,Siegfried,,,,,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-160,160,Blättriger Tarnponcho,,,,,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-161,161,Urzeitlicher Altar,,,,,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-162,162,Prof. Laven,,,,,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-163,163,Quartettstein,,,,,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-164,164,Serena,,,,,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-165,165,Unbekanntes Fossil,,,,,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-166,166,Wassili,,,,,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-167,167,Arbeiterin,,,,,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-168,168,Regenerative Energie,,,,,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-169,169,V-Schutz-Energie,,,,,Ungewöhnlich,,"normal, reverse",Silberne Sturmwinde,Schwert & Schild,245
+swsh12-170,170,Serpiroyal V,210,Pflanze,,Basis,Ultra Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-171,171,Brigaron V,230,Pflanze,,Basis,Ultra Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-172,172,Reshiram V,220,Feuer,,Basis,Ultra Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-173,173,Alola Vulpix-V,190,Wasser,,Basis,Ultra Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-174,174,Amoroso V,190,Wasser,,Basis,Ultra Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-175,175,Regieleki V,200,Elektro,,Basis,Ultra Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-176,176,Icognito V,180,Psycho,,Basis,Ultra Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-177,177,Icognito V,180,Psycho,,Basis,Ultra Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-178,178,Flunkifer V,200,Psycho,,Basis,Ultra Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-179,179,Hisui-Arkani V,230,Kampf,,Basis,Ultra Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-180,180,Skuntank V,210,Unlicht,,Basis,Ultra Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-181,181,Skuntank V,210,Unlicht,,Basis,Ultra Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-182,182,Magearna V,210,Metall,,Basis,Ultra Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-183,183,Regidrago V,220,Drache,,Basis,Ultra Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-184,184,Regidrago V,220,Drache,,Basis,Ultra Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-185,185,Lugia V,220,Farblos,,Basis,Ultra Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-186,186,Lugia V,220,Farblos,,Basis,Ultra Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-187,187,Ho-Oh V,230,Farblos,,Basis,Ultra Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-188,188,Brian,,,,,Ultra Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-189,189,Frida,,,,,Ultra Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-190,190,Kimono-Trägerin,,,,,Ultra Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-191,191,Arenatrainer,,,,,Ultra Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-192,192,Siegfried,,,,,Ultra Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-193,193,Serena,,,,,Ultra Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-194,194,Wassili,,,,,Ultra Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-195,195,Arbeiterin,,,,,Ultra Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-196,196,Serpiroyal VSTAR,270,Pflanze,Serpiroyal-V,VSTAR,Versteckt Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-197,197,Alola Vulpix-VSTAR,240,Wasser,Alola-Vulpix-V,VSTAR,Versteckt Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-198,198,Regieleki VMAX,310,Elektro,Regieleki-V,VMAX,Versteckt Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-199,199,Icognito VSTAR,250,Psycho,Icognito-V,VSTAR,Versteckt Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-200,200,Flunkifer VSTAR,260,Psycho,Flunkifer-V,VSTAR,Versteckt Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-201,201,Regidrago VSTAR,280,Drache,Regidrago-V,VSTAR,Versteckt Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-202,202,Lugia VSTAR,280,Farblos,Lugia-V,VSTAR,Versteckt Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-203,203,Brian,,,,,Versteckt Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-204,204,Frida,,,,,Versteckt Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-205,205,Kimono-Trägerin,,,,,Versteckt Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-206,206,Siegfried,,,,,Versteckt Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-207,207,Serena,,,,,Versteckt Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-208,208,Wassili,,,,,Versteckt Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-209,209,Arbeiterin,,,,,Versteckt Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-210,210,Serpiroyal VSTAR,270,Pflanze,Serpiroyal-V,VSTAR,Versteckt Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-211,211,Lugia VSTAR,280,Farblos,Lugia-V,VSTAR,Versteckt Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-212,212,Energie-Umschalter,,,,,Versteckt Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-213,213,Großmaulmoor,,,,,Versteckt Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-214,214,Blättriger Tarnponcho,,,,,Versteckt Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-215,215,V-Schutz-Energie,,,,,Versteckt Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-TG01,TG01,Rutena,90,Feuer,Fynx,Rang 1,Holografisch Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-TG02,TG02,Milotic,130,Wasser,Barschwa,Rang 1,Holografisch Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-TG03,TG03,Waaty,90,Elektro,Voltilamm,Rang 1,Holografisch Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-TG04,TG04,Rossana,100,Psycho,,Basis,Holografisch Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-TG05,TG05,Guardevoir,150,Psycho,Kirlia,Rang 2,Holografisch Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-TG06,TG06,Calamanero,120,Psycho,Iscalar,Rang 1,Holografisch Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-TG07,TG07,Wuffels,70,Kampf,,Basis,Holografisch Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-TG08,TG08,Quartermak,110,Kampf,,Basis,Holografisch Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-TG09,TG09,Shardrago,120,Drache,,Basis,Holografisch Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-TG10,TG10,Farbeagle,70,Farblos,,Basis,Holografisch Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-TG11,TG11,Altaria,110,Farblos,Wablu,Rang 1,Holografisch Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-TG12,TG12,Zirpeise V,180,Pflanze,,Basis,Holografisch Selten V,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-TG13,TG13,Serpiroyal V,210,Pflanze,,Basis,Holografisch Selten V,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-TG14,TG14,Lohgock V,210,Feuer,,Basis,Holografisch Selten V,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-TG15,TG15,Lohgock VMAX,320,Feuer,Lohgock-V,VMAX,Holografisch Selten VMAX,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-TG16,TG16,Zeraora V,210,Elektro,,Basis,Holografisch Selten V,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-TG17,TG17,Flunkifer V,200,Psycho,,Basis,Holografisch Selten V,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-TG18,TG18,Krarmor V,210,Metall,,Basis,Holografisch Selten V,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-TG19,TG19,Krarmor VMAX,320,Metall,Krarmor-V,VMAX,Holografisch Selten VMAX,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-TG20,TG20,Rayquaza VMAX,320,Drache,Rayquaza-V,VMAX,Holografisch Selten VMAX,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-TG21,TG21,Duraludon VMAX,330,Drache,Duraludon-V,VMAX,Holografisch Selten VMAX,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-TG22,TG22,Heiteira V,250,Farblos,,Basis,Holografisch Selten V,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-TG23,TG23,Freunde aus Galar,,,,,Vollkunsttrainer,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-TG24,TG24,Mac,,,,,Vollkunsttrainer,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-TG25,TG25,Richter,,,,,Vollkunsttrainer,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-TG26,TG26,Prof. Burnett,,,,,Vollkunsttrainer,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-TG27,TG27,Roy,,,,,Vollkunsttrainer,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-TG28,TG28,Schwerthold & Schildrich,,,,,Vollkunsttrainer,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-TG29,TG29,Rayquaza VMAX,320,Drache,Rayquaza-V,VMAX,Versteckt Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245
+swsh12-TG30,TG30,Duraludon VMAX,330,Drache,Duraludon-V,VMAX,Versteckt Selten,,holo,Silberne Sturmwinde,Schwert & Schild,245

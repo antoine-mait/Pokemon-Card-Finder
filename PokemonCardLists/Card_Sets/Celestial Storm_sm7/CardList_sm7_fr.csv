@@ -1,0 +1,184 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sm7-1,1,Chétiflor,60,Plante,,De base,Commune,Masako Yamashita,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-2,2,Boustiflor,80,Plante,Chétiflor,Niveau 1,Peu Commune,Miki Tanaka,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-3,3,Empiflor,140,Plante,Boustiflor,Niveau 2,Rare,Miki Tanaka,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-4,4,Insécateur,70,Plante,,De base,Peu Commune,Hajime Kusajima,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-5,5,Mimigal,50,Plante,,De base,Commune,Sachiko Adachi,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-6,6,Migalos,70,Plante,Mimigal,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-7,7,Arcko,50,Plante,,De base,Commune,Sekio,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-8,8,Arcko,70,Plante,,De base,Commune,tetsuya koizumi,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-9,9,Massko,80,Plante,Arcko,Niveau 1,Peu Commune,Shin Nagasawa,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-10,10,Jungko,140,Plante,Massko,Niveau 2,Rare,Mitsuhiro Arita,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-11,11,Grainipiot,40,Plante,,De base,Commune,miki kudo,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-12,12,Grainipiot,60,Plante,,De base,Commune,Misa Tsutsui,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-13,13,Pifeuil,90,Plante,Grainipiot,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-14,14,Tengalice GX,240,Plante,Pifeuil,,Ultra Rare,PLANETA Igarashi,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-15,15,Arakdo,50,Plante,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-16,16,Maskadra,90,Plante,Arakdo,Niveau 1,Peu Commune,Yukiko Baba,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-17,17,Muciole,70,Plante,,De base,Peu Commune,Saya Tsuruta,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-18,18,Lumivole,70,Plante,,De base,Peu Commune,Saya Tsuruta,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-19,19,Cacnea,60,Plante,,De base,Commune,Atsuko Nishida,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-20,20,Cacturne,110,Plante,Cacnea,Niveau 1,Peu Commune,Atsuko Nishida,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-21,21,Tropius,110,Plante,,De base,Peu Commune,Kagemaru Himeno,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-22,22,Sinistrail,130,Plante,,De base,Rare,Kyoko Umemoto,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-23,23,Limagma,70,Feu,,De base,Commune,Midori Harada,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-24,24,Volcaropod,90,Feu,Limagma,Niveau 1,Rare,Midori Harada,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-25,25,Poussifeu,50,Feu,,De base,Commune,Kagemaru Himeno,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-26,26,Poussifeu,70,Feu,,De base,Commune,MAHOU,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-27,27,Galifeu,80,Feu,Poussifeu,Niveau 1,Peu Commune,Mizue,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-28,28,Braségali GX,240,Feu,Galifeu,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-29,29,Chartor,120,Feu,,De base,Peu Commune,Ken Sugimori,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-30,30,Plumeline,90,Feu,,De base,Peu Commune,Naoyo Kimura,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-31,31,Artikodin GX,170,Eau,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-32,32,Gobou,60,Eau,,De base,Commune,Shigenori Negishi,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-33,33,Gobou,70,Eau,,De base,Commune,Misa Tsutsui,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-34,34,Flobio,90,Eau,Gobou,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-35,35,Laggron,160,Eau,Flobio,Niveau 2,Rare,SATOSHI NAKAI,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-36,36,Nénupiot,60,Eau,,De base,Commune,Atsuko Nishida,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-37,37,Lombre,80,Eau,Nénupiot,Niveau 1,Peu Commune,Atsuko Nishida,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-38,38,Ludicolo,140,Eau,Lombre,Niveau 2,Rare,Atsuko Nishida,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-39,39,Wailmer,120,Eau,,De base,Commune,Kagemaru Himeno,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-40,40,Wailord,220,Eau,Wailmer,Niveau 1,Rare,Anesaki Dynamic,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-41,41,Coquiperl,50,Eau,,De base,Commune,sui,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-42,42,Serpang,110,Eau,Coquiperl,Niveau 1,Peu Commune,Shigenori Negishi,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-43,43,Rosabyss,90,Eau,Coquiperl,Niveau 1,Peu Commune,Mizue,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-44,44,Lovdisc,70,Eau,,De base,Commune,Asako Ito,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-45,45,Regice,120,Eau,,De base,Rare,kodama,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-46,46,Kyogre,130,Eau,,De base,Rare,Shin Nagasawa,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-47,47,Voltorbe,50,Électrique,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-48,48,Électrode GX,190,Électrique,Voltorbe,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-49,49,Loupio,60,Électrique,,De base,Commune,Aya Kusube,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-50,50,Lanturn,110,Électrique,Loupio,Niveau 1,Peu Commune,Aya Kusube,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-51,51,Dynavolt,50,Électrique,,De base,Commune,Kouki Saitou,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-52,52,Élecsprint,110,Électrique,Dynavolt,Niveau 1,Rare,Sanosuke Sakuma,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-53,53,Posipi,70,Électrique,,De base,Peu Commune,Kanako Eo,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-54,54,Négapi,70,Électrique,,De base,Peu Commune,Sumiyoshi Kizuki,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-55,55,Plumeline,90,Électrique,,De base,Peu Commune,Sekio,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-56,56,M. Mime GX,150,Psy,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-57,57,Gloupti,60,Psy,,De base,Commune,Yuka Morii,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-58,58,Avaltout,120,Psy,Gloupti,Niveau 1,Peu Commune,Yuka Morii,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-59,59,Spoink,60,Psy,,De base,Commune,MAHOU,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-60,60,Groret,120,Psy,Spoink,Niveau 1,Rare,Ken Sugimori,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-61,61,Séléroc,80,Psy,,De base,Rare,Hisao Nakamura,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-62,62,Solaroc,90,Psy,,De base,Peu Commune,Kyoko Umemoto,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-63,63,Polichombr,60,Psy,,De base,Commune,Mitsuhiro Arita,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-64,64,Polichombr,50,Psy,,De base,Commune,Eri Yamaki,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-65,65,Branette,90,Psy,Polichombr,Niveau 1,Rare,Eri Yamaki,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-66,66,Branette GX,190,Psy,Polichombr,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-67,67,Deoxys,120,Psy,,De base,Rare,Masakazu Fukuda,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-68,68,Deoxys,130,Psy,,De base,Rare,Ayaka Yoshida,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-69,69,Deoxys,100,Psy,,De base,Rare,Kouki Saitou,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-70,70,Lunala,160,Psy,Cosmovum,Niveau 2,Rare,5ban Graphics,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-71,71,Onix,100,Combat,,De base,Commune,Mitsuhiro Arita,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-72,72,Phanpy,70,Combat,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-73,73,Donphan,130,Combat,Phanpy,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-74,74,Embrylex,60,Combat,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-75,75,Ymphect,80,Combat,Embrylex,Niveau 1,Peu Commune,Hironobu Yoshida,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-76,76,Méditikka,70,Combat,,De base,Commune,Shibuzoh.,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-77,77,Charmina,90,Combat,Méditikka,Niveau 1,Rare,Misa Tsutsui,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-78,78,Balbuto,60,Combat,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-79,79,Kaorine,110,Combat,Balbuto,Niveau 1,Rare,Yumi,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-80,80,Regirock,120,Combat,,De base,Rare,Ayaka Yoshida,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-81,81,Groudon,130,Combat,,De base,Rare,Masakazu Fukuda,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-82,82,Trépassable GX,210,Combat,Bacabouh,Niveau 1,Ultra Rare,5ban Graphics,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-83,83,Météno,90,Combat,,De base,Peu Commune,sui,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-84,84,Rattata d’Alola,40,Obscurité,,De base,Commune,Shibuzoh.,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-85,85,Rattatac d’Alola GX,200,Obscurité,Rattata d’Alola,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-86,86,Farfuret,60,Obscurité,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-87,87,Tyranocif,170,Obscurité,Ymphect,Niveau 2,Rare,Hironobu Yoshida,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-88,88,Ténéfix,70,Obscurité,,De base,Peu Commune,Yukiko Baba,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-89,89,Steelix,190,Métal,Onix,Niveau 1,Rare,Ken Sugimori,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-90,90,Cizayox GX,210,Métal,Insécateur,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-91,91,Mysdibule,70,Métal,,De base,Peu Commune,Kagemaru Himeno,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-92,92,Terhal,60,Métal,,De base,Commune,Naoyo Kimura,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-93,93,Terhal,70,Métal,,De base,Commune,Hasuno,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-94,94,Métang,90,Métal,Terhal,Niveau 1,Peu Commune,SATOSHI NAKAI,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-95,95,Métalosse,170,Métal,Métang,Niveau 2,Rare,TOKIYA,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-96,96,Registeel,120,Métal,,De base,Rare,Shin Nagasawa,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-97,97,Jirachi ◇,80,Métal,,De base,Rare,Kouki Saitou,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-98,98,Heatran,130,Métal,,De base,Rare,Masakazu Fukuda,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-99,99,Solgaleo,160,Métal,Cosmovum,Niveau 2,Rare,5ban Graphics,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-100,100,Bamboiselle,140,Métal,,De base,Rare,kawayoo,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-101,101,Katagami,60,Métal,,De base,Rare,Hasuno,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-102,102,Ama-Ama GX,180,Métal,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-103,103,Draby,60,Dragon,,De base,Commune,Yumi,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-104,104,Draby,70,Dragon,,De base,Commune,sui,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-105,105,Drackhaus,90,Dragon,Draby,Niveau 1,Peu Commune,Asako Ito,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-106,106,Drattak,150,Dragon,Drackhaus,Niveau 2,Rare,Mitsuhiro Arita,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-107,107,Latias ◇,130,Dragon,,De base,Rare,Anesaki Dynamic,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-108,108,Latios ◇,140,Dragon,,De base,Rare,Anesaki Dynamic,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-109,109,Rayquaza GX,180,Dragon,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-110,110,Insolourdo,50,Incolore,,De base,Peu Commune,Mitsuhiro Arita,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-111,111,Goélise,60,Incolore,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-112,112,Bekipan,120,Incolore,Goélise,Niveau 1,Peu Commune,Shigenori Negishi,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-113,113,Parecool,60,Incolore,,De base,Commune,Kagemaru Himeno,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-114,114,Vigoroth,80,Incolore,Parecool,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-115,115,Monaflèmit,160,Incolore,Vigoroth,Niveau 2,Rare,Ken Sugimori,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-116,116,Chuchmur,60,Incolore,,De base,Commune,Shibuzoh.,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-117,117,Chuchmur,70,Incolore,,De base,Commune,Asako Ito,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-118,118,Ramboum,100,Incolore,Chuchmur,Niveau 1,Peu Commune,Masakazu Fukuda,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-119,119,Brouhabam,150,Incolore,Ramboum,Niveau 2,Rare,kawayoo,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-120,120,Skitty,60,Incolore,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-121,121,Delcatty,90,Incolore,Skitty,Niveau 1,Rare,Sekio,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-122,122,Kecleon,80,Incolore,,De base,Peu Commune,OOYAMA,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-123,123,Vélo Cross,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-124,124,Artisan de Noigrumes,,,,,Peu Commune,Kagemaru Himeno,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-125,125,Ultra Ball,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-126,126,Entretien de Léo,,,,,Peu Commune,Ken Sugimori,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-127,127,Copieuse,,,,,Peu Commune,Ken Sugimori,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-128,128,Recyclage d’Énergie,,,,,Peu Commune,Zu-Ka,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-129,129,Échange d’Énergie,,,,,Peu Commune,Ken Ikuji,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-130,130,Pêcheur,,,,,Peu Commune,Masakazu Fukuda,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-131,131,Copain Ball,,,,,Peu Commune,Katsura Tabata,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-132,132,Tili,,,,,Peu Commune,TOKIYA,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-133,133,Montagnard,,,,,Peu Commune,Naoki Saito,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-134,134,Ceinture Agitée,,,,,Peu Commune,Yoshinobu Saito,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-135,135,Potion de la Dernière Chance,,,,,Peu Commune,Ayaka Yoshida,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-136,136,Herbe Sauveuse,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-137,137,Atalante,,,,,Peu Commune,Megumi Mizutani,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-138,138,Appât Ball,,,,,Peu Commune,Katsura Tabata,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-139,139,Royal Mask,,,,,Peu Commune,Ken Sugimori,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-140,140,PokéNav,,,,,Peu Commune,Katsura Tabata,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-141,141,Pinceau Arc-en-Ciel,,,,,Peu Commune,Eske Yoshinob,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-142,142,Super Bonbon,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-143,143,Chapelle des Châtiments,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-144,144,Pilier Céleste,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-145,145,Résolution de Pierre,,,,,Rare,Hitoshi Ariga,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-146,146,Super Rappel,,,,,Peu Commune,Keiji Kinebuchi,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-147,147,Échange,,,,,Peu Commune,Hiromichi Sugiyama,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-148,148,Lévy et Tatia,,,,,Peu Commune,Megumi Mizutani,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-149,149,Journaliste Télé,,,,,Peu Commune,Ken Sugimori,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-150,150,Expédition Souterraine,,,,,Peu Commune,Kagemaru Himeno,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-151,151,Énergie Multicolore,,,,,Peu Commune,,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-152,152,Tengalice GX,240,Plante,Pifeuil,,Ultra Rare,PLANETA Igarashi,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-153,153,Braségali GX,240,Feu,Galifeu,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-154,154,Artikodin GX,170,Eau,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-155,155,Électrode GX,190,Électrique,Voltorbe,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-156,156,M. Mime GX,150,Psy,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-157,157,Branette GX,190,Psy,Polichombr,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-158,158,Cizayox GX,210,Métal,Insécateur,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-159,159,Ama-Ama GX,180,Métal,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-160,160,Rayquaza GX,180,Dragon,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-161,161,Artisan de Noigrumes,,,,,Ultra Rare,Kagemaru Himeno,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-162,162,Entretien de Léo,,,,,Ultra Rare,Sanosuke Sakuma,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-163,163,Copieuse,,,,,Ultra Rare,Megumi Mizutani,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-164,164,Atalante,,,,,Ultra Rare,Naoki Saito,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-165,165,Résolution de Pierre,,,,,Ultra Rare,Hitoshi Ariga,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-166,166,Lévy et Tatia,,,,,Ultra Rare,Hideki Ishikawa,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-167,167,Journaliste Télé,,,,,Ultra Rare,nagimiso,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-168,168,Expédition Souterraine,,,,,Ultra Rare,Kagemaru Himeno,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-169,169,Tengalice GX,240,Plante,Pifeuil,,Magnifique rare,PLANETA Igarashi,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-170,170,Braségali GX,240,Feu,Galifeu,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-171,171,Artikodin GX,170,Eau,,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-172,172,Électrode GX,190,Électrique,Voltorbe,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-173,173,M. Mime GX,150,Psy,,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-174,174,Branette GX,190,Psy,Polichombr,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-175,175,Cizayox GX,210,Métal,Insécateur,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-176,176,Ama-Ama GX,180,Métal,,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-177,177,Rayquaza GX,180,Dragon,,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-178,178,Vélo Cross,,,,,Magnifique rare,Toyste Beach,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-179,179,Ceinture Agitée,,,,,Magnifique rare,Yoshinobu Saito,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-180,180,Herbe Sauveuse,,,,,Magnifique rare,Ryo Ueda,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-181,181,PokéNav,,,,,Magnifique rare,Katsura Tabata,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-182,182,Pinceau Arc-en-Ciel,,,,,Magnifique rare,Eske Yoshinob,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183
+sm7-183,183,Énergie Multicolore,,,,,Magnifique rare,,"normal, reverse, holo",Tempête Céleste,Soleil et Lune,183

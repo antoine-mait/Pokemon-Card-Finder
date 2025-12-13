@@ -1,0 +1,63 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+base3-1,1,Ptera,60,Combat,,Niveau 1,Rare,Kagemaru Himeno,"holo, 1st edition",Fossile,Base,62
+base3-2,2,Artikodin,70,Eau,,De base,Rare,Mitsuhiro Arita,"holo, 1st edition",Fossile,Base,62
+base3-3,3,Metamorph,50,Incolore,,De base,Rare,Keiji Kinebuchi,"holo, 1st edition",Fossile,Base,62
+base3-4,4,Dracolosse,100,Incolore,,Niveau 2,Rare,Kagemaru Himeno,"holo, 1st edition",Fossile,Base,62
+base3-5,5,Ectoplasma,80,Psy,,Niveau 2,Rare,Keiji Kinebuchi,"holo, 1st edition",Fossile,Base,62
+base3-6,6,Spectrum,50,Psy,,Niveau 1,Rare,Ken Sugimori,"holo, 1st edition",Fossile,Base,62
+base3-7,7,Kicklee,60,Combat,,De base,Rare,Ken Sugimori,"holo, 1st edition",Fossile,Base,62
+base3-8,8,Hypnomade,90,Psy,,Niveau 1,Rare,Ken Sugimori,"holo, 1st edition",Fossile,Base,62
+base3-9,9,Kabutops,60,Combat,,Niveau 2,Rare,Ken Sugimori,"holo, 1st edition",Fossile,Base,62
+base3-10,10,Lokhlass,80,Eau,,De base,Rare,Ken Sugimori,"holo, 1st edition",Fossile,Base,62
+base3-11,11,Magneton,80,Électrique,,Niveau 1,Rare,Ken Sugimori,"holo, 1st edition",Fossile,Base,62
+base3-12,12,Sulfura,70,Feu,,De base,Rare,Mitsuhiro Arita,"holo, 1st edition",Fossile,Base,62
+base3-13,13,Grotadmorv,70,Plante,,Niveau 1,Rare,Mitsuhiro Arita,"holo, 1st edition",Fossile,Base,62
+base3-14,14,Raichu,90,Électrique,,Niveau 1,Rare,Mitsuhiro Arita,"holo, 1st edition",Fossile,Base,62
+base3-15,15,Élector,80,Électrique,,De base,Rare,Mitsuhiro Arita,"holo, 1st edition",Fossile,Base,62
+base3-16,16,Ptera,60,Combat,,Niveau 1,Rare,Kagemaru Himeno,"normal, 1st edition",Fossile,Base,62
+base3-17,17,Artikodin,70,Eau,,De base,Rare,Mitsuhiro Arita,"normal, 1st edition",Fossile,Base,62
+base3-18,18,Metamorph,50,Incolore,,De base,Rare,Keiji Kinebuchi,"normal, 1st edition",Fossile,Base,62
+base3-19,19,Dracolosse,100,Incolore,,Niveau 2,Rare,Kagemaru Himeno,"normal, 1st edition",Fossile,Base,62
+base3-20,20,Ectoplasma,80,Psy,,Niveau 2,Rare,Keiji Kinebuchi,"normal, 1st edition",Fossile,Base,62
+base3-21,21,Spectrum,50,Psy,,Niveau 1,Rare,Ken Sugimori,"normal, 1st edition",Fossile,Base,62
+base3-22,22,Kicklee,60,Combat,,De base,Rare,Ken Sugimori,"normal, 1st edition",Fossile,Base,62
+base3-23,23,Hypnomade,90,Psy,,Niveau 1,Rare,Ken Sugimori,"normal, 1st edition",Fossile,Base,62
+base3-24,24,Kabutops,60,Combat,,Niveau 2,Rare,Ken Sugimori,"normal, 1st edition",Fossile,Base,62
+base3-25,25,Lokhlass,80,Eau,,De base,Rare,Ken Sugimori,"normal, 1st edition",Fossile,Base,62
+base3-26,26,Magneton,80,Électrique,,Niveau 1,Rare,Ken Sugimori,"normal, 1st edition",Fossile,Base,62
+base3-27,27,Sulfura,70,Feu,,De base,Rare,Mitsuhiro Arita,"normal, 1st edition",Fossile,Base,62
+base3-28,28,Grotadmorv,70,Plante,,Niveau 1,Rare,Mitsuhiro Arita,"normal, 1st edition",Fossile,Base,62
+base3-29,29,Raichu,90,Électrique,,Niveau 1,Rare,Mitsuhiro Arita,"normal, 1st edition",Fossile,Base,62
+base3-30,30,Élector,80,Électrique,,De base,Rare,Mitsuhiro Arita,"normal, 1st edition",Fossile,Base,62
+base3-31,31,Arbok,60,Plante,,Niveau 1,Peu Commune,Ken Sugimori,"normal, 1st edition",Fossile,Base,62
+base3-32,32,Crustabri,50,Eau,,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, 1st edition",Fossile,Base,62
+base3-33,33,Fantominus,50,Psy,,De base,Peu Commune,Mitsuhiro Arita,"normal, 1st edition",Fossile,Base,62
+base3-34,34,Nosferalto,60,Plante,,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, 1st edition",Fossile,Base,62
+base3-35,35,Akwakwak,70,Eau,,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, 1st edition",Fossile,Base,62
+base3-36,36,Grolem,80,Combat,,Niveau 2,Peu Commune,Kagemaru Himeno,"normal, 1st edition",Fossile,Base,62
+base3-37,37,Gravalanch,60,Combat,,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, 1st edition",Fossile,Base,62
+base3-38,38,Krabboss,60,Eau,,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, 1st edition",Fossile,Base,62
+base3-39,39,Magmar,70,Feu,,De base,Peu Commune,Mitsuhiro Arita,"normal, 1st edition",Fossile,Base,62
+base3-40,40,Amonistar,70,Eau,,Niveau 2,Peu Commune,Ken Sugimori,"normal, 1st edition",Fossile,Base,62
+base3-41,41,Sablaireau,70,Combat,,Niveau 1,Peu Commune,Ken Sugimori,"normal, 1st edition",Fossile,Base,62
+base3-42,42,Hypocéan,60,Eau,,Niveau 1,Peu Commune,Ken Sugimori,"normal, 1st edition",Fossile,Base,62
+base3-43,43,Flagadoss,60,Psy,,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, 1st edition",Fossile,Base,62
+base3-44,44,Tentacruel,60,Eau,,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, 1st edition",Fossile,Base,62
+base3-45,45,Smogogo,60,Plante,,Niveau 1,Peu Commune,Mitsuhiro Arita,"normal, 1st edition",Fossile,Base,62
+base3-46,46,Abo,40,Plante,,De base,Commune,Kagemaru Himeno,"normal, 1st edition",Fossile,Base,62
+base3-47,47,Racaillou,50,Combat,,De base,Commune,Kagemaru Himeno,"normal, 1st edition",Fossile,Base,62
+base3-48,48,Tadmorv,50,Plante,,De base,Commune,Mitsuhiro Arita,"normal, 1st edition",Fossile,Base,62
+base3-49,49,Hypotrempe,40,Eau,,De base,Commune,Mitsuhiro Arita,"normal, 1st edition",Fossile,Base,62
+base3-50,50,Kabuto,30,Combat,,Niveau 1,Commune,Ken Sugimori,"normal, 1st edition",Fossile,Base,62
+base3-51,51,Krabby,50,Eau,,De base,Commune,Mitsuhiro Arita,"normal, 1st edition",Fossile,Base,62
+base3-52,52,Amonita,40,Eau,,Niveau 1,Commune,Kagemaru Himeno,"normal, 1st edition",Fossile,Base,62
+base3-53,53,Psykokwak,50,Eau,,De base,Commune,Kagemaru Himeno,"normal, 1st edition",Fossile,Base,62
+base3-54,54,Kokiyas,30,Eau,,De base,Commune,Mitsuhiro Arita,"normal, 1st edition",Fossile,Base,62
+base3-55,55,Ramoloss,50,Psy,,De base,Commune,Miki Tanaka,"normal, 1st edition",Fossile,Base,62
+base3-56,56,Tentacool,30,Eau,,De base,Commune,Kagemaru Himeno,"normal, 1st edition",Fossile,Base,62
+base3-57,57,Nosferapti,40,Plante,,De base,Commune,Kagemaru Himeno,"normal, 1st edition",Fossile,Base,62
+base3-58,58,M. Fuji,,,,,Peu Commune,Ken Sugimori,"normal, 1st edition",Fossile,Base,62
+base3-59,59,Recherche d'Énergie,,,,,Commune,Keiji Kinebuchi,"normal, 1st edition",Fossile,Base,62
+base3-60,60,Joueur,,,,,Commune,Keiji Kinebuchi,"normal, 1st edition",Fossile,Base,62
+base3-61,61,Recyclage,,,,,Commune,Keiji Kinebuchi,"normal, 1st edition",Fossile,Base,62
+base3-62,62,Mystérieux Fossile,10,,,,Commune,Keiji Kinebuchi,"normal, 1st edition",Fossile,Base,62

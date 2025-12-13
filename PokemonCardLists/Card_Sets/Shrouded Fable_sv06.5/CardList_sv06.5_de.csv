@@ -1,0 +1,100 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sv06.5-001,001,Wattzapf,40,Pflanze,,Basis,Häufig,Naoyo Kimura,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-002,002,Voltula,100,Pflanze,Wattzapf,Rang 1,Ungewöhnlich,mashu,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-003,003,Bauz,70,Pflanze,,Basis,Häufig,Yoshimi Miyoshi,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-004,004,Arboretoss,90,Pflanze,Bauz,Rang 1,Häufig,Tetsu Kayama,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-005,005,Silvarro,150,Pflanze,Arboretoss,Rang 2,Ungewöhnlich,DOM,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-006,006,Kapu-Toro,140,Pflanze,,Basis,Selten,GOSSAN,"reverse, holo",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-007,007,Hunduster,70,Feuer,,Basis,Häufig,REND,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-008,008,Hundemon,120,Feuer,Hunduster,Rang 1,Häufig,burari,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-009,009,Eisenfalter,120,Feuer,,Basis,Ungewöhnlich,Shinji Kanda,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-010,010,Seeper,60,Wasser,,Basis,Häufig,Shimaris Yukichi,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-011,011,Seemon,90,Wasser,Seeper,Rang 1,Häufig,Yuya Oka,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-012,012,Seedraking-ex,310,Wasser,Seemon,Rang 2,Doppelselten,toriyufu,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-013,013,Sniebel,70,Wasser,,Basis,Häufig,Krgc,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-014,014,Snibunna,100,Wasser,Sniebel,Rang 1,Ungewöhnlich,aspara,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-015,015,Knattatox-ex,280,Elektro,Knattox,Rang 1,Doppelselten,PLANETA Mochizuki,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-016,016,Traumato,70,Psycho,,Basis,Häufig,OKUBO,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-017,017,Hypno,110,Psycho,Traumato,Rang 1,Ungewöhnlich,Masako Tomii,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-018,018,Zwirrlicht,60,Psycho,,Basis,Häufig,IKEDA Saki,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-019,019,Zwirrklop,90,Psycho,Zwirrlicht,Rang 1,Häufig,Aya Kusube,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-020,020,Zwirrfinst,160,Psycho,Zwirrklop,Rang 2,Selten,danciao,"reverse, holo",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-021,021,Cresselia,120,Psycho,,Basis,Selten,matazo,"reverse, holo",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-022,022,Feelinara,120,Psycho,Evoli,Rang 1,Ungewöhnlich,Kuroimori,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-023,023,Glibunkel,70,Kampf,,Basis,Häufig,Aliya Chen,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-024,024,Toxiquak,130,Kampf,Glibunkel,Rang 1,Häufig,Anesaki Dynamic,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-025,025,Blutmond-Ursaluna,150,Kampf,,Basis,Selten,Souichirou Gunjima,"reverse, holo",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-026,026,Kriechflügel,140,Kampf,,Basis,Ungewöhnlich,Shinji Kanda,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-027,027,Zubat,50,Unlicht,,Basis,Häufig,osare,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-028,028,Golbat,80,Unlicht,Zubat,Rang 1,Häufig,Teeziro,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-029,029,Iksbat,130,Unlicht,Golbat,Rang 2,Ungewöhnlich,Nisota Niso,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-030,030,Absol,110,Unlicht,,Basis,Häufig,rika,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-031,031,Zorua,70,Unlicht,,Basis,Häufig,Yuu Nishida,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-032,032,Zoroark,120,Unlicht,Zorua,Rang 1,Selten,nagimiso,"reverse, holo",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-033,033,Iscalar,60,Unlicht,,Basis,Häufig,Mori Yuu,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-034,034,Calamanero,120,Unlicht,Iscalar,Rang 1,Ungewöhnlich,akagi,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-035,035,Yveltal,120,Unlicht,,Basis,Ungewöhnlich,SIE NANAHARA,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-036,036,Boninu-ex,250,Unlicht,,Basis,Doppelselten,takuyoa,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-037,037,Benesaru-ex,210,Unlicht,,Basis,Doppelselten,takuyoa,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-038,038,Beatori-ex,210,Unlicht,,Basis,Doppelselten,takuyoa,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-039,039,Infamomo-ex,190,Unlicht,,Basis,Doppelselten,aky CG Works,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-040,040,Genesect,110,Metall,,Basis,Ungewöhnlich,Kazumasa Yasukuni,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-041,041,Kupfanti,100,Metall,,Basis,Häufig,Shinya Mizuno,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-042,042,Patinaraja,200,Metall,Kupfanti,Rang 1,Selten,kawayoo,"reverse, holo",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-043,043,Knattox,70,Metall,,Basis,Häufig,HAGIYA Kaoru,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-044,044,Milza,70,Drache,,Basis,Häufig,Orca,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-045,045,Sharfax,100,Drache,Milza,Rang 1,Häufig,Uninori,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-046,046,Maxax,170,Drache,Sharfax,Rang 2,Selten,Tsuyoshi Nagano,"reverse, holo",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-047,047,Kyurem,130,Drache,,Basis,Ungewöhnlich,Shiburingaru,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-048,048,Mauzi,70,Farblos,,Basis,Häufig,sui,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-049,049,Snobilikat,110,Farblos,Mauzi,Rang 1,Häufig,NC Empire,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-050,050,Evoli,70,Farblos,,Basis,Häufig,Susumu Maeya,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-051,051,Coiffwaff,100,Farblos,,Basis,Häufig,Shinya Komatsu,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-052,052,Velursi,80,Farblos,,Basis,Häufig,ryoma uratsuka,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-053,053,Kosturso,130,Farblos,Velursi,Rang 1,Häufig,Takeshi Nakamura,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-054,054,Akademie bei Nacht,,,,,Ungewöhnlich,AYUMI ODASHIMA,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-055,055,Ketten-Mochi,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-056,056,Cassiopeia,,,,,Ungewöhnlich,Atsushi Furusawa,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-057,057,Achromas' Beharrlichkeit,,,,,Ungewöhnlich,hncl,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-058,058,Gefährlicher Laser,,,,,ASS-KLASSE,inose yukie,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-059,059,Janinas Geheimkunst,,,,,Ungewöhnlich,Taira Akitsu,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-060,060,Neutralisierungszone,,,,,ASS-KLASSE,imoniii,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-061,061,Nachttrage,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-062,062,Poké Vital A,,,,,ASS-KLASSE,Toyste Beach,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-063,063,Power-Sanduhr,,,,,Ungewöhnlich,Studio Bora Inc.,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-064,064,Xeros' Machinationen,,,,,Ungewöhnlich,GOSSAN,"normal, reverse",Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-065,065,Kapu-Toro,140,Pflanze,,Basis,"Selten, Illustration",IKEDA Saki,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-066,066,Hundemon,120,Feuer,Hunduster,Rang 1,"Selten, Illustration",Taiga Kasai,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-067,067,Seeper,60,Wasser,,Basis,"Selten, Illustration",Shinya Komatsu,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-068,068,Zwirrlicht,60,Psycho,,Basis,"Selten, Illustration",James Turner,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-069,069,Zwirrklop,90,Psycho,Zwirrlicht,Rang 1,"Selten, Illustration",James Turner,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-070,070,Zwirrfinst,160,Psycho,Zwirrklop,Rang 2,"Selten, Illustration",James Turner,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-071,071,Cresselia,120,Psycho,,Basis,"Selten, Illustration",satoma,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-072,072,Benesaru,110,Psycho,,Basis,"Selten, Illustration",Teeziro,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-073,073,Beatori,120,Psycho,,Basis,"Selten, Illustration",KEIICHIRO ITO,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-074,074,Boninu,130,Kampf,,Basis,"Selten, Illustration",AKIRA EGAWA,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-075,075,Zorua,70,Unlicht,,Basis,"Selten, Illustration",REND,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-076,076,Kupfanti,100,Metall,,Basis,"Selten, Illustration",Mina Nakai,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-077,077,Sharfax,100,Drache,Milza,Rang 1,"Selten, Illustration",MINAMINAMI Take,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-078,078,Snobilikat,110,Farblos,Mauzi,Rang 1,"Selten, Illustration",Whisker,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-079,079,Kosturso,130,Farblos,Velursi,Rang 1,"Selten, Illustration",Takeshi Nakamura,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-080,080,Seedraking-ex,310,Wasser,Seemon,Rang 2,Ultra Selten,PLANETA Igarashi,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-081,081,Knattatox-ex,280,Elektro,Knattox,Rang 1,Ultra Selten,PLANETA Mochizuki,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-082,082,Boninu-ex,250,Unlicht,,Basis,Ultra Selten,5ban Graphics,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-083,083,Benesaru-ex,210,Unlicht,,Basis,Ultra Selten,5ban Graphics,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-084,084,Beatori-ex,210,Unlicht,,Basis,Ultra Selten,5ban Graphics,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-085,085,Infamomo-ex,190,Unlicht,,Basis,Ultra Selten,aky CG Works,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-086,086,Cassiopeia,,,,,Ultra Selten,Atsushi Furusawa,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-087,087,Achromas' Beharrlichkeit,,,,,Ultra Selten,hncl,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-088,088,Janinas Geheimkunst,,,,,Ultra Selten,Taira Akitsu,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-089,089,Xeros' Machinationen,,,,,Ultra Selten,GOSSAN,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-090,090,Boninu-ex,250,Unlicht,,Basis,"Selten, besondere Illustration",kantaro,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-091,091,Benesaru-ex,210,Unlicht,,Basis,"Selten, besondere Illustration",kantaro,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-092,092,Beatori-ex,210,Unlicht,,Basis,"Selten, besondere Illustration",kantaro,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-093,093,Infamomo-ex,190,Unlicht,,Basis,"Selten, besondere Illustration",kantaro,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-094,094,Cassiopeia,,,,,"Selten, besondere Illustration",burari,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-095,095,Infamomo-ex,190,Unlicht,,Basis,Hyperselten,aky CG Works,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-096,096,Irdengefäß,,,,,Hyperselten,AYUMI ODASHIMA,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-097,097,Power-Sanduhr,,,,,Hyperselten,Studio Bora Inc.,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-098,098,Basis-Darkness-Energie,,Unlicht,,,Hyperselten,,holo,Nebel der Sagen,Karmesin & Purpur,99
+sv06.5-099,099,Basis-Metal-Energie,,Metall,,,Hyperselten,,holo,Nebel der Sagen,Karmesin & Purpur,99

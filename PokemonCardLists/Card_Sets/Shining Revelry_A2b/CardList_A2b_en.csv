@@ -1,0 +1,112 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+A2b-001,001,Weedle,50,Grass,,Basic,One Diamond,Akira Komayama,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-002,002,Kakuna,80,Grass,Weedle,Stage1,Two Diamond,Yuka Morii,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-003,003,Beedrill ex,170,Grass,Kakuna,Stage2,Four Diamond,PLANETA Igarashi,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-004,004,Pinsir,90,Grass,,Basic,One Diamond,Satoshi Shirai,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-005,005,Sprigatito,60,Grass,,Basic,One Diamond,mashu,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-006,006,Floragato,90,Grass,Sprigatito,Stage1,Two Diamond,mashu,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-007,007,Meowscarada,140,Grass,Floragato,Stage2,Three Diamond,mashu,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-008,008,Charmander,60,Fire,,Basic,One Diamond,Megumi Mizutani,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-009,009,Charmeleon,90,Fire,Charmander,Stage1,Two Diamond,kodama,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-010,010,Charizard ex,180,Fire,Charmeleon,Stage2,Four Diamond,PLANETA Igarashi,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-011,011,Magmar,70,Fire,,Basic,One Diamond,Miki Tanaka,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-012,012,Magmortar,120,Fire,Magmar,Stage1,Three Diamond,Miki Tanaka,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-013,013,Paldean Tauros,110,Fire,,Basic,Two Diamond,Minahamu,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-014,014,Tentacool,70,Water,,Basic,One Diamond,Shibuzoh.,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-015,015,Tentacruel,100,Water,Tentacool,Stage1,Two Diamond,match,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-016,016,Buizel,70,Water,,Basic,One Diamond,sui,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-017,017,Floatzel,90,Water,Buizel,Stage1,Two Diamond,Kouki Saitou,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-018,018,Wiglett,60,Water,,Basic,One Diamond,miki kudo,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-019,019,Wugtrio ex,140,Water,Wiglett,Stage1,Four Diamond,PLANETA Tsuji,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-020,020,Dondozo,120,Water,,Basic,Three Diamond,Tomowaka,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-021,021,Tatsugiri,70,Water,,Basic,Two Diamond,Tomowaka,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-022,022,Pikachu ex,120,Lightning,,Basic,Four Diamond,PLANETA Igarashi,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-023,023,Voltorb,70,Lightning,,Basic,One Diamond,Masakazu Fukuda,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-024,024,Electrode,90,Lightning,Voltorb,Stage1,Two Diamond,Shigenori Negishi,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-025,025,Pachirisu,70,Lightning,,Basic,Two Diamond,imoniii,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-026,026,Pawmi,60,Lightning,,Basic,One Diamond,Saboteri,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-027,027,Pawmo,90,Lightning,Pawmi,Stage1,Two Diamond,Saboteri,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-028,028,Pawmot,140,Lightning,Pawmo,Stage2,Three Diamond,Saboteri,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-029,029,Abra,60,Psychic,,Basic,One Diamond,Mousho,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-030,030,Kadabra,80,Psychic,Abra,Stage1,Two Diamond,Mousho,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-031,031,Alakazam,130,Psychic,Kadabra,Stage2,Three Diamond,Mousho,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-032,032,Mr. Mime,90,Psychic,,Basic,One Diamond,Atsuko Nishida,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-033,033,Drifloon,60,Psychic,,Basic,One Diamond,kodama,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-034,034,Drifblim,90,Psychic,Drifloon,Stage1,Two Diamond,Hajime Kusajima,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-035,035,Giratina ex,150,Psychic,,Basic,Four Diamond,PLANETA Yamashita,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-036,036,Gimmighoul,60,Psychic,,Basic,One Diamond,HYOGONOSUKE,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-037,037,Machop,60,Fighting,,Basic,One Diamond,Mina Nakai,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-038,038,Machoke,100,Fighting,Machop,Stage1,One Diamond,Kouki Saitou,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-039,039,Machamp,150,Fighting,Machoke,Stage2,Three Diamond,Kouki Saitou,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-040,040,Hitmonlee,80,Fighting,,Basic,One Diamond,Tomokazu Komiya,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-041,041,Hitmonchan,90,Fighting,,Basic,One Diamond,Tomokazu Komiya,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-042,042,Riolu,70,Fighting,,Basic,One Diamond,You Iribi,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-043,043,Lucario ex,150,Fighting,Riolu,Stage1,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-044,044,Flamigo,80,Fighting,,Basic,Two Diamond,REND,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-045,045,Ekans,70,Darkness,,Basic,One Diamond,Midori Harada,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-046,046,Arbok,110,Darkness,Ekans,Stage1,Two Diamond,Midori Harada,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-047,047,Paldean Wooper,50,Darkness,,Basic,One Diamond,Mori Yuu,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-048,048,Paldean Clodsire ex,160,Darkness,Paldean Wooper,Stage1,Four Diamond,PLANETA Mochizuki,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-049,049,Spiritomb,80,Darkness,,Basic,Two Diamond,Shin Nagasawa,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-050,050,Shroodle,60,Darkness,,Basic,One Diamond,Krgc,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-051,051,Grafaiai,90,Darkness,Shroodle,Stage1,Three Diamond,Krgc,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-052,052,Tinkatink,60,Metal,,Basic,One Diamond,miki kudo,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-053,053,Tinkatuff,90,Metal,Tinkatink,Stage1,Two Diamond,miki kudo,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-054,054,Tinkaton ex,170,Metal,Tinkatuff,Stage2,Four Diamond,PLANETA Mochizuki,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-055,055,Varoom,70,Metal,,Basic,One Diamond,Souichirou Gunjima,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-056,056,Revavroom,110,Metal,Varoom,Stage1,Two Diamond,Souichirou Gunjima,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-057,057,Gholdengo,120,Metal,Gimmighoul,Stage1,Three Diamond,HYOGONOSUKE,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-058,058,Rattata,50,Colorless,,Basic,One Diamond,Eri Yamaki,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-059,059,Raticate,90,Colorless,Rattata,Stage1,One Diamond,Kyoko Umemoto,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-060,060,Jigglypuff,60,Colorless,,Basic,One Diamond,Kanako Eo,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-061,061,Wigglytuff,100,Colorless,Jigglypuff,Stage1,Three Diamond,miki kudo,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-062,062,Lickitung,80,Colorless,,Basic,One Diamond,Sumiyoshi Kizuki,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-063,063,Lickilicky,130,Colorless,Lickitung,Stage1,One Diamond,Suwama Chiaki,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-064,064,Bidoof,70,Colorless,,Basic,One Diamond,Sekio,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-065,065,Bibarel ex,160,Colorless,Bidoof,Stage1,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-066,066,Buneary,50,Colorless,,Basic,One Diamond,Kagemaru Himeno,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-067,067,Lopunny,100,Colorless,Buneary,Stage1,One Diamond,Minahamu,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-068,068,Cyclizar,80,Colorless,,Basic,Two Diamond,HAGIYA Kaoru,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-069,069,Iono,,,,,Two Diamond,saino misaki,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-070,070,Pokémon Center Lady,,,,,Two Diamond,Susumu Maeya,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-071,071,Red,,,,,Two Diamond,Teeziro,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-072,072,Team Rocket Grunt,,,,,Two Diamond,kantaro,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-073,073,Meowscarada,140,Grass,Floragato,Stage2,One Star,danciao,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-074,074,Buizel,70,Water,,Basic,One Star,Shimaris Yukichi,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-075,075,Tatsugiri,70,Water,,Basic,One Star,cochi8i,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-076,076,Grafaiai,90,Darkness,Shroodle,Stage1,One Star,Teeziro,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-077,077,Gholdengo,120,Metal,Gimmighoul,Stage1,One Star,Jerky,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-078,078,Wigglytuff,100,Colorless,Jigglypuff,Stage1,One Star,5ban Graphics,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-079,079,Beedrill ex,170,Grass,Kakuna,Stage2,Two Star,PLANETA Igarashi,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-080,080,Charizard ex,180,Fire,Charmeleon,Stage2,Two Star,PLANETA Igarashi,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-081,081,Wugtrio ex,140,Water,Wiglett,Stage1,Two Star,PLANETA Tsuji,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-082,082,Pikachu ex,120,Lightning,,Basic,Two Star,PLANETA Igarashi,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-083,083,Giratina ex,150,Psychic,,Basic,Two Star,PLANETA Yamashita,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-084,084,Lucario ex,150,Fighting,Riolu,Stage1,Two Star,PLANETA CG Works,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-085,085,Paldean Clodsire ex,160,Darkness,Paldean Wooper,Stage1,Two Star,PLANETA Igarashi,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-086,086,Tinkaton ex,170,Metal,Tinkatuff,Stage2,Two Star,PLANETA Igarashi,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-087,087,Bibarel ex,160,Colorless,Bidoof,Stage1,Two Star,PLANETA CG Works,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-088,088,Iono,,,,,Two Star,saino misaki,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-089,089,Pokémon Center Lady,,,,,Two Star,Susumu Maeya,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-090,090,Red,,,,,Two Star,Teeziro,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-091,091,Team Rocket Grunt,,,,,Two Star,kantaro,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-092,092,Pikachu ex,120,Lightning,,Basic,Two Star,You Iribi,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-093,093,Paldean Clodsire ex,160,Darkness,Paldean Wooper,Stage1,Two Star,REND,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-094,094,Tinkaton ex,170,Metal,Tinkatuff,Stage2,Two Star,kurumitsu,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-095,095,Bibarel ex,160,Colorless,Bidoof,Stage1,Two Star,USGMEN,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-096,096,Giratina ex,150,Psychic,,Basic,Three Star,Shinji Kanda,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-097,097,Weedle,50,Grass,,Basic,One Shiny,Sanosuke Sakuma,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-098,098,Kakuna,80,Grass,Weedle,Stage1,One Shiny,Sanosuke Sakuma,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-099,099,Charmander,60,Fire,,Basic,One Shiny,Souichirou Gunjima,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-100,100,Charmeleon,90,Fire,Charmander,Stage1,One Shiny,Souichirou Gunjima,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-101,101,Wiglett,60,Water,,Basic,One Shiny,Souichirou Gunjima,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-102,102,Dondozo,120,Water,,Basic,One Shiny,GOSSAN,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-103,103,Pachirisu,70,Lightning,,Basic,One Shiny,Tomowaka,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-104,104,Riolu,70,Fighting,,Basic,One Shiny,GOSSAN,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-105,105,Varoom,70,Metal,,Basic,One Shiny,nagimiso,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-106,106,Revavroom,110,Metal,Varoom,Stage1,One Shiny,nagimiso,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-107,107,Beedrill ex,170,Grass,Kakuna,Stage2,Two Shiny,PLANETA Igarashi,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-108,108,Charizard ex,180,Fire,Charmeleon,Stage2,Two Shiny,PLANETA Igarashi,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-109,109,Wugtrio ex,140,Water,Wiglett,Stage1,Two Shiny,PLANETA Tsuji,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-110,110,Lucario ex,150,Fighting,Riolu,Stage1,Two Shiny,PLANETA CG Works,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111
+A2b-111,111,Poké Ball,,,,,Crown,Toyste Beach,"normal, reverse, holo",Shining Revelry,Pokémon TCG Pocket,111

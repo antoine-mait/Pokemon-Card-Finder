@@ -1,0 +1,95 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sma-SV1,SV1,Scyther,70,Grass,,Basic,Common,Shigenori Negishi,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV10,SV10,Quagsire,120,Water,Wooper,Stage1,Common,Saya Tsuruta,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV11,SV11,Froakie,50,Water,,Basic,Common,sui,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV12,SV12,Frogadier,80,Water,Froakie,Stage1,Common,Anesaki Dynamic,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV13,SV13,Voltorb,50,Lightning,,Basic,Common,Shin Nagasawa,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV14,SV14,Xurkitree,120,Lightning,,Basic,Common,Naoki Saito,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV15,SV15,Seviper,100,Psychic,,Basic,Common,SATOSHI NAKAI,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV16,SV16,Shuppet,60,Psychic,,Basic,Common,sui,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV17,SV17,Inkay,60,Psychic,,Basic,Common,Shigenori Negishi,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV18,SV18,Malamar,90,Psychic,Inkay,Stage1,Common,Hideki Ishikawa,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV19,SV19,Poipole,70,Psychic,,Basic,Common,Akira Komayama,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV2,SV2,Rowlet,60,Grass,,Basic,Common,sui,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV20,SV20,Sudowoodo,100,Fighting,,Basic,Common,Kyoko Umemoto,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV21,SV21,Riolu,70,Fighting,,Basic,Common,Misa Tsutsui,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV22,SV22,Lucario,110,Fighting,Riolu,Stage1,Common,Kouki Saitou,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV23,SV23,Rockruff,70,Fighting,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV24,SV24,Buzzwole,130,Fighting,,Basic,Common,Shin Nagasawa,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV25,SV25,Zorua,60,Darkness,,Basic,Common,Saya Tsuruta,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV26,SV26,Guzzlord,160,Darkness,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV27,SV27,Magnemite,60,Metal,,Basic,Common,SATOSHI NAKAI,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV28,SV28,Magneton,90,Metal,Magnemite,Stage1,Common,Kyoko Umemoto,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV29,SV29,Magnezone,150,Metal,Magneton,Stage2,Common,Misa Tsutsui,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV3,SV3,Dartrix,80,Grass,Rowlet,Stage1,Common,Shigenori Negishi,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV30,SV30,Beldum,60,Metal,,Basic,Common,Mizue,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV31,SV31,Metang,90,Metal,Beldum,Stage1,Common,Saya Tsuruta,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV32,SV32,Celesteela,140,Metal,,Basic,Common,Kouki Saitou,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV33,SV33,Kartana,60,Metal,,Basic,Common,Anesaki Dynamic,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV34,SV34,Ralts,60,Fairy,,Basic,Common,Kyoko Umemoto,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV35,SV35,Kirlia,80,Fairy,Ralts,Stage1,Common,Sumiyoshi Kizuki,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV36,SV36,Diancie,90,Fairy,,Basic,Common,Akira Komayama,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV37,SV37,Altaria,80,Dragon,Swablu,Stage1,Common,kirisAki,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV38,SV38,Gible,50,Dragon,,Basic,Common,Saya Tsuruta,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV39,SV39,Gabite,80,Dragon,Gible,Stage1,Common,Masakazu Fukuda,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV4,SV4,Wimpod,70,Grass,,Basic,Common,SATOSHI NAKAI,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV40,SV40,Garchomp,150,Dragon,Gabite,Stage2,Common,Shin Nagasawa,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV41,SV41,Eevee,60,Colorless,,Basic,Common,kirisAki,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV42,SV42,Swablu,50,Colorless,,Basic,Common,Shigenori Negishi,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV43,SV43,Noibat,50,Colorless,,Basic,Common,Mizue,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV44,SV44,Oranguru,120,Colorless,,Basic,Common,Akira Komayama,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV45,SV45,Type: Null,110,Colorless,,Basic,Common,Shin Nagasawa,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV46,SV46,Leafeon-GX,200,Grass,Eevee,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV47,SV47,Decidueye-GX,240,Grass,Dartrix,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV48,SV48,Golisopod-GX,210,Grass,Wimpod,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV49,SV49,Charizard-GX,250,Fire,Charmeleon,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV5,SV5,Pheromosa,110,Grass,,Basic,Common,Mizue,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV50,SV50,Ho-Oh-GX,190,Fire,,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV51,SV51,Reshiram-GX,180,Fire,,,Common,PLANETA Igarashi,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV52,SV52,Turtonator-GX,190,Fire,,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV53,SV53,Alolan Ninetales-GX,210,Water,Alolan Vulpix,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV54,SV54,Articuno-GX,170,Water,,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV55,SV55,Glaceon-GX,200,Water,Eevee,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV56,SV56,Greninja-GX,230,Water,Frogadier,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV57,SV57,Electrode-GX,190,Lightning,Voltorb,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV58,SV58,Xurkitree-GX,180,Lightning,,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV59,SV59,Mewtwo-GX,190,Psychic,,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV6,SV6,Charmander,70,Fire,,Basic,Common,kirisAki,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV60,SV60,Espeon-GX,200,Psychic,Eevee,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV61,SV61,Banette-GX,190,Psychic,Shuppet,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV62,SV62,Nihilego-GX,180,Psychic,,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV63,SV63,Naganadel-GX,210,Psychic,Poipole,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV64,SV64,Lucario-GX,210,Fighting,Riolu,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV65,SV65,Zygarde-GX,200,Fighting,,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV66,SV66,Lycanroc-GX,200,Fighting,Rockruff,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV67,SV67,Lycanroc-GX,200,Fighting,Rockruff,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV68,SV68,Buzzwole-GX,190,Fighting,,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV69,SV69,Umbreon-GX,200,Darkness,Eevee,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV7,SV7,Charmeleon,80,Fire,Charmander,Stage1,Common,nagimiso,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV70,SV70,Darkrai-GX,180,Darkness,,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV71,SV71,Guzzlord-GX,210,Darkness,,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV72,SV72,Scizor-GX,210,Metal,Scyther,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV73,SV73,Kartana-GX,170,Metal,,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV74,SV74,Stakataka-GX,180,Metal,,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV75,SV75,Gardevoir-GX,230,Fairy,Kirlia,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV76,SV76,Sylveon-GX,200,Fairy,Eevee,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV77,SV77,Altaria-GX,200,Dragon,Swablu,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV78,SV78,Noivern-GX,200,Dragon,Noibat,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV79,SV79,Silvally-GX,210,Colorless,Type: Null,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV8,SV8,Alolan Vulpix,60,Water,,Basic,Common,Kouki Saitou,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV80,SV80,Drampa-GX,180,Colorless,,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV81,SV81,Aether Foundation Employee,,,,,Common,take,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV82,SV82,Cynthia,,,,,Common,Yusuke Ohmura,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV83,SV83,Fisherman,,,,,Common,Masakazu Fukuda,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV84,SV84,Guzma,,,,,Common,Hitoshi Ariga,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV85,SV85,Hiker,,,,,Common,Naoki Saito,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV86,SV86,Lady,,,,,Common,Kanako Eo,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV87,SV87,Aether Paradise Conservation Area,,,,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV88,SV88,Brooklet Hill,,,,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV89,SV89,Mt. Coronet,,,,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV9,SV9,Wooper,70,Water,,Basic,Common,Misa Tsutsui,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV90,SV90,Shrine of Punishment,,,,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV91,SV91,Tapu Bulu-GX,180,Grass,,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV92,SV92,Tapu Fini-GX,170,Water,,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV93,SV93,Tapu Koko-GX,170,Lightning,,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94
+sma-SV94,SV94,Tapu Lele-GX,170,Psychic,,,Common,5ban Graphics,"normal, reverse, holo",Yellow A Alternate,Sun & Moon,94

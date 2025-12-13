@@ -1,0 +1,102 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+ex15-1,1,Ampharos δ,120,Colorless,Flaaffy,Stage2,Rare,Kagemaru Himeno,holo,Dragon Frontiers,EX,101
+ex15-2,2,Feraligatr δ,120,Lightning,Croconaw,Stage2,Rare,Kouki Saitou,holo,Dragon Frontiers,EX,101
+ex15-3,3,Heracross δ,70,Fire,,Basic,Rare,Mitsuhiro Arita,holo,Dragon Frontiers,EX,101
+ex15-4,4,Meganium δ,110,Fighting,Bayleef,Stage2,Rare,Sumiyoshi Kizuki,holo,Dragon Frontiers,EX,101
+ex15-5,5,Milotic δ,90,Fire,Feebas,Stage1,Rare,Midori Harada,holo,Dragon Frontiers,EX,101
+ex15-6,6,Nidoking δ,120,Darkness,Nidorino,Stage2,Rare,Mitsuhiro Arita,holo,Dragon Frontiers,EX,101
+ex15-7,7,Nidoqueen δ,100,Metal,Nidorina,Stage2,Rare,Kouki Saitou,holo,Dragon Frontiers,EX,101
+ex15-8,8,Ninetales δ,70,Psychic,Vulpix,Stage1,Rare,Hajime Kusajima,holo,Dragon Frontiers,EX,101
+ex15-9,9,Pinsir δ,60,Fighting,,Basic,Rare,Yukiko Baba,holo,Dragon Frontiers,EX,101
+ex15-10,10,Snorlax δ,80,Grass,,Basic,Rare,Masakazu Fukuda,holo,Dragon Frontiers,EX,101
+ex15-11,11,Togetic δ,60,Water,Togepi,Stage1,Rare,Kouki Saitou,holo,Dragon Frontiers,EX,101
+ex15-12,12,Typhlosion δ,100,Psychic,Quilava,Stage2,Rare,Hisao Nakamura,holo,Dragon Frontiers,EX,101
+ex15-13,13,Arbok δ,80,Fire,Ekans,Stage1,Rare,Hisao Nakamura,normal,Dragon Frontiers,EX,101
+ex15-14,14,Cloyster δ,70,Fighting,Shellder,Stage1,Rare,Mitsuhiro Arita,normal,Dragon Frontiers,EX,101
+ex15-15,15,Dewgong δ,80,Colorless,Seel,Stage1,Rare,Atsuko Nishida,normal,Dragon Frontiers,EX,101
+ex15-16,16,Gligar δ,60,Lightning,,Basic,Rare,Kagemaru Himeno,normal,Dragon Frontiers,EX,101
+ex15-17,17,Jynx δ,60,Fire,,Basic,Rare,Ken Sugimori,normal,Dragon Frontiers,EX,101
+ex15-18,18,Ledian δ,70,Metal,Ledyba,Stage1,Rare,Hajime Kusajima,normal,Dragon Frontiers,EX,101
+ex15-19,19,Lickitung δ,60,Psychic,,Basic,Rare,Masakazu Fukuda,normal,Dragon Frontiers,EX,101
+ex15-20,20,Mantine δ,50,Lightning,,Basic,Rare,Sumiyoshi Kizuki,normal,Dragon Frontiers,EX,101
+ex15-21,21,Quagsire δ,80,Grass,Wooper,Stage1,Rare,Sachiko Adachi,normal,Dragon Frontiers,EX,101
+ex15-22,22,Seadra δ,70,Fighting,Horsea,Stage1,Rare,Sachiko Adachi,normal,Dragon Frontiers,EX,101
+ex15-23,23,Tropius δ,70,Metal,,Basic,Rare,Mitsuhiro Arita,normal,Dragon Frontiers,EX,101
+ex15-24,24,Vibrava δ,70,Psychic,Trapinch,Stage1,Rare,Tomokazu Komiya,normal,Dragon Frontiers,EX,101
+ex15-25,25,Xatu δ,70,Darkness,Natu,Stage1,Rare,Kouki Saitou,normal,Dragon Frontiers,EX,101
+ex15-26,26,Bayleef δ,70,Fighting,Chikorita,Stage1,Uncommon,Kagemaru Himeno,normal,Dragon Frontiers,EX,101
+ex15-27,27,Croconaw δ,70,Lightning,Totodile,Stage1,Uncommon,Yuka Morii,normal,Dragon Frontiers,EX,101
+ex15-28,28,Dragonair δ,70,Grass,Dratini,Stage1,Uncommon,Kouki Saitou,normal,Dragon Frontiers,EX,101
+ex15-29,29,Electabuzz δ,60,Fighting,,Basic,Uncommon,Ken Sugimori,normal,Dragon Frontiers,EX,101
+ex15-30,30,Flaaffy δ,70,Colorless,Mareep,Stage1,Uncommon,Yuka Morii,normal,Dragon Frontiers,EX,101
+ex15-31,31,Horsea δ,40,Fighting,,Basic,Uncommon,Tomokazu Komiya,normal,Dragon Frontiers,EX,101
+ex15-32,32,Kirlia,70,Psychic,Ralts,Stage1,Uncommon,Hajime Kusajima,normal,Dragon Frontiers,EX,101
+ex15-33,33,Kirlia δ,70,Fire,Ralts,Stage1,Uncommon,Kyoko Umemoto,normal,Dragon Frontiers,EX,101
+ex15-34,34,Nidorina δ,70,Metal,Nidoran?,Stage1,Uncommon,Sumiyoshi Kizuki,normal,Dragon Frontiers,EX,101
+ex15-35,35,Nidorino δ,70,Darkness,Nidoran?,Stage1,Uncommon,Atsuko Nishida,normal,Dragon Frontiers,EX,101
+ex15-36,36,Quilava δ,70,Psychic,Cyndaquil,Stage1,Uncommon,Midori Harada,normal,Dragon Frontiers,EX,101
+ex15-37,37,Seadra δ,70,Fighting,Horsea,Stage1,Uncommon,Hisao Nakamura,normal,Dragon Frontiers,EX,101
+ex15-38,38,Shelgon δ,70,Water,Bagon,Stage1,Uncommon,Kyoko Umemoto,normal,Dragon Frontiers,EX,101
+ex15-39,39,Smeargle δ,60,Psychic,,Basic,Uncommon,Kagemaru Himeno,normal,Dragon Frontiers,EX,101
+ex15-40,40,Swellow δ,70,Fire,Taillow,Stage1,Uncommon,Sumiyoshi Kizuki,normal,Dragon Frontiers,EX,101
+ex15-41,41,Togepi δ,40,Water,,Basic,Uncommon,Miki Tanaka,normal,Dragon Frontiers,EX,101
+ex15-42,42,Vibrava δ,70,Psychic,Trapinch,Stage1,Uncommon,Midori Harada,normal,Dragon Frontiers,EX,101
+ex15-43,43,Bagon δ,40,Water,,Basic,Common,Hajime Kusajima,normal,Dragon Frontiers,EX,101
+ex15-44,44,Chikorita δ,40,Fighting,,Basic,Common,Yuka Morii,normal,Dragon Frontiers,EX,101
+ex15-45,45,Cyndaquil δ,40,Psychic,,Basic,Common,Atsuko Nishida,normal,Dragon Frontiers,EX,101
+ex15-46,46,Dratini δ,40,Grass,,Basic,Common,Tomokazu Komiya,normal,Dragon Frontiers,EX,101
+ex15-47,47,Ekans δ,50,Fire,,Basic,Common,Yuka Morii,normal,Dragon Frontiers,EX,101
+ex15-48,48,Elekid δ,40,Fighting,,Basic,Common,Ken Sugimori,normal,Dragon Frontiers,EX,101
+ex15-49,49,Feebas δ,30,Fire,,Basic,Common,Yukiko Baba,normal,Dragon Frontiers,EX,101
+ex15-50,50,Horsea δ,40,Fighting,,Basic,Common,Hisao Nakamura,normal,Dragon Frontiers,EX,101
+ex15-51,51,Larvitar,50,Fighting,,Basic,Common,Yukiko Baba,normal,Dragon Frontiers,EX,101
+ex15-52,52,Larvitar δ,50,Lightning,,Basic,Common,Kouki Saitou,normal,Dragon Frontiers,EX,101
+ex15-53,53,Ledyba δ,40,Metal,,Basic,Common,Kyoko Umemoto,normal,Dragon Frontiers,EX,101
+ex15-54,54,Mareep δ,40,Colorless,,Basic,Common,Sachiko Adachi,normal,Dragon Frontiers,EX,101
+ex15-55,55,Natu δ,40,Darkness,,Basic,Common,Yukiko Baba,normal,Dragon Frontiers,EX,101
+ex15-56,56,Nidoran♀ δ,40,Metal,,Basic,Common,Hajime Kusajima,normal,Dragon Frontiers,EX,101
+ex15-57,57,Nidoran♂ δ,40,Darkness,,Basic,Common,Midori Harada,normal,Dragon Frontiers,EX,101
+ex15-58,58,Pupitar,70,Fighting,Larvitar,Stage1,Common,Yukiko Baba,normal,Dragon Frontiers,EX,101
+ex15-59,59,Pupitar δ,70,Lightning,Larvitar,Stage1,Common,Kouki Saitou,normal,Dragon Frontiers,EX,101
+ex15-60,60,Ralts,50,Psychic,,Basic,Common,Hajime Kusajima,normal,Dragon Frontiers,EX,101
+ex15-61,61,Ralts δ,50,Fire,,Basic,Common,Kyoko Umemoto,normal,Dragon Frontiers,EX,101
+ex15-62,62,Seel δ,40,Colorless,,Basic,Common,Hajime Kusajima,normal,Dragon Frontiers,EX,101
+ex15-63,63,Shellder δ,40,Fighting,,Basic,Common,Hisao Nakamura,normal,Dragon Frontiers,EX,101
+ex15-64,64,Smoochum δ,40,Fire,,Basic,Common,Miki Tanaka,normal,Dragon Frontiers,EX,101
+ex15-65,65,Swablu δ,40,Water,,Basic,Common,Miki Tanaka,normal,Dragon Frontiers,EX,101
+ex15-66,66,Taillow δ,40,Fire,,Basic,Common,Miki Tanaka,normal,Dragon Frontiers,EX,101
+ex15-67,67,Totodile δ,40,Lightning,,Basic,Common,Hisao Nakamura,normal,Dragon Frontiers,EX,101
+ex15-68,68,Trapinch δ,40,Psychic,,Basic,Common,Midori Harada,normal,Dragon Frontiers,EX,101
+ex15-69,69,Trapinch δ,40,Psychic,,Basic,Common,Yukiko Baba,normal,Dragon Frontiers,EX,101
+ex15-70,70,Vulpix δ,50,Psychic,,Basic,Common,Sachiko Adachi,normal,Dragon Frontiers,EX,101
+ex15-71,71,Wooper δ,40,Grass,,Basic,Common,Tomokazu Komiya,normal,Dragon Frontiers,EX,101
+ex15-72,72,Buffer Piece,,,,,Uncommon,Katsura Tabata,normal,Dragon Frontiers,EX,101
+ex15-73,73,Copycat,,,,,Uncommon,Ken Sugimori,normal,Dragon Frontiers,EX,101
+ex15-74,74,Holon Legacy,,,,,Uncommon,Shizurow,normal,Dragon Frontiers,EX,101
+ex15-75,75,Holon Mentor,,,,,Uncommon,Kouki Saitou,normal,Dragon Frontiers,EX,101
+ex15-76,76,Island Hermit,,,,,Uncommon,Kouki Saitou,normal,Dragon Frontiers,EX,101
+ex15-77,77,Mr. Stone's Project,,,,,Uncommon,Ken Sugimori,normal,Dragon Frontiers,EX,101
+ex15-78,78,Old Rod,,,,,Uncommon,Shizurow,normal,Dragon Frontiers,EX,101
+ex15-79,79,Professor Elm's Training Method,,,,,Uncommon,Ken Sugimori,normal,Dragon Frontiers,EX,101
+ex15-80,80,Professor Oak's Research,,,,,Uncommon,Ken Sugimori,normal,Dragon Frontiers,EX,101
+ex15-81,81,Strength Charm,,,,,Uncommon,Shizurow,normal,Dragon Frontiers,EX,101
+ex15-82,82,TV Reporter,,,,,Uncommon,Ken Sugimori,normal,Dragon Frontiers,EX,101
+ex15-83,83,Switch,,,,,Common,Hiromichi Sugiyama,normal,Dragon Frontiers,EX,101
+ex15-84,84,Holon Energy FF,,,,,Rare,Takumi Akabane,normal,Dragon Frontiers,EX,101
+ex15-85,85,Holon Energy GL,,,,,Rare,Takumi Akabane,normal,Dragon Frontiers,EX,101
+ex15-86,86,Holon Energy WP,,,,,Rare,Takumi Akabane,normal,Dragon Frontiers,EX,101
+ex15-87,87,Boost Energy,,,,,Uncommon,Shin-ichi Yoshikawa,normal,Dragon Frontiers,EX,101
+ex15-88,88,δ Rainbow Energy,,,,,Uncommon,Takumi Akabane,normal,Dragon Frontiers,EX,101
+ex15-89,89,Scramble Energy,,,,,Uncommon,Takumi Akabane,normal,Dragon Frontiers,EX,101
+ex15-90,90,Altaria ex δ,100,Water,Swablu,Stage1,Rare,Shizurow,holo,Dragon Frontiers,EX,101
+ex15-91,91,Dragonite ex δ,150,Grass,Dragonair,Stage2,Rare,Ryo Ueda,holo,Dragon Frontiers,EX,101
+ex15-92,92,Flygon ex δ,150,Psychic,Vibrava,Stage2,Rare,Nakaoka,holo,Dragon Frontiers,EX,101
+ex15-93,93,Gardevoir ex δ,150,Fire,Kirlia,Stage2,Rare,Masahiko Ishii,holo,Dragon Frontiers,EX,101
+ex15-94,94,Kingdra ex δ,140,Fighting,Seadra,Stage2,Rare,Masahiko Ishii,holo,Dragon Frontiers,EX,101
+ex15-95,95,Latias ex δ,100,Fire,,Basic,Rare,Shizurow,holo,Dragon Frontiers,EX,101
+ex15-96,96,Latios ex δ,100,Water,,Basic,Rare,Ryo Ueda,holo,Dragon Frontiers,EX,101
+ex15-97,97,Rayquaza ex δ,110,Lightning,,Basic,Rare,Ryo Ueda,holo,Dragon Frontiers,EX,101
+ex15-98,98,Salamence ex δ,160,Water,Shelgon,Stage2,Rare,Ryo Ueda,holo,Dragon Frontiers,EX,101
+ex15-99,99,Tyranitar ex δ,150,Lightning,Pupitar,Stage2,Rare,Yusuke Shimada,holo,Dragon Frontiers,EX,101
+ex15-100,100,Charizard Star δ,90,Darkness,,Basic,Rare,Masakazu Fukuda,holo,Dragon Frontiers,EX,101
+ex15-101,101,Mew Star δ,70,Water,,Basic,Rare,Masakazu Fukuda,holo,Dragon Frontiers,EX,101

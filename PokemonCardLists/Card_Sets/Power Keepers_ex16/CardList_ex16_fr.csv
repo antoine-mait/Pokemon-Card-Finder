@@ -1,0 +1,109 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+ex16-1,1,Galeking,110,Métal,,Niveau 2,Rare,Ken Sugimori,holo,EX Gardiens du Pouvoir,EX,108
+ex16-2,2,Altaria,80,Incolore,,Niveau 1,Rare,Ken Sugimori,holo,EX Gardiens du Pouvoir,EX,108
+ex16-3,3,Armaldo,120,Combat,,Niveau 2,Rare,Ken Sugimori,holo,EX Gardiens du Pouvoir,EX,108
+ex16-4,4,Branette,70,Psy,,Niveau 1,Rare,Ken Sugimori,holo,EX Gardiens du Pouvoir,EX,108
+ex16-5,5,Brasegali,100,Feu,,Niveau 2,Rare,Masakazu Fukuda,holo,EX Gardiens du Pouvoir,EX,108
+ex16-6,6,Dracaufeu,120,Feu,,Niveau 2,Rare,Ken Sugimori,holo,EX Gardiens du Pouvoir,EX,108
+ex16-7,7,Vacilys,110,Plante,,Niveau 2,Rare,Ken Sugimori,holo,EX Gardiens du Pouvoir,EX,108
+ex16-8,8,Delcatty,70,Incolore,,Niveau 1,Rare,Masakazu Fukuda,"normal, holo",EX Gardiens du Pouvoir,EX,108
+ex16-9,9,Gardevoir,100,Psy,,Niveau 2,Rare,Midori Harada,"normal, holo",EX Gardiens du Pouvoir,EX,108
+ex16-10,10,Kabutops,110,Combat,,Niveau 2,Rare,Ken Sugimori,holo,EX Gardiens du Pouvoir,EX,108
+ex16-11,11,Mackogneur,120,Combat,,Niveau 2,Rare,Ken Sugimori,holo,EX Gardiens du Pouvoir,EX,108
+ex16-12,12,Raichu,70,Électrique,,Niveau 1,Rare,Hajime Kusajima,holo,EX Gardiens du Pouvoir,EX,108
+ex16-13,13,Monaflemit,120,Incolore,,Niveau 2,Rare,Midori Harada,holo,EX Gardiens du Pouvoir,EX,108
+ex16-14,14,Teraclope,80,Psy,,Niveau 1,Rare,Ken Sugimori,"normal, holo",EX Gardiens du Pouvoir,EX,108
+ex16-15,15,Lanturn,80,Électrique,,Niveau 1,Rare,Midori Harada,normal,EX Gardiens du Pouvoir,EX,108
+ex16-16,16,Magneton,70,Électrique,,Niveau 1,Rare,Masakazu Fukuda,normal,EX Gardiens du Pouvoir,EX,108
+ex16-17,17,Mysdibule,60,Métal,,De base,Rare,Ken Sugimori,normal,EX Gardiens du Pouvoir,EX,108
+ex16-18,18,Grahyena,70,Obscurité,,Niveau 1,Rare,Midori Harada,"normal, holo",EX Gardiens du Pouvoir,EX,108
+ex16-19,19,Feunard,70,Feu,,Niveau 1,Rare,Tomoaki Imakuni,normal,EX Gardiens du Pouvoir,EX,108
+ex16-20,20,Amonistar,110,Eau,,Niveau 2,Rare,Ken Sugimori,normal,EX Gardiens du Pouvoir,EX,108
+ex16-21,21,Pichu,50,Électrique,,De base,Rare,Ken Sugimori,normal,EX Gardiens du Pouvoir,EX,108
+ex16-22,22,Tenefix,60,Psy,,De base,Rare,Ken Sugimori,normal,EX Gardiens du Pouvoir,EX,108
+ex16-23,23,Seviper,70,Plante,,De base,Rare,Midori Harada,normal,EX Gardiens du Pouvoir,EX,108
+ex16-24,24,Qulbutoké,80,Psy,,De base,Rare,Masakazu Fukuda,normal,EX Gardiens du Pouvoir,EX,108
+ex16-25,25,Mangriff,70,Incolore,,De base,Rare,Ken Sugimori,normal,EX Gardiens du Pouvoir,EX,108
+ex16-26,26,Anorith,70,Combat,,Niveau 1,Peu Commune,Midori Harada,normal,EX Gardiens du Pouvoir,EX,108
+ex16-27,27,Cacturne,70,Obscurité,,Niveau 1,Peu Commune,Ken Sugimori,normal,EX Gardiens du Pouvoir,EX,108
+ex16-28,28,Reptincel,70,Feu,,Niveau 1,Peu Commune,Midori Harada,normal,EX Gardiens du Pouvoir,EX,108
+ex16-29,29,Galifeu,80,Feu,,Niveau 1,Peu Commune,Atsuko Nishida,normal,EX Gardiens du Pouvoir,EX,108
+ex16-30,30,Oniglali,80,Eau,,Niveau 1,Peu Commune,Ken Sugimori,normal,EX Gardiens du Pouvoir,EX,108
+ex16-31,31,Kirlia,70,Psy,,Niveau 1,Peu Commune,Sachiko Adachi,normal,EX Gardiens du Pouvoir,EX,108
+ex16-32,32,Galegon,70,Métal,,Niveau 1,Peu Commune,Sachiko Adachi,normal,EX Gardiens du Pouvoir,EX,108
+ex16-33,33,Machopeur,80,Combat,,Niveau 1,Peu Commune,Ken Sugimori,normal,EX Gardiens du Pouvoir,EX,108
+ex16-34,34,Charmina,80,Combat,,Niveau 1,Peu Commune,Tomoaki Imakuni,normal,EX Gardiens du Pouvoir,EX,108
+ex16-35,35,Metang,80,Métal,,Niveau 1,Peu Commune,Tomokazu Komiya,normal,EX Gardiens du Pouvoir,EX,108
+ex16-36,36,Pifeuil,70,Obscurité,,Niveau 1,Peu Commune,Hajime Kusajima,normal,EX Gardiens du Pouvoir,EX,108
+ex16-37,37,Phogleur,70,Eau,,Niveau 1,Peu Commune,Ken Sugimori,normal,EX Gardiens du Pouvoir,EX,108
+ex16-38,38,Sharpedo,70,Obscurité,,Niveau 1,Peu Commune,Midori Harada,normal,EX Gardiens du Pouvoir,EX,108
+ex16-39,39,Drackhaus,80,Incolore,,Niveau 1,Peu Commune,Midori Harada,normal,EX Gardiens du Pouvoir,EX,108
+ex16-40,40,Vibraninf,80,Incolore,,Niveau 1,Peu Commune,Mitsuhiro Arita,normal,EX Gardiens du Pouvoir,EX,108
+ex16-41,41,Vigoroth,70,Incolore,,Niveau 1,Peu Commune,Hajime Kusajima,normal,EX Gardiens du Pouvoir,EX,108
+ex16-42,42,Galekid,50,Métal,,De base,Commune,Tomokazu Komiya,normal,EX Gardiens du Pouvoir,EX,108
+ex16-43,43,Draby,50,Incolore,,De base,Commune,Midori Harada,normal,EX Gardiens du Pouvoir,EX,108
+ex16-44,44,Balbuto,50,Psy,,De base,Commune,Mitsuhiro Arita,normal,EX Gardiens du Pouvoir,EX,108
+ex16-45,45,Terhal,50,Métal,,De base,Commune,Midori Harada,normal,EX Gardiens du Pouvoir,EX,108
+ex16-46,46,Cacnea,50,Plante,,De base,Commune,Hajime Kusajima,normal,EX Gardiens du Pouvoir,EX,108
+ex16-47,47,Carvanha,40,Obscurité,,De base,Commune,Ken Sugimori,normal,EX Gardiens du Pouvoir,EX,108
+ex16-48,48,Salamèche,50,Feu,,De base,Commune,Sachiko Adachi,normal,EX Gardiens du Pouvoir,EX,108
+ex16-49,49,Loupio,50,Électrique,,De base,Commune,Mitsuhiro Arita,normal,EX Gardiens du Pouvoir,EX,108
+ex16-50,50,Skélénox,50,Psy,,De base,Commune,Ken Sugimori,normal,EX Gardiens du Pouvoir,EX,108
+ex16-51,51,Kabuto,60,Combat,,Niveau 1,Commune,Ken Sugimori,normal,EX Gardiens du Pouvoir,EX,108
+ex16-52,52,Lilia,80,Plante,,Niveau 1,Commune,Hajime Kusajima,normal,EX Gardiens du Pouvoir,EX,108
+ex16-53,53,Machoc,50,Combat,,De base,Commune,Ken Sugimori,normal,EX Gardiens du Pouvoir,EX,108
+ex16-54,54,Magneti,50,Électrique,,De base,Commune,Hajime Kusajima,normal,EX Gardiens du Pouvoir,EX,108
+ex16-55,55,Meditikka,40,Combat,,De base,Commune,Midori Harada,normal,EX Gardiens du Pouvoir,EX,108
+ex16-56,56,Amonita,70,Eau,,Niveau 1,Commune,Ken Sugimori,normal,EX Gardiens du Pouvoir,EX,108
+ex16-57,57,Pikachu,40,Électrique,,De base,Commune,Kagemaru Himeno,normal,EX Gardiens du Pouvoir,EX,108
+ex16-58,58,Medhyena,50,Obscurité,,De base,Commune,Midori Harada,normal,EX Gardiens du Pouvoir,EX,108
+ex16-59,59,Tarsal,50,Psy,,De base,Commune,Midori Harada,normal,EX Gardiens du Pouvoir,EX,108
+ex16-60,60,Grainipiot,40,Plante,,De base,Commune,Midori Harada,normal,EX Gardiens du Pouvoir,EX,108
+ex16-61,61,Polichombr,50,Psy,,De base,Commune,Ken Sugimori,normal,EX Gardiens du Pouvoir,EX,108
+ex16-62,62,Skitty,50,Incolore,,De base,Commune,Tomokazu Komiya,normal,EX Gardiens du Pouvoir,EX,108
+ex16-63,63,Parecool,40,Incolore,,De base,Commune,Tomokazu Komiya,normal,EX Gardiens du Pouvoir,EX,108
+ex16-64,64,Stalgamin,50,Eau,,De base,Commune,Ken Sugimori,normal,EX Gardiens du Pouvoir,EX,108
+ex16-65,65,Obalie,40,Eau,,De base,Commune,Ken Sugimori,normal,EX Gardiens du Pouvoir,EX,108
+ex16-66,66,Tylton,40,Incolore,,De base,Commune,Ken Sugimori,normal,EX Gardiens du Pouvoir,EX,108
+ex16-67,67,Poussifeu,50,Feu,,De base,Commune,Mitsuhiro Arita,normal,EX Gardiens du Pouvoir,EX,108
+ex16-68,68,Kraknoix,50,Combat,,De base,Commune,Sachiko Adachi,normal,EX Gardiens du Pouvoir,EX,108
+ex16-69,69,Goupix,50,Feu,,De base,Commune,Ken Sugimori,normal,EX Gardiens du Pouvoir,EX,108
+ex16-70,70,Okéoké,50,Psy,,De base,Commune,Ken Sugimori,normal,EX Gardiens du Pouvoir,EX,108
+ex16-71,71,Zone de combat,,,,,Peu Commune,Midori Harada,normal,EX Gardiens du Pouvoir,EX,108
+ex16-72,72,Stade d'Aragon,,,,,Peu Commune,Ryo Ueda,normal,EX Gardiens du Pouvoir,EX,108
+ex16-73,73,Recyclage d'énergie,,,,,Peu Commune,Zu-Ka,normal,EX Gardiens du Pouvoir,EX,108
+ex16-74,74,Suppression d'Énergie 2,,,,,Peu Commune,Keiji Kinebuchi,normal,EX Gardiens du Pouvoir,EX,108
+ex16-75,75,Échange d'Énergie,,,,,Peu Commune,Ken Ikuji,normal,EX Gardiens du Pouvoir,EX,108
+ex16-76,76,Stade de Glacia,,,,,Peu Commune,Ryo Ueda,normal,EX Gardiens du Pouvoir,EX,108
+ex16-77,77,Super Ball,,,,,Peu Commune,Nakaoka,normal,EX Gardiens du Pouvoir,EX,108
+ex16-78,78,Master Ball,,,,,Peu Commune,Keiji Kinebuchi,normal,EX Gardiens du Pouvoir,EX,108
+ex16-79,79,Stade de Spectra,,,,,Peu Commune,Ryo Ueda,normal,EX Gardiens du Pouvoir,EX,108
+ex16-80,80,Prof. Seko,,,,,Peu Commune,Ken Sugimori,normal,EX Gardiens du Pouvoir,EX,108
+ex16-81,81,Scott,,,,,Peu Commune,Ken Sugimori,normal,EX Gardiens du Pouvoir,EX,108
+ex16-82,82,Stade de Damien,,,,,Peu Commune,Ryo Ueda,normal,EX Gardiens du Pouvoir,EX,108
+ex16-83,83,Les conseils de Pierre,,,,,Peu Commune,Ken Sugimori,normal,EX Gardiens du Pouvoir,EX,108
+ex16-84,84,Fossile griffe,40,,,,Commune,Ryo Ueda,normal,EX Gardiens du Pouvoir,EX,108
+ex16-85,85,Mystérieux fossile,50,,,,Commune,Ryo Ueda,normal,EX Gardiens du Pouvoir,EX,108
+ex16-86,86,Fossile racine,40,,,,Commune,Ryo Ueda,normal,EX Gardiens du Pouvoir,EX,108
+ex16-87,87,Énergie Obscurité,,,,,Rare,Milky Isobe,normal,EX Gardiens du Pouvoir,EX,108
+ex16-88,88,Énergie Métal,,,,,Rare,Milky Isobe,normal,EX Gardiens du Pouvoir,EX,108
+ex16-89,89,Énergies multiples,,,,,Rare,Takumi Akabane,normal,EX Gardiens du Pouvoir,EX,108
+ex16-90,90,Énergie Cyclone,,,,,Peu Commune,Shin-ichi Yoshikawa,normal,EX Gardiens du Pouvoir,EX,108
+ex16-91,91,Énergie de distorsion,,,,,Peu Commune,Shin-ichi Yoshikawa,normal,EX Gardiens du Pouvoir,EX,108
+ex16-92,92,Absol ex,100,Obscurité,,,Rare,Ryo Ueda,"normal, holo",EX Gardiens du Pouvoir,EX,108
+ex16-93,93,Kaorine ex,120,Psy,,,Rare,Ryo Ueda,normal,EX Gardiens du Pouvoir,EX,108
+ex16-94,94,Libegon ex,150,Incolore,,,Rare,Mitsuhiro Arita,normal,EX Gardiens du Pouvoir,EX,108
+ex16-95,95,Metalosse ex,150,Métal,,,Rare,Ryo Ueda,normal,EX Gardiens du Pouvoir,EX,108
+ex16-96,96,Drattak ex,160,Incolore,,,Rare,Mitsuhiro Arita,normal,EX Gardiens du Pouvoir,EX,108
+ex16-97,97,Tengalice ex,140,Obscurité,,,Rare,Ryo Ueda,normal,EX Gardiens du Pouvoir,EX,108
+ex16-98,98,Airmure ex,100,Métal,,,Rare,Ryo Ueda,normal,EX Gardiens du Pouvoir,EX,108
+ex16-99,99,Kaimorse ex,150,Eau,,,Rare,Ryo Ueda,normal,EX Gardiens du Pouvoir,EX,108
+ex16-100,100,Pyroli,70,Feu,,De base,Rare,Masakazu Fukuda,normal,EX Gardiens du Pouvoir,EX,108
+ex16-101,101,Voltali,70,Électrique,,De base,Rare,Masakazu Fukuda,"normal, holo",EX Gardiens du Pouvoir,EX,108
+ex16-102,102,Aquali,70,Eau,,De base,Rare,Masakazu Fukuda,normal,EX Gardiens du Pouvoir,EX,108
+ex16-103,103,Énergie Plante,,,,De base,Rare,,normal,EX Gardiens du Pouvoir,EX,108
+ex16-104,104,Énergie Feu,,,,De base,Rare,,normal,EX Gardiens du Pouvoir,EX,108
+ex16-105,105,Énergie Eau,,,,De base,Rare,,normal,EX Gardiens du Pouvoir,EX,108
+ex16-106,106,Énergie Électrique,,,,De base,Rare,,normal,EX Gardiens du Pouvoir,EX,108
+ex16-107,107,Énergie Psy,,,,De base,Rare,,normal,EX Gardiens du Pouvoir,EX,108
+ex16-108,108,Énergie Combat,,,,De base,Rare,,normal,EX Gardiens du Pouvoir,EX,108

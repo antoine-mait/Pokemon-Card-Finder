@@ -1,0 +1,129 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+bw6-1,1,Hoppspross,30,Pflanze,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-2,2,Hubelupf,60,Pflanze,,Rang 1,Ungewöhnlich,Suwama Chiaki,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-3,3,Papungha,90,Pflanze,,Rang 2,Selten,Kagemaru Himeno,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-4,4,Yanma,70,Pflanze,,Basis,Häufig,Yukiko Baba,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-5,5,Yanmega,100,Pflanze,,Rang 1,Selten,Naoki Saito,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-6,6,Waumpel,60,Pflanze,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-7,7,Schaloko,80,Pflanze,,Rang 1,Ungewöhnlich,Naoki Saito,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-8,8,Papinella,120,Pflanze,,Rang 2,Selten,Akira Komayama,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-9,9,Panekon,80,Pflanze,,Rang 1,Ungewöhnlich,match,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-10,10,Nincada,40,Pflanze,,Basis,Häufig,MAHOU,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-11,11,Ninjask,60,Pflanze,,Rang 1,Ungewöhnlich,Masakazu Fukuda,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-12,12,Roselia,70,Pflanze,,Basis,Ungewöhnlich,Suwama Chiaki,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-13,13,Roselia,70,Pflanze,,Basis,Häufig,Shin Nagasawa,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-14,14,Roserade,90,Pflanze,,Rang 1,Ungewöhnlich,Kyoko Umemoto,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-15,15,Roserade,90,Pflanze,,Rang 1,Selten,Shin Nagasawa,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-16,16,Maracamba,90,Pflanze,,Basis,Ungewöhnlich,sui,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-17,17,Tarnpignon,40,Pflanze,,Basis,Häufig,Shin Nagasawa,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-18,18,Vulpix,60,Feuer,,Basis,Häufig,MAHOU,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-19,19,Vulnona,90,Feuer,,Rang 1,Selten,Hideaki Hakozaki,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-20,20,Magmar,80,Feuer,,Basis,Häufig,Kagemaru Himeno,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-21,21,Magbrant,120,Feuer,,Rang 1,Selten,Akira Komayama,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-22,22,Ho-Oh-EX,160,Feuer,,,Selten,Eske Yoshinob,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-23,23,Karpador,30,Wasser,,Basis,Häufig,Mizue,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-24,24,Garados,130,Wasser,,Rang 1,Selten,Mizue,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-25,25,Wailmer,100,Wasser,,Basis,Ungewöhnlich,Atsuko Nishida,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-26,26,Wailord,200,Wasser,,Rang 1,Selten,match,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-27,27,Barschwa,30,Wasser,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-28,28,Milotic,110,Wasser,,Rang 1,Selten,Mizue,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-29,29,Seemops,60,Wasser,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-30,30,Seejong,80,Wasser,,Rang 1,Ungewöhnlich,Mizue,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-31,31,Walraisa,140,Wasser,,Rang 2,Selten,Kouki Saitou,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-32,32,Bamelin,70,Wasser,,Basis,Häufig,Kyoko Umemoto,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-33,33,Bojelin,90,Wasser,,Rang 1,Ungewöhnlich,Naoki Saito,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-34,34,Schallquap,50,Wasser,,Basis,Häufig,Midori Harada,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-35,35,Mebrana,80,Wasser,,Rang 1,Ungewöhnlich,Miki Tanaka,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-36,36,Branawarz,140,Wasser,,Rang 2,Selten,kawayoo,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-37,37,Mamolida,90,Wasser,,Basis,Selten,Miki Tanaka,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-38,38,Voltilamm,60,Elektro,,Basis,Häufig,sui,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-39,39,Waaty,80,Elektro,,Rang 1,Ungewöhnlich,Atsuko Nishida,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-40,40,Ampharos,140,Elektro,,Rang 2,Selten,Hajime Kusajima,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-41,41,Frizelbliz,60,Elektro,,Basis,Häufig,kawayoo,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-42,42,Frizelbliz,60,Elektro,,Basis,Häufig,Masakazu Fukuda,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-43,43,Voltenso,90,Elektro,,Rang 1,Selten,Naoyo Kimura,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-44,44,Voltenso,90,Elektro,,Rang 1,Selten,Masakazu Fukuda,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-45,45,Emolga,70,Elektro,,Basis,Ungewöhnlich,Kanako Eo,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-46,46,Mew-EX,120,Psycho,,,Selten,Eske Yoshinob,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-47,47,Pudox,130,Psycho,,Rang 2,Selten,Kagemaru Himeno,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-48,48,Ninjatom,60,Psycho,,Rang 1,Selten,Masakazu Fukuda,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-49,49,Driftlon,60,Psycho,,Basis,Häufig,MAHOU,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-50,50,Driftlon,60,Psycho,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-51,51,Drifzepeli,100,Psycho,,Rang 1,Selten,Kanako Eo,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-52,52,Symvolara,90,Psycho,,Basis,Selten,Ryo Ueda,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-53,53,Unratütox,70,Psycho,,Basis,Häufig,Tomokazu Komiya,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-54,54,Deponitox,100,Psycho,,Rang 1,Selten,kawayoo,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-55,55,Mollimorba,50,Psycho,,Basis,Häufig,Aya Kusube,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-56,56,Hypnomorba,80,Psycho,,Rang 1,Ungewöhnlich,Mizue,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-57,57,Morbitesse,130,Psycho,,Rang 2,Selten,Akira Komayama,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-58,58,Golbit,90,Psycho,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-59,59,Golgantes,130,Psycho,,Rang 1,Selten,Ryo Ueda,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-60,60,Tragosso,70,Kampf,,Basis,Häufig,Atsuko Nishida,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-61,61,Knogga,100,Kampf,,Rang 1,Selten,Kouki Saitou,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-62,62,Nasgnet,80,Kampf,,Basis,Häufig,Shin Nagasawa,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-63,63,Puppance,60,Kampf,,Basis,Häufig,Shigenori Negishi,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-64,64,Lepumentas,90,Kampf,,Rang 1,Selten,Shin Nagasawa,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-65,65,Kiesling,70,Kampf,,Basis,Häufig,Kyoko Umemoto,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-66,66,Sedimantur,90,Kampf,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-67,67,Brockoloss,140,Kampf,,Rang 2,Selten,Ryo Ueda,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-68,68,Jiutesto,100,Kampf,,Basis,Ungewöhnlich,Midori Harada,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-69,69,Karadonis,90,Kampf,,Basis,Ungewöhnlich,Masakazu Fukuda,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-70,70,Flunschlik,100,Kampf,,Basis,Ungewöhnlich,HiRON,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-71,71,Terrakium-EX,180,Kampf,,,Selten,Eske Yoshinob,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-72,72,Kramurx,70,Unlicht,,Basis,Häufig,Naoyo Kimura,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-73,73,Kramshef,110,Unlicht,,Rang 1,Selten,Shin Nagasawa,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-74,74,Hunduster,60,Unlicht,,Basis,Häufig,Akira Komayama,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-75,75,Hundemon,100,Unlicht,,Rang 1,Selten,Akira Komayama,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-76,76,Skunkapuh,60,Unlicht,,Basis,Häufig,Kagemaru Himeno,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-77,77,Skuntank,90,Unlicht,,Rang 1,Ungewöhnlich,Midori Harada,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-78,78,Stollunior,60,Metall,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-79,79,Stollrak,90,Metall,,Rang 1,Ungewöhnlich,Shigenori Negishi,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-80,80,Stolloss,140,Metall,,Rang 2,Selten,Masakazu Fukuda,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-81,81,Registeel-EX,180,Metall,,,Selten,Eske Yoshinob,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-82,82,Voluminas,110,Metall,,Rang 1,Selten,match,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-83,83,Fermicula,70,Metall,,Basis,Ungewöhnlich,Mitsuhiro Arita,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-84,84,Altaria,70,Drache,,Rang 1,Selten,HiRON,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-85,85,Rayquaza-EX,170,Drache,,,Selten,Eske Yoshinob,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-86,86,Kaumalat,50,Drache,,Basis,Häufig,Masakazu Fukuda,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-87,87,Kaumalat,60,Drache,,Basis,Häufig,Kagemaru Himeno,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-88,88,Knarksel,80,Drache,,Rang 1,Ungewöhnlich,Mitsuhiro Arita,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-89,89,Knarksel,80,Drache,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-90,90,Knakrack,140,Drache,,Rang 2,Selten,5ban Graphics,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-91,91,Knakrack,140,Drache,,Rang 2,Selten,Naoki Saito,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-92,92,Giratina-EX,180,Drache,,,Selten,Eske Yoshinob,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-93,93,Kapuno,60,Drache,,Basis,Häufig,kawayoo,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-94,94,Kapuno,60,Drache,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-95,95,Duodino,80,Drache,,Rang 1,Ungewöhnlich,Hajime Kusajima,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-96,96,Duodino,90,Drache,,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-97,97,Trikephalo,150,Drache,,Rang 2,Selten,5ban Graphics,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-98,98,Trikephalo,150,Drache,,Rang 2,Selten,Naoki Saito,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-99,99,Griffel,60,Farblos,,Basis,Häufig,sui,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-100,100,Ambidiffel,80,Farblos,,Rang 1,Selten,Akira Komayama,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-101,101,Bummelz,60,Farblos,,Basis,Häufig,Kanako Eo,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-102,102,Muntier,80,Farblos,,Rang 1,Ungewöhnlich,match,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-103,103,Letarking,150,Farblos,,Rang 2,Selten,Naoki Saito,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-104,104,Wablu,40,Farblos,,Basis,Ungewöhnlich,Aya Kusube,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-105,105,Wablu,40,Farblos,,Basis,Häufig,Masakazu Fukuda,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-106,106,Bidiza,70,Farblos,,Basis,Häufig,match,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-107,107,Bidifas,100,Farblos,,Rang 1,Ungewöhnlich,kawayoo,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-108,108,Ohrdoch,90,Farblos,,Basis,Ungewöhnlich,Tomokazu Komiya,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-109,109,Picochilla,60,Farblos,,Basis,Häufig,Kagemaru Himeno,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-110,110,Bisofank,100,Farblos,,Basis,Ungewöhnlich,Akira Komayama,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-111,111,Geronimatz,50,Farblos,,Basis,Häufig,Suwama Chiaki,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-112,112,Washakwil,100,Farblos,,Rang 1,Selten,Mitsuhiro Arita,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-113,113,Rückentwicklungsspray,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-114,114,Riesige Robe,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-115,115,Rettender Schal,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-116,116,Ausrüstungsentsorger,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-117,117,Allerlei-Energie GrassFirePsychicDarkness,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-118,118,Allerlei-Energie WaterLightningFightingMetal,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-119,119,Ho-Oh-EX,160,Feuer,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-120,120,Mew-EX,120,Psycho,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-121,121,Terrakium-EX,180,Kampf,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-122,122,Registeel-EX,180,Metall,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-123,123,Rayquaza-EX,170,Drache,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-124,124,Giratina-EX,180,Drache,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-125,125,Serpiroyal,130,Pflanze,,Rang 2,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-126,126,Zytomega,90,Psycho,,Rang 2,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-127,127,Rabigator,150,Unlicht,,Rang 2,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128
+bw6-128,128,Rayquaza,120,Drache,,Basis,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Hoheit der Drachen,Schwarz & Weiß,128

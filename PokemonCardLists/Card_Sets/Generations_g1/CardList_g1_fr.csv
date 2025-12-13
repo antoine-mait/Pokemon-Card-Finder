@@ -1,0 +1,116 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+g1-1,1,Florizarre-EX,180,Plante,,,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Générations,XY,115
+g1-2,2,M-Florizarre-EX,230,Plante,Florizarre-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Générations,XY,115
+g1-3,3,Chenipan,40,Plante,,De base,Commune,Sumiyoshi Kizuki,"normal, reverse, holo",Générations,XY,115
+g1-4,4,Chrysacier,70,Plante,Chenipan,Niveau 1,Peu Commune,kawayoo,"normal, reverse, holo",Générations,XY,115
+g1-5,5,Papilusion,130,Plante,Chrysacier,Niveau 2,Rare,miki kudo,"normal, reverse, holo",Générations,XY,115
+g1-6,6,Paras,60,Plante,,De base,Commune,Aya Kusube,"normal, reverse, holo",Générations,XY,115
+g1-7,7,Parasect,100,Plante,Paras,Niveau 1,Rare,Sumiyoshi Kizuki,"normal, reverse, holo",Générations,XY,115
+g1-8,8,Saquedeneu,80,Plante,,De base,Commune,match,"normal, reverse, holo",Générations,XY,115
+g1-9,9,Scarabrute,100,Plante,,De base,Rare,Satoshi Shirai,"normal, reverse, holo",Générations,XY,115
+g1-10,10,Phyllali-EX,170,Plante,,,Ultra Rare,Naoki Saito,"normal, reverse, holo",Générations,XY,115
+g1-11,11,Dracaufeu-EX,180,Feu,,,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Générations,XY,115
+g1-12,12,M-Dracaufeu-EX,220,Feu,Dracaufeu-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Générations,XY,115
+g1-13,13,Feunard-EX,170,Feu,,,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Générations,XY,115
+g1-14,14,Ponyta,60,Feu,,De base,Commune,Tomokazu Komiya,"normal, reverse, holo",Générations,XY,115
+g1-15,15,Galopa,90,Feu,Ponyta,Niveau 1,Rare,DemizuPosuka,"normal, reverse, holo",Générations,XY,115
+g1-16,16,Magmar,80,Feu,,De base,Commune,Hideki Ishikawa,"normal, reverse, holo",Générations,XY,115
+g1-17,17,Tortank-EX,180,Eau,,,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Générations,XY,115
+g1-18,18,M-Tortank-EX,220,Eau,Tortank-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Générations,XY,115
+g1-19,19,Kokiyas,60,Eau,,De base,Commune,Naoyo Kimura,"normal, reverse, holo",Générations,XY,115
+g1-20,20,Crustabri,100,Eau,Kokiyas,Niveau 1,Peu Commune,Masakazu Fukuda,"normal, reverse, holo",Générations,XY,115
+g1-21,21,Krabby,70,Eau,,De base,Commune,kirisAki,"normal, reverse, holo",Générations,XY,115
+g1-22,22,Magicarpe,30,Eau,,De base,Commune,Miki Tanaka,"normal, reverse, holo",Générations,XY,115
+g1-23,23,Léviator,130,Eau,Magicarpe,Niveau 1,Rare,Shin Nagasawa,"normal, reverse, holo",Générations,XY,115
+g1-24,24,Aquali-EX,180,Eau,,,Ultra Rare,Naoki Saito,"normal, reverse, holo",Générations,XY,115
+g1-25,25,Artikodin,120,Eau,,De base,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Générations,XY,115
+g1-26,26,Pikachu,60,Électrique,,De base,Commune,Atsuko Nishida,"normal, reverse, holo",Générations,XY,115
+g1-27,27,Raichu,90,Électrique,Pikachu,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Générations,XY,115
+g1-28,28,Voltali-EX,160,Électrique,,,Ultra Rare,Naoki Saito,"normal, reverse, holo",Générations,XY,115
+g1-29,29,Électhor,120,Électrique,,De base,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Générations,XY,115
+g1-30,30,Nosferapti,50,Psy,,De base,Commune,match,"normal, reverse, holo",Générations,XY,115
+g1-31,31,Nosferalto,70,Psy,Nosferapti,Niveau 1,Peu Commune,Kanako Eo,"normal, reverse, holo",Générations,XY,115
+g1-32,32,Ramoloss,50,Psy,,De base,Commune,Miki Tanaka,"normal, reverse, holo",Générations,XY,115
+g1-33,33,Fantominus,50,Psy,,De base,Commune,kodama,"normal, reverse, holo",Générations,XY,115
+g1-34,34,Spectrum,70,Psy,Fantominus,Niveau 1,Peu Commune,Midori Harada,"normal, reverse, holo",Générations,XY,115
+g1-35,35,Ectoplasma,130,Psy,Spectrum,Niveau 2,Rare,Saya Tsuruta,"normal, reverse, holo",Générations,XY,115
+g1-36,36,Lippoutou,70,Psy,,De base,Rare,Naoki Saito,"normal, reverse, holo",Générations,XY,115
+g1-37,37,Mistigrix-EX,160,Psy,,,Ultra Rare,Toyste Beach,"normal, reverse, holo",Générations,XY,115
+g1-38,38,Taupiqueur,50,Combat,,De base,Commune,Tomokazu Komiya,"normal, reverse, holo",Générations,XY,115
+g1-39,39,Triopikeur,90,Combat,Taupiqueur,Niveau 1,Rare,Toyste Beach,"normal, reverse, holo",Générations,XY,115
+g1-40,40,Machoc,70,Combat,,De base,Commune,Mina Nakai,"normal, reverse, holo",Générations,XY,115
+g1-41,41,Machopeur,90,Combat,Machoc,Niveau 1,Peu Commune,Mitsuhiro Arita,"normal, reverse, holo",Générations,XY,115
+g1-42,42,Mackogneur,150,Combat,Machopeur,Niveau 2,Rare,PLANETA,"normal, reverse, holo",Générations,XY,115
+g1-43,43,Racaillou,60,Combat,,De base,Commune,MAHOU,"normal, reverse, holo",Générations,XY,115
+g1-44,44,Gravalanch,100,Combat,Racaillou,Niveau 1,Peu Commune,Naoyo Kimura,"normal, reverse, holo",Générations,XY,115
+g1-45,45,Grolem,150,Combat,Gravalanch,Niveau 2,Rare,Hasuno,"normal, reverse, holo",Générations,XY,115
+g1-46,46,Grolem-EX,180,Combat,,,Ultra Rare,Toyste Beach,"normal, reverse, holo",Générations,XY,115
+g1-47,47,Kicklee,90,Combat,,De base,Rare,Hitoshi Ariga,"normal, reverse, holo",Générations,XY,115
+g1-48,48,Tygnon,90,Combat,,De base,Rare,match,"normal, reverse, holo",Générations,XY,115
+g1-49,49,Rhinocorne,80,Combat,,De base,Commune,Midori Harada,"normal, reverse, holo",Générations,XY,115
+g1-50,50,Mélofée,60,Fée,,De base,Commune,Shibuzoh.,"normal, reverse, holo",Générations,XY,115
+g1-51,51,Mélodelfe,90,Fée,Mélofée,Niveau 1,Peu Commune,Atsuko Nishida,"normal, reverse, holo",Générations,XY,115
+g1-52,52,M. Mime,70,Fée,,De base,Peu Commune,kirisAki,"normal, reverse, holo",Générations,XY,115
+g1-53,53,Miaouss,60,Incolore,,De base,Commune,kirisAki,"normal, reverse, holo",Générations,XY,115
+g1-54,54,Persian,90,Incolore,Miaouss,Niveau 1,Peu Commune,Mitsuhiro Arita,"normal, reverse, holo",Générations,XY,115
+g1-55,55,Doduo,60,Incolore,,De base,Commune,Eri Yamaki,"normal, reverse, holo",Générations,XY,115
+g1-56,56,Dodrio,90,Incolore,Doduo,Niveau 1,Rare,TOKIYA,"normal, reverse, holo",Générations,XY,115
+g1-57,57,Tauros,110,Incolore,,De base,Rare,Kagemaru Himeno,"normal, reverse, holo",Générations,XY,115
+g1-58,58,Ronflex,130,Incolore,,De base,Rare,Mitsuhiro Arita,"normal, reverse, holo",Générations,XY,115
+g1-59,59,Lem,,,,,Peu Commune,Ken Sugimori,"normal, reverse, holo",Générations,XY,115
+g1-60,60,Maillet Écrasant,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Générations,XY,115
+g1-61,61,Échange d'Énergie,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Générations,XY,115
+g1-62,62,Évolusoda,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Générations,XY,115
+g1-63,63,Imakuni ?,,,,,Peu Commune,,"normal, reverse, holo",Générations,XY,115
+g1-64,64,Entretien,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Générations,XY,115
+g1-65,65,Rappel Max,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Générations,XY,115
+g1-66,66,Astera,,,,,Peu Commune,Ken Sugimori,"normal, reverse, holo",Générations,XY,115
+g1-67,67,Poké Ball,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Générations,XY,115
+g1-68,68,Dame du Centre Pokémon,,,,,Peu Commune,Maiko Fujiwara,"normal, reverse, holo",Générations,XY,115
+g1-69,69,Fan Club Pokémon,,,,,Peu Commune,Yusuke Ohmura,"normal, reverse, holo",Générations,XY,115
+g1-70,70,Revitalisation,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Générations,XY,115
+g1-71,71,Carton Rouge,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Générations,XY,115
+g1-72,72,Sannah,,,,,Peu Commune,Ken Sugimori,"normal, reverse, holo",Générations,XY,115
+g1-73,73,Sbire de la Team Flare,,,,,Peu Commune,Yusuke Ohmura,"normal, reverse, holo",Générations,XY,115
+g1-74,74,Double Énergie Incolore,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Générations,XY,115
+g1-75,75,Énergie Grass de base,,,,De base,Commune,,"normal, reverse, holo",Générations,XY,115
+g1-76,76,Énergie Fire de base,,,,De base,Commune,,"normal, reverse, holo",Générations,XY,115
+g1-77,77,Énergie Water de base,,,,De base,Commune,,"normal, reverse, holo",Générations,XY,115
+g1-78,78,Énergie Lightning de base,,,,De base,Commune,,"normal, reverse, holo",Générations,XY,115
+g1-79,79,Énergie Psychic de base,,,,De base,Commune,,"normal, reverse, holo",Générations,XY,115
+g1-80,80,Énergie Fighting de base,,,,De base,Commune,,"normal, reverse, holo",Générations,XY,115
+g1-81,81,Énergie Darkness de base,,,,De base,Commune,,"normal, reverse, holo",Générations,XY,115
+g1-82,82,Énergie Metal de base,,,,De base,Commune,,"normal, reverse, holo",Générations,XY,115
+g1-83,83,Énergie Fairy de base,,Fée,,De base,Commune,,"normal, reverse, holo",Générations,XY,115
+g1-RC1,RC1,Germignon,50,Plante,,De base,Commune,Sanosuke Sakuma,"normal, reverse, holo",Générations,XY,115
+g1-RC10,RC10,Dedenne,60,Électrique,,De base,Peu Commune,kanahei,"normal, reverse, holo",Générations,XY,115
+g1-RC11,RC11,Qulbutoké,110,Psy,,De base,Commune,Yukiko Baba,"normal, reverse, holo",Générations,XY,115
+g1-RC12,RC12,Gloupti,60,Psy,,De base,Commune,Tomokazu Komiya,"normal, reverse, holo",Générations,XY,115
+g1-RC13,RC13,Jirachi,70,Psy,,De base,Peu Commune,kirisAki,"normal, reverse, holo",Générations,XY,115
+g1-RC14,RC14,Psystigri,50,Psy,,De base,Commune,Kanako Eo,"normal, reverse, holo",Générations,XY,115
+g1-RC15,RC15,Mistigrix,90,Psy,Psystigri,Niveau 1,Peu Commune,sui,"normal, reverse, holo",Générations,XY,115
+g1-RC16,RC16,Yveltal,130,Obscurité,,De base,Peu Commune,Saya Tsuruta,"normal, reverse, holo",Générations,XY,115
+g1-RC17,RC17,Flabébé,40,Fée,,De base,Commune,Saya Tsuruta,"normal, reverse, holo",Générations,XY,115
+g1-RC18,RC18,Floette,70,Fée,Flabébé,Niveau 1,Peu Commune,Eske Yoshinob,"normal, reverse, holo",Générations,XY,115
+g1-RC19,RC19,Sucroquin,60,Fée,,De base,Peu Commune,Yuka Morii,"normal, reverse, holo",Générations,XY,115
+g1-RC2,RC2,Balignon,60,Plante,,De base,Commune,Miki Tanaka,"normal, reverse, holo",Générations,XY,115
+g1-RC20,RC20,Cupcanaille,90,Fée,Sucroquin,Niveau 1,Peu Commune,MAHOU,"normal, reverse, holo",Générations,XY,115
+g1-RC21,RC21,Nymphali-EX,170,Fée,,,Ultra Rare,sui,"normal, reverse, holo",Générations,XY,115
+g1-RC22,RC22,Diancie,90,Fée,,De base,Peu Commune,Mizue,"normal, reverse, holo",Générations,XY,115
+g1-RC23,RC23,Tylton,40,Incolore,,De base,Commune,Atsuko Nishida,"normal, reverse, holo",Générations,XY,115
+g1-RC24,RC24,Altaria,90,Incolore,Tylton,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, reverse, holo",Générations,XY,115
+g1-RC25,RC25,Passerouge,40,Incolore,,De base,Commune,Aya Kusube,"normal, reverse, holo",Générations,XY,115
+g1-RC26,RC26,Couronne Florale,,,,,Commune,Aya Kusube,"normal, reverse, holo",Générations,XY,115
+g1-RC27,RC27,Timmy,,,,,Peu Commune,Megumi Mizutani,"normal, reverse, holo",Générations,XY,115
+g1-RC28,RC28,Pyroli-EX,170,Feu,,,Ultra Rare,kirisAki,"normal, reverse, holo",Générations,XY,115
+g1-RC29,RC29,Pikachu,60,Électrique,,De base,Ultra Rare,Kagemaru Himeno,"normal, reverse, holo",Générations,XY,115
+g1-RC3,RC3,Salamèche,70,Feu,,De base,Commune,Akira Komayama,"normal, reverse, holo",Générations,XY,115
+g1-RC30,RC30,Gardevoir-EX,170,Fée,,,Ultra Rare,Mizue,"normal, reverse, holo",Générations,XY,115
+g1-RC31,RC31,M-Gardevoir-EX,210,Fée,Gardevoir-EX,MÉGA,Ultra Rare,Megumi Mizutani,"normal, reverse, holo",Générations,XY,115
+g1-RC32,RC32,Nymphali-EX,170,Fée,,,Ultra Rare,Kanako Eo,"normal, reverse, holo",Générations,XY,115
+g1-RC4,RC4,Reptincel,90,Feu,Salamèche,Niveau 1,Commune,Akira Komayama,"normal, reverse, holo",Générations,XY,115
+g1-RC5,RC5,Dracaufeu,160,Feu,Reptincel,Niveau 2,Peu Commune,Akira Komayama,"normal, reverse, holo",Générations,XY,115
+g1-RC6,RC6,Pyroli-EX,170,Feu,,,Ultra Rare,Atsuko Nishida,"normal, reverse, holo",Générations,XY,115
+g1-RC7,RC7,Stalgamin,50,Eau,,De base,Commune,MAHOU,"normal, reverse, holo",Générations,XY,115
+g1-RC8,RC8,Momartik,90,Eau,Stalgamin,Niveau 1,Peu Commune,Shin Nagasawa,"normal, reverse, holo",Générations,XY,115
+g1-RC9,RC9,Raichu,90,Électrique,Pikachu,Niveau 1,Commune,Aya Kusube,"normal, reverse, holo",Générations,XY,115

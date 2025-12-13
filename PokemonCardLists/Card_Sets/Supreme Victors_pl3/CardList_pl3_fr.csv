@@ -1,0 +1,151 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+pl3-1,1,Absol ,70,Obscurité,,De base,Rare Holo,Yusuke Ishikawa,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-2,2,Brasegali ,80,Feu,,De base,Rare Holo,Motofumi Fujiwara,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-3,3,Grodrive ,80,Psy,,De base,Rare Holo,Lee HyunJung,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-4,4,Elekable ,90,Électrique,,De base,Rare Holo,Hironobu Yoshida,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-5,5,Carchacrok,130,Incolore,Carmache,Niveau 2,Rare Holo,Mitsuhiro Arita,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-6,6,Maganon,110,Feu,Magmar,Niveau 1,Rare Holo,Naoyo Kimura,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-7,7,Metalosse,130,Métal,Metang,Niveau 2,Rare Holo,Kagemaru Himeno,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-8,8,Rayquaza ,100,Incolore,,De base,Rare Holo,kawayoo,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-9,9,Regigigas ,100,Incolore,,De base,Rare Holo,Shin Nagasawa,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-10,10,Rhinastoc,140,Combat,Rhinoféros,Niveau 2,Rare Holo,Hajime Kusajima,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-11,11,Etouraptor ,80,Incolore,,De base,Rare Holo,Hiroki Fuchino,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-12,12,Laggron,130,Eau,Flobio,Niveau 2,Rare Holo,Kagemaru Himeno,"normal, reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-13,13,Florizarre,140,Plante,Herbizarre,Niveau 2,Rare Holo,Kouki Saitou,"normal, reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-14,14,Yanmega,100,Plante,Yanma,Niveau 1,Rare Holo,Masakazu Fukuda,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-15,15,Arcanin ,90,Feu,,De base,Rare,Yusuke Ishikawa,"normal, reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-16,16,Artikodin,100,Eau,,De base,Rare,Mitsuhiro Arita,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-17,17,Papilusion ,90,Plante,,De base,Rare,Lee HyunJung,"normal, reverse",Vainqueurs Suprêmes,Platine,150
+pl3-18,18,Camerupt,120,Feu,Chamallot,Niveau 1,Rare,Yukiko Baba,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-19,19,Camerupt ,100,Feu,,De base,Rare,Ryota Saito,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-20,20,Dracaufeu ,100,Feu,,De base,Rare,Wataru Kawahara,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-21,21,Éoko,70,Psy,,De base,Rare,Yukiko Baba,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-22,22,Kaorine,90,Psy,Balbuto,Niveau 1,Rare,Kouki Saitou,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-23,23,Colhomard ,80,Obscurité,,De base,Rare,Wataru Kawahara,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-24,24,Lamantine,100,Eau,Otaria,Niveau 1,Rare,Kanako Eo,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-25,25,Dodrio,80,Incolore,Doduo,Niveau 1,Rare,Kouki Saitou,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-26,26,Noctunoir ,90,Psy,,De base,Rare,Motofumi Fujiwara,"normal, reverse",Vainqueurs Suprêmes,Platine,150
+pl3-27,27,Pingoléon ,90,Eau,,De base,Rare,Hiroki Fuchino,"normal, reverse",Vainqueurs Suprêmes,Platine,150
+pl3-28,28,Brouhabam,130,Incolore,Ramboum,Niveau 2,Rare,Masakazu Fukuda,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-29,29,Corboss,90,Obscurité,Cornèbre,Niveau 1,Rare,Mitsuhiro Arita,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-30,30,Coudlangue ,90,Incolore,,De base,Rare,kawayoo,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-31,31,Lucario ,90,Combat,,De base,Rare,kawayoo,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-32,32,Seleroc,70,Psy,,De base,Rare,Naoyo Kimura,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-33,33,Mysdibule,70,Métal,,De base,Rare,Suwama Chiaki,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-34,34,Charmina,90,Psy,Meditikka,Niveau 1,Rare,Masakazu Fukuda,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-35,35,Milobellus ,90,Eau,,De base,Rare,kawayoo,"normal, reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-36,36,Sulfura,100,Feu,,De base,Rare,Kouki Saitou,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-37,37,M. Mime,70,Psy,,De base,Rare,Kouki Saitou,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-38,38,Parasect,80,Plante,Paras,Niveau 1,Rare,Kagemaru Himeno,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-39,39,Colossinge,90,Combat,Férosinge,Niveau 1,Rare,Midori Harada,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-40,40,Roserade ,90,Psy,,De base,Rare,kawayoo,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-41,41,Tenefix ,70,Obscurité,,De base,Rare,Yusuke Ishikawa,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-42,42,Sablaireau,90,Combat,Sabelette,Niveau 1,Rare,Kagemaru Himeno,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-43,43,Poissoroy,90,Eau,Poissirène,Niveau 1,Rare,Suwama Chiaki,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-44,44,Munja,60,Plante,Ningale,Niveau 1,Rare,Mitsuhiro Arita,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-45,45,Solaroc,80,Psy,,De base,Rare,Naoyo Kimura,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-46,46,Spinda,70,Incolore,,De base,Rare,Miki Tanaka,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-47,47,Wailord,180,Eau,Wailmer,Niveau 1,Rare,Midori Harada,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-48,48,Electhor,100,Électrique,,De base,Rare,Kagemaru Himeno,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-49,49,Altaria ,80,Incolore,,De base,Peu Commune,kawayoo,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-50,50,Arcanin,80,Feu,Caninos,Niveau 1,Peu Commune,Atsuko Nishida,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-51,51,Castorno,90,Incolore,Keunotor,Niveau 1,Peu Commune,Atsuko Nishida,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-52,52,Chapignon,90,Combat,Balignon,Niveau 1,Peu Commune,Kyoko Umemoto,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-53,53,Vortente,80,Plante,,De base,Peu Commune,Satoshi Ohta,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-54,54,Pijako ,60,Incolore,,De base,Peu Commune,Yusuke Ishikawa,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-55,55,Ceriflor,80,Plante,Ceribou,Niveau 1,Peu Commune,Saya Tsuruta,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-56,56,Dracolosse ,100,Incolore,,De base,Peu Commune,Shin Nagasawa,"normal, reverse",Vainqueurs Suprêmes,Platine,150
+pl3-57,57,Grodrive,80,Psy,Baudrive,Niveau 1,Peu Commune,Mitsuhiro Arita,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-58,58,Mustéflott,70,Eau,Mustébouée,Niveau 1,Peu Commune,Kagemaru Himeno,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-59,59,Carmache,80,Incolore,Griknot,Niveau 1,Peu Commune,Tomokazu Komiya,"normal, reverse",Vainqueurs Suprêmes,Platine,150
+pl3-60,60,Carchacrok ,80,Incolore,,De base,Peu Commune,kawayoo,"normal, reverse",Vainqueurs Suprêmes,Platine,150
+pl3-61,61,Hippopotas,70,Combat,,De base,Peu Commune,Masakazu Fukuda,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-62,62,Herbizarre,80,Plante,Bulbizarre,Niveau 1,Peu Commune,Kanako Eo,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-63,63,Lockpin,80,Incolore,Laporeille,Niveau 1,Peu Commune,Kanako Eo,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-64,64,Ramboum,80,Incolore,Chuchmur,Niveau 1,Peu Commune,Atsuko Nishida,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-65,65,Magmar,70,Feu,,De base,Peu Commune,Midori Harada,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-66,66,Élecsprint ,80,Électrique,,De base,Peu Commune,Ryota Saito,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-67,67,Flobio,80,Eau,Gobou,Niveau 1,Peu Commune,Tomokazu Komiya,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-68,68,Maskadra,80,Plante,Arakdo,Niveau 1,Peu Commune,Masakazu Fukuda,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-69,69,Metang,80,Métal,Terhal,Niveau 1,Peu Commune,Kyoko Umemoto,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-70,70,Milobellus,90,Eau,Barpau,Niveau 1,Peu Commune,Hajime Kusajima,"normal, reverse",Vainqueurs Suprêmes,Platine,150
+pl3-71,71,Negapi,60,Électrique,,De base,Peu Commune,Yuka Morii,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-72,72,Cornèbre,70,Obscurité,,De base,Peu Commune,Yukiko Baba,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-73,73,Ninjask,80,Plante,Ningale,Niveau 1,Peu Commune,Kouki Saitou,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-74,74,Chamallot,70,Feu,,De base,Peu Commune,Kagemaru Himeno,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-75,75,Scarabrute,90,Plante,,De base,Peu Commune,Kouki Saitou,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-76,76,Posipi,60,Électrique,,De base,Peu Commune,Yuka Morii,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-77,77,Raichu,90,Électrique,Pikachu,Niveau 1,Peu Commune,Takao Unno,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-78,78,Rattatac ,70,Incolore,,De base,Peu Commune,Ryota Saito,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-79,79,Relicanth,80,Combat,,De base,Peu Commune,Sumiyoshi Kizuki,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-80,80,Rhinoféros,90,Combat,Rhinocorne,Niveau 1,Peu Commune,Masakazu Fukuda,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-81,81,Roserade,80,Plante,Roselia,Niveau 1,Peu Commune,Hajime Kusajima,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-82,82,Motisma,70,Électrique,,De base,Peu Commune,Ken Sugimori,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-83,83,Airmure ,80,Métal,,De base,Peu Commune,Hironobu Yoshida,"normal, reverse",Vainqueurs Suprêmes,Platine,150
+pl3-84,84,Spiritomb ,70,Psy,,De base,Peu Commune,kawayoo,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-85,85,Etourvol,70,Incolore,Etourmi,Niveau 1,Peu Commune,Mitsuhiro Arita,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-86,86,Togekiss ,70,Incolore,,De base,Peu Commune,kawayoo,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-87,87,Wailmer,80,Eau,,De base,Peu Commune,Masakazu Fukuda,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-88,88,Yanma,70,Plante,,De base,Peu Commune,Midori Harada,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-89,89,Balbuto,50,Psy,,De base,Commune,Masakazu Fukuda,"normal, reverse",Vainqueurs Suprêmes,Platine,150
+pl3-90,90,Terhal,50,Métal,,De base,Commune,Atsuko Nishida,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-91,91,Keunotor,60,Incolore,,De base,Commune,Atsuko Nishida,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-92,92,Mustébouée,50,Eau,,De base,Commune,Kagemaru Himeno,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-93,93,Bulbizarre,60,Plante,,De base,Commune,Naoyo Kimura,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-94,94,Laporeille,50,Incolore,,De base,Commune,Kanako Eo,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-95,95,Pijako,60,Incolore,,De base,Commune,Satoshi Ohta,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-96,96,Ceribou,50,Plante,,De base,Commune,Saya Tsuruta,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-97,97,Ouisticram,50,Feu,,De base,Commune,Masakazu Fukuda,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-98,98,Korillon,50,Psy,,De base,Commune,Kagemaru Himeno,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-99,99,Apitrini,40,Plante,,De base,Commune,Atsuko Nishida,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-100,100,Écrapince,50,Eau,,De base,Commune,Hajime Kusajima,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-101,101,Cradopaud,60,Psy,,De base,Commune,Masakazu Fukuda,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-102,102,Doduo,50,Incolore,,De base,Commune,Atsuko Nishida,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-103,103,Baudrive,40,Psy,,De base,Commune,Mitsuhiro Arita,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-104,104,Barpau,30,Eau,,De base,Commune,Mitsuhiro Arita,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-105,105,Racaillou,60,Combat,,De base,Commune,Kouki Saitou,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-106,106,Griknot,60,Incolore,,De base,Commune,Kanako Eo,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-107,107,Poissirène,50,Eau,,De base,Commune,Kyoko Umemoto,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-108,108,Caninos,60,Feu,,De base,Commune,Atsuko Nishida,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-109,109,Crikzik,50,Plante,,De base,Commune,Kouki Saitou,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-110,110,Magicarpe,30,Eau,,De base,Commune,Masakazu Fukuda,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-111,111,Magneti,40,Électrique,,De base,Commune,Masakazu Fukuda,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-112,112,Férosinge,50,Combat,,De base,Commune,Kanako Eo,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-113,113,Meditikka,60,Psy,,De base,Commune,Kagemaru Himeno,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-114,114,Miaouss,60,Incolore,,De base,Commune,Kouki Saitou,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-115,115,Mime Junior,50,Psy,,De base,Commune,Miki Tanaka,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-116,116,Gobou,60,Eau,,De base,Commune,Kouki Saitou,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-117,117,Ningale,40,Plante,,De base,Commune,Tomokazu Komiya,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-118,118,Pachirisu,60,Électrique,,De base,Commune,Kagemaru Himeno,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-119,119,Paras,50,Plante,,De base,Commune,Yukiko Baba,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-120,120,Pikachu,50,Électrique,,De base,Commune,Takao Unno,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-121,121,Tiplouf,60,Eau,,De base,Commune,Hajime Kusajima,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-122,122,Rhinocorne,70,Combat,,De base,Commune,Tomokazu Komiya,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-123,123,Roselia,60,Plante,,De base,Commune,Hajime Kusajima,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-124,124,Sabelette,50,Combat,,De base,Commune,Suwama Chiaki,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-125,125,Otaria,60,Eau,,De base,Commune,Atsuko Nishida,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-126,126,Lixy,60,Électrique,,De base,Commune,Kouki Saitou,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-127,127,Balignon,60,Plante,,De base,Commune,Yuka Morii,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-128,128,Rapion,50,Psy,,De base,Commune,Hajime Kusajima,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-129,129,Etourmi,50,Incolore,,De base,Commune,Mitsuhiro Arita,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-130,130,Arakdo,50,Plante,,De base,Commune,Miki Tanaka,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-131,131,Tortipouss,60,Plante,,De base,Commune,Atsuko Nishida,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-132,132,Chuchmur,60,Incolore,,De base,Commune,Yuka Morii,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-133,133,Nosferapti,50,Psy,,De base,Commune,Masakazu Fukuda,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-134,134,Tour de Combat,,,,,Peu Commune,Wataru Kawahara,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-135,135,Salle de Maître,,,,,Peu Commune,Yusuke Ishikawa,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-136,136,Les conseils de Cynthia,,,,,Peu Commune,Ken Sugimori,"normal, reverse",Vainqueurs Suprêmes,Platine,150
+pl3-137,137,L'initiative d'Hélio,,,,,Peu Commune,Ken Sugimori,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-138,138,Télétransporteur nocturne,,,,,Peu Commune,Ryota Saito,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-139,139,La contribution de Koner,,,,,Peu Commune,Ken Sugimori,"reverse, holo",Vainqueurs Suprêmes,Platine,150
+pl3-140,140,Cherche VS,,,,,Peu Commune,Wataru Kawahara,"normal, reverse",Vainqueurs Suprêmes,Platine,150
+pl3-141,141,Absol ,100,Obscurité,,Niveau Sup,Rare Holo LV.X,Yusuke Ishikawa,holo,Vainqueurs Suprêmes,Platine,150
+pl3-142,142,Brasegali ,110,Feu,,Niveau Sup,Rare Holo LV.X,Ryo Ueda,holo,Vainqueurs Suprêmes,Platine,150
+pl3-143,143,Dracaufeu ,120,Feu,,Niveau Sup,Rare Holo LV.X,Wataru Kawahara,holo,Vainqueurs Suprêmes,Platine,150
+pl3-144,144,Elekable ,120,Électrique,,Niveau Sup,Rare Holo LV.X,Ryo Ueda,holo,Vainqueurs Suprêmes,Platine,150
+pl3-145,145,Carchacrok ,110,Incolore,,Niveau Sup,Rare Holo LV.X,Shizurow,holo,Vainqueurs Suprêmes,Platine,150
+pl3-146,146,Rayquaza ,120,Incolore,,Niveau Sup,Rare Holo LV.X,Shizurow,holo,Vainqueurs Suprêmes,Platine,150
+pl3-147,147,Etouraptor ,100,Incolore,,Niveau Sup,Rare Holo LV.X,Ryo Ueda,holo,Vainqueurs Suprêmes,Platine,150
+pl3-148,148,Artikodin,70,Eau,,De base,Rare,Toshinao Aoki,holo,Vainqueurs Suprêmes,Platine,150
+pl3-149,149,Sulfura,70,Feu,,De base,Rare,Toshinao Aoki,holo,Vainqueurs Suprêmes,Platine,150
+pl3-150,150,Electhor,70,Électrique,,De base,Rare,Toshinao Aoki,holo,Vainqueurs Suprêmes,Platine,150

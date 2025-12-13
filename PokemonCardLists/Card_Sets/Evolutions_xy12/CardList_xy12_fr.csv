@@ -1,0 +1,114 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+xy12-1,1,Florizarre EX,180,Plante,,De base,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Évolutions,XY,113
+xy12-2,2,M-Florizarre EX,230,Plante,Florizarre-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Évolutions,XY,113
+xy12-3,3,Chenipan,40,Plante,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-4,4,Chrysacier,70,Plante,Chenipan,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-5,5,Aspicot,40,Plante,,De base,Commune,Mitsuhiro Arita,"normal, reverse, holo",Évolutions,XY,113
+xy12-6,6,Coconfort,80,Plante,Aspicot,Niveau 1,Peu Commune,Keiji Kinebuchi,"normal, reverse, holo",Évolutions,XY,113
+xy12-7,7,Dardargnan,120,Plante,Coconfort,Niveau 2,Rare,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-8,8,Saquedeneu,80,Plante,,De base,Commune,Mitsuhiro Arita,"normal, reverse, holo",Évolutions,XY,113
+xy12-9,9,Salamèche,60,Feu,,De base,Commune,Mitsuhiro Arita,"normal, reverse, holo",Évolutions,XY,113
+xy12-10,10,Reptincel,80,Feu,Salamèche,Niveau 1,Peu Commune,Mitsuhiro Arita,"normal, reverse, holo",Évolutions,XY,113
+xy12-11,11,Dracaufeu,150,Feu,Reptincel,Niveau 2,Rare,Mitsuhiro Arita,"normal, reverse, holo",Évolutions,XY,113
+xy12-12,12,Dracaufeu EX,180,Feu,,De base,Ultra Rare,PLANETA,"normal, reverse, holo",Évolutions,XY,113
+xy12-13,13,M-Dracaufeu EX,220,Feu,Dracaufeu-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Évolutions,XY,113
+xy12-14,14,Goupix,60,Feu,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-15,15,Feunard,100,Feu,Goupix,Niveau 1,Rare,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-16,16,Feunard TURBO,140,Feu,Feunard,TURBO,Ultra Rare,5ban Graphics,"normal, reverse, holo",Évolutions,XY,113
+xy12-17,17,Caninos,70,Feu,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-18,18,Arcanin,130,Feu,Caninos,Niveau 1,Rare,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-19,19,Ponyta,60,Feu,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-20,20,Magmar,80,Feu,,De base,Peu Commune,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-21,21,Tortank EX,180,Eau,,De base,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Évolutions,XY,113
+xy12-22,22,M-Tortank EX,220,Eau,Tortank-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Évolutions,XY,113
+xy12-23,23,Ptitard,60,Eau,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-24,24,Têtarte,80,Eau,Ptitard,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-25,25,Tartard,140,Eau,Têtarte,Niveau 2,Rare,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-26,26,Flagadoss EX,180,Eau,,De base,Ultra Rare,Ayaka Yoshida,"normal, reverse, holo",Évolutions,XY,113
+xy12-27,27,M-Flagadoss EX,220,Eau,Flagadoss-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Évolutions,XY,113
+xy12-28,28,Otaria,80,Eau,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-29,29,Lamantine,120,Eau,Otaria,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Évolutions,XY,113
+xy12-30,30,Stari,60,Eau,,De base,Commune,Keiji Kinebuchi,"normal, reverse, holo",Évolutions,XY,113
+xy12-31,31,Staross,90,Eau,Stari,Niveau 1,Rare,Keiji Kinebuchi,"normal, reverse, holo",Évolutions,XY,113
+xy12-32,32,Staross TURBO,130,Eau,Staross,TURBO,Ultra Rare,5ban Graphics,"normal, reverse, holo",Évolutions,XY,113
+xy12-33,33,Magicarpe,30,Eau,,De base,Commune,Mitsuhiro Arita,"normal, reverse, holo",Évolutions,XY,113
+xy12-34,34,Léviator,130,Eau,Magicarpe,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Évolutions,XY,113
+xy12-35,35,Pikachu,60,Électrique,,De base,Commune,Mitsuhiro Arita,"normal, reverse, holo",Évolutions,XY,113
+xy12-36,36,Raichu,100,Électrique,Pikachu,Niveau 1,Rare,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-37,37,Magnéti,50,Électrique,,De base,Commune,Keiji Kinebuchi,"normal, reverse, holo",Évolutions,XY,113
+xy12-38,38,Magnéton,80,Électrique,Magnéti,Niveau 1,Rare,Keiji Kinebuchi,"normal, reverse, holo",Évolutions,XY,113
+xy12-39,39,Voltorbe,60,Électrique,,De base,Commune,Keiji Kinebuchi,"normal, reverse, holo",Évolutions,XY,113
+xy12-40,40,Électrode,80,Électrique,Voltorbe,Niveau 1,Rare,Keiji Kinebuchi,"normal, reverse, holo",Évolutions,XY,113
+xy12-41,41,Élektek,70,Électrique,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-42,42,Électhor,110,Électrique,,De base,Rare,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-43,43,Nidoran♂,60,Psy,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-44,44,Nidorino,90,Psy,Nidoran♂,Niveau 1,Peu Commune,Mitsuhiro Arita,"normal, reverse, holo",Évolutions,XY,113
+xy12-45,45,Nidoking,150,Psy,Nidorino,Niveau 2,Rare,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-46,46,Nidoking TURBO,180,Psy,Nidoking,TURBO,Ultra Rare,5ban Graphics,"normal, reverse, holo",Évolutions,XY,113
+xy12-47,47,Fantominus,40,Psy,,De base,Commune,Keiji Kinebuchi,"normal, reverse, holo",Évolutions,XY,113
+xy12-48,48,Spectrum,70,Psy,Fantominus,Niveau 1,Peu Commune,Keiji Kinebuchi,"normal, reverse, holo",Évolutions,XY,113
+xy12-49,49,Soporifik,60,Psy,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-50,50,Smogo,60,Psy,,De base,Peu Commune,Mitsuhiro Arita,"normal, reverse, holo",Évolutions,XY,113
+xy12-51,51,Mewtwo,130,Psy,,De base,Rare,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-52,52,Mewtwo EX,180,Psy,,De base,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Évolutions,XY,113
+xy12-53,53,Mew,40,Psy,,De base,Rare,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-54,54,Sabelette,60,Combat,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-55,55,Taupiqueur,40,Combat,,De base,Commune,Keiji Kinebuchi,"normal, reverse, holo",Évolutions,XY,113
+xy12-56,56,Triopikeur,90,Combat,Taupiqueur,Niveau 1,Rare,Keiji Kinebuchi,"normal, reverse, holo",Évolutions,XY,113
+xy12-57,57,Machoc,70,Combat,,De base,Commune,Mitsuhiro Arita,"normal, reverse, holo",Évolutions,XY,113
+xy12-58,58,Machopeur,90,Combat,Machoc,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-59,59,Mackogneur,160,Combat,Machopeur,Niveau 2,Rare,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-60,60,Mackogneur TURBO,190,Combat,Mackogneur,TURBO,Ultra Rare,5ban Graphics,"normal, reverse, holo",Évolutions,XY,113
+xy12-61,61,Onix,100,Combat,,De base,Commune,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-62,62,Tygnon,90,Combat,,De base,Rare,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-63,63,Mélofée,40,Fée,,De base,Rare,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-64,64,Roucarnage EX,170,Incolore,,De base,Ultra Rare,Eske Yoshinob,"normal, reverse, holo",Évolutions,XY,113
+xy12-65,65,M-Roucarnage EX,220,Incolore,Roucarnage-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Évolutions,XY,113
+xy12-66,66,Rattata,40,Incolore,,De base,Commune,Mitsuhiro Arita,"normal, reverse, holo",Évolutions,XY,113
+xy12-67,67,Rattatac,60,Incolore,Rattata,Niveau 1,Rare,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-68,68,Canarticho,70,Incolore,,De base,Rare,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-69,69,Doduo,60,Incolore,,De base,Commune,Mitsuhiro Arita,"normal, reverse, holo",Évolutions,XY,113
+xy12-70,70,Leveinard,120,Incolore,,De base,Rare,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-71,71,Porygon,60,Incolore,,De base,Peu Commune,Tomoaki Imakuni,"normal, reverse, holo",Évolutions,XY,113
+xy12-72,72,Dracolosse EX,180,Incolore,,De base,Ultra Rare,Ayaka Yoshida,"normal, reverse, holo",Évolutions,XY,113
+xy12-73,73,Lien Spirituel Tortank,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Évolutions,XY,113
+xy12-74,74,Vaillance de Pierre,,,,,Peu Commune,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-75,75,Lien Spirituel Dracaufeu,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Évolutions,XY,113
+xy12-76,76,Spray Dés-Évoluant,,,,,Peu Commune,Keiji Kinebuchi,"normal, reverse, holo",Évolutions,XY,113
+xy12-77,77,Récupération d'Énergie,,,,,Peu Commune,Keiji Kinebuchi,"normal, reverse, holo",Évolutions,XY,113
+xy12-78,78,Total Soin,,,,,Peu Commune,Keiji Kinebuchi,"normal, reverse, holo",Évolutions,XY,113
+xy12-79,79,Entretien,,,,,Peu Commune,Keiji Kinebuchi,"normal, reverse, holo",Évolutions,XY,113
+xy12-80,80,Détermination d'Ondine,,,,,Peu Commune,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-81,81,Lien Spirituel Roucarnage,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Évolutions,XY,113
+xy12-82,82,Pokédex,,,,,Peu Commune,Keiji Kinebuchi,"normal, reverse, holo",Évolutions,XY,113
+xy12-83,83,Potion,,,,,Peu Commune,Keiji Kinebuchi,"normal, reverse, holo",Évolutions,XY,113
+xy12-84,84,Indice du Prof. Chen,,,,,Peu Commune,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113
+xy12-85,85,Rappel,,,,,Peu Commune,Keiji Kinebuchi,"normal, reverse, holo",Évolutions,XY,113
+xy12-86,86,Lien Spirituel Flagadoss,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Évolutions,XY,113
+xy12-87,87,Super Potion,,,,,Peu Commune,Keiji Kinebuchi,"normal, reverse, holo",Évolutions,XY,113
+xy12-88,88,Échange,,,,,Peu Commune,Keiji Kinebuchi,"normal, reverse, holo",Évolutions,XY,113
+xy12-89,89,Lien Spirituel Florizarre,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Évolutions,XY,113
+xy12-90,90,Double Énergie Incolore,,,,,Peu Commune,Keiji Kinebuchi,"normal, reverse, holo",Évolutions,XY,113
+xy12-91,91,Énergie Plante,,,,,Commune,,"normal, reverse, holo",Évolutions,XY,113
+xy12-92,92,Énergie Feu,,,,,Commune,,"normal, reverse, holo",Évolutions,XY,113
+xy12-93,93,Énergie Eau,,,,,Commune,,"normal, reverse, holo",Évolutions,XY,113
+xy12-94,94,Énergie Electrik,,,,,Commune,,"normal, reverse, holo",Évolutions,XY,113
+xy12-95,95,Énergie Psy,,,,,Commune,,"normal, reverse, holo",Évolutions,XY,113
+xy12-96,96,Énergie Combat,,,,,Commune,,"normal, reverse, holo",Évolutions,XY,113
+xy12-97,97,Énergie Obscurité,,,,,Commune,,"normal, reverse, holo",Évolutions,XY,113
+xy12-98,98,Énergie Métal,,,,,Commune,,"normal, reverse, holo",Évolutions,XY,113
+xy12-99,99,Énergie Fée,,Fée,,,Commune,,"normal, reverse, holo",Évolutions,XY,113
+xy12-100,100,M-Florizarre EX,230,Plante,Florizarre-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Évolutions,XY,113
+xy12-101,101,M-Dracaufeu EX,220,Feu,Dracaufeu-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Évolutions,XY,113
+xy12-102,102,M-Tortank EX,220,Eau,Tortank-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Évolutions,XY,113
+xy12-103,103,Mewtwo EX,180,Psy,,De base,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Évolutions,XY,113
+xy12-104,104,Roucarnage EX,170,Incolore,,De base,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Évolutions,XY,113
+xy12-105,105,M-Roucarnage EX,220,Incolore,Roucarnage-EX,MÉGA,Ultra Rare,5ban Graphics,"normal, reverse, holo",Évolutions,XY,113
+xy12-106,106,Dracolosse EX,180,Incolore,,De base,Ultra Rare,Ryo Ueda,"normal, reverse, holo",Évolutions,XY,113
+xy12-107,107,Vaillance de Pierre,,,,,Ultra Rare,Hitoshi Ariga,"normal, reverse, holo",Évolutions,XY,113
+xy12-108,108,Détermination d'Ondine,,,,,Ultra Rare,Megumi Mizutani,"normal, reverse, holo",Évolutions,XY,113
+xy12-109,109,ナッシー[Noadkoko],80,Plante,Noeunoeuf,Niveau 1,Magnifique rare,Dr.Ooyama,"normal, reverse, holo",Évolutions,XY,113
+xy12-110,110,Pikachu Volant,40,Électrique,,De base,Magnifique rare,Toshinao Aoki,"normal, reverse, holo",Évolutions,XY,113
+xy12-111,111,Pikachu Surfeur,50,Électrique,,De base,Magnifique rare,Toshinao Aoki,"normal, reverse, holo",Évolutions,XY,113
+xy12-112,112,Doduo d'Imakuni?,50,Incolore,,De base,Magnifique rare,Imakuni?,"normal, reverse, holo",Évolutions,XY,113
+xy12-113,113,Et voilà la Team Rocket !,,,,,Magnifique rare,Ken Sugimori,"normal, reverse, holo",Évolutions,XY,113

@@ -1,0 +1,118 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+ex10-1,1,Ampharos,120,Lightning,Flaaffy,Stage2,Rare,Kyoko Umemoto,holo,Unseen Forces,EX,117
+ex10-2,2,Ariados,70,Grass,Spinarak,Stage1,Rare,Mitsuhiro Arita,holo,Unseen Forces,EX,117
+ex10-3,3,Bellossom,90,Grass,Gloom,Stage2,Rare,Kouki Saitou,holo,Unseen Forces,EX,117
+ex10-4,4,Feraligatr,120,Water,Croconaw,Stage2,Rare,Masakazu Fukuda,"normal, holo",Unseen Forces,EX,117
+ex10-5,5,Flareon,70,Fire,Eevee,Stage1,Rare,Naoyo Kimura,holo,Unseen Forces,EX,117
+ex10-6,6,Forretress,70,Metal,Pineco,Stage1,Rare,Aya Kusube,holo,Unseen Forces,EX,117
+ex10-7,7,Houndoom,70,Fire,Houndour,Stage1,Rare,Midori Harada,holo,Unseen Forces,EX,117
+ex10-8,8,Jolteon,70,Lightning,Eevee,Stage1,Rare,Mitsuhiro Arita,holo,Unseen Forces,EX,117
+ex10-9,9,Meganium,100,Grass,Bayleef,Stage2,Rare,Atsuko Nishida,"normal, holo",Unseen Forces,EX,117
+ex10-10,10,Octillery,80,Water,Remoraid,Stage1,Rare,Naoyo Kimura,holo,Unseen Forces,EX,117
+ex10-11,11,Poliwrath,120,Fighting,Poliwhirl,Stage2,Rare,Hajime Kusajima,holo,Unseen Forces,EX,117
+ex10-12,12,Porygon2,70,Colorless,Porygon,Stage1,Rare,Kagemaru Himeno,holo,Unseen Forces,EX,117
+ex10-13,13,Slowbro,80,Water,Slowpoke,Stage1,Rare,Midori Harada,"normal, holo",Unseen Forces,EX,117
+ex10-14,14,Slowking,70,Psychic,Slowpoke,Stage1,Rare,Midori Harada,holo,Unseen Forces,EX,117
+ex10-15,15,Sudowoodo,60,Fighting,,Basic,Rare,Tomokazu Komiya,holo,Unseen Forces,EX,117
+ex10-16,16,Sunflora,70,Grass,Sunkern,Stage1,Rare,Sumiyoshi Kizuki,holo,Unseen Forces,EX,117
+ex10-17,17,Typhlosion,110,Fire,Quilava,Stage2,Rare,Hajime Kusajima,"normal, holo",Unseen Forces,EX,117
+ex10-18,18,Ursaring,80,Colorless,Teddiursa,Stage1,Rare,Atsuko Nishida,holo,Unseen Forces,EX,117
+ex10-19,19,Vaporeon,70,Water,Eevee,Stage1,Rare,Atsuko Nishida,holo,Unseen Forces,EX,117
+ex10-20,20,Chansey,90,Colorless,,Basic,Rare,Yukiko Baba,normal,Unseen Forces,EX,117
+ex10-21,21,Cleffa,50,Colorless,,Basic,Rare,Yuka Morii,normal,Unseen Forces,EX,117
+ex10-22,22,Electabuzz,70,Lightning,,Basic,Rare,Mitsuhiro Arita,normal,Unseen Forces,EX,117
+ex10-23,23,Elekid,50,Lightning,,Basic,Rare,Yuka Morii,normal,Unseen Forces,EX,117
+ex10-24,24,Hitmonchan,70,Fighting,,Basic,Rare,Hisao Nakamura,normal,Unseen Forces,EX,117
+ex10-25,25,Hitmonlee,60,Fighting,,Basic,Rare,Hisao Nakamura,normal,Unseen Forces,EX,117
+ex10-26,26,Hitmontop,70,Fighting,,Basic,Rare,Hisao Nakamura,normal,Unseen Forces,EX,117
+ex10-27,27,Ho-Oh,80,Fire,,Basic,Rare,Kouki Saitou,"normal, holo",Unseen Forces,EX,117
+ex10-28,28,Jynx,70,Water,,Basic,Rare,Yukiko Baba,normal,Unseen Forces,EX,117
+ex10-29,29,Lugia,80,Psychic,,Basic,Rare,Kouki Saitou,"normal, holo",Unseen Forces,EX,117
+ex10-30,30,Murkrow,70,Darkness,,Basic,Rare,Kouki Saitou,normal,Unseen Forces,EX,117
+ex10-31,31,Smoochum,50,Water,,Basic,Rare,Yuka Morii,normal,Unseen Forces,EX,117
+ex10-32,32,Stantler,70,Colorless,,Basic,Rare,Atsuko Nishida,normal,Unseen Forces,EX,117
+ex10-33,33,Tyrogue,40,Fighting,,Basic,Rare,Yuka Morii,normal,Unseen Forces,EX,117
+ex10-34,34,Aipom,50,Colorless,,Basic,Uncommon,Sachiko Adachi,normal,Unseen Forces,EX,117
+ex10-35,35,Bayleef,70,Grass,Chikorita,Stage1,Uncommon,Atsuko Nishida,normal,Unseen Forces,EX,117
+ex10-36,36,Clefable,80,Colorless,Clefairy,Stage1,Uncommon,Midori Harada,normal,Unseen Forces,EX,117
+ex10-37,37,Corsola,60,Water,,Basic,Uncommon,Kagemaru Himeno,normal,Unseen Forces,EX,117
+ex10-38,38,Croconaw,80,Water,Totodile,Stage1,Uncommon,Masakazu Fukuda,normal,Unseen Forces,EX,117
+ex10-39,39,Granbull,70,Colorless,Snubbull,Stage1,Uncommon,Midori Harada,normal,Unseen Forces,EX,117
+ex10-40,40,Lanturn,80,Lightning,Chinchou,Stage1,Uncommon,Hajime Kusajima,normal,Unseen Forces,EX,117
+ex10-41,41,Magcargo,80,Fire,Slugma,Stage1,Uncommon,Tomokazu Komiya,normal,Unseen Forces,EX,117
+ex10-42,42,Miltank,60,Colorless,,Basic,Uncommon,Tomokazu Komiya,normal,Unseen Forces,EX,117
+ex10-43,43,Noctowl,70,Colorless,Hoothoot,Stage1,Uncommon,Mitsuhiro Arita,normal,Unseen Forces,EX,117
+ex10-44,44,Quagsire,80,Fire,Wooper,Stage1,Uncommon,Kagemaru Himeno,normal,Unseen Forces,EX,117
+ex10-45,45,Quilava,70,Fire,Cyndaquil,Stage1,Uncommon,Hajime Kusajima,normal,Unseen Forces,EX,117
+ex10-46,46,Scyther,60,Grass,,Basic,Uncommon,Hajime Kusajima,normal,Unseen Forces,EX,117
+ex10-47,47,Shuckle,60,Grass,,Basic,Uncommon,Miki Tanaka,normal,Unseen Forces,EX,117
+ex10-48,48,Smeargle,50,Colorless,,Basic,Uncommon,Sumiyoshi Kizuki,normal,Unseen Forces,EX,117
+ex10-49,49,Xatu,80,Psychic,Natu,Stage1,Uncommon,Masakazu Fukuda,normal,Unseen Forces,EX,117
+ex10-50,50,Yanma,60,Grass,,Basic,Uncommon,Kagemaru Himeno,normal,Unseen Forces,EX,117
+ex10-51,51,Chikorita,50,Grass,,Basic,Common,Atsuko Nishida,normal,Unseen Forces,EX,117
+ex10-52,52,Chinchou,50,Lightning,,Basic,Common,Hajime Kusajima,normal,Unseen Forces,EX,117
+ex10-53,53,Clefairy,50,Colorless,,Basic,Common,Midori Harada,normal,Unseen Forces,EX,117
+ex10-54,54,Cyndaquil,50,Fire,,Basic,Common,Hajime Kusajima,normal,Unseen Forces,EX,117
+ex10-55,55,Eevee,40,Colorless,,Basic,Common,Miki Tanaka,normal,Unseen Forces,EX,117
+ex10-56,56,Flaaffy,80,Lightning,Mareep,Stage1,Common,Kyoko Umemoto,normal,Unseen Forces,EX,117
+ex10-57,57,Gligar,50,Fighting,,Basic,Common,Mitsuhiro Arita,normal,Unseen Forces,EX,117
+ex10-58,58,Gloom,70,Grass,Oddish,Stage1,Common,Kouki Saitou,normal,Unseen Forces,EX,117
+ex10-59,59,Hoothoot,50,Colorless,,Basic,Common,Mitsuhiro Arita,normal,Unseen Forces,EX,117
+ex10-60,60,Houndour,50,Fire,,Basic,Common,Kagemaru Himeno,normal,Unseen Forces,EX,117
+ex10-61,61,Larvitar,50,Fighting,,Basic,Common,Aya Kusube,normal,Unseen Forces,EX,117
+ex10-62,62,Mareep,50,Lightning,,Basic,Common,Kyoko Umemoto,normal,Unseen Forces,EX,117
+ex10-63,63,Natu,50,Psychic,,Basic,Common,Masakazu Fukuda,normal,Unseen Forces,EX,117
+ex10-64,64,Oddish,50,Grass,,Basic,Common,Kouki Saitou,normal,Unseen Forces,EX,117
+ex10-65,65,Onix,80,Fighting,,Basic,Common,Yukiko Baba,normal,Unseen Forces,EX,117
+ex10-66,66,Pineco,50,Grass,,Basic,Common,Aya Kusube,normal,Unseen Forces,EX,117
+ex10-67,67,Poliwag,50,Water,,Basic,Common,Kagemaru Himeno,normal,Unseen Forces,EX,117
+ex10-68,68,Poliwhirl,70,Water,Poliwag,Stage1,Common,Miki Tanaka,normal,Unseen Forces,EX,117
+ex10-69,69,Porygon,50,Colorless,,Basic,Common,Kagemaru Himeno,normal,Unseen Forces,EX,117
+ex10-70,70,Pupitar,70,Fighting,Larvitar,Stage1,Common,Aya Kusube,normal,Unseen Forces,EX,117
+ex10-71,71,Remoraid,50,Water,,Basic,Common,Sachiko Adachi,normal,Unseen Forces,EX,117
+ex10-72,72,Slowpoke,50,Psychic,,Basic,Common,Midori Harada,normal,Unseen Forces,EX,117
+ex10-73,73,Slugma,40,Fire,,Basic,Common,Tomokazu Komiya,normal,Unseen Forces,EX,117
+ex10-74,74,Snubbull,50,Colorless,,Basic,Common,Midori Harada,normal,Unseen Forces,EX,117
+ex10-75,75,Spinarak,50,Grass,,Basic,Common,Sachiko Adachi,normal,Unseen Forces,EX,117
+ex10-76,76,Sunkern,40,Grass,,Basic,Common,Sumiyoshi Kizuki,normal,Unseen Forces,EX,117
+ex10-77,77,Teddiursa,40,Colorless,,Basic,Common,Naoyo Kimura,normal,Unseen Forces,EX,117
+ex10-78,78,Totodile,50,Water,,Basic,Common,Masakazu Fukuda,normal,Unseen Forces,EX,117
+ex10-79,79,Wooper,50,Fighting,,Basic,Common,Kagemaru Himeno,normal,Unseen Forces,EX,117
+ex10-80,80,Curse Powder,,,,,Uncommon,Ryo Ueda,normal,Unseen Forces,EX,117
+ex10-81,81,Energy Recycle System,,,,,Uncommon,Zu-Ka,normal,Unseen Forces,EX,117
+ex10-82,82,Energy Removal 2,,,,,Uncommon,Keiji Kinebuchi,normal,Unseen Forces,EX,117
+ex10-83,83,Energy Root,,,,,Uncommon,Ryo Ueda,normal,Unseen Forces,EX,117
+ex10-84,84,Energy Switch,,,,,Uncommon,Ken Ikuji,normal,Unseen Forces,EX,117
+ex10-85,85,Fluffy Berry,,,,,Uncommon,,normal,Unseen Forces,EX,117
+ex10-86,86,Mary's Request,,,,,Uncommon,Ken Sugimori,normal,Unseen Forces,EX,117
+ex10-87,87,Poké Ball,,,,,Uncommon,Shin-ichi Yoshikawa,normal,Unseen Forces,EX,117
+ex10-88,88,Pokémon Reversal,,,,,Uncommon,Hiromichi Sugiyama,normal,Unseen Forces,EX,117
+ex10-89,89,Professor Elm's Training Method,,,,,Uncommon,Ken Sugimori,normal,Unseen Forces,EX,117
+ex10-90,90,Protective Orb,,,,,Uncommon,Ryo Ueda,normal,Unseen Forces,EX,117
+ex10-91,91,Sitrus Berry,,,,,Uncommon,Ryo Ueda,normal,Unseen Forces,EX,117
+ex10-92,92,Solid Rage,,,,,Uncommon,Ryo Ueda,normal,Unseen Forces,EX,117
+ex10-93,93,Warp Point,,,,,Uncommon,Keiji Kinebuchi,normal,Unseen Forces,EX,117
+ex10-94,94,Energy Search,,,,,Common,Kai Ishikawa,normal,Unseen Forces,EX,117
+ex10-95,95,Potion,,,,,Common,Shin-ichi Yoshikawa,normal,Unseen Forces,EX,117
+ex10-96,96,Darkness Energy,,,,,Rare,Milky Isobe,normal,Unseen Forces,EX,117
+ex10-97,97,Metal Energy,,,,,Rare,Milky Isobe,normal,Unseen Forces,EX,117
+ex10-98,98,Boost Energy,,,,,Uncommon,Shin-ichi Yoshikawa,normal,Unseen Forces,EX,117
+ex10-99,99,Cyclone Energy,,,,,Uncommon,Shin-ichi Yoshikawa,normal,Unseen Forces,EX,117
+ex10-100,100,Warp Energy,,,,,Uncommon,Shin-ichi Yoshikawa,normal,Unseen Forces,EX,117
+ex10-101,101,Blissey ex,160,Colorless,Chansey ex,,Rare,Ryo Ueda,holo,Unseen Forces,EX,117
+ex10-102,102,Espeon ex,110,Psychic,Eevee,,Rare,Ryo Ueda,holo,Unseen Forces,EX,117
+ex10-103,103,Feraligatr ex,150,Water,Croconaw,,Rare,Hikaru Koike,holo,Unseen Forces,EX,117
+ex10-104,104,Ho-Oh ex,110,Fire,,Basic,Rare,Mitsuhiro Arita,holo,Unseen Forces,EX,117
+ex10-105,105,Lugia ex,100,Colorless,,,Rare,Hikaru Koike,holo,Unseen Forces,EX,117
+ex10-106,106,Meganium ex,150,Grass,Bayleef,,Rare,Ryo Ueda,holo,Unseen Forces,EX,117
+ex10-107,107,Politoed ex,150,Water,Poliwhirl,,Rare,Ryo Ueda,holo,Unseen Forces,EX,117
+ex10-108,108,Scizor ex,120,Metal,Scyther,,Rare,Mitsuhiro Arita,holo,Unseen Forces,EX,117
+ex10-109,109,Steelix ex,150,Metal,Onix,,Rare,Ryo Ueda,holo,Unseen Forces,EX,117
+ex10-110,110,Typhlosion ex,150,Fire,Quilava,,Rare,Mitsuhiro Arita,holo,Unseen Forces,EX,117
+ex10-111,111,Tyranitar ex,160,Darkness,Pupitar,,Rare,Mitsuhiro Arita,holo,Unseen Forces,EX,117
+ex10-112,112,Umbreon ex,110,Darkness,Eevee,,Rare,Ryo Ueda,holo,Unseen Forces,EX,117
+ex10-113,113,Entei Star,80,Fire,,Basic,Rare,Masakazu Fukuda,holo,Unseen Forces,EX,117
+ex10-114,114,Raikou Star,80,Lightning,,Basic,Rare,Masakazu Fukuda,holo,Unseen Forces,EX,117
+ex10-115,115,Suicune Star,80,Water,,Basic,Rare,Masakazu Fukuda,holo,Unseen Forces,EX,117
+ex10-116,116,Rocket's Persian ex,100,Darkness,Rocket's Meowth,Stage1,Rare,Mitsuhiro Arita,holo,Unseen Forces,EX,117
+ex10-117,117,Celebi ex,70,Grass,,Basic,Rare,Ryo Ueda,holo,Unseen Forces,EX,117

@@ -1,0 +1,11 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+mep-001,001,Méganium,160,Plante,,Niveau 2,Sans Rareté,Uninori,holo,MEP Black Star Promos,Méga-Évolution,10
+mep-002,002,Lézargus,150,Eau,,Niveau 2,Sans Rareté,Kazumasa Yasukuni,holo,MEP Black Star Promos,Méga-Évolution,10
+mep-003,003,Alakazam,140,Psy,,Niveau 2,Sans Rareté,cochi8i,holo,MEP Black Star Promos,Méga-Évolution,10
+mep-004,004,Séléroc,110,Combat,,De base,Sans Rareté,Ounishi,holo,MEP Black Star Promos,Méga-Évolution,10
+mep-005,005,Baudrive,70,Psy,,De base,Sans Rareté,Shimaris Yukichi,holo,MEP Black Star Promos,Méga-Évolution,10
+mep-006,006,Grodrive,110,Psy,,Niveau 1,Sans Rareté,Shimaris Yukichi,holo,MEP Black Star Promos,Méga-Évolution,10
+mep-007,007,Psykokwak,70,Eau,,De base,Sans Rareté,Jiro Sasumo,holo,MEP Black Star Promos,Méga-Évolution,10
+mep-008,008,Akwakwak,120,Eau,,Niveau 1,Sans Rareté,Jiro Sasumo,holo,MEP Black Star Promos,Méga-Évolution,10
+mep-009,009,Alakazam,140,Psy,,Niveau 2,Sans Rareté,Aya Kusube,holo,MEP Black Star Promos,Méga-Évolution,10
+mep-010,010,Riolu,80,Combat,,De base,Sans Rareté,GOSSAN,holo,MEP Black Star Promos,Méga-Évolution,10

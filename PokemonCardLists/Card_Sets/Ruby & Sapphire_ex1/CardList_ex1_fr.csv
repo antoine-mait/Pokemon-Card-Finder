@@ -1,0 +1,110 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+ex1-1,1,Galeking,110,Métal,,Niveau 2,Rare,Mitsuhiro Arita,"reverse, holo",EX Rubis & Saphir,EX,109
+ex1-2,2,Charmillon,80,Plante,,Niveau 2,Rare,Hajime Kusajima,"reverse, holo",EX Rubis & Saphir,EX,109
+ex1-3,3,Brasegali,100,Feu,,Niveau 2,Rare,Kouki Saitou,"reverse, holo",EX Rubis & Saphir,EX,109
+ex1-4,4,Camerupt,90,Feu,,Niveau 1,Rare,Ken Sugimori,"reverse, holo",EX Rubis & Saphir,EX,109
+ex1-5,5,Delcatty,70,Incolore,,Niveau 1,Rare,Atsuko Nishida,"reverse, holo",EX Rubis & Saphir,EX,109
+ex1-6,6,Papinox,90,Plante,,Niveau 2,Rare,Midori Harada,"reverse, holo",EX Rubis & Saphir,EX,109
+ex1-7,7,Gardevoir,100,Psy,,Niveau 2,Rare,Ken Sugimori,"reverse, holo",EX Rubis & Saphir,EX,109
+ex1-8,8,Hariyama,90,Combat,,Niveau 1,Rare,Naoyo Kimura,"reverse, holo",EX Rubis & Saphir,EX,109
+ex1-9,9,Elecsprint,70,Électrique,,Niveau 1,Rare,Mitsuhiro Arita,"reverse, holo",EX Rubis & Saphir,EX,109
+ex1-10,10,Grahyena,70,Obscurité,,Niveau 1,Rare,Atsuko Nishida,"reverse, holo",EX Rubis & Saphir,EX,109
+ex1-11,11,Jungko,120,Plante,,Niveau 2,Rare,Midori Harada,"reverse, holo",EX Rubis & Saphir,EX,109
+ex1-12,12,Monaflemit,120,Incolore,,Niveau 2,Rare,Ken Sugimori,"reverse, holo",EX Rubis & Saphir,EX,109
+ex1-13,13,Laggron,110,Eau,,Niveau 2,Rare,Mitsuhiro Arita,"reverse, holo",EX Rubis & Saphir,EX,109
+ex1-14,14,Wailord,120,Eau,,Niveau 1,Rare,Ken Sugimori,"reverse, holo",EX Rubis & Saphir,EX,109
+ex1-15,15,Brasegali,110,Feu,,Niveau 2,Rare,Ken Sugimori,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-16,16,Chapignon,70,Plante,,Niveau 1,Rare,Ken Sugimori,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-17,17,Donphan,80,Combat,,Niveau 1,Rare,Kagemaru Himeno,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-18,18,Tarinor,60,Combat,,De base,Rare,Mitsuhiro Arita,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-19,19,Bekipan,70,Eau,,Niveau 1,Rare,Kouki Saitou,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-20,20,Jungko,100,Plante,,Niveau 2,Rare,Ken Sugimori,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-21,21,Poissoroy,70,Eau,,Niveau 1,Rare,Hajime Kusajima,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-22,22,Sharpedo,70,Eau,,Niveau 1,Rare,Hajime Kusajima,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-23,23,Laggron,100,Eau,,Niveau 2,Rare,Ken Sugimori,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-24,24,Smogogo,80,Plante,,Niveau 1,Rare,Atsuko Nishida,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-25,25,Galekid,50,Métal,,De base,Peu Commune,Midori Harada,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-26,26,Blindalys,70,Plante,,Niveau 1,Peu Commune,Midori Harada,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-27,27,Galifeu,70,Feu,,Niveau 1,Peu Commune,Kouki Saitou,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-28,28,Galifeu,80,Feu,,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-29,29,Delcatty,80,Incolore,,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-30,30,Dynavolt,50,Électrique,,De base,Peu Commune,Hajime Kusajima,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-31,31,Massko,70,Plante,,Niveau 1,Peu Commune,Midori Harada,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-32,32,Massko,80,Plante,,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-33,33,Hariyama,80,Combat,,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-34,34,Kirlia,70,Psy,,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-35,35,Kirlia,70,Psy,,Niveau 1,Peu Commune,Atsuko Nishida,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-36,36,Galegon,70,Métal,,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-37,37,Galegon,80,Métal,,Niveau 1,Peu Commune,Mitsuhiro Arita,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-38,38,Lineon,70,Incolore,,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-39,39,Elecsprint,70,Électrique,,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-40,40,Flobio,70,Eau,,Niveau 1,Peu Commune,Mitsuhiro Arita,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-41,41,Flobio,80,Eau,,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-42,42,Grahyena,70,Obscurité,,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-43,43,Armulys,60,Plante,,Niveau 1,Peu Commune,Hajime Kusajima,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-44,44,Skitty,40,Incolore,,De base,Peu Commune,Midori Harada,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-45,45,Parecool,40,Incolore,,De base,Peu Commune,Kagemaru Himeno,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-46,46,Heledelle,70,Incolore,,Niveau 1,Peu Commune,Ken Sugimori,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-47,47,Vigoroth,70,Incolore,,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-48,48,Wailmer,80,Eau,,De base,Peu Commune,Mitsuhiro Arita,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-49,49,Galekid,40,Métal,,De base,Commune,Mitsuhiro Arita,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-50,50,Galekid,50,Métal,,De base,Commune,Ken Sugimori,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-51,51,Carvanha,40,Eau,,De base,Commune,Hajime Kusajima,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-52,52,Dynavolt,50,Électrique,,De base,Commune,Ken Sugimori,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-53,53,Dynavolt,50,Électrique,,De base,Commune,Mitsuhiro Arita,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-54,54,Smogo,50,Plante,,De base,Commune,Atsuko Nishida,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-55,55,Poissirène,50,Eau,,De base,Commune,Hajime Kusajima,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-56,56,Makuhita,50,Combat,,De base,Commune,Ken Sugimori,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-57,57,Makuhita,50,Combat,,De base,Commune,Kagemaru Himeno,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-58,58,Makuhita,50,Combat,,De base,Commune,Naoyo Kimura,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-59,59,Gobou,50,Eau,,De base,Commune,Mitsuhiro Arita,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-60,60,Gobou,50,Eau,,De base,Commune,Ken Sugimori,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-61,61,Chamallot,50,Feu,,De base,Commune,Ken Sugimori,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-62,62,Phanpy,50,Combat,,De base,Commune,Kagemaru Himeno,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-63,63,Medhyena,40,Obscurité,,De base,Commune,Ken Sugimori,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-64,64,Medhyena,50,Obscurité,,De base,Commune,Atsuko Nishida,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-65,65,Medhyena,50,Obscurité,,De base,Commune,Naoyo Kimura,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-66,66,Tarsal,50,Psy,,De base,Commune,Ken Sugimori,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-67,67,Tarsal,50,Psy,,De base,Commune,Atsuko Nishida,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-68,68,Tarsal,50,Psy,,De base,Commune,Kagemaru Himeno,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-69,69,Balignon,40,Plante,,De base,Commune,Atsuko Nishida,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-70,70,Skitty,40,Incolore,,De base,Commune,Ken Sugimori,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-71,71,Skitty,50,Incolore,,De base,Commune,Atsuko Nishida,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-72,72,Nirondelle,40,Incolore,,De base,Commune,Kagemaru Himeno,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-73,73,Poussifeu,40,Feu,,De base,Commune,Ken Sugimori,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-74,74,Poussifeu,50,Feu,,De base,Commune,Kouki Saitou,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-75,75,Arcko,40,Plante,,De base,Commune,Midori Harada,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-76,76,Arcko,40,Plante,,De base,Commune,Ken Sugimori,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-77,77,Goelise,40,Eau,,De base,Commune,Kouki Saitou,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-78,78,Chenipotte,50,Plante,,De base,Commune,Hajime Kusajima,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-79,79,Zigzaton,40,Incolore,,De base,Commune,Atsuko Nishida,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-80,80,Suppression d'énergie 2,,,,,Peu Commune,Keiji Kinebuchi,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-81,81,Restauration d'énergie,,,,,Peu Commune,Hideyuki Nakajima,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-82,82,Échange d'énergie,,,,,Peu Commune,Ken Ikuji,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-83,83,Mademoiselle Sortie,,,,,Peu Commune,Ken Sugimori,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-84,84,Baie Prine,,,,,Peu Commune,Kazuo Yazawa,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-85,85,Baie Oran,,,,,Peu Commune,Kazuo Yazawa,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-86,86,Poké Balle,,,,,Peu Commune,K. Hoshiba,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-87,87,Inversion de Pokémon,,,,,Peu Commune,Hiromichi Sugiyama,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-88,88,PokéNav,,,,,Peu Commune,Katsura Tabata,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-89,89,Prof. Seko,,,,,Peu Commune,Ken Sugimori,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-90,90,Recherche d'énergie,,,,,Commune,Kai Ishikawa,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-91,91,Potion,,,,,Commune,Keiji Kinebuchi,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-92,92,Passe-passe,,,,,Commune,Hiromichi Sugiyama,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-93,93,Énergie Obscurité,,,,,Rare,Milky Isobe,"normal, reverse, holo",EX Rubis & Saphir,EX,109
+ex1-94,94,Énergie Métal,,,,,Rare,Milky Isobe,"normal, reverse, holo",EX Rubis & Saphir,EX,109
+ex1-95,95,Énergie Multicolore,,,,,Rare,Takumi Akabane,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-96,96,Leveinard ex,120,Incolore,,,Rare,Ryo Ueda,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-97,97,Elektek ex,90,Électrique,,,Rare,Hikaru Koike,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-98,98,Tygnon ex,90,Combat,,,Rare,Hiromichi Sugiyama,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-99,99,Lokhlass ex,110,Eau,,,Rare,Hikaru Koike,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-100,100,Magmar ex,90,Feu,,,Rare,Hikaru Koike,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-101,101,Mewtwo ex,100,Psy,,,Rare,Katsura Tabata,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-102,102,Insécateur ex,80,Plante,,,Rare,Ryo Ueda,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-103,103,Farfuret ex,80,Obscurité,,,Rare,Ryo Ueda,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-104,104,Énergie Plante,,,,De base,Commune,,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-105,105,Énergie Combat,,,,De base,Commune,,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-106,106,Énergie Eau,,,,De base,Commune,,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-107,107,Énergie Psy,,,,De base,Commune,,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-108,108,Énergie Feu,,,,De base,Commune,,"normal, reverse",EX Rubis & Saphir,EX,109
+ex1-109,109,Énergie Électrique,,,,De base,Commune,,"normal, reverse",EX Rubis & Saphir,EX,109

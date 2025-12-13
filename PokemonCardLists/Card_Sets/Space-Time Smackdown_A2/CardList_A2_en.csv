@@ -1,0 +1,208 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+A2-001,001,Oddish,60,Grass,,Basic,One Diamond,Asako Ito,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-002,002,Gloom,80,Grass,Oddish,Stage1,One Diamond,Shibuzoh.,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-003,003,Bellossom,130,Grass,Gloom,Stage2,Two Diamond,Naoyo Kimura,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-004,004,Tangela,70,Grass,,Basic,One Diamond,Narumi Sato,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-005,005,Tangrowth,130,Grass,Tangela,Stage1,Two Diamond,kodama,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-006,006,Yanma,50,Grass,,Basic,One Diamond,Eri Yamaki,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-007,007,Yanmega ex,140,Grass,Yanma,Stage1,Four Diamond,PLANETA Tsuji,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-008,008,Roselia,70,Grass,,Basic,One Diamond,kirisAki,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-009,009,Roserade,100,Grass,Roselia,Stage1,Two Diamond,Masakazu Fukuda,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-010,010,Turtwig,80,Grass,,Basic,One Diamond,OOYAMA,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-011,011,Grotle,100,Grass,Turtwig,Stage1,Two Diamond,Sumiyoshi Kizuki,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-012,012,Torterra,160,Grass,Grotle,Stage2,Three Diamond,kawayoo,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-013,013,Kricketot,60,Grass,,Basic,One Diamond,Shigenori Negishi,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-014,014,Kricketune,90,Grass,Kricketot,Stage1,One Diamond,Naoyo Kimura,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-015,015,Burmy,60,Grass,,Basic,One Diamond,Mugi Hamada,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-016,016,Wormadam,120,Grass,Burmy,Stage1,One Diamond,Kouki Saitou,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-017,017,Combee,50,Grass,,Basic,One Diamond,Yukiko Baba,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-018,018,Vespiquen,100,Grass,Combee,Stage1,Two Diamond,chibi,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-019,019,Carnivine,90,Grass,,Basic,Two Diamond,Anesaki Dynamic,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-020,020,Leafeon,90,Grass,Eevee,Stage1,Three Diamond,Kouki Saitou,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-021,021,Mow Rotom,80,Grass,,Basic,One Diamond,kawayoo,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-022,022,Shaymin,60,Grass,,Basic,Three Diamond,Narumi Sato,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-023,023,Magmar,80,Fire,,Basic,One Diamond,Hiroki Asanuma,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-024,024,Magmortar,130,Fire,Magmar,Stage1,Three Diamond,KEIICHIRO ITO,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-025,025,Slugma,70,Fire,,Basic,One Diamond,Naoyo Kimura,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-026,026,Magcargo,120,Fire,Slugma,Stage1,Two Diamond,Oswaldo KATO,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-027,027,Chimchar,60,Fire,,Basic,One Diamond,Kagemaru Himeno,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-028,028,Monferno,80,Fire,Chimchar,Stage1,Two Diamond,Masakazu Fukuda,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-029,029,Infernape ex,170,Fire,Monferno,Stage2,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-030,030,Heat Rotom,80,Fire,,Basic,One Diamond,Kedamahadaitai Yawarakai,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-031,031,Swinub,60,Water,,Basic,One Diamond,Eri Yamaki,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-032,032,Piloswine,110,Water,Swinub,Stage1,Two Diamond,Suwama Chiaki,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-033,033,Mamoswine,160,Water,Piloswine,Stage2,Three Diamond,match,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-034,034,Regice,110,Water,,Basic,Two Diamond,Tomokazu Komiya,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-035,035,Piplup,60,Water,,Basic,One Diamond,Hajime Kusajima,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-036,036,Prinplup,90,Water,Piplup,Stage1,Two Diamond,Mizue,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-037,037,Empoleon,150,Water,Prinplup,Stage2,Three Diamond,Satoshi Shirai,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-038,038,Buizel,60,Water,,Basic,One Diamond,OKUBO,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-039,039,Floatzel,90,Water,Buizel,Stage1,Two Diamond,Kanako Eo,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-040,040,Shellos,70,Water,,Basic,One Diamond,Teeziro,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-041,041,Gastrodon,120,Water,Shellos,Stage1,Two Diamond,Aya Kusube,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-042,042,Finneon,50,Water,,Basic,One Diamond,Shigenori Negishi,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-043,043,Lumineon,90,Water,Finneon,Stage1,Two Diamond,rika,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-044,044,Snover,70,Water,,Basic,One Diamond,match,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-045,045,Abomasnow,140,Water,Snover,Stage1,Two Diamond,Shin Nagasawa,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-046,046,Glaceon,90,Water,Eevee,Stage1,Three Diamond,Naoyo Kimura,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-047,047,Wash Rotom,80,Water,,Basic,One Diamond,Saboteri,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-048,048,Frost Rotom,80,Water,,Basic,One Diamond,MAHOU,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-049,049,Palkia ex,150,Water,,Basic,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-050,050,Manaphy,50,Water,,Basic,Two Diamond,MINAMINAMI Take,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-051,051,Magnemite,60,Lightning,,Basic,One Diamond,MAHOU,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-052,052,Magneton,80,Lightning,Magnemite,Stage1,Two Diamond,Yumi,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-053,053,Magnezone,140,Lightning,Magneton,Stage2,Three Diamond,Yoshinobu Saito,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-054,054,Voltorb,60,Lightning,,Basic,One Diamond,Midori Harada,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-055,055,Electrode,80,Lightning,Voltorb,Stage1,Two Diamond,Anesaki Dynamic,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-056,056,Electabuzz,80,Lightning,,Basic,One Diamond,Shin Nagasawa,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-057,057,Electivire,120,Lightning,Electabuzz,Stage1,Three Diamond,kawayoo,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-058,058,Shinx,60,Lightning,,Basic,One Diamond,Shibuzoh.,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-059,059,Luxio,90,Lightning,Shinx,Stage1,Two Diamond,Naoki Saito,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-060,060,Luxray,130,Lightning,Luxio,Stage2,Three Diamond,Hitoshi Ariga,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-061,061,Pachirisu ex,120,Lightning,,Basic,Four Diamond,PLANETA Tsuji,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-062,062,Rotom,70,Lightning,,Basic,One Diamond,Krgc,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-063,063,Togepi,50,Psychic,,Basic,One Diamond,Narumi Sato,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-064,064,Togetic,80,Psychic,Togepi,Stage1,Two Diamond,Kanako Eo,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-065,065,Togekiss,140,Psychic,Togetic,Stage2,Three Diamond,kawayoo,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-066,066,Misdreavus,60,Psychic,,Basic,One Diamond,Sumiyoshi Kizuki,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-067,067,Mismagius ex,140,Psychic,Misdreavus,Stage1,Four Diamond,PLANETA Igarashi,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-068,068,Ralts,60,Psychic,,Basic,One Diamond,Miki Tanaka,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-069,069,Kirlia,80,Psychic,Ralts,Stage1,One Diamond,Yukiko Baba,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-070,070,Duskull,60,Psychic,,Basic,One Diamond,ryoma uratsuka,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-071,071,Dusclops,90,Psychic,Duskull,Stage1,Two Diamond,Sumiyoshi Kizuki,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-072,072,Dusknoir,130,Psychic,Dusclops,Stage2,Three Diamond,Suwama Chiaki,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-073,073,Drifloon,50,Psychic,,Basic,One Diamond,Atsuko Nishida,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-074,074,Drifblim,100,Psychic,Drifloon,Stage1,Two Diamond,Miki Tanaka,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-075,075,Uxie,70,Psychic,,Basic,Two Diamond,AKIRA EGAWA,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-076,076,Mesprit,70,Psychic,,Basic,Three Diamond,AKIRA EGAWA,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-077,077,Azelf,70,Psychic,,Basic,Two Diamond,AKIRA EGAWA,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-078,078,Giratina,120,Psychic,,Basic,Three Diamond,AKIRA EGAWA,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-079,079,Cresselia,110,Psychic,,Basic,Three Diamond,Masako Tomii,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-080,080,Rhyhorn,80,Fighting,,Basic,One Diamond,otumami,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-081,081,Rhydon,110,Fighting,Rhyhorn,Stage1,Two Diamond,Oswaldo KATO,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-082,082,Rhyperior,160,Fighting,Rhydon,Stage2,Three Diamond,Naoki Saito,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-083,083,Gligar,60,Fighting,,Basic,One Diamond,Sanosuke Sakuma,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-084,084,Gliscor,100,Fighting,Gligar,Stage1,Two Diamond,Mizue,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-085,085,Hitmontop,80,Fighting,,Basic,One Diamond,sowsow,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-086,086,Nosepass,70,Fighting,,Basic,One Diamond,Midori Harada,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-087,087,Regirock,120,Fighting,,Basic,Two Diamond,Tomokazu Komiya,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-088,088,Cranidos,90,Fighting,Skull Fossil,Stage1,Two Diamond,Kouki Saitou,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-089,089,Rampardos,150,Fighting,Cranidos,Stage2,Three Diamond,Yoshinobu Saito,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-090,090,Wormadam,120,Fighting,Burmy,Stage1,One Diamond,Hajime Kusajima,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-091,091,Riolu,60,Fighting,,Basic,One Diamond,AKIRA EGAWA,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-092,092,Lucario,100,Fighting,Riolu,Stage1,Three Diamond,nagimiso,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-093,093,Hippopotas,80,Fighting,,Basic,One Diamond,Akira Komayama,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-094,094,Hippowdon,140,Fighting,Hippopotas,Stage1,Two Diamond,KEIICHIRO ITO,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-095,095,Gallade ex,170,Fighting,Kirlia,Stage2,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-096,096,Murkrow,60,Darkness,,Basic,One Diamond,Yukiko Baba,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-097,097,Honchkrow,100,Darkness,Murkrow,Stage1,Two Diamond,Hideki Ishikawa,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-098,098,Sneasel,60,Darkness,,Basic,One Diamond,Hasuno,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-099,099,Weavile ex,140,Darkness,Sneasel,Stage1,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-100,100,Poochyena,60,Darkness,,Basic,One Diamond,Midori Harada,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-101,101,Mightyena,90,Darkness,Poochyena,Stage1,Two Diamond,Kouki Saitou,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-102,102,Stunky,70,Darkness,,Basic,One Diamond,Kyoko Umemoto,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-103,103,Skuntank,100,Darkness,Stunky,Stage1,Two Diamond,kirisAki,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-104,104,Spiritomb,80,Darkness,,Basic,Two Diamond,HYOGONOSUKE,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-105,105,Skorupi,70,Darkness,,Basic,One Diamond,Naoki Saito,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-106,106,Drapion,120,Darkness,Skorupi,Stage1,Two Diamond,Hitoshi Ariga,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-107,107,Croagunk,60,Darkness,,Basic,One Diamond,Masakazu Fukuda,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-108,108,Toxicroak,90,Darkness,Croagunk,Stage1,Two Diamond,Hajime Kusajima,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-109,109,Darkrai,110,Darkness,,Basic,Three Diamond,Masako Tomii,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-110,110,Darkrai ex,140,Darkness,,Basic,Four Diamond,PLANETA Yamashita,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-111,111,Skarmory,80,Metal,,Basic,Two Diamond,Oswaldo KATO,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-112,112,Registeel,110,Metal,,Basic,Two Diamond,Tomokazu Komiya,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-113,113,Shieldon,100,Metal,Armor Fossil,Stage1,Two Diamond,Kouki Saitou,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-114,114,Bastiodon,160,Metal,Shieldon,Stage2,Three Diamond,Kagemaru Himeno,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-115,115,Wormadam,110,Metal,Burmy,Stage1,One Diamond,Kyoko Umemoto,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-116,116,Bronzor,60,Metal,,Basic,One Diamond,Miki Tanaka,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-117,117,Bronzong,120,Metal,Bronzor,Stage1,Two Diamond,Yuka Morii,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-118,118,Probopass,130,Metal,Nosepass,Stage1,Two Diamond,MAHOU,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-119,119,Dialga ex,150,Metal,,Basic,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-120,120,Heatran,120,Metal,,Basic,Three Diamond,Oswaldo KATO,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-121,121,Gible,60,Dragon,,Basic,One Diamond,Naoyo Kimura,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-122,122,Gabite,90,Dragon,Gible,Stage1,Two Diamond,Shigenori Negishi,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-123,123,Garchomp,140,Dragon,Gabite,Stage2,Three Diamond,Atsushi Furusawa,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-124,124,Lickitung,80,Colorless,,Basic,One Diamond,Yukiko Baba,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-125,125,Lickilicky ex,160,Colorless,Lickitung,Stage1,Four Diamond,PLANETA Igarashi,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-126,126,Eevee,60,Colorless,,Basic,One Diamond,Shibuzoh.,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-127,127,Porygon,60,Colorless,,Basic,One Diamond,Shin Nagasawa,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-128,128,Porygon2,80,Colorless,Porygon,Stage1,Two Diamond,sowsow,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-129,129,Porygon-Z,140,Colorless,Porygon2,Stage2,Three Diamond,Shin Nagasawa,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-130,130,Aipom,60,Colorless,,Basic,One Diamond,Miki Tanaka,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-131,131,Ambipom,90,Colorless,Aipom,Stage1,One Diamond,Naoyo Kimura,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-132,132,Starly,50,Colorless,,Basic,One Diamond,Atsuko Nishida,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-133,133,Staravia,80,Colorless,Starly,Stage1,One Diamond,REND,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-134,134,Staraptor,140,Colorless,Staravia,Stage2,Two Diamond,Sekio,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-135,135,Bidoof,60,Colorless,,Basic,One Diamond,Kagemaru Himeno,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-136,136,Bibarel,110,Colorless,Bidoof,Stage1,One Diamond,kirisAki,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-137,137,Buneary,60,Colorless,,Basic,One Diamond,Narumi Sato,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-138,138,Lopunny,90,Colorless,Buneary,Stage1,One Diamond,Sanosuke Sakuma,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-139,139,Glameow,60,Colorless,,Basic,One Diamond,sowsow,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-140,140,Purugly,110,Colorless,Glameow,Stage1,Two Diamond,Kagemaru Himeno,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-141,141,Chatot,70,Colorless,,Basic,One Diamond,HYOGONOSUKE,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-142,142,Fan Rotom,80,Colorless,,Basic,One Diamond,Masakazu Fukuda,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-143,143,Regigigas,140,Colorless,,Basic,Three Diamond,Tomokazu Komiya,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-144,144,Skull Fossil,,,,,One Diamond,Toyste Beach,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-145,145,Armor Fossil,,,,,One Diamond,Toyste Beach,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-146,146,Pokémon Communication,,,,,Two Diamond,Ayaka Yoshida,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-147,147,Giant Cape,,,,,Two Diamond,Ryo Ueda,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-148,148,Rocky Helmet,,,,,Two Diamond,Ayaka Yoshida,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-149,149,Lum Berry,,,,,Two Diamond,Yoshinobu Saito,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-150,150,Cyrus,,,,,Two Diamond,akagi,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-151,151,Team Galactic Grunt,,,,,Two Diamond,GOSSAN,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-152,152,Cynthia,,,,,Two Diamond,Ryuta Fuse,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-153,153,Volkner,,,,,Two Diamond,GIDORA,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-154,154,Dawn,,,,,Two Diamond,saino misaki,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-155,155,Mars,,,,,Two Diamond,Yuu Nishida,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-156,156,Tangrowth,130,Grass,Tangela,Stage1,One Star,Saboteri,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-157,157,Combee,50,Grass,,Basic,One Star,Shibuzoh.,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-158,158,Carnivine,90,Grass,,Basic,One Star,Yoriyuki Ikegami,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-159,159,Shaymin,60,Grass,,Basic,One Star,REND,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-160,160,Mamoswine,160,Water,Piloswine,Stage2,One Star,OKACHEKE,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-161,161,Gastrodon,120,Water,Shellos,Stage1,One Star,takashi shiraishi,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-162,162,Manaphy,50,Water,,Basic,One Star,miki kudo,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-163,163,Shinx,60,Lightning,,Basic,One Star,Yuu Nishida,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-164,164,Rotom,70,Lightning,,Basic,One Star,Shimaris Yukichi,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-165,165,Drifloon,50,Psychic,,Basic,One Star,Orca,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-166,166,Mesprit,70,Psychic,,Basic,One Star,Orca,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-167,167,Giratina,120,Psychic,,Basic,One Star,Rond,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-168,168,Cresselia,110,Psychic,,Basic,One Star,rika,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-169,169,Rhyperior,160,Fighting,Rhydon,Stage2,One Star,Taiga Kayama,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-170,170,Lucario,100,Fighting,Riolu,Stage1,One Star,Akira Komayama,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-171,171,Hippopotas,80,Fighting,,Basic,One Star,Teeziro,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-172,172,Spiritomb,80,Darkness,,Basic,One Star,Shinji Kanda,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-173,173,Croagunk,60,Darkness,,Basic,One Star,GOSSAN,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-174,174,Heatran,120,Metal,,Basic,One Star,OKUBO,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-175,175,Garchomp,140,Dragon,Gabite,Stage2,One Star,MINAMINAMI Take,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-176,176,Staraptor,140,Colorless,Staravia,Stage2,One Star,Ryota Murayama,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-177,177,Bidoof,60,Colorless,,Basic,One Star,Shinya Komatsu,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-178,178,Glameow,60,Colorless,,Basic,One Star,matazo,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-179,179,Regigigas,140,Colorless,,Basic,One Star,Tetsu Kayama,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-180,180,Yanmega ex,140,Grass,Yanma,Stage1,Two Star,PLANETA Tsuji,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-181,181,Infernape ex,170,Fire,Monferno,Stage2,Two Star,PLANETA CG Works,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-182,182,Palkia ex,150,Water,,Basic,Two Star,PLANETA CG Works,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-183,183,Pachirisu ex,120,Lightning,,Basic,Two Star,PLANETA Tsuji,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-184,184,Mismagius ex,140,Psychic,Misdreavus,Stage1,Two Star,PLANETA Tsuji,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-185,185,Gallade ex,170,Fighting,Kirlia,Stage2,Two Star,PLANETA CG Works,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-186,186,Weavile ex,140,Darkness,Sneasel,Stage1,Two Star,PLANETA CG Works,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-187,187,Darkrai ex,140,Darkness,,Basic,Two Star,PLANETA Yamashita,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-188,188,Dialga ex,150,Metal,,Basic,Two Star,PLANETA CG Works,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-189,189,Lickilicky ex,160,Colorless,Lickitung,Stage1,Two Star,PLANETA Tsuji,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-190,190,Cyrus,,,,,Two Star,akagi,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-191,191,Team Galactic Grunt,,,,,Two Star,GOSSAN,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-192,192,Cynthia,,,,,Two Star,Ryuta Fuse,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-193,193,Volkner,,,,,Two Star,GIDORA,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-194,194,Dawn,,,,,Two Star,saino misaki,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-195,195,Mars,,,,,Two Star,Yuu Nishida,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-196,196,Yanmega ex,140,Grass,Yanma,Stage1,Two Star,Mina Nakai,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-197,197,Infernape ex,170,Fire,Monferno,Stage2,Two Star,nagimiso,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-198,198,Pachirisu ex,120,Lightning,,Basic,Two Star,Nurikabe,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-199,199,Mismagius ex,140,Psychic,Misdreavus,Stage1,Two Star,Kuroimori,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-200,200,Gallade ex,170,Fighting,Kirlia,Stage2,Two Star,Takumi Wada,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-201,201,Weavile ex,140,Darkness,Sneasel,Stage1,Two Star,hncl,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-202,202,Darkrai ex,140,Darkness,,Basic,Two Star,Oswaldo KATO,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-203,203,Lickilicky ex,160,Colorless,Lickitung,Stage1,Two Star,Jerky,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-204,204,Palkia ex,150,Water,,Basic,Three Star,N-DESIGN Inc.,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-205,205,Dialga ex,150,Metal,,Basic,Three Star,N-DESIGN Inc.,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-206,206,Palkia ex,150,Water,,Basic,Crown,PLANETA CG Works,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207
+A2-207,207,Dialga ex,150,Metal,,Basic,Crown,PLANETA CG Works,"normal, reverse, holo",Space-Time Smackdown,Pokémon TCG Pocket,207

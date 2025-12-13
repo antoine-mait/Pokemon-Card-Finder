@@ -1,0 +1,18 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+pop8-1,1,Heatran,100,Fire,,Basic,Rare,Ken Sugimori,"normal, holo",POP Series 8,POP,17
+pop8-2,2,Lucario,90,Fighting,Riolu,Stage1,Rare,Kent Kanetsuna,"normal, holo",POP Series 8,POP,17
+pop8-3,3,Luxray,120,Lightning,Luxio,Stage2,Rare,Ken Sugimori,"normal, holo",POP Series 8,POP,17
+pop8-4,4,Probopass,90,Metal,Nosepass,Stage1,Rare,Ken Sugimori,holo,POP Series 8,POP,17
+pop8-5,5,Yanmega,90,Grass,Yanma,Stage1,Rare,Ken Sugimori,holo,POP Series 8,POP,17
+pop8-6,6,Cherrim,80,Grass,Cherubi,Stage1,Uncommon,Atsuko Nishida,holo,POP Series 8,POP,17
+pop8-7,7,Carnivine,70,Grass,,Basic,Uncommon,Kouki Saitou,"normal, holo",POP Series 8,POP,17
+pop8-8,8,Luxio,80,Lightning,Shinx,Stage1,Uncommon,Kagemaru Himeno,"normal, holo",POP Series 8,POP,17
+pop8-9,9,Night Maintenance,,,,,Uncommon,Ryo Ueda,normal,POP Series 8,POP,17
+pop8-10,10,Rare Candy,,,,,Uncommon,Ryo Ueda,normal,POP Series 8,POP,17
+pop8-11,11,Roseanne’s Research,,,,,Uncommon,Kanako Eo,,POP Series 8,POP,17
+pop8-12,12,Chimchar,50,Fire,,Basic,Common,Kagemaru Himeno,"normal, holo",POP Series 8,POP,17
+pop8-13,13,Croagunk,60,Psychic,,Basic,Common,Kouki Saitou,"normal, holo",POP Series 8,POP,17
+pop8-14,14,Happiny,60,Colorless,,Basic,Common,Yuka Morii,"normal, holo",POP Series 8,POP,17
+pop8-15,15,Piplup,60,Water,,Basic,Common,Atsuko Nishida,,POP Series 8,POP,17
+pop8-16,16,Riolu,50,Fighting,,Basic,Common,Masakazu Fukuda,"normal, holo",POP Series 8,POP,17
+pop8-17,17,Turtwig,60,Grass,,Basic,Common,Masakazu Fukuda,normal,POP Series 8,POP,17

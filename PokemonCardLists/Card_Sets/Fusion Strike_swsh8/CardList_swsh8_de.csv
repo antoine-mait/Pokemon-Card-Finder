@@ -1,0 +1,285 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+swsh8-1,1,Raupy,50,Pflanze,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-2,2,Safcon,80,Pflanze,Raupy,Rang 1,Ungewöhnlich,Saya Tsuruta,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-3,3,Smettbo,120,Pflanze,Safcon,Rang 2,Holografisch Selten,ryoma uratsuka,"reverse, holo",Fusions Angriff,Schwert & Schild,284
+swsh8-4,4,Knilz,60,Pflanze,,Basis,Häufig,Naoyo Kimura,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-5,5,Kapilz,120,Pflanze,Knilz,Rang 1,Ungewöhnlich,Yukiko Baba,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-6,6,Kapilz V,210,Pflanze,,Basis,Holografisch Selten V,PLANETA Mochizuki,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-7,7,Vegimak,60,Pflanze,,Basis,Häufig,Nagomi Nijo,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-8,8,Vegichita,100,Pflanze,Vegimak,Rang 1,Ungewöhnlich,Akira Komayama,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-9,9,Strawickl,50,Pflanze,,Basis,Häufig,Akira Komayama,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-10,10,Folikon,80,Pflanze,Strawickl,Rang 1,Ungewöhnlich,0313,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-11,11,Matrifol,130,Pflanze,Folikon,Rang 2,Selten,kodama,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-12,12,Maracamba,110,Pflanze,,Basis,Selten,0313,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-13,13,Schnuthelm,70,Pflanze,,Basis,Häufig,Shibuzoh.,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-14,14,Hydragil,90,Pflanze,Schnuthelm,Rang 1,Selten,nagimiso,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-15,15,Viridium,110,Pflanze,,Basis,Selten,Kagemaru Himeno,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-16,16,Paragoni,60,Pflanze,,Basis,Häufig,OKACHEKE,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-17,17,Trombork,120,Pflanze,Paragoni,Rang 1,Ungewöhnlich,Narumi Sato,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-18,18,Mabula,70,Pflanze,,Basis,Häufig,Asako Ito,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-19,19,Araqua,50,Pflanze,,Basis,Häufig,Miki Tanaka,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-20,20,Aranestro,120,Pflanze,Araqua,Rang 1,Selten,KIYOTAKA OSHIYAMA,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-21,21,Fruyal V,200,Pflanze,,Basis,Holografisch Selten V,PLANETA Mochizuki,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-22,22,Gortrom V,220,Pflanze,,Basis,Holografisch Selten V,5ban Graphics,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-23,23,Gortrom VMAX,330,Pflanze,Gortrom-V,VMAX,Holografisch Selten VMAX,5ban Graphics,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-24,24,Cottini,50,Pflanze,,Basis,Häufig,Kagemaru Himeno,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-25,25,Cottomi,90,Pflanze,Cottini,Rang 1,Ungewöhnlich,Akira Komayama,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-26,26,Schlapfel V,210,Pflanze,,Basis,Holografisch Selten V,aky CG Works,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-27,27,Zarude,110,Pflanze,,Basis,Ungewöhnlich,Anesaki Dynamic,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-28,28,Vulpix,70,Feuer,,Basis,Häufig,Sekio,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-29,29,Vulpix,70,Feuer,,Basis,Häufig,Megumi Mizutani,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-30,30,Vulnona,110,Feuer,Vulpix,Rang 1,Ungewöhnlich,kirisAki,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-31,31,Vulnona,120,Feuer,Vulpix,Rang 1,Ungewöhnlich,Tika Matsuno,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-32,32,Fukano,80,Feuer,,Basis,Häufig,Narumi Sato,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-33,33,Arkani,130,Feuer,Fukano,Rang 1,Selten,Yuu Nishida,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-34,34,Schneckmag,80,Feuer,,Basis,Häufig,otumami,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-35,35,Magcargo,130,Feuer,Schneckmag,Rang 1,Ungewöhnlich,Eri Yamaki,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-36,36,Victini,80,Feuer,,Basis,Ungewöhnlich,Mitsuhiro Arita,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-37,37,Grillmak,60,Feuer,,Basis,Häufig,Misa Tsutsui,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-38,38,Grillchita,100,Feuer,Grillmak,Rang 1,Ungewöhnlich,Tomokazu Komiya,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-39,39,Skelabra V,200,Feuer,,Basis,Holografisch Selten V,Saki Hayashiro,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-40,40,Skelabra VMAX,320,Feuer,Skelabra-V,VMAX,Holografisch Selten VMAX,AKIRA EGAWA,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-41,41,Furnifraß,110,Feuer,,Basis,Ungewöhnlich,Oswaldo KATO,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-42,42,Choreogel,90,Feuer,,Basis,Selten,Oswaldo KATO,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-43,43,Liberlo V,220,Feuer,,Basis,Holografisch Selten V,5ban Graphics,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-44,44,Liberlo V,210,Feuer,,Basis,Holografisch Selten V,aky CG Works,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-45,45,Liberlo VMAX,320,Feuer,Liberlo-V,VMAX,Holografisch Selten VMAX,5ban Graphics,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-46,46,Thermopod,80,Feuer,,Basis,Häufig,miki kudo,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-47,47,Thermopod,70,Feuer,,Basis,Häufig,Narumi Sato,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-48,48,Infernopod,130,Feuer,Thermopod,Rang 1,Selten,Hasuno,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-49,49,Infernopod,130,Feuer,Thermopod,Rang 1,Ungewöhnlich,Misa Tsutsui,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-50,50,Muschas,70,Wasser,,Basis,Häufig,kawayoo,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-51,51,Austos,130,Wasser,Muschas,Rang 1,Selten,nagimiso,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-52,52,Sterndu,60,Wasser,,Basis,Häufig,tetsuya koizumi,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-53,53,Starmie,90,Wasser,Sterndu,Rang 1,Holografisch Selten,Megumi Mizutani,"reverse, holo",Fusions Angriff,Schwert & Schild,284
+swsh8-54,54,Lapras,120,Wasser,,Basis,Ungewöhnlich,Naoki Saito,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-55,55,Karnimani,70,Wasser,,Basis,Häufig,Mizue,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-56,56,Tyracroc,100,Wasser,Karnimani,Rang 1,Ungewöhnlich,Tomokazu Komiya,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-57,57,Impergator,170,Wasser,Tyracroc,Rang 2,Holografisch Selten,Anesaki Dynamic,"reverse, holo",Fusions Angriff,Schwert & Schild,284
+swsh8-58,58,Marill,50,Wasser,,Basis,Häufig,sowsow,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-59,59,Azumarill,120,Wasser,Marill,Rang 1,Selten,Sanosuke Sakuma,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-60,60,Baldorfish,80,Wasser,,Basis,Häufig,HYOGONOSUKE,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-61,61,Mantax,110,Wasser,,Basis,Häufig,Saya Tsuruta,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-62,62,Hydropi,70,Wasser,,Basis,Häufig,KIYOTAKA OSHIYAMA,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-63,63,Moorabbel,90,Wasser,Hydropi,Rang 1,Ungewöhnlich,tetsuya koizumi,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-64,64,Sumpex,170,Wasser,Moorabbel,Rang 2,Holografisch Selten,Masakazu Fukuda,"reverse, holo",Fusions Angriff,Schwert & Schild,284
+swsh8-65,65,Perlu,60,Wasser,,Basis,Häufig,Anesaki Dynamic,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-66,66,Aalabyss,110,Wasser,Perlu,Rang 1,Selten,otumami,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-67,67,Saganabyss,110,Wasser,Perlu,Rang 1,Selten,Misa Tsutsui,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-68,68,Sodamak,60,Wasser,,Basis,Häufig,Sekio,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-69,69,Sodachita,100,Wasser,Sodamak,Rang 1,Ungewöhnlich,Shin Nagasawa,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-70,70,Barschuft,80,Wasser,,Basis,Häufig,Souichirou Gunjima,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-71,71,Galar-Flampion,80,Wasser,,Basis,Häufig,Atsuko Nishida,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-72,72,Galar-Flampivian,130,Wasser,Galar-Flampion,Rang 1,Ungewöhnlich,SATOSHI NAKAI,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-73,73,Quajutsu V,210,Wasser,,Basis,Holografisch Selten V,5ban Graphics,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-74,74,Scampisto,70,Wasser,,Basis,Häufig,Pani Kobayashi,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-75,75,Wummer,110,Wasser,Scampisto,Rang 1,Ungewöhnlich,tetsuya koizumi,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-76,76,Krawell V,220,Wasser,,Basis,Holografisch Selten V,MUGENUP,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-77,77,Gufa,80,Wasser,,Basis,Ungewöhnlich,Tomokazu Komiya,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-78,78,Intelleon V,200,Wasser,,Basis,Holografisch Selten V,5ban Graphics,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-79,79,Intelleon VMAX,320,Wasser,Intelleon-V,VMAX,Holografisch Selten VMAX,5ban Graphics,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-80,80,Kamehaps,80,Wasser,,Basis,Häufig,Saya Tsuruta,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-81,81,Kamalm,140,Wasser,Kamehaps,Rang 1,Ungewöhnlich,kodama,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-82,82,Pikuda,60,Wasser,,Basis,Häufig,Miki Tanaka,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-83,83,Barrakiefa,120,Wasser,Pikuda,Rang 1,Ungewöhnlich,Hideki Ishikawa,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-84,84,Snomnom,40,Wasser,,Basis,Häufig,Yuka Morii,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-85,85,Mottineva,90,Wasser,Snomnom,Rang 1,Ungewöhnlich,chibi,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-86,86,Pikachu V,200,Elektro,,Basis,Holografisch Selten V,5ban Graphics,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-87,87,Voltobal,60,Elektro,,Basis,Häufig,Tomokazu Komiya,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-88,88,Lektrobal,90,Elektro,Voltobal,Rang 1,Selten,Kouki Saitou,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-89,89,Plusle,70,Elektro,,Basis,Häufig,Megumi Higuchi,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-90,90,Minun,70,Elektro,,Basis,Häufig,HYOGONOSUKE,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-91,91,Sheinux,50,Elektro,,Basis,Häufig,Naoyo Kimura,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-92,92,Luxio,90,Elektro,Sheinux,Rang 1,Ungewöhnlich,Tika Matsuno,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-93,93,Luxtra,160,Elektro,Luxio,Rang 2,Selten,Atsushi Furusawa,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-94,94,Rotom,80,Elektro,,Basis,Häufig,Sekio,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-95,95,Zapplardin,40,Elektro,,Basis,Häufig,Yuka Morii,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-96,96,Zapplalek,90,Elektro,Zapplardin,Rang 1,Ungewöhnlich,Shigenori Negishi,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-97,97,Zapplarang,160,Elektro,Zapplalek,Rang 2,Selten,OKACHEKE,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-98,98,Eguana,70,Elektro,,Basis,Häufig,Mina Nakai,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-99,99,Elezard,110,Elektro,Eguana,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-100,100,Akkup,100,Elektro,Mabula,Rang 1,Ungewöhnlich,sowsow,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-101,101,Donarion,150,Elektro,Akkup,Rang 2,Selten,nagimiso,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-102,102,Zeraora,120,Elektro,,Basis,Selten,Teeziro,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-103,103,Bellektro V,200,Elektro,,Basis,Holografisch Selten V,Shin Nagasawa,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-104,104,Bellektro VMAX,320,Elektro,Bellektro-V,VMAX,Holografisch Selten VMAX,PLANETA Tsuji,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-105,105,Toxel,70,Elektro,,Basis,Häufig,Mina Nakai,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-106,106,Toxel,60,Elektro,,Basis,Häufig,kodama,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-107,107,Riffex,130,Elektro,Toxel,Rang 1,Holografisch Selten,Ryuta Fuse,"reverse, holo",Fusions Angriff,Schwert & Schild,284
+swsh8-108,108,Riffex,120,Elektro,Toxel,Rang 1,Holografisch Selten,nagimiso,"reverse, holo",Fusions Angriff,Schwert & Schild,284
+swsh8-109,109,Morpeko,80,Elektro,,Basis,Häufig,Sanosuke Sakuma,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-110,110,Pummeluff,60,Psycho,,Basis,Häufig,Saya Tsuruta,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-111,111,Knuddeluff,120,Psycho,Pummeluff,Rang 1,Ungewöhnlich,Asako Ito,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-112,112,Rossana,100,Psycho,,Basis,Häufig,Shigenori Negishi,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-113,113,Mew V,180,Psycho,,Basis,Holografisch Selten V,Mitsuhiro Arita,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-114,114,Mew VMAX,310,Psycho,Mew-V,VMAX,Holografisch Selten VMAX,5ban Graphics,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-115,115,Snubbull,70,Psycho,,Basis,Häufig,Kyoko Umemoto,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-116,116,Granbull,120,Psycho,Snubbull,Rang 1,Selten,Akira Komayama,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-117,117,Galar-Corasonn,70,Psycho,,Basis,Häufig,Kouki Saitou,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-118,118,Galar-Gorgasonn,100,Psycho,Galar-Corasonn,Rang 1,Selten,Misa Tsutsui,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-119,119,Flunkifer,90,Psycho,,Basis,Häufig,Kouki Saitou,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-120,120,Deoxys,120,Psycho,,Basis,Holografisch Selten,Kouki Saitou,"reverse, holo",Fusions Angriff,Schwert & Schild,284
+swsh8-121,121,Somniam,80,Psycho,,Basis,Häufig,miki kudo,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-122,122,Somnivora,120,Psycho,Somniam,Rang 1,Ungewöhnlich,Tika Matsuno,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-123,123,Symvolara,100,Psycho,,Basis,Häufig,Yukiko Baba,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-124,124,Meloetta,90,Psycho,,Basis,Selten,kirisAki,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-125,125,Sankabuh,80,Psycho,,Basis,Häufig,KIYOTAKA OSHIYAMA,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-126,126,Colossand,140,Psycho,Sankabuh,Rang 1,Selten,Shibuzoh.,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-127,127,Servol,100,Psycho,,Basis,Häufig,Misa Tsutsui,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-128,128,Grolldra,60,Psycho,,Basis,Häufig,Teeziro,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-129,129,Phandra,90,Psycho,Grolldra,Rang 1,Ungewöhnlich,HYOGONOSUKE,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-130,130,Katapuldra,150,Psycho,Phandra,Rang 2,Holografisch Selten,Souichirou Gunjima,"reverse, holo",Fusions Angriff,Schwert & Schild,284
+swsh8-131,131,Sandan,60,Kampf,,Basis,Häufig,Yuka Morii,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-132,132,Sandamer,120,Kampf,Sandan,Rang 1,Ungewöhnlich,Kyoko Umemoto,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-133,133,Menki,60,Kampf,,Basis,Häufig,sowsow,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-134,134,Rasaff,100,Kampf,Menki,Rang 1,Ungewöhnlich,Yuya Oka,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-135,135,Kleinstein,80,Kampf,,Basis,Häufig,OKACHEKE,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-136,136,Georok,110,Kampf,Kleinstein,Rang 1,Ungewöhnlich,Masakazu Fukuda,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-137,137,Geowaz,180,Kampf,Georok,Rang 2,Selten,KEIICHIRO ITO,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-138,138,Onix,110,Kampf,,Basis,Häufig,KEIICHIRO ITO,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-139,139,Stahlos,190,Kampf,Onix,Rang 1,Holografisch Selten,Ryuta Fuse,"reverse, holo",Fusions Angriff,Schwert & Schild,284
+swsh8-140,140,Skorgla,70,Kampf,,Basis,Häufig,Misa Tsutsui,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-141,141,Skorgro,110,Kampf,Skorgla,Rang 1,Ungewöhnlich,SATOSHI NAKAI,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-142,142,Makuhita,90,Kampf,,Basis,Häufig,Oswaldo KATO,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-143,143,Hariyama,140,Kampf,Makuhita,Rang 1,Ungewöhnlich,Hitoshi Ariga,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-144,144,Puppance,60,Kampf,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-145,145,Lepumentas,120,Kampf,Puppance,Rang 1,Selten,Akira Komayama,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-146,146,Lucario V,210,Kampf,,Basis,Holografisch Selten V,aky CG Works,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-147,147,Rotomurf,60,Kampf,,Basis,Häufig,tetsuya koizumi,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-148,148,Demeteros,120,Kampf,,Basis,Holografisch Selten,NC Empire,"reverse, holo",Fusions Angriff,Schwert & Schild,284
+swsh8-149,149,Pam-Pam,60,Kampf,,Basis,Häufig,Mina Nakai,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-150,150,Velursi,70,Kampf,,Basis,Häufig,OKACHEKE,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-151,151,Kosturso,130,Kampf,Velursi,Rang 1,Ungewöhnlich,Shigenori Negishi,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-152,152,Klopptopus,80,Kampf,,Basis,Häufig,Mizue,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-153,153,Kaocto,130,Kampf,Klopptopus,Rang 1,Ungewöhnlich,Souichirou Gunjima,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-154,154,Legios,90,Kampf,,Basis,Ungewöhnlich,Akira Komayama,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-155,155,Legios,90,Kampf,,Basis,Häufig,Yuu Nishida,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-156,156,Gengar V,210,Unlicht,,Basis,Holografisch Selten V,5ban Graphics,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-157,157,Gengar VMAX,320,Unlicht,Gengar-V,VMAX,Holografisch Selten VMAX,5ban Graphics,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-158,158,Despotar V,230,Unlicht,,Basis,Holografisch Selten V,5ban Graphics,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-159,159,Galar-Zigzachs,60,Unlicht,,Basis,Häufig,Eri Yamaki,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-160,160,Galar-Geradaks,90,Unlicht,Galar-Zigzachs,Rang 1,Ungewöhnlich,sowsow,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-161,161,Galar-Barrikadax,170,Unlicht,Galar-Geradaks,Rang 2,Holografisch Selten,kodama,"reverse, holo",Fusions Angriff,Schwert & Schild,284
+swsh8-162,162,Kanivanha,50,Unlicht,,Basis,Häufig,NC Empire,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-163,163,Tohaido,100,Unlicht,Kanivanha,Rang 1,Ungewöhnlich,Hasuno,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-164,164,Absol,100,Unlicht,,Basis,Selten,Eri Yamaki,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-165,165,Glibunkel,60,Unlicht,,Basis,Häufig,Nagomi Nijo,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-166,166,Toxiquak,110,Unlicht,Glibunkel,Rang 1,Selten,Masakazu Fukuda,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-167,167,Darkrai,110,Unlicht,,Basis,Ungewöhnlich,Megumi Mizutani,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-168,168,Unratütox,70,Unlicht,,Basis,Häufig,Shibuzoh.,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-169,169,Deponitox,120,Unlicht,Unratütox,Rang 1,Ungewöhnlich,Misa Tsutsui,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-170,170,Zorua,60,Unlicht,,Basis,Häufig,nagimiso,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-171,171,Zoroark,120,Unlicht,Zorua,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-172,172,Skallyk,60,Unlicht,,Basis,Häufig,Shigenori Negishi,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-173,173,Grypheldis,120,Unlicht,Skallyk,Rang 1,Ungewöhnlich,Narumi Sato,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-174,174,Pandagro,140,Unlicht,Pam-Pam,Rang 1,Ungewöhnlich,HYOGONOSUKE,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-175,175,Yveltal,130,Unlicht,,Basis,Selten,kawayoo,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-176,176,Bähmon,70,Unlicht,,Basis,Häufig,sowsow,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-177,177,Pelzebub,90,Unlicht,Bähmon,Rang 1,Ungewöhnlich,tetsuya koizumi,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-178,178,Olangaar,170,Unlicht,Pelzebub,Rang 2,Holografisch Selten,kawayoo,"reverse, holo",Fusions Angriff,Schwert & Schild,284
+swsh8-179,179,Morpeko,50,Unlicht,,Basis,Häufig,Teeziro,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-180,180,Galar-Mauzi,70,Metall,,Basis,Häufig,0313,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-181,181,Galar-Mauzinger,120,Metall,Galar-Mauzi,Rang 1,Ungewöhnlich,Shigenori Negishi,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-182,182,Panzaeron,120,Metall,,Basis,Häufig,Megumi Higuchi,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-183,183,Stalobor,130,Metall,Rotomurf,Rang 1,Ungewöhnlich,Lee HyunJung,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-184,184,Fermicula,70,Metall,,Basis,Häufig,Shin Nagasawa,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-185,185,Genesect V,190,Metall,,Basis,Holografisch Selten V,PLANETA Tsuji,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-186,186,Clavion,70,Metall,,Basis,Häufig,MAHOU,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-187,187,Togedemaru,80,Metall,,Basis,Ungewöhnlich,Oswaldo KATO,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-188,188,Meltan,70,Metall,,Basis,Häufig,Teeziro,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-189,189,Melmetal,150,Metall,Meltan,Rang 1,Holografisch Selten,Hasuno,"reverse, holo",Fusions Angriff,Schwert & Schild,284
+swsh8-190,190,Krarmor,170,Metall,Kranoviz,Rang 2,Selten,Ryuta Fuse,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-191,191,Kupfanti,100,Metall,,Basis,Häufig,Oswaldo KATO,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-192,192,Patinaraja,190,Metall,Kupfanti,Rang 1,Ungewöhnlich,KEIICHIRO ITO,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-193,193,Latias,120,Drache,,Basis,Selten,Yuu Nishida,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-194,194,Latios,130,Drache,,Basis,Selten,hatachu,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-195,195,Viscora,50,Drache,,Basis,Häufig,Miki Tanaka,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-196,196,Viscargot,80,Drache,Viscora,Rang 1,Ungewöhnlich,Saya Tsuruta,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-197,197,Viscogon,160,Drache,Viscargot,Rang 2,Selten,Nagomi Nijo,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-198,198,Tortunator,130,Drache,,Basis,Ungewöhnlich,Ryuta Fuse,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-199,199,Mauzi,70,Farblos,,Basis,Häufig,Kouki Saitou,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-200,200,Snobilikat,110,Farblos,Mauzi,Rang 1,Ungewöhnlich,Lee HyunJung,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-201,201,Dodri V,200,Farblos,,Basis,Holografisch Selten V,5ban Graphics,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-202,202,Chaneira,110,Farblos,,Basis,Häufig,miki kudo,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-203,203,Heiteira,130,Farblos,Chaneira,Rang 1,Selten,Mizue,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-204,204,Kangama,120,Farblos,,Basis,Selten,Souichirou Gunjima,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-205,205,Evoli,50,Farblos,,Basis,Häufig,0313,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-206,206,Relaxo,160,Farblos,,Basis,Häufig,Oswaldo KATO,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-207,207,Dummisel,60,Farblos,,Basis,Ungewöhnlich,ryoma uratsuka,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-208,208,Damhirplex,110,Farblos,,Basis,Ungewöhnlich,Shibuzoh.,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-209,209,Farbeagle,70,Farblos,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-210,210,Eneco,60,Farblos,,Basis,Häufig,Yukiko Baba,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-211,211,Enekoro,100,Farblos,Eneco,Rang 1,Ungewöhnlich,kirisAki,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-212,212,Haspiror,50,Farblos,,Basis,Häufig,Yuu Nishida,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-213,213,Schlapor,110,Farblos,Haspiror,Rang 1,Ungewöhnlich,AKIRA EGAWA,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-214,214,Scoppel,60,Farblos,,Basis,Häufig,Misa Tsutsui,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-215,215,Grebbit,140,Farblos,Scoppel,Rang 1,Ungewöhnlich,MAHOU,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-216,216,Resladero,90,Farblos,,Basis,Ungewöhnlich,Taira Akitsu,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-217,217,Schlaraffel V,210,Farblos,,Basis,Holografisch Selten V,PLANETA Yamashita,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-218,218,Schlaraffel VMAX,320,Farblos,Schlaraffel-V,VMAX,Holografisch Selten VMAX,PLANETA Mochizuki,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-219,219,Meikro,60,Farblos,,Basis,Häufig,OKACHEKE,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-220,220,Kranoviz,80,Farblos,Meikro,Rang 1,Ungewöhnlich,Naoyo Kimura,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-221,221,Wolly,60,Farblos,,Basis,Häufig,Miki Tanaka,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-222,222,Wolly,70,Farblos,,Basis,Häufig,Yukiko Baba,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-223,223,Zwollock,130,Farblos,Wolly,Rang 1,Ungewöhnlich,Shibuzoh.,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-224,224,Entdeckung der Abenteurerin,,,,,Ungewöhnlich,Taira Akitsu,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-225,225,VIP-Kampfpass,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-226,226,Käfersammler,,,,,Ungewöhnlich,Yuu Nishida,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-227,227,Maik & Benny & Colin,,,,,Ungewöhnlich,Yusuke Ohmura,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-228,228,Küchenchef,,,,,Ungewöhnlich,Sanosuke Sakuma,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-229,229,Urglmator,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-230,230,Cross-Tauscher,,,,,Ungewöhnlich,inose yukie,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-231,231,Cross-Transceiver,,,,,Ungewöhnlich,Studio Bora Inc.,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-232,232,Tänzerin,,,,,Ungewöhnlich,Sanosuke Sakuma,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-233,233,Kamillas Glanz,,,,,Ungewöhnlich,Yusuke Ohmura,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-234,234,Abschiedsglocke,,,,,Ungewöhnlich,AYUMI ODASHIMA,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-235,235,Richter,,,,,Ungewöhnlich,Ryuta Fuse,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-236,236,Power-Tablette,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-237,237,Flottball,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-238,238,Schüler,,,,,Ungewöhnlich,kirisAki,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-239,239,Schülerin,,,,,Ungewöhnlich,kirisAki,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-240,240,Sannah,,,,,Ungewöhnlich,Yuu Nishida,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-241,241,Ulrich,,,,,Ungewöhnlich,Hideki Ishikawa,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-242,242,Skatepark,,,,,Ungewöhnlich,Oswaldo KATO,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-243,243,Schwammhandschuhe,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-244,244,Fusionsangriff-Energie,,,,,Ungewöhnlich,,"normal, reverse",Fusions Angriff,Schwert & Schild,284
+swsh8-245,245,Celebi V,190,Pflanze,,Basis,Ultra Selten,Teeziro,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-246,246,Fruyal V,200,Pflanze,,Basis,Ultra Selten,PLANETA Mochizuki,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-247,247,Skelabra V,200,Feuer,,Basis,Ultra Selten,Saki Hayashiro,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-248,248,Krawell V,220,Wasser,,Basis,Ultra Selten,MUGENUP,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-249,249,Bellektro V,200,Elektro,,Basis,Ultra Selten,Eske Yoshinob,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-250,250,Mew V,180,Psycho,,Basis,Ultra Selten,aky CG Works,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-251,251,Mew V,180,Psycho,,Basis,Ultra Selten,Naoki Saito,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-252,252,Sanaconda V,220,Kampf,,Basis,Ultra Selten,Narumi Sato,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-253,253,Hoopa V,220,Unlicht,,Basis,Ultra Selten,takuyoa,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-254,254,Genesect V,190,Metall,,Basis,Ultra Selten,PLANETA Tsuji,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-255,255,Genesect V,190,Metall,,Basis,Ultra Selten,Akira Komayama,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-256,256,Schlaraffel V,210,Farblos,,Basis,Ultra Selten,PLANETA Mochizuki,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-257,257,Schlaraffel V,210,Farblos,,Basis,Ultra Selten,Saya Tsuruta,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-258,258,Maik & Benny & Colin,,,,,Ultra Selten,Sanosuke Sakuma,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-259,259,Tänzerin,,,,,Ultra Selten,Yuu Nishida,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-260,260,Kamillas Glanz,,,,,Ultra Selten,Ryuta Fuse,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-261,261,Schüler,,,,,Ultra Selten,Hideki Ishikawa,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-262,262,Schülerin,,,,,Ultra Selten,Hideki Ishikawa,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-263,263,Sannah,,,,,Ultra Selten,Yuu Nishida,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-264,264,Ulrich,,,,,Ultra Selten,Hideki Ishikawa,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-265,265,Skelabra VMAX,320,Feuer,Skelabra-V,VMAX,Versteckt Selten,AKIRA EGAWA,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-266,266,Intelleon VMAX,320,Wasser,Intelleon-V,VMAX,Versteckt Selten,Kazuma Koda,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-267,267,Bellektro VMAX,320,Elektro,Bellektro-V,VMAX,Versteckt Selten,PLANETA Tsuji,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-268,268,Mew VMAX,310,Psycho,Mew-V,VMAX,Versteckt Selten,5ban Graphics,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-269,269,Mew VMAX,310,Psycho,Mew-V,VMAX,Versteckt Selten,AKIRA EGAWA,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-270,270,Psiana VMAX,310,Psycho,Psiana-V,VMAX,Versteckt Selten,Kouki Saitou,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-271,271,Gengar VMAX,320,Unlicht,Gengar-V,VMAX,Versteckt Selten,sowsow,holo,Fusions Angriff,Schwert & Schild,284
+swsh8-272,272,Schlaraffel VMAX,320,Farblos,Schlaraffel-V,VMAX,Versteckt Selten,PLANETA Mochizuki,"normal, reverse, holo",Fusions Angriff,Schwert & Schild,284
+swsh8-273,273,Maik & Benny & Colin,,,,,Versteckt Selten,Sanosuke Sakuma,"normal, reverse, holo",Fusions Angriff,Schwert & Schild,284
+swsh8-274,274,Tänzerin,,,,,Versteckt Selten,Yuu Nishida,"normal, reverse, holo",Fusions Angriff,Schwert & Schild,284
+swsh8-275,275,Kamillas Glanz,,,,,Versteckt Selten,Ryuta Fuse,"normal, reverse, holo",Fusions Angriff,Schwert & Schild,284
+swsh8-276,276,Schüler,,,,,Versteckt Selten,Hideki Ishikawa,"normal, reverse, holo",Fusions Angriff,Schwert & Schild,284
+swsh8-277,277,Schülerin,,,,,Versteckt Selten,Hideki Ishikawa,"normal, reverse, holo",Fusions Angriff,Schwert & Schild,284
+swsh8-278,278,Sannah,,,,,Versteckt Selten,Yuu Nishida,"normal, reverse, holo",Fusions Angriff,Schwert & Schild,284
+swsh8-279,279,Ulrich,,,,,Versteckt Selten,Hideki Ishikawa,"normal, reverse, holo",Fusions Angriff,Schwert & Schild,284
+swsh8-280,280,Waaty,90,Elektro,Voltilamm,Rang 1,Versteckt Selten,Studio Bora Inc.,"normal, reverse, holo",Fusions Angriff,Schwert & Schild,284
+swsh8-281,281,Power-Tablette,,,,,Versteckt Selten,Toyste Beach,"normal, reverse, holo",Fusions Angriff,Schwert & Schild,284
+swsh8-282,282,Trainingsplatz,,,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Fusions Angriff,Schwert & Schild,284
+swsh8-283,283,Pflanze-Energie,,,,,Versteckt Selten,,"normal, reverse, holo",Fusions Angriff,Schwert & Schild,284
+swsh8-284,284,Feuer-Energie,,,,,Versteckt Selten,,"normal, reverse, holo",Fusions Angriff,Schwert & Schild,284

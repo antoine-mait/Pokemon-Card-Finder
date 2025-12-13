@@ -1,0 +1,197 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sm9-1,1,Celebi & Venusaur GX,270,Grass,,,Ultra Rare,Mitsuhiro Arita,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-2,2,Weedle,40,Grass,,Basic,Common,Shibuzoh.,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-3,3,Weedle,50,Grass,,Basic,Common,SATOSHI NAKAI,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-4,4,Kakuna,80,Grass,Weedle,Stage1,Uncommon,Yuka Morii,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-5,5,Beedrill,130,Grass,Kakuna,Stage2,Rare,You Iribi,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-6,6,Paras,70,Grass,,Basic,Common,Naoyo Kimura,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-7,7,Parasect,100,Grass,Paras,Stage1,Rare,Satoshi Shirai,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-8,8,Exeggcute,50,Grass,,Basic,Common,Ken Sugimori,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-9,9,Pinsir,120,Grass,,Basic,Rare,Eri Yamaki,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-10,10,Shaymin ◇,80,Grass,,Basic,Rare,kawayoo,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-11,11,Charmander,50,Fire,,Basic,Common,Naoyo Kimura,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-12,12,Charmander,70,Fire,,Basic,Common,Atsuko Nishida,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-13,13,Charmeleon,90,Fire,Charmander,Stage1,Uncommon,Ayaka Yoshida,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-14,14,Charizard,150,Fire,Charmeleon,Stage2,Rare,Masakazu Fukuda,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-15,15,Vulpix,60,Fire,,Basic,Common,Ken Sugimori,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-16,16,Ninetales,100,Fire,Vulpix,Stage1,Rare,You Iribi,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-17,17,Ponyta,70,Fire,,Basic,Common,Saya Tsuruta,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-18,18,Rapidash,100,Fire,Ponyta,Stage1,Uncommon,Shigenori Negishi,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-19,19,Moltres,120,Fire,,Basic,Rare,Shin Nagasawa,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-20,20,Litten,60,Fire,,Basic,Common,sui,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-21,21,Torracat,90,Fire,Litten,Stage1,Uncommon,Sanosuke Sakuma,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-22,22,Squirtle,50,Water,,Basic,Common,sui,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-23,23,Squirtle,70,Water,,Basic,Common,HYOGONOSUKE,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-24,24,Wartortle,90,Water,Squirtle,Stage1,Uncommon,Misa Tsutsui,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-25,25,Blastoise,160,Water,Wartortle,Stage2,Rare,Hitoshi Ariga,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-26,26,Psyduck,60,Water,,Basic,Common,Kouki Saitou,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-27,27,Golduck,110,Water,Psyduck,Stage1,Uncommon,Masakazu Fukuda,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-28,28,Staryu,50,Water,,Basic,Common,Ken Sugimori,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-29,29,Magikarp,30,Water,,Basic,Common,sui,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-30,30,Gyarados,150,Water,Magikarp,Stage1,Rare,Hasuno,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-31,31,Lapras,130,Water,,Basic,Rare,Ken Sugimori,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-32,32,Articuno,110,Water,,Basic,Rare,Yusuke Ohmura,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-33,33,Pikachu & Zekrom GX,240,Lightning,,,Ultra Rare,Mitsuhiro Arita,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-34,34,Alolan Geodude,60,Lightning,,Basic,Common,Yukiko Baba,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-35,35,Alolan Geodude,70,Lightning,,Basic,Common,Yuka Morii,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-36,36,Alolan Graveler,100,Lightning,Alolan Geodude,Stage1,Uncommon,Misa Tsutsui,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-37,37,Alolan Golem,180,Lightning,Alolan Graveler,Stage2,Rare,kawayoo,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-38,38,Voltorb,50,Lightning,,Basic,Common,Ken Sugimori,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-39,39,Electrode,90,Lightning,Voltorb,Stage1,Rare,Asako Ito,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-40,40,Zapdos,110,Lightning,,Basic,Rare,kawayoo,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-41,41,Mareep,60,Lightning,,Basic,Common,Akira Komayama,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-42,42,Flaaffy,90,Lightning,Mareep,Stage1,Uncommon,Shibuzoh.,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-43,43,Ampharos GX,240,Lightning,Flaaffy,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-44,44,Blitzle,60,Lightning,,Basic,Common,Akira Komayama,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-45,45,Zebstrika,120,Lightning,Blitzle,Stage1,Rare,Shin Nagasawa,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-46,46,Emolga,60,Lightning,,Basic,Common,Megumi Mizutani,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-47,47,Joltik,40,Lightning,,Basic,Common,Yuka Morii,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-48,48,Galvantula,90,Lightning,Joltik,Stage1,Rare,SATOSHI NAKAI,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-49,49,Helioptile,60,Lightning,,Basic,Common,Ken Sugimori,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-50,50,Heliolisk,100,Lightning,Helioptile,Stage1,Uncommon,Sumiyoshi Kizuki,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-51,51,Tapu Koko ◇,130,Lightning,,Basic,Rare,Kouki Saitou,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-52,52,Zeraora,120,Lightning,,Basic,Rare,Kouki Saitou,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-53,53,Gengar & Mimikyu GX,240,Psychic,,,Ultra Rare,Mitsuhiro Arita,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-54,54,Nidoran♀,60,Psychic,,Basic,Common,miki kudo,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-55,55,Nidorina,90,Psychic,Nidoran♀,Stage1,Uncommon,Kagemaru Himeno,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-56,56,Nidoqueen,160,Psychic,Nidorina,Stage2,Rare,nagimiso,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-57,57,Nidoran♂,60,Psychic,,Basic,Common,Naoyo Kimura,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-58,58,Nidorino,90,Psychic,Nidoran♂,Stage1,Uncommon,Kouki Saitou,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-59,59,Nidoking,160,Psychic,Nidorino,Stage2,Rare,kawayoo,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-60,60,Tentacool,60,Psychic,,Basic,Common,Ken Sugimori,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-61,61,Tentacruel,100,Psychic,Tentacool,Stage1,Uncommon,kodama,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-62,62,Grimer,80,Psychic,,Basic,Common,Ken Sugimori,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-63,63,Muk,130,Psychic,Grimer,Stage1,Rare,Anesaki Dynamic,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-64,64,Alolan Marowak,120,Psychic,Cubone,Stage1,Rare,miki kudo,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-65,65,Starmie,80,Psychic,Staryu,Stage1,Rare,Mizue,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-66,66,Mr. Mime,80,Psychic,,Basic,Rare,Atsuko Nishida,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-67,67,Mr. Mime GX,150,Psychic,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-68,68,Jynx,90,Psychic,,Basic,Uncommon,HYOGONOSUKE,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-69,69,Cosmog,50,Psychic,,Basic,Common,sui,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-70,70,Cosmoem,100,Psychic,Cosmog,Stage1,Uncommon,Kouki Saitou,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-71,71,Mankey,50,Fighting,,Basic,Common,Akira Komayama,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-72,72,Primeape,90,Fighting,Mankey,Stage1,Rare,Anesaki Dynamic,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-73,73,Hitmonlee,100,Fighting,,Basic,Uncommon,Tomokazu Komiya,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-74,74,Hitmonchan,90,Fighting,,Basic,Uncommon,Tomokazu Komiya,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-75,75,Omanyte,90,Fighting,Unidentified Fossil,Stage1,Uncommon,Midori Harada,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-76,76,Omastar,130,Fighting,Omanyte,Stage2,Rare,kirisAki,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-77,77,Kabuto,90,Fighting,Unidentified Fossil,Stage1,Uncommon,sui,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-78,78,Kabutops,140,Fighting,Kabuto,Stage2,Rare,Shin Nagasawa,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-79,79,Larvitar,70,Fighting,,Basic,Common,Ken Sugimori,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-80,80,Pupitar,80,Fighting,Larvitar,Stage1,Uncommon,Anesaki Dynamic,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-81,81,Pancham,60,Fighting,,Basic,Common,Yuka Morii,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-82,82,Lycanroc GX,200,Fighting,Rockruff,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-83,83,Alolan Grimer,70,Darkness,,Basic,Common,SATOSHI NAKAI,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-84,84,Alolan Muk,120,Darkness,Alolan Grimer,Stage1,Rare,Midori Harada,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-85,85,Tyranitar,170,Darkness,Pupitar,Stage2,Rare,Hasuno,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-86,86,Poochyena,70,Darkness,,Basic,Common,Ken Sugimori,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-87,87,Mightyena,100,Darkness,Poochyena,Stage1,Rare,kirisAki,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-88,88,Absol,100,Darkness,,Basic,Rare,nagimiso,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-89,89,Spiritomb,70,Darkness,,Basic,Uncommon,HYOGONOSUKE,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-90,90,Zorua,60,Darkness,,Basic,Common,Naoyo Kimura,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-91,91,Zoroark,110,Darkness,Zorua,Stage1,Rare,Masakazu Fukuda,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-92,92,Vullaby,60,Darkness,,Basic,Common,Eri Yamaki,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-93,93,Mandibuzz,120,Darkness,Vullaby,Stage1,Rare,Ayaka Yoshida,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-94,94,Pangoro,140,Darkness,Pancham,Stage1,Rare,Satoshi Shirai,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-95,95,Yveltal,110,Darkness,,Basic,Rare,Misa Tsutsui,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-96,96,Hoopa GX,190,Darkness,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-97,97,Incineroar GX,250,Darkness,Torracat,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-98,98,Skarmory,110,Metal,,Basic,Rare,kirisAki,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-99,99,Jirachi,70,Metal,,Basic,Rare,HYOGONOSUKE,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-100,100,Bronzor,50,Metal,,Basic,Common,Ken Sugimori,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-101,101,Bronzong,130,Metal,Bronzor,Stage1,Rare,Misa Tsutsui,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-102,102,Ferroseed,60,Metal,,Basic,Common,Shigenori Negishi,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-103,103,Ferrothorn,120,Metal,Ferroseed,Stage1,Rare,Hasuno,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-104,104,Pawniard,60,Metal,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-105,105,Bisharp,110,Metal,Pawniard,Stage1,Rare,Anesaki Dynamic,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-106,106,Cobalion GX,170,Metal,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-107,107,Honedge,60,Metal,,Basic,Common,sui,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-108,108,Doublade,90,Metal,Honedge,Stage1,Uncommon,Shin Nagasawa,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-109,109,Aegislash,140,Metal,Doublade,Stage2,Rare,Kagemaru Himeno,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-110,110,Klefki,60,Metal,,Basic,Common,Shigenori Negishi,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-111,111,Alolan Ninetales,110,Fairy,Alolan Vulpix,Stage1,Rare,Misa Tsutsui,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-112,112,Mimikyu,70,Fairy,,Basic,Rare,Eri Yamaki,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-113,113,Latias & Latios GX,250,Dragon,,,Ultra Rare,Mitsuhiro Arita,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-114,114,Alolan Exeggutor,160,Dragon,Exeggcute,Stage1,Rare,Anesaki Dynamic,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-115,115,Alolan Exeggutor,160,Dragon,Exeggcute,Stage1,Rare,Sanosuke Sakuma,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-116,116,Dratini,60,Dragon,,Basic,Common,Midori Harada,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-117,117,Dratini,70,Dragon,,Basic,Common,Kouki Saitou,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-118,118,Dragonair,90,Dragon,Dratini,Stage1,Uncommon,kirisAki,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-119,119,Dragonite,160,Dragon,Dragonair,Stage2,Rare,Megumi Mizutani,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-120,120,Eevee & Snorlax GX,270,Colorless,,,Ultra Rare,Mitsuhiro Arita,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-121,121,Pidgey,50,Colorless,,Basic,Common,Shigenori Negishi,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-122,122,Pidgey,60,Colorless,,Basic,Common,Sumiyoshi Kizuki,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-123,123,Pidgeotto,60,Colorless,Pidgey,Stage1,Common,Mizue,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-124,124,Pidgeot,130,Colorless,Pidgeotto,Stage2,Rare,Akira Komayama,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-125,125,Meowth,70,Colorless,,Basic,Common,Ken Sugimori,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-126,126,Persian,100,Colorless,Meowth,Stage1,Uncommon,Yukiko Baba,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-127,127,Farfetch’d,80,Colorless,,Basic,Uncommon,Shibuzoh.,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-128,128,Kangaskhan,130,Colorless,,Basic,Uncommon,Mizue,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-129,129,Tauros,130,Colorless,,Basic,Uncommon,kodama,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-130,130,Aerodactyl,130,Colorless,Unidentified Fossil,Stage1,Rare,hatachu,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-131,131,Lugia,130,Colorless,,Basic,Rare,Anesaki Dynamic,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-132,132,Zangoose,100,Colorless,,Basic,Rare,Misa Tsutsui,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-133,133,Bill’s Analysis,,,,,Rare,Naoki Saito,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-134,134,Black Market ◇,,,,,Rare,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-135,135,Brock’s Grit,,,,,Uncommon,Naoki Saito,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-136,136,Buff Padding,,,,,Uncommon,Yoshinobu Saito,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-137,137,Dana,,,,,Uncommon,Megumi Mizutani,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-138,138,Dangerous Drill,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-139,139,Electrocharger,,,,,Uncommon,Eske Yoshinob,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-140,140,Erika’s Hospitality,,,,,Rare,Sanosuke Sakuma,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-141,141,Evelyn,,,,,Uncommon,Megumi Mizutani,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-142,142,Fairy Charm UB,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-143,143,Grass Memory,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-144,144,Ingo & Emmet,,,,,Uncommon,Yusuke Ohmura,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-145,145,Jasmine,,,,,Uncommon,Ken Sugimori,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-146,146,Judge Whistle,,,,,Uncommon,Ayaka Yoshida,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-147,147,Lavender Town,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-148,148,Metal Goggles,,,,,Uncommon,Yoshinobu Saito,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-149,149,Morgan,,,,,Uncommon,Megumi Mizutani,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-150,150,Nanu,,,,,Uncommon,Ken Sugimori,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-151,151,Nita,,,,,Uncommon,Megumi Mizutani,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-152,152,Pokémon Communication,,,,,Uncommon,Ayaka Yoshida,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-153,153,Return Label,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-154,154,Sabrina’s Suggestion,,,,,Uncommon,Hitoshi Ariga,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-155,155,Unidentified Fossil,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-156,156,Viridian Forest,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-157,157,Water Memory,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-158,158,Wondrous Labyrinth ◇,,,,,Rare,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-159,159,Celebi & Venusaur GX,270,Grass,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-160,160,Magikarp & Wailord GX,300,Water,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-161,161,Magikarp & Wailord GX,300,Water,,,Ultra Rare,OOYAMA,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-162,162,Pikachu & Zekrom GX,240,Lightning,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-163,163,Ampharos GX,240,Lightning,Flaaffy,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-164,164,Gengar & Mimikyu GX,240,Psychic,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-165,165,Gengar & Mimikyu GX,240,Psychic,,,Ultra Rare,Midori Harada,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-166,166,Hoopa GX,190,Darkness,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-167,167,Incineroar GX,250,Darkness,Torracat,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-168,168,Cobalion GX,170,Metal,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-169,169,Latias & Latios GX,250,Dragon,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-170,170,Latias & Latios GX,250,Dragon,,,Ultra Rare,Sanosuke Sakuma,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-171,171,Eevee & Snorlax GX,270,Colorless,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-172,172,Brock’s Grit,,,,,Ultra Rare,Naoki Saito,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-173,173,Dana,,,,,Ultra Rare,Kagemaru Himeno,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-174,174,Erika’s Hospitality,,,,,Ultra Rare,Sanosuke Sakuma,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-175,175,Evelyn,,,,,Ultra Rare,Kagemaru Himeno,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-176,176,Ingo & Emmet,,,,,Ultra Rare,Megumi Mizutani,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-177,177,Jasmine,,,,,Ultra Rare,Hideki Ishikawa,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-178,178,Morgan,,,,,Ultra Rare,Kagemaru Himeno,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-179,179,Nanu,,,,,Ultra Rare,Hitoshi Ariga,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-180,180,Nita,,,,,Ultra Rare,Kagemaru Himeno,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-181,181,Sabrina’s Suggestion,,,,,Ultra Rare,Hitoshi Ariga,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-182,182,Celebi & Venusaur GX,270,Grass,,,Secret Rare,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-183,183,Magikarp & Wailord GX,300,Water,,,Secret Rare,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-184,184,Pikachu & Zekrom GX,240,Lightning,,,Secret Rare,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-185,185,Ampharos GX,240,Lightning,Flaaffy,,Secret Rare,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-186,186,Gengar & Mimikyu GX,240,Psychic,,,Secret Rare,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-187,187,Hoopa GX,190,Darkness,,,Secret Rare,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-188,188,Incineroar GX,250,Darkness,Torracat,,Secret Rare,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-189,189,Cobalion GX,170,Metal,,,Secret Rare,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-190,190,Latias & Latios GX,250,Dragon,,,Secret Rare,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-191,191,Eevee & Snorlax GX,270,Colorless,,,Secret Rare,5ban Graphics,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-192,192,Dangerous Drill,,,,,Secret Rare,Toyste Beach,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-193,193,Electrocharger,,,,,Secret Rare,Eske Yoshinob,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-194,194,Judge Whistle,,,,,Secret Rare,Ayaka Yoshida,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-195,195,Metal Goggles,,,,,Secret Rare,Yoshinobu Saito,"normal, reverse, holo",Team Up,Sun & Moon,196
+sm9-196,196,Pokémon Communication,,,,,Secret Rare,Ayaka Yoshida,"normal, reverse, holo",Team Up,Sun & Moon,196

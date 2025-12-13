@@ -1,0 +1,112 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+pl4-1,1,Glurak,,Feuer,,Rang 2,"Selten, Holografisch",Kagemaru Himeno,"reverse, holo",Arceus,Platin,111
+pl4-2,2,Frosdedje,,Wasser,,Rang 1,"Selten, Holografisch",TOKIYA,"reverse, holo",Arceus,Platin,111
+pl4-3,3,Heatran,,Feuer,,Basis,"Selten, Holografisch",Keiko Moritsugu,"reverse, holo",Arceus,Platin,111
+pl4-4,4,Kabutops,,Kampf,,Rang 2,"Selten, Holografisch",Hajime Kusajima,"reverse, holo",Arceus,Platin,111
+pl4-5,5,Luxtra,120,Elektro,,Rang 2,"Selten, Holografisch",kawayoo,"normal, reverse, holo",Arceus,Platin,111
+pl4-6,6,Moterpel,90,Pflanze,,Rang 1,"Selten, Holografisch",Kagemaru Himeno,"reverse, holo",Arceus,Platin,111
+pl4-7,7,Voluminas,,Metall,,Rang 1,"Selten, Holografisch",Kouki Saitou,"reverse, holo",Arceus,Platin,111
+pl4-8,8,Brutalanda,,Farblos,,Rang 2,"Selten, Holografisch",Shin Nagasawa,"reverse, holo",Arceus,Platin,111
+pl4-9,9,Schlukwech,,Psycho,,Rang 1,"Selten, Holografisch",Aya Kusube,"normal, reverse, holo",Arceus,Platin,111
+pl4-10,10,Tangoloss,,Pflanze,,Rang 1,"Selten, Holografisch",Masakazu Fukuda,"normal, reverse, holo",Arceus,Platin,111
+pl4-11,11,Toxiquak,,Kampf,,Rang 1,"Selten, Holografisch",Kouki Saitou,"reverse, holo",Arceus,Platin,111
+pl4-12,12,Zapdos G,,Elektro,,Basis,"Selten, Holografisch",Ryota Saito,"reverse, holo",Arceus,Platin,111
+pl4-13,13,Aerodactyl,,Kampf,,Rang 1,Selten,Masakazu Fukuda,"normal, reverse",Arceus,Platin,111
+pl4-14,14,Bronzong,,Metall,,Rang 1,Selten,Atsuko Nishida,"normal, reverse",Arceus,Platin,111
+pl4-15,15,Kinoso,,Pflanze,,Rang 1,Selten,Midori Harada,"normal, reverse",Arceus,Platin,111
+pl4-16,16,Gengar,110,Psycho,,Rang 2,Selten,Midori Harada,"normal, reverse",Arceus,Platin,111
+pl4-17,17,Gengar,120,Psycho,,Rang 2,Selten,Mitsuhiro Arita,"normal, reverse",Arceus,Platin,111
+pl4-18,18,Firnontor,,Wasser,,Rang 1,Selten,Hiroki Fuchino,"normal, reverse",Arceus,Platin,111
+pl4-19,19,Geowaz,,Kampf,,Rang 2,Selten,Masakazu Fukuda,"normal, reverse",Arceus,Platin,111
+pl4-20,20,Hariyama,,Kampf,,Rang 1,Selten,Midori Harada,"normal, reverse",Arceus,Platin,111
+pl4-21,21,Schlapor,,Farblos,,Rang 1,Selten,Kyoko Umemoto,"normal, reverse",Arceus,Platin,111
+pl4-22,22,Voltenso,,Elektro,,Rang 1,Selten,Mana Ibe,"normal, reverse",Arceus,Platin,111
+pl4-23,23,Amoroso,,Wasser,,Rang 2,Selten,Hajime Kusajima,"normal, reverse",Arceus,Platin,111
+pl4-24,24,Pelipper,,Wasser,,Rang 1,Selten,Miki Tanaka,"normal, reverse",Arceus,Platin,111
+pl4-25,25,Pichu,,Elektro,,Basis,Selten,Kanako Eo,"normal, reverse",Arceus,Platin,111
+pl4-26,26,Porygon-Z G,,Farblos,,Basis,Selten,Nobuyuki Fujimoto,"normal, reverse",Arceus,Platin,111
+pl4-27,27,Raichu,,Elektro,,Rang 1,Selten,Suwama Chiaki,"normal, reverse",Arceus,Platin,111
+pl4-28,28,Gallopa,,Feuer,,Rang 1,Selten,Lee HyunJung,"normal, reverse",Arceus,Platin,111
+pl4-29,29,Rattikarl,,Farblos,,Rang 1,Selten,Masakazu Fukuda,"normal, reverse",Arceus,Platin,111
+pl4-30,30,Gewaldro,,Pflanze,,Rang 2,Selten,Reiko Tanoue,"normal, reverse",Arceus,Platin,111
+pl4-31,31,Gewaldro,,Pflanze,,Rang 2,Selten,Kouki Saitou,"normal, reverse",Arceus,Platin,111
+pl4-32,32,Kryppuk,,Unlicht,,Basis,Selten,Aya Kusube,"normal, reverse",Arceus,Platin,111
+pl4-33,33,Bronzong,,Metall,,Rang 1,Ungewöhnlich,Masakazu Fukuda,"normal, reverse",Arceus,Platin,111
+pl4-34,34,Bronzel,,Metall,,Basis,Ungewöhnlich,kawayoo,"normal, reverse",Arceus,Platin,111
+pl4-35,35,Glutexo,,Feuer,,Rang 1,Ungewöhnlich,Sumiyoshi Kizuki,"normal, reverse",Arceus,Platin,111
+pl4-36,36,Nebulak,,Psycho,,Basis,Ungewöhnlich,kawayoo,"normal, reverse",Arceus,Platin,111
+pl4-37,37,Georok,,Kampf,,Rang 1,Ungewöhnlich,Sachiko Adachi,"normal, reverse",Arceus,Platin,111
+pl4-38,38,Reptain,,Pflanze,,Rang 1,Ungewöhnlich,Tomoaki Imakuni,"normal, reverse",Arceus,Platin,111
+pl4-39,39,Reptain,,Pflanze,,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse",Arceus,Platin,111
+pl4-40,40,Schluppuck,,Psycho,,Basis,Ungewöhnlich,Sachiko Adachi,"normal, reverse",Arceus,Platin,111
+pl4-41,41,Alpollo,,Psycho,,Rang 1,Ungewöhnlich,Tomokazu Komiya,"normal, reverse",Arceus,Platin,111
+pl4-42,42,Alpollo,,Psycho,,Rang 1,Ungewöhnlich,Mitsuhiro Arita,"normal, reverse",Arceus,Platin,111
+pl4-43,43,Luxio,,Elektro,,Rang 1,Ungewöhnlich,Suwama Chiaki,"normal, reverse",Arceus,Platin,111
+pl4-44,44,Voltenso,90,Elektro,,Rang 1,Ungewöhnlich,Shin Nagasawa,"normal, reverse",Arceus,Platin,111
+pl4-45,45,Pelipper,,Wasser,,Rang 1,Ungewöhnlich,Naoyo Kimura,"normal, reverse",Arceus,Platin,111
+pl4-46,46,Ponita,,Feuer,,Basis,Ungewöhnlich,Kanako Eo,"normal, reverse",Arceus,Platin,111
+pl4-47,47,Gallopa,90,Feuer,,Rang 1,Ungewöhnlich,Midori Harada,"normal, reverse",Arceus,Platin,111
+pl4-48,48,Draschel,,Farblos,,Rang 1,Ungewöhnlich,Atsuko Nishida,"normal, reverse",Arceus,Platin,111
+pl4-49,49,Burmadame Pflanzenumhang,,Pflanze,,Rang 1,Ungewöhnlich,Kouki Saitou,"normal, reverse",Arceus,Platin,111
+pl4-50,50,Burmadame Sandumhang,,Kampf,,Rang 1,Ungewöhnlich,Atsuko Nishida,"normal, reverse",Arceus,Platin,111
+pl4-51,51,Burmadame Lumpenumhang,,Metall,,Rang 1,Ungewöhnlich,Miki Tanaka,"normal, reverse",Arceus,Platin,111
+pl4-52,52,Kindwurm,,Farblos,,Basis,Häufig,Naoyo Kimura,"normal, reverse",Arceus,Platin,111
+pl4-53,53,Bibor G,,Pflanze,,Basis,Häufig,Wataru Kawahara,"normal, reverse",Arceus,Platin,111
+pl4-54,54,Bronzel,,Metall,,Basis,Häufig,Masakazu Fukuda,"normal, reverse",Arceus,Platin,111
+pl4-55,55,Haspiror,,Farblos,,Basis,Häufig,sui,"normal, reverse",Arceus,Platin,111
+pl4-56,56,Burmy Pflanzenumhang,,Pflanze,,Basis,Häufig,Kyoko Umemoto,"normal, reverse",Arceus,Platin,111
+pl4-57,57,Burmy Sandumhang,,Pflanze,,Basis,Häufig,Tomokazu Komiya,"normal, reverse",Arceus,Platin,111
+pl4-58,58,Burmy Lumpenumhang,,Pflanze,,Basis,Häufig,Yukiko Baba,"normal, reverse",Arceus,Platin,111
+pl4-59,59,Glumanda,,Feuer,,Basis,Häufig,Suwama Chiaki,"normal, reverse",Arceus,Platin,111
+pl4-60,60,Kikugi,,Pflanze,,Basis,Häufig,Yuka Morii,"normal, reverse",Arceus,Platin,111
+pl4-61,61,Glibunkel,,Kampf,,Basis,Häufig,Tomokazu Komiya,"normal, reverse",Arceus,Platin,111
+pl4-62,62,Frizelbliz,,Elektro,,Basis,Häufig,Yukiko Baba,"normal, reverse",Arceus,Platin,111
+pl4-63,63,Frizelbliz,,Elektro,,Basis,Häufig,Shin Nagasawa,"normal, reverse",Arceus,Platin,111
+pl4-64,64,Nebulak,,Psycho,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse",Arceus,Platin,111
+pl4-65,65,Kleinstein,,Kampf,,Basis,Häufig,Motofumi Fujiwara,"normal, reverse",Arceus,Platin,111
+pl4-66,66,Schluppuck,,Psycho,,Basis,Häufig,Sumiyoshi Kizuki,"normal, reverse",Arceus,Platin,111
+pl4-67,67,Kabuto,,Kampf,,Rang 1,Häufig,Hironobu Yoshida,"normal, reverse",Arceus,Platin,111
+pl4-68,68,Makuhita,,Kampf,,Basis,Häufig,sui,"normal, reverse",Arceus,Platin,111
+pl4-69,69,Nasgnet,,Kampf,,Basis,Häufig,Midori Harada,"normal, reverse",Arceus,Platin,111
+pl4-70,70,Amonitas,,Wasser,,Rang 1,Häufig,Aya Kusube,"normal, reverse",Arceus,Platin,111
+pl4-71,71,Pikachu,,Elektro,,Basis,Häufig,sui,"normal, reverse",Arceus,Platin,111
+pl4-72,72,Ponita,,Feuer,,Basis,Häufig,Midori Harada,"normal, reverse",Arceus,Platin,111
+pl4-73,73,Rattfratz,30,Farblos,,Basis,Häufig,Miki Tanaka,"normal, reverse",Arceus,Platin,111
+pl4-74,74,Sheinux,,Elektro,,Basis,Häufig,sui,"normal, reverse",Arceus,Platin,111
+pl4-75,75,Schneppke,,Wasser,,Basis,Häufig,Yuka Morii,"normal, reverse",Arceus,Platin,111
+pl4-76,76,Tangela,,Pflanze,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse",Arceus,Platin,111
+pl4-77,77,Tangela,,Pflanze,,Basis,Häufig,Kagemaru Himeno,"normal, reverse",Arceus,Platin,111
+pl4-78,78,Geckarbor,,Pflanze,,Basis,Häufig,TOKIYA,"normal, reverse",Arceus,Platin,111
+pl4-79,79,Geckarbor,,Pflanze,,Basis,Häufig,Kouki Saitou,"normal, reverse",Arceus,Platin,111
+pl4-80,80,Wingull,,Wasser,,Basis,Häufig,Kyoko Umemoto,"normal, reverse",Arceus,Platin,111
+pl4-81,81,Wingull,,Wasser,,Basis,Häufig,Naoyo Kimura,"normal, reverse",Arceus,Platin,111
+pl4-82,82,Tor des Ursprungs,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Arceus,Platin,111
+pl4-83,83,Bank-Schutzschild,,,,,Ungewöhnlich,Wataru Kawahara,"normal, reverse",Arceus,Platin,111
+pl4-84,84,Dämpfender Talisman,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Arceus,Platin,111
+pl4-85,85,Kaufhausmädchen,,,,,Ungewöhnlich,Kanako Eo,"normal, reverse",Arceus,Platin,111
+pl4-86,86,Energiewiederherstellung,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Arceus,Platin,111
+pl4-87,87,Expertengurt,,,,,Ungewöhnlich,Wataru Kawahara,"normal, reverse",Arceus,Platin,111
+pl4-88,88,Glücks-Ei,,,,,Ungewöhnlich,Nobuyuki Fujimoto,"normal, reverse",Arceus,Platin,111
+pl4-89,89,Altbernstein,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse",Arceus,Platin,111
+pl4-90,90,Professor Eichs Besuch,,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse",Arceus,Platin,111
+pl4-91,91,Ultimativ-Zone,,,,,Ungewöhnlich,Yusuke Ishikawa,"normal, reverse",Arceus,Platin,111
+pl4-92,92,Domfossil,,,,,Häufig,Ryo Ueda,"normal, reverse",Arceus,Platin,111
+pl4-93,93,Helixfossil,,,,,Häufig,Ryo Ueda,"normal, reverse",Arceus,Platin,111
+pl4-94,94,Arceus,,Farblos,,Level Up,"Selten, Holografisch LV.X",Shizurow,holo,Arceus,Platin,111
+pl4-95,95,Arceus,,Farblos,,Level Up,"Selten, Holografisch LV.X",Ryo Ueda,holo,Arceus,Platin,111
+pl4-96,96,Arceus,,Farblos,,Level Up,"Selten, Holografisch LV.X",Ryo Ueda,holo,Arceus,Platin,111
+pl4-97,97,Gengar,,Psycho,,Level Up,"Selten, Holografisch LV.X",Shizurow,holo,Arceus,Platin,111
+pl4-98,98,Brutalanda,,Farblos,,Level Up,"Selten, Holografisch LV.X",Ryo Ueda,holo,Arceus,Platin,111
+pl4-99,99,Tangoloss,,Pflanze,,Level Up,"Selten, Holografisch LV.X",Ryo Ueda,holo,Arceus,Platin,111
+pl4-AR1,AR1,Arceus,,Unlicht,,Basis,Selten,kawayoo,holo,Arceus,Platin,111
+pl4-AR2,AR2,Arceus,90,Pflanze,,Basis,Selten,Shin Nagasawa,holo,Arceus,Platin,111
+pl4-AR3,AR3,Arceus,80,Feuer,,Basis,Selten,Wataru Kawahara,holo,Arceus,Platin,111
+pl4-AR4,AR4,Arceus,90,Wasser,,Basis,Selten,Kouki Saitou,holo,Arceus,Platin,111
+pl4-AR5,AR5,Arceus,80,Farblos,,Basis,Selten,Mitsuhiro Arita,holo,Arceus,Platin,111
+pl4-AR6,AR6,Arceus,70,Elektro,,Basis,Selten,Wataru Kawahara,holo,Arceus,Platin,111
+pl4-AR7,AR7,Arceus,80,Psycho,,Basis,Selten,Kagemaru Himeno,holo,Arceus,Platin,111
+pl4-AR8,AR8,Arceus,80,Kampf,,Basis,Selten,Hajime Kusajima,holo,Arceus,Platin,111
+pl4-AR9,AR9,Arceus,90,Metall,,Basis,Selten,TOKIYA,holo,Arceus,Platin,111
+pl4-SH10,SH10,Kindwurm,,Farblos,,Basis,Selten,Naoyo Kimura,reverse,Arceus,Platin,111
+pl4-SH11,SH11,Ponita,,Feuer,,Basis,Selten,Kanako Eo,reverse,Arceus,Platin,111
+pl4-SH12,SH12,Sheinux,,Elektro,,Basis,Selten,sui,reverse,Arceus,Platin,111

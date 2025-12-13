@@ -1,0 +1,164 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sm1-1,1,Chenipan,50,Plante,,De base,Commune,Kanako Eo,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-2,2,Chrysacier,80,Plante,Chenipan,Niveau 1,Peu Commune,Yuka Morii,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-3,3,Papilusion,130,Plante,Chrysacier,Niveau 2,Rare,chibi,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-4,4,Paras,60,Plante,,De base,Commune,Ayaka Yoshida,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-5,5,Parasect,110,Plante,Paras,Niveau 1,Rare,Eri Yamaki,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-6,6,Scarabrute,110,Plante,,De base,Peu Commune,DemizuPosuka,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-7,7,Arakdo,50,Plante,,De base,Commune,Kyoko Umemoto,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-8,8,Maskadra,90,Plante,Arakdo,Niveau 1,Rare,miki kudo,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-9,9,Brindibou,60,Plante,,De base,Commune,Megumi Mizutani,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-10,10,Efflèche,80,Plante,Brindibou,Niveau 1,Peu Commune,Mizue,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-11,11,Archéduc,140,Plante,Efflèche,Niveau 2,Rare,Kouki Saitou,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-12,12,Archéduc GX,240,Plante,Efflèche,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-13,13,Larvibule,70,Plante,,De base,Commune,Akira Komayama,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-14,14,Mimantis,60,Plante,,De base,Commune,Kagemaru Himeno,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-15,15,Floramantis GX,210,Plante,Mimantis,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-16,16,Spododo,60,Plante,,De base,Commune,Saya Tsuruta,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-17,17,Lampignon,100,Plante,Spododo,Niveau 1,Rare,Mizue,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-18,18,Croquine,60,Plante,,De base,Commune,Akira Komayama,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-19,19,Candine,90,Plante,Croquine,Niveau 1,Peu Commune,Mizue,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-20,20,Sucreine,140,Plante,Candine,Niveau 2,Rare,Shin Nagasawa,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-21,21,Caninos,80,Feu,,De base,Commune,MAHOU,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-22,22,Arcanin,130,Feu,Caninos,Niveau 1,Rare,kodama,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-23,23,Chartor,110,Feu,,De base,Commune,sui,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-24,24,Flamiaou,70,Feu,,De base,Commune,Akira Komayama,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-25,25,Matoufeu,90,Feu,Flamiaou,Niveau 1,Peu Commune,TOKIYA,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-26,26,Félinferno,160,Feu,Matoufeu,Niveau 2,Rare,Hitoshi Ariga,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-27,27,Félinferno GX,250,Feu,Matoufeu,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-28,28,Psykokwak,70,Eau,,De base,Commune,Shibuzoh.,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-29,29,Akwakwak,90,Eau,Psykokwak,Niveau 1,Rare,Hasuno,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-30,30,Ptitard,60,Eau,,De base,Commune,Asako Ito,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-31,31,Têtarte,90,Eau,Ptitard,Niveau 1,Peu Commune,Atsuko Nishida,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-32,32,Tartard,150,Eau,Têtarte,Niveau 2,Rare,Midori Harada,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-33,33,Kokiyas,60,Eau,,De base,Commune,Midori Harada,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-34,34,Crustabri,120,Eau,Kokiyas,Niveau 1,Rare,Yoshinobu Saito,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-35,35,Lokhlass GX,190,Eau,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-36,36,Corayon,80,Eau,,De base,Peu Commune,Satoshi Shirai,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-37,37,Goélise,60,Eau,,De base,Commune,Aya Kusube,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-38,38,Bekipan,100,Eau,Goélise,Niveau 1,Peu Commune,Sumiyoshi Kizuki,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-39,39,Otaquin,70,Eau,,De base,Commune,Kouki Saitou,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-40,40,Otarlette,90,Eau,Otaquin,Niveau 1,Peu Commune,Saya Tsuruta,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-41,41,Oratoria,150,Eau,Otarlette,Niveau 2,Rare,Kagemaru Himeno,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-42,42,Oratoria GX,250,Eau,Otarlette,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-43,43,Crabominable,140,Eau,Crabagarre,Niveau 1,Rare,TOKIYA,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-44,44,Froussardine,30,Eau,,De base,Peu Commune,Mitsuhiro Arita,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-45,45,Araqua,60,Eau,,De base,Commune,Kagemaru Himeno,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-46,46,Tarenbulle,100,Eau,Araqua,Niveau 1,Peu Commune,match,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-47,47,Concombaffe,60,Eau,,De base,Peu Commune,You Iribi,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-48,48,Denticrisse,110,Eau,,De base,Rare,Mizue,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-49,49,Loupio,70,Électrique,,De base,Commune,Ayaka Yoshida,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-50,50,Lanturn,110,Électrique,Loupio,Niveau 1,Rare,Masakazu Fukuda,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-51,51,Chrysapile,90,Électrique,Larvibule,Niveau 1,Peu Commune,Naoki Saito,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-52,52,Lucanon,150,Électrique,Chrysapile,Niveau 2,Rare,Hitoshi Ariga,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-53,53,Togedemaru,70,Électrique,,De base,Commune,Megumi Mizutani,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-54,54,Nosferapti,50,Psy,,De base,Commune,Satoshi Shirai,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-55,55,Nosferalto,80,Psy,Nosferapti,Niveau 1,Peu Commune,Masakazu Fukuda,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-56,56,Nostenfer,130,Psy,Nosferalto,Niveau 2,Rare,DemizuPosuka,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-57,57,Tadmorv d’Alola,80,Psy,,De base,Commune,Naoki Saito,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-58,58,Grotadmorv d’Alola,120,Psy,Tadmorv d’Alola,Niveau 1,Rare,Hitoshi Ariga,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-59,59,Soporifik,70,Psy,,De base,Commune,Suwama Chiaki,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-60,60,Hypnomade,110,Psy,Soporifik,Niveau 1,Peu Commune,OOYAMA,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-61,61,Mentali GX,200,Psy,Évoli,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-62,62,Vorastérie,60,Psy,,De base,Commune,match,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-63,63,Prédastérie,110,Psy,Vorastérie,Niveau 1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-64,64,Cosmog,60,Psy,,De base,Commune,Megumi Mizutani,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-65,65,Cosmovum,90,Psy,Cosmog,Niveau 1,Rare,Sanosuke Sakuma,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-66,66,Lunala GX,250,Psy,Cosmovum,,Ultra Rare,PLANETA,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-67,67,Makuhita,80,Combat,,De base,Commune,Mina Nakai,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-68,68,Hariyama,130,Combat,Makuhita,Niveau 1,Rare,Miki Tanaka,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-69,69,Nodulithe,70,Combat,,De base,Commune,Kanako Eo,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-70,70,Géolithe,110,Combat,Nodulithe,Niveau 1,Peu Commune,Shigenori Negishi,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-71,71,Gigalithe,160,Combat,Géolithe,Niveau 2,Rare,Eske Yoshinob,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-72,72,Crabagarre,80,Combat,,De base,Commune,Shin Nagasawa,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-73,73,Quartermac,110,Combat,,De base,Peu Commune,Naoki Saito,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-74,74,Bacabouh,80,Combat,,De base,Commune,Akira Komayama,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-75,75,Trépassable,130,Combat,Bacabouh,Niveau 1,Rare,Kouki Saitou,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-76,76,Rattata d’Alola,40,Obscurité,,De base,Commune,Kouki Saitou,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-77,77,Rattatac d’Alola,120,Obscurité,Rattata d’Alola,Niveau 1,Peu Commune,match,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-78,78,Miaouss d’Alola,70,Obscurité,,De base,Commune,Kagemaru Himeno,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-79,79,Persian d’Alola,90,Obscurité,Miaouss d’Alola,Niveau 1,Peu Commune,kirisAki,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-80,80,Noctali GX,200,Obscurité,Évoli,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-81,81,Carvanha,60,Obscurité,,De base,Commune,Sumiyoshi Kizuki,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-82,82,Sharpedo,110,Obscurité,Carvanha,Niveau 1,Rare,Yumi,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-83,83,Mascaïman,70,Obscurité,,De base,Commune,Atsuko Nishida,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-84,84,Escroco,90,Obscurité,Mascaïman,Niveau 1,Peu Commune,kawayoo,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-85,85,Crocorible,150,Obscurité,Escroco,Niveau 2,Rare,Hajime Kusajima,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-86,86,Taupiqueur d’Alola,50,Métal,,De base,Commune,Megumi Mizutani,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-87,87,Triopikeur d’Alola,100,Métal,Taupiqueur d’Alola,Niveau 1,Rare,match,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-88,88,Airmure,110,Métal,,De base,Commune,Anesaki Dynamic,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-89,89,Solgaleo GX,250,Métal,Cosmovum,,Ultra Rare,PLANETA,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-90,90,Snubbull,70,Fée,,De base,Commune,Tomokazu Komiya,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-91,91,Granbull,110,Fée,Snubbull,Niveau 1,Peu Commune,Suwama Chiaki,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-92,92,Bombydou,30,Fée,,De base,Commune,Hitoshi Ariga,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-93,93,Rubombelle,60,Fée,Bombydou,Niveau 1,Rare,Shin Nagasawa,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-94,94,Minidraco,60,Dragon,,De base,Commune,Naoyo Kimura,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-95,95,Draco,90,Dragon,Minidraco,Niveau 1,Peu Commune,hatachu,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-96,96,Dracolosse,160,Dragon,Draco,Niveau 2,Rare,Hiroyuki Yamamoto,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-97,97,Piafabec,60,Incolore,,De base,Commune,Yukiko Baba,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-98,98,Rapasdepic,90,Incolore,Piafabec,Niveau 1,Commune,Hideki Ishikawa,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-99,99,Kangourex,130,Incolore,,De base,Rare,TOKIYA,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-100,100,Tauros GX,180,Incolore,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-101,101,Évoli,60,Incolore,,De base,Commune,Shibuzoh.,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-102,102,Spinda,80,Incolore,,De base,Peu Commune,Shigenori Negishi,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-103,103,Ponchiot,60,Incolore,,De base,Commune,MAHOU,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-104,104,Ponchien,90,Incolore,Ponchiot,Niveau 1,Peu Commune,sui,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-105,105,Mastouffe,150,Incolore,Ponchien,Niveau 2,Rare,Kagemaru Himeno,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-106,106,Picassaut,50,Incolore,,De base,Commune,Shin Nagasawa,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-107,107,Piclairon,80,Incolore,Picassaut,Niveau 1,Peu Commune,Kouki Saitou,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-108,108,Bazoucan,140,Incolore,Piclairon,Niveau 2,Rare,Megumi Mizutani,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-109,109,Manglouton,70,Incolore,,De base,Commune,match,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-110,110,Argouste GX,210,Incolore,Manglouton,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-111,111,Nounourson,70,Incolore,,De base,Commune,Sanosuke Sakuma,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-112,112,Chelours,130,Incolore,Nounourson,Niveau 1,Rare,kirisAki,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-113,113,Gouroutan,120,Incolore,,De base,Rare,Mitsuhiro Arita,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-114,114,Malasada Maxi,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-115,115,Maillet Écrasant,,,,,Peu Commune,Yoshinobu Saito,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-116,116,Récupération d’Énergie,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-117,117,Échange d’Énergie,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-118,118,Multi Exp,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-119,119,Super Ball,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-120,120,Tili,,,,,Peu Commune,Ken Sugimori,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-121,121,Althéo,,,,,Peu Commune,Ken Sugimori,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-122,122,Lilie,,,,,Peu Commune,Ken Sugimori,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-123,123,Faiblo Ball,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-124,124,Pic Venin,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-125,125,Poké Ball,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-126,126,Attrape-Pokémon,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-127,127,Potion,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-128,128,Prof. Euphorbe,,,,,Peu Commune,Ken Sugimori,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-129,129,Super Bonbon,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-130,130,Repousse,,,,,Peu Commune,Yoshinobu Saito,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-131,131,Motisma-Dex,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-132,132,Échange,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-133,133,Sbire de la Team Skull,,,,,Peu Commune,Ken Sugimori,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-134,134,Chrono Ball,,,,,Peu Commune,Toyste Beach,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-135,135,Hyper Ball,,,,,Peu Commune,Ryo Ueda,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-136,136,Double Énergie Incolore,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-137,137,Énergie Multicolore,,,,,Peu Commune,5ban Graphics,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-138,138,Floramantis GX,210,Plante,Mimantis,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-139,139,Lokhlass GX,190,Eau,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-140,140,Mentali GX,200,Psy,Évoli,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-141,141,Lunala GX,250,Psy,Cosmovum,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-142,142,Noctali GX,200,Obscurité,Évoli,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-143,143,Solgaleo GX,250,Métal,Cosmovum,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-144,144,Tauros GX,180,Incolore,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-145,145,Argouste GX,210,Incolore,Manglouton,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-146,146,Althéo,,,,,Ultra Rare,Sanosuke Sakuma,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-147,147,Lilie,,,,,Ultra Rare,Megumi Mizutani,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-148,148,Prof. Euphorbe,,,,,Ultra Rare,Megumi Mizutani,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-149,149,Sbire de la Team Skull,,,,,Ultra Rare,Sanosuke Sakuma,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-150,150,Floramantis GX,210,Plante,Mimantis,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-151,151,Lokhlass GX,190,Eau,,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-152,152,Mentali GX,200,Psy,Évoli,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-153,153,Lunala GX,250,Psy,Cosmovum,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-154,154,Noctali GX,200,Obscurité,Évoli,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-155,155,Solgaleo GX,250,Métal,Cosmovum,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-156,156,Tauros GX,180,Incolore,,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-157,157,Argouste GX,210,Incolore,Manglouton,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-158,158,Faiblo Ball,,,,,Magnifique rare,Toyste Beach,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-159,159,Motisma-Dex,,,,,Magnifique rare,5ban Graphics,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-160,160,Échange,,,,,Magnifique rare,Ryo Ueda,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-161,161,Hyper Ball,,,,,Magnifique rare,Ryo Ueda,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-162,162,Énergie Psy,,,,De base,Magnifique rare,,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163
+sm1-163,163,Énergie Métal,,,,De base,Magnifique rare,,"normal, reverse, holo",Soleil et Lune,Soleil et Lune,163

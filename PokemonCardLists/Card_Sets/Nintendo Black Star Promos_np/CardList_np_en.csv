@@ -1,0 +1,41 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+np-1,1,Kyogre ex,120,Water,,Basic,Common,Hiromichi Sugiyama,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-2,2,Groudon ex,120,Fighting,,Basic,Common,Kazuo Yazawa,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-3,3,Treecko,40,Grass,,Basic,Common,Atsuko Nishida,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-4,4,Grovyle,70,Grass,Treecko,Stage1,Common,Midori Harada,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-5,5,Mudkip,50,Water,,Basic,Common,Atsuko Nishida,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-6,6,Torchic,40,Fire,,Basic,Common,Atsuko Nishida,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-7,7,Treecko,40,Grass,,Basic,Common,Atsuko Nishida,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-8,8,Torchic,40,Fire,,Basic,Common,Atsuko Nishida,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-9,9,Combusken,70,Fire,Torchic,Stage1,Common,Kouki Saitou,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-10,10,Mudkip,50,Water,,Basic,Common,Atsuko Nishida,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-11,11,Marshtomp,70,Water,Mudkip,Stage1,Common,Mitsuhiro Arita,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-12,12,Pikachu,50,Lightning,,Basic,Common,Kouki Saitou,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-13,13,Meowth,50,Colorless,,Basic,Common,Kouki Saitou,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-14,14,Latias,70,Colorless,,Basic,Common,Ken Sugimori,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-15,15,Latios,80,Colorless,,Basic,Common,Ken Sugimori,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-16,16,Treecko,40,Grass,,Basic,Common,Kagemaru Himeno,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-17,17,Torchic,50,Fire,,Basic,Common,Kagemaru Himeno,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-18,18,Mudkip,50,Water,,Basic,Common,Kagemaru Himeno,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-19,19,Whismur,50,Colorless,,Basic,Common,Kagemaru Himeno,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-20,20,Ludicolo,90,Water,Lombre,Stage2,Common,Kouki Saitou,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-21,21,Jirachi,50,Psychic,,Basic,Common,Atsuko Nishida,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-22,22,Beldum,50,Metal,,Basic,Common,Mitsuhiro Arita,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-23,23,Metang,80,Metal,Beldum,Stage1,Common,Mitsuhiro Arita,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-24,24,Chimecho,70,Psychic,,Basic,Common,Atsuko Nishida,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-25,25,Flygon,120,Colorless,Vibrava,Stage2,Common,Kouki Saitou,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-26,26,Tropical Wind,,,,,Common,Sumiyoshi Kizuki,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-27,27,Tropical Tidal Wave,,,,,Common,,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-28,28,Championship Arena,,,,,Common,Ryo Ueda,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-29,29,Celebi,50,Grass,,Basic,Common,Hajime Kusajima,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-30,30,Suicune,70,Water,,Basic,Common,Atsuko Nishida,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-31,31,Moltres ex,100,Fire,,Basic,Common,Ken Ikuji,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-32,32,Articuno ex,100,Water,,Basic,Common,Nakaoka,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-33,33,Zapdos ex,100,Lightning,,Basic,Common,K. Hoshiba,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-34,34,Typhlosion,110,Fire,Quilava,Stage2,Common,Hajime Kusajima,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-35,35,Pikachu δ,40,Metal,,Basic,Common,Ryo Ueda,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-36,36,Tropical Tidal Wave,,,,,Common,,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-37,37,Kyogre ex,100,Water,,Basic,Common,Ryo Ueda,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-38,38,Groudon ex,100,Fighting,,Basic,Common,Ryo Ueda,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-39,39,Rayquaza ex,100,Colorless,,Basic,Common,Ryo Ueda,"normal, reverse, holo",Nintendo Black Star Promos,POP,40
+np-40,40,Mew,50,Psychic,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Nintendo Black Star Promos,POP,40

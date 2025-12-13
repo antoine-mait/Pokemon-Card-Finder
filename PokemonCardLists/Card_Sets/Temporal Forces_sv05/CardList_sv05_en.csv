@@ -1,0 +1,219 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sv05-001,001,Scyther,90,Grass,,Basic,Common,Dsuke,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-002,002,Pineco,70,Grass,,Basic,Common,Midori Harada,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-003,003,Seedot,60,Grass,,Basic,Common,Asako Ito,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-004,004,Nuzleaf,90,Grass,Seedot,Stage1,Common,Lee HyunJung,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-005,005,Shiftry,150,Grass,Nuzleaf,Stage2,Uncommon,Souichirou Gunjima,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-006,006,Shroomish,60,Grass,,Basic,Common,Yoriyuki Ikegami,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-007,007,Breloom,120,Grass,Shroomish,Stage1,Common,Taiga Kasai,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-008,008,Roselia,60,Grass,,Basic,Common,Tomomi Ozaki,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-009,009,Roserade,130,Grass,Roselia,Stage1,Uncommon,Gapao,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-010,010,Turtwig,80,Grass,,Basic,Common,OKACHEKE,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-011,011,Grotle,120,Grass,Turtwig,Stage1,Common,Uninori,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-012,012,Torterra ex,340,Grass,Grotle,Stage2,Double rare,PLANETA Tsuji,holo,Temporal Forces,Scarlet & Violet,218
+sv05-013,013,Shaymin,70,Grass,,Basic,Uncommon,Atsushi Furusawa,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-014,014,Cottonee,60,Grass,,Basic,Common,Kyoko Umemoto,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-015,015,Whimsicott,100,Grass,Cottonee,Stage1,Rare,Mizue,"reverse, holo",Temporal Forces,Scarlet & Violet,218
+sv05-016,016,Deerling,70,Grass,,Basic,Common,Rond,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-017,017,Sawsbuck,130,Grass,Deerling,Stage1,Uncommon,Akira Komayama,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-018,018,Grubbin,70,Grass,,Basic,Common,Kagemaru Himeno,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-019,019,Dhelmise,130,Grass,,Basic,Uncommon,Saya Tsuruta,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-020,020,Bramblin,50,Grass,,Basic,Common,Tetsu Kayama,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-021,021,Brambleghast,100,Grass,Bramblin,Stage1,Rare,otumami,"reverse, holo",Temporal Forces,Scarlet & Violet,218
+sv05-022,022,Scovillain ex,260,Grass,Capsakid,Stage1,Double rare,PLANETA Mochizuki,holo,Temporal Forces,Scarlet & Violet,218
+sv05-023,023,Rellor,50,Grass,,Basic,Common,Saboteri,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-024,024,Rabsca,70,Grass,Rellor,Stage1,Uncommon,mingo,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-025,025,Iron Leaves ex,220,Grass,,Basic,Double rare,5ban Graphics,holo,Temporal Forces,Scarlet & Violet,218
+sv05-026,026,Ponyta,70,Fire,,Basic,Common,takashi shiraishi,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-027,027,Rapidash,110,Fire,Ponyta,Stage1,Uncommon,Ryota Murayama,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-028,028,Slugma,80,Fire,,Basic,Common,Haru Akasaka,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-029,029,Magcargo,120,Fire,Slugma,Stage1,Rare,Mitsuhiro Arita,"reverse, holo",Temporal Forces,Scarlet & Violet,218
+sv05-030,030,Victini,80,Fire,,Basic,Common,Shibuzoh.,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-031,031,Heatmor,110,Fire,,Basic,Common,Masakazu Fukuda,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-032,032,Litten,70,Fire,,Basic,Common,REND,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-033,033,Torracat,100,Fire,Litten,Stage1,Common,Saya Tsuruta,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-034,034,Incineroar ex,320,Fire,Torracat,Stage2,Double rare,N-DESIGN Inc.,holo,Temporal Forces,Scarlet & Violet,218
+sv05-035,035,Turtonator,120,Fire,,Basic,Common,Shigenori Negishi,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-036,036,Sizzlipede,80,Fire,,Basic,Common,Yukiko Baba,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-037,037,Centiskorch,140,Fire,Sizzlipede,Stage1,Uncommon,Krgc,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-038,038,Gouging Fire ex,230,Fire,,Basic,Double rare,5ban Graphics,holo,Temporal Forces,Scarlet & Violet,218
+sv05-039,039,Totodile,70,Water,,Basic,Common,MINAMINAMI Take,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-040,040,Croconaw,90,Water,Totodile,Stage1,Common,Jerky,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-041,041,Feraligatr,180,Water,Croconaw,Stage2,Rare,GOSSAN,"reverse, holo",Temporal Forces,Scarlet & Violet,218
+sv05-042,042,Carvanha,50,Water,,Basic,Common,Souichirou Gunjima,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-043,043,Sharpedo,120,Water,Carvanha,Stage1,Uncommon,Shinji Kanda,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-044,044,Keldeo,110,Water,,Basic,Uncommon,satoma,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-045,045,Snom,50,Water,,Basic,Common,Orca,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-046,046,Frosmoth,110,Water,Snom,Stage1,Common,rika,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-047,047,Wiglett,60,Water,,Basic,Common,OKUBO,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-048,048,Finizen,80,Water,,Basic,Common,HYOGONOSUKE,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-049,049,Palafin,150,Water,Finizen,Stage1,Uncommon,DOM,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-050,050,Walking Wake ex,220,Water,,Basic,Double rare,takuyoa,holo,Temporal Forces,Scarlet & Violet,218
+sv05-051,051,Pikachu,70,Lightning,,Basic,Common,kodama,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-052,052,Raichu,130,Lightning,Pikachu,Stage1,Common,cochi8i,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-053,053,Electabuzz,90,Lightning,,Basic,Common,Uta,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-054,054,Electivire,140,Lightning,Electabuzz,Stage1,Uncommon,Yuya Oka,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-055,055,Charjabug,100,Lightning,Grubbin,Stage1,Common,Misa Tsutsui,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-056,056,Vikavolt,160,Lightning,Charjabug,Stage2,Uncommon,Hitoshi Ariga,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-057,057,Zeraora,120,Lightning,,Basic,Uncommon,kantaro,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-058,058,Yamper,70,Lightning,,Basic,Common,kurumitsu,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-059,059,Boltund,120,Lightning,Yamper,Stage1,Uncommon,Oswaldo KATO,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-060,060,Wugtrio ex,250,Lightning,Wiglett,Stage1,Double rare,5ban Graphics,holo,Temporal Forces,Scarlet & Violet,218
+sv05-061,061,Iron Hands,140,Lightning,,Basic,Uncommon,Souichirou Gunjima,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-062,062,Iron Thorns,140,Lightning,,Basic,Rare,Takeshi Nakamura,"reverse, holo",Temporal Forces,Scarlet & Violet,218
+sv05-063,063,Mr. Mime,90,Psychic,,Basic,Common,Nelnal,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-064,064,Marill,70,Psychic,,Basic,Common,yuu,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-065,065,Azumarill,130,Psychic,Marill,Stage1,Common,Makura Tami,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-066,066,Girafarig,90,Psychic,,Basic,Common,matazo,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-067,067,Latias,110,Psychic,,Basic,Uncommon,Takumi Wada,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-068,068,Bronzor,80,Psychic,,Basic,Common,Kedamahadaitai Yawarakai,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-069,069,Bronzong,110,Psychic,Bronzor,Stage1,Uncommon,Katsunori Sato,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-070,070,Solosis,40,Psychic,,Basic,Common,Cona Nitanda,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-071,071,Duosion,80,Psychic,Solosis,Stage1,Common,mele,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-072,072,Reuniclus,120,Psychic,Duosion,Stage2,Uncommon,Gemi,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-073,073,Elgyem,60,Psychic,,Basic,Common,Tomokazu Komiya,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-074,074,Beheeyem,100,Psychic,Elgyem,Stage1,Uncommon,Shinya Komatsu,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-075,075,Cutiefly,30,Psychic,,Basic,Common,Sekio,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-076,076,Ribombee,70,Psychic,Cutiefly,Stage1,Uncommon,Tika Matsuno,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-077,077,Scream Tail,90,Psychic,,Basic,Uncommon,kawayoo,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-078,078,Flutter Mane,90,Psychic,,Basic,Rare,kodama,"reverse, holo",Temporal Forces,Scarlet & Violet,218
+sv05-079,079,Iron Valiant,130,Psychic,,Basic,Uncommon,takuyoa,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-080,080,Iron Valiant,130,Psychic,,Basic,Rare,chibi,"reverse, holo",Temporal Forces,Scarlet & Violet,218
+sv05-081,081,Iron Crown ex,220,Psychic,,Basic,Double rare,5ban Graphics,holo,Temporal Forces,Scarlet & Violet,218
+sv05-082,082,Meditite,70,Fighting,,Basic,Common,Natsumi Miyanose,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-083,083,Medicham,120,Fighting,Meditite,Stage1,Common,Masako Tomii,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-084,084,Relicanth,100,Fighting,,Basic,Rare,Mina Nakai,"reverse, holo",Temporal Forces,Scarlet & Violet,218
+sv05-085,085,Drilbur,70,Fighting,,Basic,Common,Kariya,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-086,086,Excadrill,130,Fighting,Drilbur,Stage1,Uncommon,Bun Toujo,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-087,087,Golett,90,Fighting,,Basic,Common,miki kudo,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-088,088,Golurk,160,Fighting,Golett,Stage1,Uncommon,Oku,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-089,089,Rockruff,70,Fighting,,Basic,Common,sui,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-090,090,Lycanroc,120,Fighting,Rockruff,Stage1,Uncommon,Yoshioka,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-091,091,Mudbray,80,Fighting,,Basic,Common,Narumi Sato,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-092,092,Mudsdale,150,Fighting,Mudbray,Stage1,Uncommon,Naoyo Kimura,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-093,093,Rolycoly,80,Fighting,,Basic,Common,Aya Kusube,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-094,094,Carkol,110,Fighting,Rolycoly,Stage1,Common,Anesaki Dynamic,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-095,095,Coalossal,180,Fighting,Carkol,Stage2,Uncommon,Shiburingaru,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-096,096,Great Tusk,140,Fighting,,Basic,Uncommon,Mitsuhiro Arita,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-097,097,Great Tusk,140,Fighting,,Basic,Uncommon,GIDORA,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-098,098,Sandy Shocks,120,Fighting,,Basic,Uncommon,DOM,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-099,099,Iron Boulder ex,240,Fighting,,Basic,Double rare,5ban Graphics,holo,Temporal Forces,Scarlet & Violet,218
+sv05-100,100,Ekans,60,Darkness,,Basic,Common,Shimaris Yukichi,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-101,101,Arbok,130,Darkness,Ekans,Stage1,Common,Minato,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-102,102,Gastly,60,Darkness,,Basic,Common,Fujimoto Gold,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-103,103,Haunter,90,Darkness,Gastly,Stage1,Common,MAHOU,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-104,104,Gengar ex,310,Darkness,Haunter,Stage2,Double rare,Nisota Niso,holo,Temporal Forces,Scarlet & Violet,218
+sv05-105,105,Poochyena,70,Darkness,,Basic,Common,Miki Tanaka,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-106,106,Mightyena,120,Darkness,Poochyena,Stage1,Common,akagi,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-107,107,Sableye,70,Darkness,,Basic,Uncommon,0313,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-108,108,Farigiraf ex,260,Darkness,Girafarig,Stage1,Double rare,5ban Graphics,holo,Temporal Forces,Scarlet & Violet,218
+sv05-109,109,Roaring Moon,140,Darkness,,Basic,Rare,hncl,"reverse, holo",Temporal Forces,Scarlet & Violet,218
+sv05-110,110,Forretress,130,Metal,Pineco,Stage1,Uncommon,osare,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-111,111,Scizor ex,270,Metal,Scyther,Stage1,Double rare,toriyufu,holo,Temporal Forces,Scarlet & Violet,218
+sv05-112,112,Mawile,90,Metal,,Basic,Common,aspara,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-113,113,Beldum,70,Metal,,Basic,Common,hatachu,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-114,114,Metang,100,Metal,Beldum,Stage1,Common,Nobuhiro Imagawa,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-115,115,Metagross,180,Metal,Metang,Stage2,Uncommon,Nurikabe,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-116,116,Meltan,80,Metal,,Basic,Common,Taiga Kayama,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-117,117,Melmetal,160,Metal,Meltan,Stage1,Rare,Oswaldo KATO,"reverse, holo",Temporal Forces,Scarlet & Violet,218
+sv05-118,118,Iron Treads,130,Metal,,Basic,Uncommon,Tonji Matsuno,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-119,119,Koraidon,140,Dragon,,Basic,Rare,Teeziro,"reverse, holo",Temporal Forces,Scarlet & Violet,218
+sv05-120,120,Koraidon ex,230,Dragon,,Basic,Double rare,PLANETA Igarashi,holo,Temporal Forces,Scarlet & Violet,218
+sv05-121,121,Miraidon,110,Dragon,,Basic,Rare,GOSSAN,"reverse, holo",Temporal Forces,Scarlet & Violet,218
+sv05-122,122,Miraidon ex,220,Dragon,,Basic,Double rare,PLANETA Mochizuki,holo,Temporal Forces,Scarlet & Violet,218
+sv05-123,123,Raging Bolt ex,240,Dragon,,Basic,Double rare,aky CG Works,holo,Temporal Forces,Scarlet & Violet,218
+sv05-124,124,Lickitung,100,Colorless,,Basic,Common,nisimono,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-125,125,Lickilicky,150,Colorless,Lickitung,Stage1,Common,kirisAki,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-126,126,Hoothoot,70,Colorless,,Basic,Common,ryoma uratsuka,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-127,127,Noctowl,110,Colorless,Hoothoot,Stage1,Common,toi8,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-128,128,Dunsparce,60,Colorless,,Basic,Common,Sanosuke Sakuma,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-129,129,Dudunsparce,140,Colorless,Dunsparce,Stage1,Rare,Teeziro,"reverse, holo",Temporal Forces,Scarlet & Violet,218
+sv05-130,130,Skitty,60,Colorless,,Basic,Common,Atsuko Nishida,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-131,131,Delcatty,110,Colorless,Skitty,Stage1,Uncommon,Keisin,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-132,132,Chatot,70,Colorless,,Basic,Common,GOTO minori,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-133,133,Pidove,50,Colorless,,Basic,Common,Mékayu,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-134,134,Tranquill,80,Colorless,Pidove,Stage1,Common,Pani Kobayashi,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-135,135,Unfezant,150,Colorless,Tranquill,Stage2,Uncommon,Anesaki Dynamic,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-136,136,Minccino,70,Colorless,,Basic,Common,Yuka Morii,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-137,137,Cinccino,110,Colorless,Minccino,Stage1,Uncommon,Yuu Nishida,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-138,138,Drampa,120,Colorless,,Basic,Rare,Toshinao Aoki,"reverse, holo",Temporal Forces,Scarlet & Violet,218
+sv05-139,139,Iron Jugulis,130,Colorless,,Basic,Uncommon,KEIICHIRO ITO,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-140,140,Ancient Booster Energy Capsule,,,,,Uncommon,5ban Graphics,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-141,141,Awakening Drum,,,,,ACE SPEC Rare,Toyste Beach,holo,Temporal Forces,Scarlet & Violet,218
+sv05-142,142,Bianca's Devotion,,,,,Uncommon,En Morikura,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-143,143,Boxed Order,,,,,Uncommon,Studio Bora Inc.,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-144,144,Buddy-Buddy Poffin,,,,,Uncommon,AYUMI ODASHIMA,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-145,145,Ciphermaniac's Codebreaking,,,,,Uncommon,Taira Akitsu,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-146,146,Eri,,,,,Uncommon,GOSSAN,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-147,147,Explorer's Guidance,,,,,Uncommon,Hideki Ishikawa,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-148,148,Full Metal Lab,,,,,Uncommon,AYUMI ODASHIMA,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-149,149,Future Booster Energy Capsule,,,,,Uncommon,5ban Graphics,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-150,150,Hand Trimmer,,,,,Uncommon,Ayaka Yoshida,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-151,151,Heavy Baton,,,,,Uncommon,Ayaka Yoshida,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-152,152,Hero's Cape,,,,,ACE SPEC Rare,Toyste Beach,holo,Temporal Forces,Scarlet & Violet,218
+sv05-153,153,Master Ball,,,,,ACE SPEC Rare,Studio Bora Inc.,holo,Temporal Forces,Scarlet & Violet,218
+sv05-154,154,Maximum Belt,,,,,ACE SPEC Rare,inose yukie,holo,Temporal Forces,Scarlet & Violet,218
+sv05-155,155,Morty's Conviction,,,,,Uncommon,GIDORA,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-156,156,Perilous Jungle,,,,,Uncommon,AYUMI ODASHIMA,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-157,157,Prime Catcher,,,,,ACE SPEC Rare,Toyste Beach,holo,Temporal Forces,Scarlet & Violet,218
+sv05-158,158,Reboot Pod,,,,,ACE SPEC Rare,inose yukie,holo,Temporal Forces,Scarlet & Violet,218
+sv05-159,159,Rescue Board,,,,,Uncommon,Toyste Beach,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-160,160,Salvatore,,,,,Uncommon,Ryuta Fuse,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-161,161,Mist Energy,,,,,Uncommon,,"normal, reverse",Temporal Forces,Scarlet & Violet,218
+sv05-162,162,Neo Upper Energy,,,,,ACE SPEC Rare,,holo,Temporal Forces,Scarlet & Violet,218
+sv05-163,163,Shiftry,150,Grass,Nuzleaf,Stage2,Illustration rare,SIE NANAHARA,holo,Temporal Forces,Scarlet & Violet,218
+sv05-164,164,Grotle,120,Grass,Turtwig,Stage1,Illustration rare,Oswaldo KATO,holo,Temporal Forces,Scarlet & Violet,218
+sv05-165,165,Deerling,70,Grass,,Basic,Illustration rare,Susumu Maeya,holo,Temporal Forces,Scarlet & Violet,218
+sv05-166,166,Sawsbuck,130,Grass,Deerling,Stage1,Illustration rare,Susumu Maeya,holo,Temporal Forces,Scarlet & Violet,218
+sv05-167,167,Litten,70,Fire,,Basic,Illustration rare,Makura Tami,holo,Temporal Forces,Scarlet & Violet,218
+sv05-168,168,Snom,50,Water,,Basic,Illustration rare,N-DESIGN Inc.,holo,Temporal Forces,Scarlet & Violet,218
+sv05-169,169,Charjabug,100,Lightning,Grubbin,Stage1,Illustration rare,Mina Nakai,holo,Temporal Forces,Scarlet & Violet,218
+sv05-170,170,Bronzor,80,Psychic,,Basic,Illustration rare,sowsow,holo,Temporal Forces,Scarlet & Violet,218
+sv05-171,171,Reuniclus,120,Psychic,Duosion,Stage2,Illustration rare,Atsushi Furusawa,holo,Temporal Forces,Scarlet & Violet,218
+sv05-172,172,Cutiefly,30,Psychic,,Basic,Illustration rare,REND,holo,Temporal Forces,Scarlet & Violet,218
+sv05-173,173,Relicanth,100,Fighting,,Basic,Illustration rare,Mitsuhiro Arita,holo,Temporal Forces,Scarlet & Violet,218
+sv05-174,174,Excadrill,130,Fighting,Drilbur,Stage1,Illustration rare,Saboteri,holo,Temporal Forces,Scarlet & Violet,218
+sv05-175,175,Mudsdale,150,Fighting,Mudbray,Stage1,Illustration rare,MINAMINAMI Take,holo,Temporal Forces,Scarlet & Violet,218
+sv05-176,176,Arbok,130,Darkness,Ekans,Stage1,Illustration rare,OKUBO,holo,Temporal Forces,Scarlet & Violet,218
+sv05-177,177,Gastly,60,Darkness,,Basic,Illustration rare,Mousho,holo,Temporal Forces,Scarlet & Violet,218
+sv05-178,178,Metagross,180,Metal,Metang,Stage2,Illustration rare,Katsunori Sato,holo,Temporal Forces,Scarlet & Violet,218
+sv05-179,179,Meltan,80,Metal,,Basic,Illustration rare,Masa,holo,Temporal Forces,Scarlet & Violet,218
+sv05-180,180,Lickitung,100,Colorless,,Basic,Illustration rare,Orca,holo,Temporal Forces,Scarlet & Violet,218
+sv05-181,181,Chatot,70,Colorless,,Basic,Illustration rare,Scav,holo,Temporal Forces,Scarlet & Violet,218
+sv05-182,182,Minccino,70,Colorless,,Basic,Illustration rare,Shibuzoh.,holo,Temporal Forces,Scarlet & Violet,218
+sv05-183,183,Cinccino,110,Colorless,Minccino,Stage1,Illustration rare,Shibuzoh.,holo,Temporal Forces,Scarlet & Violet,218
+sv05-184,184,Drampa,120,Colorless,,Basic,Illustration rare,Mékayu,holo,Temporal Forces,Scarlet & Violet,218
+sv05-185,185,Torterra ex,340,Grass,Grotle,Stage2,Ultra Rare,PLANETA Tsuji,holo,Temporal Forces,Scarlet & Violet,218
+sv05-186,186,Iron Leaves ex,220,Grass,,Basic,Ultra Rare,5ban Graphics,holo,Temporal Forces,Scarlet & Violet,218
+sv05-187,187,Incineroar ex,320,Fire,Torracat,Stage2,Ultra Rare,N-DESIGN Inc.,holo,Temporal Forces,Scarlet & Violet,218
+sv05-188,188,Gouging Fire ex,230,Fire,,Basic,Ultra Rare,5ban Graphics,holo,Temporal Forces,Scarlet & Violet,218
+sv05-189,189,Walking Wake ex,220,Water,,Basic,Ultra Rare,takuyoa,holo,Temporal Forces,Scarlet & Violet,218
+sv05-190,190,Wugtrio ex,250,Lightning,Wiglett,Stage1,Ultra Rare,5ban Graphics,holo,Temporal Forces,Scarlet & Violet,218
+sv05-191,191,Iron Crown ex,220,Psychic,,Basic,Ultra Rare,5ban Graphics,holo,Temporal Forces,Scarlet & Violet,218
+sv05-192,192,Iron Boulder ex,240,Fighting,,Basic,Ultra Rare,5ban Graphics,holo,Temporal Forces,Scarlet & Violet,218
+sv05-193,193,Gengar ex,310,Darkness,Haunter,Stage2,Ultra Rare,Satoshi Shirai,holo,Temporal Forces,Scarlet & Violet,218
+sv05-194,194,Farigiraf ex,260,Darkness,Girafarig,Stage1,Ultra Rare,5ban Graphics,holo,Temporal Forces,Scarlet & Violet,218
+sv05-195,195,Scizor ex,270,Metal,Scyther,Stage1,Ultra Rare,Eske Yoshinob,holo,Temporal Forces,Scarlet & Violet,218
+sv05-196,196,Raging Bolt ex,240,Dragon,,Basic,Ultra Rare,aky CG Works,holo,Temporal Forces,Scarlet & Violet,218
+sv05-197,197,Bianca's Devotion,,,,,Ultra Rare,En Morikura,holo,Temporal Forces,Scarlet & Violet,218
+sv05-198,198,Ciphermaniac's Codebreaking,,,,,Ultra Rare,Taira Akitsu,holo,Temporal Forces,Scarlet & Violet,218
+sv05-199,199,Eri,,,,,Ultra Rare,GOSSAN,holo,Temporal Forces,Scarlet & Violet,218
+sv05-200,200,Explorer's Guidance,,,,,Ultra Rare,Hideki Ishikawa,holo,Temporal Forces,Scarlet & Violet,218
+sv05-201,201,Morty's Conviction,,,,,Ultra Rare,GIDORA,holo,Temporal Forces,Scarlet & Violet,218
+sv05-202,202,Salvatore,,,,,Ultra Rare,Ryuta Fuse,holo,Temporal Forces,Scarlet & Violet,218
+sv05-203,203,Iron Leaves ex,220,Grass,,Basic,Special illustration rare,nagimiso,holo,Temporal Forces,Scarlet & Violet,218
+sv05-204,204,Gouging Fire ex,230,Fire,,Basic,Special illustration rare,Teeziro,holo,Temporal Forces,Scarlet & Violet,218
+sv05-205,205,Walking Wake ex,220,Water,,Basic,Special illustration rare,Teeziro,holo,Temporal Forces,Scarlet & Violet,218
+sv05-206,206,Iron Crown ex,220,Psychic,,Basic,Special illustration rare,nagimiso,holo,Temporal Forces,Scarlet & Violet,218
+sv05-207,207,Iron Boulder ex,240,Fighting,,Basic,Special illustration rare,nagimiso,holo,Temporal Forces,Scarlet & Violet,218
+sv05-208,208,Raging Bolt ex,240,Dragon,,Basic,Special illustration rare,Teeziro,holo,Temporal Forces,Scarlet & Violet,218
+sv05-209,209,Bianca's Devotion,,,,,Special illustration rare,Cona Nitanda,holo,Temporal Forces,Scarlet & Violet,218
+sv05-210,210,Eri,,,,,Special illustration rare,DOM,holo,Temporal Forces,Scarlet & Violet,218
+sv05-211,211,Morty's Conviction,,,,,Special illustration rare,Megumi Mizutani,holo,Temporal Forces,Scarlet & Violet,218
+sv05-212,212,Salvatore,,,,,Special illustration rare,Tetsu Kayama,holo,Temporal Forces,Scarlet & Violet,218
+sv05-213,213,Iron Leaves ex,220,Grass,,Basic,Hyper rare,5ban Graphics,holo,Temporal Forces,Scarlet & Violet,218
+sv05-214,214,Gouging Fire ex,230,Fire,,Basic,Hyper rare,5ban Graphics,holo,Temporal Forces,Scarlet & Violet,218
+sv05-215,215,Walking Wake ex,220,Water,,Basic,Hyper rare,takuyoa,holo,Temporal Forces,Scarlet & Violet,218
+sv05-216,216,Iron Crown ex,220,Psychic,,Basic,Hyper rare,5ban Graphics,holo,Temporal Forces,Scarlet & Violet,218
+sv05-217,217,Iron Boulder ex,240,Fighting,,Basic,Hyper rare,5ban Graphics,holo,Temporal Forces,Scarlet & Violet,218
+sv05-218,218,Raging Bolt ex,240,Dragon,,Basic,Hyper rare,aky CG Works,holo,Temporal Forces,Scarlet & Violet,218

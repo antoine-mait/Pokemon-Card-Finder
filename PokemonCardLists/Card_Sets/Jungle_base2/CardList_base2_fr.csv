@@ -1,0 +1,65 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+base2-1,1,Mélodelfe,70,Incolore,,Niveau 1,Rare,Mitsuhiro Arita,"holo, 1st edition",Jungle,Base,64
+base2-2,2,Électrode,90,Électrique,,Niveau 1,Rare,Mitsuhiro Arita,"holo, 1st edition",Jungle,Base,64
+base2-3,3,Pyroli,70,Feu,,Niveau 1,Rare,Kagemaru Himeno,"holo, 1st edition",Jungle,Base,64
+base2-4,4,Voltali,70,Électrique,,Niveau 1,Rare,Kagemaru Himeno,"holo, 1st edition",Jungle,Base,64
+base2-5,5,Kangourex,90,Incolore,,De base,Rare,Mitsuhiro Arita,"holo, 1st edition",Jungle,Base,64
+base2-6,6,M. Mime,40,Psy,,De base,Rare,Ken Sugimori,"holo, 1st edition",Jungle,Base,64
+base2-7,7,Nidoqueen,90,Plante,,Niveau 2,Rare,Ken Sugimori,"holo, 1st edition",Jungle,Base,64
+base2-8,8,Roucarnage,80,Incolore,,Niveau 2,Rare,Kagemaru Himeno,"holo, 1st edition",Jungle,Base,64
+base2-9,9,Scarabrute,60,Plante,,De base,Rare,Kagemaru Himeno,"holo, 1st edition",Jungle,Base,64
+base2-10,10,Insécateur,70,Plante,,De base,Rare,Ken Sugimori,"holo, 1st edition",Jungle,Base,64
+base2-11,11,Ronflex,90,Incolore,,De base,Rare,Ken Sugimori,"holo, 1st edition",Jungle,Base,64
+base2-12,12,Aquali,80,Eau,,Niveau 1,Rare,Kagemaru Himeno,"holo, 1st edition",Jungle,Base,64
+base2-13,13,Aéromite,70,Plante,,Niveau 1,Rare,Ken Sugimori,"holo, 1st edition",Jungle,Base,64
+base2-14,14,Empiflor,80,Plante,,Niveau 2,Rare,Ken Sugimori,"holo, 1st edition",Jungle,Base,64
+base2-15,15,Raflésia,80,Plante,,Niveau 2,Rare,Keiji Kinebuchi,"holo, 1st edition",Jungle,Base,64
+base2-16,16,Grodoudou,80,Incolore,,Niveau 1,Rare,Mitsuhiro Arita,"holo, 1st edition",Jungle,Base,64
+base2-17,17,Mélodelfe,70,Incolore,,Niveau 1,Rare,Mitsuhiro Arita,"holo, 1st edition",Jungle,Base,64
+base2-18,18,Électrode,90,Électrique,,Niveau 1,Rare,Mitsuhiro Arita,"normal, 1st edition",Jungle,Base,64
+base2-19,19,Pyroli,70,Feu,,Niveau 1,Rare,Kagemaru Himeno,"normal, 1st edition",Jungle,Base,64
+base2-20,20,Voltali,70,Électrique,,Niveau 1,Rare,Kagemaru Himeno,"normal, 1st edition",Jungle,Base,64
+base2-21,21,Kangourex,90,Incolore,,De base,Rare,Mitsuhiro Arita,"normal, 1st edition",Jungle,Base,64
+base2-22,22,M. Mime,40,Psy,,De base,Rare,Ken Sugimori,"normal, 1st edition",Jungle,Base,64
+base2-23,23,Nidoqueen,90,Plante,,Niveau 2,Rare,Ken Sugimori,"normal, 1st edition",Jungle,Base,64
+base2-24,24,Roucarnage,80,Incolore,,Niveau 2,Rare,Kagemaru Himeno,"normal, 1st edition",Jungle,Base,64
+base2-25,25,Scarabrute,60,Plante,,De base,Rare,Kagemaru Himeno,"normal, 1st edition",Jungle,Base,64
+base2-26,26,Insécateur,70,Plante,,De base,Rare,Ken Sugimori,"normal, 1st edition",Jungle,Base,64
+base2-27,27,Ronflex,90,Incolore,,De base,Rare,Ken Sugimori,"normal, 1st edition",Jungle,Base,64
+base2-28,28,Aquali,80,Eau,,Niveau 1,Rare,Kagemaru Himeno,"normal, 1st edition",Jungle,Base,64
+base2-29,29,Aéromite,70,Plante,,Niveau 1,Rare,Ken Sugimori,"normal, 1st edition",Jungle,Base,64
+base2-30,30,Empiflor,80,Plante,,Niveau 2,Rare,Ken Sugimori,"normal, 1st edition",Jungle,Base,64
+base2-31,31,Raflésia,80,Plante,,Niveau 2,Rare,Keiji Kinebuchi,"normal, 1st edition",Jungle,Base,64
+base2-32,32,Grodoudou,80,Incolore,,Niveau 1,Rare,Mitsuhiro Arita,"normal, 1st edition",Jungle,Base,64
+base2-33,33,Papilusion,70,Plante,,Niveau 2,Peu Commune,Kagemaru Himeno,"normal, 1st edition",Jungle,Base,64
+base2-34,34,Dodrio,70,Incolore,,Niveau 1,Peu Commune,Mitsuhiro Arita,"normal, 1st edition",Jungle,Base,64
+base2-35,35,Noadkoko,80,Plante,,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, 1st edition",Jungle,Base,64
+base2-36,36,Rapasdepic,70,Incolore,,Niveau 1,Peu Commune,Mitsuhiro Arita,"normal, 1st edition",Jungle,Base,64
+base2-37,37,Ortide,60,Plante,,Niveau 1,Peu Commune,Keiji Kinebuchi,"normal, 1st edition",Jungle,Base,64
+base2-38,38,Excelangue,90,Incolore,,De base,Peu Commune,Mitsuhiro Arita,"normal, 1st edition",Jungle,Base,64
+base2-39,39,Ossatueur,60,Combat,,Niveau 1,Peu Commune,Mitsuhiro Arita,"normal, 1st edition",Jungle,Base,64
+base2-40,40,Nidorina,70,Plante,,Niveau 1,Peu Commune,Ken Sugimori,"normal, 1st edition",Jungle,Base,64
+base2-41,41,Parasect,60,Plante,,Niveau 1,Peu Commune,Ken Sugimori,"normal, 1st edition",Jungle,Base,64
+base2-42,42,Persian,70,Incolore,,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, 1st edition",Jungle,Base,64
+base2-43,43,Colossinge,70,Combat,,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, 1st edition",Jungle,Base,64
+base2-44,44,Galopa,70,Feu,,Niveau 1,Peu Commune,Mitsuhiro Arita,"normal, 1st edition",Jungle,Base,64
+base2-45,45,Rhinoféros,100,Combat,,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, 1st edition",Jungle,Base,64
+base2-46,46,Poissoroy,70,Eau,,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, 1st edition",Jungle,Base,64
+base2-47,47,Tauros,60,Incolore,,De base,Peu Commune,Kagemaru Himeno,"normal, 1st edition",Jungle,Base,64
+base2-48,48,Boustiflor,70,Plante,,Niveau 1,Peu Commune,Kagemaru Himeno,"normal, 1st edition",Jungle,Base,64
+base2-49,49,Chétiflor,40,Plante,,De base,Commune,Kagemaru Himeno,"normal, 1st edition",Jungle,Base,64
+base2-50,50,Osselait,40,Combat,,De base,Commune,Mitsuhiro Arita,"normal, 1st edition",Jungle,Base,64
+base2-51,51,Évoli,50,Incolore,,De base,Commune,Kagemaru Himeno,"normal, 1st edition",Jungle,Base,64
+base2-52,52,Nœufnœuf,50,Plante,,De base,Commune,Mitsuhiro Arita,"normal, 1st edition",Jungle,Base,64
+base2-53,53,Poissirène,40,Eau,,De base,Commune,Kagemaru Himeno,"normal, 1st edition",Jungle,Base,64
+base2-54,54,Rondoudou,60,Incolore,,De base,Commune,Kagemaru Himeno,"normal, 1st edition",Jungle,Base,64
+base2-55,55,Férosinge,30,Combat,,De base,Commune,Kagemaru Himeno,"normal, 1st edition",Jungle,Base,64
+base2-56,56,Miaouss,50,Incolore,,De base,Commune,Mitsuhiro Arita,"normal, 1st edition",Jungle,Base,64
+base2-57,57,Nidoran ♀,60,Plante,,De base,Commune,Ken Sugimori,"normal, 1st edition",Jungle,Base,64
+base2-58,58,Mystherbe,50,Plante,,De base,Commune,Keiji Kinebuchi,"normal, 1st edition",Jungle,Base,64
+base2-59,59,Paras,40,Plante,,De base,Commune,Ken Sugimori,"normal, 1st edition",Jungle,Base,64
+base2-60,60,Pikachu,50,Électrique,,De base,Commune,Ken Sugimori,"normal, 1st edition",Jungle,Base,64
+base2-61,61,Rhinocorne,70,Combat,,De base,Commune,Mitsuhiro Arita,"normal, 1st edition",Jungle,Base,64
+base2-62,62,Piafabec,50,Incolore,,De base,Commune,Mitsuhiro Arita,"normal, 1st edition",Jungle,Base,64
+base2-63,63,Mimitoss,40,Plante,,De base,Commune,Mitsuhiro Arita,"normal, 1st edition",Jungle,Base,64
+base2-64,64,Poké Balle,,,,,Commune,Keiji Kinebuchi,"normal, 1st edition",Jungle,Base,64

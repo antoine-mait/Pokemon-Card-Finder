@@ -1,0 +1,100 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sv06.5-001,001,Joltik,40,Grass,,Basic,Common,Naoyo Kimura,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-002,002,Galvantula,100,Grass,Joltik,Stage1,Uncommon,mashu,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-003,003,Rowlet,70,Grass,,Basic,Common,Yoshimi Miyoshi,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-004,004,Dartrix,90,Grass,Rowlet,Stage1,Common,Tetsu Kayama,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-005,005,Decidueye,150,Grass,Dartrix,Stage2,Uncommon,DOM,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-006,006,Tapu Bulu,140,Grass,,Basic,Rare,GOSSAN,"reverse, holo",Shrouded Fable,Scarlet & Violet,99
+sv06.5-007,007,Houndour,70,Fire,,Basic,Common,REND,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-008,008,Houndoom,120,Fire,Houndour,Stage1,Common,burari,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-009,009,Iron Moth,120,Fire,,Basic,Uncommon,Shinji Kanda,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-010,010,Horsea,60,Water,,Basic,Common,Shimaris Yukichi,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-011,011,Seadra,90,Water,Horsea,Stage1,Common,Yuya Oka,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-012,012,Kingdra ex,310,Water,Seadra,Stage2,Double rare,toriyufu,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-013,013,Sneasel,70,Water,,Basic,Common,Krgc,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-014,014,Weavile,100,Water,Sneasel,Stage1,Uncommon,aspara,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-015,015,Revavroom ex,280,Lightning,Varoom,Stage1,Double rare,PLANETA Mochizuki,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-016,016,Drowzee,70,Psychic,,Basic,Common,OKUBO,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-017,017,Hypno,110,Psychic,Drowzee,Stage1,Uncommon,Masako Tomii,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-018,018,Duskull,60,Psychic,,Basic,Common,IKEDA Saki,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-019,019,Dusclops,90,Psychic,Duskull,Stage1,Common,Aya Kusube,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-020,020,Dusknoir,160,Psychic,Dusclops,Stage2,Rare,danciao,"reverse, holo",Shrouded Fable,Scarlet & Violet,99
+sv06.5-021,021,Cresselia,120,Psychic,,Basic,Rare,matazo,"reverse, holo",Shrouded Fable,Scarlet & Violet,99
+sv06.5-022,022,Sylveon,120,Psychic,Eevee,Stage1,Uncommon,Kuroimori,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-023,023,Croagunk,70,Fighting,,Basic,Common,Aliya Chen,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-024,024,Toxicroak,130,Fighting,Croagunk,Stage1,Common,Anesaki Dynamic,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-025,025,Bloodmoon Ursaluna,150,Fighting,,Basic,Rare,Souichirou Gunjima,"reverse, holo",Shrouded Fable,Scarlet & Violet,99
+sv06.5-026,026,Slither Wing,140,Fighting,,Basic,Uncommon,Shinji Kanda,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-027,027,Zubat,50,Darkness,,Basic,Common,osare,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-028,028,Golbat,80,Darkness,Zubat,Stage1,Common,Teeziro,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-029,029,Crobat,130,Darkness,Golbat,Stage2,Uncommon,Nisota Niso,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-030,030,Absol,110,Darkness,,Basic,Common,rika,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-031,031,Zorua,70,Darkness,,Basic,Common,Yuu Nishida,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-032,032,Zoroark,120,Darkness,Zorua,Stage1,Rare,nagimiso,"reverse, holo",Shrouded Fable,Scarlet & Violet,99
+sv06.5-033,033,Inkay,60,Darkness,,Basic,Common,Mori Yuu,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-034,034,Malamar,120,Darkness,Inkay,Stage1,Uncommon,akagi,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-035,035,Yveltal,120,Darkness,,Basic,Uncommon,SIE NANAHARA,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-036,036,Okidogi ex,250,Darkness,,Basic,Double rare,takuyoa,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-037,037,Munkidori ex,210,Darkness,,Basic,Double rare,takuyoa,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-038,038,Fezandipiti ex,210,Darkness,,Basic,Double rare,takuyoa,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-039,039,Pecharunt ex,190,Darkness,,Basic,Double rare,aky CG Works,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-040,040,Genesect,110,Metal,,Basic,Uncommon,Kazumasa Yasukuni,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-041,041,Cufant,100,Metal,,Basic,Common,Shinya Mizuno,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-042,042,Copperajah,200,Metal,Cufant,Stage1,Rare,kawayoo,"reverse, holo",Shrouded Fable,Scarlet & Violet,99
+sv06.5-043,043,Varoom,70,Metal,,Basic,Common,HAGIYA Kaoru,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-044,044,Axew,70,Dragon,,Basic,Common,Orca,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-045,045,Fraxure,100,Dragon,Axew,Stage1,Common,Uninori,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-046,046,Haxorus,170,Dragon,Fraxure,Stage2,Rare,Tsuyoshi Nagano,"reverse, holo",Shrouded Fable,Scarlet & Violet,99
+sv06.5-047,047,Kyurem,130,Dragon,,Basic,Uncommon,Shiburingaru,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-048,048,Meowth,70,Colorless,,Basic,Common,sui,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-049,049,Persian,110,Colorless,Meowth,Stage1,Common,NC Empire,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-050,050,Eevee,70,Colorless,,Basic,Common,Susumu Maeya,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-051,051,Furfrou,100,Colorless,,Basic,Common,Shinya Komatsu,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-052,052,Stufful,80,Colorless,,Basic,Common,ryoma uratsuka,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-053,053,Bewear,130,Colorless,Stufful,Stage1,Common,Takeshi Nakamura,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-054,054,Academy at Night,,,,,Uncommon,AYUMI ODASHIMA,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-055,055,Binding Mochi,,,,,Uncommon,5ban Graphics,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-056,056,Cassiopeia,,,,,Uncommon,Atsushi Furusawa,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-057,057,Colress's Tenacity,,,,,Uncommon,hncl,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-058,058,Dangerous Laser,,,,,ACE SPEC Rare,inose yukie,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-059,059,Janine's Secret Art,,,,,Uncommon,Taira Akitsu,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-060,060,Neutralization Zone,,,,,ACE SPEC Rare,imoniii,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-061,061,Night Stretcher,,,,,Uncommon,Toyste Beach,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-062,062,Poké Vital A,,,,,ACE SPEC Rare,Toyste Beach,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-063,063,Powerglass,,,,,Uncommon,Studio Bora Inc.,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-064,064,Xerosic's Machinations,,,,,Uncommon,GOSSAN,"normal, reverse",Shrouded Fable,Scarlet & Violet,99
+sv06.5-065,065,Tapu Bulu,140,Grass,,Basic,Illustration rare,IKEDA Saki,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-066,066,Houndoom,120,Fire,Houndour,Stage1,Illustration rare,Taiga Kasai,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-067,067,Horsea,60,Water,,Basic,Illustration rare,Shinya Komatsu,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-068,068,Duskull,60,Psychic,,Basic,Illustration rare,James Turner,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-069,069,Dusclops,90,Psychic,Duskull,Stage1,Illustration rare,James Turner,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-070,070,Dusknoir,160,Psychic,Dusclops,Stage2,Illustration rare,James Turner,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-071,071,Cresselia,120,Psychic,,Basic,Illustration rare,satoma,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-072,072,Munkidori,110,Psychic,,Basic,Illustration rare,Teeziro,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-073,073,Fezandipiti,120,Psychic,,Basic,Illustration rare,KEIICHIRO ITO,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-074,074,Okidogi,130,Fighting,,Basic,Illustration rare,AKIRA EGAWA,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-075,075,Zorua,70,Darkness,,Basic,Illustration rare,REND,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-076,076,Cufant,100,Metal,,Basic,Illustration rare,Mina Nakai,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-077,077,Fraxure,100,Dragon,Axew,Stage1,Illustration rare,MINAMINAMI Take,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-078,078,Persian,110,Colorless,Meowth,Stage1,Illustration rare,Whisker,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-079,079,Bewear,130,Colorless,Stufful,Stage1,Illustration rare,Takeshi Nakamura,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-080,080,Kingdra ex,310,Water,Seadra,Stage2,Ultra Rare,PLANETA Igarashi,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-081,081,Revavroom ex,280,Lightning,Varoom,Stage1,Ultra Rare,PLANETA Mochizuki,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-082,082,Okidogi ex,250,Darkness,,Basic,Ultra Rare,5ban Graphics,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-083,083,Munkidori ex,210,Darkness,,Basic,Ultra Rare,5ban Graphics,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-084,084,Fezandipiti ex,210,Darkness,,Basic,Ultra Rare,5ban Graphics,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-085,085,Pecharunt ex,190,Darkness,,Basic,Ultra Rare,aky CG Works,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-086,086,Cassiopeia,,,,,Ultra Rare,Atsushi Furusawa,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-087,087,Colress's Tenacity,,,,,Ultra Rare,hncl,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-088,088,Janine's Secret Art,,,,,Ultra Rare,Taira Akitsu,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-089,089,Xerosic's Machinations,,,,,Ultra Rare,GOSSAN,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-090,090,Okidogi ex,250,Darkness,,Basic,Special illustration rare,kantaro,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-091,091,Munkidori ex,210,Darkness,,Basic,Special illustration rare,kantaro,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-092,092,Fezandipiti ex,210,Darkness,,Basic,Special illustration rare,kantaro,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-093,093,Pecharunt ex,190,Darkness,,Basic,Special illustration rare,kantaro,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-094,094,Cassiopeia,,,,,Special illustration rare,burari,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-095,095,Pecharunt ex,190,Darkness,,Basic,Hyper rare,aky CG Works,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-096,096,Earthen Vessel,,,,,Hyper rare,AYUMI ODASHIMA,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-097,097,Powerglass,,,,,Hyper rare,Studio Bora Inc.,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-098,098,Basic Darkness Energy,,Darkness,,,Hyper rare,,holo,Shrouded Fable,Scarlet & Violet,99
+sv06.5-099,099,Basic Metal Energy,,Metal,,,Hyper rare,,holo,Shrouded Fable,Scarlet & Violet,99

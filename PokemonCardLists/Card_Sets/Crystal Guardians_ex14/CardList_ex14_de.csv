@@ -1,0 +1,101 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+ex14-1,1,Banette,70,Psycho,,Rang 1,Selten,Kyoko Umemoto,holo,EX Crystal Guardians,EX,100
+ex14-2,2,Turtok,110,"Kampf, Metall",,Rang 2,Selten,Masakazu Fukuda,holo,EX Crystal Guardians,EX,100
+ex14-3,3,Camerupt,80,Feuer,,Rang 1,Selten,Mitsuhiro Arita,holo,EX Crystal Guardians,EX,100
+ex14-4,4,Glurak,120,"Elektro, Metall",,Rang 2,Selten,Kouki Saitou,holo,EX Crystal Guardians,EX,100
+ex14-5,5,Digdri,70,Kampf,,Rang 1,Selten,Tomokazu Komiya,"normal, holo",EX Crystal Guardians,EX,100
+ex14-6,6,Kappalores,100,Feuer,,Rang 2,Selten,Masakazu Fukuda,holo,EX Crystal Guardians,EX,100
+ex14-7,7,Liebiskus,60,Wasser,,Basis,Selten,Kyoko Umemoto,holo,EX Crystal Guardians,EX,100
+ex14-8,8,Voltenso,80,Elektro,,Rang 1,Selten,Hisao Nakamura,holo,EX Crystal Guardians,EX,100
+ex14-9,9,Flunkifer,60,Metall,,Basis,Selten,Kagemaru Himeno,holo,EX Crystal Guardians,EX,100
+ex14-10,10,Zobiris,60,Unlicht,,Basis,Selten,Yukiko Baba,holo,EX Crystal Guardians,EX,100
+ex14-11,11,Schlukwech,80,Pflanze,,Rang 1,Selten,Mitsuhiro Arita,holo,EX Crystal Guardians,EX,100
+ex14-12,12,Tauros,70,Farblos,,Basis,Selten,Hajime Kusajima,holo,EX Crystal Guardians,EX,100
+ex14-13,13,Knuddeluff,90,Farblos,,Rang 1,Selten,Mitsuhiro Arita,holo,EX Crystal Guardians,EX,100
+ex14-14,14,Turtok,120,Wasser,,Rang 2,Selten,Kouki Saitou,"normal, holo",EX Crystal Guardians,EX,100
+ex14-15,15,Noktuska,80,Kampf,,Rang 1,Selten,Kouki Saitou,normal,EX Crystal Guardians,EX,100
+ex14-16,16,Jungglut,80,Kampf,,Rang 1,Selten,Suwama Chiaki,normal,EX Crystal Guardians,EX,100
+ex14-17,17,Zwirrklop,70,Psycho,,Rang 1,Selten,Kagemaru Himeno,normal,EX Crystal Guardians,EX,100
+ex14-18,18,Ibitak,60,Elektro,,Rang 1,Selten,Kouki Saitou,normal,EX Crystal Guardians,EX,100
+ex14-19,19,Reptain,70,Psycho,,Rang 1,Selten,Masakazu Fukuda,normal,EX Crystal Guardians,EX,100
+ex14-20,20,Groink,80,Psycho,,Rang 1,Selten,Mitsuhiro Arita,normal,EX Crystal Guardians,EX,100
+ex14-21,21,Fluffeluff,50,Farblos,,Basis,Selten,Miki Tanaka,normal,EX Crystal Guardians,EX,100
+ex14-22,22,Kingler,80,"Feuer, Metall",,Rang 1,Selten,Masakazu Fukuda,normal,EX Crystal Guardians,EX,100
+ex14-23,23,Krakeelo,70,Farblos,,Rang 1,Selten,Midori Harada,normal,EX Crystal Guardians,EX,100
+ex14-24,24,Moorabbel,70,Wasser,,Rang 1,Selten,Kagemaru Himeno,normal,EX Crystal Guardians,EX,100
+ex14-25,25,Meditalis,80,Kampf,,Rang 1,Selten,Midori Harada,normal,EX Crystal Guardians,EX,100
+ex14-26,26,Pelipper,70,Elektro,,Rang 1,Selten,Masakazu Fukuda,normal,EX Crystal Guardians,EX,100
+ex14-27,27,Sumpex,120,Kampf,,Rang 2,Selten,Hisao Nakamura,"normal, holo",EX Crystal Guardians,EX,100
+ex14-28,28,Bisaflor,110,Pflanze,,Rang 2,Selten,Hajime Kusajima,"normal, holo",EX Crystal Guardians,EX,100
+ex14-29,29,Glutexo,70,Feuer,,Rang 1,Ungewöhnlich,Kagemaru Himeno,normal,EX Crystal Guardians,EX,100
+ex14-30,30,Glutexo,70,Elektro,,Rang 1,Ungewöhnlich,Mitsuhiro Arita,normal,EX Crystal Guardians,EX,100
+ex14-31,31,Jungglut,80,Feuer,,Rang 1,Ungewöhnlich,Sachiko Adachi,normal,EX Crystal Guardians,EX,100
+ex14-32,32,Reptain,70,Pflanze,,Rang 1,Ungewöhnlich,Hisao Nakamura,normal,EX Crystal Guardians,EX,100
+ex14-33,33,Schluppuck,50,Pflanze,,Basis,Ungewöhnlich,Kyoko Umemoto,normal,EX Crystal Guardians,EX,100
+ex14-34,34,Bisaknosp,80,Pflanze,,Rang 1,Ungewöhnlich,Sumiyoshi Kizuki,normal,EX Crystal Guardians,EX,100
+ex14-35,35,Bisaknosp,70,Pflanze,,Rang 1,Ungewöhnlich,Hisao Nakamura,normal,EX Crystal Guardians,EX,100
+ex14-36,36,Stollrak,80,Metall,,Rang 1,Ungewöhnlich,Hajime Kusajima,normal,EX Crystal Guardians,EX,100
+ex14-37,37,Lombrero,70,Wasser,,Rang 1,Ungewöhnlich,Kagemaru Himeno,normal,EX Crystal Guardians,EX,100
+ex14-38,38,Moorabbel,70,Kampf,,Rang 1,Ungewöhnlich,Hisao Nakamura,normal,EX Crystal Guardians,EX,100
+ex14-39,39,Blanas,80,Unlicht,,Rang 1,Ungewöhnlich,Tomokazu Komiya,normal,EX Crystal Guardians,EX,100
+ex14-40,40,Shuppet,40,Psycho,,Basis,Ungewöhnlich,Atsuko Nishida,normal,EX Crystal Guardians,EX,100
+ex14-41,41,Eneco,50,Farblos,,Basis,Ungewöhnlich,Miki Tanaka,normal,EX Crystal Guardians,EX,100
+ex14-42,42,Schillok,70,Wasser,,Rang 1,Ungewöhnlich,Kouki Saitou,normal,EX Crystal Guardians,EX,100
+ex14-43,43,Schillok,80,Wasser,,Rang 1,Ungewöhnlich,Atsuko Nishida,normal,EX Crystal Guardians,EX,100
+ex14-44,44,Stollunior,50,Metall,,Basis,Häufig,Aya Kusube,normal,EX Crystal Guardians,EX,100
+ex14-45,45,Bisasam,50,Pflanze,,Basis,Häufig,Sumiyoshi Kizuki,normal,EX Crystal Guardians,EX,100
+ex14-46,46,Bisasam,50,Pflanze,,Basis,Häufig,Kagemaru Himeno,normal,EX Crystal Guardians,EX,100
+ex14-47,47,Tuska,50,Pflanze,,Basis,Häufig,Tomokazu Komiya,normal,EX Crystal Guardians,EX,100
+ex14-48,48,Glumanda,50,Feuer,,Basis,Häufig,Atsuko Nishida,normal,EX Crystal Guardians,EX,100
+ex14-49,49,Glumanda,50,Elektro,,Basis,Häufig,Mitsuhiro Arita,normal,EX Crystal Guardians,EX,100
+ex14-50,50,Digda,50,Kampf,,Basis,Häufig,Kyoko Umemoto,normal,EX Crystal Guardians,EX,100
+ex14-51,51,Zwirrlicht,40,Psycho,,Basis,Häufig,Yukiko Baba,normal,EX Crystal Guardians,EX,100
+ex14-52,52,Frizelbliz,50,Elektro,,Basis,Häufig,Atsuko Nishida,normal,EX Crystal Guardians,EX,100
+ex14-53,53,Pummeluff,50,Farblos,,Basis,Häufig,Midori Harada,normal,EX Crystal Guardians,EX,100
+ex14-54,54,Krabby,40,Wasser,,Basis,Häufig,Tomokazu Komiya,normal,EX Crystal Guardians,EX,100
+ex14-55,55,Loturzel,50,Wasser,,Basis,Häufig,Aya Kusube,normal,EX Crystal Guardians,EX,100
+ex14-56,56,Meditie,50,Kampf,,Basis,Häufig,Hisao Nakamura,normal,EX Crystal Guardians,EX,100
+ex14-57,57,Hydropi,50,Wasser,,Basis,Häufig,Hisao Nakamura,normal,EX Crystal Guardians,EX,100
+ex14-58,58,Hydropi,50,Wasser,,Basis,Häufig,Hajime Kusajima,normal,EX Crystal Guardians,EX,100
+ex14-59,59,Camaub,50,Feuer,,Basis,Häufig,Miki Tanaka,normal,EX Crystal Guardians,EX,100
+ex14-60,60,Samurzel,40,Pflanze,,Basis,Häufig,Yukiko Baba,normal,EX Crystal Guardians,EX,100
+ex14-61,61,Habitak,40,Farblos,,Basis,Häufig,Midori Harada,normal,EX Crystal Guardians,EX,100
+ex14-62,62,Spoink,50,Psycho,,Basis,Häufig,Sumiyoshi Kizuki,normal,EX Crystal Guardians,EX,100
+ex14-63,63,Schiggy,50,Wasser,,Basis,Häufig,Kouki Saitou,normal,EX Crystal Guardians,EX,100
+ex14-64,64,Schiggy,40,Wasser,,Basis,Häufig,Hajime Kusajima,normal,EX Crystal Guardians,EX,100
+ex14-65,65,Flemmli,50,Feuer,,Basis,Häufig,Sachiko Adachi,normal,EX Crystal Guardians,EX,100
+ex14-66,66,Flemmli,40,Feuer,,Basis,Häufig,Sumiyoshi Kizuki,normal,EX Crystal Guardians,EX,100
+ex14-67,67,Geckarbor,40,Pflanze,,Basis,Häufig,Sachiko Adachi,normal,EX Crystal Guardians,EX,100
+ex14-68,68,Geckarbor,40,Psycho,,Basis,Häufig,Masakazu Fukuda,normal,EX Crystal Guardians,EX,100
+ex14-69,69,Flurmel,50,Farblos,,Basis,Häufig,Atsuko Nishida,normal,EX Crystal Guardians,EX,100
+ex14-70,70,Wingull,40,Wasser,,Basis,Häufig,Midori Harada,normal,EX Crystal Guardians,EX,100
+ex14-71,71,Bills Wartung,,,,,Ungewöhnlich,Ken Sugimori,normal,EX Crystal Guardians,EX,100
+ex14-72,72,Schiffbrüchiger,,,,,Ungewöhnlich,Kouki Saitou,normal,EX Crystal Guardians,EX,100
+ex14-73,73,Celios Netzwerk,,,,,Ungewöhnlich,Ken Sugimori,normal,EX Crystal Guardians,EX,100
+ex14-74,74,Kristall des Stillstandes,,,,,Ungewöhnlich,Takumi Akabane,normal,EX Crystal Guardians,EX,100
+ex14-75,75,Kristallstrand,,,,,Ungewöhnlich,Shizurow,normal,EX Crystal Guardians,EX,100
+ex14-76,76,Kristallscherbe,,,,,Ungewöhnlich,Takumi Akabane,normal,EX Crystal Guardians,EX,100
+ex14-77,77,Doppel Hyperheiler,,,,,Ungewöhnlich,Ryo Ueda,normal,EX Crystal Guardians,EX,100
+ex14-78,78,Doppelball,,,,,Ungewöhnlich,"""Big Mama"" Tagawa",normal,EX Crystal Guardians,EX,100
+ex14-79,79,Holon-Kreis,,,,,Ungewöhnlich,Ryo Ueda,normal,EX Crystal Guardians,EX,100
+ex14-80,80,Erinnerungsbeere,,,,,Ungewöhnlich,Shizurow,normal,EX Crystal Guardians,EX,100
+ex14-81,81,Mysteriöser Splitter,,,,,Ungewöhnlich,Takumi Akabane,normal,EX Crystal Guardians,EX,100
+ex14-82,82,Pokéball,,,,,Ungewöhnlich,Shin-ichi Yoshikawa,normal,EX Crystal Guardians,EX,100
+ex14-83,83,PokéNav,,,,,Ungewöhnlich,Katsura Tabata,normal,EX Crystal Guardians,EX,100
+ex14-84,84,Wurmloch,,,,,Ungewöhnlich,Keiji Kinebuchi,normal,EX Crystal Guardians,EX,100
+ex14-85,85,Sturmwind,,,,,Ungewöhnlich,Ryo Ueda,normal,EX Crystal Guardians,EX,100
+ex14-86,86,Energiesuche,,,,,Häufig,Kai Ishikawa,normal,EX Crystal Guardians,EX,100
+ex14-87,87,Trank,,,,,Häufig,Shin-ichi Yoshikawa,normal,EX Crystal Guardians,EX,100
+ex14-88,88,Doppel-Regenbogen-Energie,,,,,Selten,Takumi Akabane,normal,EX Crystal Guardians,EX,100
+ex14-89,89,Stolloss ex,150,Metall,,,Selten,Ryo Ueda,holo,EX Crystal Guardians,EX,100
+ex14-90,90,Lohgock ex,150,Kampf,,,Selten,Mitsuhiro Arita,holo,EX Crystal Guardians,EX,100
+ex14-91,91,Enekoro ex,90,Farblos,,,Selten,Shizurow,holo,EX Crystal Guardians,EX,100
+ex14-92,92,Krawumms ex,150,Farblos,,,Selten,Mitsuhiro Arita,holo,EX Crystal Guardians,EX,100
+ex14-93,93,Groudon ex,100,Kampf,,,Selten,Takabon,holo,EX Crystal Guardians,EX,100
+ex14-94,94,Jirachi ex,90,Psycho,,,Selten,Shizurow,"normal, holo",EX Crystal Guardians,EX,100
+ex14-95,95,Kyogre ex,100,Wasser,,,Selten,Yasuki Watanabe,holo,EX Crystal Guardians,EX,100
+ex14-96,96,Gewaldro ex,140,Psycho,,Rang 2,Selten,Shizurow,holo,EX Crystal Guardians,EX,100
+ex14-97,97,Tengulist ex,140,Unlicht,,,Selten,Ryo Ueda,holo,EX Crystal Guardians,EX,100
+ex14-98,98,Sumpex ex,150,Wasser,,,Selten,Ryo Ueda,holo,EX Crystal Guardians,EX,100
+ex14-99,99,Simsala *,80,Psycho,,Basis,Selten,Masakazu Fukuda,holo,EX Crystal Guardians,EX,100
+ex14-100,100,Celebi *,60,Pflanze,,Basis,Selten,Masakazu Fukuda,holo,EX Crystal Guardians,EX,100

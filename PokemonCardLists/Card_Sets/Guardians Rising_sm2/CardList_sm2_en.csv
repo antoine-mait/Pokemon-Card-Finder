@@ -1,0 +1,170 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sm2-1,1,Bellsprout,60,Grass,,Basic,Common,Aya Kusube,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-2,2,Weepinbell,80,Grass,Bellsprout,Stage1,Uncommon,Mina Nakai,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-3,3,Victreebel,140,Grass,Weepinbell,Stage2,Rare,TOKIYA,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-4,4,Petilil,50,Grass,,Basic,Common,Naoki Saito,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-5,5,Lilligant,90,Grass,Petilil,Stage1,Rare,You Iribi,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-6,6,Phantump,60,Grass,,Basic,Common,Sanosuke Sakuma,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-7,7,Trevenant,120,Grass,Phantump,Stage1,Rare,Hiroyuki Yamamoto,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-8,8,Wimpod,70,Grass,,Basic,Common,match,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-9,9,Golisopod,130,Grass,Wimpod,Stage1,Rare,Kouki Saitou,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-10,10,Victini,70,Fire,,Basic,Rare,kodama,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-11,11,Litwick,50,Fire,,Basic,Common,Mitsuhiro Arita,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-12,12,Lampent,80,Fire,Litwick,Stage1,Uncommon,0313,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-13,13,Chandelure,140,Fire,Lampent,Stage2,Rare,Kouki Saitou,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-14,14,Oricorio,90,Fire,,Basic,Rare,Shin Nagasawa,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-15,15,Salandit,70,Fire,,Basic,Common,TOKIYA,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-16,16,Salazzle,110,Fire,Salandit,Stage1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-17,17,Turtonator,110,Fire,,Basic,Rare,Shin Nagasawa,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-18,18,Turtonator GX,190,Fire,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-19,19,Alolan Sandshrew,60,Water,,Basic,Common,Mizue,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-20,20,Alolan Sandslash,110,Water,Alolan Sandshrew,Stage1,Rare,TOKIYA,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-21,21,Alolan Vulpix,60,Water,,Basic,Common,You Iribi,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-22,22,Alolan Ninetales GX,210,Water,Alolan Vulpix,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-23,23,Tentacool,60,Water,,Basic,Common,Shibuzoh.,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-24,24,Tentacruel,110,Water,Tentacool,Stage1,Uncommon,Masakazu Fukuda,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-25,25,Politoed,130,Water,Poliwhirl,Stage2,Rare,Saya Tsuruta,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-26,26,Delibird,90,Water,,Basic,Common,sui,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-27,27,Carvanha,50,Water,,Basic,Common,Hideki Ishikawa,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-28,28,Sharpedo,90,Water,Carvanha,Stage1,Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-29,29,Wailmer,120,Water,,Basic,Common,Miki Tanaka,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-30,30,Wailord,200,Water,Wailmer,Stage1,Rare,OOYAMA,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-31,31,Snorunt,60,Water,,Basic,Common,Tomokazu Komiya,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-32,32,Glalie,120,Water,Snorunt,Stage1,Uncommon,so-taro,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-33,33,Vanillite,50,Water,,Basic,Common,OOYAMA,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-34,34,Vanillish,80,Water,Vanillite,Stage1,Uncommon,Naoki Saito,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-35,35,Vanilluxe,140,Water,Vanillish,Stage2,Rare,kawayoo,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-36,36,Alomomola,110,Water,,Basic,Uncommon,Aya Kusube,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-37,37,Wishiwashi,30,Water,,Basic,Common,Sanosuke Sakuma,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-38,38,Wishiwashi GX,210,Water,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-39,39,Mareanie,60,Water,,Basic,Uncommon,Shin Nagasawa,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-40,40,Alolan Geodude,70,Lightning,,Basic,Common,Hitoshi Ariga,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-41,41,Alolan Graveler,110,Lightning,Alolan Geodude,Stage1,Uncommon,match,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-42,42,Alolan Golem,160,Lightning,Alolan Graveler,Stage2,Rare,Shin Nagasawa,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-43,43,Helioptile,60,Lightning,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-44,44,Heliolisk,100,Lightning,Helioptile,Stage1,Rare,Shin Nagasawa,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-45,45,Vikavolt GX,240,Lightning,Charjabug,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-46,46,Oricorio,90,Lightning,,Basic,Rare,Naoki Saito,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-47,47,Tapu Koko GX,170,Lightning,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-48,48,Slowpoke,70,Psychic,,Basic,Common,Mina Nakai,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-49,49,Slowbro,110,Psychic,Slowpoke,Stage1,Uncommon,Shibuzoh.,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-50,50,Trubbish,70,Psychic,,Basic,Common,Yuka Morii,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-51,51,Garbodor,120,Psychic,Trubbish,Stage1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-52,52,Gothita,60,Psychic,,Basic,Common,Yuka Morii,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-53,53,Gothorita,80,Psychic,Gothita,Stage1,Uncommon,kawayoo,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-54,54,Gothitelle,140,Psychic,Gothorita,Stage2,Rare,Mitsuhiro Arita,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-55,55,Oricorio,90,Psychic,,Basic,Rare,Kouki Saitou,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-56,56,Oricorio,90,Psychic,,Basic,Rare,TOKIYA,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-57,57,Toxapex GX,210,Psychic,Mareanie,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-58,58,Mimikyu,70,Psychic,,Basic,Rare,Megumi Mizutani,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-59,59,Dhelmise,120,Psychic,,Basic,Rare,Hasuno,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-60,60,Tapu Lele GX,170,Psychic,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-61,61,Lunala,160,Psychic,Cosmoem,Stage2,Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-62,62,Machop,70,Fighting,,Basic,Common,Kyoko Umemoto,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-63,63,Machop,60,Fighting,,Basic,Common,Masakazu Fukuda,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-64,64,Machoke,100,Fighting,Machop,Stage1,Uncommon,Kouki Saitou,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-65,65,Machamp,160,Fighting,Machoke,Stage2,Rare,Hitoshi Ariga,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-66,66,Sudowoodo,100,Fighting,,Basic,Uncommon,Hajime Kusajima,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-67,67,Gligar,70,Fighting,,Basic,Common,Mina Nakai,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-68,68,Gliscor,110,Fighting,Gligar,Stage1,Uncommon,Yoshinobu Saito,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-69,69,Nosepass,80,Fighting,,Basic,Common,Tomokazu Komiya,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-70,70,Barboach,60,Fighting,,Basic,Common,sui,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-71,71,Whiscash,130,Fighting,Barboach,Stage1,Rare,Masakazu Fukuda,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-72,72,Pancham,60,Fighting,,Basic,Common,TOKIYA,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-73,73,Rockruff,60,Fighting,,Basic,Common,Naoki Saito,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-74,74,Lycanroc GX,200,Fighting,Rockruff,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-75,75,Mudbray,80,Fighting,,Basic,Common,Kouki Saitou,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-76,76,Mudsdale,140,Fighting,Mudbray,Stage1,Rare,Mitsuhiro Arita,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-77,77,Minior,70,Fighting,,Basic,Rare,Naoki Saito,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-78,78,Murkrow,70,Darkness,,Basic,Common,Sekio,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-79,79,Honchkrow,110,Darkness,Murkrow,Stage1,Rare,Hideki Ishikawa,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-80,80,Sableye,60,Darkness,,Basic,Uncommon,Aya Kusube,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-81,81,Absol,100,Darkness,,Basic,Rare,Anesaki Dynamic,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-82,82,Pangoro,130,Darkness,Pancham,Stage1,Rare,kodama,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-83,83,Beldum,60,Metal,,Basic,Common,Kyoko Umemoto,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-84,84,Metang,90,Metal,Beldum,Stage1,Uncommon,Kagemaru Himeno,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-85,85,Metagross GX,250,Metal,Metang,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-86,86,Probopass,130,Metal,Nosepass,Stage1,Rare,Yoshinobu Saito,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-87,87,Solgaleo,160,Metal,Cosmoem,Stage2,Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-88,88,Clefairy,60,Fairy,,Basic,Common,Kagemaru Himeno,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-89,89,Clefable,100,Fairy,Clefairy,Stage1,Uncommon,Miki Tanaka,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-90,90,Cottonee,50,Fairy,,Basic,Common,Megumi Mizutani,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-91,91,Whimsicott,80,Fairy,Cottonee,Stage1,Uncommon,Kouki Saitou,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-92,92,Sylveon GX,200,Fairy,Eevee,,Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-93,93,Comfey,70,Fairy,,Basic,Rare,Sanosuke Sakuma,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-94,94,Goomy,50,Dragon,,Basic,Common,Asako Ito,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-95,95,Sliggoo,70,Dragon,Goomy,Stage1,Uncommon,Tomokazu Komiya,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-96,96,Goodra,160,Dragon,Sliggoo,Stage2,Rare,Naoki Saito,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-97,97,Drampa,120,Dragon,,Basic,Rare,match,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-98,98,Jangmo-o,60,Dragon,,Basic,Common,match,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-99,99,Hakamo-o,90,Dragon,Jangmo-o,Stage1,Uncommon,Shin Nagasawa,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-100,100,Kommo-o GX,240,Dragon,Hakamo-o,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-101,101,Chansey,110,Colorless,,Basic,Common,Megumi Mizutani,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-102,102,Blissey,160,Colorless,Chansey,Stage1,Rare,Hideki Ishikawa,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-103,103,Taillow,60,Colorless,,Basic,Common,Ayaka Yoshida,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-104,104,Swellow,90,Colorless,Taillow,Stage1,Rare,Kagemaru Himeno,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-105,105,Castform,70,Colorless,,Basic,Common,sui,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-106,106,Rayquaza,120,Colorless,,Basic,Rare,Yoshinobu Saito,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-107,107,Patrat,60,Colorless,,Basic,Common,Ayaka Yoshida,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-108,108,Watchog,90,Colorless,Patrat,Stage1,Uncommon,Kagemaru Himeno,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-109,109,Fletchling,50,Colorless,,Basic,Common,You Iribi,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-110,110,Fletchinder,70,Colorless,Fletchling,Stage1,Uncommon,kawayoo,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-111,111,Talonflame,130,Colorless,Fletchinder,Stage2,Rare,Shin Nagasawa,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-112,112,Stufful,70,Colorless,,Basic,Common,Kouki Saitou,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-113,113,Bewear,130,Colorless,Stufful,Stage1,Uncommon,Shin Nagasawa,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-114,114,Komala,80,Colorless,,Basic,Uncommon,Kouki Saitou,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-115,115,Drampa GX,180,Colorless,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-116,116,Aether Paradise Conservation Area,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-117,117,Altar of the Moone,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-118,118,Altar of the Sunne,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-119,119,Aqua Patch,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-120,120,Brooklet Hill,,,,,Uncommon,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-121,121,Choice Band,,,,,Uncommon,Eske Yoshinob,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-122,122,Energy Loto,,,,,Uncommon,Yoshinobu Saito,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-123,123,Energy Recycler,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-124,124,Enhanced Hammer,,,,,Rare,Yoshinobu Saito,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-125,125,Field Blower,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-126,126,Hala,,,,,Uncommon,Ken Sugimori,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-127,127,Mallow,,,,,Uncommon,Ken Sugimori,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-128,128,Max Potion,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-129,129,Multi Switch,,,,,Uncommon,Toyste Beach,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-130,130,Rescue Stretcher,,,,,Rare,Yoshinobu Saito,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-131,131,Turtonator GX,190,Fire,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-132,132,Alolan Ninetales GX,210,Water,Alolan Vulpix,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-133,133,Wishiwashi GX,210,Water,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-134,134,Vikavolt GX,240,Lightning,Charjabug,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-135,135,Tapu Koko GX,170,Lightning,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-136,136,Toxapex GX,210,Psychic,Mareanie,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-137,137,Tapu Lele GX,170,Psychic,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-138,138,Lycanroc GX,200,Fighting,Rockruff,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-139,139,Metagross GX,250,Metal,Metang,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-140,140,Sylveon GX,200,Fairy,Eevee,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-141,141,Kommo-o GX,240,Dragon,Hakamo-o,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-142,142,Drampa GX,180,Colorless,,,Ultra Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-143,143,Hala,,,,,Ultra Rare,Naoki Saito,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-144,144,Hau,,,,,Ultra Rare,Sanosuke Sakuma,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-145,145,Mallow,,,,,Ultra Rare,Megumi Mizutani,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-146,146,Decidueye GX,240,Grass,Dartrix,,Secret Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-147,147,Incineroar GX,250,Fire,Torracat,,Secret Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-148,148,Turtonator GX,190,Fire,,,Secret Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-149,149,Primarina GX,250,Water,Brionne,,Secret Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-150,150,Alolan Ninetales GX,210,Water,Alolan Vulpix,,Secret Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-151,151,Wishiwashi GX,210,Water,,,Secret Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-152,152,Vikavolt GX,240,Lightning,Charjabug,,Secret Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-153,153,Tapu Koko GX,170,Lightning,,,Secret Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-154,154,Toxapex GX,210,Psychic,Mareanie,,Secret Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-155,155,Tapu Lele GX,170,Psychic,,,Secret Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-156,156,Lycanroc GX,200,Fighting,Rockruff,,Secret Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-157,157,Metagross GX,250,Metal,Metang,,Secret Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-158,158,Sylveon GX,200,Fairy,Eevee,,Secret Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-159,159,Kommo-o GX,240,Dragon,Hakamo-o,,Secret Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-160,160,Drampa GX,180,Colorless,,,Secret Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-161,161,Aqua Patch,,,,,Secret Rare,Toyste Beach,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-162,162,Enhanced Hammer,,,,,Secret Rare,Yoshinobu Saito,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-163,163,Field Blower,,,,,Secret Rare,Toyste Beach,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-164,164,Max Potion,,,,,Secret Rare,Toyste Beach,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-165,165,Rare Candy,,,,,Secret Rare,Toyste Beach,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-166,166,Double Colorless Energy,,,,,Secret Rare,5ban Graphics,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-167,167,Grass Energy,,,,Basic,Secret Rare,,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-168,168,Lightning Energy,,,,Basic,Secret Rare,,"normal, reverse, holo",Guardians Rising,Sun & Moon,169
+sm2-169,169,Fighting Energy,,,,Basic,Secret Rare,,"normal, reverse, holo",Guardians Rising,Sun & Moon,169

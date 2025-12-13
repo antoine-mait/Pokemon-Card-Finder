@@ -1,0 +1,97 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+A2a-001,001,Heracross,100,Grass,,Basic,Two Diamond,Satoshi Shirai,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-002,002,Burmy,50,Grass,,Basic,One Diamond,miki kudo,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-003,003,Mothim,90,Grass,Burmy,Stage1,Two Diamond,MAHOU,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-004,004,Combee,50,Grass,,Basic,One Diamond,Akira Komayama,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-005,005,Vespiquen,100,Grass,Combee,Stage1,Two Diamond,kawayoo,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-006,006,Cherubi,50,Grass,,Basic,One Diamond,Atsuko Nishida,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-007,007,Cherrim,80,Grass,Cherubi,Stage1,Two Diamond,Midori Harada,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-008,008,Cherrim,80,Grass,Cherubi,Stage1,Two Diamond,Kagemaru Himeno,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-009,009,Carnivine,80,Grass,,Basic,Three Diamond,Shiburingaru,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-010,010,Leafeon ex,140,Grass,Eevee,Stage1,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-011,011,Houndour,60,Fire,,Basic,One Diamond,Kouki Saitou,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-012,012,Houndoom,100,Fire,Houndour,Stage1,Two Diamond,Hajime Kusajima,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-013,013,Heatran,110,Fire,,Basic,Three Diamond,Kazumasa Yasukuni,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-014,014,Marill,60,Water,,Basic,One Diamond,Tika Matsuno,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-015,015,Azumarill,100,Water,Marill,Stage1,One Diamond,miki kudo,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-016,016,Barboach,60,Water,,Basic,One Diamond,sui,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-017,017,Whiscash,120,Water,Barboach,Stage1,Two Diamond,Shinya Komatsu,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-018,018,Snorunt,60,Water,,Basic,One Diamond,sowsow,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-019,019,Froslass,90,Water,Snorunt,Stage1,Two Diamond,Mizue,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-020,020,Snover,70,Water,,Basic,One Diamond,otumami,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-021,021,Abomasnow,120,Water,Snover,Stage1,Three Diamond,nagimiso,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-022,022,Glaceon ex,140,Water,Eevee,Stage1,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-023,023,Origin Forme Palkia,120,Water,,Basic,Three Diamond,toriyufu,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-024,024,Phione,60,Water,,Basic,Two Diamond,AKIRA EGAWA,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-025,025,Pikachu,60,Lightning,,Basic,One Diamond,MAHOU,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-026,026,Raichu,90,Lightning,Pikachu,Stage1,Three Diamond,Nisota Niso,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-027,027,Electrike,60,Lightning,,Basic,One Diamond,Shin Nagasawa,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-028,028,Manectric,90,Lightning,Electrike,Stage1,Two Diamond,match,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-029,029,Clefairy,60,Psychic,,Basic,One Diamond,rika,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-030,030,Clefable,100,Psychic,Clefairy,Stage1,Two Diamond,sui,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-031,031,Gastly,50,Psychic,,Basic,One Diamond,Yuu Nishida,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-032,032,Haunter,80,Psychic,Gastly,Stage1,One Diamond,Eri Yamaki,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-033,033,Gengar,140,Psychic,Haunter,Stage2,Two Diamond,Midori Harada,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-034,034,Unown,60,Psychic,,Basic,Two Diamond,Tetsu Kayama,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-035,035,Rotom,70,Psychic,,Basic,Three Diamond,Anesaki Dynamic,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-036,036,Sudowoodo,80,Fighting,,Basic,Two Diamond,Tomokazu Komiya,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-037,037,Phanpy,60,Fighting,,Basic,One Diamond,Asako Ito,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-038,038,Donphan,120,Fighting,Phanpy,Stage1,Two Diamond,Shin Nagasawa,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-039,039,Larvitar,60,Fighting,,Basic,One Diamond,Yukiko Baba,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-040,040,Pupitar,80,Fighting,Larvitar,Stage1,Two Diamond,match,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-041,041,Tyranitar,160,Fighting,Pupitar,Stage2,Three Diamond,kawayoo,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-042,042,Nosepass,80,Fighting,,Basic,One Diamond,Satoshi Shirai,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-043,043,Meditite,60,Fighting,,Basic,One Diamond,Mina Nakai,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-044,044,Medicham,100,Fighting,Meditite,Stage1,Two Diamond,Tetsu Kayama,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-045,045,Gible,60,Fighting,,Basic,One Diamond,Kyoko Umemoto,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-046,046,Gabite,80,Fighting,Gible,Stage1,One Diamond,Sumiyoshi Kizuki,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-047,047,Garchomp ex,170,Fighting,Gabite,Stage2,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-048,048,Zubat,50,Darkness,,Basic,One Diamond,Sekio,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-049,049,Golbat,80,Darkness,Zubat,Stage1,One Diamond,Kyoko Umemoto,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-050,050,Crobat,110,Darkness,Golbat,Stage2,Three Diamond,AKIRA EGAWA,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-051,051,Croagunk,60,Darkness,,Basic,One Diamond,SATOSHI NAKAI,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-052,052,Toxicroak,100,Darkness,Croagunk,Stage1,Two Diamond,Souichirou Gunjima,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-053,053,Magnemite,60,Metal,,Basic,One Diamond,OKACHEKE,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-054,054,Magneton,90,Metal,Magnemite,Stage1,One Diamond,Souichirou Gunjima,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-055,055,Magnezone,140,Metal,Magneton,Stage2,Three Diamond,toriyufu,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-056,056,Mawile,70,Metal,,Basic,One Diamond,tetsuya koizumi,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-057,057,Probopass ex,160,Metal,Nosepass,Stage1,Four Diamond,PLANETA Tsuji,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-058,058,Bronzor,60,Metal,,Basic,One Diamond,Akira Komayama,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-059,059,Bronzong,120,Metal,Bronzor,Stage1,Two Diamond,Naoki Saito,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-060,060,Origin Forme Dialga,120,Metal,,Basic,Three Diamond,akagi,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-061,061,Giratina,120,Dragon,,Basic,Three Diamond,Shin Nagasawa,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-062,062,Eevee,60,Colorless,,Basic,One Diamond,Naoyo Kimura,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-063,063,Snorlax,140,Colorless,,Basic,Two Diamond,burari,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-064,064,Hoothoot,60,Colorless,,Basic,One Diamond,Sumiyoshi Kizuki,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-065,065,Noctowl,100,Colorless,Hoothoot,Stage1,Two Diamond,DOM,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-066,066,Starly,60,Colorless,,Basic,One Diamond,Apios,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-067,067,Staravia,80,Colorless,Starly,Stage1,One Diamond,Masakazu Fukuda,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-068,068,Staraptor,150,Colorless,Staravia,Stage2,Two Diamond,Minahamu,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-069,069,Shaymin,70,Colorless,,Basic,Three Diamond,Mizue,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-070,070,Arceus,120,Colorless,,Basic,Three Diamond,Nurikabe,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-071,071,Arceus ex,140,Colorless,,Basic,Four Diamond,PLANETA CG Works,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-072,072,Irida,,,,,Two Diamond,Atsushi Furusawa,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-073,073,Celestic Town Elder,,,,,Two Diamond,Yuu Nishida,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-074,074,Barry,,,,,Two Diamond,Hideki Ishikawa,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-075,075,Adaman,,,,,Two Diamond,akagi,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-076,076,Houndoom,100,Fire,Houndour,Stage1,One Star,matazo,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-077,077,Marill,60,Water,,Basic,One Star,Taiga Kayama,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-078,078,Unown,60,Psychic,,Basic,One Star,IKEDA Saki,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-079,079,Sudowoodo,80,Fighting,,Basic,One Star,Yuriko Akase,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-080,080,Magnemite,60,Metal,,Basic,One Star,Yukihiro Tada,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-081,081,Shaymin,70,Colorless,,Basic,One Star,MINAMINAMI Take,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-082,082,Leafeon ex,140,Grass,Eevee,Stage1,Two Star,PLANETA CG Works,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-083,083,Glaceon ex,140,Water,Eevee,Stage1,Two Star,PLANETA CG Works,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-084,084,Garchomp ex,170,Fighting,Gabite,Stage2,Two Star,PLANETA CG Works,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-085,085,Probopass ex,160,Metal,Nosepass,Stage1,Two Star,PLANETA Tsuji,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-086,086,Arceus ex,140,Colorless,,Basic,Two Star,PLANETA CG Works,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-087,087,Irida,,,,,Two Star,Atsushi Furusawa,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-088,088,Celestic Town Elder,,,,,Two Star,Yuu Nishida,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-089,089,Barry,,,,,Two Star,Hideki Ishikawa,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-090,090,Adaman,,,,,Two Star,akagi,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-091,091,Leafeon ex,140,Grass,Eevee,Stage1,Two Star,saino misaki,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-092,092,Glaceon ex,140,Water,Eevee,Stage1,Two Star,rika,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-093,093,Garchomp ex,170,Fighting,Gabite,Stage2,Two Star,toriyufu,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-094,094,Probopass ex,160,Metal,Nosepass,Stage1,Two Star,Masa,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-095,095,Arceus ex,140,Colorless,,Basic,Three Star,Takumi Wada,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96
+A2a-096,096,Arceus ex,140,Colorless,,Basic,Crown,PLANETA CG Works,"normal, reverse, holo",Triumphant Light,Pokémon TCG Pocket,96

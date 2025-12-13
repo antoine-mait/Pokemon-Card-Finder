@@ -1,0 +1,184 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+sm7-1,1,Knofensa,60,Pflanze,,Basis,Häufig,Masako Yamashita,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-2,2,Ultrigaria,80,Pflanze,,Rang 1,Ungewöhnlich,Miki Tanaka,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-3,3,Sarzenia,140,Pflanze,,Rang 2,Selten,Miki Tanaka,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-4,4,Sichlor,70,Pflanze,,Basis,Ungewöhnlich,Hajime Kusajima,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-5,5,Webarak,50,Pflanze,,Basis,Häufig,Sachiko Adachi,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-6,6,Ariados,70,Pflanze,,Rang 1,Selten,Mitsuhiro Arita,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-7,7,Geckarbor,50,Pflanze,,Basis,Häufig,Sekio,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-8,8,Geckarbor,70,Pflanze,,Basis,Häufig,tetsuya koizumi,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-9,9,Reptain,80,Pflanze,,Rang 1,Ungewöhnlich,Shin Nagasawa,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-10,10,Gewaldro,140,Pflanze,,Rang 2,Selten,Mitsuhiro Arita,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-11,11,Samurzel,40,Pflanze,,Basis,Häufig,miki kudo,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-12,12,Samurzel,60,Pflanze,,Basis,Häufig,Misa Tsutsui,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-13,13,Blanas,90,Pflanze,,Rang 1,Ungewöhnlich,Ken Sugimori,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-14,14,Tengulist GX,240,Pflanze,,,Ultra Selten,PLANETA Igarashi,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-15,15,Gehweiher,50,Pflanze,,Basis,Häufig,Ken Sugimori,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-16,16,Maskeregen,90,Pflanze,,Rang 1,Ungewöhnlich,Yukiko Baba,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-17,17,Volbeat,70,Pflanze,,Basis,Ungewöhnlich,Saya Tsuruta,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-18,18,Illumise,70,Pflanze,,Basis,Ungewöhnlich,Saya Tsuruta,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-19,19,Tuska,60,Pflanze,,Basis,Häufig,Atsuko Nishida,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-20,20,Noktuska,110,Pflanze,,Rang 1,Ungewöhnlich,Atsuko Nishida,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-21,21,Tropius,110,Pflanze,,Basis,Ungewöhnlich,Kagemaru Himeno,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-22,22,Moruda,130,Pflanze,,Basis,Selten,Kyoko Umemoto,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-23,23,Schneckmag,70,Feuer,,Basis,Häufig,Midori Harada,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-24,24,Magcargo,90,Feuer,,Rang 1,Selten,Midori Harada,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-25,25,Flemmli,50,Feuer,,Basis,Häufig,Kagemaru Himeno,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-26,26,Flemmli,70,Feuer,,Basis,Häufig,MAHOU,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-27,27,Jungglut,80,Feuer,,Rang 1,Ungewöhnlich,Mizue,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-28,28,Lohgock GX,240,Feuer,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-29,29,Qurtel,120,Feuer,,Basis,Ungewöhnlich,Ken Sugimori,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-30,30,Choreogel,90,Feuer,,Basis,Ungewöhnlich,Naoyo Kimura,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-31,31,Arktos GX,170,Wasser,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-32,32,Hydropi,60,Wasser,,Basis,Häufig,Shigenori Negishi,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-33,33,Hydropi,70,Wasser,,Basis,Häufig,Misa Tsutsui,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-34,34,Moorabbel,90,Wasser,,Rang 1,Ungewöhnlich,Ken Sugimori,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-35,35,Sumpex,160,Wasser,,Rang 2,Selten,SATOSHI NAKAI,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-36,36,Loturzel,60,Wasser,,Basis,Häufig,Atsuko Nishida,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-37,37,Lombrero,80,Wasser,,Rang 1,Ungewöhnlich,Atsuko Nishida,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-38,38,Kappalores,140,Wasser,,Rang 2,Selten,Atsuko Nishida,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-39,39,Wailmer,120,Wasser,,Basis,Häufig,Kagemaru Himeno,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-40,40,Wailord,220,Wasser,,Rang 1,Selten,Anesaki Dynamic,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-41,41,Perlu,50,Wasser,,Basis,Häufig,sui,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-42,42,Aalabyss,110,Wasser,,Rang 1,Ungewöhnlich,Shigenori Negishi,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-43,43,Saganabyss,90,Wasser,,Rang 1,Ungewöhnlich,Mizue,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-44,44,Liebiskus,70,Wasser,,Basis,Häufig,Asako Ito,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-45,45,Regice,120,Wasser,,Basis,Selten,kodama,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-46,46,Kyogre,130,Wasser,,Basis,Selten,Shin Nagasawa,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-47,47,Voltobal,50,Elektro,,Basis,Häufig,Ken Sugimori,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-48,48,Lektrobal GX,190,Elektro,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-49,49,Lampi,60,Elektro,,Basis,Häufig,Aya Kusube,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-50,50,Lanturn,110,Elektro,,Rang 1,Ungewöhnlich,Aya Kusube,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-51,51,Frizelbliz,50,Elektro,,Basis,Häufig,Kouki Saitou,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-52,52,Voltenso,110,Elektro,,Rang 1,Selten,Sanosuke Sakuma,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-53,53,Plusle,70,Elektro,,Basis,Ungewöhnlich,Kanako Eo,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-54,54,Minun,70,Elektro,,Basis,Ungewöhnlich,Sumiyoshi Kizuki,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-55,55,Choreogel,90,Elektro,,Basis,Ungewöhnlich,Sekio,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-56,56,Pantimos GX,150,Psycho,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-57,57,Schluppuck,60,Psycho,,Basis,Häufig,Yuka Morii,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-58,58,Schlukwech,120,Psycho,,Rang 1,Ungewöhnlich,Yuka Morii,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-59,59,Spoink,60,Psycho,,Basis,Häufig,MAHOU,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-60,60,Groink,120,Psycho,,Rang 1,Selten,Ken Sugimori,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-61,61,Lunastein,80,Psycho,,Basis,Selten,Hisao Nakamura,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-62,62,Sonnfel,90,Psycho,,Basis,Ungewöhnlich,Kyoko Umemoto,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-63,63,Shuppet,60,Psycho,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-64,64,Shuppet,50,Psycho,,Basis,Häufig,Eri Yamaki,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-65,65,Banette,90,Psycho,,Rang 1,Selten,Eri Yamaki,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-66,66,Banette GX,190,Psycho,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-67,67,Deoxys,120,Psycho,,Basis,Selten,Masakazu Fukuda,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-68,68,Deoxys,130,Psycho,,Basis,Selten,Ayaka Yoshida,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-69,69,Deoxys,100,Psycho,,Basis,Selten,Kouki Saitou,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-70,70,Lunala,160,Psycho,,Rang 2,Selten,5ban Graphics,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-71,71,Onix,100,Kampf,,Basis,Häufig,Mitsuhiro Arita,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-72,72,Phanpy,70,Kampf,,Basis,Häufig,Ken Sugimori,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-73,73,Donphan,130,Kampf,,Rang 1,Ungewöhnlich,Ken Sugimori,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-74,74,Larvitar,60,Kampf,,Basis,Häufig,Ken Sugimori,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-75,75,Pupitar,80,Kampf,,Rang 1,Ungewöhnlich,Hironobu Yoshida,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-76,76,Meditie,70,Kampf,,Basis,Häufig,Shibuzoh.,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-77,77,Meditalis,90,Kampf,,Rang 1,Selten,Misa Tsutsui,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-78,78,Puppance,60,Kampf,,Basis,Häufig,Ken Sugimori,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-79,79,Lepumentas,110,Kampf,,Rang 1,Selten,Yumi,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-80,80,Regirock,120,Kampf,,Basis,Selten,Ayaka Yoshida,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-81,81,Groudon,130,Kampf,,Basis,Selten,Masakazu Fukuda,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-82,82,Colossand GX,210,Kampf,,Rang 1,Ultra Selten,5ban Graphics,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-83,83,Meteno,90,Kampf,,Basis,Ungewöhnlich,sui,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-84,84,Alola-Rattfratz,40,Unlicht,,Basis,Häufig,Shibuzoh.,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-85,85,Alola-Rattikarl GX,200,Unlicht,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-86,86,Sniebel,60,Unlicht,,Basis,Häufig,Ken Sugimori,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-87,87,Despotar,170,Unlicht,,Rang 2,Selten,Hironobu Yoshida,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-88,88,Zobiris,70,Unlicht,,Basis,Ungewöhnlich,Yukiko Baba,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-89,89,Stahlos,190,Metall,,Rang 1,Selten,Ken Sugimori,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-90,90,Scherox GX,210,Metall,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-91,91,Flunkifer,70,Metall,,Basis,Ungewöhnlich,Kagemaru Himeno,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-92,92,Tanhel,60,Metall,,Basis,Häufig,Naoyo Kimura,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-93,93,Tanhel,70,Metall,,Basis,Häufig,Hasuno,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-94,94,Metang,90,Metall,,Rang 1,Ungewöhnlich,SATOSHI NAKAI,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-95,95,Metagross,170,Metall,,Rang 2,Selten,TOKIYA,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-96,96,Registeel,120,Metall,,Basis,Selten,Shin Nagasawa,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-97,97,Jirachi ◇,80,Metall,,Basis,Selten,Kouki Saitou,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-98,98,Heatran,130,Metall,,Basis,Selten,Masakazu Fukuda,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-99,99,Solgaleo,160,Metall,,Rang 2,Selten,5ban Graphics,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-100,100,Kaguron,140,Metall,,Basis,Selten,kawayoo,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-101,101,Katagami,60,Metall,,Basis,Selten,Hasuno,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-102,102,Muramura GX,180,Metall,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-103,103,Kindwurm,60,Drache,,Basis,Häufig,Yumi,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-104,104,Kindwurm,70,Drache,,Basis,Häufig,sui,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-105,105,Draschel,90,Drache,,Rang 1,Ungewöhnlich,Asako Ito,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-106,106,Brutalanda,150,Drache,,Rang 2,Selten,Mitsuhiro Arita,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-107,107,Latias ◇,130,Drache,,Basis,Selten,Anesaki Dynamic,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-108,108,Latios ◇,140,Drache,,Basis,Selten,Anesaki Dynamic,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-109,109,Rayquaza GX,180,Drache,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-110,110,Dummisel,50,Farblos,,Basis,Ungewöhnlich,Mitsuhiro Arita,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-111,111,Wingull,60,Farblos,,Basis,Häufig,Ken Sugimori,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-112,112,Pelipper,120,Farblos,,Rang 1,Ungewöhnlich,Shigenori Negishi,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-113,113,Bummelz,60,Farblos,,Basis,Häufig,Kagemaru Himeno,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-114,114,Muntier,80,Farblos,,Rang 1,Ungewöhnlich,Kagemaru Himeno,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-115,115,Letarking,160,Farblos,,Rang 2,Selten,Ken Sugimori,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-116,116,Flurmel,60,Farblos,,Basis,Häufig,Shibuzoh.,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-117,117,Flurmel,70,Farblos,,Basis,Häufig,Asako Ito,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-118,118,Krakeelo,100,Farblos,,Rang 1,Ungewöhnlich,Masakazu Fukuda,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-119,119,Krawumms,150,Farblos,,Rang 2,Selten,kawayoo,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-120,120,Eneco,60,Farblos,,Basis,Häufig,Ken Sugimori,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-121,121,Enekoro,90,Farblos,,Rang 1,Selten,Sekio,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-122,122,Kecleon,80,Farblos,,Basis,Ungewöhnlich,OOYAMA,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-123,123,Kunstrad,,,,,Ungewöhnlich,Toyste Beach,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-124,124,Aprikoko-Hersteller,,,,,Ungewöhnlich,Kagemaru Himeno,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-125,125,Ultraball,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-126,126,Bills Wartung,,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-127,127,Nachahmerin,,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-128,128,Energie-Wiederverwertung,,,,,Ungewöhnlich,Zu-Ka,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-129,129,Energie-Umschalter,,,,,Ungewöhnlich,Ken Ikuji,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-130,130,Angler,,,,,Ungewöhnlich,Masakazu Fukuda,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-131,131,Freundesball,,,,,Ungewöhnlich,Katsura Tabata,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-132,132,Tali,,,,,Ungewöhnlich,TOKIYA,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-133,133,Wanderer,,,,,Ungewöhnlich,Naoki Saito,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-134,134,Notgürtel,,,,,Ungewöhnlich,Yoshinobu Saito,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-135,135,Letzte-Chance-Trank,,,,,Ungewöhnlich,Ayaka Yoshida,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-136,136,Lebenskräuter,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-137,137,Xenia,,,,,Ungewöhnlich,Megumi Mizutani,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-138,138,Köderball,,,,,Ungewöhnlich,Katsura Tabata,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-139,139,Mask Royale,,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-140,140,PokéNav,,,,,Ungewöhnlich,Katsura Tabata,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-141,141,Regenbogenpinsel,,,,,Ungewöhnlich,Eske Yoshinob,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-142,142,Sonderbonbon,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-143,143,Schrein der Bestrafung,,,,,Ungewöhnlich,5ban Graphics,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-144,144,Himmelturm,,,,,Ungewöhnlich,Ryo Ueda,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-145,145,Troys Entschluss,,,,,Selten,Hitoshi Ariga,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-146,146,Super-Anziehungskraft,,,,,Ungewöhnlich,Keiji Kinebuchi,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-147,147,Tausch,,,,,Ungewöhnlich,Hiromichi Sugiyama,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-148,148,Ben & Svenja,,,,,Ungewöhnlich,Megumi Mizutani,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-149,149,TV-Reporter,,,,,Ungewöhnlich,Ken Sugimori,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-150,150,Expedition ins Unterirdische,,,,,Ungewöhnlich,Kagemaru Himeno,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-151,151,Regenbogen-Energie,,,,,Ungewöhnlich,,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-152,152,Tengulist GX,240,Pflanze,,,Ultra Selten,PLANETA Igarashi,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-153,153,Lohgock GX,240,Feuer,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-154,154,Arktos GX,170,Wasser,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-155,155,Lektrobal GX,190,Elektro,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-156,156,Pantimos GX,150,Psycho,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-157,157,Banette GX,190,Psycho,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-158,158,Scherox GX,210,Metall,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-159,159,Muramura GX,180,Metall,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-160,160,Rayquaza GX,180,Drache,,,Ultra Selten,5ban Graphics,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-161,161,Aprikoko-Hersteller,,,,,Ultra Selten,Kagemaru Himeno,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-162,162,Bills Wartung,,,,,Ultra Selten,Sanosuke Sakuma,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-163,163,Nachahmerin,,,,,Ultra Selten,Megumi Mizutani,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-164,164,Xenia,,,,,Ultra Selten,Naoki Saito,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-165,165,Troys Entschluss,,,,,Ultra Selten,Hitoshi Ariga,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-166,166,Ben & Svenja,,,,,Ultra Selten,Hideki Ishikawa,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-167,167,TV-Reporter,,,,,Ultra Selten,nagimiso,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-168,168,Expedition ins Unterirdische,,,,,Ultra Selten,Kagemaru Himeno,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-169,169,Tengulist GX,240,Pflanze,,,Versteckt Selten,PLANETA Igarashi,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-170,170,Lohgock GX,240,Feuer,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-171,171,Arktos GX,170,Wasser,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-172,172,Lektrobal GX,190,Elektro,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-173,173,Pantimos GX,150,Psycho,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-174,174,Banette GX,190,Psycho,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-175,175,Scherox GX,210,Metall,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-176,176,Muramura GX,180,Metall,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-177,177,Rayquaza GX,180,Drache,,,Versteckt Selten,5ban Graphics,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-178,178,Kunstrad,,,,,Versteckt Selten,Toyste Beach,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-179,179,Notgürtel,,,,,Versteckt Selten,Yoshinobu Saito,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-180,180,Lebenskräuter,,,,,Versteckt Selten,Ryo Ueda,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-181,181,PokéNav,,,,,Versteckt Selten,Katsura Tabata,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-182,182,Regenbogenpinsel,,,,,Versteckt Selten,Eske Yoshinob,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183
+sm7-183,183,Regenbogen-Energie,,,,,Versteckt Selten,,"normal, reverse, holo",Sturm Am Firmament,Sonne & Mond,183

@@ -1,0 +1,76 @@
+id,localId,name,hp,types,evolveFrom,stage,rarity,illustrator,variants,set_name,set_series,set_cardCount
+neo2-1,1,Espeon,80,Psychic,Dodrio,Stage1,Rare,Atsuko Nishida,"holo, 1st edition",Neo Discovery,Neo,75
+neo2-2,2,Forretress,80,Metal,Pineco,Stage1,Rare,CR CG gangs,"holo, 1st edition",Neo Discovery,Neo,75
+neo2-3,3,Hitmontop,60,Fighting,,Basic,Rare,Sumiyoshi Kizuki,"holo, 1st edition",Neo Discovery,Neo,75
+neo2-4,4,Houndoom,70,Darkness,Houndour,Stage1,Rare,Shin-ichi Yoshida,"holo, 1st edition",Neo Discovery,Neo,75
+neo2-5,5,Houndour,50,Fire,,Basic,Rare,Aya Kusube,"holo, 1st edition",Neo Discovery,Neo,75
+neo2-6,6,Kabutops,90,Water,Kabuto,Stage2,Rare,Kimiya Masago,"holo, 1st edition",Neo Discovery,Neo,75
+neo2-7,7,Magnemite,40,Metal,,Basic,Rare,,"holo, 1st edition",Neo Discovery,Neo,75
+neo2-8,8,Politoed,100,Water,Poliwhirl,Stage2,Rare,Tomokazu Komiya,"holo, 1st edition",Neo Discovery,Neo,75
+neo2-9,9,Poliwrath,90,Fighting,Poliwhirl,Stage2,Rare,Shin-ichi Yoshida,"holo, 1st edition",Neo Discovery,Neo,75
+neo2-10,10,Scizor,80,Metal,Scyther,Stage1,Rare,Kimiya Masago,"holo, 1st edition",Neo Discovery,Neo,75
+neo2-11,11,Smeargle,50,Colorless,,Basic,Rare,Hironobu Yoshida,"holo, 1st edition",Neo Discovery,Neo,75
+neo2-12,12,Tyranitar,100,Darkness,Piloswine,Stage2,Rare,Hironobu Yoshida,"holo, 1st edition",Neo Discovery,Neo,75
+neo2-13,13,Umbreon,80,Darkness,Eevee,Stage1,Rare,Kimiya Masago,"holo, 1st edition",Neo Discovery,Neo,75
+neo2-14,14,Unown [A],40,Psychic,,Basic,Rare,CR CG gangs,"holo, 1st edition",Neo Discovery,Neo,75
+neo2-15,15,Ursaring,80,Colorless,Teddiursa,Stage1,Rare,Naoyo Kimura,"holo, 1st edition",Neo Discovery,Neo,75
+neo2-16,16,Wobbuffet,90,Psychic,,Basic,Rare,Hironobu Yoshida,"holo, 1st edition",Neo Discovery,Neo,75
+neo2-17,17,Yanma,60,Grass,,Basic,Rare,Atsuko Nishida,"holo, 1st edition",Neo Discovery,Neo,75
+neo2-18,18,Beedrill,80,Grass,Kakuna,Stage2,Rare,Aya Kusube,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-19,19,Butterfree,80,Grass,Metapod,Stage2,Rare,Atsuko Nishida,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-20,20,Espeon,70,Psychic,Eevee,Stage1,Rare,Naoyo Kimura,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-21,21,Forretress,80,Metal,Pineco,Stage1,Rare,CR CG gangs,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-22,22,Hitmontop,60,Fighting,,Basic,Rare,Sumiyoshi Kizuki,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-23,23,Houndoom,70,Darkness,Houndour,Stage1,Rare,Shin-ichi Yoshida,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-24,24,Houndour,50,Fire,,Basic,Rare,Aya Kusube,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-25,25,Kabutops,90,Water,Kabuto,Stage2,Rare,Kimiya Masago,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-26,26,Magnemite,40,Metal,,Basic,Rare,,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-27,27,Politoed,100,Water,Poliwhirl,Stage2,Rare,Tomokazu Komiya,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-28,28,Poliwrath,90,Fighting,Poliwhirl,Stage2,Rare,Shin-ichi Yoshida,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-29,29,Scizor,80,Metal,Scyther,Stage1,Rare,Kimiya Masago,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-30,30,Smeargle,50,Colorless,,Basic,Rare,Hironobu Yoshida,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-31,31,Tyranitar,100,Darkness,Pupitar,Stage2,Rare,Hironobu Yoshida,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-32,32,Umbreon,70,Darkness,Eevee,Stage1,Rare,Naoyo Kimura,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-33,33,Unown [A],40,Psychic,,Basic,Rare,CR CG gangs,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-34,34,Ursaring,80,Colorless,Teddiursa,Stage1,Rare,Naoyo Kimura,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-35,35,Wobbuffet,90,Psychic,,Basic,Rare,Hironobu Yoshida,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-36,36,Yanma,60,Grass,,Basic,Rare,Atsuko Nishida,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-37,37,Corsola,50,Water,,Basic,Uncommon,Yuka Morii,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-38,38,Eevee,50,Colorless,,Basic,Uncommon,Aya Kusube,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-39,39,Houndour,40,Darkness,,Basic,Uncommon,Shin-ichi Yoshida,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-40,40,Igglybuff,30,Colorless,,Basic,Uncommon,Miki Tanaka,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-41,41,Kakuna,70,Grass,Weedle,Stage1,Uncommon,Yukiko Baba,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-42,42,Metapod,70,Grass,Caterpie,Stage1,Uncommon,Sumiyoshi Kizuki,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-43,43,Omastar,80,Fighting,Omanyte,Stage2,Uncommon,Shin-ichi Yoshida,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-44,44,Poliwhirl,70,Water,Poliwag,Stage1,Uncommon,Kagemaru Himeno,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-45,45,Pupitar,70,Fighting,Larvitar,Stage1,Uncommon,Hironobu Yoshida,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-46,46,Scyther,60,Grass,,Basic,Uncommon,Kimiya Masago,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-47,47,Unown [D],40,Psychic,,Basic,Uncommon,CR CG gangs,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-48,48,Unown [F],40,Psychic,,Basic,Uncommon,CR CG gangs,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-49,49,Unown [M],40,Psychic,,Basic,Uncommon,CR CG gangs,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-50,50,Unown [N],40,Psychic,,Basic,Uncommon,CR CG gangs,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-51,51,Unown [U],40,Psychic,,Basic,Uncommon,CR CG gangs,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-52,52,Xatu,70,Psychic,Natu,Stage1,Uncommon,Sumiyoshi Kizuki,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-53,53,Caterpie,50,Grass,,Basic,Common,Yuka Morii,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-54,54,Dunsparce,30,Colorless,,Basic,Common,Yukiko Baba,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-55,55,Hoppip,30,Grass,,Basic,Common,Kagemaru Himeno,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-56,56,Kabuto,50,Water,,Stage1,Common,Yuka Morii,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-57,57,Larvitar,40,Fighting,,Basic,Common,Hironobu Yoshida,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-58,58,Mareep,50,Lightning,,Basic,Common,Atsuko Nishida,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-59,59,Natu,40,Psychic,,Basic,Common,Sumiyoshi Kizuki,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-60,60,Omanyte,50,Fighting,,Stage1,Common,Yuka Morii,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-61,61,Pineco,40,Grass,,Basic,Common,Tomokazu Komiya,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-62,62,Poliwag,40,Water,,Basic,Common,Aya Kusube,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-63,63,Sentret,50,Colorless,,Basic,Common,Sumiyoshi Kizuki,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-64,64,Spinarak,50,Grass,,Basic,Common,Yukiko Baba,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-65,65,Teddiursa,40,Colorless,,Basic,Common,Miki Tanaka,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-66,66,Tyrogue,30,Fighting,,Basic,Common,Miki Tanaka,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-67,67,Unown [E],40,Psychic,,Basic,Common,CR CG gangs,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-68,68,Unown [I],40,Psychic,,Basic,Common,CR CG gangs,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-69,69,Unown [O],40,Psychic,,Basic,Common,CR CG gangs,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-70,70,Weedle,40,Grass,,Basic,Common,Miki Tanaka,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-71,71,Wooper,50,Water,,Basic,Common,Yukiko Baba,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-72,72,Fossil Egg,,,,,Uncommon,,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-73,73,Hyper Devolution Spray,,,,,Uncommon,,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-74,74,Ruin Wall,,,,,Uncommon,,"normal, 1st edition",Neo Discovery,Neo,75
+neo2-75,75,Energy Ark,,,,,Common,,"normal, 1st edition",Neo Discovery,Neo,75
