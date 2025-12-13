@@ -42,9 +42,9 @@ def generate_csv_from_images(folder_path, output_folder='Renamed_Cropped'):
     
     # Get script directory for CSV output
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    csv_path = os.path.join(script_dir, f'card_list_{set_code}.csv')
+    csv_path = os.path.join(script_dir, f'cardList_tcgPowerTool_{set_code}.csv')
     
-    # Dictionary to track card quantities: key = (card_name, card_number, set_code)
+    # Dictionary to track card quantities: key = (card_name, local_id, set_code)
     card_quantities = {}
     
     # Process each image
@@ -62,21 +62,24 @@ def generate_csv_from_images(folder_path, output_folder='Renamed_Cropped'):
                 name_parts = name_number.rsplit('_', 1)  # Split name and number
                 
                 if len(name_parts) == 2:
-                    card_number = name_parts[1]  # "017-094"
+                    card_number = name_parts[1]  # "017-094" or "017/094"
                     
-                    # Get English name from database
-                    card_name_en = get_card_name(card_number, language='EN')
+                    # Extract local_id (the number before the /)
+                    local_id = card_number.replace('/', '-').split('-')[0]
+                    
+                    # Get English name from database using set code
+                    card_name_en = get_card_name(card_number, set_code=set_code, language='EN')
                     
                     if card_name_en:
-                        card_key = (card_name_en, card_number, set_code)
+                        card_key = (card_name_en, local_id, set_code)
                         card_quantities[card_key] = card_quantities.get(card_key, 0) + 1
-                        print(f"✓ Counted: {card_name_en} (quantity: {card_quantities[card_key]})")
+                        print(f"✓ Counted: {card_name_en} #{local_id} (quantity: {card_quantities[card_key]})")
                     else:
                         # Fallback to French name from filename if English not found
                         card_name_fr = name_parts[0]
-                        card_key = (card_name_fr, card_number, set_code)
+                        card_key = (card_name_fr, local_id, set_code)
                         card_quantities[card_key] = card_quantities.get(card_key, 0) + 1
-                        print(f"✓ Counted: {card_name_fr} (from filename, quantity: {card_quantities[card_key]})")
+                        print(f"✓ Counted: {card_name_fr} #{local_id} (from filename, quantity: {card_quantities[card_key]})")
                         
         except Exception as e:
             print(f"✗ Error processing {filename}: {e}")
@@ -85,10 +88,10 @@ def generate_csv_from_images(folder_path, output_folder='Renamed_Cropped'):
     # Write CSV with aggregated quantities
     with open(csv_path, 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.writer(csvfile)
-        writer.writerow(['Card Name', 'Set Code', 'Quantity', 'Language', 'Foil', 'Condition', 'Comment'])
+        writer.writerow(['Card Name', 'Card Number', 'Set Code', 'Quantity', 'Language', 'Finish Type', 'Condition', 'Comment'])
         
-        for (card_name, card_number, set_code), quantity in sorted(card_quantities.items()):
-            writer.writerow([card_name, set_code, quantity, 'FR', 'no', 'NM', 'Booster -> Sleeve'])
+        for (card_name, local_id, set_code), quantity in sorted(card_quantities.items()):
+            writer.writerow([card_name, local_id, set_code, quantity, 'FR', 'regular', 'NM', 'Booster -> Sleeve'])
     
     print(f"\n✓ CSV saved: {csv_path}")
     print(f"  Unique cards: {len(card_quantities)}")
