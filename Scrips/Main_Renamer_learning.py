@@ -4,146 +4,20 @@ import os
 import sys
 import json
 import csv
+import pickle
 from pathlib import Path
+
+from cards_utils import (
+    LearningSystem, 
+    CardDatabase, 
+    CardCropper,
+    sanitize_filename, 
+    get_unique_filename, 
+    extract_set_code
+)
 
 if sys.platform == 'win32':
     sys.stdout.reconfigure(encoding='utf-8')
-
-def sanitize_filename(filename):
-    """Remove or replace characters that are invalid in Windows filenames"""
-    replacements = {
-        'é': 'e', 'è': 'e', 'ê': 'e', 'à': 'a', 'ç': 'c',
-        'ï': 'i', 'ô': 'o', 'û': 'u', 'É': 'E', 'ä': 'a',
-        'ö': 'o', 'ü': 'u', 'ß': 'ss',
-    }
-    
-    for char, replacement in replacements.items():
-        filename = filename.replace(char, replacement)
-    
-    filename = filename.encode('ascii', 'ignore').decode('ascii')
-    return filename
-
-def get_unique_filename(output_dir, base_filename):
-    """Generate unique filename by adding (1), (2), etc. if file exists"""
-    name_without_ext, ext = os.path.splitext(base_filename)
-    test_filename = base_filename
-    test_filepath = os.path.join(output_dir, test_filename)
-    
-    if not os.path.exists(test_filepath):
-        return test_filename
-    
-    counter = 1
-    while True:
-        test_filename = f"{name_without_ext}({counter}){ext}"
-        test_filepath = os.path.join(output_dir, test_filename)
-        
-        if not os.path.exists(test_filepath):
-            return test_filename
-        
-        counter += 1
-
-def extract_set_code(folder_path):
-    """Extract the set code from folder name (last part after last underscore)"""
-    folder_name = os.path.basename(folder_path)
-    parts = folder_name.split('_')
-    if len(parts) > 0:
-        return parts[-1]
-    return 'unknown'
-
-class CardCropper:
-    """Automatically detects and crops Pokémon cards from images"""
-    
-    def __init__(self, image_path):
-        self.image_path = image_path
-        self.image = cv2.imread(image_path)
-        self.cropped_card = None
-        
-    def find_card_contour(self):
-        """Find the card's contour in the image"""
-        gray = cv2.cvtColor(self.image, cv2.COLOR_BGR2GRAY)
-        blurred = cv2.GaussianBlur(gray, (5, 5), 0)
-        edges = cv2.Canny(blurred, 50, 150)
-        
-        kernel = np.ones((5, 5), np.uint8)
-        dilated = cv2.dilate(edges, kernel, iterations=2)
-        
-        contours, _ = cv2.findContours(dilated, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
-        
-        if not contours:
-            return None
-        
-        largest_contour = max(contours, key=cv2.contourArea)
-        return largest_contour
-    
-    def rotate_image(self, contour):
-        """Rotate image to straighten the card"""
-        rect = cv2.minAreaRect(contour)
-        angle = rect[-1]
-        
-        if angle > 45:
-            angle = angle - 90
-        elif angle < -45:
-            angle = angle + 90
-        
-        if abs(angle) < 1:
-            return self.image, angle
-        
-        (h, w) = self.image.shape[:2]
-        center = (w // 2, h // 2)
-        
-        M = cv2.getRotationMatrix2D(center, angle, 1.0)
-        rotated = cv2.warpAffine(self.image, M, (w, h), 
-                                  flags=cv2.INTER_CUBIC,
-                                  borderMode=cv2.BORDER_REPLICATE)
-        
-        return rotated, angle
-
-    def crop_card_back(self):
-        """Simple center crop for card backs"""
-        h, w = self.image.shape[:2]
-        
-        crop_percent_w = 0.4
-        crop_percent_h = 0.95
-        
-        crop_w = int(w * crop_percent_w)
-        crop_h = int(h * crop_percent_h)
-        
-        start_x = (w - crop_w) // 2
-        start_y = (h - crop_h) // 2
-        
-        start_x = max(0, start_x)
-        start_y = max(0, start_y)
-        end_x = min(w, start_x + crop_w)
-        end_y = min(h, start_y + crop_h)
-        
-        self.cropped_card = self.image[start_y:end_y, start_x:end_x]
-        return self.cropped_card
-    
-    def crop_card(self):
-        """Crop the card using bounding rectangle with rotation correction"""
-        contour = self.find_card_contour()
-        
-        if contour is None:
-            return None
-        
-        rotated_image, angle = self.rotate_image(contour)
-        self.image = rotated_image
-        
-        contour = self.find_card_contour()
-        if contour is None:
-            return None
-        
-        x, y, w, h = cv2.boundingRect(contour)
-        
-        margin = 20
-        x = max(0, x - margin)
-        y = max(0, y - margin)
-        w = min(self.image.shape[1] - x, w + 2*margin)
-        h = min(self.image.shape[0] - y, h + 2*margin)
-        
-        self.cropped_card = self.image[y:y+h, x:x+w]
-        return self.cropped_card
-
 
 class CardMatcher:
     """Match cropped cards against reference images using computer vision"""
@@ -156,6 +30,7 @@ class CardMatcher:
         self.csv_path = None
         self.current_language = None
         self.load_reference_images()
+        self.learning = LearningSystem(self.set_code)
     
     def load_reference_images(self):
         """Load all reference images and card info from the set folder"""
@@ -413,6 +288,22 @@ class CardMatcher:
     
     def match_card(self, cropped_image, show_top_matches=3):
         """Find the best matching card from reference images"""
+        
+        # STEP 1: Check if we've learned this card before (HIGH threshold)
+        learned_id, conf, _ = self.learning.check_learned_match(cropped_image)
+        if learned_id and conf > 0.85:  # Only auto-match if VERY confident
+            card_info = self.card_info_map.get(learned_id)
+            if card_info:
+                if self.current_language:
+                    name = self.get_card_name_for_language(card_info, self.current_language)
+                else:
+                    name = card_info.get('name', 'Unknown')
+                print(f"  🎯 FOUND IN MEMORY: {name} ({conf:.0%} confidence)")
+                print(f"  ⚡ Auto-matched - skipping search!")
+                self.learning.update_stats('auto')
+                return card_info
+
+        # STEP 2: Do normal matching (WITHOUT boosting - that was the problem!)
         if not self.reference_images:
             print("  ⚠ No reference images loaded")
             return None
@@ -421,9 +312,17 @@ class CardMatcher:
         
         matches = []
         
+        # STEP 3: Just filter blacklist, DON'T boost scores
         for card_id, ref_img in self.reference_images.items():
+            # Skip blacklisted matches
+            if self.learning.is_blacklisted(cropped_image, card_id):
+                continue
+                
             try:
                 score = self.compare_images_features(cropped_image, ref_img)
+                # REMOVED: boost = self.learning.get_confidence_boost(card_id)
+                # REMOVED: score += boost
+                
                 matches.append((card_id, score))
             except Exception as e:
                 continue
@@ -433,13 +332,17 @@ class CardMatcher:
         print(f"\n  Top {show_top_matches} matches:")
         for i, (card_id, score) in enumerate(matches[:show_top_matches], 1):
             card_info = self.card_info_map.get(card_id, {})
-            # Show name in current language
             if self.current_language:
                 name = self.get_card_name_for_language(card_info, self.current_language)
             else:
                 name = card_info.get('name', 'Unknown')
             local_id = card_info.get('localId', '')
-            print(f"    {i}. {name} (#{local_id}) - Score: {score:.3f}")
+            
+            # Show if this card has been learned before (but don't boost score)
+            boost = self.learning.get_confidence_boost(card_id)
+            learned_marker = " 🧠" if boost > 0 else ""
+            
+            print(f"    {i}. {name} (#{local_id}) - Score: {score:.3f}{learned_marker}")
         
         if matches and matches[0][1] > 0.15:
             best_card_id = matches[0][0]
@@ -447,7 +350,6 @@ class CardMatcher:
             
             card_info = self.card_info_map.get(best_card_id, {})
             
-            # Show name in current language
             if self.current_language:
                 name = self.get_card_name_for_language(card_info, self.current_language)
             else:
@@ -456,21 +358,39 @@ class CardMatcher:
             print(f"\n  ✓ Best match: {name} (#{card_info.get('localId', '')})")
             print(f"    Match score: {best_score:.3f}")
             
-            ref_image = self.reference_images[best_card_id]
-            accepted = True  # Auto-accept high confidence matches
-            
-            if accepted:
+            # Auto-accept high confidence or ask user
+            if best_score > 0.25:
+                # High confidence - auto accept and learn
+                self.learning.add_confirmed_match(cropped_image, best_card_id)
+                self.learning.update_stats('auto')
                 return card_info
             else:
-                print("  ✗ Match rejected by user")
-                return self.manual_card_entry()
+                # Lower confidence - ask user
+                ref_image = self.reference_images[best_card_id]
+                accepted = show_comparison(cropped_image, ref_image, name, best_score)
+                
+                if accepted:
+                    # User accepted - learn it
+                    self.learning.add_confirmed_match(cropped_image, best_card_id)
+                    self.learning.update_stats('auto')
+                    return card_info
+                else:
+                    # User rejected - blacklist it
+                    print("  ✗ Match rejected by user")
+                    self.learning.add_rejection(cropped_image, best_card_id)
+                    result = self.manual_card_entry()
+                    if result:
+                        self.learning.add_confirmed_match(cropped_image, result['id'])
+                        self.learning.update_stats('manual')
+                    return result
             
         else:
-            print(f"\n  ✗ No confident match (best score: {matches[0][1]:.3f})")
+            print(f"\n  ✗ No confident match")
+            if matches:
+                print(f"    (best score: {matches[0][1]:.3f})")
             
             if matches:
                 card_info = self.card_info_map.get(matches[0][0], {})
-                # Show name in current language
                 if self.current_language:
                     name = self.get_card_name_for_language(card_info, self.current_language)
                 else:
@@ -482,12 +402,25 @@ class CardMatcher:
                 accepted = show_comparison(cropped_image, ref_image, name, matches[0][1])
                 
                 if accepted:
+                    # User accepted the guess - learn it
+                    self.learning.add_confirmed_match(cropped_image, matches[0][0])
+                    self.learning.update_stats('auto')
                     return card_info
                 else:
-                    return self.manual_card_entry()
+                    # User rejected - blacklist and go manual
+                    self.learning.add_rejection(cropped_image, matches[0][0])
+                    result = self.manual_card_entry()
+                    if result:
+                        self.learning.add_confirmed_match(cropped_image, result['id'])
+                        self.learning.update_stats('manual')
+                    return result
             
-            return self.manual_card_entry()
-
+            # No matches at all - go straight to manual
+            result = self.manual_card_entry()
+            if result:
+                self.learning.add_confirmed_match(cropped_image, result['id'])
+                self.learning.update_stats('manual')
+            return result
 
 def show_comparison(cropped_image, reference_image, card_name, confidence):
     """Display cropped image and matched reference side by side"""
@@ -539,7 +472,7 @@ def show_comparison(cropped_image, reference_image, card_name, confidence):
         print(f"  ⚠ Could not display: {e}")
         response = input("  Accept this match? (y/n): ").strip().lower()
         return response == 'y'
-    
+
 def process_folder(folder_path, output_folder='Renamed_Cropped', selected_language=None):
     """Process all card images in a folder - FRONT/BACK pairs"""
     
@@ -708,13 +641,12 @@ def process_folder(folder_path, output_folder='Renamed_Cropped', selected_langua
         print(f"Output: {output_dir}")
         print("="*70)
 
-
 if __name__ == "__main__":
     print("="*70)
-    print("POKÉMON CARD PROCESSOR - IMAGE MATCHING")
+    print("POKÉMON CARD PROCESSOR - IMAGE MATCHING WITH LEARNING")
     print("="*70)
     print("\nThis script processes FRONT/BACK image pairs")
-    print("Only the FRONT card is matched, BACK uses the same name\n")
+    print("🧠 NEW: Learning system remembers your corrections!\n")
     
     folder_path = input("Enter path to set folder: ").strip().strip('"')
     
