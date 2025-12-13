@@ -33,27 +33,23 @@ def get_number_region_coords(set_code, regions_config):
     
     print(f"\n  [DEBUG] Raw set_code from folder: '{set_code}'")
     print(f"  [DEBUG] Normalized set_key: '{set_key}'")
-    print(f"  [DEBUG] Available sets in config: {list(regions_config.keys())}")
     
     # Try exact match first
     if set_key in regions_config:
         coords = regions_config[set_key]['number_region']
         print(f"  ✓ Using region coordinates for set '{set_key}'")
-        print(f"  [DEBUG] Region: y={coords['y_start']}-{coords['y_end']}, x={coords['x_start']}-{coords['x_end']}")
         return coords
     
     # Try with dots (original format)
     if set_code.upper() in regions_config:
         coords = regions_config[set_code.upper()]['number_region']
         print(f"  ✓ Using region coordinates for set '{set_code.upper()}'")
-        print(f"  [DEBUG] Region: y={coords['y_start']}-{coords['y_end']}, x={coords['x_start']}-{coords['x_end']}")
         return coords
     
     # Fall back to default
     if 'DEFAULT' in regions_config:
         coords = regions_config['DEFAULT']['number_region']
         print(f"  ⚠ Set '{set_code}' not in config, using DEFAULT coordinates")
-        print(f"  [DEBUG] Region: y={coords['y_start']}-{coords['y_end']}, x={coords['x_start']}-{coords['x_end']}")
         return coords
     
     # Hardcoded fallback if no config at all
@@ -330,7 +326,7 @@ class PokemonCardReader:
         def clean_ocr_text(text):
             """Convert common OCR letter mistakes to numbers"""
             replacements = {
-                'i': '1', 'I': '1', 'l': '1', 'L': '1', '|': '1',
+                'i': '1', 'I': '1', 'l': '1', 'L': '1', '|': '1', 'P' : '1',
                 'o': '0', 'O': '0',
                 'z': '2', 'Z': '2',
                 's': '5', 'S': '5',
@@ -510,10 +506,8 @@ def process_card(image_path, set_code, regions_config, save_cropped=True, output
     return info
 
 
-def process_folder(folder_path, output_folder='Renamed_Cropped', language='EN'):
-    """Process all card images in a folder (handles front/back pairs)"""
-    output_dir = os.path.join(folder_path, output_folder)
-    os.makedirs(output_dir, exist_ok=True)
+def process_folder(folder_path, output_folder='Renamed_Cropped', selected_language=None):
+    """Process all card images in a folder with language subfolders"""
     
     # Load region configurations
     config_path = os.path.join('PokemonCardLists', 'set_regions.json')
@@ -524,119 +518,150 @@ def process_folder(folder_path, output_folder='Renamed_Cropped', language='EN'):
     
     raw_folder = os.path.join(folder_path, 'raw')
     
-    if os.path.exists(raw_folder):
-        search_path = raw_folder
-        print(f"Found 'raw' folder, processing images from: {search_path}")
+    if not os.path.exists(raw_folder):
+        print(f"Error: 'raw' folder not found in {folder_path}")
+        return
+    
+    # Check for language subfolders
+    language_folders = ['DE', 'EN', 'FR', 'JA']
+    found_languages = []
+    
+    for lang in language_folders:
+        lang_path = os.path.join(raw_folder, lang)
+        if os.path.exists(lang_path) and os.path.isdir(lang_path):
+            found_languages.append(lang)
+    
+    if not found_languages:
+        print("No language subfolders (DE/EN/FR/JA) found in raw folder")
+        return
+    
+    # Filter to selected language if specified
+    if selected_language:
+        if selected_language in found_languages:
+            found_languages = [selected_language]
+            print(f"Processing only: {selected_language}\n")
+        else:
+            print(f"Error: Language '{selected_language}' not found in available languages")
+            return
     else:
-        search_path = folder_path
-        print(f"No 'raw' folder found, processing images from: {search_path}")
-        
-    # Find all images
-    extensions = ['.jpg', '.jpeg', '.png', '.bmp']
-    image_files = sorted([f for f in os.listdir(search_path) 
-                   if any(f.lower().endswith(ext) for ext in extensions)])
+        print(f"Found language folders: {', '.join(found_languages)}\n")
     
-    print(f"Found {len(image_files)} images to process\n")
-    
-    results = []
-    i = 0
-    
-    while i < len(image_files):
-        filename = image_files[i]
+    # Process each language folder
+    for language in found_languages:
+        print("\n" + "="*70)
+        print(f"PROCESSING LANGUAGE: {language}")
+        print("="*70)
         
-        print(f"\n{'='*70}")
-        print(f"[{i+1}/{len(image_files)}] Processing {filename}...")
-        print('='*70)
+        search_path = os.path.join(raw_folder, language)
+        output_dir = os.path.join(folder_path, output_folder, language)
+        os.makedirs(output_dir, exist_ok=True)
         
-        input_path = os.path.join(search_path, filename)
+        # Find all images
+        extensions = ['.jpg', '.jpeg', '.png', '.bmp']
+        image_files = sorted([f for f in os.listdir(search_path) 
+                       if any(f.lower().endswith(ext) for ext in extensions)])
         
-        try:
-            # Process the FRONT card
-            info = process_card(input_path, set_code, regions_config, save_cropped=False, output_folder=output_folder, language=language)
+        print(f"Found {len(image_files)} images in {language} folder\n")
+        
+        results = []
+        i = 0
+        
+        while i < len(image_files):
+            filename = image_files[i]
             
-            if info and info.get('name') != 'Unknown':
-                name = sanitize_filename(info.get('name', 'Unknown'))
-                number = info.get('number', 'Unknown').replace('/', '-')
-                ext = os.path.splitext(filename)[1]
+            print(f"\n{'='*70}")
+            print(f"[{i+1}/{len(image_files)}] Processing {filename} ({language})...")
+            print('='*70)
+            
+            input_path = os.path.join(search_path, filename)
+            
+            try:
+                # Process the FRONT card
+                info = process_card(input_path, set_code, regions_config, save_cropped=False, output_folder=output_folder, language=language)
                 
-                # Crop and save FRONT
-                cropper = CardCropper(input_path)
-                if cropper.image is not None:
-                    cropped_card = cropper.crop_card()
-                    if cropped_card is not None:
-                        base_front_filename = f"{name}_{number}_{set_code}_{language}_FRONT{ext}"
-                        front_filename = get_unique_filename(output_dir, base_front_filename)
-                        front_path = os.path.join(output_dir, front_filename)
-                        cv2.imwrite(front_path, cropped_card)
-                        print(f"✓ Saved FRONT as: {front_filename}")
-                        
-                        results.append({
-                            'original': filename,
-                            'new_name': front_filename,
-                            'status': 'success'
-                        })
-                
-                # Process BACK (next image)
-                if i + 1 < len(image_files):
-                    back_filename = image_files[i + 1]
-                    back_input_path = os.path.join(search_path, back_filename)
+                if info and info.get('name') != 'Unknown':
+                    name = sanitize_filename(info.get('name', 'Unknown'))
+                    number = info.get('number', 'Unknown').replace('/', '-')
+                    ext = os.path.splitext(filename)[1]
                     
-                    print(f"\n{'='*70}")
-                    print(f"[{i+2}/{len(image_files)}] Processing {back_filename} (BACK)...")
-                    print('='*70)
-                    
-                    back_cropper = CardCropper(back_input_path)
-                    if back_cropper.image is not None:
-                        back_cropped = back_cropper.crop_card_back()
-                        if back_cropped is not None:
-                            base_back_filename = f"{name}_{number}_{set_code}_{language}_BACK{ext}"
-                            back_new_filename = get_unique_filename(output_dir, base_back_filename)
-                            back_path = os.path.join(output_dir, back_new_filename)
-                            cv2.imwrite(back_path, back_cropped)
-                            print(f"✓ Saved BACK as: {back_new_filename}")
+                    # Crop and save FRONT
+                    cropper = CardCropper(input_path)
+                    if cropper.image is not None:
+                        cropped_card = cropper.crop_card()
+                        if cropped_card is not None:
+                            base_front_filename = f"{name}_{number}_{set_code}_{language}_FRONT{ext}"
+                            front_filename = get_unique_filename(output_dir, base_front_filename)
+                            front_path = os.path.join(output_dir, front_filename)
+                            cv2.imwrite(front_path, cropped_card)
+                            print(f"✓ Saved FRONT as: {front_filename}")
                             
                             results.append({
-                                'original': back_filename,
-                                'new_name': back_new_filename,
+                                'original': filename,
+                                'new_name': front_filename,
                                 'status': 'success'
                             })
                     
-                    i += 2
+                    # Process BACK (next image)
+                    if i + 1 < len(image_files):
+                        back_filename = image_files[i + 1]
+                        back_input_path = os.path.join(search_path, back_filename)
+                        
+                        print(f"\n{'='*70}")
+                        print(f"[{i+2}/{len(image_files)}] Processing {back_filename} (BACK)...")
+                        print('='*70)
+                        
+                        back_cropper = CardCropper(back_input_path)
+                        if back_cropper.image is not None:
+                            back_cropped = back_cropper.crop_card_back()
+                            if back_cropped is not None:
+                                base_back_filename = f"{name}_{number}_{set_code}_{language}_BACK{ext}"
+                                back_new_filename = get_unique_filename(output_dir, base_back_filename)
+                                back_path = os.path.join(output_dir, back_new_filename)
+                                cv2.imwrite(back_path, back_cropped)
+                                print(f"✓ Saved BACK as: {back_new_filename}")
+                                
+                                results.append({
+                                    'original': back_filename,
+                                    'new_name': back_new_filename,
+                                    'status': 'success'
+                                })
+                        
+                        i += 2
+                    else:
+                        i += 1
                 else:
+                    results.append({
+                        'original': filename,
+                        'new_name': filename,
+                        'status': 'failed'
+                    })
                     i += 1
-            else:
+                    
+            except Exception as e:
+                print(f"Error: {e}")
                 results.append({
                     'original': filename,
                     'new_name': filename,
-                    'status': 'failed'
+                    'status': 'error'
                 })
                 i += 1
-                
-        except Exception as e:
-            print(f"Error: {e}")
-            results.append({
-                'original': filename,
-                'new_name': filename,
-                'status': 'error'
-            })
-            i += 1
-    
-    # Print summary
-    print("\n" + "="*70)
-    print("PROCESSING SUMMARY")
-    print("="*70)
-    success = sum(1 for r in results if r['status'] == 'success')
-    failed = sum(1 for r in results if r['status'] == 'failed')
-    errors = sum(1 for r in results if r['status'] == 'error')
-    
-    print(f"Total: {len(results)} | Success: {success} | Failed: {failed} | Errors: {errors}")
-    print(f"Output folder: {output_dir}")
-    print("="*70)
-    
-    for r in results:
-        status_icon = "✓" if r['status'] == 'success' else "✗"
-        print(f"{status_icon} {r['original']:40} -> {r['new_name']}")
-    print("="*70)
+        
+        # Print summary for this language
+        print("\n" + "="*70)
+        print(f"PROCESSING SUMMARY - {language}")
+        print("="*70)
+        success = sum(1 for r in results if r['status'] == 'success')
+        failed = sum(1 for r in results if r['status'] == 'failed')
+        errors = sum(1 for r in results if r['status'] == 'error')
+        
+        print(f"Total: {len(results)} | Success: {success} | Failed: {failed} | Errors: {errors}")
+        print(f"Output folder: {output_dir}")
+        print("="*70)
+        
+        for r in results:
+            status_icon = "✓" if r['status'] == 'success' else "✗"
+            print(f"{status_icon} {r['original']:40} -> {r['new_name']}")
+        print("="*70)
 
 
 # Main execution
@@ -670,7 +695,34 @@ if __name__ == "__main__":
         process_card(image_path, set_code, regions_config, save_cropped=True)
     elif choice == "2":
         folder_path = input("\nEnter full path to folder: ").strip().strip('"')
-        process_folder(folder_path, language="EN")
+        
+        # Check available languages
+        raw_folder = os.path.join(folder_path, 'raw')
+        if not os.path.exists(raw_folder):
+            print(f"Error: 'raw' folder not found in {folder_path}")
+        else:
+            language_folders = ['DE', 'EN', 'FR', 'JA']
+            found_languages = []
+            
+            for lang in language_folders:
+                lang_path = os.path.join(raw_folder, lang)
+                if os.path.exists(lang_path) and os.path.isdir(lang_path):
+                    found_languages.append(lang)
+            
+            if not found_languages:
+                print("No language subfolders (DE/EN/FR/JA) found in raw folder")
+            else:
+                print(f"\nAvailable languages: {', '.join(found_languages)}")
+                print("ALL - Process all languages")
+                
+                selected_language = input("\nEnter language code (or 'ALL' for all languages): ").strip().upper()
+                
+                if selected_language == 'ALL':
+                    process_folder(folder_path)
+                elif selected_language in found_languages:
+                    process_folder(folder_path, selected_language=selected_language)
+                else:
+                    print(f"Invalid language code! Please choose from: {', '.join(found_languages)} or ALL")
     else:
         print("Invalid choice!")
     
