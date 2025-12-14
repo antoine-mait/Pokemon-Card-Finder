@@ -6,6 +6,11 @@ import json
 import csv
 import pickle
 from pathlib import Path
+from threading import Thread, Lock
+from queue import Queue
+import time
+
+user_interaction_lock = Lock()
 
 from cards_utils import (
     LearningSystem, 
@@ -19,6 +24,10 @@ from cards_utils import (
 if sys.platform == 'win32':
     sys.stdout.reconfigure(encoding='utf-8')
 
+# Global lock for user interaction
+user_interaction_lock = Lock()
+csv_write_lock = Lock()
+
 class CardMatcher:
     """Match cropped cards against reference images using computer vision"""
     
@@ -26,7 +35,7 @@ class CardMatcher:
         self.set_code = set_code
         self.base_path = Path(base_path)
         self.reference_images = {}
-        self.card_info_map = {}  # Maps card_id to all language names
+        self.card_info_map = {}
         self.csv_path = None
         self.current_language = None
         self.use_pokedex = False
@@ -34,90 +43,119 @@ class CardMatcher:
         self.load_reference_images()
         self.learning = LearningSystem(self.set_code)
         self.check_if_old_set()
+        self.window_name = None
     
+    def show_comparison_window(self, cropped_image, card_id, card_name):
+        """Show side-by-side comparison of cropped card and reference"""
+        if card_id not in self.reference_images:
+            return
+        
+        try:
+            from PIL import Image, ImageDraw, ImageFont
+            
+            ref_img = self.reference_images[card_id]
+            
+            # Convert BGR to RGB
+            crop_rgb = cv2.cvtColor(cropped_image, cv2.COLOR_BGR2RGB)
+            ref_rgb = cv2.cvtColor(ref_img, cv2.COLOR_BGR2RGB)
+            
+            # Convert to PIL
+            img_crop = Image.fromarray(crop_rgb)
+            img_ref = Image.fromarray(ref_rgb)
+            
+            # Resize to same height
+            target_height = 600
+            aspect_crop = img_crop.width / img_crop.height
+            aspect_ref = img_ref.width / img_ref.height
+            
+            img_crop = img_crop.resize((int(target_height * aspect_crop), target_height), 
+                                      Image.Resampling.LANCZOS)
+            img_ref = img_ref.resize((int(target_height * aspect_ref), target_height), 
+                                    Image.Resampling.LANCZOS)
+            
+            # Create side-by-side comparison
+            total_width = img_crop.width + img_ref.width + 20
+            total_height = target_height + 60
+            
+            comparison = Image.new('RGB', (total_width, total_height), color=(0, 0, 0))
+            comparison.paste(img_crop, (0, 60))
+            comparison.paste(img_ref, (img_crop.width + 20, 60))
+            
+            # Add labels
+            draw = ImageDraw.Draw(comparison)
+            try:
+                font = ImageFont.truetype("arial.ttf", 24)
+            except:
+                font = ImageFont.load_default()
+            
+            draw.text((10, 10), "Your Card", fill='white', font=font)
+            draw.text((img_crop.width + 30, 10), f"Match: {card_name}", fill='white', font=font)
+            
+            # Show in default image viewer (same as old code)
+            comparison.show(title=f"Match: {card_name} [{self.current_language}]")
+            self.window_name = "PIL_COMPARISON"
+            
+        except ImportError:
+            print(f"  ⚠️  Cannot display comparison (Pillow not installed)")
+            print(f"  💡 Install: pip install Pillow")
+        except Exception as e:
+            print(f"  ⚠️  Cannot display comparison: {e}")
+    
+    def close_comparison_window(self):
+        """Close the comparison window"""
+        if self.window_name:
+            self.window_name = None
+            
     def check_if_old_set(self):
         """Check if this is a pre-2002 set that needs Pokedex for JA language"""
-        # Load all_sets_full.json to check release date
         sets_file = Path('PokemonCardLists/all_sets_full.json')
         
         if not sets_file.exists():
-            print(f"  ⚠ all_sets_full.json not found at {sets_file}")
-            print(f"  Checking if set code suggests old set...")
-            # Fallback: Check if set code starts with known old prefixes
             old_set_prefixes = ['base', 'jungle', 'fossil', 'base2', 'gym1', 'gym2', 
                                'neo1', 'neo2', 'neo3', 'neo4', 'legendary']
             if any(self.set_code.lower().startswith(prefix) for prefix in old_set_prefixes):
                 self.use_pokedex = True
                 from cards_utils import PokedexDatabase
                 self.pokedex_db = PokedexDatabase()
-                print(f"  📖 Old set detected (pre-2003) - Pokedex lookup enabled for JA")
+                print(f"  📖 Old set detected - Pokedex lookup enabled for JA")
             return
         
         try:
             with open(sets_file, 'r', encoding='utf-8') as f:
                 data = json.load(f)
             
-            # Check if data is a dict with a 'data' key or if it's directly a list
             if isinstance(data, dict):
                 all_sets = data.get('data', [])
             elif isinstance(data, list):
                 all_sets = data
             else:
-                print(f"  ⚠ Unexpected JSON format")
                 all_sets = []
             
-            # Find this set
             found_set = False
             for set_info in all_sets:
                 if not isinstance(set_info, dict):
                     continue
                     
                 set_id = set_info.get('id', '')
-                # Try exact match or partial match
                 if set_id == self.set_code or set_id.lower() == self.set_code.lower():
                     release_date = set_info.get('releaseDate', '')
-                    print(f"  ℹ Found set in database: {set_info.get('name', 'Unknown')}")
-                    print(f"  ℹ Release date: {release_date}")
                     
                     if release_date:
-                        # Parse date (format: YYYY/MM/DD)
                         year = int(release_date.split('/')[0])
                         if year <= 2002:
                             self.use_pokedex = True
                             from cards_utils import PokedexDatabase
                             self.pokedex_db = PokedexDatabase()
-                            print(f"  📖 Old set detected ({year}) - Pokedex lookup enabled for JA")
+                            print(f"  📖 Old set ({year}) - Pokedex enabled for JA")
                     found_set = True
                     break
-            
-            if not found_set:
-                print(f"  ℹ Set '{self.set_code}' not found in all_sets_full.json")
-                # Fallback check
-                old_set_prefixes = ['base', 'jungle', 'fossil', 'base2', 'gym1', 'gym2', 
-                                   'neo1', 'neo2', 'neo3', 'neo4', 'legendary']
-                if any(self.set_code.lower().startswith(prefix) for prefix in old_set_prefixes):
-                    self.use_pokedex = True
-                    from cards_utils import PokedexDatabase
-                    self.pokedex_db = PokedexDatabase()
-                    print(f"  📖 Old set detected by prefix - Pokedex lookup enabled for JA")
                     
         except Exception as e:
             print(f"  ⚠ Error checking set date: {e}")
-            # Still enable Pokedex for known old sets
-            old_set_prefixes = ['base', 'jungle', 'fossil', 'base2', 'gym1', 'gym2', 
-                               'neo1', 'neo2', 'neo3', 'neo4', 'legendary']
-            if any(self.set_code.lower().startswith(prefix) for prefix in old_set_prefixes):
-                self.use_pokedex = True
-                from cards_utils import PokedexDatabase
-                self.pokedex_db = PokedexDatabase()
-                print(f"  📖 Old set detected by prefix (fallback) - Pokedex lookup enabled for JA")
             
     def load_reference_images(self):
         """Load all reference images and card info from the set folder"""
         print(f"\n  Looking for set code: '{self.set_code}'")
-        
-        # Find the set folder
-        set_folders = []
         
         set_folders = [f for f in self.base_path.iterdir() 
                        if f.is_dir() and f.name.endswith(f"_{self.set_code}")]
@@ -132,10 +170,6 @@ class CardMatcher:
         
         if not set_folders:
             print(f"\n⚠ Warning: Set folder for '{self.set_code}' not found")
-            print(f"  Available set folders:")
-            for f in sorted(self.base_path.iterdir()):
-                if f.is_dir():
-                    print(f"    - {f.name}")
             return
         
         set_folder = set_folders[0]
@@ -144,23 +178,16 @@ class CardMatcher:
         img_folder = set_folder / "IMG"
         
         if not img_folder.exists():
-            print(f"\n⚠ Warning: IMG folder not found in {set_folder.name}")
-            print(f"  Please run the image downloader script first!")
+            print(f"\n⚠ Warning: IMG folder not found")
             return
         
-        # Load card info from CSV
         self.set_folder = set_folder
         self.csv_files = list(set_folder.glob("CardList_*.csv"))
         if self.csv_files:  
             self.load_card_info(self.csv_files[0])
         
-        # Load reference images
-        print(f"  Loading reference images from IMG folder...")
+        print(f"  Loading reference images...")
         image_files = list(img_folder.glob("*.jpg")) + list(img_folder.glob("*.webp")) + list(img_folder.glob("*.png"))
-        
-        if not image_files:
-            print(f"  ⚠ No image files found. Run the image downloader first!")
-            return
         
         for img_path in image_files:
             filename = img_path.stem
@@ -178,7 +205,6 @@ class CardMatcher:
         if not hasattr(self, 'csv_files') or not self.csv_files:
             return
         
-        # Find CSV for this language
         lang_lower = language.lower()
         csv_file = None
         
@@ -188,10 +214,7 @@ class CardMatcher:
                 break
         
         if not csv_file:
-            print(f"  ⚠ No CSV found for language {language}")
             return
-        
-        print(f"  Loading card names from: {csv_file.name}")
         
         try:
             with open(csv_file, 'r', encoding='utf-8') as f:
@@ -199,7 +222,6 @@ class CardMatcher:
                 for row in reader:
                     card_id = row.get('id', '')
                     if card_id and card_id in self.card_info_map:
-                        # Update with language-specific name
                         lang_key = f'name_{language.lower()}'
                         self.card_info_map[card_id][lang_key] = row.get('name', 'Unknown')
         except Exception as e:
@@ -213,23 +235,17 @@ class CardMatcher:
                 for row in reader:
                     card_id = row.get('id', '')
                     if card_id:
-                        # Store base info with default name
                         self.card_info_map[card_id] = {
                             'name': row.get('name', 'Unknown'),
                             'localId': row.get('localId', ''),
                             'id': card_id,
-                            'name_de': '',
-                            'name_en': '',
-                            'name_es': '',
-                            'name_fr': '',
-                            'name_it': '',
-                            'name_ja': '',
-                            'name_ko': '',
-                            'name_pt': '',
+                            'name_de': '', 'name_en': '', 'name_es': '',
+                            'name_fr': '', 'name_it': '', 'name_ja': '',
+                            'name_ko': '', 'name_pt': '',
                         }
             print(f"  ✓ Loaded info for {len(self.card_info_map)} cards")
             
-            # NEW: Also load English names immediately for Pokedex matching
+            # Load English names for CSV generation
             self.load_card_info_for_language('EN')
             
         except Exception as e:
@@ -239,14 +255,18 @@ class CardMatcher:
         """Get the card name in the specified language"""
         lang_key = f'name_{language.lower()}'
         
-        # Try to get the language-specific name
         if lang_key in card_info and card_info[lang_key]:
             name = card_info[lang_key]
-            # Only return if it's not empty and not just "Unknown"
             if name and name != 'Unknown':
                 return name
         
-        # Fallback to default name
+        return card_info.get('name', 'Unknown')
+    
+    def get_english_name(self, card_info):
+        """Get English name for CSV export"""
+        name_en = card_info.get('name_en', '').strip()
+        if name_en and name_en != 'Unknown':
+            return name_en
         return card_info.get('name', 'Unknown')
     
     def set_language(self, language):
@@ -254,18 +274,15 @@ class CardMatcher:
         self.current_language = language
     
     def get_card_by_number(self, card_number):
-        """Get card info by card number (localId or id)"""
-        # Try localId first
+        """Get card info by card number"""
         for card_id, info in self.card_info_map.items():
             if info.get('localId', '').strip() == card_number.strip():
                 return info
         
-        # Try full id
         card_number_clean = card_number.strip()
         if card_number_clean in self.card_info_map:
             return self.card_info_map[card_number_clean]
         
-        # Try searching with set code prefix
         full_id = f"{self.set_code}-{card_number_clean}"
         if full_id in self.card_info_map:
             return self.card_info_map[full_id]
@@ -273,152 +290,95 @@ class CardMatcher:
         return None
     
     def manual_card_entry(self):
-        """Prompt user to manually enter card number"""
-        print("\n" + "="*70)
-        print("MANUAL CARD ENTRY")
-        print("="*70)
-        print("Enter the card number from the card (e.g., '001', '25', '123')")
+        """Prompt user to manually enter card number - THREAD SAFE"""
+        # Lock is already held by caller (match_card)
+        print(f"\n{'='*60}")
+        print(f"[{self.current_language}] MANUAL ENTRY NEEDED")
+        print(f"{'='*60}")
+        print("Enter card number or 'list' to see all cards, 'skip' to skip")
         
-        # NEW: Add Pokedex option for JA language
         if self.use_pokedex and self.current_language == 'JA':
-            print("💡 TIP: For Japanese cards, enter the Pokedex number")
-            print("   (e.g., '184' for Azumarill, '160' for Feraligatr)")
-            print("   The card will be matched and renamed with English name")
-        
-        print("Or enter the full card ID if you know it")
-        print("Type 'list' to see all available cards")
-        print("Type 'skip' to skip this card")
-        print()
+            print("💡 TIP: For JA cards, enter Pokedex number")
         
         while True:
-            card_input = input("Card number: ").strip()
+            card_input = input(f"[{self.current_language}] Card number: ").strip()
             
             if card_input.lower() == 'skip':
                 return None
             
             if card_input.lower() == 'list':
-                print("\nAvailable cards in this set:")
+                print(f"\nCards in set:")
                 for card_id, info in sorted(self.card_info_map.items(), 
                                            key=lambda x: x[1].get('localId', '')):
                     local_id = info.get('localId', 'N/A')
-                    
-                    # Show English name too for JA with Pokedex
-                    if self.use_pokedex and self.current_language == 'JA':
-                        name_ja = self.get_card_name_for_language(info, 'JA')
-                        name_en = info.get('name_en', info.get('name', ''))
-                        # Always show English name first for easier reading
-                        if name_en and name_en != 'Unknown':
-                            print(f"  #{local_id:4s} - {name_en} ({name_ja})")
-                        else:
-                            print(f"  #{local_id:4s} - {name_ja}")
+                    name = self.get_card_name_for_language(info, self.current_language)
+                    name_en = self.get_english_name(info)
+                    if name_en != name:
+                        print(f"  #{local_id:4s} - {name_en} ({name})")
                     else:
-                        name = self.get_card_name_for_language(info, self.current_language)
                         print(f"  #{local_id:4s} - {name}")
                 print()
                 continue
             
             if not card_input:
-                print("Please enter a card number or 'skip'\n")
                 continue
             
-            # NEW: Try Pokedex lookup FIRST for JA language
+            # Try Pokedex lookup for JA
             card_info = None
             if self.use_pokedex and self.current_language == 'JA' and self.pokedex_db:
-                # Pad the input to 4 digits for Pokedex lookup
                 pokedex_num = card_input.zfill(4)
                 english_name = self.pokedex_db.get_english_name(pokedex_num)
                 
                 if english_name:
                     print(f"  📖 Pokedex #{card_input}: {english_name}")
                     
-                    # Search by English name in our card database
                     found_cards = []
                     for cid, info in self.card_info_map.items():
                         name_en = info.get('name_en', '').strip()
                         name_default = info.get('name', '').strip()
                         
-                        # Try exact match first
                         if (name_en.lower() == english_name.lower() or 
                             name_default.lower() == english_name.lower()):
                             found_cards.append((cid, info, 'exact'))
-                        # Try partial match (for cards with different forms)
-                        elif (name_en and english_name.lower() in name_en.lower()) or \
-                             (name_default and english_name.lower() in name_default.lower()):
-                            found_cards.append((cid, info, 'partial'))
                     
-                    if found_cards:
-                        if len(found_cards) == 1:
-                            card_info = found_cards[0][1]
-                            print(f"  ✓ Matched to card in set")
-                        else:
-                            # Multiple matches - let user choose
-                            print(f"\n  📋 Found {len(found_cards)} cards with this name:")
-                            for i, (cid, info, match_type) in enumerate(found_cards, 1):
-                                local_id = info.get('localId', 'N/A')
-                                name_ja = self.get_card_name_for_language(info, 'JA')
-                                name_en = info.get('name_en', info.get('name', ''))
-                                print(f"    {i}. #{local_id:4s} - {name_en} ({name_ja})")
-                            
-                            choice = input("\n  Select card number (or Enter for first): ").strip()
-                            if choice.isdigit() and 1 <= int(choice) <= len(found_cards):
-                                card_info = found_cards[int(choice) - 1][1]
-                            else:
-                                card_info = found_cards[0][1]
-                            print(f"  ✓ Selected card")
-                    else:
-                        print(f"  ⚠ '{english_name}' not found in this set")
-                        print(f"  Trying direct card number lookup...")
-                else:
-                    print(f"  ⚠ Pokedex #{card_input} not found in pokedex.csv")
-                    print(f"  Trying direct card number lookup...")
+                    if len(found_cards) == 1:
+                        card_info = found_cards[0][1]
+                    elif len(found_cards) > 1:
+                        print(f"\n  Found {len(found_cards)} cards:")
+                        for i, (cid, info, _) in enumerate(found_cards, 1):
+                            print(f"    {i}. #{info.get('localId', 'N/A'):4s} - {self.get_english_name(info)}")
+                        choice = input("\n  Select (or Enter for first): ").strip()
+                        idx = int(choice) - 1 if choice.isdigit() and 1 <= int(choice) <= len(found_cards) else 0
+                        card_info = found_cards[idx][1]
             
-            # If not found via Pokedex, try normal card number lookup
             if not card_info:
                 card_info = self.get_card_by_number(card_input)
             
-            # CRITICAL: This section was already there but check it's complete
             if card_info:
+                name_en = self.get_english_name(card_info)
+                name_lang = self.get_card_name_for_language(card_info, self.current_language)
                 local_id = card_info.get('localId', 'N/A')
                 
-                # For JA language with Pokedex, show both names
-                if self.use_pokedex and self.current_language == 'JA':
-                    name_ja = self.get_card_name_for_language(card_info, 'JA')
-                    name_en = card_info.get('name_en', card_info.get('name', 'Unknown'))
-                    if not name_en or name_en == 'Unknown':
-                        name_en = card_info.get('name', 'Unknown')
-                    print(f"\n✓ Found: {name_en} / {name_ja} (#{local_id})")
+                if name_en != name_lang:
+                    print(f"\n✓ Found: {name_en} / {name_lang} (#{local_id})")
                 else:
-                    if self.current_language:
-                        name = self.get_card_name_for_language(card_info, self.current_language)
-                    else:
-                        name = card_info.get('name', 'Unknown')
-                    print(f"\n✓ Found: {name} (#{local_id})")
+                    print(f"\n✓ Found: {name_en} (#{local_id})")
                 
-                confirm = input("Is this correct? (y/n): ").strip().lower()
+                confirm = input("Correct? (y/n): ").strip().lower()
                 if confirm == 'y':
-                    return card_info  # THIS IS CRITICAL - MUST RETURN HERE
-                else:
-                    print("Let's try again...\n")
+                    return card_info
             else:
-                print(f"\n✗ Card not found")
-                if self.use_pokedex and self.current_language == 'JA':
-                    print("💡 Enter Pokedex number (e.g., '184' for Azumarill)")
-                    print("   or type 'list' to see all cards in this set\n")
-                else:
-                    print("Please try again or type 'list' to see all cards\n")
-                    
+                print(f"\n✗ Card not found")               
+    
     def resize_to_match(self, img1, img2):
-        """Resize images to same dimensions for comparison"""
+        """Resize images to same dimensions"""
         h1, w1 = img1.shape[:2]
         h2, w2 = img2.shape[:2]
         
         target_h = min(h1, h2, 800)
         target_w = min(w1, w2, 600)
         
-        img1_resized = cv2.resize(img1, (target_w, target_h))
-        img2_resized = cv2.resize(img2, (target_w, target_h))
-        
-        return img1_resized, img2_resized
+        return cv2.resize(img1, (target_w, target_h)), cv2.resize(img2, (target_w, target_h))
     
     def compare_images_features(self, img1, img2):
         """Compare images using ORB feature matching"""
@@ -428,7 +388,6 @@ class CardMatcher:
         gray2 = cv2.cvtColor(img2_resized, cv2.COLOR_BGR2GRAY)
         
         orb = cv2.ORB_create(nfeatures=2000)
-        
         kp1, des1 = orb.detectAndCompute(gray1, None)
         kp2, des2 = orb.detectAndCompute(gray2, None)
         
@@ -437,416 +396,532 @@ class CardMatcher:
         
         bf = cv2.BFMatcher(cv2.NORM_HAMMING, crossCheck=True)
         matches = bf.match(des1, des2)
-        
         matches = sorted(matches, key=lambda x: x.distance)
         
         if len(matches) == 0:
             return 0.0
         
         good_matches = [m for m in matches if m.distance < 50]
-        score = len(good_matches) / max(len(kp1), len(kp2))
-        
-        return score
+        return len(good_matches) / max(len(kp1), len(kp2))
     
     def match_card(self, cropped_image, show_top_matches=3):
-        """Find the best matching card from reference images"""
+        """Find the best matching card - THREAD SAFE for user prompts"""
         
-        # STEP 1: Check if we've learned this card before (HIGH threshold)
+        # Check learned matches
         learned_id, conf, _ = self.learning.check_learned_match(cropped_image)
-        if learned_id and conf > 0.85:  # Only auto-match if VERY confident
+        if learned_id and conf > 0.85:
             card_info = self.card_info_map.get(learned_id)
             if card_info:
-                if self.current_language:
-                    name = self.get_card_name_for_language(card_info, self.current_language)
-                else:
-                    name = card_info.get('name', 'Unknown')
-                print(f"  🎯 FOUND IN MEMORY: {name} ({conf:.0%} confidence)")
-                print(f"  ⚡ Auto-matched - skipping search!")
+                name = self.get_card_name_for_language(card_info, self.current_language)
+                print(f"  🎯 MEMORY: {name} ({conf:.0%})")
                 self.learning.update_stats('auto')
                 return card_info
 
-        # STEP 2: Do normal matching (WITHOUT boosting - that was the problem!)
+        # Do matching
         if not self.reference_images:
-            print("  ⚠ No reference images loaded")
             return None
         
-        print(f"  Matching against {len(self.reference_images)} cards...")
-        
         matches = []
-        
-        # STEP 3: Just filter blacklist, DON'T boost scores
         for card_id, ref_img in self.reference_images.items():
-            # Skip blacklisted matches
             if self.learning.is_blacklisted(cropped_image, card_id):
                 continue
-                
             try:
                 score = self.compare_images_features(cropped_image, ref_img)
-                # REMOVED: boost = self.learning.get_confidence_boost(card_id)
-                # REMOVED: score += boost
-                
                 matches.append((card_id, score))
-            except Exception as e:
+            except:
                 continue
         
         matches.sort(key=lambda x: x[1], reverse=True)
         
-        print(f"\n  Top {show_top_matches} matches:")
-        for i, (card_id, score) in enumerate(matches[:show_top_matches], 1):
-            card_info = self.card_info_map.get(card_id, {})
-            if self.current_language:
+        # CRITICAL: Acquire lock BEFORE showing matches to prevent output interleaving
+        with user_interaction_lock:
+            print(f"\n{'='*60}")
+            print(f"[{self.current_language}] MATCH REQUEST")
+            print(f"{'='*60}")
+            print(f"  Top matches:")
+            for i, (card_id, score) in enumerate(matches[:show_top_matches], 1):
+                card_info = self.card_info_map.get(card_id, {})
                 name = self.get_card_name_for_language(card_info, self.current_language)
-            else:
-                name = card_info.get('name', 'Unknown')
-            local_id = card_info.get('localId', '')
+                local_id = card_info.get('localId', '')
+                print(f"    {i}. {name} (#{local_id}) - {score:.3f}")
             
-            # Show if this card has been learned before (but don't boost score)
-            boost = self.learning.get_confidence_boost(card_id)
-            learned_marker = " 🧠" if boost > 0 else ""
-            
-            print(f"    {i}. {name} (#{local_id}) - Score: {score:.3f}{learned_marker}")
-        
-        if matches and matches[0][1] > 0.15:
-            best_card_id = matches[0][0]
-            best_score = matches[0][1]
-            
-            card_info = self.card_info_map.get(best_card_id, {})
-            
-            if self.current_language:
+            if matches and matches[0][1] > 0.15:
+                best_card_id = matches[0][0]
+                best_score = matches[0][1]
+                card_info = self.card_info_map.get(best_card_id, {})
                 name = self.get_card_name_for_language(card_info, self.current_language)
-            else:
-                name = card_info.get('name', 'Unknown')
-            
-            print(f"\n  ✓ Best match: {name} (#{card_info.get('localId', '')})")
-            print(f"    Match score: {best_score:.3f}")
-            
-            # Auto-accept high confidence or ask user
-            if best_score > 0.25:
-                # High confidence - auto accept and learn
-                self.learning.add_confirmed_match(cropped_image, best_card_id)
-                self.learning.update_stats('auto')
-                return card_info
-            else:
-                # Lower confidence - ask user
-                ref_image = self.reference_images[best_card_id]
-                accepted = show_comparison(cropped_image, ref_image, name, best_score)
                 
-                if accepted:
-                    # User accepted - learn it
+                print(f"\n  ✓ Best: {name} ({best_score:.3f})")
+                
+                if best_score > 0.25:
+                    # Auto-accept high confidence
                     self.learning.add_confirmed_match(cropped_image, best_card_id)
                     self.learning.update_stats('auto')
+                    print(f"{'='*60}\n")
                     return card_info
                 else:
-                    # User rejected - blacklist it
-                    print("  ✗ Match rejected by user")
-                    self.learning.add_rejection(cropped_image, best_card_id)
-                    result = self.manual_card_entry()
-                    if result:
-                        self.learning.add_confirmed_match(cropped_image, result['id'])
-                        self.learning.update_stats('manual')
-                    return result
+                    # Show visual comparison
+                    self.show_comparison_window(cropped_image, best_card_id, name)
+                    
+                    # Ask user with clear prompt
+                    print(f"\n  👀 CHECK THE COMPARISON WINDOW!")
+                    response = input(f"  [{self.current_language}] Accept '{name}'? (y/n): ").strip().lower()
+                    
+                    # Close window after response
+                    self.close_comparison_window()
+                    
+                    if response == 'y':
+                        self.learning.add_confirmed_match(cropped_image, best_card_id)
+                        self.learning.update_stats('auto')
+                        print(f"{'='*60}\n")
+                        return card_info
+                    else:
+                        self.learning.add_rejection(cropped_image, best_card_id)
+                        result = self.manual_card_entry()
+                        if result:
+                            self.learning.add_confirmed_match(cropped_image, result['id'])
+                            self.learning.update_stats('manual')
+                        self.close_comparison_window()
+                        print(f"{'='*60}\n")
+                        return result
             
-        else:
-            print(f"\n  ✗ No confident match")
-            if matches:
-                print(f"    (best score: {matches[0][1]:.3f})")
-            
-            if matches:
-                card_info = self.card_info_map.get(matches[0][0], {})
-                if self.current_language:
-                    name = self.get_card_name_for_language(card_info, self.current_language)
-                else:
-                    name = card_info.get('name', 'Unknown')
-                
-                print(f"\n  💡 Best guess: {name} (#{card_info.get('localId', '')})")
-                
-                ref_image = self.reference_images[matches[0][0]]
-                accepted = show_comparison(cropped_image, ref_image, name, matches[0][1])
-                
-                if accepted:
-                    # User accepted the guess - learn it
-                    self.learning.add_confirmed_match(cropped_image, matches[0][0])
-                    self.learning.update_stats('auto')
-                    return card_info
-                else:
-                    # User rejected - blacklist and go manual
-                    self.learning.add_rejection(cropped_image, matches[0][0])
-                    result = self.manual_card_entry()
-                    if result:
-                        self.learning.add_confirmed_match(cropped_image, result['id'])
-                        self.learning.update_stats('manual')
-                    return result
-            
-            # No matches at all - go straight to manual
+            # No match - manual entry
+            print(f"{'='*60}\n")
             result = self.manual_card_entry()
             if result:
                 self.learning.add_confirmed_match(cropped_image, result['id'])
                 self.learning.update_stats('manual')
             return result
-
-def show_comparison(cropped_image, reference_image, card_name, confidence):
-    """Display cropped image and matched reference side by side"""
-    try:
-        from PIL import Image, ImageDraw, ImageFont
-        
-        cropped_rgb = cv2.cvtColor(cropped_image, cv2.COLOR_BGR2RGB)
-        reference_rgb = cv2.cvtColor(reference_image, cv2.COLOR_BGR2RGB)
-        
-        img_crop = Image.fromarray(cropped_rgb)
-        img_ref = Image.fromarray(reference_rgb)
-        
-        target_height = 600
-        
-        aspect_crop = img_crop.width / img_crop.height
-        aspect_ref = img_ref.width / img_ref.height
-        
-        img_crop = img_crop.resize((int(target_height * aspect_crop), target_height), Image.Resampling.LANCZOS)
-        img_ref = img_ref.resize((int(target_height * aspect_ref), target_height), Image.Resampling.LANCZOS)
-        
-        total_width = img_crop.width + img_ref.width + 20
-        total_height = target_height + 60
-        
-        comparison = Image.new('RGB', (total_width, total_height), color='black')
-        
-        comparison.paste(img_crop, (0, 60))
-        comparison.paste(img_ref, (img_crop.width + 20, 60))
-        
-        draw = ImageDraw.Draw(comparison)
-        try:
-            font = ImageFont.truetype("arial.ttf", 24)
-        except:
-            font = ImageFont.load_default()
-        
-        draw.text((10, 10), "Your Card", fill='white', font=font)
-        draw.text((img_crop.width + 30, 10), f"Match: {card_name}", fill='white', font=font)
-        draw.text((img_crop.width + 30, 35), f"Score: {confidence:.3f}", fill='yellow', font=font)
-        
-        comparison.show(title=f"Match: {card_name}")
-        
-        response = input("\n  Accept this match? (y/n): ").strip().lower()
-        return response == 'y'
-        
-    except ImportError:
-        print("  ℹ Install Pillow: pip install Pillow")
-        response = input("  Accept this match? (y/n): ").strip().lower()
-        return response == 'y'
-    except Exception as e:
-        print(f"  ⚠ Could not display: {e}")
-        response = input("  Accept this match? (y/n): ").strip().lower()
-        return response == 'y'
-
-def process_folder(folder_path, output_folder='Renamed_Cropped', selected_language=None):
-    """Process all card images in a folder - FRONT/BACK pairs"""
+         
+def load_set_names_mapping():
+    """Load set names from all_sets_full.json"""
+    json_path = Path('PokemonCardLists/all_sets_full.json')
     
-    set_code = extract_set_code(folder_path)
-    print(f"Using set code: {set_code}\n")
+    if not json_path.exists():
+        print(f"⚠ Warning: all_sets_full.json not found")
+        return {}
+    
+    try:
+        with open(json_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        
+        if isinstance(data, dict):
+            all_sets = data.get('data', [])
+        elif isinstance(data, list):
+            all_sets = data
+        else:
+            return {}
+        
+        # Map set code to set name
+        set_mapping = {}
+        for set_info in all_sets:
+            if not isinstance(set_info, dict):
+                continue
+            set_id = set_info.get('id', '').lower()
+            set_name = set_info.get('name', '')
+            if set_id and set_name:
+                set_mapping[set_id] = set_name
+        
+        return set_mapping
+    except Exception as e:
+        print(f"⚠ Error loading set names: {e}")
+        return {}
+
+def append_to_collection_list(card_name_en, set_name, card_number):
+    """Append a card to the collection_list.txt file"""
+    collection_file = Path('PokemonTCGAPI/collection_list.txt')
+    
+    # Create directory if doesn't exist
+    collection_file.parent.mkdir(parents=True, exist_ok=True)
+    
+    # Format: "Ampharos Pokemon Neo Genesis set #1"
+    line = f"{card_name_en} Pokemon {set_name} set #{card_number}\n"
+    
+    with open(collection_file, 'a', encoding='utf-8') as f:
+        f.write(line)
+
+def write_to_csv(csv_path, card_data):
+    """Thread-safe CSV writing"""
+    with csv_write_lock:
+        file_exists = os.path.exists(csv_path)
+        
+        with open(csv_path, 'a', newline='', encoding='utf-8') as f:
+            fieldnames = ['Card Name', 'Set Code', 'Quantity', 'Language', 
+                         'Foil', 'Condition', 'Comment']
+            writer = csv.DictWriter(f, fieldnames=fieldnames)
+            
+            if not file_exists:
+                writer.writeheader()
+            
+            writer.writerow(card_data)
+
+def process_language_folder(folder_path, language, set_code, output_folder, csv_path, set_name):
+    """Process a single language folder - designed to run in thread"""
+    
+    print(f"\n[{language}] Starting processing...")
     
     matcher = CardMatcher(set_code)
+    matcher.set_language(language)
+    matcher.load_card_info_for_language(language)
     
-    if not matcher.reference_images:
-        print("⚠ No reference images found!")
-        print("  Please run the image downloader script first.")
+    search_path = os.path.join(folder_path, 'raw', language)
+    output_dir = os.path.join(folder_path, output_folder, language)
+    os.makedirs(output_dir, exist_ok=True)
+    
+    extensions = ['.jpg', '.jpeg', '.png', '.bmp']
+    image_files = sorted([f for f in os.listdir(search_path) 
+                   if any(f.lower().endswith(ext) for ext in extensions)])
+    
+    print(f"[{language}] Found {len(image_files)} images ({len(image_files)//2} pairs)")
+    
+    i = 0
+    pair_number = 1
+    success_count = 0
+    
+    while i < len(image_files):
+        front_filename = image_files[i]
+        
+        print(f"\n[{language}] Pair {pair_number}/{len(image_files)//2}")
+        
+        front_path = os.path.join(search_path, front_filename)
+        
+        try:
+            cropper = CardCropper(front_path)
+            if cropper.image is None:
+                i += 2
+                pair_number += 1
+                continue
+            
+            cropped_front = cropper.crop_card()
+            if cropped_front is None:
+                i += 2
+                pair_number += 1
+                continue
+            
+            card_info = matcher.match_card(cropped_front)
+            
+            if not card_info:
+                i += 2
+                pair_number += 1
+                continue
+            
+            # Get filename name (language-specific for file)
+            if matcher.use_pokedex and language == 'JA':
+                name_for_file = matcher.get_english_name(card_info)
+            else:
+                name_for_file = matcher.get_card_name_for_language(card_info, language)
+            
+            # Get English name for CSV and collection list
+            name_for_csv = matcher.get_english_name(card_info)
+            local_id = card_info.get('localId', 'Unknown').replace('/', '-')
+            
+            name_sanitized = sanitize_filename(name_for_file)
+            ext = os.path.splitext(front_filename)[1]
+            
+            # Save FRONT
+            base_front = f"{name_sanitized}_{local_id}_{set_code}_{language}_FRONT{ext}"
+            front_new_name = get_unique_filename(output_dir, base_front)
+            front_output = os.path.join(output_dir, front_new_name)
+            cv2.imwrite(front_output, cropped_front)
+            
+            # Save BACK
+            if i + 1 < len(image_files):
+                back_filename = image_files[i + 1]
+                back_path = os.path.join(search_path, back_filename)
+                back_cropper = CardCropper(back_path)
+                
+                if back_cropper.image is not None:
+                    back_cropped = back_cropper.crop_card_back()
+                    if back_cropped is not None:
+                        base_back = f"{name_sanitized}_{local_id}_{set_code}_{language}_BACK{ext}"
+                        back_new_name = get_unique_filename(output_dir, base_back)
+                        back_output = os.path.join(output_dir, back_new_name)
+                        cv2.imwrite(back_output, back_cropped)
+            
+            # Write to CSV (thread-safe)
+            csv_data = {
+                'Card Name': name_for_csv,  # English name for CSV
+                'Set Code': set_code,
+                'Quantity': 1,
+                'Language': language,
+                'Foil': 'no',
+                'Condition': 'NM',
+                'Comment': 'Booster -> Sleeve'
+            }
+            write_to_csv(csv_path, csv_data)
+            
+            # Append to collection_list.txt (thread-safe)
+            append_to_collection_list(name_for_csv, set_name, local_id)
+            
+            success_count += 1
+            i += 2
+            pair_number += 1
+                
+        except Exception as e:
+            print(f"\n[{language}] Error: {e}")
+            i += 2
+            pair_number += 1
+    
+    print(f"\n[{language}] ✅ Completed: {success_count} cards processed")
+
+def process_folder_multithreaded(folder_path, output_folder='Renamed_Cropped', selected_languages=None, clear_output=False):
+    """Process multiple language folders using threads"""
+    
+    set_code = extract_set_code(folder_path)
+    
+    # Get set name
+    set_names = load_set_names_mapping()
+    set_name = set_names.get(set_code.lower(), f"Unknown Set ({set_code})")
+    
+    print(f"\n{'='*70}")
+    print(f"MULTITHREADED PROCESSING - Set: {set_name} ({set_code})")
+    print(f"{'='*70}\n")
+    
+     # Clear Renamed_Cropped folder if processing ALL languages
+    if clear_output:
+        output_path = os.path.join(folder_path, output_folder)
+        if os.path.exists(output_path):
+            import shutil
+            try:
+                shutil.rmtree(output_path)
+                print(f"🗑️  Cleared old {output_folder} folder\n")
+            except Exception as e:
+                print(f"⚠️  Could not clear {output_folder}: {e}\n")
+                
+    raw_folder = os.path.join(folder_path, 'raw')
+    
+    if not os.path.exists(raw_folder):
+        print(f"Error: 'raw' folder not found")
         return
+    
+    # Find available languages
+    language_folders = ['DE', 'EN', 'ES', 'FR', 'IT', 'JA', 'KO', 'PT']
+    found_languages = [lang for lang in language_folders 
+                      if os.path.exists(os.path.join(raw_folder, lang))]
+    
+    if not found_languages:
+        print("No language folders found")
+        return
+    
+    # Filter languages if specified
+    if selected_languages:
+        if isinstance(selected_languages, str):
+            selected_languages = [selected_languages]
+        found_languages = [lang for lang in found_languages if lang in selected_languages]
+    
+    print(f"Processing languages: {', '.join(found_languages)}")
+    print(f"Using {len(found_languages)} threads\n")
+    
+    # CSV path
+    csv_path = os.path.join(folder_path, f'{set_code}_inventory.csv')
+    
+    # Delete old CSV if exists
+    if os.path.exists(csv_path):
+        os.remove(csv_path)
+        print(f"Removed old CSV: {csv_path}\n")
+    
+    # Create threads
+    threads = []
+    for language in found_languages:
+        thread = Thread(
+            target=process_language_folder,
+            args=(folder_path, language, set_code, output_folder, csv_path, set_name)
+        )
+        threads.append(thread)
+        thread.start()
+        time.sleep(0.5)  # Slight delay to stagger startup
+    
+    # Wait for all threads
+    for thread in threads:
+        thread.join()
+    
+    print(f"\n{'='*70}")
+    print("✅ ALL THREADS COMPLETED")
+    print(f"{'='*70}")
+    print(f"CSV saved: {csv_path}")
+
+def find_set_folders_with_raw(base_path):
+    """Recursively find all folders that contain a 'raw' subfolder"""
+    set_folders = []
+    
+    try:
+        base_path = Path(base_path)
+        
+        # Check if the given path itself has a raw folder
+        if (base_path / 'raw').exists():
+            set_folders.append(base_path)
+            return set_folders
+        
+        # Otherwise, search in subdirectories
+        for item in base_path.iterdir():
+            if item.is_dir():
+                raw_folder = item / 'raw'
+                if raw_folder.exists() and raw_folder.is_dir():
+                    set_folders.append(item)
+    
+    except Exception as e:
+        print(f"Error scanning folder: {e}")
+    
+    return set_folders
+
+def process_multiple_sets(base_path, selected_languages=None):
+    """Process multiple set folders"""
+    
+    set_folders = find_set_folders_with_raw(base_path)
+    
+    if not set_folders:
+        print(f"❌ No folders with 'raw' subfolder found in {base_path}")
+        return
+    
+    # Filter out empty/test folders
+    valid_folders = []
+    for folder in set_folders:
+        set_name = folder.name.lower()
+        # Skip folders that look like empty/test folders
+        if 'empty' in set_name or 'test' in set_name:
+            print(f"⏭️  Skipping: {folder.name} (appears to be empty/test folder)")
+            continue
+        valid_folders.append(folder)
+    
+    if not valid_folders:
+        print(f"❌ No valid set folders found")
+        return
+    
+    print(f"\n{'='*70}")
+    print(f"FOUND {len(valid_folders)} VALID SET FOLDER(S) WITH RAW DATA")
+    print(f"{'='*70}")
+    
+    for i, folder in enumerate(valid_folders, 1):
+        set_name = folder.name
+        set_code = extract_set_code(folder)
+        print(f"  {i}. {set_name} (Set: {set_code})")
+    
+    print(f"\n{'='*70}")
+    
+    # For batch processing, ask for language selection ONCE
+    clear_files = False
+    if len(valid_folders) > 1:
+        print("BATCH PROCESSING MODE")
+        print("Select languages to process for ALL sets:")
+        print("  ALL - Process all available languages")
+        print("  EN,FR,JA - Specific languages (comma-separated)")
+        print()
+        
+        lang_choice = input("Languages for all sets: ").strip().upper()
+        
+        if not lang_choice or lang_choice == 'ALL':
+            batch_languages = None  # Will use all available languages
+            # Ask about clearing files when processing ALL
+            print(f"\n{'='*70}")
+            print("⚠️  DELETION CONFIRMATION")
+            print(f"{'='*70}")
+            print("Processing ALL folders and ALL languages")
+            print("This will:")
+            print("  • Delete all Renamed_Cropped folders in each set")
+            print("  • Clear collection_list.txt")
+            print("\nDo you want to clear existing data? (y/n)")
+            print("  'y' = Start fresh (recommended for full reprocessing)")
+            print("  'n' = Keep existing data and add new cards")
+            
+            choice = input("\nClear existing data? (y/n): ").strip().lower()
+            clear_files = (choice == 'y')
+            
+            if clear_files:
+                print("✓ Will clear existing data before processing")
+            else:
+                print("✓ Will keep existing data and append new cards")
+        else:
+            batch_languages = [l.strip() for l in lang_choice.split(',')]
+            print(f"✓ Will process: {', '.join(batch_languages)}\n")
+    else:
+        batch_languages = selected_languages
+    
+    # Clear collection_list.txt if requested
+    if clear_files:
+        collection_file = Path('PokemonTCGAPI/collection_list.txt')
+        if collection_file.exists():
+            collection_file.unlink()
+            print(f"\n🗑️  Cleared collection_list.txt")
+            
+    # Process all sets without asking again
+    for folder in valid_folders:
+        print(f"\n{'='*70}")
+        print(f"PROCESSING: {folder.name}")
+        print(f"{'='*70}")
+        process_single_set(str(folder), batch_languages, ask_language=False, clear_output=clear_files)
+    
+    print(f"\n{'='*70}")
+    print("✅ BATCH PROCESSING COMPLETE")
+    print(f"{'='*70}")
+
+def process_single_set(folder_path, selected_languages=None, ask_language=True, clear_output=False):
+    """Process a single set folder"""
     
     raw_folder = os.path.join(folder_path, 'raw')
     
     if not os.path.exists(raw_folder):
-        print(f"Error: 'raw' folder not found in {folder_path}")
+        print(f"❌ Error: 'raw' folder not found in {folder_path}")
         return
     
     language_folders = ['DE', 'EN', 'ES', 'FR', 'IT', 'JA', 'KO', 'PT']
-    found_languages = []
-    
-    for lang in language_folders:
-        lang_path = os.path.join(raw_folder, lang)
-        if os.path.exists(lang_path) and os.path.isdir(lang_path):
-            found_languages.append(lang)
+    found_languages = [lang for lang in language_folders
+                      if os.path.exists(os.path.join(raw_folder, lang))]
     
     if not found_languages:
-        print("No language subfolders found in raw folder")
+        print("❌ No language folders found")
         return
     
-    if selected_language:
-        if selected_language in found_languages:
-            found_languages = [selected_language]
-            print(f"Processing only: {selected_language}\n")
-        else:
-            print(f"Error: Language '{selected_language}' not found")
-            return
-    else:
-        print(f"Found language folders: {', '.join(found_languages)}\n")
+    print(f"Available languages: {', '.join(found_languages)}")
     
-    for language in found_languages:
-        print("\n" + "="*70)
-        print(f"PROCESSING LANGUAGE: {language}")
-        print("="*70)
+    # Use provided languages or ask user
+    if selected_languages is None and ask_language:
+        print("Enter languages separated by commas (e.g., 'FR,EN')")
+        print("Or 'ALL' to process all\n")
         
-        # Set the current language in the matcher
-        matcher.set_language(language)
-        matcher.load_card_info_for_language(language)
+        lang_input = input("Languages: ").strip().upper()
         
-        search_path = os.path.join(raw_folder, language)
-        output_dir = os.path.join(folder_path, output_folder, language)
-        os.makedirs(output_dir, exist_ok=True)
-        
-        extensions = ['.jpg', '.jpeg', '.png', '.bmp']
-        image_files = sorted([f for f in os.listdir(search_path) 
-                       if any(f.lower().endswith(ext) for ext in extensions)])
-        
-        print(f"Found {len(image_files)} images ({len(image_files)//2} card pairs)\n")
-        
-        results = []
-        i = 0
-        pair_number = 1
-        
-        while i < len(image_files):
-            front_filename = image_files[i]
+        if lang_input == 'ALL':
+            selected_languages = found_languages
+        else:
+            selected = [l.strip() for l in lang_input.split(',')]
+            selected_languages = [l for l in selected if l in found_languages]
             
-            print(f"\n{'='*70}")
-            print(f"PAIR {pair_number}/{len(image_files)//2}")
-            print(f"[{i+1}/{len(image_files)}] FRONT: {front_filename}")
-            print('='*70)
-            
-            front_path = os.path.join(search_path, front_filename)
-            
-            try:
-                print("\n→ Cropping FRONT card...")
-                cropper = CardCropper(front_path)
-                if cropper.image is None:
-                    print("  ✗ Could not load image")
-                    i += 2
-                    continue
-                
-                cropped_front = cropper.crop_card()
-                if cropped_front is None:
-                    print("  ✗ Could not crop card")
-                    i += 2
-                    continue
-                
-                print(f"  ✓ Cropped: {cropped_front.shape[1]}x{cropped_front.shape[0]}px")
-                
-                print("\n→ Matching card...")
-                card_info = matcher.match_card(cropped_front, show_top_matches=3)
-                
-                if not card_info:
-                    print("\n⚠ Skipping pair (no match)")
-                    results.append({'original': front_filename, 'new_name': front_filename, 'status': 'failed'})
-                    i += 2
-                    pair_number += 1
-                    continue
-                
-               # Get the name in the current language
-                if matcher.use_pokedex and language == 'JA':
-                    # For old JA sets, use English name
-                    name_en = card_info.get('name_en', '').strip()
-                    if not name_en or name_en == 'Unknown':
-                        # Fallback to default name
-                        name_en = card_info.get('name', 'Unknown')
-                    name = name_en
-                    print(f"  📖 Using English name for filename: {name}")
-                else:
-                    name = matcher.get_card_name_for_language(card_info, language)
-                    
-                name = sanitize_filename(name)
-                local_id = card_info.get('localId', 'Unknown').replace('/', '-')
-                ext = os.path.splitext(front_filename)[1]
-                
-                base_front_filename = f"{name}_{local_id}_{set_code}_{language}_FRONT{ext}"
-                front_new_name = get_unique_filename(output_dir, base_front_filename)
-                front_output = os.path.join(output_dir, front_new_name)
-                cv2.imwrite(front_output, cropped_front)
-                print(f"\n✓ Saved FRONT: {front_new_name}")
-                
-                results.append({
-                    'original': front_filename,
-                    'new_name': front_new_name,
-                    'status': 'success'
-                })
-                
-                if i + 1 < len(image_files):
-                    back_filename = image_files[i + 1]
-                    back_path = os.path.join(search_path, back_filename)
-                    
-                    print(f"\n[{i+2}/{len(image_files)}] BACK: {back_filename}")
-                    print("→ Cropping BACK card...")
-                    
-                    back_cropper = CardCropper(back_path)
-                    if back_cropper.image is not None:
-                        back_cropped = back_cropper.crop_card_back()
-                        if back_cropped is not None:
-                            base_back_filename = f"{name}_{local_id}_{set_code}_{language}_BACK{ext}"
-                            back_new_name = get_unique_filename(output_dir, base_back_filename)
-                            back_output = os.path.join(output_dir, back_new_name)
-                            cv2.imwrite(back_output, back_cropped)
-                            print(f"✓ Saved BACK: {back_new_name}")
-                            
-                            results.append({
-                                'original': back_filename,
-                                'new_name': back_new_name,
-                                'status': 'success'
-                            })
-                
-                i += 2
-                pair_number += 1
-                    
-            except Exception as e:
-                print(f"\n✗ Error: {e}")
-                import traceback
-                traceback.print_exc()
-                results.append({
-                    'original': front_filename,
-                    'new_name': front_filename,
-                    'status': 'error'
-                })
-                i += 2
-                pair_number += 1
-        
-        print("\n" + "="*70)
-        print(f"PROCESSING SUMMARY - {language}")
-        print("="*70)
-        success = sum(1 for r in results if r['status'] == 'success')
-        failed = sum(1 for r in results if r['status'] == 'failed')
-        errors = sum(1 for r in results if r['status'] == 'error')
-        
-        print(f"Total: {len(results)} images | Success: {success} | Failed: {failed} | Errors: {errors}")
-        print(f"Cards processed: {success//2} pairs")
-        print(f"Output: {output_dir}")
-        print("="*70)
+            if not selected_languages:
+                print(f"❌ Invalid languages")
+                return
+    elif selected_languages is None:
+        # Batch mode - use all found languages
+        selected_languages = found_languages
+    else:
+        # Filter selected languages to only available ones
+        selected_languages = [l for l in selected_languages if l in found_languages]
+    
+    process_folder_multithreaded(folder_path, selected_languages=selected_languages, clear_output=clear_output)
 
 if __name__ == "__main__":
     print("="*70)
-    print("POKÉMON CARD PROCESSOR - IMAGE MATCHING WITH LEARNING")
+    print("POKÉMON CARD PROCESSOR - MULTITHREADED WITH CSV EXPORT")
     print("="*70)
-    print("\nThis script processes FRONT/BACK image pairs")
-    print("🧠 NEW: Learning system remembers your corrections!\n")
+    print("\n🚀 Parallel processing + automatic CSV generation!")
+    print("📊 CSV uses English names for TCG compatibility")
+    print("📝 Creates collection_list.txt in PokemonTCGAPI folder")
+    print("🔍 Can process single set or batch process multiple sets\n")
     
-    folder_path = input("Enter path to set folder: ").strip().strip('"')
+    folder_path = input("Enter path (set folder or parent folder): ").strip().strip('"')
     
-    raw_folder = os.path.join(folder_path, 'raw')
-    if not os.path.exists(raw_folder):
-        print(f"Error: 'raw' folder not found in {folder_path}")
+    if not os.path.exists(folder_path):
+        print(f"❌ Error: Path not found: {folder_path}")
     else:
-        language_folders = ['DE', 'EN', 'ES', 'FR', 'IT', 'JA', 'KO', 'PT']
-        found_languages = []
+        # Check if this is a set folder or parent folder
+        raw_folder = os.path.join(folder_path, 'raw')
         
-        for lang in language_folders:
-            lang_path = os.path.join(raw_folder, lang)
-            if os.path.exists(lang_path) and os.path.isdir(lang_path):
-                found_languages.append(lang)
-        
-        if not found_languages:
-            print("No language subfolders found")
+        if os.path.exists(raw_folder):
+            # Single set folder
+            print(f"\n✓ Found raw folder - processing single set")
+            process_single_set(folder_path)
         else:
-            print(f"\nAvailable languages: {', '.join(found_languages)}")
-            print("ALL - Process all languages")
-            
-            selected_language = input("\nEnter language code (or 'ALL'): ").strip().upper()
-            
-            if selected_language == 'ALL':
-                process_folder(folder_path)
-            elif selected_language in found_languages:
-                process_folder(folder_path, selected_language=selected_language)
-            else:
-                print(f"Invalid! Choose from: {', '.join(found_languages)} or ALL")
+            # Parent folder - search for sets
+            print(f"\n🔍 Searching for set folders in: {folder_path}")
+            process_multiple_sets(folder_path)
     
-    print("\n✅ Done!")
+    print("\n✅ All processing complete!")

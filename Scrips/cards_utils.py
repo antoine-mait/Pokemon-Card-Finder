@@ -98,11 +98,20 @@ class LearningSystem:
         """Check if we've seen this card before"""
         img_hash = self._perceptual_hash(image)
         
+        best_match_id = None
+        best_confidence = 0.0
+        
         for stored_hash, card_id in self.data['confirmed_matches'].items():
             distance = self._hamming_distance(img_hash, stored_hash)
-            if distance < 51:  # 51 out of 256 = ~20%
+            # Changed from 51 to 77 (30% instead of 20%) for more tolerance
+            if distance < 77:  # 77 out of 256 = ~30%
                 confidence = 1.0 - (distance / 256)
-                return card_id, confidence, "learned"
+                if confidence > best_confidence:
+                    best_confidence = confidence
+                    best_match_id = card_id
+        
+        if best_match_id:
+            return best_match_id, best_confidence, "learned"
         
         return None, 0.0, None
     
@@ -112,7 +121,8 @@ class LearningSystem:
         
         for stored_hash, rejected_ids in self.data['blacklist'].items():
             distance = self._hamming_distance(img_hash, stored_hash)
-            if distance < 51 and card_id in rejected_ids:
+            # Changed from 51 to 77 for consistency
+            if distance < 77 and card_id in rejected_ids:
                 return True
         
         return False
