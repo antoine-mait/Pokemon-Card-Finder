@@ -56,12 +56,11 @@ def get_unique_filename(output_dir, base_filename):
 
 def extract_set_code(folder_path):
     """Extract the set code from folder name (last part after last underscore)"""
-    folder_name = os.path.basename(folder_path)
+    folder_name = os.path.basename(os.path.normpath(folder_path))
     parts = folder_name.split('_')
     if len(parts) > 0:
         return parts[-1]
     return 'unknown'
-
 
 # ============================================================================
 # LEARNING SYSTEM
@@ -230,8 +229,13 @@ class CardDatabase:
         print(f"\n  Looking for set code: '{self.set_code}'")
         
         # Find set folder
+        set_code_lower = self.set_code.lower()
         set_folders = [f for f in self.base_path.iterdir() 
                       if f.is_dir() and f.name.endswith(f"_{self.set_code}")]
+        
+        if not set_folders:
+            set_folders = [f for f in self.base_path.iterdir() 
+                          if f.is_dir() and set_code_lower in f.name.lower()]
         
         if not set_folders:
             set_folders = [f for f in self.base_path.iterdir() 
@@ -506,3 +510,38 @@ class CardCropper:
         
         self.cropped_card = self.image[y:y+h, x:x+w]
         return self.cropped_card
+    
+    def crop_card_basic(self):
+        """Basic crop without perspective correction - for problematic cards"""
+        if self.image is None:
+            return None
+        
+        # Convert to grayscale
+        gray = cv2.cvtColor(self.image, cv2.COLOR_BGR2GRAY)
+        
+        # Apply threshold
+        _, thresh = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
+        
+        # Find contours
+        contours, _ = cv2.findContours(thresh, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+        
+        if not contours:
+            return None
+        
+        # Find largest contour
+        largest_contour = max(contours, key=cv2.contourArea)
+        
+        # Get bounding rectangle (no perspective correction)
+        x, y, w, h = cv2.boundingRect(largest_contour)
+        
+        # Add small margin
+        margin = 5
+        x = max(0, x - margin)
+        y = max(0, y - margin)
+        w = min(self.image.shape[1] - x, w + 2 * margin)
+        h = min(self.image.shape[0] - y, h + 2 * margin)
+        
+        # Crop using bounding box
+        cropped = self.image[y:y+h, x:x+w]
+        
+        return cropped
