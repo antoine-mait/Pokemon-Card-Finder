@@ -6,14 +6,4 @@
 collection*
 my_pokemon*
 *.csv
-
-Panzaeron Pokemon Neo Genesis set #13 pokemon
-Blubella Pokemon Neo Genesis set #3 pokemon
-Lainergie Pokemon Neo Genesis set #34 pokemon
-Scarhino Pokemon Neo Genesis set #6 pokemon
-Hyporoi Pokemon Neo Genesis set #8 pokemon
-Woingenau Pokemon Neo Discovery set #16 pokemon
-Kapoera Pokemon Neo Discovery set #3 pokemon
-Hunduster Pokemon Neo Discovery set #5 pokemon
-
-create list with english name only for pricecharting
+*.json
