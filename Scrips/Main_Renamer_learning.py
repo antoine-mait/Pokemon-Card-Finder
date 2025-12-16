@@ -9,6 +9,7 @@ from pathlib import Path
 from threading import Thread, Lock
 from queue import Queue
 import time
+import shutil
 
 user_interaction_lock = Lock()
 
@@ -676,6 +677,25 @@ def process_language_folder(folder_path, language, set_code, output_folder, csv_
                         back_new_name = get_unique_filename(output_dir, base_back)
                         back_output = os.path.join(output_dir, back_new_name)
                         cv2.imwrite(back_output, back_cropped)
+
+            # Move processed raw images to processed folder
+            processed_dir = os.path.join(folder_path, 'raw', language, 'processed')
+            os.makedirs(processed_dir, exist_ok=True)
+            
+            try:
+                # Move front image
+                front_processed_path = os.path.join(processed_dir, front_filename)
+                shutil.move(front_path, front_processed_path)
+                
+                # Move back image if exists
+                if i + 1 < len(image_files):
+                    back_processed_path = os.path.join(processed_dir, back_filename)
+                    shutil.move(back_path, back_processed_path)
+                
+                    print(f"\n Moved to processed folder")
+                          
+            except Exception as move_error:
+                print(f"\n Could not move files: {move_error}")
             
             # Write to CSV (thread-safe)
             csv_data = {
