@@ -13,13 +13,21 @@ def extract_series_from_set_id(set_id):
     # sv03.5 -> sv
     # xy7 -> xy
     # swsh3 -> swsh
+    # swshp -> swsh (promo sets use base series)
+    # xyp -> xy (promo sets use base series)
     # ecard2 -> ecard
     # base1 -> base (for older sets)
     
-    # Extract alphabetic prefix
+    # Extract alphabetic prefix (remove trailing 'p' for promo sets)
+    match = re.match(r'^([a-z]+?)p?(?:\d|$)', set_id.lower())
+    if match:
+        return match.group(1)
+    
+    # Fallback: just extract alphabetic prefix
     match = re.match(r'^([a-z]+)', set_id.lower())
     if match:
         return match.group(1)
+    
     return set_id  # fallback to full set_id if no pattern matches
 
 async def download_image(session, url, filepath, semaphore):
@@ -100,6 +108,9 @@ async def download_set_images(set_folder: Path, semaphore):
                 if not image_filepath.exists():
                     # Construct image URL from TCGdex API
                     # Format: https://assets.tcgdex.net/en/{series}/{set_id}/{card_number}/{quality}.{extension}
+                    # For most sets, series and set_id are different (e.g., series='swsh', set_id='swsh3')
+                    # But for promo sets, they're the same (e.g., series='swshp', set_id='swshp')
+                    # So we only include set_id once in the path
                     image_url = f"https://assets.tcgdex.net/en/{series}/{set_id}/{card_number}/high.jpg"
                     
                     # Store card info for download
@@ -116,7 +127,7 @@ async def download_set_images(set_folder: Path, semaphore):
         return
     
     if not cards_to_download:
-        print(f"  ⊙ All images already downloaded ({len(list(img_folder.glob('*.jpg')))} images)")
+        print(f"  ✓ All images already downloaded ({len(list(img_folder.glob('*.jpg')))} images)")
         return
     
     print(f"  Found {len(cards_to_download)} images to download")
@@ -155,8 +166,48 @@ async def download_set_images(set_folder: Path, semaphore):
             if len(failed_cards) > 5:
                 print(f"    ... and {len(failed_cards) - 5} more")
 
+def display_sets_menu(set_folders):
+    """Display available sets and get user selection"""
+    print("\n" + "="*70)
+    print("AVAILABLE POKÉMON CARD SETS")
+    print("="*70)
+    
+    for idx, folder in enumerate(set_folders, 1):
+        # Try to extract set name and ID
+        folder_parts = folder.name.split('_', 1)
+        if len(folder_parts) == 2:
+            set_name = folder_parts[0].replace('_', ' ')
+            set_id = folder_parts[1]
+            print(f"  {idx:3d}. {set_name} ({set_id})")
+        else:
+            print(f"  {idx:3d}. {folder.name}")
+    
+    print(f"  {len(set_folders) + 1:3d}. Download ALL sets")
+    print("="*70)
+
+def get_user_choice(set_folders):
+    """Get and validate user input"""
+    while True:
+        try:
+            choice = input(f"\nEnter your choice (1-{len(set_folders) + 1}) or 'q' to quit: ").strip().lower()
+            
+            if choice == 'q':
+                return None
+            
+            choice_num = int(choice)
+            
+            if 1 <= choice_num <= len(set_folders):
+                return [set_folders[choice_num - 1]]
+            elif choice_num == len(set_folders) + 1:
+                return set_folders  # All sets
+            else:
+                print(f"Invalid choice. Please enter a number between 1 and {len(set_folders) + 1}.")
+        
+        except ValueError:
+            print("Invalid input. Please enter a number or 'q' to quit.")
+
 async def main():
-    """Main function to download images for all sets"""
+    """Main function to download images for selected sets"""
     
     print("="*70)
     print("POKÉMON CARD IMAGE DOWNLOADER")
@@ -172,20 +223,30 @@ async def main():
         return
     
     # Find all set folders
-    set_folders = [f for f in base_folder.iterdir() if f.is_dir()]
+    set_folders = sorted([f for f in base_folder.iterdir() if f.is_dir()])
     
     if not set_folders:
         print(f"Error: No set folders found in '{base_folder}'")
         return
     
-    print(f"Found {len(set_folders)} set folders\n")
+    # Display menu and get user choice
+    display_sets_menu(set_folders)
+    selected_sets = get_user_choice(set_folders)
+    
+    if selected_sets is None:
+        print("\nOperation cancelled by user.")
+        return
+    
+    print(f"\n{'='*70}")
+    print(f"DOWNLOADING {len(selected_sets)} SET(S)")
+    print(f"{'='*70}")
     
     # Create semaphore to limit concurrent requests
     semaphore = asyncio.Semaphore(MAX_CONCURRENT_REQUESTS)
     
-    # Process each set folder
-    for idx, set_folder in enumerate(set_folders, 1):
-        print(f"[{idx}/{len(set_folders)}] {set_folder.name}")
+    # Process each selected set folder
+    for idx, set_folder in enumerate(selected_sets, 1):
+        print(f"\n[{idx}/{len(selected_sets)}] {set_folder.name}")
         await download_set_images(set_folder, semaphore)
     
     print("\n" + "="*70)

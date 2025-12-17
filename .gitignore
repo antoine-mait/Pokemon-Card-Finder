@@ -7,3 +7,4 @@ collection*
 my_pokemon*
 *.csv
 *.json
+*.pkl
