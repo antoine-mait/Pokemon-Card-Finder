@@ -957,6 +957,159 @@ def process_single_set(folder_path, selected_languages=None, ask_language=True, 
     
     process_folder_multithreaded(folder_path, selected_languages=selected_languages, clear_output=clear_output)
 
+def process_collection_list_only(base_path):
+    """Process only collection_list.txt from existing Renamed_Cropped folders"""
+    
+    set_folders = find_set_folders_with_renamed(base_path)
+    
+    if not set_folders:
+        print(f"❌ No folders with 'Renamed_Cropped' subfolder found in {base_path}")
+        return
+    
+    print(f"\n{'='*70}")
+    print(f"FOUND {len(set_folders)} SET FOLDER(S) WITH RENAMED DATA")
+    print(f"{'='*70}")
+    
+    for i, folder in enumerate(set_folders, 1):
+        set_name = folder.name
+        set_code = extract_set_code(folder)
+        print(f"  {i}. {set_name} (Set: {set_code})")
+    
+    print(f"\n{'='*70}")
+    print("⚠️  COLLECTION LIST UPDATE")
+    print(f"{'='*70}")
+    print("This will:")
+    print("  • Clear collection_list.txt")
+    print("  • Rebuild it from all Renamed_Cropped folders")
+    print("  • Use English names from CardList CSV files")
+    print("\nDo you want to proceed? (y/n)")
+    
+    choice = input("\nProceed? (y/n): ").strip().lower()
+    if choice != 'y':
+        print("❌ Cancelled")
+        return
+    
+    # Clear collection_list.txt
+    collection_file = Path('PokemonTCGAPI/collection_list.txt')
+    if collection_file.exists():
+        collection_file.unlink()
+        print(f"\n🗑️  Cleared collection_list.txt")
+    
+    # Load set names
+    set_names = load_set_names_mapping()
+    
+    # Process each folder
+    total_cards = 0
+    for folder in set_folders:
+        set_code = extract_set_code(folder)
+        set_name = set_names.get(set_code.lower(), f"Unknown Set ({set_code})")
+        
+        print(f"\n📂 Processing: {folder.name}")
+        
+        # Load card database for this set to get English names
+        card_db = CardDatabase(set_code)
+        card_db.load_card_info_for_language('EN')
+        
+        renamed_folder = folder / 'Renamed_Cropped'
+        
+        # Process all language subfolders
+        for lang_folder in renamed_folder.iterdir():
+            if not lang_folder.is_dir():
+                continue
+                
+            language = lang_folder.name
+            
+            # Find all FRONT images
+            front_images = list(lang_folder.glob("*_FRONT.*"))
+            
+            for front_img in front_images:
+                try:
+                    # Parse filename: CardName_LocalId_SetCode_Language_FRONT.ext
+                    # Example: Dark_Houndoom_7_NEO4_EN_FRONT.jpg
+                    filename = front_img.stem  # Remove extension
+                    
+                    # Split from the right to get: [..., SetCode, Language, FRONT]
+                    parts = filename.rsplit('_', 3)
+                    
+                    if len(parts) < 4:
+                        print(f"  ⚠️  Skipping invalid filename: {front_img.name}")
+                        continue
+                    
+                    # parts[0] = "CardName_LocalId" combined
+                    # parts[1] = SetCode
+                    # parts[2] = Language
+                    # parts[3] = FRONT
+                    
+                    # Extract SetCode and verify it matches
+                    file_set_code = parts[1]
+                    if file_set_code != set_code:
+                        print(f"  ⚠️  Set code mismatch: {front_img.name}")
+                        continue
+                    
+                    # Now split parts[0] from the right to get LocalId
+                    card_and_id = parts[0]
+                    card_parts = card_and_id.rsplit('_', 1)
+                    
+                    if len(card_parts) < 2:
+                        print(f"  ⚠️  Cannot extract card number: {front_img.name}")
+                        continue
+                    
+                    local_id = card_parts[1]
+                    
+                    # Look up English name from database using card number
+                    card_info = card_db.get_card_by_number(local_id)
+                    
+                    if not card_info:
+                        print(f"  ⚠️  Card #{local_id} not found in database")
+                        # Fallback to filename parsing
+                        card_name_with_underscores = card_parts[0]
+                        card_name_en = card_name_with_underscores.replace('_', ' ')
+                    else:
+                        # Get English name from database
+                        card_name_en = card_db.get_card_name_for_language(card_info, 'EN')
+                    
+                    # Append to collection list
+                    append_to_collection_list(card_name_en, set_name, local_id)
+                    total_cards += 1
+                    
+                except Exception as e:
+                    print(f"  ⚠️  Error parsing {front_img.name}: {e}")
+        
+        processed_count = len(list(renamed_folder.glob('*/*_FRONT.*')))
+        print(f"  ✅ Processed {processed_count} cards")
+    
+    print(f"\n{'='*70}")
+    print(f"✅ COLLECTION LIST REBUILT: {total_cards} cards total")
+    print(f"{'='*70}")
+    print(f"📄 File: {collection_file}")
+
+def find_set_folders_with_renamed(base_path):
+    """Recursively find all folders that contain a 'Renamed_Cropped' subfolder"""
+    set_folders = []
+    
+    try:
+        base_path = Path(base_path)
+        
+        # Check if the given path itself has a Renamed_Cropped folder
+        if (base_path / 'Renamed_Cropped').exists():
+            set_folders.append(base_path)
+            return set_folders
+        
+        # Otherwise, search in subdirectories
+        for item in base_path.iterdir():
+            if item.is_dir():
+                renamed_folder = item / 'Renamed_Cropped'
+                if renamed_folder.exists() and renamed_folder.is_dir():
+                    set_folders.append(item)
+    
+    except Exception as e:
+        print(f"Error scanning folder: {e}")
+    
+    return set_folders
+
+
+# REPLACE THE if __name__ == "__main__": BLOCK WITH THIS:
+
 if __name__ == "__main__":
     print("="*70)
     print("POKÉMON CARD PROCESSOR - MULTITHREADED WITH CSV EXPORT")
@@ -964,23 +1117,46 @@ if __name__ == "__main__":
     print("\n🚀 Parallel processing + automatic CSV generation!")
     print("📊 CSV uses English names for TCG compatibility")
     print("📝 Creates collection_list.txt in PokemonTCGAPI folder")
-    print("🔍 Can process single set or batch process multiple sets\n")
+    print("📂 Can process single set or batch process multiple sets\n")
     
-    folder_path = input("Enter path (set folder or parent folder): ").strip().strip('"')
+    print("="*70)
+    print("SELECT PROCESSING MODE")
+    print("="*70)
+    print("1. Full Process (crop images + match cards + generate files)")
+    print("2. Collection List Only (rebuild from existing Renamed_Cropped)")
+    print()
     
-    if not os.path.exists(folder_path):
-        print(f"❌ Error: Path not found: {folder_path}")
-    else:
-        # Check if this is a set folder or parent folder
-        raw_folder = os.path.join(folder_path, 'raw')
+    mode = input("Select mode (1/2): ").strip()
+    
+    if mode == "2":
+        # Collection list only mode
+        folder_path = input("\nEnter path (set folder or parent folder): ").strip().strip('"')
         
-        if os.path.exists(raw_folder):
-            # Single set folder
-            print(f"\n✓ Found raw folder - processing single set")
-            process_single_set(folder_path)
+        if not os.path.exists(folder_path):
+            print(f"❌ Error: Path not found: {folder_path}")
         else:
-            # Parent folder - search for sets
-            print(f"\n🔍 Searching for set folders in: {folder_path}")
-            process_multiple_sets(folder_path)
+            process_collection_list_only(folder_path)
+    
+    elif mode == "1":
+        # Full processing mode (original behavior)
+        folder_path = input("\nEnter path (set folder or parent folder): ").strip().strip('"')
+        
+        if not os.path.exists(folder_path):
+            print(f"❌ Error: Path not found: {folder_path}")
+        else:
+            # Check if this is a set folder or parent folder
+            raw_folder = os.path.join(folder_path, 'raw')
+            
+            if os.path.exists(raw_folder):
+                # Single set folder
+                print(f"\n✓ Found raw folder - processing single set")
+                process_single_set(folder_path)
+            else:
+                # Parent folder - search for sets
+                print(f"\n🔍 Searching for set folders in: {folder_path}")
+                process_multiple_sets(folder_path)
+    
+    else:
+        print("❌ Invalid mode selected")
     
     print("\n✅ All processing complete!")
