@@ -159,15 +159,29 @@ class CardMatcher:
         print(f"\n  Looking for set code: '{self.set_code}'")
         
         set_folders = [f for f in self.base_path.iterdir() 
-                       if f.is_dir() and f.name.endswith(f"_{self.set_code}")]
+                    if f.is_dir() and f.name.endswith(f"_{self.set_code}")]
         
         if not set_folders:
             set_folders = [f for f in self.base_path.iterdir() 
-                           if f.is_dir() and f.name.lower().endswith(f"_{self.set_code.lower()}")]
+                        if f.is_dir() and f.name.lower().endswith(f"_{self.set_code.lower()}")]
         
         if not set_folders:
             set_folders = [f for f in self.base_path.iterdir() 
-                           if f.is_dir() and self.set_code.lower() in f.name.lower()]
+                        if f.is_dir() and self.set_code.lower() in f.name.lower()]
+        
+        # NEW: Try with zero-padded version (e.g., SV6 -> SV06)
+        if not set_folders:
+            # Split letters and numbers
+            import re
+            match = re.match(r'^([A-Za-z]+)(\d+)$', self.set_code)
+            if match:
+                letters = match.group(1)
+                numbers = match.group(2)
+                padded_code = f"{letters}0{numbers}"
+                
+                print(f"  Trying zero-padded version: '{padded_code}'")
+                set_folders = [f for f in self.base_path.iterdir() 
+                            if f.is_dir() and f.name.lower().endswith(f"_{padded_code.lower()}")]
         
         if not set_folders:
             print(f"\n⚠ Warning: Set folder for '{self.set_code}' not found")
@@ -175,7 +189,7 @@ class CardMatcher:
         
         set_folder = set_folders[0]
         print(f"  ✓ Found set folder: {set_folder.name}")
-        
+            
         img_folder = set_folder / "IMG"
         
         if not img_folder.exists():

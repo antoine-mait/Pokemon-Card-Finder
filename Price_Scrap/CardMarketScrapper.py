@@ -32,6 +32,123 @@ driver_init_lock = threading.Lock()
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 STRATEGY_FILE = os.path.join(SCRIPT_DIR, "set_strategy_cache.json")
 strategy_lock = threading.Lock()
+ALLSETS_FILE = os.path.join(os.path.dirname(SCRIPT_DIR), "PokemonCardLists", "all_sets_full.json")
+
+def load_ptcgo_codes():
+    """Load ptcgoCode mapping from all_set_full.json"""
+    if not os.path.exists(ALLSETS_FILE):
+        print(f"Warning: all_set_full.json not found at {ALLSETS_FILE}")
+        return {}
+    
+    try:
+        with open(ALLSETS_FILE, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        
+        ptcgo_map = {}
+        for set_data in data.get('data', []):
+            set_id = set_data.get('id', '').lower()
+            ptcgo_code = set_data.get('ptcgoCode', '')
+            if set_id and ptcgo_code:
+                ptcgo_map[set_id] = ptcgo_code
+        
+        return ptcgo_map
+    except Exception as e:
+        print(f"Error loading ptcgoCode mapping: {e}")
+        return {}
+
+ptcgo_codes = load_ptcgo_codes()
+
+def get_ptcgo_code_for_set(folder_name):
+    """Get ptcgoCode for a set based on folder name"""
+    # Extract parts from folder name
+    parts = folder_name.lower().split('_')
+    folder_lower = folder_name.lower()
+    
+    # Try direct match on each part
+    for part in parts:
+        if part in ptcgo_codes:
+            return ptcgo_codes[part]
+    
+    # Try matching the full folder name against set IDs
+    for set_id, code in ptcgo_codes.items():
+        if set_id in folder_lower or folder_lower.replace('-', '').replace('_', '') in set_id.replace('-', ''):
+            return code
+    
+    # Try matching set name (e.g., "sandstorm" from "EX-Sandstorm_EX2")
+    set_name = get_set_name(folder_name).lower().replace('-', '').replace('_', '')
+    for set_id, code in ptcgo_codes.items():
+        set_id_clean = set_id.replace('-', '').replace('_', '')
+        if set_name in set_id_clean or set_id_clean in set_name:
+            return code
+    
+    return None
+
+def execute_ptcgo_code_strategy(driver, card_info, thread_id):
+    """Execute ptcgoCode strategy"""
+    ptcgo_code = card_info.get('ptcgo_code')
+    
+    if not ptcgo_code or ptcgo_code == card_info['set_abbreviation']:
+        return None
+        
+    url_ptcgo = build_cardmarket_url(
+        card_info['set_name'],
+        card_info['card_name_sanitized'],
+        ptcgo_code,
+        card_info['card_number'],
+        LANGUAGE_MAP[card_info['language']]
+    )
+    
+    prices, product_name = try_scrape_url(driver, url_ptcgo, thread_id)
+    if prices:
+        cache_key = get_cache_key(card_info)
+        save_strategy_cache(cache_key, "ptcgo_code")
+        strategy_cache[cache_key] = "ptcgo_code"
+        card_info_ptcgo = card_info.copy()
+        card_info_ptcgo['used_ptcgo_code'] = True
+        return {
+            'card_info': card_info_ptcgo,
+            'product_name': product_name,
+            'url': url_ptcgo,
+            'prices': prices,
+            'scrape_timestamp': time.strftime('%Y-%m-%d %H:%M:%S'),
+            'success': True,
+            'strategy': 'ptcgo_code'
+        }
+    return None
+def execute_v2_ptcgo_code_strategy(driver, card_info, thread_id):
+    """Execute V2 + ptcgo code strategy"""
+    ptcgo_code = card_info.get('ptcgo_code')
+    
+    if not ptcgo_code:
+        return None
+        
+    url_ptcgo_v2 = build_cardmarket_url(
+        card_info['set_name'],
+        card_info['card_name_sanitized'],
+        ptcgo_code,
+        card_info['card_number'],
+        LANGUAGE_MAP[card_info['language']],
+        variant="V2"
+    )
+    
+    prices, product_name = try_scrape_url(driver, url_ptcgo_v2, thread_id)
+    if prices:
+        cache_key = get_cache_key(card_info)
+        save_strategy_cache(cache_key, "v2_ptcgo_code")
+        strategy_cache[cache_key] = "v2_ptcgo_code"
+        card_info_ptcgo_v2 = card_info.copy()
+        card_info_ptcgo_v2['used_ptcgo_code'] = True
+        card_info_ptcgo_v2['variant_used'] = 'V2'
+        return {
+            'card_info': card_info_ptcgo_v2,
+            'product_name': product_name,
+            'url': url_ptcgo_v2,
+            'prices': prices,
+            'scrape_timestamp': time.strftime('%Y-%m-%d %H:%M:%S'),
+            'success': True,
+            'strategy': 'v2_ptcgo_code'
+        }
+    return None
 
 def load_strategy_cache():
     if not os.path.exists(STRATEGY_FILE):
@@ -262,6 +379,17 @@ def save_results(all_results, output_file):
 
     with save_lock:
         try:
+            # Load existing collection history
+            collection_history = []
+            if os.path.exists(output_file):
+                try:
+                    with open(output_file, 'r', encoding='utf-8') as f:
+                        old_data = json.load(f)
+                        if isinstance(old_data, dict):
+                            collection_history = old_data.get('collection_history', [])
+                except:
+                    pass
+            
             set_strategies = {}
             total_value = 0.0
             seen_cards = set()
@@ -289,9 +417,18 @@ def save_results(all_results, output_file):
                 price_30d = extract_30d_price(result.get('prices', {}))
                 if price_30d is not None:
                     total_value += price_30d
+            
+            # Update collection history
+            today = datetime.now().strftime('%Y-%m-%d')
+            if not collection_history or collection_history[-1]['date'] != today:
+                collection_history.append({
+                    'date': today,
+                    'total_value': round(total_value, 2)
+                })
 
             output_data = {
                 'Collection_Total_Value': round(total_value, 2),
+                'collection_history': collection_history,
                 'last_updated': time.strftime('%Y-%m-%d %H:%M:%S'),
                 'set_strategies': set_strategies,
                 'results': all_results
@@ -305,11 +442,11 @@ def save_results(all_results, output_file):
         except Exception as e:
             print(f"    ⚠️ Error saving results: {e}")
             return False
-
+        
 def load_existing_results(output_file):
     """Load existing results from JSON file and extract set strategies"""
     if not os.path.exists(output_file):
-        return {}, {}
+        return {}, {}, {}
     
     try:
         with open(output_file, 'r', encoding='utf-8') as f:
@@ -340,6 +477,9 @@ def load_existing_results(output_file):
         price_history = {}
 
         for item in results_list:
+            if not item.get('success'):
+                continue
+                
             card_info = item.get('card_info', {})
             uid = build_card_uid(card_info)
 
@@ -350,7 +490,7 @@ def load_existing_results(output_file):
 
     except Exception as e:
         print(f"Warning: Could not load existing results: {e}")
-        return {}, {}
+        return {}, {}, {}
 
 def get_best_strategy_for_set(set_folder, set_strategies):
     """Get the most successful strategy for a given set"""
@@ -432,10 +572,12 @@ def try_strategy_first(driver, card_info, english_names, strategy, thread_id):
     
     strategy_map = {
         'direct_url': lambda: execute_direct_url_strategy(driver, card_info, thread_id),
+        'ptcgo_code': lambda: execute_ptcgo_code_strategy(driver, card_info, thread_id),
         'english_name': lambda: execute_english_name_strategy(driver, card_info, english_names, thread_id),
         'set_id': lambda: execute_set_id_strategy(driver, card_info, thread_id),
         'extended_abbr': lambda: execute_extended_abbr_strategy(driver, card_info, thread_id),
         'v2_variant': lambda: execute_v2_variant_strategy(driver, card_info, thread_id),
+        'v2_ptcgo_code': lambda: execute_v2_ptcgo_code_strategy(driver, card_info, thread_id),
         'v2_set_id': lambda: execute_v2_set_id_strategy(driver, card_info, thread_id),
         'search': lambda: execute_search_strategy(driver, card_info,english_names, thread_id)
     }
@@ -484,10 +626,12 @@ def scrape_single_card(driver, url, card_info, english_names, strategy_cache, pr
     # Try all strategies in order
     strategies = [
         ('direct_url', lambda: execute_direct_url_strategy(driver, card_info, thread_id)),
+        ('ptcgo_code', lambda: execute_ptcgo_code_strategy(driver, card_info, thread_id)),
         ('english_name', lambda: execute_english_name_strategy(driver, card_info, english_names, thread_id)),
         ('set_id', lambda: execute_set_id_strategy(driver, card_info, thread_id)),
         ('extended_abbr', lambda: execute_extended_abbr_strategy(driver, card_info, thread_id)),
         ('v2_variant', lambda: execute_v2_variant_strategy(driver, card_info, thread_id)),
+        ('v2_ptcgo_code', lambda: execute_v2_ptcgo_code_strategy(driver, card_info, thread_id)),
         ('v2_set_id', lambda: execute_v2_set_id_strategy(driver, card_info, thread_id)),
         ('search', lambda: execute_search_strategy(driver, card_info,english_names, thread_id))
     ]
@@ -943,7 +1087,14 @@ def scan_and_scrape(base_folder, output_file=None, num_threads=4):
                 if is_card_scraped_today(card_info_check, existing_results):
                     skipped_count += 1
                     key = f"{card_info_check['set_folder']}_{card_info_check['filename']}"
-                    all_results.append(existing_results[key])
+                    existing_result = existing_results[key].copy()
+                    
+                    # Preserve price history from price_history dict
+                    uid = build_card_uid(existing_result['card_info'])
+                    if uid in price_history and 'price_history' not in existing_result:
+                        existing_result['price_history'] = price_history[uid]
+                    
+                    all_results.append(existing_result)
                     continue
                 
                 sanitized_card_name = sanitize_card_name(card_name)
@@ -955,6 +1106,7 @@ def scan_and_scrape(base_folder, output_file=None, num_threads=4):
                     'set_name': set_name,
                     'set_abbreviation': current_abbr,
                     'set_id': set_id,
+                    'ptcgo_code': get_ptcgo_code_for_set(set_folder.name),
                     'card_name': card_name,
                     'card_name_sanitized': sanitized_card_name,
                     'card_number': card_number,
