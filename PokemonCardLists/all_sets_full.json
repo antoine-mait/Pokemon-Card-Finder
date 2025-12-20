@@ -255,6 +255,23 @@
       }
     },
     {
+      "id": "EC30",
+      "name": "Wind from the Sea ",
+      "series": "E-Card JP",
+      "printedTotal": 90,
+      "total": 90,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "EC30",
+      "releaseDate": "2002/05/24",
+      "updatedAt": "2022/10/10 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/ecard1/symbol.png",
+        "logo": "https://images.pokemontcg.io/ecard1/logo.png"
+      }
+    },
+    {
       "id": "ecard2",
       "name": "Aquapolis",
       "series": "E-Card",

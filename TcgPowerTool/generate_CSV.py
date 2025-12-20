@@ -149,7 +149,8 @@ def process_cards(base_path, json_path, output_csv):
 
 # Main execution
 if __name__ == "__main__":
-    base_path = r"D:\05-Vente_Carte"
+    base_path_def = input(r"Base folder path (D:\05-Pokemon\01-Collection or D:\05-Pokemon\02-vente)")
+    base_path = base_path_def
     json_path = r"D:\02-Travaille\04-Coding\03-Projects\05-Rename_Pokemon_Photo\PokemonCardLists\all_sets_full.json"
     output_csv = r"D:\02-Travaille\04-Coding\03-Projects\05-Rename_Pokemon_Photo\TcgPowerTool\pokemon_cards_inventory.csv"
     

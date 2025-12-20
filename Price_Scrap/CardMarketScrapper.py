@@ -102,7 +102,6 @@ def execute_ptcgo_code_strategy(driver, card_info, thread_id):
     if prices:
         cache_key = get_cache_key(card_info)
         save_strategy_cache(cache_key, "ptcgo_code")
-        strategy_cache[cache_key] = "ptcgo_code"
         card_info_ptcgo = card_info.copy()
         card_info_ptcgo['used_ptcgo_code'] = True
         return {
@@ -135,7 +134,6 @@ def execute_v2_ptcgo_code_strategy(driver, card_info, thread_id):
     if prices:
         cache_key = get_cache_key(card_info)
         save_strategy_cache(cache_key, "v2_ptcgo_code")
-        strategy_cache[cache_key] = "v2_ptcgo_code"
         card_info_ptcgo_v2 = card_info.copy()
         card_info_ptcgo_v2['used_ptcgo_code'] = True
         card_info_ptcgo_v2['variant_used'] = 'V2'
@@ -154,18 +152,30 @@ def load_strategy_cache():
     if not os.path.exists(STRATEGY_FILE):
         return {}
     with open(STRATEGY_FILE, "r", encoding="utf-8") as f:
-        return json.load(f)
+        data = json.load(f)
+        # Convert old string format to list format
+        for key, value in data.items():
+            if isinstance(value, str):
+                data[key] = [value]
+        return data
 
 strategy_cache = load_strategy_cache()
 
 def save_strategy_cache(set_folder, strategy):
     with strategy_lock:
         data = load_strategy_cache()
-        if data.get(set_folder) == strategy:
-            return  # already known
-        data[set_folder] = strategy
-        with open(STRATEGY_FILE, "w", encoding="utf-8") as f:
-            json.dump(data, f, indent=2)
+        current = data.get(set_folder, [])
+        
+        # Ensure it's a list (for backward compatibility)
+        if isinstance(current, str):
+            current = [current]
+        
+        # Add new strategy if not already present
+        if strategy not in current:
+            current.append(strategy)
+            data[set_folder] = current
+            with open(STRATEGY_FILE, "w", encoding="utf-8") as f:
+                json.dump(data, f, indent=2)
 
 def extract_30d_price(prices: dict):
     """Extract 'Prix moyen 30 jours' as float"""
@@ -212,14 +222,11 @@ def get_set_abbreviation(set_name):
     return abbreviation
 
 def get_extended_abbreviation(set_name, current_abbr):
-    """Get extended abbreviation by adding one more character"""
+    """Get extended abbreviation: first letter + first 2 letters of second word"""
     words = set_name.replace('_', '-').split('-')
-    if len(words) > 0:
-        last_word = words[-1]
-        current_len = len(current_abbr)
-        chars_from_last_word = len([c for c in current_abbr if c in last_word.upper()])
-        if len(last_word) > chars_from_last_word:
-            return current_abbr + last_word[chars_from_last_word].upper()
+    if len(words) >= 2:
+        # First letter of first word + first 2 letters of second word
+        return words[0][0].upper() + words[1][:2].upper()
     return current_abbr
 
 def get_set_name(folder_name):
@@ -595,33 +602,35 @@ def scrape_single_card(driver, url, card_info, english_names, strategy_cache, pr
     thread_id = threading.current_thread().name
     tried_strategies = set()
     
-    # Try cached strategy FIRST (per set)
+    # Try cached strategies FIRST (per set)
     cache_key = get_cache_key(card_info)
-    preferred = strategy_cache.get(cache_key)
-
-    if preferred:
-        print(f"    [{thread_id}] 🎯 Using cached strategy: {preferred}")
+    preferred_list = strategy_cache.get(cache_key, [])
+    
+    # Ensure it's a list (backward compatibility)
+    if isinstance(preferred_list, str):
+        preferred_list = [preferred_list]
+    
+    # Try all cached strategies first
+    for preferred in preferred_list:
+        if preferred in tried_strategies:
+            continue
+        tried_strategies.add(preferred)
+        
+        print(f"    [{thread_id}] 🎯 Trying cached strategy: {preferred}")
         result = try_strategy_first(
             driver, card_info, english_names, preferred, thread_id
         )
         if result:
+            # Update price history...
             price_30d = extract_30d_price(result.get('prices', {}))
             today = datetime.now().strftime('%Y-%m-%d')
-
             uid = build_card_uid(card_info)
             history = price_history.get(uid, [])
-
             if price_30d is not None and (not history or history[-1]['date'] != today):
-                history.append({
-                    "date": today,
-                    "price": price_30d
-                })
-
+                history.append({"date": today, "price": price_30d})
             price_history[uid] = history
             result['price_history'] = history
-
             return result
-
     
     # Try all strategies in order
     strategies = [
@@ -670,7 +679,6 @@ def execute_direct_url_strategy(driver, card_info, thread_id):
     if prices:
         cache_key = get_cache_key(card_info)
         save_strategy_cache(cache_key, "direct_url")
-        strategy_cache[cache_key] = "direct_url"
         return {
             'card_info': card_info,
             'product_name': product_name,
@@ -708,7 +716,6 @@ def execute_english_name_strategy(driver, card_info, english_names, thread_id):
     if prices:
         cache_key = get_cache_key(card_info)
         save_strategy_cache(cache_key, "english_name")
-        strategy_cache[cache_key] = "english_name"
         card_info_en = card_info.copy()
         card_info_en['card_name_sanitized'] = english_sanitized
         card_info_en['tried_english_name'] = True
@@ -742,7 +749,6 @@ def execute_set_id_strategy(driver, card_info, thread_id):
     if prices:
         cache_key = get_cache_key(card_info)
         save_strategy_cache(cache_key, "set_id")
-        strategy_cache[cache_key] = "set_id"
         card_info_set_id = card_info.copy()
         card_info_set_id['used_set_id'] = True
         return {
@@ -773,7 +779,6 @@ def execute_extended_abbr_strategy(driver, card_info, thread_id):
     if prices:
         cache_key = get_cache_key(card_info)
         save_strategy_cache(cache_key, "extended_abbr")
-        strategy_cache[cache_key] = "extended_abbr"
         card_info_extended = card_info.copy()
         card_info_extended['abbreviation_extended'] = True
         return {
@@ -801,7 +806,6 @@ def execute_v2_variant_strategy(driver, card_info, thread_id):
     if prices:
         cache_key = get_cache_key(card_info)
         save_strategy_cache(cache_key, "v2_variant")
-        strategy_cache[cache_key] = "v2_variant"
         card_info_v2 = card_info.copy()
         card_info_v2['variant_used'] = 'V2'
         return {
@@ -833,7 +837,6 @@ def execute_v2_set_id_strategy(driver, card_info, thread_id):
     if prices:
         cache_key = get_cache_key(card_info)
         save_strategy_cache(cache_key, "v2_set_id")
-        strategy_cache[cache_key] = "v2_set_id"
         card_info_set_id_v2 = card_info.copy()
         card_info_set_id_v2['used_set_id'] = True
         card_info_set_id_v2['variant_used'] = 'V2'
@@ -916,7 +919,6 @@ def execute_search_strategy(driver, card_info, english_names, thread_id):
         url, prices, product_name = result
         cache_key = get_cache_key(card_info)
         save_strategy_cache(cache_key, "search")
-        strategy_cache[cache_key] = "search"
 
         card_info_found = card_info.copy()
         card_info_found['found_via_search'] = True
@@ -943,7 +945,6 @@ def execute_search_strategy(driver, card_info, english_names, thread_id):
             url, prices, product_name = result
             cache_key = get_cache_key(card_info)
             save_strategy_cache(cache_key, "search")
-            strategy_cache[cache_key] = "search"
 
             card_info_found = card_info.copy()
             card_info_found['found_via_search_english'] = True
@@ -1159,7 +1160,8 @@ def scan_and_scrape(base_folder, output_file=None, num_threads=4):
     print(f"  📊 Total in file: {len(all_results)}")
 
 if __name__ == "__main__":
-    base_folder = r"D:\05-Vente_Carte"
+    base_path_def = input(r"Base folder path (D:\05-Pokemon\01-Collection or D:\05-Pokemon\02-vente) : ")
+    base_folder = base_path_def
     num_threads = 1
     
     print("="*60)
