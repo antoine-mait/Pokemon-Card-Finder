@@ -492,17 +492,7 @@ class CardMatcher:
                         return card_info
                     else:
                         self.learning.add_rejection(cropped_image, best_card_id)
-                        
-                        # Ask if crop is bad
-                        print(f"\n  ❓ Is the crop quality bad? (y/n): ", end='')
-                        crop_bad = input().strip().lower()
-                        
-                        if crop_bad == 'y':
-                            print(f"  🔄 Crop issue detected - returning None to trigger basic recrop")
-                            self.close_comparison_window()
-                            print(f"{'='*60}\n")
-                            return 'RECROP'  
-                        
+
                         result = self.manual_card_entry()
                         
                         if result:
@@ -619,40 +609,13 @@ def process_language_folder(folder_path, language, set_code, output_folder, csv_
                 pair_number += 1
                 continue
             
-            cropped_front = cropper.crop_card()
+            cropped_front = cropper.crop_card_advanced()
             if cropped_front is None:
                 i += 2
                 pair_number += 1
                 continue
             
             card_info = matcher.match_card(cropped_front)
-            
-            if card_info == 'RECROP':
-                # Delete the bad crop and retry with basic crop
-                print(f"  🔄 Retrying with basic crop method...")
-                
-                cropper = CardCropper(front_path)
-                if cropper.image is not None:
-                    cropped_front = cropper.crop_card_basic()
-                    
-                    if cropped_front is not None:
-                        # Try matching again with new crop
-                        card_info = matcher.match_card(cropped_front)
-                        
-                        if not card_info or card_info == 'RECROP':
-                            print(f"  ❌ Still failed after basic crop - skipping pair")
-                            i += 2
-                            pair_number += 1
-                            continue
-                    else:
-                        print(f"  ❌ Basic crop failed - skipping pair")
-                        i += 2
-                        pair_number += 1
-                        continue
-                else:
-                    i += 2
-                    pair_number += 1
-                    continue
     
             if not card_info:
                 i += 2
@@ -685,7 +648,7 @@ def process_language_folder(folder_path, language, set_code, output_folder, csv_
                 back_cropper = CardCropper(back_path)
                 
                 if back_cropper.image is not None:
-                    back_cropped = back_cropper.crop_card_back()
+                    back_cropped = back_cropper.crop_card_advanced(is_back=True)
                     if back_cropped is not None:
                         base_back = f"{name_sanitized}_{local_id}_{set_code}_{language}_BACK{ext}"
                         back_new_name = get_unique_filename(output_dir, base_back)

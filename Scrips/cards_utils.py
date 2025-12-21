@@ -425,123 +425,324 @@ class CardCropper:
         self.image = cv2.imread(image_path)
         self.cropped_card = None
         
-    def find_card_contour(self):
-        """Find the card's contour in the image"""
-        gray = cv2.cvtColor(self.image, cv2.COLOR_BGR2GRAY)
-        blurred = cv2.GaussianBlur(gray, (5, 5), 0)
-        edges = cv2.Canny(blurred, 50, 150)
-        
-        kernel = np.ones((5, 5), np.uint8)
-        dilated = cv2.dilate(edges, kernel, iterations=2)
-        
-        contours, _ = cv2.findContours(dilated, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
-        
-        if not contours:
-            return None
-        
-        largest_contour = max(contours, key=cv2.contourArea)
-        return largest_contour
-    
-    def rotate_image(self, contour):
-        """Rotate image to straighten the card"""
-        rect = cv2.minAreaRect(contour)
-        angle = rect[-1]
-        
-        if angle > 45:
-            angle = angle - 90
-        elif angle < -45:
-            angle = angle + 90
-        
-        if abs(angle) < 1:
-            return self.image, angle
-        
-        (h, w) = self.image.shape[:2]
-        center = (w // 2, h // 2)
-        
-        M = cv2.getRotationMatrix2D(center, angle, 1.0)
-        rotated = cv2.warpAffine(self.image, M, (w, h), 
-                                  flags=cv2.INTER_CUBIC,
-                                  borderMode=cv2.BORDER_REPLICATE)
-        
-        return rotated, angle
-
-    def crop_card_back(self):
-        """Simple center crop for card backs"""
-        h, w = self.image.shape[:2]
-        
-        crop_percent_w = 0.4
-        crop_percent_h = 0.95
-        
-        crop_w = int(w * crop_percent_w)
-        crop_h = int(h * crop_percent_h)
-        
-        start_x = (w - crop_w) // 2
-        start_y = (h - crop_h) // 2
-        
-        start_x = max(0, start_x)
-        start_y = max(0, start_y)
-        end_x = min(w, start_x + crop_w)
-        end_y = min(h, start_y + crop_h)
-        
-        self.cropped_card = self.image[start_y:end_y, start_x:end_x]
-        return self.cropped_card
-    
-    def crop_card(self):
-        """Crop the card using bounding rectangle with rotation correction"""
-        contour = self.find_card_contour()
-        
-        if contour is None:
-            return None
-        
-        rotated_image, angle = self.rotate_image(contour)
-        self.image = rotated_image
-        
-        contour = self.find_card_contour()
-        if contour is None:
-            return None
-        
-        x, y, w, h = cv2.boundingRect(contour)
-        
-        margin = 20
-        x = max(0, x - margin)
-        y = max(0, y - margin)
-        w = min(self.image.shape[1] - x, w + 2*margin)
-        h = min(self.image.shape[0] - y, h + 2*margin)
-        
-        self.cropped_card = self.image[y:y+h, x:x+w]
-        return self.cropped_card
-    
     def crop_card_basic(self):
-        """Basic crop without perspective correction - for problematic cards"""
+        """Simple center crop based on contrast with black background"""
         if self.image is None:
             return None
+        
+        h, w = self.image.shape[:2]
         
         # Convert to grayscale
         gray = cv2.cvtColor(self.image, cv2.COLOR_BGR2GRAY)
         
-        # Apply threshold
-        _, thresh = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
+        # Threshold: anything brighter than black (> 30) is the card
+        _, thresh = cv2.threshold(gray, 30, 255, cv2.THRESH_BINARY)
         
         # Find contours
         contours, _ = cv2.findContours(thresh, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
         
         if not contours:
-            return None
+            # Fallback: return center 80% of image
+            margin_h = int(h * 0.1)
+            margin_w = int(w * 0.1)
+            return self.image[margin_h:h-margin_h, margin_w:w-margin_w]
         
-        # Find largest contour
+        # Get the largest contour (should be the card)
         largest_contour = max(contours, key=cv2.contourArea)
         
-        # Get bounding rectangle (no perspective correction)
-        x, y, w, h = cv2.boundingRect(largest_contour)
+        # Get bounding rectangle
+        x, y, cw, ch = cv2.boundingRect(largest_contour)
         
-        # Add small margin
+        # Add small margin (5-10 pixels)
+        margin = 8
+        x = max(0, x - margin)
+        y = max(0, y - margin)
+        cw = min(w - x, cw + 2 * margin)
+        ch = min(h - y, ch + 2 * margin)
+        
+        # Crop
+        cropped = self.image[y:y+ch, x:x+cw]
+        
+        return cropped
+    
+    def crop_card_advanced(self, is_back=False):
+        """Advanced crop with multiple strategies for different lighting conditions
+        
+        Args:
+            is_back: Set to True when processing card backs (uses different strategies)
+        """
+        # First do basic crop
+        basic_cropped = self.crop_card_basic()
+        
+        if basic_cropped is None:
+            return None
+        
+        h, w = basic_cropped.shape[:2]
+        
+        # Try multiple cropping strategies and pick the best one
+        candidates = []
+        
+        if is_back:
+            # BACK CARD STRATEGIES (no yellow border, blue pattern)
+            
+            # STRATEGY 1: Blue color detection
+            try:
+                candidate = self._crop_by_blue_border(basic_cropped)
+                if candidate is not None:
+                    candidates.append(('blue', candidate))
+            except:
+                pass
+            
+            # STRATEGY 2: Contrast-based (blue vs black background)
+            try:
+                candidate = self._crop_by_contrast(basic_cropped)
+                if candidate is not None:
+                    candidates.append(('contrast', candidate))
+            except:
+                pass
+        else:
+            # FRONT CARD STRATEGIES (yellow border)
+            
+            # STRATEGY 1: Color-based border detection (works well with yellow borders)
+            try:
+                candidate = self._crop_by_color_border(basic_cropped)
+                if candidate is not None:
+                    candidates.append(('color', candidate))
+            except:
+                pass
+        
+        # STRATEGY 2: Edge-based detection (works when edges are clear)
+        try:
+            candidate = self._crop_by_edges(basic_cropped)
+            if candidate is not None:
+                candidates.append(('edge', candidate))
+        except:
+            pass
+        
+        # STRATEGY 3: Brightness-based (works with dark vs light contrast)
+        try:
+            candidate = self._crop_by_brightness(basic_cropped)
+            if candidate is not None:
+                candidates.append(('brightness', candidate))
+        except:
+            pass
+        
+        # Pick the best candidate
+        if candidates:
+            # Score each candidate (prefer ones that crop more but stay reasonable)
+            best_candidate = None
+            best_score = 0
+            
+            for method, crop in candidates:
+                ch, cw = crop.shape[:2]
+                
+                # Check aspect ratio (Pokemon cards are ~1.4:1)
+                aspect = ch / cw
+                aspect_score = 1.0 - abs(aspect - 1.4) if 1.2 < aspect < 1.6 else 0.0
+                
+                # Check size (prefer crops that remove ~5-15% of edges)
+                size_ratio = (ch * cw) / (h * w)
+                size_score = 1.0 - abs(size_ratio - 0.90)  # Target 90% of original
+                
+                # Combine scores
+                score = aspect_score * 0.6 + size_score * 0.4
+                
+                if score > best_score and size_ratio > 0.7:  # Must keep at least 70%
+                    best_score = score
+                    best_candidate = crop
+            
+            if best_candidate is not None:
+                return best_candidate
+        
+        # Fallback to basic crop
+        return basic_cropped
+    
+    def _crop_by_blue_border(self, image):
+        """Detect card back by finding the blue border/pattern"""
+        h, w = image.shape[:2]
+        
+        # Convert to HSV
+        hsv = cv2.cvtColor(image, cv2.COLOR_BGR2HSV)
+        
+        # Blue detection (wider range to catch various blue tones)
+        lower_blue = np.array([90, 50, 50])   # Darker blue
+        upper_blue = np.array([130, 255, 255])  # Lighter blue
+        mask = cv2.inRange(hsv, lower_blue, upper_blue)
+        
+        # Clean up the mask
+        kernel = np.ones((5, 5), np.uint8)
+        mask = cv2.morphologyEx(mask, cv2.MORPH_CLOSE, kernel)
+        mask = cv2.morphologyEx(mask, cv2.MORPH_OPEN, kernel)
+        
+        # Find contours
+        contours, _ = cv2.findContours(mask, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+        
+        if not contours:
+            return None
+        
+        # Get largest contour
+        largest = max(contours, key=cv2.contourArea)
+        x, y, cw, ch = cv2.boundingRect(largest)
+        
+        # Validate
+        if cw < w * 0.6 or ch < h * 0.6:
+            return None
+        
+        # Add margin
         margin = 5
         x = max(0, x - margin)
         y = max(0, y - margin)
-        w = min(self.image.shape[1] - x, w + 2 * margin)
-        h = min(self.image.shape[0] - y, h + 2 * margin)
+        cw = min(w - x, cw + 2 * margin)
+        ch = min(h - y, ch + 2 * margin)
         
-        # Crop using bounding box
-        cropped = self.image[y:y+h, x:x+w]
+        return image[y:y+ch, x:x+cw]
+    
+    def _crop_by_contrast(self, image):
+        """Detect card by high contrast between card and background"""
+        h, w = image.shape[:2]
         
-        return cropped
+        gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+        
+        # Apply bilateral filter to preserve edges while smoothing
+        filtered = cv2.bilateralFilter(gray, 9, 75, 75)
+        
+        # Adaptive threshold
+        thresh = cv2.adaptiveThreshold(
+            filtered, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C,
+            cv2.THRESH_BINARY, 11, 2
+        )
+        
+        # Clean up
+        kernel = np.ones((5, 5), np.uint8)
+        cleaned = cv2.morphologyEx(thresh, cv2.MORPH_CLOSE, kernel)
+        
+        # Find contours
+        contours, _ = cv2.findContours(cleaned, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+        
+        if not contours:
+            return None
+        
+        # Get largest
+        largest = max(contours, key=cv2.contourArea)
+        x, y, cw, ch = cv2.boundingRect(largest)
+        
+        # Validate
+        if cw < w * 0.6 or ch < h * 0.6:
+            return None
+        
+        margin = 5
+        x = max(0, x - margin)
+        y = max(0, y - margin)
+        cw = min(w - x, cw + 2 * margin)
+        ch = min(h - y, ch + 2 * margin)
+        
+        return image[y:y+ch, x:x+cw]
+    
+    def _crop_by_color_border(self, image):
+        """Detect card by finding the yellow/golden border"""
+        h, w = image.shape[:2]
+        
+        # Convert to HSV
+        hsv = cv2.cvtColor(image, cv2.COLOR_BGR2HSV)
+        
+        # Yellow/gold border detection (wider range)
+        lower_yellow = np.array([15, 30, 100])
+        upper_yellow = np.array([35, 255, 255])
+        mask = cv2.inRange(hsv, lower_yellow, upper_yellow)
+        
+        # Find contours
+        contours, _ = cv2.findContours(mask, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+        
+        if not contours:
+            return None
+        
+        # Get largest contour
+        largest = max(contours, key=cv2.contourArea)
+        x, y, cw, ch = cv2.boundingRect(largest)
+        
+        # Validate
+        if cw < w * 0.6 or ch < h * 0.6:
+            return None
+        
+        # Add margin
+        margin = 5
+        x = max(0, x - margin)
+        y = max(0, y - margin)
+        cw = min(w - x, cw + 2 * margin)
+        ch = min(h - y, ch + 2 * margin)
+        
+        return image[y:y+ch, x:x+cw]
+    
+    def _crop_by_edges(self, image):
+        """Detect card using edge detection"""
+        h, w = image.shape[:2]
+        
+        gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+        
+        # Blur to reduce noise from holographic effects
+        blurred = cv2.GaussianBlur(gray, (5, 5), 0)
+        
+        # Edge detection with adjusted thresholds
+        edges = cv2.Canny(blurred, 30, 100)
+        
+        # Dilate to connect edges
+        kernel = np.ones((3, 3), np.uint8)
+        edges_dilated = cv2.dilate(edges, kernel, iterations=1)
+        
+        # Find contours
+        contours, _ = cv2.findContours(edges_dilated, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+        
+        if not contours:
+            return None
+        
+        # Find best rectangular contour
+        for contour in sorted(contours, key=cv2.contourArea, reverse=True):
+            x, y, cw, ch = cv2.boundingRect(contour)
+            
+            # Must be large enough
+            if cw > w * 0.6 and ch > h * 0.6:
+                margin = 5
+                x = max(0, x - margin)
+                y = max(0, y - margin)
+                cw = min(w - x, cw + 2 * margin)
+                ch = min(h - y, ch + 2 * margin)
+                
+                return image[y:y+ch, x:x+cw]
+        
+        return None
+    
+    def _crop_by_brightness(self, image):
+        """Detect card by finding bright regions (card) vs dark (background)"""
+        h, w = image.shape[:2]
+        
+        gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+        
+        # Use Otsu's thresholding
+        _, thresh = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
+        
+        # Clean up
+        kernel = np.ones((5, 5), np.uint8)
+        cleaned = cv2.morphologyEx(thresh, cv2.MORPH_CLOSE, kernel)
+        cleaned = cv2.morphologyEx(cleaned, cv2.MORPH_OPEN, kernel)
+        
+        # Find contours
+        contours, _ = cv2.findContours(cleaned, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+        
+        if not contours:
+            return None
+        
+        # Get largest
+        largest = max(contours, key=cv2.contourArea)
+        x, y, cw, ch = cv2.boundingRect(largest)
+        
+        # Validate
+        if cw < w * 0.6 or ch < h * 0.6:
+            return None
+        
+        margin = 5
+        x = max(0, x - margin)
+        y = max(0, y - margin)
+        cw = min(w - x, cw + 2 * margin)
+        ch = min(h - y, ch + 2 * margin)
+        
+        return image[y:y+ch, x:x+cw]

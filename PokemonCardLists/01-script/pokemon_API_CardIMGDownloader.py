@@ -9,6 +9,26 @@ MAX_CONCURRENT_REQUESTS = 10
 
 def extract_series_from_set_id(set_id):
     """Extract series code from set_id"""
+    # Special cases - sets that have different series than their prefix
+    special_cases = {
+        'cel25': 'swsh',  # Celebrations is part of Sword & Shield
+        'cel25gg': 'swsh',  # Celebrations: Classic Collection
+        'det1': 'sm',  # Detective Pikachu is part of Sun & Moon
+        'sm7.5': 'sm',  # Dragon Majesty
+        'sm115': 'sm',  # Hidden Fates
+        'sm3.5': 'sm',  # Shining Legends
+        'g1': 'xy',  # Generations is part of XY
+        'dc1': 'xy',  # Double Crisis
+        'dv1': 'bw',  # Dragon Vault
+        'rc': 'bw',  # Radiant Collection
+    }
+    
+    set_id_lower = set_id.lower()
+    
+    # Check special cases first
+    if set_id_lower in special_cases:
+        return special_cases[set_id_lower]
+    
     # Common patterns:
     # sv03.5 -> sv
     # xy7 -> xy
@@ -19,12 +39,12 @@ def extract_series_from_set_id(set_id):
     # base1 -> base (for older sets)
     
     # Extract alphabetic prefix (remove trailing 'p' for promo sets)
-    match = re.match(r'^([a-z]+?)p?(?:\d|$)', set_id.lower())
+    match = re.match(r'^([a-z]+?)p?(?:\d|$)', set_id_lower)
     if match:
         return match.group(1)
     
     # Fallback: just extract alphabetic prefix
-    match = re.match(r'^([a-z]+)', set_id.lower())
+    match = re.match(r'^([a-z]+)', set_id_lower)
     if match:
         return match.group(1)
     
@@ -107,7 +127,7 @@ async def download_set_images(set_folder: Path, semaphore):
                 # Only add to download list if image doesn't exist
                 if not image_filepath.exists():
                     # Construct image URL from TCGdex API
-                    # Format: https://assets.tcgdex.net/en/{series}/{set_id}/{card_number}/{quality}.{extension}
+                    # Format: https://assets.tcgdex.net/en/{series}/{set_id}/{card_number}/high.jpg
                     # For most sets, series and set_id are different (e.g., series='swsh', set_id='swsh3')
                     # But for promo sets, they're the same (e.g., series='swshp', set_id='swshp')
                     # So we only include set_id once in the path
@@ -178,7 +198,16 @@ def display_sets_menu(set_folders):
         if len(folder_parts) == 2:
             set_name = folder_parts[0].replace('_', ' ')
             set_id = folder_parts[1]
-            print(f"  {idx:3d}. {set_name} ({set_id})")
+            
+            # Check if IMG folder exists and count images
+            img_folder = folder / "IMG"
+            if img_folder.exists():
+                img_count = len(list(img_folder.glob('*.jpg'))) + len(list(img_folder.glob('*.png'))) + len(list(img_folder.glob('*.webp')))
+                status = f"✓ {img_count} images" if img_count > 0 else "⚠ empty"
+            else:
+                status = "⚠ no IMG folder"
+            
+            print(f"  {idx:3d}. {set_name} ({set_id}) - {status}")
         else:
             print(f"  {idx:3d}. {folder.name}")
     
@@ -189,22 +218,78 @@ def get_user_choice(set_folders):
     """Get and validate user input"""
     while True:
         try:
-            choice = input(f"\nEnter your choice (1-{len(set_folders) + 1}) or 'q' to quit: ").strip().lower()
+            print("\nOptions:")
+            print(f"  • Enter number (1-{len(set_folders)}) for specific set")
+            print(f"  • Enter {len(set_folders) + 1} for ALL sets")
+            print("  • Enter set name or code to search (e.g., 'celebrations' or 'cel25')")
+            print("  • Enter 'q' to quit")
             
-            if choice == 'q':
+            choice = input(f"\nYour choice: ").strip()
+            
+            if choice.lower() == 'q':
                 return None
             
-            choice_num = int(choice)
+            # Try as number first
+            try:
+                choice_num = int(choice)
+                
+                if 1 <= choice_num <= len(set_folders):
+                    return [set_folders[choice_num - 1]]
+                elif choice_num == len(set_folders) + 1:
+                    return set_folders  # All sets
+                else:
+                    print(f"❌ Invalid number. Please enter 1-{len(set_folders) + 1}.")
+                    continue
             
-            if 1 <= choice_num <= len(set_folders):
-                return [set_folders[choice_num - 1]]
-            elif choice_num == len(set_folders) + 1:
-                return set_folders  # All sets
-            else:
-                print(f"Invalid choice. Please enter a number between 1 and {len(set_folders) + 1}.")
+            except ValueError:
+                # Not a number, try searching by name/code
+                search_term = choice.lower()
+                matches = []
+                
+                for folder in set_folders:
+                    folder_lower = folder.name.lower()
+                    # Check if search term is in folder name
+                    if search_term in folder_lower:
+                        matches.append(folder)
+                
+                if len(matches) == 0:
+                    print(f"❌ No sets found matching '{choice}'")
+                    continue
+                elif len(matches) == 1:
+                    print(f"✓ Found: {matches[0].name}")
+                    confirm = input("Download this set? (y/n): ").strip().lower()
+                    if confirm == 'y':
+                        return matches
+                    else:
+                        continue
+                else:
+                    # Multiple matches - show submenu
+                    print(f"\n🔍 Found {len(matches)} matching sets:")
+                    for idx, folder in enumerate(matches, 1):
+                        print(f"  {idx}. {folder.name}")
+                    print(f"  {len(matches) + 1}. Download ALL matched sets")
+                    
+                    sub_choice = input(f"\nSelect (1-{len(matches) + 1}) or 'c' to cancel: ").strip()
+                    
+                    if sub_choice.lower() == 'c':
+                        continue
+                    
+                    try:
+                        sub_num = int(sub_choice)
+                        if 1 <= sub_num <= len(matches):
+                            return [matches[sub_num - 1]]
+                        elif sub_num == len(matches) + 1:
+                            return matches
+                        else:
+                            print(f"❌ Invalid choice")
+                            continue
+                    except ValueError:
+                        print(f"❌ Invalid input")
+                        continue
         
-        except ValueError:
-            print("Invalid input. Please enter a number or 'q' to quit.")
+        except KeyboardInterrupt:
+            print("\n\nOperation cancelled by user.")
+            return None
 
 async def main():
     """Main function to download images for selected sets"""
@@ -257,3 +342,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+    
