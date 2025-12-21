@@ -83,6 +83,38 @@ def get_ptcgo_code_for_set(folder_name):
     
     return None
 
+def execute_saved_url_strategy(driver, card_info, existing_results, thread_id):
+    """Execute saved URL strategy - reuse URL from existing results"""
+    key = f"{card_info['set_folder']}_{card_info['filename']}"
+    
+    if key not in existing_results:
+        return None
+    
+    saved_result = existing_results[key]
+    saved_url = saved_result.get('url')
+    
+    if not saved_url:
+        return None
+    
+    print(f"    [{thread_id}] 🔗 Reusing saved URL")
+    prices, product_name = try_scrape_url(driver, saved_url, thread_id)
+    
+    if prices:
+        cache_key = get_cache_key(card_info)
+        save_strategy_cache(cache_key, "saved_url")
+        
+        return {
+            'card_info': card_info,
+            'product_name': product_name,
+            'url': saved_url,
+            'prices': prices,
+            'scrape_timestamp': time.strftime('%Y-%m-%d %H:%M:%S'),
+            'success': True,
+            'strategy': 'saved_url'
+        }
+    
+    return None
+
 def execute_ptcgo_code_strategy(driver, card_info, thread_id):
     """Execute ptcgoCode strategy"""
     ptcgo_code = card_info.get('ptcgo_code')
@@ -597,10 +629,27 @@ def try_strategy_first(driver, card_info, english_names, strategy, thread_id):
 def get_cache_key(card_info):
     return card_info["set_folder"]
 
-def scrape_single_card(driver, url, card_info, english_names, strategy_cache, price_history):
+def scrape_single_card(driver, url, card_info, english_names, strategy_cache, price_history, existing_results):
     """Scrape price data for a single card with multiple fallback strategies"""
     thread_id = threading.current_thread().name
     tried_strategies = set()
+
+    # 0️⃣ FIRST: Try saved URL strategy
+    print(f"    [{thread_id}] 🎯 Trying saved URL first")
+    result = execute_saved_url_strategy(driver, card_info, existing_results, thread_id)
+    if result:
+        # Update price history...
+        price_30d = extract_30d_price(result.get('prices', {}))
+        today = datetime.now().strftime('%Y-%m-%d')
+        uid = build_card_uid(card_info)
+        history = price_history.get(uid, [])
+        if price_30d is not None and (not history or history[-1]['date'] != today):
+            history.append({"date": today, "price": price_30d})
+        price_history[uid] = history
+        result['price_history'] = history
+        return result
+    
+    time.sleep(15)
     
     # Try cached strategies FIRST (per set)
     cache_key = get_cache_key(card_info)
@@ -631,7 +680,8 @@ def scrape_single_card(driver, url, card_info, english_names, strategy_cache, pr
             price_history[uid] = history
             result['price_history'] = history
             return result
-    
+
+        
     # Try all strategies in order
     strategies = [
         ('direct_url', lambda: execute_direct_url_strategy(driver, card_info, thread_id)),
@@ -656,6 +706,8 @@ def scrape_single_card(driver, url, card_info, english_names, strategy_cache, pr
         if result:
             print(f"    [{thread_id}] ✅ Success with {strategy_name}!")
             return result
+        
+        time.sleep(5)
     
     # All strategies failed
     print(f"    [{thread_id}] ✗ No prices found after trying all strategies")
@@ -963,7 +1015,7 @@ def execute_search_strategy(driver, card_info, english_names, thread_id):
     print(f"    [{thread_id}] ✗ Search failed (including English fallback)")
     return None
       
-def worker_thread(thread_id, task_queue, results_list, output_file, save_interval, price_history):
+def worker_thread(thread_id, task_queue, results_list, output_file, save_interval, price_history, existing_results):
     """Worker thread that processes cards from the queue"""
     print(f"[Thread-{thread_id}] Starting worker thread")
     
@@ -996,7 +1048,7 @@ def worker_thread(thread_id, task_queue, results_list, output_file, save_interva
                 
                 url, card_info, english_names= task
                 
-                result = scrape_single_card(driver, url, card_info, english_names, strategy_cache, price_history)
+                result = scrape_single_card(driver, url, card_info, english_names, strategy_cache, price_history, existing_results)
                 results_list.append(result)
                 cards_processed += 1
                 
@@ -1126,7 +1178,7 @@ def scan_and_scrape(base_folder, output_file=None, num_threads=4):
     for i in range(num_threads):
         thread = threading.Thread(
             target=worker_thread,
-            args=(i+1, task_queue, all_results, output_file, save_interval, price_history),
+            args=(i+1, task_queue, all_results, output_file, save_interval, price_history, existing_results),
             name=f"Thread-{i+1}"
         )
         thread.start()
