@@ -3,8 +3,9 @@
 *.jpg
 *.png
 *.webp
-collection*
+*collection*
 my_pokemon*
 *.csv
 *.json
 *.pkl
+.txt
