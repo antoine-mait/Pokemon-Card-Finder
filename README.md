@@ -7,7 +7,7 @@ A comprehensive Python toolkit for managing, organizing, and valuating your Pok�
 This suite of tools helps collectors and sellers streamline their Pokémon card management through:
 
 - **Automated card identification** using computer vision
-- **Multi-language support** (EN, FR, DE, ES, IT, JA, KO, PT)
+- **Multi-language support** (EN, FR, DE, JA)
 - **Market price tracking** via CardMarket scraping
 - **Inventory management** with CSV export for TCG platforms
 - **Learning system** that improves accuracy over time
@@ -52,13 +52,7 @@ pip install opencv-python numpy pillow undetected-chromedriver selenium beautifu
 
 1. **Clone or download this repository**
 
-2. **Install dependencies:**
-
-```bash
-pip install -r requirements.txt
-```
-
-3. **Set up folder structure:**
+2. **Set up folder structure:**
 
 ```
 YourProject/
@@ -107,7 +101,7 @@ PokemonCardLists/Card_Sets/
     ├── CardList_SETID_en.csv
     ├── CardList_SETID_fr.csv
     ├── CardList_SETID_de.csv
-    └── ...
+    └── CardList_SETID_ja.csv
 ```
 
 #### Step 2: Download Card Images
@@ -171,7 +165,7 @@ YourCardCollection/
         └── ...
 ```
 
-**Important:** Cards must be in pairs (front + back) with sequential numbering.
+**Important:** Cards must be in pairs (front + back) with sequential numbering. ( image 1 Front , Image 2 Back , Image 3 Front ect...)
 
 ### Usage
 
@@ -206,11 +200,11 @@ python Main_Renamer_learning.py
 [FR] MATCH REQUEST
 =============================================================
   Top matches:
-    1. Meganium (#154) - 0.342
-    2. Typhlosion (#157) - 0.298
-    3. Feraligatr (#155) - 0.287
+    1. Meganium (#154) - 0.210
+    2. Typhlosion (#157) - 0.098
+    3. Feraligatr (#155) - 0.087
 
-  ✓ Best: Meganium (0.342)
+  ✓ Best: Meganium (0.210)
 
   👀 CHECK THE COMPARISON WINDOW!
   [FR] Accept 'Meganium'? (y/n): 
@@ -269,7 +263,7 @@ Scrapes current market prices from CardMarket for your entire collection, tracki
 - `CardMarketScrapper.py`
 
 ### Features
-- **Multi-threaded scraping** (configurable threads)
+- **Multi-threaded scraping** (configurable threads dont use more than 6)
 - **Multiple search strategies** with caching
 - **Rate limiting** to avoid detection
 - **Price history tracking** (30-day average)
@@ -348,7 +342,7 @@ The scraper remembers which strategy worked for each set, making future scrapes 
 **Adjust thread count:**
 
 ```python
-num_threads = 4  # Default: 4 threads
+num_threads = 4  #(4 Is max i used , splitting the screen in 4 as CloudFlare ask for user Input from time to time)
 ```
 
 **Language support:**
@@ -389,6 +383,7 @@ Base folder path (D:\05-Pokemon\01-Collection or D:\05-Pokemon\02-vente):
 3. Loads English names from CardList CSVs
 4. Matches set codes using `all_sets_full.json`
 5. Generates inventory CSV
+6. Import CSV in TCG PowerTool , linked to your CardMarket to list all card in one go
 
 **Output:** `pokemon_cards_inventory.csv`
 
@@ -430,19 +425,14 @@ csv_data.append({
 ### Known Issues
 
 1. **eBay API Limitations:**
-   - Free "sandbox" API doesn't allow actual listing creation
-   - Production API requires eBay business account ($$$)
+   - Free API doesn't allow actual listing creation
+   - Production API requires eBay business account
    - Testing limited to XML validation only
 
 2. **Image Upload Problems:**
    - eBay requires HTTPS URLs for images
    - Attempted Cloudinary integration has authentication issues
    - eBay's own image hosting (EPS) requires complex OAuth flow
-
-3. **Authentication Challenges:**
-   - OAuth token generation complex
-   - User consent required for production
-   - Sandbox tokens don't persist
 
 ### Scripts
 - `ebay_listing_creator.py` - Main creator (non-functional)
@@ -569,24 +559,6 @@ Project/
 - **Cause:** Poor photo quality, glare, or damaged cards
 - **Solution:** Retake photos or manually verify matches
 
-### Scraper Issues
-
-**Problem:** "No prices found after trying all strategies"
-
-- **Solution 1:** Card might not be on CardMarket yet
-- **Solution 2:** Set code might be incorrect
-- **Solution 3:** Try increasing thread sleep time
-
-**Problem:** Getting blocked/rate limited
-
-- **Solution 1:** Reduce thread count to 1-2
-- **Solution 2:** Increase delays between requests
-- **Solution 3:** Use VPN or wait 24 hours
-
-**Problem:** Wrong prices returned
-
-- **Solution:** Check URL in output JSON, verify it's the correct card
-
 ### CSV Generation Issues
 
 **Problem:** Set code showing as "UNKNOWN"
@@ -638,25 +610,17 @@ if sys.platform == 'win32':
    - Batch process similar sets together
 
 2. **Module 3 (Scraping):**
-   - Start with 1 thread, increase gradually
-   - Run overnight for large collections
+   - Run with human supervision as CloudFlare ask for input
    - Check `set_strategy_cache.json` to see which sets need work
-
-3. **Storage:**
-   - Original photos: ~2-5 MB each
-   - Cropped cards: ~500 KB each
-   - Reference images: ~200 KB each
-   - Budget ~1 GB per 200 cards
 
 ---
 
-## 🤝 Contributing
+## 📝 Note
 
-This is a personal project but feel free to:
-- Report bugs via issues
-- Suggest improvements
-- Share your success stories
-- Fork and adapt for your needs
+This is a personal project to learn and practice. I'm not sure it's really time efficient, but i wanted to know my collection value, 
+and save all my card picture ( Just in case ).
+The collection_list.txt can be used in PriceCharting to get almost the same price as PriceMarket without the scraping Method. 
+This project was done mainly on Wizard Card from the 2000. It might struggle with some sets for the cropping section. Have fun 
 
 ---
 
@@ -668,10 +632,8 @@ This project is for personal use. Pokémon and related trademarks are property o
 
 ## 🙏 Credits
 
-- **TCGdex API** - Card data and images
-- **CardMarket** - Price data
-- **OpenCV** - Computer vision
-- **Python Community** - Amazing libraries
+- **TCGdex API** - Card data and images ( Free and perfect )
+- **CardMarket** - Price data ( Thank for gateKeeping the API )
 
 ---
 
@@ -679,8 +641,7 @@ This project is for personal use. Pokémon and related trademarks are property o
 
 For questions or issues:
 1. Check this README thoroughly
-2. Review the Troubleshooting section
-3. Check script comments for detailed explanations
-4. Test with a small set first before processing entire collection
+2. Check script comments for detailed explanations
+3. Test with a small set first before processing entire collection
 
 **Happy collecting! 🎴**
